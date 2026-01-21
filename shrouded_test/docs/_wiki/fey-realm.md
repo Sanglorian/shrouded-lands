@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "Fey-Realm"
+title: Fey-Realm
 pageid: 3470
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Fey-Realm"
+original_url: https://shrouded-lands.fandom.com/wiki/Fey-Realm
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: Land of Fairy
 ---
 
 #REDIRECT[[Land of Fairy]]

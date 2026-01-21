@@ -1,13 +1,15 @@
 ---
 layout: wiki_page
-title: "Abbalah-Doon"
+title: Abbalah-Doon
 pageid: 2863
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Abbalah-Doon"
+original_url: https://shrouded-lands.fandom.com/wiki/Abbalah-Doon
 categories:
-  - "Category:Gnolls"
-  - "Category:Villages"
+- Category:Gnolls
+- Category:Villages
 media: []
+is_redirect: true
+redirect_to: '15.28'
 ---
 
 #REDIRECT[[15.28]]

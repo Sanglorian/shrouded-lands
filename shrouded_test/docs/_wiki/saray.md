@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "Saray"
+title: Saray
 pageid: 2856
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Saray"
+original_url: https://shrouded-lands.fandom.com/wiki/Saray
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: Asrigh
 ---
 
 #REDIRECT[[Asrigh]]

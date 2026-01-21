@@ -1,14 +1,16 @@
 ---
 layout: wiki_page
-title: "Elwen"
+title: Elwen
 pageid: 2941
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Elwen"
+original_url: https://shrouded-lands.fandom.com/wiki/Elwen
 categories:
-  - "Category:Browncloaks"
-  - "Category:Characters"
-  - "Category:Snickersnees"
+- Category:Browncloaks
+- Category:Characters
+- Category:Snickersnees
 media: []
+is_redirect: true
+redirect_to: '08.01'
 ---
 
 #REDIRECT[[08.01]]

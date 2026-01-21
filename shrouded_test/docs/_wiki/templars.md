@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "Templars"
+title: Templars
 pageid: 3210
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Templars"
+original_url: https://shrouded-lands.fandom.com/wiki/Templars
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: Canes Sanguis
 ---
 
 #REDIRECT[[Canes Sanguis]]

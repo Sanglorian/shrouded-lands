@@ -1,12 +1,13 @@
 ---
 layout: wiki_page
-title: "The Laws of Thring"
+title: The Laws of Thring
 pageid: 4089
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/The_Laws_of_Thring"
-categories:
-  []
+original_url: https://shrouded-lands.fandom.com/wiki/The_Laws_of_Thring
+categories: []
 media: []
+is_redirect: true
+redirect_to: Laws of Thring
 ---
 
 #REDIRECT [[Laws of Thring]]

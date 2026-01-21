@@ -1,13 +1,15 @@
 ---
 layout: wiki_page
-title: "Devils"
+title: Devils
 pageid: 4047
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Devils"
+original_url: https://shrouded-lands.fandom.com/wiki/Devils
 categories:
-  - "Category:Creatures"
-  - "Category:Fiends"
+- Category:Creatures
+- Category:Fiends
 media: []
+is_redirect: true
+redirect_to: Fiends
 ---
 
 #REDIRECT[[Fiends]]

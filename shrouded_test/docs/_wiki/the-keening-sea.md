@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "The Keening Sea"
+title: The Keening Sea
 pageid: 2857
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/The_Keening_Sea"
+original_url: https://shrouded-lands.fandom.com/wiki/The_Keening_Sea
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: Keening Sea
 ---
 
 #REDIRECT[[Keening Sea]]

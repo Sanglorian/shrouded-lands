@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "Shuttered"
+title: Shuttered
 pageid: 3047
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered"
+original_url: https://shrouded-lands.fandom.com/wiki/Shuttered
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: City of Shuttered Windows
 ---
 
 #REDIRECT[[The City Itself]]

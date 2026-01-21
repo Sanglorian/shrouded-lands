@@ -1,12 +1,14 @@
 ---
 layout: wiki_page
-title: "Tehaar"
+title: Tehaar
 pageid: 3459
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Tehaar"
+original_url: https://shrouded-lands.fandom.com/wiki/Tehaar
 categories:
-  - "Category:Synonyms"
+- Category:Synonyms
 media: []
+is_redirect: true
+redirect_to: Tehaar the Huntress
 ---
 
 #REDIRECT[[Tehaar the Huntress]]

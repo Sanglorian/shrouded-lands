@@ -1,12 +1,13 @@
 ---
 layout: wiki_page
-title: "The Westmarches"
+title: The Westmarches
 pageid: 3372
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/The_Westmarches"
-categories:
-  []
+original_url: https://shrouded-lands.fandom.com/wiki/The_Westmarches
+categories: []
 media: []
+is_redirect: true
+redirect_to: Westmarches
 ---
 
 #REDIRECT [[Westmarches]]

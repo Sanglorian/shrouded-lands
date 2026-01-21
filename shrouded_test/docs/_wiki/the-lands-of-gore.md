@@ -1,12 +1,13 @@
 ---
 layout: wiki_page
-title: "The Lands of Gore"
+title: The Lands of Gore
 pageid: 3111
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/The_Lands_of_Gore"
-categories:
-  []
+original_url: https://shrouded-lands.fandom.com/wiki/The_Lands_of_Gore
+categories: []
 media: []
+is_redirect: true
+redirect_to: Hills of Gore
 ---
 
 #REDIRECT [[Hills of Gore]]

@@ -1,14 +1,16 @@
 ---
 layout: wiki_page
-title: "Shalebats"
+title: Shalebats
 pageid: 2579
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Shalebats"
+original_url: https://shrouded-lands.fandom.com/wiki/Shalebats
 categories:
-  - "Category:Bats"
-  - "Category:Creatures"
-  - "Category:The World's Edge and Beyond"
+- Category:Bats
+- Category:Creatures
+- Category:The World's Edge and Beyond
 media: []
+is_redirect: true
+redirect_to: Lufwood
 ---
 
 #REDIRECT [[Lufwood]]

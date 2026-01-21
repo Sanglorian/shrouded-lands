@@ -1,12 +1,13 @@
 ---
 layout: wiki_page
-title: "Moon"
+title: Moon
 pageid: 3205
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Moon"
-categories:
-  []
+original_url: https://shrouded-lands.fandom.com/wiki/Moon
+categories: []
 media: []
+is_redirect: true
+redirect_to: The moon
 ---
 
 #REDIRECT[[The moon]]
