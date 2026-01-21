@@ -1,0 +1,17 @@
+---
+layout: wiki_page
+title: "Lady Naideen"
+pageid: 3586
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Naideen"
+categories:
+  - "Category:Characters"
+  - "Category:Nobles"
+  - "Category:The Duchy of Thring"
+media: []
+---
+
+Lady Naideen is the heir of Castle Dinivar ([[17.11]]). See that hex for more details.
+[[Category:The Duchy of Thring]]
+[[Category:Nobles]]
+[[Category:Characters]]

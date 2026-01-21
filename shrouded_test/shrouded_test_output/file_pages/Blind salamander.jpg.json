@@ -1,0 +1,71 @@
+{
+  "pageid": 2429,
+  "ns": 6,
+  "title": "File:Blind salamander.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-26T06:44:29Z",
+      "user": "Sanglorian",
+      "size": 36118,
+      "width": 392,
+      "height": 252,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f6/Blind_salamander.jpg/revision/latest?cb=20131026064429",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_salamander.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2429",
+      "sha1": "1b75e3411bdb54fe9b64c6a35c44768580124ae3",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "Software",
+          "value": "Shotwell 0.12.3"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "392"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "252"
+        },
+        {
+          "name": "ImageWidth",
+          "value": "1"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4720,
+      "parentid": 4715,
+      "timestamp": "2013-10-26T06:46:28Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "== Details ==\nFrom Meyers Konversationslexikon, http://commons.wikimedia.org/wiki/File:Meyers_b14_s0686a.jpg (public domain)\n== Licensing ==\n{{From Wikimedia}}"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-01-15T21:59:24Z",
+  "lastrevid": 4720,
+  "length": 162,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_salamander.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_salamander.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_salamander.jpg"
+}

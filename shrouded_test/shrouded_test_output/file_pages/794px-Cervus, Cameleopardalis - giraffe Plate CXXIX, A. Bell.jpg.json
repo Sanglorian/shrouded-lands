@@ -1,0 +1,55 @@
+{
+  "pageid": 2743,
+  "ns": 6,
+  "title": "File:794px-Cervus, Cameleopardalis - giraffe Plate CXXIX, A. Bell.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-01T09:14:59Z",
+      "user": "Sanglorian",
+      "size": 239640,
+      "width": 794,
+      "height": 1024,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/b/ba/794px-Cervus%2C_Cameleopardalis_-_giraffe_Plate_CXXIX%2C_A._Bell.jpg/revision/latest?cb=20131101091459",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:794px-Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2743",
+      "sha1": "c260a6ac5f71d154730396c83d4e1c3ccd536e7e",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "File source: http://commons.wikimedia.org/wiki/File:Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5886,
+      "parentid": 5884,
+      "timestamp": "2013-11-01T09:15:18Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-01T09:15:18Z",
+  "lastrevid": 5886,
+  "length": 113,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:794px-Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:794px-Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:794px-Cervus,_Cameleopardalis_-_giraffe_Plate_CXXIX,_A._Bell.jpg"
+}

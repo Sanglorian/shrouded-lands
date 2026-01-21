@@ -1,0 +1,59 @@
+{
+  "pageid": 3288,
+  "ns": 6,
+  "title": "File:Blind monks examining an elephant.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:52:04Z",
+      "user": "Sanglorian",
+      "size": 3291636,
+      "width": 4030,
+      "height": 2920,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/4/45/Blind_monks_examining_an_elephant.jpg/revision/latest?cb=20131123055204",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_monks_examining_an_elephant.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3288",
+      "sha1": "01747dde73d73dcf8244d8d2ebd9dc3b86d73e68",
+      "metadata": [
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "Rating",
+          "value": "0"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7267,
+      "parentid": 7265,
+      "timestamp": "2013-11-23T05:53:24Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Blind_monks_examining_an_elephant.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:53:24Z",
+  "lastrevid": 7267,
+  "length": 92,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_monks_examining_an_elephant.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_monks_examining_an_elephant.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Blind_monks_examining_an_elephant.jpg"
+}

@@ -1,0 +1,89 @@
+{
+  "pageid": 4014,
+  "ns": 6,
+  "title": "File:Shutt-nec.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:56:12Z",
+      "user": "Sanglorian",
+      "size": 333376,
+      "width": 433,
+      "height": 725,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/33/Shutt-nec.png/revision/latest?cb=20141026085612",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-nec.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4014",
+      "sha1": "c15c8ee24b34e126993d51394bc9581fc66569da",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9181,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:56:12Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:56:47Z",
+  "lastrevid": 9181,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-nec.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-nec.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-nec.png"
+}

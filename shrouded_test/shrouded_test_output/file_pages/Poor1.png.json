@@ -1,0 +1,89 @@
+{
+  "pageid": 3764,
+  "ns": 6,
+  "title": "File:Poor1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:10:28Z",
+      "user": "Sanglorian",
+      "size": 361292,
+      "width": 441,
+      "height": 655,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e0/Poor1.png/revision/latest?cb=20141025051028",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Poor1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3764",
+      "sha1": "85d4b77fc7bd6935d805d4be8f570f9516ff8b20",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8720,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:10:28Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:10:56Z",
+  "lastrevid": 8720,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Poor1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Poor1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Poor1.png"
+}

@@ -1,0 +1,83 @@
+{
+  "pageid": 3673,
+  "ns": 6,
+  "title": "File:Klimt - Die feindlichen Gewalten.jpeg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-21T14:17:01Z",
+      "user": "Sanglorian",
+      "size": 8532475,
+      "width": 4506,
+      "height": 2880,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/06/Klimt_-_Die_feindlichen_Gewalten.jpeg/revision/latest?cb=20141021141701",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Klimt_-_Die_feindlichen_Gewalten.jpeg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3673",
+      "sha1": "dedb66717ada48b37d35265f3674fb90514e847a",
+      "metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "MP260 series"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "600/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "600/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Apple Image Capture"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8518,
+      "parentid": 8516,
+      "timestamp": "2014-10-21T14:18:38Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Klimt_-_Die_feindlichen_Gewalten.jpeg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-21T14:18:38Z",
+  "lastrevid": 8518,
+  "length": 92,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Klimt_-_Die_feindlichen_Gewalten.jpeg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Klimt_-_Die_feindlichen_Gewalten.jpeg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Klimt_-_Die_feindlichen_Gewalten.jpeg"
+}

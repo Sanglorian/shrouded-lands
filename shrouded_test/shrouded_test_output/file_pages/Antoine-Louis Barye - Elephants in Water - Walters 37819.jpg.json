@@ -1,0 +1,51 @@
+{
+  "pageid": 3294,
+  "ns": 6,
+  "title": "File:Antoine-Louis Barye - Elephants in Water - Walters 37819.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T06:06:55Z",
+      "user": "Sanglorian",
+      "size": 1026195,
+      "width": 1202,
+      "height": 793,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d8/Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg/revision/latest?cb=20131123060655",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3294",
+      "sha1": "03f3cbbf3ca43c3d4615e7f54908dad1d3175f93",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7283,
+      "parentid": 7281,
+      "timestamp": "2013-11-23T06:07:23Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T06:07:23Z",
+  "lastrevid": 7283,
+  "length": 115,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg"
+}

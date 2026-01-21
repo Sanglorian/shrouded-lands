@@ -1,0 +1,25 @@
+---
+layout: wiki_page
+title: Penderghasts
+pageid: 2596
+namespace: 0
+original_url: https://shrouded-lands.fandom.com/wiki/Penderghasts
+categories:
+- Category:Families
+- Category:Penderghasts
+- Category:Witch Clans
+media: []
+---
+Though one of the Witch Clans they swear fealty to the **Duchy of Thring** and hold their mountain fortress in his name. And quite a fortress it is. The power that runs in their line allows them to disintegrate any object with a mere thought and they have used this to dig tunnels under their mountain ([24.13](/wiki/24-13/)).
+
+Portos Penderghast disintegrated one section of rock too many and brought the mountain down on his family’s heads. Nearly all of the Penderghasts were killed on that day, leading Honorius Penderghast to marry a Lady of the House of **Thring** rather than his cousin. Honorius has only had one son by this union and, while his father loves him dearly, he shows none of the power of his clan. In order to hide this fact Honorius has bound his son's eyes with a blindfold, claiming that his disintegrating power is so strong that anyone he casts his eyes on would surely be destroyed. Honorius spends his days poring over charts trying to discern which distant cousin to marry his son to so that he would be able to obtain a gifted grandson. He knows that if his foes learned of this weakness it would be the doom of his family and those he is sworn to protect.
+
+For the Witch Clans to the south hate the Penderghasts. Following the fall of the Maddlows ([23.19](/wiki/23-19/)), the knights of **Thring** were able to pacify the Witch Clans for a time and rich trade flowed unimpeded down the River of Crystal Waters down from the North to the Keening Sea and the city of **Blind Midshotgatepool** grew quickly. Much of this was thanks to the Penderghast Clan, the Lords Under the Mountain, who allied with the Dukes of **Thring** and received rich gifts. At this time, Gishard Penderghast looted Maddlow Castle, disintegrating great holes in its walls in hopes of finding any hidden treasure. If he found any, he never told but his searches have left the walls of Maddlow Castle perilously weakened.
+
+For a time the Witch Clans were cowed for those who opposed the Penderghasts were disintegrated into muck and ashes but the Clans are unruly and the Penderghasts have never been numerous and soon travel down the River of Crystal Waters was as perilous as ever. In this time the alliance between the Lords Under the Mountain and Thring grew ever tighter until Penderghast land was formally annexed nearly a century ago. Since then, the land has officially been the personal fief of the Duke himself, but each Duke appoints a Penderghast as "steward" of their mountain, which had allowed the male line of the Penderghasts to remain in power.
+## =Hooks:=
+* Why did Portos Penderghast cause the mountain to fall on (most of) his family's home? Was it just an accident?
+* Did Gishard Penderghast find any treasure?
+* Does anyone know that the Penderghast heir has no power to disintegrate anyone? Does the heir know? How does he feel about his father blindfolding him?
+* Who is Honorius planning on marrying his son to? The pickings are pretty slim... How does he son feel about his marital prospects?
+* Are there any Witch Clans who live under the protection of the Penderghasts?

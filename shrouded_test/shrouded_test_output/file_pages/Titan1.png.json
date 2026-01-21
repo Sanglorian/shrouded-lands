@@ -1,0 +1,89 @@
+{
+  "pageid": 3747,
+  "ns": 6,
+  "title": "File:Titan1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:45:01Z",
+      "user": "Sanglorian",
+      "size": 458692,
+      "width": 475,
+      "height": 671,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/61/Titan1.png/revision/latest?cb=20141025004501",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Titan1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3747",
+      "sha1": "57e88c079191cb87b2effe86a7be4c59a00221e9",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8688,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:45:01Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:45:17Z",
+  "lastrevid": 8688,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Titan1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Titan1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Titan1.png"
+}

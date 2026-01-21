@@ -1,0 +1,55 @@
+{
+  "pageid": 3633,
+  "ns": 6,
+  "title": "File:Dodo and Smew from a 1627 painting.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T22:41:25Z",
+      "user": "Sanglorian",
+      "size": 177672,
+      "width": 866,
+      "height": 716,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/c1/Dodo_and_Smew_from_a_1627_painting.jpg/revision/latest?cb=20141013224125",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_and_Smew_from_a_1627_painting.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3633",
+      "sha1": "6483f3d76232f91e7b9cd8bd6214df7f4fab7335",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "LEAD Technologies Inc. V1.01"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8375,
+      "parentid": 8373,
+      "timestamp": "2014-10-13T22:41:54Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Dodo_and_Smew_from_a_1627_painting.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T22:41:54Z",
+  "lastrevid": 8375,
+  "length": 93,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_and_Smew_from_a_1627_painting.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_and_Smew_from_a_1627_painting.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_and_Smew_from_a_1627_painting.jpg"
+}

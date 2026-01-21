@@ -1,0 +1,15 @@
+{
+  "pageid": 1520,
+  "ns": 10,
+  "title": "Template:Wikipedia",
+  "content": "{| align=center border=0 cellpadding=3 cellspacing=3 style=\"border: 1px solid #E0E0E0; background-color: #F8F8F8; color:black;\"\n|- \n| style=\"font-size: 90%\" | This page uses [[w:Wikia:Licensing|Creative Commons Licensed]] content from [[Wikipedia:{{{1|{{FULLPAGENAME}}}}}|Wikipedia]] ([http://en.wikipedia.org/w/index.php?title={{urlencode:{{{1|{{FULLPAGENAME}}}}}}}&action=history view authors)]. \n|}<noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3815,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Wikipedia"
+}

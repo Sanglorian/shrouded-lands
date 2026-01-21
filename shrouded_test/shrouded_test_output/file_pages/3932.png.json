@@ -1,0 +1,89 @@
+{
+  "pageid": 3832,
+  "ns": 6,
+  "title": "File:3932.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T06:36:52Z",
+      "user": "Sanglorian",
+      "size": 636084,
+      "width": 656,
+      "height": 485,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/08/3932.png/revision/latest?cb=20141025063652",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:3932.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3832",
+      "sha1": "a1acf4e376827e23a3dff7bdf1592db609019f0b",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8850,
+      "parentid": 0,
+      "timestamp": "2014-10-25T06:36:52Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T06:37:32Z",
+  "lastrevid": 8850,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:3932.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:3932.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:3932.png"
+}

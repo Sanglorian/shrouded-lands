@@ -1,0 +1,51 @@
+{
+  "pageid": 2648,
+  "ns": 6,
+  "title": "File:8775854218 c0815c0cb4 b.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T03:45:57Z",
+      "user": "Sanglorian",
+      "size": 621347,
+      "width": 695,
+      "height": 1024,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/04/8775854218_c0815c0cb4_b.jpg/revision/latest?cb=20131031034557",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:8775854218_c0815c0cb4_b.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2648",
+      "sha1": "477c29b2088dd42652c637760593df8c93236fcf",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5630,
+      "parentid": 5628,
+      "timestamp": "2013-10-31T03:47:06Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://monsterbrains.blogspot.com.au/2013/05/frank-cheyne-pape.html"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T03:47:06Z",
+  "lastrevid": 5630,
+  "length": 83,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:8775854218_c0815c0cb4_b.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:8775854218_c0815c0cb4_b.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:8775854218_c0815c0cb4_b.jpg"
+}

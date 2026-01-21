@@ -1,0 +1,51 @@
+{
+  "pageid": 3281,
+  "ns": 6,
+  "title": "File:Marc - Der Tiger.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:31:39Z",
+      "user": "Sanglorian",
+      "size": 95941,
+      "width": 1232,
+      "height": 1360,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d0/Marc_-_Der_Tiger.jpg/revision/latest?cb=20131123053139",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Marc_-_Der_Tiger.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3281",
+      "sha1": "cb7d1fb55632411892260de070b17337816db866",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7254,
+      "parentid": 7249,
+      "timestamp": "2013-11-23T05:34:57Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Marc_-_Der_Tiger.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:34:57Z",
+  "lastrevid": 7254,
+  "length": 75,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Marc_-_Der_Tiger.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Marc_-_Der_Tiger.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Marc_-_Der_Tiger.jpg"
+}

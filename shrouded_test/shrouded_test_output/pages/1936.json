@@ -1,0 +1,15 @@
+{
+  "pageid": 1936,
+  "ns": 10,
+  "title": "Template:T/doc",
+  "content": ";Description\n:A template link with a variable number of example parameters (0-20), which can be used to show example inputs.\n:Utilises [[Template:T/piece]].\n;Syntax\n:{{t|t|parameter1|parameter2|parameter3|parameter4|...|parameter20}}\n;Sample code\n:<code><nowiki>{{t|welcome}}</nowiki></code> gives...\n:{{t|welcome}}\n:<code><nowiki>{{t|welcome|Item1|Item2|Item3|Item4|Item5|...}}</nowiki></code> gives...\n:{{t|welcome|Item1|Item2|Item3|Item4|Item5|...}}\n;See also\n:[[w:c:wow:Template:T|Template:T]] on WoWWiki\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3439,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:T/doc"
+}

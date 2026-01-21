@@ -1,0 +1,287 @@
+aliases:
+  '01.03': everdark
+  '02.11': the-cross
+  '05.24': ninbolm
+  '0520': '05.20'
+  '06.10': the-ziggurat
+  '08.27': zaal
+  '09.24': olgam-and-oskill
+  '16.14': '18.14'
+  '19.31': jahur
+  '23.11': winds
+  '24.26': azurnay
+  '26.20': blind-midshotgatepool
+  '29.07': holt-of-the-bloodied-king
+  '29.14': city-of-shuttered-windows
+  '38.28': bergolast
+  '40.20': hyfalls
+  '43.12': monatheron
+  '48.18': sosaria
+  '48.32': golden-light
+  '48.33': golden-light
+  '49.32': golden-light
+  '51.29': city-of-smoke
+  aarokocra: aarakocra
+  abbalah-doon: '15.28'
+  abdul: '05.04'
+  abdul zassiz: '05.04'
+  aboleths: aboleth
+  anselm brucoloc: '08.21'
+  'appendix a: astronomy': phenomena
+  'appendix c: creatures': creatures
+  'appendix d: dwarves': dwarves
+  'appendix f: flora': plants
+  'appendix n: nations': nations
+  'appendix o: organisations': organisations
+  'appendix p: professions': professions
+  'appendix s: spells': spells
+  august city: blind-midshotgatepool
+  barnabi: were-barnabi
+  basilisks: basilisk
+  breath of the earth: '12.28'
+  brigadier kalas: brigadier-kalas-montra-brey
+  brothers of the spear: temple-invisible
+  burning lands: the-burning-lands
+  cactogre: grandfather-cactus
+  cactogres: great-cacti
+  cat tree: cat-trees
+  chimera: lars
+  chimeric siege: chimerical-siege
+  city of jewels: jahur
+  city of many windows: city-of-shuttered-windows
+  city of the shuttered windows: city-of-shuttered-windows
+  clan battle beard: ishin-kaimanu
+  clan hagen: '22.02'
+  cloud and storm giants: pirate-kings
+  common: mud-tongue-and-high-tongue
+  common tongue: mud-tongue-and-high-tongue
+  copperheads: copperhairs
+  corn fields: cornfields
+  court of the steadfast: '20.13'
+  cransoms: haverlies-and-cransoms
+  cyclopses: cyclopes
+  dead men's tongues: dead-men's-tongues-3065
+  death’s lovelies: death's-lovelies
+  deep dwarves (nororak): deep-dwarves
+  deloc: duke-theloc
+  demons: fiends
+  destroying angel: '07.06'
+  devils: fiends
+  devil’s bible: devil's-bible
+  doge simone the fowl: simone-the-fowl
+  drinker’s stein: drinker's-stein
+  drogo the baldfaced: drogo
+  drow’s tears: drow's-tears
+  duke deloc: duke-theloc
+  duke of thring: duke-of-thring-(incumbent)
+  dukes of thring: ducal-family-of-thring
+  dungers: dungers-and-hallovers
+  dwarf fortresses: fastnesses
+  efreets: efreet
+  elemental being: elemental-beings
+  elhanen the silent: elhanen
+  elharen: elhanen
+  elharen the silent: elhanen
+  elwen: '08.01'
+  ettins: ettiennes
+  ever-winding worms: ever-winding-worm
+  father dorek: '03.07'
+  felix koldranson: flea
+  fey-realm: land-of-fairy
+  fifth duke of thring: fifth-duke-of-thring-4094
+  flux of jarmond: jarmond's-flux
+  forest of fancy: forests-of-fancy
+  galeb duhrs: galeb-duhr
+  ghostas: tenzerlins-and-ghostas
+  gischard penderghast: penderghasts
+  god in the jar: '44.19'
+  gold dragons: metallic-dragons
+  gore: hills-of-gore
+  gorean gray: gorean-greys
+  gorean grays: gorean-greys
+  gray mountains: grey-mountains
+  grey ooze: grey-oozes
+  gryphons: griffins
+  hair colour: hair
+  hallovers: dungers-and-hallovers
+  haverlies: haverlies-and-cransoms
+  helged bolgr: helged-bolger
+  hell: hells
+  hierophant: hierophants
+  high kings of gore: royal-family-of-gore
+  high tongue: mud-tongue-and-high-tongue
+  hinterlands of blindmidshotgatepool: hinterlands-of-blind-midshotgatepool
+  hoard: the-hoard
+  hoth achaar: '26.01'
+  hunting huts: '10.14'
+  iceplants: '39.31'
+  imps: fiends
+  iraine: iraine-the-suitor
+  ironsides: the-cross
+  kalas montra-brey: brigadier-kalas-montra-brey
+  king in splendour: king-in-splendor
+  koldran the mighty: koldran
+  kolfrosta: '03.13'
+  lady maratan: lady-natala
+  leviathans: whales
+  ley lines: leylines
+  lion in splendor: king-in-splendor
+  lizardfolk: lizardmen
+  lord of pain: alberon
+  lycanthropy: lycanthropes
+  mages: wizards
+  main page: the-shrouded-lands-wiki
+  moon: the-moon-2688
+  moon nuts: '50.02'
+  mounts of thring: mounts
+  mud platter: the-mud-platter
+  mud tongue: mud-tongue-and-high-tongue
+  night people: night-men
+  nordanbjorn: marche-of-the-winterjarl
+  north gate: north-gate-and-south-gate
+  oak: oaks
+  othonoi: '44.17'
+  paionian centaurs: '04.17'
+  palendar: the-weeper
+  pandelar: the-weeper
+  people of the claw: '48.13'
+  pirate kingdoms: pirate-kings
+  pirates: thieves
+  pork pie stannev: '25.04'
+  priests of baron autumn: sorcerers
+  princess of the seers: princess-of-seers
+  regulus verlime: verlimes
+  ribbon lotuses: wild-men
+  rojarshans: '28.07'
+  rustlers: thieves
+  sanguine lords: lords-sanguine
+  saray: asrigh
+  seeds of the sea: six-seas'-seeds
+  seven laws of thring: laws-of-thring
+  shadowed ballet: shadow-ballet
+  shadowed ballet dancers: shadow-ballet
+  shalebats: lufwood
+  shroomwine: shroom-wine
+  shuttered: city-of-shuttered-windows
+  shuttered and surrounds: shuttered-and-surrounds-2785
+  shuttered city: city-of-shuttered-windows
+  simone’s aviary: simone's-aviary
+  sir wayne: sir-waine
+  sons of dagon: abyss-diamonds
+  south gate: north-gate-and-south-gate
+  south marches: the-burning-lands
+  spears of the dawn: '50.02'
+  suitor's tower: iraine-the-suitor
+  suitor’s tower: iraine-the-suitor
+  sulgrim: '08.21'
+  sundial inn: '25.04'
+  swamp of champions: battle-of-the-hand
+  swine-harpies: '12.22'
+  swordsage: lord-kardash
+  tehaar: tehaar-the-huntress
+  templars: canes-sanguis
+  template:speedydelete: template-delete
+  template:welcip: template-welcomeip
+  tenzerlins: tenzerlins-and-ghostas
+  thaumaturges: wizards
+  the barrier range: barrier-range
+  the bitter coast: bitter-coast
+  the bloodied king: bloodied-king
+  the bolgers: bolgers
+  the bound bargainers: bound-bargainers
+  the brothers of the lion: brothers-of-the-lion
+  the browncloaks: browncloaks
+  the city itself: city-of-shuttered-windows
+  the corn fields: cornfields
+  the cornfields: cornfields
+  the daughter of ser gareth lemarr: daughter-of-ser-gareth-lemarr
+  the devil's fingers: devil's-fingers
+  the drinker’s stein: drinker's-stein
+  the drow: the-drow-of-olmsted-keep
+  the duchy of thring: duchy-of-thring
+  the dune walker: dune-walker
+  the dungers: dungers-and-hallovers
+  the faceless: the-drow-of-olmsted-keep
+  the faustys: faustys
+  the final heresy: temple-invisible
+  the forest of abominations: forest-of-abominations
+  the freeholds: freeholds
+  the green lady: green-lady
+  the grey mountains: grey-mountains
+  the gushing ruby: gushing-ruby
+  the hallovers: dungers-and-hallovers
+  the high kings of gore: royal-family-of-gore
+  the hills of gore: hills-of-gore
+  the holt of the bloodied lords: '03.31'
+  the imperium undying: imperium-undying
+  the keening sea: keening-sea
+  the king in splendor: king-in-splendor
+  the king in splendour: king-in-splendor
+  the king of salt and brine: king-of-salt-and-brine
+  the kingswood: kingswood
+  the lands of gore: hills-of-gore
+  the lands of the night cattle: lands-of-the-night-cattle
+  the last prophet of asrigh: last-prophet-of-asrigh
+  the laws of thring: laws-of-thring
+  the lion’s day: lion's-day
+  the long night: long-night
+  the lost colony: lost-colony
+  the maddlows: maddlows
+  the marche of the winterjarl: marche-of-the-winterjarl
+  the mirdenlows: mirdenlows
+  the moon: the-moon-2688
+  the order of the broken chain: '27.04'
+  the osseries: osseries
+  the pacharia: pacharia
+  the penderghasts: penderghasts
+  the pirate kings: pirate-kings
+  the prince of men: prince-of-men
+  the queen sinister: queen-sinister
+  the scarecrows: scarecrows
+  the sea of typhoons: sea-of-typhoons
+  the shuttered city: city-of-shuttered-windows
+  the singing wastes: singing-wastes
+  the song of ban and ulena: song-of-ban-and-ulena
+  the sons of dagon: abyss-diamonds
+  the sorcerer of tarengael town: sorcerer-of-tarengael-town
+  the stern way: stern-way
+  the sunless sea: sunless-sea
+  the tarrasque: tarrasque
+  the temple invisible: temple-invisible
+  the temple of alberon: temple-of-alberon
+  the tender hunt: tender-hunt
+  the traitor's pit: traitors'-pit
+  the twelve nations: twelve-nations
+  the unicorn: unicorn
+  the unifying theory of blood: unifying-theory-of-blood
+  the verlimes: verlimes
+  the westmarches: westmarches
+  the whispering sisters: whispering-sisters
+  the witch queen: witch-queen
+  the withered moors: withered-moors
+  the world's edge and beyond: world's-edge-and-beyond
+  the wrannows: wrannows
+  thorek ironhide: marche-of-the-winterjarl
+  thoth: last-prophet-of-asrigh
+  thring: duchy-of-thring
+  tiamat: dead-tiamat
+  traitor's pit: traitors'-pit
+  tycel: sir-waine
+  ulthar: ducal-family-of-thring
+  ulthar the loved: ducal-family-of-thring
+  vo tume: elves
+  waine: sir-waine
+  weeper: the-weeper
+  weresharks: lycanthropes
+  werewolves: lycanthropes
+  whirligig crabs: '44.19'
+  witch-hounds: witch-hounds-2458
+  witchmen: witch-clans
+  witchwater: the-witchwater
+  world beyond: world's-edge-and-beyond
+  world's edge: world's-edge-and-beyond
+  yaboons: blind-midshotgatepool
+  yabooons: blind-midshotgatepool
+  zhuriman empire: zhuriman
+  zoar rajak: '11.01'
+  zombies: sack-children

@@ -1,0 +1,68 @@
+{
+  "pageid": 3501,
+  "ns": 6,
+  "title": "File:Osteostraci Janvier.gif",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-01-10T15:47:50Z",
+      "user": "Sanglorian",
+      "size": 54416,
+      "width": 457,
+      "height": 393,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/6e/Osteostraci_Janvier.gif/revision/latest?cb=20140110154750",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Osteostraci_Janvier.gif",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3501",
+      "sha1": "4472f833ae95c62214179284dfcef388756e4502",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 1
+        },
+        {
+          "name": "looped",
+          "value": false
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "_MW_GIF_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/gif"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7888,
+      "parentid": 7885,
+      "timestamp": "2014-01-10T15:49:12Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Tauraspis, Hoelaspis, Tremataspis, Zenaspis' by Philippe Janvier on Wikimedia Commons. CC BY 3.0 Unported: http://en.wikipedia.org/wiki/File:Osteostraci_Janvier.gif"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-10T15:49:12Z",
+  "lastrevid": 7888,
+  "length": 181,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Osteostraci_Janvier.gif",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Osteostraci_Janvier.gif?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Osteostraci_Janvier.gif"
+}

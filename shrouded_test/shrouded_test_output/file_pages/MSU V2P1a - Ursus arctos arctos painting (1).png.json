@@ -1,0 +1,88 @@
+{
+  "pageid": 2655,
+  "ns": 6,
+  "title": "File:MSU V2P1a - Ursus arctos arctos painting (1).png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T04:03:48Z",
+      "user": "Sanglorian",
+      "size": 646834,
+      "width": 418,
+      "height": 613,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/53/MSU_V2P1a_-_Ursus_arctos_arctos_painting_%281%29.png/revision/latest?cb=20131031040348",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2655",
+      "sha1": "d1e8ebc73466512e45d4812888b7053ff37e8cf9",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5648,
+      "parentid": 5645,
+      "timestamp": "2013-10-31T04:04:46Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:MSU_V2P1a_-_Ursus_arctos_arctos_painting.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T04:04:46Z",
+  "lastrevid": 5648,
+  "length": 99,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png"
+}

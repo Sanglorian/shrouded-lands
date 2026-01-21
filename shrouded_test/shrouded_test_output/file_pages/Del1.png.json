@@ -1,0 +1,89 @@
+{
+  "pageid": 3767,
+  "ns": 6,
+  "title": "File:Del1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:14:06Z",
+      "user": "Sanglorian",
+      "size": 856149,
+      "width": 656,
+      "height": 839,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/de/Del1.png/revision/latest?cb=20141025051406",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Del1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3767",
+      "sha1": "e70b0145929ed2ab7fd1ef48a7a4befdbb7f5f5a",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8725,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:14:06Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:14:15Z",
+  "lastrevid": 8725,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Del1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Del1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Del1.png"
+}

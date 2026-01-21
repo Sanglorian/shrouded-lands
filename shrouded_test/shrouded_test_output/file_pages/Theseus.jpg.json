@@ -1,0 +1,51 @@
+{
+  "pageid": 3301,
+  "ns": 6,
+  "title": "File:Theseus.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T03:54:46Z",
+      "user": "Sanglorian",
+      "size": 31242,
+      "width": 303,
+      "height": 256,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/ff/Theseus.jpg/revision/latest?cb=20131124035446",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Theseus.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3301",
+      "sha1": "d0d1fc645b1ee7b03ad6946bfcbd5232e51bc00c",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7306,
+      "parentid": 7304,
+      "timestamp": "2013-11-24T03:55:06Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://upload.wikimedia.org/wikipedia/commons/f/ff/Theseus.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T03:55:06Z",
+  "lastrevid": 7306,
+  "length": 78,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Theseus.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Theseus.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Theseus.jpg"
+}

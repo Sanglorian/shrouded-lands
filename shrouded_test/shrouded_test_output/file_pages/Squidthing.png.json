@@ -1,0 +1,88 @@
+{
+  "pageid": 2631,
+  "ns": 6,
+  "title": "File:Squidthing.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T02:48:26Z",
+      "user": "Sanglorian",
+      "size": 2113077,
+      "width": 2576,
+      "height": 4028,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/b/b4/Squidthing.png/revision/latest?cb=20131031024826",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Squidthing.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2631",
+      "sha1": "839942228d7b5e7ba52aba1db2a737d50534c717",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "greyscale"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5593,
+      "parentid": 5591,
+      "timestamp": "2013-10-31T02:49:08Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Squid Thing', Michael Wight, ''Grim Portents 1 ''(CC BY-SA 3.0 Unported <[http://opengameart.org/content/fish-man-squid-thing-and-four-young-adventurers-retreating-from-a-goblin-from-grim-portents# http://opengameart.org/content/fish-man-squid-thing-and-four-young-adventurers-retreating-from-a-goblin-from-grim-portents]>"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T02:49:08Z",
+  "lastrevid": 5593,
+  "length": 341,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Squidthing.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Squidthing.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Squidthing.png"
+}

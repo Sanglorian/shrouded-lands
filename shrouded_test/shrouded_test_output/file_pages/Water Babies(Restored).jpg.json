@@ -1,0 +1,131 @@
+{
+  "pageid": 2665,
+  "ns": 6,
+  "title": "File:Water Babies(Restored).jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T04:37:15Z",
+      "user": "Sanglorian",
+      "size": 6517766,
+      "width": 1840,
+      "height": 2608,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/dc/Water_Babies%28Restored%29.jpg/revision/latest?cb=20131031043715",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Water_Babies(Restored).jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2665",
+      "sha1": "466d056b02a6c6405de13bdfe38b7b308b59cff8",
+      "metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 1840
+        },
+        {
+          "name": "ImageLength",
+          "value": 2608
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "Compression",
+          "value": 1
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS3 Macintosh"
+        },
+        {
+          "name": "DateTime",
+          "value": "2009:02:24 20:14:13"
+        },
+        {
+          "name": "Artist",
+          "value": "Library of Congress"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "1840"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "2608"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2009:02:24 14:14:13"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2009:02:24 14:14:13"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5669,
+      "parentid": 5667,
+      "timestamp": "2013-10-31T04:37:39Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Water_Babies(Restored).jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T04:37:39Z",
+  "lastrevid": 5669,
+  "length": 81,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Water_Babies(Restored).jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Water_Babies(Restored).jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Water_Babies(Restored).jpg"
+}

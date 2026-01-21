@@ -1,0 +1,15 @@
+{
+  "pageid": 1507,
+  "ns": 10,
+  "title": "Template:Delete",
+  "content": "<div name=\"Deletion notice\" class=\"boilerplate metadata\" id=\"delete\" style=\"background-color:#fee; margin:1em; padding:0 10px; border:1px solid #aaa;\">\n'''This page is a candidate for deletion.'''\n\nIf you disagree with its deletion, please explain why at [[Category talk:Candidates for deletion]] or improve the page and remove the <code>{{t|delete}}</code> tag.\n\nRemember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|what links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deleting.\n</div><includeonly>[[Category:Candidates for deletion]]</includeonly><noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3730,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Article management templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Delete"
+}

@@ -1,0 +1,55 @@
+{
+  "pageid": 2650,
+  "ns": 6,
+  "title": "File:Richard Waitt cromartie fool.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T03:54:51Z",
+      "user": "Sanglorian",
+      "size": 74902,
+      "width": 540,
+      "height": 641,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/52/Richard_Waitt_cromartie_fool.jpg/revision/latest?cb=20131031035451",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Richard_Waitt_cromartie_fool.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2650",
+      "sha1": "40e7b205e71d07955b22ce332517e0c0e5702fac",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "LEAD Technologies Inc. V1.01"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5637,
+      "parentid": 5635,
+      "timestamp": "2013-10-31T03:55:21Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Richard_Waitt_cromartie_fool.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-11T09:10:50Z",
+  "lastrevid": 5637,
+  "length": 87,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Richard_Waitt_cromartie_fool.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Richard_Waitt_cromartie_fool.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Richard_Waitt_cromartie_fool.jpg"
+}

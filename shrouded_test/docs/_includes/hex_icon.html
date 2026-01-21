@@ -1,0 +1,14 @@
+{% assign x = include.x | plus: 0 %}
+{% assign y = include.y | plus: 0 %}
+
+{%- assign xs = '00' | append: x -%}
+{%- assign ys = '00' | append: y -%}
+{%- assign x2 = xs | slice: -2, 2 -%}
+{%- assign y2 = ys | slice: -2, 2 -%}
+
+{%- capture slug -%}{{ x2 }}-{{ y2 }}{%- endcapture -%}
+{%- capture code -%}{{ x2 }}.{{ y2 }}{%- endcapture -%}
+
+<img class="hex-icon"
+     src="{{ '/assets/hexes/hex-' | append: slug | append: '.svg' | relative_url }}"
+     alt="Hex {{ code }}">

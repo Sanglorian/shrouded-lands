@@ -1,0 +1,15 @@
+{
+  "pageid": 2004,
+  "ns": 10,
+  "title": "Template:Sign",
+  "content": "<small>—This unsigned comment was made by [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]] • [[Special:Contributions/{{{1}}}|contribs]]) {{{2|}}}. Please sign talk pages and forum posts with four tildes: <nowiki>~~~~</nowiki>. [[Special:userlogin|Log in]] to keep track of your comments and maintain your identity on the wiki.</small><noinclude><br>\n'''Usage:''' (replace highlighted items)\n\n <nowiki>{{subst:sign|</nowiki><font color=\"blue\">username or IP</font><nowiki>|</nowiki><font color=\"blue\">date</font><nowiki>}}</nowiki></noinclude><noinclude>[[Category:Templates|Sign]]</noinclude>",
+  "revision": {
+    "revid": 3803,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Sign"
+}

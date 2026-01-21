@@ -1,0 +1,60 @@
+{
+  "pageid": 2660,
+  "ns": 6,
+  "title": "File:JamesMichaelGleeson.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T04:19:04Z",
+      "user": "Sanglorian",
+      "size": 547618,
+      "width": 876,
+      "height": 1600,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/08/JamesMichaelGleeson.jpg/revision/latest?cb=20131031041904",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:JamesMichaelGleeson.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2660",
+      "sha1": "0bbb0049fa8528840cfdf03af18486d6a51b9c5d",
+      "metadata": [
+        {
+          "name": "Software",
+          "value": "Picasa 3.0"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0210"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5657,
+      "parentid": 0,
+      "timestamp": "2013-10-31T04:19:04Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T04:19:30Z",
+  "lastrevid": 5657,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:JamesMichaelGleeson.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:JamesMichaelGleeson.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:JamesMichaelGleeson.jpg"
+}

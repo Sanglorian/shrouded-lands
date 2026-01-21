@@ -1,0 +1,15 @@
+{
+  "pageid": 1919,
+  "ns": 10,
+  "title": "Template:Clrr/doc",
+  "content": ";Description\n:This template is a shorthand for <code>&lt;div style=\"clear:right;\">&lt;/div></code>.\n:It moves any content following the template below any objects floating to the right (TOCs, infoboxes, images, etc..).\n;Syntax\n:Type <code>{{t|clrr}}</code> in an article at the point you want the clear.\n;See also\n:{{t|clr}} and {{t|clrl}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3371,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Clrr/doc"
+}

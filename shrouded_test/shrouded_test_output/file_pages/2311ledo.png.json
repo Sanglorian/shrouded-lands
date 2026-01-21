@@ -1,0 +1,89 @@
+{
+  "pageid": 3956,
+  "ns": 6,
+  "title": "File:2311ledo.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T02:10:06Z",
+      "user": "Sanglorian",
+      "size": 628656,
+      "width": 467,
+      "height": 637,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/51/2311ledo.png/revision/latest?cb=20141026021006",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:2311ledo.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3956",
+      "sha1": "b2b61432fd7ed8bbedcaaad0483723e751c2fee4",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9079,
+      "parentid": 0,
+      "timestamp": "2014-10-26T02:10:06Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T02:10:26Z",
+  "lastrevid": 9079,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:2311ledo.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:2311ledo.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:2311ledo.png"
+}

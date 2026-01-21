@@ -1,0 +1,58 @@
+{
+  "pageid": 2031,
+  "ns": 6,
+  "title": "File:Example.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-07-02T02:45:15Z",
+      "user": "Default",
+      "size": 4809,
+      "width": 150,
+      "height": 150,
+      "comment": "Cropped and resized from [[Commons:Image:LotusBud0048a.jpg]]\n\n*Photgrapher: [[Commons:User:Fg2|Fg2]]\n\n{{PD}}",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a9/Example.jpg/revision/latest?cb=20130702024515",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Example.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2031",
+      "sha1": "d05ced448bf601ad9bdaac6952aa795355f4f91c",
+      "metadata": [
+        {
+          "name": "_error",
+          "value": "0"
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 2782,
+      "parentid": 0,
+      "timestamp": "2013-07-02T02:45:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "Cropped and resized from [[Commons:Image:LotusBud0048a.jpg]]\n\n*Photographer: [[Commons:User:Fg2|Fg2]]\n\n{{PD}}\n\n[[Category:Images]]"
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "ns": 14,
+      "title": "Category:Images"
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2012-10-17T15:14:41Z",
+  "lastrevid": 2782,
+  "length": 130,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Example.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Example.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Example.jpg"
+}

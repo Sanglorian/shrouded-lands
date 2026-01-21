@@ -1,0 +1,52 @@
+{
+  "pageid": 4048,
+  "ns": 6,
+  "title": "File:Demons.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-27T14:12:13Z",
+      "user": "Sanglorian",
+      "size": 652960,
+      "width": 760,
+      "height": 987,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/12/Demons.jpg/revision/latest?cb=20141027141213",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Demons.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4048",
+      "sha1": "935d33731a5a0ed4a29a10080797ec6d86e14ffb",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9256,
+      "parentid": 0,
+      "timestamp": "2014-10-27T14:12:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-27T14:12:17Z",
+  "lastrevid": 9256,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Demons.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Demons.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Demons.jpg"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 2047,
+  "ns": 10,
+  "title": "Template:)/doc",
+  "content": ";Description\n:This template is used for creating a close brace bracket, in [[Help:Table|wikitables]] contained in [[Help:Parser functions|Parser functions]].\n;Syntax\n:Insert this template using <code>{{t|)}}</code>\n<includeonly>\n[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>\n[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3910,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:)/doc"
+}

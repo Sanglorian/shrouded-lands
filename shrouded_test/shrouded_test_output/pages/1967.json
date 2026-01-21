@@ -1,0 +1,15 @@
+{
+  "pageid": 1967,
+  "ns": 10,
+  "title": "Template:Infobox location/doc",
+  "content": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>\n{{infobox location\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | map           = [e.g. \"Example.jpg\"]\n | mapwidth      = [e.g. \"150\"] [default: 210 pixels]\n | mapcaption    = \n | type          = \n | level         = \n | location      = \n | inhabitants   = \n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox location\n | title         = Flora Island\n | image         = Example.jpg\n | imagecaption  = The island\n | map           = Example.jpg\n | mapcaption    = Zone map\n | type          = Contested\n | level         = 1-5\n | location      = Earth\n | inhabitants   = Stompy Humans, Drinky Bees\n}}\n</pre>\n\nResults in...\n\n{{infobox location\n | title         = Flora Island\n | image         = Example.jpg\n | imagecaption  = The island\n | map           = Example.jpg\n | mapcaption    = Zone map\n | type          = Contested\n | level         = 1-5\n | location      = Earth\n | inhabitants   = Stompy Humans, Drinky Bees\n}}\n\n<includeonly>[[Category:Infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3967,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox_location/doc"
+}

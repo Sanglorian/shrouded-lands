@@ -1,0 +1,105 @@
+{
+  "pageid": 2793,
+  "ns": 6,
+  "title": "File:2010-01-portrait cendrea.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T01:31:37Z",
+      "user": "Sanglorian",
+      "size": 4240260,
+      "width": 1535,
+      "height": 2185,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/ac/2010-01-portrait_cendrea.png/revision/latest?cb=20131103013137",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:2010-01-portrait_cendrea.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2793",
+      "sha1": "62f9290f170f7b6d06eba9da8b7aac325469e23d",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour-alpha"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "DateTime",
+              "value": "2010:01:15 17:57:13"
+            },
+            {
+              "name": "PNGFileComment",
+              "value": [
+                {
+                  "name": "x-default",
+                  "value": "Created with GIMP"
+                },
+                {
+                  "name": "_type",
+                  "value": "lang"
+                }
+              ]
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6043,
+      "parentid": 6041,
+      "timestamp": "2013-11-03T01:32:38Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nDavid Revoy/The Blender Foundation: http://commons.wikimedia.org/wiki/File:2010-01-portrait_cendrea.png\n\nCC BY 3.0 Unported"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T01:32:38Z",
+  "lastrevid": 6043,
+  "length": 139,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:2010-01-portrait_cendrea.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:2010-01-portrait_cendrea.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:2010-01-portrait_cendrea.png"
+}

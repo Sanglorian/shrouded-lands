@@ -1,0 +1,15 @@
+{
+  "pageid": 1898,
+  "ns": 10,
+  "title": "Template:Stub/doc",
+  "content": ";Description\n:This template will categorize articles that include it into [[:Category:Article stubs]], and mark it with a stub template.\n;Syntax\n:Type <code>{{t|stub}}</code> at the start or end of an article.\n\n<includeonly>[[Category:Article management templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3198,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Stub/doc"
+}

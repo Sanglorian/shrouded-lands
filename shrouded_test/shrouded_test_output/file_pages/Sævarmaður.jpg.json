@@ -1,0 +1,51 @@
+{
+  "pageid": 2464,
+  "ns": 6,
+  "title": "File:Sævarmaður.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T05:28:34Z",
+      "user": "Sanglorian",
+      "size": 108170,
+      "width": 391,
+      "height": 516,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/6c/S%C3%A6varma%C3%B0ur.jpg/revision/latest?cb=20131027052834",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:S%C3%A6varma%C3%B0ur.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2464",
+      "sha1": "99dc2decd9efe849f8cdc36fba10e36f4ad665d5",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4974,
+      "parentid": 4972,
+      "timestamp": "2013-10-27T05:28:54Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:S%C3%A6varma%C3%B0ur.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-22T05:27:52Z",
+  "lastrevid": 4974,
+  "length": 80,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:S%C3%A6varma%C3%B0ur.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:S%C3%A6varma%C3%B0ur.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:S%C3%A6varma%C3%B0ur.jpg"
+}

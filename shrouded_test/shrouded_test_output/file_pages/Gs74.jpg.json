@@ -1,0 +1,51 @@
+{
+  "pageid": 2489,
+  "ns": 6,
+  "title": "File:Gs74.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T11:27:55Z",
+      "user": "Sanglorian",
+      "size": 23404,
+      "width": 148,
+      "height": 448,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/5f/Gs74.jpg/revision/latest?cb=20131027112755",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Gs74.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2489",
+      "sha1": "000b04058d9ab070d67b325eb932978c37039c5a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7348,
+      "parentid": 5030,
+      "timestamp": "2013-11-24T14:10:03Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://www.gutenberg.org/files/32406/32406-h/32406-h.htm"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:10:06Z",
+  "lastrevid": 7348,
+  "length": 72,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Gs74.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Gs74.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Gs74.jpg"
+}

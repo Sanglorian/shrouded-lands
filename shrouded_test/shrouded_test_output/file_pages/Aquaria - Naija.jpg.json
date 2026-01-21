@@ -1,0 +1,99 @@
+{
+  "pageid": 2823,
+  "ns": 6,
+  "title": "File:Aquaria - Naija.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-04T11:58:07Z",
+      "user": "Sanglorian",
+      "size": 75351,
+      "width": 350,
+      "height": 800,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/db/Aquaria_-_Naija.jpg/revision/latest?cb=20131104115807",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Naija.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2823",
+      "sha1": "cbd2e8bcaa708b5aef98fa3a719735a8ad7872a9",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS4 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2010:09:05 07:18:55"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "350"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "800"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2010:09:05 00:18:55"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2010:09:05 00:18:55"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:D6346E39F0B8DF11994DCBF494DE188B"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6153,
+      "parentid": 6151,
+      "timestamp": "2013-11-04T11:58:45Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nBit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported): https://commons.wikimedia.org/wiki/File:Aquaria_-_Naija.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-10T10:55:22Z",
+  "lastrevid": 6153,
+  "length": 144,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Naija.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Naija.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Naija.jpg"
+}

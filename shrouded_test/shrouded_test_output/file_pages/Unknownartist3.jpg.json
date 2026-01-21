@@ -1,0 +1,56 @@
+{
+  "pageid": 3319,
+  "ns": 6,
+  "title": "File:Unknownartist3.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T14:32:30Z",
+      "user": "Sanglorian",
+      "size": 1421466,
+      "width": 972,
+      "height": 1422,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f3/Unknownartist3.jpg/revision/latest?cb=20131124143230",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Unknownartist3.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3319",
+      "sha1": "4beb967117d70f9a876a9ec97bd8de18c45462f5",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "File written by Adobe Photoshop¨ 5.0"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7373,
+      "parentid": 0,
+      "timestamp": "2013-11-24T14:32:31Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:32:35Z",
+  "lastrevid": 7373,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Unknownartist3.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Unknownartist3.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Unknownartist3.jpg"
+}

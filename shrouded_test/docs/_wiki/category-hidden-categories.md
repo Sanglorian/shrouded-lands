@@ -1,0 +1,13 @@
+---
+layout: category_page
+title: Category:Hidden categories
+pageid: 2034
+namespace: 14
+original_url: https://shrouded-lands.fandom.com/wiki/Category:Hidden_categories
+categories:
+- Category:Organization
+media: []
+---
+This category contains hidden categories. Unlike normal categories, these are not displayed at the bottom of pages that are included in them, and are therefore hidden from readers.
+
+To hide a category, add the <code><nowiki>__HIDDENCAT__</nowiki></code> magic word to the bottom of a category.

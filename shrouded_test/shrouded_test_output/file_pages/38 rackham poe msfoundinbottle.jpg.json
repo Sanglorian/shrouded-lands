@@ -1,0 +1,51 @@
+{
+  "pageid": 3629,
+  "ns": 6,
+  "title": "File:38 rackham poe msfoundinbottle.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T14:20:31Z",
+      "user": "Sanglorian",
+      "size": 323913,
+      "width": 1032,
+      "height": 1247,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/3c/38_rackham_poe_msfoundinbottle.jpg/revision/latest?cb=20141013142031",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:38_rackham_poe_msfoundinbottle.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3629",
+      "sha1": "74a255c1cc76d17808eea94f589e3e4a6f776080",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8362,
+      "parentid": 8360,
+      "timestamp": "2014-10-13T14:21:22Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:38_rackham_poe_msfoundinbottle.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T14:21:22Z",
+  "lastrevid": 8362,
+  "length": 89,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:38_rackham_poe_msfoundinbottle.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:38_rackham_poe_msfoundinbottle.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:38_rackham_poe_msfoundinbottle.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "pageid": 3689,
+  "ns": 6,
+  "title": "File:Koschei by Sergey Malyutin.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T22:36:49Z",
+      "user": "Sanglorian",
+      "size": 70580,
+      "width": 770,
+      "height": 700,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/31/Koschei_by_Sergey_Malyutin.jpg/revision/latest?cb=20141024223649",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Koschei_by_Sergey_Malyutin.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3689",
+      "sha1": "acf96454c3f550c5284fc0fe9a39c8cf42abe948",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8573,
+      "parentid": 8571,
+      "timestamp": "2014-10-24T22:37:27Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Koschei_by_Sergey_Malyutin.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T22:37:27Z",
+  "lastrevid": 8573,
+  "length": 85,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Koschei_by_Sergey_Malyutin.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Koschei_by_Sergey_Malyutin.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Koschei_by_Sergey_Malyutin.jpg"
+}

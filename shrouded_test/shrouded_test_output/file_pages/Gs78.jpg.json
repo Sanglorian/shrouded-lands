@@ -1,0 +1,52 @@
+{
+  "pageid": 2490,
+  "ns": 6,
+  "title": "File:Gs78.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T11:28:43Z",
+      "user": "Sanglorian",
+      "size": 28050,
+      "width": 131,
+      "height": 448,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/5e/Gs78.jpg/revision/latest?cb=20131027112843",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Gs78.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2490",
+      "sha1": "21796baefbc132cae8c7d8e6680ae4780a525eb0",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5031,
+      "parentid": 0,
+      "timestamp": "2013-10-27T11:28:43Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-30T14:22:38Z",
+  "lastrevid": 5031,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Gs78.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Gs78.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Gs78.jpg"
+}

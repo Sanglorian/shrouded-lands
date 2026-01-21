@@ -1,0 +1,80 @@
+{
+  "pageid": 2513,
+  "ns": 6,
+  "title": "File:ArthurRackham23.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T13:42:31Z",
+      "user": "Sanglorian",
+      "size": 134429,
+      "width": 674,
+      "height": 800,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/db/ArthurRackham23.jpg/revision/latest?cb=20131027134231",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:ArthurRackham23.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2513",
+      "sha1": "6f610e5fefc072cf7d264cf9d9830353c3786d55",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 2.0"
+        },
+        {
+          "name": "DateTime",
+          "value": "2005:09:07 14:36:30"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5083,
+      "parentid": 0,
+      "timestamp": "2013-10-27T13:42:31Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-08-12T12:26:18Z",
+  "lastrevid": 5083,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:ArthurRackham23.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:ArthurRackham23.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:ArthurRackham23.jpg"
+}

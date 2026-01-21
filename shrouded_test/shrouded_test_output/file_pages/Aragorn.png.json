@@ -1,0 +1,88 @@
+{
+  "pageid": 2817,
+  "ns": 6,
+  "title": "File:Aragorn.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T02:23:04Z",
+      "user": "Sanglorian",
+      "size": 6426033,
+      "width": 1716,
+      "height": 2440,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0c/Aragorn.png/revision/latest?cb=20131103022304",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Aragorn.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2817",
+      "sha1": "65b6a1a11cc7274b89826dc79e5332bed3071c78",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6109,
+      "parentid": 6107,
+      "timestamp": "2013-11-03T02:23:37Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Illustration of Aragorn, one of the characters in the Lord of the rings.', JesicaLR (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Aragorn.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T02:23:37Z",
+  "lastrevid": 6109,
+  "length": 176,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Aragorn.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Aragorn.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Aragorn.png"
+}

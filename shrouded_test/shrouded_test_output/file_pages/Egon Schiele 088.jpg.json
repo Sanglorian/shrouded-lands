@@ -1,0 +1,59 @@
+{
+  "pageid": 3682,
+  "ns": 6,
+  "title": "File:Egon Schiele 088.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T22:15:21Z",
+      "user": "Sanglorian",
+      "size": 1382614,
+      "width": 1998,
+      "height": 1997,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0c/Egon_Schiele_088.jpg/revision/latest?cb=20141024221521",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Egon_Schiele_088.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3682",
+      "sha1": "95a6cc321c381f7748a40e1627c6e953850d48bb",
+      "metadata": [
+        {
+          "name": "Source",
+          "value": "[http://www.sothebys.com/en/auctions/ecatalogue/2011/impressionist-modern-art-evening-sale-l11006/lot.9.lotnum.html Sotheby's (not for sale, only as a reference)]"
+        },
+        {
+          "name": "JPEGFileComment",
+          "value": ""
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8550,
+      "parentid": 8548,
+      "timestamp": "2014-10-24T22:15:56Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Egon_Schiele_088.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T22:15:56Z",
+  "lastrevid": 8550,
+  "length": 75,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Egon_Schiele_088.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Egon_Schiele_088.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Egon_Schiele_088.jpg"
+}

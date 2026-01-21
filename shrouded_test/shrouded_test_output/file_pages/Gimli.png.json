@@ -1,0 +1,88 @@
+{
+  "pageid": 2813,
+  "ns": 6,
+  "title": "File:Gimli.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T02:17:43Z",
+      "user": "Sanglorian",
+      "size": 5440844,
+      "width": 1716,
+      "height": 2440,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/38/Gimli.png/revision/latest?cb=20131103021743",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Gimli.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2813",
+      "sha1": "00c0609b2dafe8dc10b48997825d708697c5db61",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6100,
+      "parentid": 6098,
+      "timestamp": "2013-11-03T02:18:20Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Illustration of Gimli, one of the characters in the Lord of the rings.', JesicaLR (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Gimli.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T02:18:20Z",
+  "lastrevid": 6100,
+  "length": 172,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Gimli.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Gimli.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Gimli.png"
+}

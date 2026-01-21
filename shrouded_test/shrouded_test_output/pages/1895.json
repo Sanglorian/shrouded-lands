@@ -1,0 +1,15 @@
+{
+  "pageid": 1895,
+  "ns": 10,
+  "title": "Template:Disambig/doc",
+  "content": ";Description\n:Marks an article as a disambiguation page, adding a banner to the article and categorizing it under [[:Category:Disambiguations]].\n:Articles using this template will also appear on [[Special:Disambiguations]].\n;Syntax\n:Add <code>{{t|disambig}}</code> at the top of a disambiguation page.\n\n<includeonly>[[Category:Article management templates|Disambiguation]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3151,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Disambig/doc"
+}

@@ -1,0 +1,89 @@
+{
+  "pageid": 2177,
+  "ns": 6,
+  "title": "File:Bitter.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-07-04T11:23:47Z",
+      "user": "Daztur",
+      "size": 330260,
+      "width": 504,
+      "height": 286,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/3a/Bitter.png/revision/latest?cb=20130704112347",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Bitter.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2177",
+      "sha1": "4f438af1239974dc15cf3d5341d79d2f81d980b6",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4223,
+      "parentid": 0,
+      "timestamp": "2013-07-04T11:23:47Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-07-04T11:25:06Z",
+  "lastrevid": 4223,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Bitter.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Bitter.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Bitter.png"
+}

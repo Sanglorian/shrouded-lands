@@ -1,0 +1,89 @@
+{
+  "pageid": 4016,
+  "ns": 6,
+  "title": "File:Shutt-suit2.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:57:54Z",
+      "user": "Sanglorian",
+      "size": 387962,
+      "width": 461,
+      "height": 465,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/99/Shutt-suit2.png/revision/latest?cb=20141026085754",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-suit2.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4016",
+      "sha1": "234f211c57e0b13729d4d9ff80f151da2de196f3",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9191,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:57:55Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:58:08Z",
+  "lastrevid": 9191,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-suit2.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-suit2.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-suit2.png"
+}

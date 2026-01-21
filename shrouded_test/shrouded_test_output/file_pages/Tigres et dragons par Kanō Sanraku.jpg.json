@@ -1,0 +1,51 @@
+{
+  "pageid": 3285,
+  "ns": 6,
+  "title": "File:Tigres et dragons par Kanō Sanraku.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:37:23Z",
+      "user": "Sanglorian",
+      "size": 195733,
+      "width": 1425,
+      "height": 355,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/52/Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg/revision/latest?cb=20131123053723",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3285",
+      "sha1": "8df2a8916675664bb1e015cdec5105ff541bcaa8",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7261,
+      "parentid": 7259,
+      "timestamp": "2013-11-23T05:37:39Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:37:39Z",
+  "lastrevid": 7261,
+  "length": 98,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Tigres_et_dragons_par_Kan%C5%8D_Sanraku.jpg"
+}

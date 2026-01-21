@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Shrouded Lands Wiki Mirror"
+---
+
+<h1>Shrouded Lands Wiki Mirror</h1>
+<p class="desc">
+  Static mirror generated from the live wiki dump.
+  Pages are shown as raw wikitext; media files are under <code>/media/</code>.
+</p>
+
+<h2>Pages</h2>
+<ul>
+  {% assign pages = site.wiki | sort_natural: "title" %}
+  {% for p in pages %}
+    <li>[ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>
+---
+layout: default
+title: "Shrouded Lands Wiki Mirror"
+---
+
+<h1>Shrouded Lands Wiki Mirror</h1>
+<p class="desc">
+  Static mirror generated from the live wiki dump.
+  Pages are shown as raw wikitext; media files are under <code>/media/</code>.
+</p>
+
+<h2>Pages</h2>
+<ul>
+  {%- assign wiki_pages = site.wiki | where_exp: "p", "p.is_redirect != true" -%}
+  {%- assign pages = wiki_pages | sort_natural: "title" -%}
+  {%- for p in pages -%}
+    <li>[ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+  {%- endfor -%}
+</ul>
+

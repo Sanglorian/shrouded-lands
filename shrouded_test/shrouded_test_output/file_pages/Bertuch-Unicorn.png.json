@@ -1,0 +1,92 @@
+{
+  "pageid": 2750,
+  "ns": 6,
+  "title": "File:Bertuch-Unicorn.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-01T09:38:37Z",
+      "user": "Sanglorian",
+      "size": 1590035,
+      "width": 936,
+      "height": 860,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0f/Bertuch-Unicorn.png/revision/latest?cb=20131101093837",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Bertuch-Unicorn.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2750",
+      "sha1": "7f6e8cb6e074938174018c3ffe8f439412937601",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour-alpha"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "DateTime",
+              "value": "2013:01:06 17:15:21"
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5906,
+      "parentid": 5904,
+      "timestamp": "2013-11-01T09:38:50Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Bertuch-Unicorn.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-01T09:38:50Z",
+  "lastrevid": 5906,
+  "length": 74,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Bertuch-Unicorn.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Bertuch-Unicorn.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Bertuch-Unicorn.png"
+}

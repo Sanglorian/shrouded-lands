@@ -1,0 +1,24 @@
+---
+layout: category_page
+title: Category:Help
+pageid: 1463
+namespace: 14
+original_url: https://shrouded-lands.fandom.com/wiki/Category:Help
+categories:
+- Category:Organization
+media: []
+---
+**For a full list of help pages, see Help:Contents,** which includes non-local help pages, automatically transcluded from Wikia Help.
+
+## About this category
+This category is intended to contain all the **local** "help" pages for this Wikia: pages that can help contributors and/or readers. If you find helpful pages that you think should be here, you may include them here just by typing <nowiki>Category:Help</nowiki> on them.
+
+Most, but not all, have "Help:" at the beginning of their page names and are therefore in the "Help" namespace; an automatically-generated list of those can be found at Special:AllPages by running down the "Namespace" menu.
+
+## Getting more help
+You can also:
+* Ask questions at the local forum.
+* Talk to one of the site administrators or any currently active contributor (the people whose names appear on the "Recent changes" page); use their user talk pages.
+* If you can't find what you need on this wiki, you can seek help at the Central Wikia, especially at the Central forum.
+
+If you still need help, you may want to contact the Wikia Community Team.

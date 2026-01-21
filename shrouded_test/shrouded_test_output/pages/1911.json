@@ -1,0 +1,15 @@
+{
+  "pageid": 1911,
+  "ns": 10,
+  "title": "Template:Edit",
+  "content": "&#x5b;[{{fullurl:{{{1|{{FULLPAGENAME}}}}}|action=edit}} {{{2|edit}}}]&#x5d;<noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3347,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Edit"
+}

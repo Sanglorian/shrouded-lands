@@ -1,0 +1,52 @@
+{
+  "pageid": 3722,
+  "ns": 6,
+  "title": "File:Sl gore1.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:10:31Z",
+      "user": "Sanglorian",
+      "size": 72800,
+      "width": 496,
+      "height": 360,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/7/7a/Sl_gore1.jpg/revision/latest?cb=20141025001031",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Sl_gore1.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3722",
+      "sha1": "57f6fd2ed1493804adbeb962cf02428d6e6e680c",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8641,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:10:32Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:10:39Z",
+  "lastrevid": 8641,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Sl_gore1.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Sl_gore1.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Sl_gore1.jpg"
+}

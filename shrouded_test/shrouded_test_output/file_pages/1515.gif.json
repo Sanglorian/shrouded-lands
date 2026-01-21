@@ -1,0 +1,69 @@
+{
+  "pageid": 3870,
+  "ns": 6,
+  "title": "File:1515.gif",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T07:11:13Z",
+      "user": "Sanglorian",
+      "size": 120903,
+      "width": 320,
+      "height": 331,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/17/1515.gif/revision/latest?cb=20141025071113",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:1515.gif",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3870",
+      "sha1": "33425a7b5b7ded58e99e125d4c88f0ac35347ceb",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 1
+        },
+        {
+          "name": "looped",
+          "value": false
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "_MW_GIF_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/gif"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8921,
+      "parentid": 0,
+      "timestamp": "2014-10-25T07:11:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T07:11:38Z",
+  "lastrevid": 8921,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:1515.gif",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:1515.gif?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:1515.gif"
+}

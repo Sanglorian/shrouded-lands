@@ -1,0 +1,15 @@
+{
+  "pageid": 1928,
+  "ns": 10,
+  "title": "Template:WelcomeIP/doc",
+  "content": ";Description\n:The above template is for adding to the [[help:Talk page|Talk page]] of any contributor who is identified only by an IP number.\n:Note: as user IPs can change regularly, the earlier this is posted after the user's last edit, the better.\n;Syntax\n:Just type or paste <code><nowiki>{{subst:welcomeIP}}</nowiki></code> to the IP's talk page and add your timestamp (four tildes: <code><nowiki>~~~~</nowiki></code>) below it.\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3400,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:WelcomeIP/doc"
+}

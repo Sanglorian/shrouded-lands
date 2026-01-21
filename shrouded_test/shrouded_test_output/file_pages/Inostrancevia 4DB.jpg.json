@@ -1,0 +1,84 @@
+{
+  "pageid": 2974,
+  "ns": 6,
+  "title": "File:Inostrancevia 4DB.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-13T08:20:14Z",
+      "user": "Sanglorian",
+      "size": 778650,
+      "width": 2500,
+      "height": 2000,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/8/87/Inostrancevia_4DB.jpg/revision/latest?cb=20131113082014",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Inostrancevia_4DB.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2974",
+      "sha1": "917aa74455a2c003fbbcee1d14f2b4990d0f0fc6",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2008:06:08 21:20:15"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "JPEGFileComment",
+          "value": "ACD Systems Digital Imaging"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6658,
+      "parentid": 0,
+      "timestamp": "2013-11-13T08:20:14Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-13T08:20:40Z",
+  "lastrevid": 6658,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Inostrancevia_4DB.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Inostrancevia_4DB.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Inostrancevia_4DB.jpg"
+}

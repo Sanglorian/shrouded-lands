@@ -1,0 +1,139 @@
+{
+  "pageid": 3577,
+  "ns": 6,
+  "title": "File:Dodo stoelzel.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-09-01T10:31:52Z",
+      "user": "Sanglorian",
+      "size": 275857,
+      "width": 905,
+      "height": 1440,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a3/Dodo_stoelzel.jpg/revision/latest?cb=20140901103152",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_stoelzel.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3577",
+      "sha1": "4858b8969e810bc868c50c4678189ef1524ad0c0",
+      "metadata": [
+        {
+          "name": "Make",
+          "value": "HP"
+        },
+        {
+          "name": "Model",
+          "value": "HP Scanjet G3010"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 7.0 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2009:03:31 19:19:37"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ReferenceBlackWhite",
+          "value": "\n*0/1\n*255/1\n*128/1\n*255/1\n*128/1\n*255/1"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2009:03:31 19:17:35"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "905"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1440"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2009:03:31 21:19:37"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2009:03:31 21:19:37"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8184,
+      "parentid": 8182,
+      "timestamp": "2014-09-01T10:32:36Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "\nhttp://commons.wikimedia.org/wiki/File:Dodo_stoelzel.jpg (public domain)"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-09-01T10:32:36Z",
+  "lastrevid": 8184,
+  "length": 73,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_stoelzel.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_stoelzel.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Dodo_stoelzel.jpg"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 1951,
+  "ns": 10,
+  "title": "Template:Other free/doc",
+  "content": ";Description\n:This template is used to mark images with a free license not covered by other image templates.\n;Syntax\n:Type <code>{{t|Other free}}</code> on the image information page.\n\n<includeonly>[[Category:Image wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3513,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Other_free/doc"
+}

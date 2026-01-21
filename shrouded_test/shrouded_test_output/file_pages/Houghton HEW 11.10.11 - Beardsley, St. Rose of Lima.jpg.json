@@ -1,0 +1,51 @@
+{
+  "pageid": 3688,
+  "ns": 6,
+  "title": "File:Houghton HEW 11.10.11 - Beardsley, St. Rose of Lima.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T22:34:42Z",
+      "user": "Sanglorian",
+      "size": 971209,
+      "width": 1321,
+      "height": 1909,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/94/Houghton_HEW_11.10.11_-_Beardsley%2C_St._Rose_of_Lima.jpg/revision/latest?cb=20141024223442",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3688",
+      "sha1": "60aee9a7c9fbd7db0317a2a75e54f74545483412",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8570,
+      "parentid": 8568,
+      "timestamp": "2014-10-24T22:35:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T22:35:13Z",
+  "lastrevid": 8570,
+  "length": 110,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg"
+}

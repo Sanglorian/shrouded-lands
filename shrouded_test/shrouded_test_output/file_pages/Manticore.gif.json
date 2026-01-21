@@ -1,0 +1,68 @@
+{
+  "pageid": 3622,
+  "ns": 6,
+  "title": "File:Manticore.gif",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T12:57:42Z",
+      "user": "Sanglorian",
+      "size": 46516,
+      "width": 600,
+      "height": 380,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0b/Manticore.gif/revision/latest?cb=20141013125742",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Manticore.gif",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3622",
+      "sha1": "db61eb071c1f393601914359225db27ff2aaf7e9",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 1
+        },
+        {
+          "name": "looped",
+          "value": false
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "_MW_GIF_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/gif"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8341,
+      "parentid": 8339,
+      "timestamp": "2014-10-13T13:01:55Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Manticore.gif"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T13:01:55Z",
+  "lastrevid": 8341,
+  "length": 68,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Manticore.gif",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Manticore.gif?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Manticore.gif"
+}

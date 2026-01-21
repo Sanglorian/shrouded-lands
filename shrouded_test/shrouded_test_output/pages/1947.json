@@ -1,0 +1,15 @@
+{
+  "pageid": 1947,
+  "ns": 10,
+  "title": "Template:Talkcreate/doc",
+  "content": ";Description\n:This template is used to create a link to start a new discussion. It is especially useful in areas that newbies commonly frequent.\n;Syntax\n:Type <code>{{t|talkcreate}}</code> wherever you wish the link to appear. You can add an optional second parameter to change the link text.\n;Sample output\n:<code><nowiki>{{talkcreate}}</nowiki></code> gives...\n:{{talkcreate}}\n:<code><nowiki>{{talkcreate|Spout your views!}}</nowiki></code> gives...\n:{{talkcreate|Spout your views!}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3484,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Talkcreate/doc"
+}

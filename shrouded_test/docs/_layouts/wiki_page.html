@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p class="meta">
+  {% if page.region %}
+    <strong>Region:</strong> {{ page.region }}<br>
+  {% endif %}
+
+<strong>Original:</strong>
+  <a href="{{ page.original_url }}">{{ page.original_url }}</a>
+</p>
+
+{% if page.title contains '.' %}
+  {% include hex_ring.html code=page.title %}
+{% endif %}
+
+{% if page.image %}
+  <figure class="hex-image" style="float:right; max-width:300px; margin:0 0 1rem 1rem;">
+    <img src="{{ '/media/' | append: page.image | relative_url }}"
+         alt="{{ page.image }}">
+  </figure>
+{% endif %}
+
+{%- comment -%}
+  Build reciprocal connections:
+  - include page.neighbors
+  - include any page whose neighbors list includes this page (by canonical code)
+{%- endcomment -%}
+
+{%- assign neighbors_all = "" | split: "" -%}
+
+{%- comment -%}Canonical code for THIS page (first two segments){%- endcomment -%}
+{%- assign current_parts = page.title | split: '.' -%}
+{%- if current_parts.size >= 2 -%}
+  {%- assign current_canonical = current_parts[0] | append: '.' | append: current_parts[1] -%}
+{%- else -%}
+  {%- assign current_canonical = page.title -%}
+{%- endif -%}
+
+{%- comment -%}1) Forward neighbors from this page{%- endcomment -%}
+{%- if page.neighbors -%}
+  {%- for nb in page.neighbors -%}
+    {%- unless neighbors_all contains nb -%}
+      {%- assign neighbors_all = neighbors_all | push: nb -%}
+    {%- endunless -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- comment -%}
+  2) Reverse neighbors:
+     Any other wiki page whose neighbors list contains this page’s canonical code
+{%- endcomment -%}
+{%- for other in site.wiki -%}
+  {%- unless other.url == page.url -%}
+    {%- if other.neighbors -%}
+      {%- for nb in other.neighbors -%}
+        {%- assign nb_parts = nb | split: '.' -%}
+        {%- if nb_parts.size >= 2 -%}
+          {%- assign nb_canonical = nb_parts[0] | append: '.' | append: nb_parts[1] -%}
+        {%- else -%}
+          {%- assign nb_canonical = nb -%}
+        {%- endif -%}
+
+        {%- if nb_canonical == current_canonical -%}
+          {%- comment -%}
+            Use the OTHER page's title as the code to display,
+            so if its title is a full sub-hex like 25.04.01, we show that.
+          {%- endcomment -%}
+          {%- unless neighbors_all contains other.title -%}
+            {%- assign neighbors_all = neighbors_all | push: other.title -%}
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}
+
+{%- comment -%}
+  3) Render neighbors_all.
+     Links always go to the parent hex (first two segments), i.e. /wiki/XX-YY/
+{%- endcomment -%}
+{%- if neighbors_all.size > 0 -%}
+  <p class="hex-neighbors">
+    <strong>Connects to: </strong>
+    {%- for nb in neighbors_all -%}
+      {%- assign nb_parts = nb | split: '.' -%}
+      {%- if nb_parts.size >= 2 -%}
+        {%- assign nb_link_code = nb_parts[0] | append: '-' | append: nb_parts[1] -%}
+      {%- else -%}
+        {%- assign nb_link_code = nb | replace: '.', '-' -%}
+      {%- endif -%}
+      <a href="{{ '/wiki/' | append: nb_link_code | append: '/' | relative_url }}">{{ nb }}</a>{% unless forloop.last %}, {% endunless %}
+    {%- endfor -%}
+  </p>
+{%- endif -%}
+
+
+<hr>
+
+<article class="wiki-content">
+  {{ content }}
+</article>
+
+{% if page.categories %}
+  <hr>
+  <p class="categories">
+    <strong>Categories:</strong>
+    {% for cat in page.categories %}
+      {% assign cat_slug = cat | strip %}
+      <a href="{{ '/wiki/' | append: cat_slug | append: '/' | relative_url }}">
+        {{ cat }}
+      </a>{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  </p>
+{% endif %}
+
+<p style="margin-top:2rem; font-size:0.85rem; color:#777;">
+  Mirror generated from shrouded_test_output data.
+</p>

@@ -1,0 +1,67 @@
+{
+  "pageid": 2470,
+  "ns": 6,
+  "title": "File:The Efficiency Expert.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T07:24:22Z",
+      "user": "Sanglorian",
+      "size": 1259752,
+      "width": 1993,
+      "height": 2393,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/c4/The_Efficiency_Expert.jpg/revision/latest?cb=20131027072422",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:The_Efficiency_Expert.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2470",
+      "sha1": "ac202fa0ceefc915c9d592ffe2eb52914c1c12d8",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:02:25 11:53:36"
+        },
+        {
+          "name": "ImageUniqueID",
+          "value": "8815962451014BEFBDB47336D8D76FF5"
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery 15.4.3502.922"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4995,
+      "parentid": 4993,
+      "timestamp": "2013-10-27T07:24:59Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:The_Efficiency_Expert.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-27T07:24:59Z",
+  "lastrevid": 4995,
+  "length": 81,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:The_Efficiency_Expert.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:The_Efficiency_Expert.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:The_Efficiency_Expert.jpg"
+}

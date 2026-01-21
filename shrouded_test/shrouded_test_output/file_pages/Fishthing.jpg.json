@@ -1,0 +1,51 @@
+{
+  "pageid": 2630,
+  "ns": 6,
+  "title": "File:Fishthing.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T02:46:26Z",
+      "user": "Sanglorian",
+      "size": 1498590,
+      "width": 2544,
+      "height": 4176,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d5/Fishthing.jpg/revision/latest?cb=20131031024626",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Fishthing.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2630",
+      "sha1": "8aefd71c0cacc09c62fa9ffd004b4545d486d7dc",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5590,
+      "parentid": 5588,
+      "timestamp": "2013-10-31T02:47:04Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Fish Thing', Michael Wight, ''Grim Portents 1'' <http://opengameart.org/content/fish-man-squid-thing-and-four-young-adventurers-retreating-from-a-goblin-from-grim-portents#> (CC BY-SA 3.0 Unported)"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T02:47:04Z",
+  "lastrevid": 5590,
+  "length": 214,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Fishthing.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Fishthing.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Fishthing.jpg"
+}

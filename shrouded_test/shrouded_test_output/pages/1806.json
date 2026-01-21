@@ -1,0 +1,15 @@
+{
+  "pageid": 1806,
+  "ns": 10,
+  "title": "Template:Col-begin",
+  "content": "{| class=\"{{{class|}}}\" style=\"background-color:{{{bgColor|transparent}}}; color:{{{fontColor|inherit}}}; width:{{{width|100%}}};\"\n|-\n|<noinclude>\n|}\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3900,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Col-begin"
+}

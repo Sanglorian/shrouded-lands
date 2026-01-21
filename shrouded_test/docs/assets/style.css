@@ -1,0 +1,79 @@
+.wiki-content img {
+  float: right;
+  max-width: 300px;
+  height: auto;
+  margin: 0 0 1rem 1rem;
+}
+
+.hex-image img {
+  float: right;
+  max-width: 300px;
+  height: auto;
+  margin: 0 0 1rem 1rem;
+}
+
+.hex-mini-map {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+.hex-mini-map .hex-row {
+  display: flex;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.hex-mini-map img.hex {
+  width: 60px;
+  height: 60px;
+}
+
+.hex-mini-map .hex-empty {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+
+.hex-ring {
+  --hex-w: 100px;   /* match your single-hex SVG width */
+  --hex-h: 86px;    /* match the SVG height (tweak if needed) */
+
+  display: inline-block;
+  position: relative;
+  margin: 1rem 0;
+}
+
+.hex-row {
+  display: flex;
+}
+
+.hex-cell {
+  width: var(--hex-w);
+  height: var(--hex-h);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hex-icon {
+  width: 100%;
+  height: auto;
+}
+
+/* stagger rows so edges touch */
+.hex-row-top {
+  margin-left: calc(var(--hex-w) * 0.5);
+}
+
+.hex-row-mid {
+  margin-top: calc(-0.25 * var(--hex-h));
+}
+
+.hex-row-bot {
+  margin-top: calc(-0.25 * var(--hex-h));
+  margin-left: calc(var(--hex-w));
+}
+
+.hex-row-bot .spacer {
+  visibility: hidden;
+}

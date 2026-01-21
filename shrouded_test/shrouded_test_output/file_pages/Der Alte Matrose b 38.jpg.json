@@ -1,0 +1,67 @@
+{
+  "pageid": 3630,
+  "ns": 6,
+  "title": "File:Der Alte Matrose b 38.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T22:18:30Z",
+      "user": "Sanglorian",
+      "size": 703786,
+      "width": 2121,
+      "height": 2868,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0a/Der_Alte_Matrose_b_38.jpg/revision/latest?cb=20141013221830",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Der_Alte_Matrose_b_38.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3630",
+      "sha1": "69bd73ee52a2db82be9c47bf102d1df62ac3db66",
+      "metadata": [
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2012:09:21 20:23:03"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8365,
+      "parentid": 8363,
+      "timestamp": "2014-10-13T22:19:05Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Der_Alte_Matrose_b_38.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T22:19:05Z",
+  "lastrevid": 8365,
+  "length": 80,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Der_Alte_Matrose_b_38.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Der_Alte_Matrose_b_38.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Der_Alte_Matrose_b_38.jpg"
+}

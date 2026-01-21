@@ -1,0 +1,52 @@
+{
+  "pageid": 2511,
+  "ns": 6,
+  "title": "File:WilliamFettesDouglas.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T13:40:17Z",
+      "user": "Sanglorian",
+      "size": 194725,
+      "width": 935,
+      "height": 458,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f2/WilliamFettesDouglas.jpg/revision/latest?cb=20131027134017",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamFettesDouglas.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2511",
+      "sha1": "08b55b32e6deb5fe5ae364f24f20eba81696b313",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5078,
+      "parentid": 0,
+      "timestamp": "2013-10-27T13:40:17Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-12-20T00:34:26Z",
+  "lastrevid": 5078,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamFettesDouglas.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamFettesDouglas.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamFettesDouglas.jpg"
+}

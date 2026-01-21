@@ -1,0 +1,52 @@
+{
+  "pageid": 3817,
+  "ns": 6,
+  "title": "File:Burning.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T06:22:47Z",
+      "user": "Sanglorian",
+      "size": 76632,
+      "width": 639,
+      "height": 475,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/97/Burning.jpg/revision/latest?cb=20141025062247",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Burning.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3817",
+      "sha1": "6f6d0582d731e4e7a67cc6e507161bf1372b573a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8820,
+      "parentid": 0,
+      "timestamp": "2014-10-25T06:22:47Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T06:23:33Z",
+  "lastrevid": 8820,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Burning.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Burning.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Burning.jpg"
+}

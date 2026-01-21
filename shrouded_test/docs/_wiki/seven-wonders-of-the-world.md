@@ -1,0 +1,45 @@
+---
+layout: wiki_page
+title: Seven Wonders of the World
+pageid: 4159
+namespace: 0
+original_url: https://shrouded-lands.fandom.com/wiki/Seven_Wonders_of_the_World
+categories:
+- Category:Books
+- Category:Taran Prenderghast
+- Category:The Shuttered City
+media: []
+---
+# Seven Wonders of the World
+The scholar and rakish traveller Taran Prenderghast has seen recent success with a book proposing Seven Wonders of the Modern World.
+
+Published in the [Shuttered City](/wiki/shuttered-city/) under the patronage of [the Doge](/wiki/blind-doge/), the "world" seems limited to the Shrouded Lands and the [Twelve Nations](/wiki/twelve-nations/), and particularly those parts that Taran happens to have visited.
+
+His list is:
+# The [White Road](/wiki/white-road/), and the great bindings of spirits that it represents.
+# [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/). The draft list gave the Great Temple of Alberon instead, but rumour has it that Taran was offered free drinks till his dying day if he changed the entry.
+# The [Waterworks of Shuttered](/wiki/waterworks-(shuttered)/), which drowned the City's enemies.
+# The gates of [Hoth Achaar](/wiki/hoth-achaar/), whcih shift as the fortress' population does.
+# The stump of [Ninbolm](/wiki/ninbolm/).
+# [Melnir's Mount](/wiki/51-12/).
+# [Teodo](/wiki/50-30/), originally the only wonder outside of the Shrouded Lands, although thanks to the Great Mother, this has changed since publication.
+
+Taran's list is a revision of a list compiled over a thousand years ago by the fabled philosopher-knight Caprondes. Caprondes' list consisted of:
+# Melnir's Mount, the only ancient wonder that remains to this day. Taran considered dropping it from this list, but concedes that it remains evidence of an impressive feat.
+# The [Tarrasque](/wiki/tarrasque/) of [Bergolast](/wiki/bergolast/). The wonder survives but the city that it supported does not.
+# The Great Oak of Goblinkind. In a manner of speaking, this wonder also made it onto Taran's list.
+# The Spear-in-the-Stone of [Adherion](/wiki/adherion/).
+# The Heliotrope of the Well-Lit Arch. The Well-Lit Arch was a city in the [Golden Realm](/wiki/golden-realm/).
+# The Temple of Elemental Good in [Othonoi](/wiki/othonoi/) (this may be what is now referred to in hushed voices as the "[Terminus Temple](/wiki/49-11/)").
+# The Mausoleum of Khaldi. Khaldi existed in both Zamorqy and [Zhuriman](/wiki/zhuriman/).
+
+## Hooks
+* Are there other wonders worthy of mention?
+* How did the Great Oak become the stump of Ninbolm?
+* What is a temple of elemental good like?
+* How could Khaldi exist in both Zamorqy and Zhuriman?
+* What happened to the ancient wonders that no longer exist?
+* What else has Taran done?
+* What else did Caprondes do?
+* Many of the ancient wonders are from lost or rarely mentioned nations. What happened to them?
+* Have rival lists of wonders been made? What's on them?

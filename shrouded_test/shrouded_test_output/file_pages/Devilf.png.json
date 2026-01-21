@@ -1,0 +1,89 @@
+{
+  "pageid": 2104,
+  "ns": 6,
+  "title": "File:Devilf.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-07-03T06:52:24Z",
+      "user": "Daztur",
+      "size": 250951,
+      "width": 438,
+      "height": 223,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/b/bc/Devilf.png/revision/latest?cb=20130703065224",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Devilf.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2104",
+      "sha1": "e51fadce237a9f5bcab081438e8421061decfd7a",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4090,
+      "parentid": 0,
+      "timestamp": "2013-07-03T06:52:24Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-07-03T06:53:31Z",
+  "lastrevid": 4090,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Devilf.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Devilf.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Devilf.png"
+}

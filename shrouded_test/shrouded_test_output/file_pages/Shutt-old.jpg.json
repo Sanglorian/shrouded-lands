@@ -1,0 +1,52 @@
+{
+  "pageid": 3989,
+  "ns": 6,
+  "title": "File:Shutt-old.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:17:59Z",
+      "user": "Sanglorian",
+      "size": 176845,
+      "width": 655,
+      "height": 875,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/c0/Shutt-old.jpg/revision/latest?cb=20141026081759",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-old.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3989",
+      "sha1": "7e85d2011f774b16021299d42b0b9f129f97cda1",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9145,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:17:59Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:18:20Z",
+  "lastrevid": 9145,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-old.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-old.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-old.jpg"
+}

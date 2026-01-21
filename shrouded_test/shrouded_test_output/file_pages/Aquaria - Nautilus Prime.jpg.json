@@ -1,0 +1,99 @@
+{
+  "pageid": 2804,
+  "ns": 6,
+  "title": "File:Aquaria - Nautilus Prime.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T01:56:02Z",
+      "user": "Sanglorian",
+      "size": 129641,
+      "width": 800,
+      "height": 640,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/5b/Aquaria_-_Nautilus_Prime.jpg/revision/latest?cb=20131103015602",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Nautilus_Prime.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2804",
+      "sha1": "3aec0d427a97c0758ee365d354a94996badcef2e",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "2000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS4 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2010:09:05 07:19:06"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "800"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "640"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2010:09:05 00:19:06"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2010:09:05 00:19:06"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:D7346E39F0B8DF11994DCBF494DE188B"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6074,
+      "parentid": 6072,
+      "timestamp": "2013-11-03T01:56:40Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nBit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Aquaria_-_Nautilus_Prime.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T01:56:40Z",
+  "lastrevid": 6074,
+  "length": 152,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Nautilus_Prime.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Nautilus_Prime.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Aquaria_-_Nautilus_Prime.jpg"
+}

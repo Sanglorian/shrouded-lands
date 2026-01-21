@@ -1,0 +1,55 @@
+{
+  "pageid": 3279,
+  "ns": 6,
+  "title": "File:TigerSkinning.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:19:43Z",
+      "user": "Sanglorian",
+      "size": 84920,
+      "width": 959,
+      "height": 588,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a0/TigerSkinning.jpg/revision/latest?cb=20131123051943",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:TigerSkinning.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3279",
+      "sha1": "2b829fe1fce59a9950ce90b95b9ae4f098c32e58",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "LEAD Technologies Inc. V1.01"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7246,
+      "parentid": 7244,
+      "timestamp": "2013-11-23T05:20:05Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:TigerSkinning.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:20:05Z",
+  "lastrevid": 7246,
+  "length": 72,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:TigerSkinning.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:TigerSkinning.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:TigerSkinning.jpg"
+}

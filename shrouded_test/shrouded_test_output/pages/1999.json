@@ -1,0 +1,15 @@
+{
+  "pageid": 1999,
+  "ns": 10,
+  "title": "Template:Ep-nav",
+  "content": "{| style=\"width:65%; margin:20px auto 10px auto; border:1px solid #AAA; background: #f9f9f9; text-align:center;\"\n|-\n| style=\"padding:0 5px 0 10px; width:50%;\" | '''Previous episode:'''\n| style=\"padding:0 5px 0 10px; width:50%;\" | '''Next episode:'''\n|-\n| style=\"padding:0 5px 0 10px; | {{{prev|}}}\n| style=\"padding:0 5px 0 10px; | {{{next|}}}\n|}<noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3757,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Ep-nav"
+}

@@ -1,0 +1,52 @@
+{
+  "pageid": 3762,
+  "ns": 6,
+  "title": "File:Zigg1.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:07:36Z",
+      "user": "Sanglorian",
+      "size": 41746,
+      "width": 343,
+      "height": 397,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/95/Zigg1.jpg/revision/latest?cb=20141025050736",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Zigg1.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3762",
+      "sha1": "ee1376000c1233676969aeca802f4afe115fb24a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8715,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:07:36Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:07:43Z",
+  "lastrevid": 8715,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Zigg1.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Zigg1.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Zigg1.jpg"
+}

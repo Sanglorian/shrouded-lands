@@ -1,0 +1,52 @@
+{
+  "pageid": 3739,
+  "ns": 6,
+  "title": "File:Jahur3.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:32:05Z",
+      "user": "Sanglorian",
+      "size": 190363,
+      "width": 509,
+      "height": 772,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/8/83/Jahur3.jpg/revision/latest?cb=20141025003205",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Jahur3.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3739",
+      "sha1": "16dba437c39d611fa20ce956c9ab947505bc544b",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8672,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:32:06Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:32:11Z",
+  "lastrevid": 8672,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Jahur3.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Jahur3.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Jahur3.jpg"
+}

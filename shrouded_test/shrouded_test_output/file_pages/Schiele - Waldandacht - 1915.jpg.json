@@ -1,0 +1,51 @@
+{
+  "pageid": 3652,
+  "ns": 6,
+  "title": "File:Schiele - Waldandacht - 1915.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-20T12:45:23Z",
+      "user": "Sanglorian",
+      "size": 177994,
+      "width": 1275,
+      "height": 1120,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/4/4e/Schiele_-_Waldandacht_-_1915.jpg/revision/latest?cb=20141020124523",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Schiele_-_Waldandacht_-_1915.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3652",
+      "sha1": "8b8e0a6f718a7a22f52bd1cd57db31523e787a5e",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8455,
+      "parentid": 8453,
+      "timestamp": "2014-10-20T12:46:08Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Schiele_-_Waldandacht_-_1915.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-20T12:46:08Z",
+  "lastrevid": 8455,
+  "length": 87,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Schiele_-_Waldandacht_-_1915.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Schiele_-_Waldandacht_-_1915.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Schiele_-_Waldandacht_-_1915.jpg"
+}

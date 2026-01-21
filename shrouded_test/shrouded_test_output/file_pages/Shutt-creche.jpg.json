@@ -1,0 +1,52 @@
+{
+  "pageid": 3970,
+  "ns": 6,
+  "title": "File:Shutt-creche.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T07:46:25Z",
+      "user": "Sanglorian",
+      "size": 125851,
+      "width": 658,
+      "height": 446,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/7/78/Shutt-creche.jpg/revision/latest?cb=20141026074625",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-creche.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3970",
+      "sha1": "09ef86213e6b887aba5242bfeac585f9a34b8ca1",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9104,
+      "parentid": 0,
+      "timestamp": "2014-10-26T07:46:25Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T07:46:55Z",
+  "lastrevid": 9104,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-creche.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-creche.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-creche.jpg"
+}

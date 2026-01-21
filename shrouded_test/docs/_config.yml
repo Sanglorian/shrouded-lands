@@ -1,0 +1,19 @@
+title: "Shrouded Lands Wiki Mirror"
+markdown: kramdown
+
+collections:
+  wiki:
+    output: true
+    permalink: /wiki/:name/
+    render_with_liquid: false
+
+defaults:
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: wiki_page
+
+exclude:
+  - ignore_wiki_templates
+

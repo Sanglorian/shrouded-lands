@@ -1,0 +1,51 @@
+{
+  "pageid": 2747,
+  "ns": 6,
+  "title": "File:Innocence, c 1904, watercolour by Thomas Cooper Gotch.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-01T09:34:41Z",
+      "user": "Sanglorian",
+      "size": 95288,
+      "width": 529,
+      "height": 640,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/56/Innocence%2C_c_1904%2C_watercolour_by_Thomas_Cooper_Gotch.jpg/revision/latest?cb=20131101093441",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2747",
+      "sha1": "d7d18781986ef1d957d1313be139fd535d6f1e7a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5898,
+      "parentid": 5896,
+      "timestamp": "2013-11-01T09:34:55Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-01T09:34:55Z",
+  "lastrevid": 5898,
+  "length": 112,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg"
+}

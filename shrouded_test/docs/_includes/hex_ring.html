@@ -1,0 +1,27 @@
+{%- assign parts = include.code | split: '.' -%}
+{%- assign cx = parts[0] | plus: 0 -%}
+{%- assign cy = parts[1] | plus: 0 -%}
+
+{%- assign cx_m1 = cx | minus: 1 -%}
+{%- assign cx_p1 = cx | plus: 1 -%}
+{%- assign cy_m1 = cy | minus: 1 -%}
+{%- assign cy_p1 = cy | plus: 1 -%}
+
+<div class="hex-ring">
+  <div class="hex-row hex-row-top">
+    <div class="hex-cell">{% include hex_icon.html x=cx_m1 y=cy     %}</div>  {# NW #}
+    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy_m1 %}</div>  {# N  #}
+    <div class="hex-cell">{% include hex_icon.html x=cx_p1 y=cy_m1 %}</div>  {# NE #}
+  </div>
+
+  <div class="hex-row hex-row-mid">
+    <div class="hex-cell">{% include hex_icon.html x=cx_m1 y=cy_p1 %}</div>  {# SW #}
+    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy    %}</div>  {# Center #}
+    <div class="hex-cell">{% include hex_icon.html x=cx_p1 y=cy    %}</div>  {# SE #}
+  </div>
+
+  <div class="hex-row hex-row-bot">
+    <div class="hex-cell spacer"></div>
+    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy_p1 %}</div>  {# S #}
+  </div>
+</div>

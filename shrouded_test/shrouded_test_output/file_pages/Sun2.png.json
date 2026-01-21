@@ -1,0 +1,89 @@
+{
+  "pageid": 3780,
+  "ns": 6,
+  "title": "File:Sun2.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:31:00Z",
+      "user": "Sanglorian",
+      "size": 127690,
+      "width": 407,
+      "height": 549,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e6/Sun2.png/revision/latest?cb=20141025053100",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Sun2.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3780",
+      "sha1": "9ebcfd7746347b7b0a6e402fc280d378cc7ae484",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8752,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:31:00Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:31:06Z",
+  "lastrevid": 8752,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Sun2.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Sun2.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Sun2.png"
+}

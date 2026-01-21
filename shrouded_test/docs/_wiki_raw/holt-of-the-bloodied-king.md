@@ -1,0 +1,117 @@
+---
+layout: wiki_page
+title: "Holt of the Bloodied King"
+pageid: 3649
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/Holt_of_the_Bloodied_King"
+categories:
+  - "Category:Daztur"
+  - "Category:Drek"
+  - "Category:Elves"
+  - "Category:Settlements"
+  - "Category:The Kingswood"
+  - "Category:The Witchwater"
+media: []
+---
+
+[[File:August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg|thumb|400px|August Malmström]]
+==The Holt of the Bloodied King==
+'''[[File:2907.png|thumb]]Hex: '''29.07
+
+'''Region: '''[[Kingswood]]
+Connects to: 5.24, 08.27, 13.03, 18.07, 18.28, 21.12,
+24.11, 27.09, 28.07, 29.14.36, 29.14.47, 31.04, 31.07
+and 34.04.
+
+At the heart of [[the Kingswood]] lies the Holt of the
+Bloodied King. At night and during the very
+darkest depths of winter, the [[seelie elves|Seelie Court]] retreats
+into their central Holt. Tiny motes of purplish light
+arise from the trees during this time -- the last 
+remnants of the [[unseelie elves|Unseelie Court]] that once shared 
+ruler-ship in Kingswood, before being chased out 
+hundreds upon hundreds of years ago.
+
+Near the Holt where [[the Bloodied King]] of the 
+Elves of the Kingswood reigns, a great geyser 
+bursts from the earth. It is the source of [[the Witchwater]], a river that flows through and out of 
+the Kingswood.
+
+==Subhexes:==
+*29.07.01 (The Factions of the Elves): although the unseelie court is gone divisions remain within the seelie court.
+*29.07.02 (The Holt has Many Doors): how the elves can show up nearly everywhere in the Kingswood.
+*29.07.03 (The Prince of Men): the Bloodied King is still bound by a treaty signed with the Prince of Men, an ancient human ruler that his race has forgotten.
+==Connections:==
+*Copperhaired human children were once brought in tribute to the Holt along the Orphan‘s March ([[27.09]]).
+*The elves of the Timberlode ([[13.03]]) were exiled from the Kingswood.
+*The Bloodied King destroyed the Citadel of the Verlimes ([[18.07]]) 150 years ago.
+*The [[half-elves|half-elfs]] of Olmsted Keep ([[31.04]]) are the only point of contact between the elves and the outside world.
+*Near the Holt is the grave of a fallen [[cloud and storm giants|storm giantess]] who was enchanted and killed by the elves ([[31.07]]).
+*The Holt includes the Library Without a Floor ([[28.07]]), an extensive library indeed.
+*In the old days the line of [[Steadfasts|Stodfost]] stood sentinel against the unseelie elves ([[21.12]]).
+*[[The Bastard Prince]] ([[34.04]]) claims to be the true heir of both elven courts and has been exiled from the Holt.
+*The Bloodied King once granted the [[Cactogre]] a nymph ([[18.28]]).
+*Legend says that the Bloodied King once petrified the ancestral [[goblins|goblin tree]] ([[05.24]]).
+*A disputed legend says that when the unseelie [[Queen Sinister]] left the side of the Bloodied King she cursed this land so that it now only [[rain]]s but once a year ([[29.14]].36).
+*When the unseelie elves went into exile a few of the seelie court went with them. Those exiles are now known as the [[white elves]] of Zaal ([[08.27]]).
+*After what happened after [[Dead Tiamat|Tiamat‘s]] black head fell, the Bloodied King scoured all the trees that grew in a certain patch of the Kingswood ([[24.11]]).
+*[[Elharen the Silent]] ([[29.14]].47) has come here to seek aid in her personal war against the gnolls of the Burning Lands.
+==Hooks:==
+*Why‘s there such a massive geyser in the middle of the forest?
+*Why would it be foolish for a human (or other species as well?) to bathe in the Witchwater?
+==The Holt Has Many Doors==
+[[File:290702.png|thumb|400px]]Hex 29.07.02
+
+Connects to: Hex 22.04.
+
+The Holt of the Bloodied King has many doors.
+They can be found under the rocks on hillsides,
+beneath the roots of trees and in hollows in the
+banks of the Witchwater. Where they can be
+found changes from day to day but, wherever
+they can be found in the Kingswood they lead to
+the hollow hill of the Holt (except, of course, for
+the few that lead elsewhere...). Many wandering
+humans have stumbled into them over the
+centuries, few to return.
+
+But it was not always so. Although there are
+several stories that account for the doors, the
+most popular is that of a young [[The Bound Bargainers|Bargainer]]. She was young, wild and willful and
+made sport with all of the beasts of the
+Kingswood, even riding on the back of the [[unicorn]]. One day, when she was trading words
+and more with a prince of the fey, she
+complained of the heat of the noonday sun and
+how dearly she would love to return to her home
+for refreshment when the sun rose high. He
+promised her that there would always be a door
+to her home wherever her steed grazed at
+midday, if she would only meet his price. She
+gloried in her cleverness and agreed without a
+second thought, for as every elf knows and as
+the prince had forgotten, at noon the unicorn
+appears not in one place but in one and a
+thousand, although for just the barest instant.
+
+Since that day, the elves have been able to
+travel across the wide miles of the forest and
+return to the Holt with ease. Of the young
+Bargainer, little else is told for the price she paid
+was higher than she could have known. Of the
+elves who believe this legend, many fear what
+would happen to the doors of the Holt if harm
+should ever befall the unicorn...
+===Connection:===
+*An orc ([[22.04]]) tried to exploit these doors to make an attack on the Holt. It failed.
+
+===Hooks:===
+*Why does the unicorn appear in a thousand and one places each day at noon?
+*What was the price that the young Bargainer paid that proved to be so high?
+*Where is the 'elsewhere' that many of the doors lead?
+*Did anything interesting ever happen to the humans who stumbled into one of the doors of the Holt?
+[[Category:The Kingswood]]
+[[Category:Elves]]
+[[Category:The Witchwater]]
+[[Category:Settlements]]
+[[Category:Drek]]
+[[Category:Daztur]]

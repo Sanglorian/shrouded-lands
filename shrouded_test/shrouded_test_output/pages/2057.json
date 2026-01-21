@@ -1,0 +1,15 @@
+{
+  "pageid": 2057,
+  "ns": 10,
+  "title": "Template:Infobox book/doc",
+  "content": "==Description==\nTo use this template, copy the following code and fill in the appropriate fields.\n\n==Syntax==\n<pre>{{infobox box\n | title       = \n | image       = [e.g. \"Example.jpg\"]\n | imagewidth  = [e.g. \"150\"] [default: 210 pixels]\n | author      = \n | illustrator = \n | date        = \n | publisher   = \n | previous    = \n | next        = \n}}</pre>\n\n==Sample output==\n<pre>{{infobox book\n | title       = The Adventures of Flower\n | image       = Example.jpg\n | author      = Alice\n | illustrator = Bob\n | date        = April 1928\n | publisher   = Arthur's\n | previous    = Book One\n | next        = Book Three\n}}</pre>\n\nResults in...\n\n{{infobox book\n | title       = The Adventures of Flower\n | image       = Example.jpg\n | author      = Alice\n | illustrator = Bob\n | date        = April 1928\n | publisher   = Arthur's\n | previous    = Book One\n | next        = Book Three\n}}\n\n<includeonly>[[Category:Infobox templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3957,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox_book/doc"
+}

@@ -1,0 +1,116 @@
+{
+  "pageid": 2640,
+  "ns": 6,
+  "title": "File:FrankCPape2.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T03:14:05Z",
+      "user": "Sanglorian",
+      "size": 869440,
+      "width": 1024,
+      "height": 1580,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/66/FrankCPape2.jpg/revision/latest?cb=20131031031405",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:FrankCPape2.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2640",
+      "sha1": "a58566a38bc93ad94e8d64fe27b0487f637d8bbe",
+      "metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 1048
+        },
+        {
+          "name": "ImageLength",
+          "value": 1600
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS5 Macintosh"
+        },
+        {
+          "name": "DateTime",
+          "value": "2013:05:21 12:30:19"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "933D286055EEB81CF76B619806B83072"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2013:05:09 08:03:26"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2013:05:21 05:30:19"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5609,
+      "parentid": 0,
+      "timestamp": "2013-10-31T03:14:05Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T03:14:07Z",
+  "lastrevid": 5609,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:FrankCPape2.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:FrankCPape2.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:FrankCPape2.jpg"
+}

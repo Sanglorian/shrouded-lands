@@ -1,0 +1,88 @@
+{
+  "pageid": 2812,
+  "ns": 6,
+  "title": "File:Legolas.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T02:15:37Z",
+      "user": "Sanglorian",
+      "size": 1966000,
+      "width": 1000,
+      "height": 1435,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/7/77/Legolas.png/revision/latest?cb=20131103021537",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Legolas.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2812",
+      "sha1": "8ed3f221dba9924ce7303bff33e8416565c63202",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "11811/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6096,
+      "parentid": 6094,
+      "timestamp": "2013-11-03T02:16:26Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Illustration of Legolas, one of the characters in the Lord of the rings.', JesicaLR (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Legolas.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T02:16:26Z",
+  "lastrevid": 6096,
+  "length": 176,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Legolas.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Legolas.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Legolas.png"
+}

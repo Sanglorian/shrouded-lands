@@ -1,0 +1,35 @@
+---
+layout: wiki_page
+title: "Paladins"
+pageid: 2962
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/Paladins"
+categories:
+  - "Category:Deities"
+  - "Category:Green Lady"
+  - "Category:Knights"
+  - "Category:Paladins"
+  - "Category:Professions"
+  - "Category:The Duchy of Thring"
+media: []
+---
+
+The term paladin appears to be used both to describe those [[knights of Thring|Thringish knights]] who are married to the [[Green Lady]], and serve as a generic term for warrior-priests of a particular god (perhaps with divine power).
+==Paladins of other gods==
+*[[Ja of the Red]] is a paladin of [[Chimalia]]
+*The Mithril Spears of the [[Canes Sanguis]] include paladins as well as battle-clerics, inquisitors and others who display divine power.
+==Paladins of the Green Lady==
+Paladins of Thring are, like Duke [[Ulthar the Loved]], married to the [[Green Lady]]. They serve her just as they serve as the voice of the Duke in the wild corners of the Duchy where there are no lords.
+===Origins===
+Though it is rarely spoken of in Thring, the truth is that the [[Daz]] and other pre-Thringish tribes were the originators of the tradition now known as paladinhood (see [[18.14]]). In their ancient tongue it is called ''palladhyu'', and represents a marriage between a eunuch warrior and the goddess Melgerez, The Sleeper in the Riverbed. The eunuch would apparently swim down to the bottom of the river, holding his breath to prove his worth, where Melgerez would attach a squamous sign of her devotion to the place where his manhood had been. Thereafter, the palladhyu would posess supernatural powers including the ability to paralyze with a glance.
+
+Ulthar the Loved took this savage tradition and turned it into the modern concept of the paladin; the grotesque union with Melgerez was replaced by the chaste marriage to the Green Lady. Nevertheless, today's paladins ultimately draw on the same source of ancient pagan power that is bound into the land of Thring.
+===Paladins===
+*[[Sir Waine]] and his squire Tycell.
+*[[Sir Hyfres]]
+[[Category:Professions]]
+[[Category:The Duchy of Thring]]
+[[Category:Deities]]
+[[Category:Knights]]
+[[Category:Green Lady]]
+[[Category:Paladins]]

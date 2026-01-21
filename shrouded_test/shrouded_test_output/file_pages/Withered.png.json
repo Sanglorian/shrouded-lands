@@ -1,0 +1,89 @@
+{
+  "pageid": 2079,
+  "ns": 6,
+  "title": "File:Withered.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-07-02T07:17:37Z",
+      "user": "Daztur",
+      "size": 472748,
+      "width": 604,
+      "height": 447,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/1f/Withered.png/revision/latest?cb=20130702071737",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Withered.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2079",
+      "sha1": "820877047797c9901f20a1e0643be1ef98409b48",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4040,
+      "parentid": 0,
+      "timestamp": "2013-07-02T07:17:37Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-07-02T07:17:49Z",
+  "lastrevid": 4040,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Withered.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Withered.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Withered.png"
+}

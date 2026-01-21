@@ -1,0 +1,15 @@
+{
+  "pageid": 2024,
+  "ns": 10,
+  "title": "Template:Infobox album",
+  "content": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">{{{artist|''Unknown''}}}</div>\n\n|-\n! Released\n| {{{released|''Unknown''}}}\n\n|-\n! Recorded\n| {{{recorded|''Unknown''}}}\n\n|-\n! Length\n| {{{length|''Unknown''}}}\n\n|-\n! Label\n| {{{label|''Unknown''}}}\n\n|-\n! Producer\n| {{{producer|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3937,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Infobox templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox_album"
+}

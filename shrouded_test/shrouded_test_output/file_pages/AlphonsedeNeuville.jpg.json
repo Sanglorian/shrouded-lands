@@ -1,0 +1,60 @@
+{
+  "pageid": 3325,
+  "ns": 6,
+  "title": "File:AlphonsedeNeuville.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T14:40:54Z",
+      "user": "Sanglorian",
+      "size": 112603,
+      "width": 498,
+      "height": 750,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/0/0f/AlphonsedeNeuville.jpg/revision/latest?cb=20131124144054",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:AlphonsedeNeuville.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3325",
+      "sha1": "f7f761dd5baf004a1d1dd76b4751a8f74f2a4f40",
+      "metadata": [
+        {
+          "name": "Copyright",
+          "value": "http://www.RenePaul.net"
+        },
+        {
+          "name": "JPEGFileComment",
+          "value": "http://www.RenePaul.net"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7384,
+      "parentid": 0,
+      "timestamp": "2013-11-24T14:40:54Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:40:57Z",
+  "lastrevid": 7384,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:AlphonsedeNeuville.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:AlphonsedeNeuville.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:AlphonsedeNeuville.jpg"
+}

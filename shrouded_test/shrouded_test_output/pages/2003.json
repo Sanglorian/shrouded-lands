@@ -1,0 +1,15 @@
+{
+  "pageid": 2003,
+  "ns": 10,
+  "title": "Template:Performer/doc",
+  "content": ";Description\n:This template is used to create an small [[Help:Infobox|infobox]] to show who performs a certain character.\n;Syntax\n:Type <code>{{t|performer|Performer}}</code> at the top of an article. The name is not automatically linked in case extra information is wanted.\n;Sample output\n:<code><nowiki>{{performer|[[Help:Templates|Bob]]}}</nowiki></code> gives...\n\n{{performer|[[Help:Templates|Bob]]}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3761,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Performer/doc"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 1897,
+  "ns": 10,
+  "title": "Template:Delete/doc",
+  "content": ";Description\n:This template is used to mark pages for deletion, categorizing them in [[:Category:Candidates for deletion]].\n;Syntax\n:Type <code>{{t|delete}}</code> on the page to be deleted.'''\n\n<includeonly>[[Category:Article management templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3191,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Delete/doc"
+}

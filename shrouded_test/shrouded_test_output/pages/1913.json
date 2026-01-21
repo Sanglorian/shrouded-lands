@@ -1,0 +1,15 @@
+{
+  "pageid": 1913,
+  "ns": 10,
+  "title": "Template:Col-end/doc",
+  "content": ";Description\n:This template ends a column, as part of a two-column template.\n;Syntax\n:Type <code>{{t|Col-begin}}</code>, then whatever you would like inside the first box, then <code>{{t|Col-2}}</code> and whatever you want in the second box, ended by <code>{{t|Col-end}}</code>.\n:For example...\n<pre>\n{{Col-begin}}\nText\n{{Col-2}}\nText\n{{Col-end}}\n</pre>\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3353,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Col-end/doc"
+}

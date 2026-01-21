@@ -1,0 +1,24 @@
+---
+layout: wiki_page
+title: "Template:For/doc"
+pageid: 1929
+namespace: 10
+original_url: "https://shrouded-lands.fandom.com/wiki/Template:For/doc"
+categories:
+  - "Category:Template documentation"
+media: []
+---
+
+;Description
+:This template is used at the top of pages for simple [[Help:Disambiguation|disambiguations]].
+;Syntax
+:Type <code>{{t|for|something|page name|optional second pagename}}</code>
+;Sample output
+:<code><nowiki>{{for|the help pages|Help:Contents|Help:Main Page}}</nowiki></code> gives...
+:{{for|the help pages|Help:Contents|Help:Main Page}}
+:<code><nowiki>{{for|2=Help:Contents}}</nowiki></code> gives...
+:{{for|2=Help:Contents}}
+;See also
+:[[Wikipedia:Template:For|Template:For]] on Wikipedia.
+
+<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

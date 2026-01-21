@@ -1,0 +1,88 @@
+{
+  "pageid": 2505,
+  "ns": 6,
+  "title": "File:ReneBull3.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T13:21:54Z",
+      "user": "Sanglorian",
+      "size": 2166760,
+      "width": 797,
+      "height": 1023,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f2/ReneBull3.png/revision/latest?cb=20131027132154",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:ReneBull3.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2505",
+      "sha1": "a81eeac3f934c87f09af6a71ec3251ca515b8891",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7340,
+      "parentid": 5060,
+      "timestamp": "2013-11-24T14:07:02Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://boards.collectors-society.com/ubbthreads.php?ubb=showflat&Number=6251980"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:07:02Z",
+  "lastrevid": 7340,
+  "length": 95,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:ReneBull3.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:ReneBull3.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:ReneBull3.png"
+}

@@ -1,0 +1,52 @@
+{
+  "pageid": 2653,
+  "ns": 6,
+  "title": "File:WilliamHenryJamesBoot.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T04:01:16Z",
+      "user": "Sanglorian",
+      "size": 228015,
+      "width": 1024,
+      "height": 676,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/4/49/WilliamHenryJamesBoot.jpg/revision/latest?cb=20131031040116",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamHenryJamesBoot.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2653",
+      "sha1": "d46b10796ac61e202b40b59a71c137cf0d327810",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5642,
+      "parentid": 0,
+      "timestamp": "2013-10-31T04:01:16Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T04:01:19Z",
+  "lastrevid": 5642,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamHenryJamesBoot.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamHenryJamesBoot.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:WilliamHenryJamesBoot.jpg"
+}

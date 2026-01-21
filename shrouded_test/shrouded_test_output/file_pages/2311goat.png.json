@@ -1,0 +1,89 @@
+{
+  "pageid": 3955,
+  "ns": 6,
+  "title": "File:2311goat.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T02:10:02Z",
+      "user": "Sanglorian",
+      "size": 350088,
+      "width": 532,
+      "height": 334,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/13/2311goat.png/revision/latest?cb=20141026021002",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:2311goat.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3955",
+      "sha1": "98494a11d97830d20b5160c3ba881f31f1b5a306",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9078,
+      "parentid": 0,
+      "timestamp": "2014-10-26T02:10:02Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T02:10:24Z",
+  "lastrevid": 9078,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:2311goat.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:2311goat.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:2311goat.png"
+}

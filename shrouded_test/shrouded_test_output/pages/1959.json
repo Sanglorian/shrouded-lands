@@ -1,0 +1,15 @@
+{
+  "pageid": 1959,
+  "ns": 10,
+  "title": "Template:Infobox item",
+  "content": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Vital statistics</div>\n\n|-\n! Type\n| {{{type|''Unknown''}}}\n\n|-\n! Effects\n| {{{effects|''Unknown''}}}\n\n|-\n! Source\n| {{{source|''Unknown''}}}\n\n|-\n! Cost to buy\n| {{{buy|''Unknown''}}}\n\n|-\n! Cost to sell\n| {{{sell|''Unknown''}}}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3947,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Infobox templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox_item"
+}

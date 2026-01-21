@@ -1,0 +1,89 @@
+{
+  "pageid": 3987,
+  "ns": 6,
+  "title": "File:Shutt-trait.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:13:43Z",
+      "user": "Sanglorian",
+      "size": 729193,
+      "width": 654,
+      "height": 491,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/62/Shutt-trait.png/revision/latest?cb=20141026081343",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-trait.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3987",
+      "sha1": "4c77bf5b3a3dab0e50844b127248c740713324a8",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9140,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:13:43Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:13:52Z",
+  "lastrevid": 9140,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-trait.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-trait.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-trait.png"
+}

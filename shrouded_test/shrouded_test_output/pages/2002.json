@@ -1,0 +1,15 @@
+{
+  "pageid": 2002,
+  "ns": 10,
+  "title": "Template:Performer",
+  "content": "<div style=\"width:300px; float:right; clear:right; border:1px solid #aaa; margin:0 0 1em 1em; padding:4px 4px 4px 10px; background:#f9f9f9; color:black;\">\n'''Played by:'''<br/>\n:'''{{{1}}}'''\n</div><noinclude><br style=\"clear:both;\" />\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3760,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Performer"
+}

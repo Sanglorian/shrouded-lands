@@ -1,0 +1,89 @@
+{
+  "pageid": 3727,
+  "ns": 6,
+  "title": "File:Sing1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:17:59Z",
+      "user": "Sanglorian",
+      "size": 287327,
+      "width": 480,
+      "height": 228,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/ec/Sing1.png/revision/latest?cb=20141025001759",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Sing1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3727",
+      "sha1": "a10be662e20bb10d4263dfc6233fb66431bfb341",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8651,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:17:59Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:18:03Z",
+  "lastrevid": 8651,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Sing1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Sing1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Sing1.png"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 1905,
+  "ns": 10,
+  "title": "Template:Category/doc",
+  "content": ";Description\n:This template may be placed on any category page, to encourage users to help populate that category. ''(Note, it will not say <nowiki>[[Category:Category]]</nowiki> there - it will use the local category name.)''\n;Syntax\n:To use the template, type a short description of the category (unless its name is self-explanatory) followed by <code>{{t|category}}</code>.\n\n<includeonly>[[Category:Category templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3240,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Category/doc"
+}

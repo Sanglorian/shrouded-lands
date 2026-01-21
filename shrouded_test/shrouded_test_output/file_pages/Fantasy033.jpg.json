@@ -1,0 +1,107 @@
+{
+  "pageid": 2500,
+  "ns": 6,
+  "title": "File:Fantasy033.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T11:52:20Z",
+      "user": "Sanglorian",
+      "size": 398636,
+      "width": 747,
+      "height": 1023,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/5e/Fantasy033.jpg/revision/latest?cb=20131027115220",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Fantasy033.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2500",
+      "sha1": "7da91238fe49e9f6a3b9560366ccea7de099dd2c",
+      "metadata": [
+        {
+          "name": "Make",
+          "value": "HP"
+        },
+        {
+          "name": "Model",
+          "value": "HP ScanJet 2400"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "200/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:04:16 11:53:54"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ReferenceBlackWhite",
+          "value": "\n*0/1\n*255/1\n*128/1\n*255/1\n*128/1\n*255/1"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5052,
+      "parentid": 5050,
+      "timestamp": "2013-10-27T11:53:02Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://boards.collectors-society.com/ubbthreads.php?ubb=showflat&Number=4741639"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-30T07:11:20Z",
+  "lastrevid": 5052,
+  "length": 95,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Fantasy033.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Fantasy033.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Fantasy033.jpg"
+}

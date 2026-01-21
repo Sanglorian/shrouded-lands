@@ -1,0 +1,51 @@
+{
+  "pageid": 3631,
+  "ns": 6,
+  "title": "File:FETTI, Domenico - David with the head of Goliath (1620).jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T22:34:48Z",
+      "user": "Sanglorian",
+      "size": 278603,
+      "width": 1177,
+      "height": 1509,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/3/38/FETTI%2C_Domenico_-_David_with_the_head_of_Goliath_%281620%29.jpg/revision/latest?cb=20141013223448",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:FETTI,_Domenico_-_David_with_the_head_of_Goliath_(1620).jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3631",
+      "sha1": "eb29c4bf97135c78bf55ca3e1540c39f98d5ea31",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8368,
+      "parentid": 8366,
+      "timestamp": "2014-10-13T22:35:30Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:FETTI,_Domenico_-_David_with_the_head_of_Goliath_%281620%29.JPG"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T22:35:30Z",
+  "lastrevid": 8368,
+  "length": 118,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:FETTI,_Domenico_-_David_with_the_head_of_Goliath_(1620).jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:FETTI,_Domenico_-_David_with_the_head_of_Goliath_(1620).jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:FETTI,_Domenico_-_David_with_the_head_of_Goliath_(1620).jpg"
+}

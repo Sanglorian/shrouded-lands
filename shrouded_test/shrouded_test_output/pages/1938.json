@@ -1,0 +1,15 @@
+{
+  "pageid": 1938,
+  "ns": 10,
+  "title": "Template:Infobox/doc",
+  "content": "==Description==\nThis template is a sample infobox, to aid in the creation of new infoboxes.\n\nRecommended usage: copy the template code to a new template page, and edit it there.\n\n===Infobox and template background===\nSee [[Help:Templates]], [[Help:Infobox]] and [[Help:Tables]] for some background on how templates and infoboxes work.\n\n===Building blocks===\nThe infobox is made of the following basic building blocks:\n\n* Overall table class: <code>class=\"wikia-infobox\"</code>\n* Table heading cell class: <code>class=\"wikia-infobox-header\"</code>\n* Use row header marks (\"<code>!</code>\") for row title cells ''(and \"<code>|</code>\" for normal cells)''\n* Section separator line: give the header below it a wrapping <code>div</code> with <code>class=\"wikia-infobox-section-header\"</code>\n* Image cell class: <code>class=\"wikia-infobox-image\"</code>\n* Image caption cell class: <code>class=\"wikia-infobox-caption\"</code>\n\n===Other notes===\n* The Title, First, Second, and Third rows show ''\"Unknown\"'' if their values are not specified.\n* The Image, Imagecaption, Fourth, Fifth, and Sixth rows won't show up if their values are not specified: they are each completely enclosed in an 'if' statement.\n\n==Syntax==\n<pre>\n{{infobox\n | title         = \n | image         = [e.g. \"Example.jpg\"]\n | imagewidth    = [e.g. \"150\"] [default: 210 pixels]\n | imagecaption  = \n | first         =\n | second        =\n | third         =\n | fourth        =\n | fifth         =\n | sixth         =\n}}\n</pre>\n\n==Samples==\n<pre>\n{{infobox\n | title         = A pretty flower\n | image         = Example.jpg\n | imagewidth    = 100\n | imagecaption  = Floweris flowerum\n | first         = Pink and green\n | second        = Outdoors\n | fourth        = Annual\n}}\n</pre>\n\nResults in...\n\n{{infobox\n | title         = A pretty flower\n | image         = Example.jpg\n | imagewidth    = 100\n | imagecaption  = Floweris flowerum\n | first         = Pink and green\n | second        = Outdoors\n | fourth        = Annual\n}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]][[Category:Infobox templates| ]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3953,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox/doc"
+}

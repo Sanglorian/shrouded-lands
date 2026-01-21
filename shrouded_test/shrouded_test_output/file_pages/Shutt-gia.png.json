@@ -1,0 +1,89 @@
+{
+  "pageid": 3997,
+  "ns": 6,
+  "title": "File:Shutt-gia.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:25:14Z",
+      "user": "Sanglorian",
+      "size": 249753,
+      "width": 336,
+      "height": 480,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d3/Shutt-gia.png/revision/latest?cb=20141026082514",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-gia.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3997",
+      "sha1": "0a134bc9b38319b07f443adf3a138ef49c7b50ed",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9160,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:25:15Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:25:45Z",
+  "lastrevid": 9160,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-gia.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-gia.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-gia.png"
+}

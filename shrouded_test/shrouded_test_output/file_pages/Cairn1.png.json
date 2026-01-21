@@ -1,0 +1,89 @@
+{
+  "pageid": 3761,
+  "ns": 6,
+  "title": "File:Cairn1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:06:17Z",
+      "user": "Sanglorian",
+      "size": 126310,
+      "width": 261,
+      "height": 352,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/ee/Cairn1.png/revision/latest?cb=20141025050617",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Cairn1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3761",
+      "sha1": "f21bfc89ecf8e133b1841589c8630e8308b0a2c2",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8713,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:06:17Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:06:23Z",
+  "lastrevid": 8713,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Cairn1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Cairn1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Cairn1.png"
+}

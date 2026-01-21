@@ -1,0 +1,51 @@
+{
+  "pageid": 3290,
+  "ns": 6,
+  "title": "File:Elefanten aus Gottlieb Tobias Wilhelm Unterhaltungen aus der Naturgeschichte.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:55:26Z",
+      "user": "Sanglorian",
+      "size": 252977,
+      "width": 940,
+      "height": 574,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a5/Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg/revision/latest?cb=20131123055526",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3290",
+      "sha1": "006dd4c96f3ad3b983ddc8c734ac96d3e751d50c",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7273,
+      "parentid": 7271,
+      "timestamp": "2013-11-23T05:55:41Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:55:41Z",
+  "lastrevid": 7273,
+  "length": 135,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg"
+}

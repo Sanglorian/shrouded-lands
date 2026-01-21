@@ -1,0 +1,49 @@
+---
+layout: wiki_page
+title: Winds
+pageid: 3104
+namespace: 0
+original_url: https://shrouded-lands.fandom.com/wiki/Winds
+categories:
+- Category:Cities
+- Category:The Freeholds
+- Category:Winds
+media: []
+neighbors:
+- '13.08'
+- '20.10'
+- '22.11'
+- '24.11'
+- '24.12'
+- '25.18'
+- '26.13'
+image: 2311.png
+---
+Hex [23.11](/wiki/23-11/)
+
+# Winds
+[Freehold](/wiki/the-freeholds/), [Thringish](/wiki/duchy-of-thring/) and [Shuttered](/wiki/shuttered/) traders, and caravans from the [Welt Road](/wiki/welt-road/), pour into this cramped, filthy town. It lies just beyond the claims of any Duchy noble. Shuttered allows it independence due to its position as a neutral trade center. The town is called Winds because its roads branch out towards each "wind" - north, south, east and west - and because of the mysterious gusts that whistle and howl through the caves beneath the city. The cave winds blow unpredictably, some gusts so violent that sentries on the wall hear them. A tribe of deaf kobolds dwells beneath the streets. In exchange for keeping the caverns and tunnels free of monsters or elf invaders, the citizens not only tolerate them, but grant them the privilege of digging through the town's refuse.
+
+Before Winds became a trade hub, a line of windseers held great influence, claiming that the caves winds were omens that they alone could interpret. The title of windseer still exists, although the last ten or so have been homeless and have held sway only among the most destitute or superstitious. Naturally, the militia keeps a sharp eye on them.
+
+In this enlightened age, the Council of the Calm rules. The Council convenes monthly in a chamber where every member is submerged up to his or her waist in a cistern. An electric eel is then placed into each cistern. The eels are trained by the city eelmistress to only discharge electricity when they detect hostility or lies. They are also put to use in the city's popular public criminal trials. While the Council meetings present a facade of peace, it forces especially desperate or ambitious council members to turn to the town's criminal underbelly when they cannot resolve certain issues with the required civility.
+
+Winds fears elves above all. A burning stake in Council Square awaits any elf discovered within the city walls. As far as anyone can remember, it has not been used for this purpose. But last year Alceron, the current windseer, led a mob that burned Ulmo Targus, an alleged disciple of [Yaegha Six-Kidneys](/wiki/yaegha-six-kidneys/) ([25.18](/wiki/25-18/)). Even if Ulmo was innocent, he did have some magic in him. The charcoal from his lynching emits a potent aura. Alceron himself gathered most of the charcoal after the flames died.
+
+No one in Winds knows, but Alceron was once a pupil of [Severard](/wiki/severard/) ([13.08](/wiki/13-08/)). They do know that few have seen him since the lynching.
+## Features
+* [Cowlard](/wiki/cowlard/) has just rolled into town.
+* The [Princess of the Seers](/wiki/princess-of-the-seers/) seeks to awaken the vast undead being that makes up the White Road.
+* [Ledo](/wiki/ledo/) is hunting down all of the heirs of Egil Longspear at the behest of his patient father.
+* [Goat Onna Stick](/wiki/goat-onna-stick/) is the inn of choice for many new arrivals to Winds.
+
+## Connections
+* The source of the wind is the howling of the countless thousands of dead whose bones have been ground up to pave the [White Road](/wiki/white-road/) ([26.13](/wiki/26-13/)).
+* [Flea](/wiki/flea/), a local bandit leader, has an agent working for him here to tip him off about caravans and vigilantes ([20.10](/wiki/20-10/)).
+* The locals believe that the lost spear known as Seve Paces is rightfully theirs ([22.11](/wiki/22-11/)).
+* A small patch of Winds’ territory rightfully belongs to the [Kingswood](/wiki/kingswood/) ([24.11](/wiki/24-11/)).
+* The [Grey Comedy](/wiki/grey-comedy/) is performing in a commons just outside of town ([24.12](/wiki/24-12/)).
+
+## Hooks
+* Where do the eels come from? Who is the current eelmistress, and who can become one?
+* What is Alceron doing with Ulmo's charcoal? And who knows of his ties to Severard?

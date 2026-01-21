@@ -1,0 +1,15 @@
+{
+  "pageid": 1933,
+  "ns": 10,
+  "title": "Template:Documentation/doc",
+  "content": "==Description==\nThis template is used to insert descriptions on template pages.\n\n==Syntax==\nAdd <code><nowiki><noinclude></nowiki>{{t|documentation}}<nowiki></noinclude></nowiki></code> at the end of the template page.\n\n==Usage==\n\n===On the Template page===\nThis is the normal format when used:\n\n<pre>\nTEMPLATE CODE<includeonly>Any categories to be inserted into articles by the template</includeonly><noinclude>\n{{documentation}}</noinclude>\n</pre>\n\n''If your template is not a completed div or table, you may need to close the tags just before <code><nowiki>{{documentation}}</nowiki></code> is inserted (within the noinclude tags).''\n\n''A line break right before <code><nowiki>{{documentation}}</nowiki></code> can also be useful as it helps prevent the documentation template \"running into\" previous code.''\n\n===On the Template/doc page===\nNormally, you will want to write something like the following on the documentation page:\n\n<pre>\n==Description==\nThis template is used to do something.\n\n==Syntax==\nType <code>{{t|templatename}}</code> somewhere.\n\n==Samples==\n<code>&lt;nowiki>{{templatename|input}}&lt;/nowiki></code> \n\nresults in...\n\n{{templatename|input}}\n\n<includeonly>Any categories for the template itself</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>\n</pre>\n\nUse any or all of the above description/syntax/sample output sections. You may also want to add \"see also\" or other sections.\n\nNote that the above example also uses the [[Template:T]] and [[Template:T/piece]] templates.\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3973,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Documentation/doc"
+}

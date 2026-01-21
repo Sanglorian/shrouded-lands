@@ -1,0 +1,51 @@
+{
+  "pageid": 3686,
+  "ns": 6,
+  "title": "File:Lancelot and Hellawes.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T22:28:43Z",
+      "user": "Sanglorian",
+      "size": 546277,
+      "width": 1056,
+      "height": 1311,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/6e/Lancelot_and_Hellawes.jpg/revision/latest?cb=20141024222843",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Lancelot_and_Hellawes.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3686",
+      "sha1": "917b363ae780c4d4daec2755aecddcffc14ba979",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8564,
+      "parentid": 8562,
+      "timestamp": "2014-10-24T22:29:28Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Lancelot_and_Hellawes.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T22:29:28Z",
+  "lastrevid": 8564,
+  "length": 80,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Lancelot_and_Hellawes.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Lancelot_and_Hellawes.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Lancelot_and_Hellawes.jpg"
+}

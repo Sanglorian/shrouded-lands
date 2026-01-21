@@ -1,0 +1,67 @@
+{
+  "pageid": 2462,
+  "ns": 6,
+  "title": "File:Last Centaur.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T05:24:01Z",
+      "user": "Sanglorian",
+      "size": 1928671,
+      "width": 1961,
+      "height": 3033,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/96/Last_Centaur.jpg/revision/latest?cb=20131027052401",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Last_Centaur.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2462",
+      "sha1": "d0b192e8455861c7c66af5b78d154b0d7582b4e4",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:02:25 11:54:32"
+        },
+        {
+          "name": "ImageUniqueID",
+          "value": "B62803549C1D4781BF267B70DE833136"
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery 15.4.3502.922"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4967,
+      "parentid": 4964,
+      "timestamp": "2013-10-27T05:24:56Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:Last_Centaur.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-30T14:25:37Z",
+  "lastrevid": 4967,
+  "length": 72,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Last_Centaur.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Last_Centaur.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Last_Centaur.jpg"
+}

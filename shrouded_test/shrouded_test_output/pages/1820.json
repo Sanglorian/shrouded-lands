@@ -1,0 +1,15 @@
+{
+  "pageid": 1820,
+  "ns": 10,
+  "title": "Template:Main",
+  "content": ":''Main article: [[{{{1}}}]]''<noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3302,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Main"
+}

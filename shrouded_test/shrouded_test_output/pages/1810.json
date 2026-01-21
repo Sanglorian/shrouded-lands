@@ -1,0 +1,15 @@
+{
+  "pageid": 1810,
+  "ns": 10,
+  "title": "Template:Clr",
+  "content": "<div style=\"clear:both; margin:0; padding:0;\"></div><noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3259,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Clr"
+}

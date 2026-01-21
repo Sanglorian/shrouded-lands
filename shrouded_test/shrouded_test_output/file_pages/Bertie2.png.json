@@ -1,0 +1,89 @@
+{
+  "pageid": 3755,
+  "ns": 6,
+  "title": "File:Bertie2.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:55:48Z",
+      "user": "Sanglorian",
+      "size": 620907,
+      "width": 656,
+      "height": 948,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/5/5c/Bertie2.png/revision/latest?cb=20141025005548",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Bertie2.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3755",
+      "sha1": "86b3380ce3b79111a304834450486e20e964cd40",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8702,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:55:48Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:56:06Z",
+  "lastrevid": 8702,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Bertie2.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Bertie2.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Bertie2.png"
+}

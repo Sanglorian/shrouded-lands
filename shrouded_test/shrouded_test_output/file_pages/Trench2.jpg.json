@@ -1,0 +1,80 @@
+{
+  "pageid": 3758,
+  "ns": 6,
+  "title": "File:Trench2.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T04:58:35Z",
+      "user": "Sanglorian",
+      "size": 140731,
+      "width": 450,
+      "height": 610,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/cd/Trench2.jpg/revision/latest?cb=20141025045835",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Trench2.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3758",
+      "sha1": "89a0c0746ca70fd63e30d8230330781dfbb906f1",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "350/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "350/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop 7.0"
+        },
+        {
+          "name": "DateTime",
+          "value": "2007:04:02 09:45:52"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8708,
+      "parentid": 0,
+      "timestamp": "2014-10-25T04:58:35Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T04:58:42Z",
+  "lastrevid": 8708,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Trench2.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Trench2.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Trench2.jpg"
+}

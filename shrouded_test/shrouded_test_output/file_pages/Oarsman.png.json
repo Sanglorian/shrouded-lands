@@ -1,0 +1,108 @@
+{
+  "pageid": 2674,
+  "ns": 6,
+  "title": "File:Oarsman.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T05:38:58Z",
+      "user": "Sanglorian",
+      "size": 2640297,
+      "width": 1600,
+      "height": 1200,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/9b/Oarsman.png/revision/latest?cb=20131031053858",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Oarsman.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2674",
+      "sha1": "92e7aa98137dc7b6b2f97a6e31cf4fac32fa96db",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour-alpha"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "PixelXDimension",
+              "value": "1600"
+            },
+            {
+              "name": "ColorSpace",
+              "value": "65535"
+            },
+            {
+              "name": "PixelYDimension",
+              "value": "1200"
+            },
+            {
+              "name": "DateTime",
+              "value": "2013:09:05 17:09:53"
+            },
+            {
+              "name": "Software",
+              "value": "Pixelmator 2.2"
+            },
+            {
+              "name": "XResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5698,
+      "parentid": 5696,
+      "timestamp": "2013-10-31T05:39:27Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n\"Oarsman\" © 2013 Kaitlynn Peavler and Cheeky Mountain Parrot Games, created for Conquering Corsairs, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/ <http://www.prismaticart.com/collection/oarsman>"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T05:39:27Z",
+  "lastrevid": 5698,
+  "length": 275,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Oarsman.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Oarsman.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Oarsman.png"
+}

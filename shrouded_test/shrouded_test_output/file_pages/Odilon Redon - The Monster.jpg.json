@@ -1,0 +1,51 @@
+{
+  "pageid": 3660,
+  "ns": 6,
+  "title": "File:Odilon Redon - The Monster.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-20T21:41:02Z",
+      "user": "Sanglorian",
+      "size": 133393,
+      "width": 524,
+      "height": 1160,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/ce/Odilon_Redon_-_The_Monster.jpg/revision/latest?cb=20141020214102",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Odilon_Redon_-_The_Monster.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3660",
+      "sha1": "5698ab5f895b47a3df742a7c3c55e5c02686058a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8480,
+      "parentid": 8478,
+      "timestamp": "2014-10-20T21:41:45Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Odilon_Redon_-_The_Monster.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-20T21:41:45Z",
+  "lastrevid": 8480,
+  "length": 85,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Odilon_Redon_-_The_Monster.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Odilon_Redon_-_The_Monster.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Odilon_Redon_-_The_Monster.jpg"
+}

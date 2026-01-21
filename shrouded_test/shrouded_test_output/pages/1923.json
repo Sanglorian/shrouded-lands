@@ -1,0 +1,15 @@
+{
+  "pageid": 1923,
+  "ns": 10,
+  "title": "Template:Box1 start/doc",
+  "content": ";Description\n:This template starts a blue box, as the first part of a two column box.\n;Syntax\n:Type <code>{{t|Box1 start}}</code>, then whatever you would like inside the first box, then <code>{{t|Box2 start}}</code> and whatever you want in the second box, ended by <code>{{t|Boxes end}}</code>.\n:For example...\n<pre>\n{{Box1 start}}\nText\n{{Box2 start}}\nText\n{{Boxes end}}\n</pre>\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3384,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Box1_start/doc"
+}

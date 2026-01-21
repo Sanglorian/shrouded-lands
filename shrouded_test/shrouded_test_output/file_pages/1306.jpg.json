@@ -1,0 +1,52 @@
+{
+  "pageid": 3911,
+  "ns": 6,
+  "title": "File:1306.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T01:29:54Z",
+      "user": "Sanglorian",
+      "size": 260794,
+      "width": 657,
+      "height": 929,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d0/1306.jpg/revision/latest?cb=20141026012954",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:1306.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3911",
+      "sha1": "eb76fa5a749aa7392ffc089ea8d19f4b929e64fd",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8995,
+      "parentid": 0,
+      "timestamp": "2014-10-26T01:29:54Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T01:30:38Z",
+  "lastrevid": 8995,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:1306.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:1306.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:1306.jpg"
+}

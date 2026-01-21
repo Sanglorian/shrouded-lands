@@ -1,0 +1,59 @@
+{
+  "pageid": 3280,
+  "ns": 6,
+  "title": "File:Edward Julius Detmold50.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:30:19Z",
+      "user": "Sanglorian",
+      "size": 494259,
+      "width": 1032,
+      "height": 1517,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e5/Edward_Julius_Detmold50.jpg/revision/latest?cb=20131123053019",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Edward_Julius_Detmold50.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3280",
+      "sha1": "409c73ab692d1ee3b1f5a2915e8e0dd719a881e1",
+      "metadata": [
+        {
+          "name": "Software",
+          "value": "Picasa 3.0"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0210"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7253,
+      "parentid": 7247,
+      "timestamp": "2013-11-23T05:34:46Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Edward_Julius_Detmold50.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:34:46Z",
+  "lastrevid": 7253,
+  "length": 82,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Edward_Julius_Detmold50.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Edward_Julius_Detmold50.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Edward_Julius_Detmold50.jpg"
+}

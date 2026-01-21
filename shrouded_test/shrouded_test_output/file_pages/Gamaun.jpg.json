@@ -1,0 +1,56 @@
+{
+  "pageid": 2499,
+  "ns": 6,
+  "title": "File:Gamaun.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T11:44:55Z",
+      "user": "Sanglorian",
+      "size": 127020,
+      "width": 608,
+      "height": 1000,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/8/89/Gamaun.jpg/revision/latest?cb=20131027114455",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Gamaun.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2499",
+      "sha1": "6160af7bfdb048011143a348877a9ebb0dcaebbb",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), default quality"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5048,
+      "parentid": 0,
+      "timestamp": "2013-10-27T11:44:55Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2015-01-18T12:59:00Z",
+  "lastrevid": 5048,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Gamaun.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Gamaun.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Gamaun.jpg"
+}

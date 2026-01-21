@@ -1,0 +1,67 @@
+{
+  "pageid": 2467,
+  "ns": 6,
+  "title": "File:Madman's Funeral.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T07:15:40Z",
+      "user": "Sanglorian",
+      "size": 2318229,
+      "width": 1937,
+      "height": 3041,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/8/8e/Madman%27s_Funeral.jpg/revision/latest?cb=20131027071540",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Madman%27s_Funeral.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2467",
+      "sha1": "3c22e0d5ba5cdd5cc4a2519b417e459f6c189ab5",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:02:25 11:52:07"
+        },
+        {
+          "name": "ImageUniqueID",
+          "value": "5A451B3F2D77409693303F871B04F778"
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery 15.4.3502.922"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4984,
+      "parentid": 4982,
+      "timestamp": "2013-10-27T07:16:11Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:Madman%27s_Funeral.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-27T07:16:11Z",
+  "lastrevid": 4984,
+  "length": 78,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Madman%27s_Funeral.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Madman%27s_Funeral.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Madman%27s_Funeral.jpg"
+}

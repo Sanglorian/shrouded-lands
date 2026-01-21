@@ -1,0 +1,77 @@
+{
+  "pageid": 3316,
+  "ns": 6,
+  "title": "File:JohnDBatten15.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T14:28:17Z",
+      "user": "Sanglorian",
+      "size": 205449,
+      "width": 547,
+      "height": 1565,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/2/2e/JohnDBatten15.png/revision/latest?cb=20131124142817",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:JohnDBatten15.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3316",
+      "sha1": "7a0a6f202f2a2dd7aa599485256e17a775a6d71c",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "greyscale"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7367,
+      "parentid": 0,
+      "timestamp": "2013-11-24T14:28:17Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:28:19Z",
+  "lastrevid": 7367,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:JohnDBatten15.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:JohnDBatten15.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:JohnDBatten15.png"
+}

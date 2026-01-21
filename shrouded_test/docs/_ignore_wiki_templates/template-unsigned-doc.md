@@ -1,0 +1,22 @@
+---
+layout: wiki_page
+title: "Template:Unsigned/doc"
+pageid: 1926
+namespace: 10
+original_url: "https://shrouded-lands.fandom.com/wiki/Template:Unsigned/doc"
+categories:
+  - "Category:Template documentation"
+media: []
+---
+
+;Description
+:This is for use when users do not sign their posts in talk pages.
+;Syntax
+:Type <code>{{t|unsigned|username}}</code> where "username" is the name of the user who did not sign their post. You can also add the current date via a third parameter.
+;Sample output
+:<code><nowiki>{{unsigned|Default}}</nowiki></code> gives...
+:{{unsigned|Default}}
+:<code><nowiki>{{unsigned|Default|~~~~~}}</nowiki></code> gives...
+:{{unsigned|Default|12:01, 01 January 2010 (UTC)}}
+
+<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

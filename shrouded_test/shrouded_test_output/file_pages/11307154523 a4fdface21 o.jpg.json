@@ -1,0 +1,67 @@
+{
+  "pageid": 3429,
+  "ns": 6,
+  "title": "File:11307154523 a4fdface21 o.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-12-16T11:26:50Z",
+      "user": "Sanglorian",
+      "size": 568728,
+      "width": 1362,
+      "height": 1571,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/b/bd/11307154523_a4fdface21_o.jpg/revision/latest?cb=20131216112650",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:11307154523_a4fdface21_o.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3429",
+      "sha1": "e3c4cf793bbf957e46481f49beb45e1228745cfb",
+      "metadata": [
+        {
+          "name": "Copyright",
+          "value": "Public Domain, from the British Library&#039;s collections, 2013\n\n"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Onze aarde. Handboek der natuurkundige aardrijkskunde ... Met 150 platen en 20 kaartjes in afzonderlijken Atlas\n\n"
+        },
+        {
+          "name": "dc-date",
+          "value": "1885:01:01"
+        },
+        {
+          "name": "Identifier",
+          "value": "000376864"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7680,
+      "parentid": 7678,
+      "timestamp": "2013-12-16T11:27:05Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://www.flickr.com/photos/britishlibrary/11307154523/"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-16T11:27:05Z",
+  "lastrevid": 7680,
+  "length": 72,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:11307154523_a4fdface21_o.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:11307154523_a4fdface21_o.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:11307154523_a4fdface21_o.jpg"
+}

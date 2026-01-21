@@ -1,0 +1,99 @@
+{
+  "pageid": 2670,
+  "ns": 6,
+  "title": "File:Path29.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T05:10:00Z",
+      "user": "Sanglorian",
+      "size": 1000810,
+      "width": 3000,
+      "height": 1125,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/1c/Path29.jpg/revision/latest?cb=20131031051000",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Path29.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2670",
+      "sha1": "ec7fa79fde1b03d95e4e8a13529280ec0ba9e233",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS3 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2008:12:04 10:26:28"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "3000"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1125"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2008:12:04 12:26:28"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2008:12:04 12:26:28"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5684,
+      "parentid": 5682,
+      "timestamp": "2013-10-31T05:10:48Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n-AP-, 'Path29', OpenGameArt.org (CC BY-SA 3.0 Unported) http://opengameart.org/content/miscellaneous-concept-art"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T05:10:48Z",
+  "lastrevid": 5684,
+  "length": 129,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Path29.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Path29.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Path29.jpg"
+}

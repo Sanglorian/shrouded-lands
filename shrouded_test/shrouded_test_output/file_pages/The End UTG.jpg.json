@@ -1,0 +1,67 @@
+{
+  "pageid": 2471,
+  "ns": 6,
+  "title": "File:The End UTG.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T07:26:40Z",
+      "user": "Sanglorian",
+      "size": 1355924,
+      "width": 1921,
+      "height": 2601,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/1/13/The_End_UTG.jpg/revision/latest?cb=20131027072640",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:The_End_UTG.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2471",
+      "sha1": "eb3b70210ed82c65eb2371104e9ce32f311f21e2",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:02:25 11:50:43"
+        },
+        {
+          "name": "ImageUniqueID",
+          "value": "F51F4AF03F7547BAAA8ECE484A262B41"
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery 15.4.3502.922"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 4998,
+      "parentid": 4996,
+      "timestamp": "2013-10-27T07:26:58Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:The_End_UTG.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-01T23:04:05Z",
+  "lastrevid": 4998,
+  "length": 71,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:The_End_UTG.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:The_End_UTG.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:The_End_UTG.jpg"
+}

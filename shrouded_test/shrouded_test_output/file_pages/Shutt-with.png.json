@@ -1,0 +1,89 @@
+{
+  "pageid": 4015,
+  "ns": 6,
+  "title": "File:Shutt-with.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:57:45Z",
+      "user": "Sanglorian",
+      "size": 678614,
+      "width": 655,
+      "height": 411,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d9/Shutt-with.png/revision/latest?cb=20141026085745",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-with.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4015",
+      "sha1": "7198b2fc00e0d32d75d5f42239c786630e9e4e32",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "8661/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9189,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:57:45Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:57:52Z",
+  "lastrevid": 9189,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-with.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-with.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-with.png"
+}

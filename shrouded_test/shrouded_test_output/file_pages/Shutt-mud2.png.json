@@ -1,0 +1,89 @@
+{
+  "pageid": 4021,
+  "ns": 6,
+  "title": "File:Shutt-mud2.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T09:04:48Z",
+      "user": "Sanglorian",
+      "size": 393368,
+      "width": 421,
+      "height": 545,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/98/Shutt-mud2.png/revision/latest?cb=20141026090448",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-mud2.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4021",
+      "sha1": "eca75b095e067df92896f13a2bcf2cbe99dd2588",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9197,
+      "parentid": 0,
+      "timestamp": "2014-10-26T09:04:48Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T09:05:55Z",
+  "lastrevid": 9197,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-mud2.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-mud2.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-mud2.png"
+}

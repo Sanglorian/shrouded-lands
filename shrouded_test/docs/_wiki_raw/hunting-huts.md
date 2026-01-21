@@ -1,0 +1,15 @@
+---
+layout: wiki_page
+title: "Hunting huts"
+pageid: 2608
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/Hunting_huts"
+categories:
+  - "Category:Creatures"
+  - "Category:The Lands of Gore"
+media: []
+---
+
+#REDIRECT [[10.14]]
+[[Category:Creatures]]
+[[Category:The Lands of Gore]]

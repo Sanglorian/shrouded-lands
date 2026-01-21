@@ -1,0 +1,52 @@
+{
+  "pageid": 3904,
+  "ns": 6,
+  "title": "File:Freeh.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T01:23:00Z",
+      "user": "Sanglorian",
+      "size": 89831,
+      "width": 545,
+      "height": 389,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e7/Freeh.jpg/revision/latest?cb=20141026012300",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Freeh.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3904",
+      "sha1": "26f0a5c058119bb029fba61957f26be642d74821",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8981,
+      "parentid": 0,
+      "timestamp": "2014-10-26T01:23:00Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T01:23:06Z",
+  "lastrevid": 8981,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Freeh.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Freeh.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Freeh.jpg"
+}

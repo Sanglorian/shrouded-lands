@@ -1,0 +1,95 @@
+{
+  "pageid": 3500,
+  "ns": 6,
+  "title": "File:Cearadactylus.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-01-10T15:46:47Z",
+      "user": "Sanglorian",
+      "size": 814110,
+      "width": 1875,
+      "height": 1764,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e3/Cearadactylus.jpg/revision/latest?cb=20140110154647",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Cearadactylus.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3500",
+      "sha1": "6933a6a0f0af58f6264f4a94d442585d6ec97bf6",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "960000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "960000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 7.0 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2010:11:07 12:43:45"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "1875"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1764"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2010:11:07 07:43:45"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2010:11:07 07:43:45"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7889,
+      "parentid": 7884,
+      "timestamp": "2014-01-10T15:49:39Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Life restoration of Cearadactylus atrox' by Smokeybjb on Wikimedia Commons (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Cearadactylus.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-01-10T15:49:39Z",
+  "lastrevid": 7889,
+  "length": 173,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Cearadactylus.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Cearadactylus.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Cearadactylus.jpg"
+}

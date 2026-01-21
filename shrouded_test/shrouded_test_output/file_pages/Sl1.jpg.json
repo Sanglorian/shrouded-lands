@@ -1,0 +1,64 @@
+{
+  "pageid": 3696,
+  "ns": 6,
+  "title": "File:Sl1.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T23:24:42Z",
+      "user": "Sanglorian",
+      "size": 82377,
+      "width": 400,
+      "height": 315,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f9/Sl1.jpg/revision/latest?cb=20141024232442",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Sl1.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3696",
+      "sha1": "14cce9588edc451727eb95d91f49389b35cdf3df",
+      "metadata": [
+        {
+          "name": "Software",
+          "value": "Picasa"
+        },
+        {
+          "name": "Artist",
+          "value": "Picasa 3.0"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8588,
+      "parentid": 0,
+      "timestamp": "2014-10-24T23:24:42Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T23:24:50Z",
+  "lastrevid": 8588,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Sl1.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Sl1.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Sl1.jpg"
+}

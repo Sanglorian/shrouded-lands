@@ -1,0 +1,52 @@
+{
+  "pageid": 3993,
+  "ns": 6,
+  "title": "File:Shutt-book-boil.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:18:14Z",
+      "user": "Sanglorian",
+      "size": 170151,
+      "width": 452,
+      "height": 645,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d8/Shutt-book-boil.jpg/revision/latest?cb=20141026081814",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-book-boil.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3993",
+      "sha1": "919729d75346ee5ba785c7495d0c44deeeab293f",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9149,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:18:14Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:18:29Z",
+  "lastrevid": 9149,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-book-boil.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-book-boil.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-book-boil.jpg"
+}

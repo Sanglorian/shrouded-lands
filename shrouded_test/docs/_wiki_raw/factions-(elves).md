@@ -1,0 +1,26 @@
+---
+layout: wiki_page
+title: "Factions (elves)"
+pageid: 3453
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/Factions_(elves)"
+categories:
+  - "Category:Elves"
+  - "Category:Organisations"
+  - "Category:The Kingswood"
+media: []
+---
+
+[[File:290701.png|thumb|400px]]Connects to: 17.07, 29.10, 31.04, 36.04.01, 37.01 and 43.08.
+
+The elves of the Court ([[Vo Tume]] in their own language) are all bound by the same [[fey]] contracts, and all ultimately answer to the same [[Bloodied King]]. The King is named Tuma Yedaard plus a hundred other titles and names dependent upon the situation. Tuma Yedaard is also their name for [[The Kingswood|the forest]] itself.
+
+Elves are flighty creatures, and their whims change with seasons and sometimes day by day, and sometimes those whims put one elf at odds with another. However, on any given sunny day, an elf will fall into one of four factions.
+==Factions==
+*[[The Simple]]
+*[[The Loyal]]
+*The [[Bound Bargainers]]
+*The [[Raiders]]
+[[Category:Organisations]]
+[[Category:Elves]]
+[[Category:The Kingswood]]

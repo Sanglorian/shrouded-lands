@@ -1,0 +1,55 @@
+{
+  "pageid": 3634,
+  "ns": 6,
+  "title": "File:Pantagruel01.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T22:44:13Z",
+      "user": "Sanglorian",
+      "size": 199997,
+      "width": 551,
+      "height": 715,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/4/46/Pantagruel01.jpg/revision/latest?cb=20141013224413",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Pantagruel01.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3634",
+      "sha1": "420ae69887b0168935feb0288811764f24eb0ad6",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "Handmade Software, Inc. Image Alchemy v1.12"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8378,
+      "parentid": 8376,
+      "timestamp": "2014-10-13T22:44:46Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Pantagruel01.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T22:44:46Z",
+  "lastrevid": 8378,
+  "length": 71,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Pantagruel01.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Pantagruel01.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Pantagruel01.jpg"
+}

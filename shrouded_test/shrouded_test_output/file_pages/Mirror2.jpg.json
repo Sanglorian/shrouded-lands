@@ -1,0 +1,52 @@
+{
+  "pageid": 3751,
+  "ns": 6,
+  "title": "File:Mirror2.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:49:04Z",
+      "user": "Sanglorian",
+      "size": 177599,
+      "width": 656,
+      "height": 893,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/b/b7/Mirror2.jpg/revision/latest?cb=20141025004904",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Mirror2.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3751",
+      "sha1": "7d34521385bec7d9973fd381f0918b361f45d7d3",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8695,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:49:04Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:49:20Z",
+  "lastrevid": 8695,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Mirror2.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Mirror2.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Mirror2.jpg"
+}

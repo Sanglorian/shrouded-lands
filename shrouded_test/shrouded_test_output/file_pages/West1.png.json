@@ -1,0 +1,89 @@
+{
+  "pageid": 3752,
+  "ns": 6,
+  "title": "File:West1.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T00:52:13Z",
+      "user": "Sanglorian",
+      "size": 259974,
+      "width": 500,
+      "height": 359,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/c/c6/West1.png/revision/latest?cb=20141025005213",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:West1.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3752",
+      "sha1": "9d9d337a1317c1a0fd198dc9570055311e0a9d09",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8697,
+      "parentid": 0,
+      "timestamp": "2014-10-25T00:52:13Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T00:52:27Z",
+  "lastrevid": 8697,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:West1.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:West1.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:West1.png"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 1950,
+  "ns": 10,
+  "title": "Template:From Wikimedia/doc",
+  "content": ";Description\n:This template is used to mark images as having been uploaded on [[wikipedia:|Wikipedia]] or another [[wikimedia:|Wikimedia]] project.\n;Syntax\n:Type <code>{{t|From Wikimedia}}</code> on the image information page.\n\n<includeonly>[[Category:Image wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3510,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:From_Wikimedia/doc"
+}

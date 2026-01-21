@@ -1,0 +1,51 @@
+{
+  "pageid": 3343,
+  "ns": 6,
+  "title": "File:Medusa 1895.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-27T00:27:51Z",
+      "user": "Sanglorian",
+      "size": 274026,
+      "width": 1100,
+      "height": 1109,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a6/Medusa_1895.jpg/revision/latest?cb=20131127002751",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Medusa_1895.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3343",
+      "sha1": "046e861801aff1d69ff02702924ead2415cca9ac",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7442,
+      "parentid": 7440,
+      "timestamp": "2013-11-27T00:28:11Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Medusa_1895.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-27T00:28:11Z",
+  "lastrevid": 7442,
+  "length": 70,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Medusa_1895.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Medusa_1895.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Medusa_1895.jpg"
+}

@@ -1,0 +1,15 @@
+{
+  "pageid": 1903,
+  "ns": 10,
+  "title": "Template:Templatecategory/doc",
+  "content": ";Description\n:This template is used in subcategories of [[:Category:Templates]].\n;Syntax\n:To use the template, type a short description of the template category followed by <code>{{t|templatecategory}}</code>.\n\n<includeonly>[[Category:Category templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3233,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Templatecategory/doc"
+}

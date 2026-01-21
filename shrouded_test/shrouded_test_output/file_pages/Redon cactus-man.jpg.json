@@ -1,0 +1,55 @@
+{
+  "pageid": 3665,
+  "ns": 6,
+  "title": "File:Redon cactus-man.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-21T13:03:02Z",
+      "user": "Sanglorian",
+      "size": 269910,
+      "width": 744,
+      "height": 1137,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/fc/Redon_cactus-man.jpg/revision/latest?cb=20141021130302",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Redon_cactus-man.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3665",
+      "sha1": "a804bb0f6ca083598facdcc7925d9ebfa08a5fd6",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "Copyright 1995 Nicolas Pioch"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8497,
+      "parentid": 8495,
+      "timestamp": "2014-10-21T13:03:45Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Redon_cactus-man.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-21T13:03:45Z",
+  "lastrevid": 8497,
+  "length": 75,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Redon_cactus-man.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Redon_cactus-man.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Redon_cactus-man.jpg"
+}

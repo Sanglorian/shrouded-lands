@@ -1,0 +1,89 @@
+{
+  "pageid": 4013,
+  "ns": 6,
+  "title": "File:Shutt-grey.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T08:56:09Z",
+      "user": "Sanglorian",
+      "size": 91289,
+      "width": 617,
+      "height": 218,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/a6/Shutt-grey.png/revision/latest?cb=20141026085609",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-grey.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4013",
+      "sha1": "cb2a6d15db18e4da3602a619b712ddd49e071802",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9180,
+      "parentid": 0,
+      "timestamp": "2014-10-26T08:56:09Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T08:56:45Z",
+  "lastrevid": 9180,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-grey.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-grey.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-grey.png"
+}

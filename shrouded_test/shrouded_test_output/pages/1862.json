@@ -1,0 +1,16 @@
+{
+  "pageid": 1862,
+  "ns": 10,
+  "title": "Template:Infobox",
+  "content": "<onlyinclude>{| class=\"wikia-infobox\"\n\n|-\n! class=\"wikia-infobox-header\" colspan=\"2\" | {{{title|''Unknown''}}}\n\n|-\n{{#if: {{{image|}}} |\n{{!}} class=\"wikia-infobox-image\" colspan=\"2\" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]\n| }}\n\n|-\n{{#if: {{{imagecaption|}}} |\n{{!}} class=\"wikia-infobox-caption\" colspan=\"2\" {{!}} {{{imagecaption}}}\n| }}\n\n|- \n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Some attributes</div>\n\n|-\n! First\n| {{{first|''Unknown''}}}\n\n|-\n! Second\n| {{{second|''Unknown''}}}\n\n|-\n! Third\n| {{{third|''Unknown''}}}\n\n|-\n! colspan=\"2\" | <div class=\"wikia-infobox-section-header\">Other attributes</div>\n\n|-\n{{#if: {{{fourth|}}} |\n! Fourth\n{{!}} {{{fourth}}}\n| }}\n\n|-\n{{#if: {{{fifth|}}} |\n! Fifth\n{{!}} {{{fifth}}}\n| }}\n\n|-\n{{#if: {{{sixth|}}} |\n! Sixth\n{{!}} {{{sixth}}}\n| }}\n\n|- style=\"font-size:0; line-height:0;\"\n! style=\"width:50%; padding:0\" |\n! style=\"width:50%; padding:0\" |\n\n|}</onlyinclude><noinclude><br style=\"clear:both;\"/>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3935,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates",
+    "Category:Infobox templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Infobox"
+}

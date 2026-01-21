@@ -1,0 +1,105 @@
+{
+  "pageid": 2807,
+  "ns": 6,
+  "title": "File:Environments-19-cave-door.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-03T02:06:47Z",
+      "user": "Sanglorian",
+      "size": 3648585,
+      "width": 2347,
+      "height": 999,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/da/Environments-19-cave-door.png/revision/latest?cb=20131103020647",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Environments-19-cave-door.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2807",
+      "sha1": "ea40c7f40636eb6ff5845e3135e813191e057e16",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "2835/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "DateTime",
+              "value": "2009:11:23 13:58:19"
+            },
+            {
+              "name": "PNGFileComment",
+              "value": [
+                {
+                  "name": "x-default",
+                  "value": "Created with GIMP"
+                },
+                {
+                  "name": "_type",
+                  "value": "lang"
+                }
+              ]
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 6084,
+      "parentid": 6082,
+      "timestamp": "2013-11-03T02:07:12Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nDavid Revoy/Blender Foundation (CC BY 3.0 Unported): http://commons.wikimedia.org/wiki/File:Environments-19-cave-door.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-03T02:07:12Z",
+  "lastrevid": 6084,
+  "length": 138,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Environments-19-cave-door.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Environments-19-cave-door.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Environments-19-cave-door.png"
+}

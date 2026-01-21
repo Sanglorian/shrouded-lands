@@ -1,0 +1,51 @@
+{
+  "pageid": 3662,
+  "ns": 6,
+  "title": "File:Aubrey Beardsley - Pierrot 4.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-21T12:43:38Z",
+      "user": "Sanglorian",
+      "size": 272189,
+      "width": 1359,
+      "height": 971,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/f5/Aubrey_Beardsley_-_Pierrot_4.jpg/revision/latest?cb=20141021124338",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Pierrot_4.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3662",
+      "sha1": "38c6cc9c15ebb67b7e405160de63d336f7c6bbd3",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8488,
+      "parentid": 8486,
+      "timestamp": "2014-10-21T12:45:39Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Aubrey_Beardsley_-_Pierrot_4.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-21T12:45:39Z",
+  "lastrevid": 8488,
+  "length": 87,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Pierrot_4.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Pierrot_4.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Pierrot_4.jpg"
+}

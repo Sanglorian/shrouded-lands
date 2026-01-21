@@ -1,0 +1,51 @@
+{
+  "pageid": 2512,
+  "ns": 6,
+  "title": "File:Joseph-Benwell-Clark-Arabian-Nights.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-27T13:41:26Z",
+      "user": "Sanglorian",
+      "size": 221052,
+      "width": 653,
+      "height": 917,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/ae/Joseph-Benwell-Clark-Arabian-Nights.jpg/revision/latest?cb=20131027134126",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Joseph-Benwell-Clark-Arabian-Nights.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2512",
+      "sha1": "ce7418c8f9a0881441b8dff1ab6c51e828a87d8c",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5082,
+      "parentid": 5080,
+      "timestamp": "2013-10-27T13:41:39Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttps://commons.wikimedia.org/wiki/File:Joseph-Benwell-Clark-Arabian-Nights.JPG"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-27T13:41:39Z",
+  "lastrevid": 5082,
+  "length": 95,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Joseph-Benwell-Clark-Arabian-Nights.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Joseph-Benwell-Clark-Arabian-Nights.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Joseph-Benwell-Clark-Arabian-Nights.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "pageid": 3769,
+  "ns": 6,
+  "title": "File:Winow1.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-25T05:16:29Z",
+      "user": "Sanglorian",
+      "size": 271875,
+      "width": 656,
+      "height": 930,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/9/96/Winow1.jpg/revision/latest?cb=20141025051629",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Winow1.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3769",
+      "sha1": "074dc5131efd8a4b034243d585ff841f3fe9235d",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8729,
+      "parentid": 0,
+      "timestamp": "2014-10-25T05:16:30Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-25T05:16:41Z",
+  "lastrevid": 8729,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Winow1.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Winow1.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Winow1.jpg"
+}

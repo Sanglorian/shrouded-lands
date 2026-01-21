@@ -1,0 +1,89 @@
+{
+  "pageid": 4018,
+  "ns": 6,
+  "title": "File:Shutt-hon.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-26T09:04:36Z",
+      "user": "Sanglorian",
+      "size": 131264,
+      "width": 361,
+      "height": 218,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/e/e8/Shutt-hon.png/revision/latest?cb=20141026090436",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-hon.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=4018",
+      "sha1": "44abbd010313e01c3f755f6319a4855bc4600c72",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "3780/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "3779/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 9194,
+      "parentid": 0,
+      "timestamp": "2014-10-26T09:04:36Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-26T09:05:45Z",
+  "lastrevid": 9194,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-hon.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-hon.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Shutt-hon.png"
+}

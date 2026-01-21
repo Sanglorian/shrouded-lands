@@ -1,0 +1,51 @@
+{
+  "pageid": 2645,
+  "ns": 6,
+  "title": "File:Matejko Stańczyk.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T03:33:55Z",
+      "user": "Sanglorian",
+      "size": 236158,
+      "width": 794,
+      "height": 594,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d6/Matejko_Sta%C5%84czyk.jpg/revision/latest?cb=20131031033355",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Matejko_Sta%C5%84czyk.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2645",
+      "sha1": "d879d2dde17f38b79faa11591cab51e70490157a",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5621,
+      "parentid": 5619,
+      "timestamp": "2013-10-31T03:34:21Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Matejko_Sta%C5%84czyk.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T03:34:21Z",
+  "lastrevid": 5621,
+  "length": 80,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Matejko_Sta%C5%84czyk.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Matejko_Sta%C5%84czyk.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Matejko_Sta%C5%84czyk.jpg"
+}

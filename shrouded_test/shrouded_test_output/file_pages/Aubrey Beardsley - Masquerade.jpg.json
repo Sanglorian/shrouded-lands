@@ -1,0 +1,107 @@
+{
+  "pageid": 3687,
+  "ns": 6,
+  "title": "File:Aubrey Beardsley - Masquerade.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-24T22:32:21Z",
+      "user": "Sanglorian",
+      "size": 428666,
+      "width": 1388,
+      "height": 1163,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/a/ac/Aubrey_Beardsley_-_Masquerade.jpg/revision/latest?cb=20141024223221",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Masquerade.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3687",
+      "sha1": "4744509b613a7e171e089f3d45f8c6635d41db81",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "1500000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "1500000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS4 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:03:21 23:24:26"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "1388"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1163"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "adobe:docid:photoshop:e87eb641-81d1-11de-8571-de236cd0451b"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2009:09:06 06:59:48"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2011:03:21 18:24:26"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "False"
+        },
+        {
+          "name": "iimVersion",
+          "value": 18588
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8567,
+      "parentid": 8565,
+      "timestamp": "2014-10-24T22:32:56Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Aubrey_Beardsley_-_Masquerade.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-24T22:32:56Z",
+  "lastrevid": 8567,
+  "length": 88,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Masquerade.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Masquerade.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Aubrey_Beardsley_-_Masquerade.jpg"
+}

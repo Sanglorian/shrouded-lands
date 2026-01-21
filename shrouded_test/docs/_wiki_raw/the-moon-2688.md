@@ -1,0 +1,25 @@
+---
+layout: wiki_page
+title: "The moon"
+pageid: 2688
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/The_moon"
+categories:
+  - "Category:Astronomy"
+  - "Category:Phenomena"
+  - "Category:The Moon"
+media: []
+---
+
+*[[Umberstone]]
+*[[Lycanthropes]]
+*[[Somnakami]]
+*On the full moon, the cries of the men of [[Naros]] can perhaps be heard in the Dryad Grove ([[05.14]])
+*[[Moon nuts]]
+*[[Flowers of the moon]]
+*There is a Barrier Range superstition that the first bird a man sees on the first full moon following his sixteenth birthday indicates who he shall marry (implemented in [[Simone's Aviary]])
+*The hues and temperaments of [[moon elephants]] change to match the phases of the moon
+*'Once the [[father of all dragons]] asked the darkness behind the moon for a gift and it was granted. Even today, all dragons remember every coin of their hoard, every bauble and every gem.' ([[Kobolds]])
+[[Category:Astronomy]]
+[[Category:Phenomena]]
+[[Category:The Moon]]

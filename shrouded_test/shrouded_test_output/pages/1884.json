@@ -1,0 +1,15 @@
+{
+  "pageid": 1884,
+  "ns": 14,
+  "title": "Category:Candidates for speedy deletion",
+  "content": "There are a few, special cases that {{SITENAME}} speedily deletes articles or files \"on sight\". This page lists articles using the {{t|speedydelete}} template. Before speedily deleting an article, ensure that it meets the [[Project:Candidates for speedy deletion|criteria for speedy deletion]]. For any discussion of pages listed for speedy deletion, please use the talk page of the article in question. \n\nDeleted articles are automatically listed in the [[Special:Log/delete|deletion log]]. \n\nSee also [[:Category:Pages proposed for deletion]].\n\n[[Category:Site maintenance]]",
+  "revision": {
+    "revid": 3076,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Site maintenance"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Category:Candidates_for_speedy_deletion"
+}

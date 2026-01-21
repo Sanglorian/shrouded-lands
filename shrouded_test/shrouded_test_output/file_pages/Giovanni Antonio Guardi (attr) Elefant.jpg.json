@@ -1,0 +1,55 @@
+{
+  "pageid": 3291,
+  "ns": 6,
+  "title": "File:Giovanni Antonio Guardi (attr) Elefant.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-23T05:57:25Z",
+      "user": "Sanglorian",
+      "size": 5772539,
+      "width": 3453,
+      "height": 3197,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/6e/Giovanni_Antonio_Guardi_%28attr%29_Elefant.jpg/revision/latest?cb=20131123055725",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Giovanni_Antonio_Guardi_(attr)_Elefant.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3291",
+      "sha1": "2b4416962f627afbd8f881ea1d452d0fb53379db",
+      "metadata": [
+        {
+          "name": "JPEGFileComment",
+          "value": "LEAD Technologies Inc. V1.01"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7276,
+      "parentid": 7274,
+      "timestamp": "2013-11-23T05:57:50Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Guardi_(attr)_Elefant.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-23T05:57:50Z",
+  "lastrevid": 7276,
+  "length": 97,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Giovanni_Antonio_Guardi_(attr)_Elefant.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Giovanni_Antonio_Guardi_(attr)_Elefant.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Giovanni_Antonio_Guardi_(attr)_Elefant.jpg"
+}

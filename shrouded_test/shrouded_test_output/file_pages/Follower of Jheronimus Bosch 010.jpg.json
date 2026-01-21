@@ -1,0 +1,51 @@
+{
+  "pageid": 3627,
+  "ns": 6,
+  "title": "File:Follower of Jheronimus Bosch 010.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-13T13:40:48Z",
+      "user": "Sanglorian",
+      "size": 1475540,
+      "width": 3811,
+      "height": 1735,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/fe/Follower_of_Jheronimus_Bosch_010.jpg/revision/latest?cb=20141013134048",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Follower_of_Jheronimus_Bosch_010.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3627",
+      "sha1": "b385d3ede05d4b17b703d0f47166241407d13684",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8356,
+      "parentid": 8354,
+      "timestamp": "2014-10-13T13:41:55Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Follower_of_Jheronimus_Bosch_010.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-13T13:41:55Z",
+  "lastrevid": 8356,
+  "length": 91,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Follower_of_Jheronimus_Bosch_010.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Follower_of_Jheronimus_Bosch_010.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Follower_of_Jheronimus_Bosch_010.jpg"
+}

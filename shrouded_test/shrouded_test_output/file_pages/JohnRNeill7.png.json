@@ -1,0 +1,88 @@
+{
+  "pageid": 2647,
+  "ns": 6,
+  "title": "File:JohnRNeill7.png",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T03:39:31Z",
+      "user": "Sanglorian",
+      "size": 4535383,
+      "width": 2743,
+      "height": 3280,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/62/JohnRNeill7.png/revision/latest?cb=20131031033931",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:JohnRNeill7.png",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2647",
+      "sha1": "0192215e3ad68f8cb57148d9320f19b3e1e6b34b",
+      "metadata": [
+        {
+          "name": "frameCount",
+          "value": 0
+        },
+        {
+          "name": "loopCount",
+          "value": 1
+        },
+        {
+          "name": "duration",
+          "value": 0
+        },
+        {
+          "name": "bitDepth",
+          "value": 8
+        },
+        {
+          "name": "colorType",
+          "value": "truecolour"
+        },
+        {
+          "name": "metadata",
+          "value": [
+            {
+              "name": "XResolution",
+              "value": "23622/100"
+            },
+            {
+              "name": "YResolution",
+              "value": "23622/100"
+            },
+            {
+              "name": "ResolutionUnit",
+              "value": 3
+            },
+            {
+              "name": "_MW_PNG_VERSION",
+              "value": 1
+            }
+          ]
+        }
+      ],
+      "mime": "image/png"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5627,
+      "parentid": 5625,
+      "timestamp": "2013-10-31T03:40:09Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Wicked_Witch_of_the_East.png"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T03:40:09Z",
+  "lastrevid": 5627,
+  "length": 83,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:JohnRNeill7.png",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:JohnRNeill7.png?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:JohnRNeill7.png"
+}

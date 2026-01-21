@@ -1,0 +1,100 @@
+{
+  "pageid": 3323,
+  "ns": 6,
+  "title": "File:MauriceDay3.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T14:38:15Z",
+      "user": "Sanglorian",
+      "size": 540182,
+      "width": 921,
+      "height": 1200,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/7/75/MauriceDay3.jpg/revision/latest?cb=20131124143815",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:MauriceDay3.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3323",
+      "sha1": "9b8864b6127a340630316e129b2394e131fd802e",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "1000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "1000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS2 Macintosh"
+        },
+        {
+          "name": "DateTime",
+          "value": "2012:01:02 21:55:55"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "921"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1200"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2012:01:02 14:55:55"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2012:01:02 14:55:55"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7380,
+      "parentid": 0,
+      "timestamp": "2013-11-24T14:38:15Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": ""
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:38:17Z",
+  "lastrevid": 7380,
+  "length": 0,
+  "new": true,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:MauriceDay3.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:MauriceDay3.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:MauriceDay3.jpg"
+}

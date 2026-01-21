@@ -1,0 +1,123 @@
+{
+  "pageid": 3309,
+  "ns": 6,
+  "title": "File:Golem by Philippe Semeria.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-11-24T14:19:14Z",
+      "user": "Sanglorian",
+      "size": 442818,
+      "width": 595,
+      "height": 1000,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/d/d6/Golem_by_Philippe_Semeria.jpg/revision/latest?cb=20131124141914",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Golem_by_Philippe_Semeria.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3309",
+      "sha1": "d65ad4d20493f3413e4d80b588421d91f85be614",
+      "metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 2550
+        },
+        {
+          "name": "ImageLength",
+          "value": 3507
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "Compression",
+          "value": 1
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS3 Macintosh"
+        },
+        {
+          "name": "DateTime",
+          "value": "2009:01:22 13:38:17"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "595"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1000"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2009:01:21 16:37:51"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2009:01:22 14:38:17"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7360,
+      "parentid": 7358,
+      "timestamp": "2013-11-24T14:19:38Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\n'Golem', Philippe Semeria (CC BY-SA 3.0 Unported): http://commons.wikimedia.org/wiki/File:Golem_by_Philippe_Semeria.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-11-24T14:19:38Z",
+  "lastrevid": 7360,
+  "length": 136,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Golem_by_Philippe_Semeria.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Golem_by_Philippe_Semeria.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Golem_by_Philippe_Semeria.jpg"
+}

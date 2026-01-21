@@ -1,0 +1,16 @@
+---
+layout: wiki_page
+title: Battle of Blind Midshotgatepool
+pageid: 3508
+namespace: 0
+original_url: https://shrouded-lands.fandom.com/wiki/Battle_of_Blind_Midshotgatepool
+categories:
+- Category:Blind Midshotgatepool
+- Category:Conflicts
+- Category:Historical events
+- Category:The Shuttered City
+media: []
+---
+A battle between [Blind Midshotgatepool](/wiki/blind-midshotgatepool/) and the [Shuttered City](/wiki/shuttered-city/), after which Shuttered asserted its control over Blind Midshotgatepool. 
+
+[Death's Lovelies](/wiki/death's-lovelies/) formed during this battle, when they realised that the promise of a cure was a false one.

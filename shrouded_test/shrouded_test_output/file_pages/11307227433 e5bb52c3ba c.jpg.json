@@ -1,0 +1,51 @@
+{
+  "pageid": 3427,
+  "ns": 6,
+  "title": "File:11307227433 e5bb52c3ba c.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-12-16T11:22:32Z",
+      "user": "Sanglorian",
+      "size": 275118,
+      "width": 521,
+      "height": 800,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/6/68/11307227433_e5bb52c3ba_c.jpg/revision/latest?cb=20131216112232",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:11307227433_e5bb52c3ba_c.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3427",
+      "sha1": "fc0095996f67a5f725655de6dbbe08979df5cfaa",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 7674,
+      "parentid": 7672,
+      "timestamp": "2013-12-16T11:22:45Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://www.flickr.com/photos/britishlibrary/11307227433/in/photostream/"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-12-16T11:22:45Z",
+  "lastrevid": 7674,
+  "length": 87,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:11307227433_e5bb52c3ba_c.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:11307227433_e5bb52c3ba_c.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:11307227433_e5bb52c3ba_c.jpg"
+}

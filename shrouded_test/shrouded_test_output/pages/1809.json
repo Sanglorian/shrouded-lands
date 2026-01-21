@@ -1,0 +1,15 @@
+{
+  "pageid": 1809,
+  "ns": 10,
+  "title": "Template:T/piece",
+  "content": "{{#ifeq: {{{1|---}}}|---||&#124;<font color=\"gray\">''&lt;{{{1}}}&gt;''</font>}}<noinclude>\n{{documentation}}</noinclude>",
+  "revision": {
+    "revid": 3181,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:General wiki templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:T/piece"
+}

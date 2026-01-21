@@ -1,0 +1,51 @@
+{
+  "pageid": 2656,
+  "ns": 6,
+  "title": "File:DavidRoberts8.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2013-10-31T04:05:45Z",
+      "user": "Sanglorian",
+      "size": 176308,
+      "width": 1075,
+      "height": 734,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/f/fc/DavidRoberts8.jpg/revision/latest?cb=20131031040545",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:DavidRoberts8.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=2656",
+      "sha1": "7ec7b679ec74c7af5a9087ef87fdb16e983cb28e",
+      "metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 5651,
+      "parentid": 5649,
+      "timestamp": "2013-10-31T04:06:23Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://apolitical.info/teleleli/?p=3301"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2013-10-31T04:06:23Z",
+  "lastrevid": 5651,
+  "length": 55,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:DavidRoberts8.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:DavidRoberts8.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:DavidRoberts8.jpg"
+}

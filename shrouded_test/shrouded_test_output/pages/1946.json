@@ -1,0 +1,15 @@
+{
+  "pageid": 1946,
+  "ns": 10,
+  "title": "Template:Edit/doc",
+  "content": ";Description\n:This template creates a clickable edit link for the given page name.\n;Syntax\n:Type <code>{{t|edit}}</code>, <code>{{t|edit|pagename}}</code> or <code>{{t|edit|pagename|linkname}}</code>.\n;Sample output\n:<code><nowiki>{{edit}}</nowiki></code> gives...\n:{{edit}}\n:<code><nowiki>{{edit|Wikia Templates}}</nowiki></code> gives...\n:{{edit|Wikia Templates}}\n:<code><nowiki>{{edit|Wikia Templates|edit the main page!}}</nowiki></code> gives...\n:{{edit|Wikia Templates|edit the main page!}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3482,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Edit/doc"
+}

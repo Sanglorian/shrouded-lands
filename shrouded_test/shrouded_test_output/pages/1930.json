@@ -1,0 +1,15 @@
+{
+  "pageid": 1930,
+  "ns": 10,
+  "title": "Template:Main/doc",
+  "content": ";Description\n:This template is used at the start of a section to link to the main article on that subject. \n;Syntax\n:Type <code>{{t|main|page name}}</code>\n;Sample output\n:<code><nowiki>{{main|Help:Contents}}</nowiki></code> gives...\n:{{main|Help:Contents}}\n\n<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>",
+  "revision": {
+    "revid": 3409,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Template documentation"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Main/doc"
+}

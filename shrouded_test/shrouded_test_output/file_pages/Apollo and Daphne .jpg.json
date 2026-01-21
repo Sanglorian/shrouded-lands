@@ -1,0 +1,99 @@
+{
+  "pageid": 3668,
+  "ns": 6,
+  "title": "File:Apollo and Daphne .jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "timestamp": "2014-10-21T13:16:38Z",
+      "user": "Sanglorian",
+      "size": 348525,
+      "width": 1024,
+      "height": 1407,
+      "comment": "",
+      "url": "https://static.wikia.nocookie.net/shrouded-lands/images/8/81/Apollo_and_Daphne_.jpg/revision/latest?cb=20141021131638",
+      "descriptionurl": "https://shrouded-lands.fandom.com/wiki/File:Apollo_and_Daphne_.jpg",
+      "descriptionshorturl": "https://shrouded-lands.fandom.com/index.php?curid=3668",
+      "sha1": "7e3069f8024da0b75088e0670be93c3423dfa620",
+      "metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2005:09:23 15:53:42"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "1024"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1407"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2005:09:23 19:23:42"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2005:09:23 19:23:42"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ],
+      "mime": "image/jpeg"
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 8505,
+      "parentid": 8501,
+      "timestamp": "2014-10-21T13:17:38Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "content": "==Description==\nhttp://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_.jpg"
+        }
+      }
+    }
+  ],
+  "contentmodel": "wikitext",
+  "pagelanguage": "en",
+  "pagelanguagehtmlcode": "en",
+  "pagelanguagedir": "ltr",
+  "touched": "2014-10-21T13:17:38Z",
+  "lastrevid": 8505,
+  "length": 77,
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/File:Apollo_and_Daphne_.jpg",
+  "editurl": "https://shrouded-lands.fandom.com/wiki/File:Apollo_and_Daphne_.jpg?action=edit",
+  "canonicalurl": "https://shrouded-lands.fandom.com/wiki/File:Apollo_and_Daphne_.jpg"
+}

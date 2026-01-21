@@ -1,0 +1,15 @@
+{
+  "pageid": 2007,
+  "ns": 10,
+  "title": "Template:Talk",
+  "content": "<div style=\"text-align: center; margin: 0 10%; padding-bottom: 10px;\">\n{| style=\"background: #D3E1F2; border: 1px solid #aaa; margin: 0 auto;\" cellpadding=8\n|-\n| This discussion is listed as an [[:Category:Active Talk Pages|Active Talk Page]].<br>Please remove this template when the question has been answered.\n|}</div>\n\n<includeonly>\n[[Category:Active Talk Pages| ]]\n</includeonly><noinclude>[[Category:Templates|Talk]]</noinclude>",
+  "revision": {
+    "revid": 3765,
+    "parentid": 0,
+    "timestamp": "2013-07-02T02:45:13Z"
+  },
+  "categories": [
+    "Category:Templates"
+  ],
+  "fullurl": "https://shrouded-lands.fandom.com/wiki/Template:Talk"
+}
