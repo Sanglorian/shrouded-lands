@@ -12,7 +12,7 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-[[File:Shutt-prison.png|thumb|250px]]Connects to: 17.11, 27.18.01, 29.14.01, 29.14.49 and 49.11.
+![](/media/Shutt-prison.png)Connects to: 17.11, 27.18.01, 29.14.01, 29.14.49 and 49.11.
 
 In the depths of the [[Undercity]] is a region where even the Society of Engineers (29.14.49) fears to venture. It is the prison of nine ancient and half-forgotten gods that once defied [[Alberon]].
 

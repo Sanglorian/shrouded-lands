@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 
-[[File:Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg|thumb|400px]][[Tuma Yedaard]], the king of the [[elves]] of the [[Kingswood]]. He lives in the Holt of the Bloodied King ([[29.07]]) and is rumoured to be the [[Raiders|Raider]] [[Huu Vo Malkus]].
+![](/media/Houghton_HEW_11.10.11_-_Beardsley,_St._Rose_of_Lima.jpg)[[Tuma Yedaard]], the king of the [[elves]] of the [[Kingswood]]. He lives in the Holt of the Bloodied King ([[29.07]]) and is rumoured to be the [[Raiders|Raider]] [[Huu Vo Malkus]].
 [[Category:Characters]]
 [[Category:Elves]]
 [[Category:The Kingswood]]

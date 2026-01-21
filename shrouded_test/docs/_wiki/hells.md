@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 
-[[File:Demonic.jpg|thumb|400px]]A [[Hell-born spirits|Hell-born spirit]] infects the [[Mirror Throne]] ([[16.16]]); it was summoned when the throne was used as a [[sorcerers|sorcerous foci]].
+![](/media/Demonic.jpg)A [[Hell-born spirits|Hell-born spirit]] infects the [[Mirror Throne]] ([[16.16]]); it was summoned when the throne was used as a [[sorcerers|sorcerous foci]].
 
 When the [[Bell of Six Answers]] in Castle Brucoloc ([[08.21]]) is tolled, it will apparently summon an Imp from Hell. 
 

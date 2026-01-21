@@ -13,7 +13,7 @@ categories:
 media: []
 ---
 ## The Howling College
-[[File:512902.jpg|thumb|400px]]Connects to: 15.28, 32.32 and 50.26.
+![](/media/512902.jpg)Connects to: 15.28, 32.32 and 50.26.
 
 One thing that may surprise travellers to the [[City of Smoke]] is that despite their savage appearance and violent tendencies, the [[gnolls]] are in fact possessed of a rich culture of oral literature and song. One of the oldest buildings in the City of Smoke is the kharghaha (an untranslatable word that essentially means 'Building for the Teaching of Musical Stories in the City of Smoke'). To outsiders it is known as the Howling College. The building was abandoned and left in disrepair for many years, but has recently been refurbished by order of the [[Great Mother]].
 

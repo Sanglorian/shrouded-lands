@@ -10,7 +10,7 @@ categories:
   - "Category:Scarecrows"
 media: []
 ---
-[[File:JohnRNeill7.png|thumb|400px|An aging Scarecrow.]]
+![An aging Scarecrow.](/media/JohnRNeill7.png)
 <p style="margin-bottom:0in">‘Do-gooders and ne’er-do-wells’, said the bishop of the Scarecrows. These men and women, dressed raggedly in greatcoats and capotains, wander across the Shrouded Lands causing mischief for the authorities and helping the poor and downtrodden. Famously skeptical of faith and sorcery alike, they rely on wit and wisdom to carry them through the wilderness. Each carries a crude iron knife that they use for almost any purpose—skinning prey, fighting off bandits and as a sundial.</p>
 
 <p style="margin-bottom:0in">Although the arrival of a Scarecrow is a welcome event in beleaguered villages, the parents of impressionable young men and women have cause for concern. Many’s the lass that’s listened starry-eyed to a grizzled Scarecrow, followed him into the woods, and returned nine months later with an iron knife, wearing a wolf pelt and swearing to defend humankind against the forces of chaos.</p>

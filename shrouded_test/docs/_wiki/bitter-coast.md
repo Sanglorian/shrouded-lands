@@ -9,7 +9,7 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-[[File:Bitter.png|right]]
+![](/media/Bitter.png)
 
 
 ## The Bitter Coast

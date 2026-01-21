@@ -9,7 +9,7 @@ categories:
   - "Category:Trolls"
 media: []
 ---
-[[File:JohnDBatten15.png|thumb|400px|http://commons.wikimedia.org/wiki/File:Illustration_inset_at_page_125_of_Indian_Fairy_Tales_(1892).png]]
+![http://commons.wikimedia.org/wiki/File:Illustration_inset_at_page_125_of_Indian_Fairy_Tales_(1892).png](/media/JohnDBatten15.png)
 **Trolls** or **troll-folk** are descendants of the citizens of the city of [[Bergolast]]. That their ancestors ate of the flesh of the [[Tarrasque]] has given them bodies like "those of the gods that can heal most any injury" - they can regenerate but are vulnerable to acid and fire. They are "hideous to behold" and are mostly ignorant of their heritage, though some customs survive.
 
 Those who eat of a troll's flesh might find themselves changed by the experience.

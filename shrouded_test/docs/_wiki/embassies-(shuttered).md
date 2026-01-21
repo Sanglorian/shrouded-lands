@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Embassies of the Southern Gate
-[[File:Shutt-em.png|thumb|400px]]The [[City walls (Shuttered)|southern wall]] of the [[City of Shuttered Windows]] is host to the Twelve Embassies of the [[Twelve Nations|great nations]]. The embassies open outward from the city -- they have been built into the southern side of the southern wall. The ambassadors of each embassy are required to enter through the South Gate and provide for their own protection.
+![](/media/Shutt-em.png)The [[City walls (Shuttered)|southern wall]] of the [[City of Shuttered Windows]] is host to the Twelve Embassies of the [[Twelve Nations|great nations]]. The embassies open outward from the city -- they have been built into the southern side of the southern wall. The ambassadors of each embassy are required to enter through the South Gate and provide for their own protection.
 
 The City of Shuttered Windows is considered the last bastion of civilization, a threshold opening into the so-called Shrouded Lands north of [[Keening Sea]]. Compared to the Twelve Nations, the lands from Shuttered to the [[Grey Mountains]] and beyond are savage and unruly.
 
@@ -25,7 +25,7 @@ The liveliest and most visited embassy by far is that of [[Grumluda]], Domain of
 *Captured elves sometimes are displayed (and killed horribly) in the fighting pits within the grounds of the Grumlada embassy (30.12.01).
 
 ## The Sealed Embassy of Naros
-[[File:Shutt-naro.png|thumb|400px]]Some fifteen years ago, the small but prosperous nation of [[Naros]] was placed under a devastating curse by the arch-lich [[Supendar]]. It was his last act of spite before falling beneath the blades of party of brave adventurers. The people of Naros vanished instantly, their animals were transformed into terrible beasts, and their lands became shrouded in perpetual twilight.
+![](/media/Shutt-naro.png)Some fifteen years ago, the small but prosperous nation of [[Naros]] was placed under a devastating curse by the arch-lich [[Supendar]]. It was his last act of spite before falling beneath the blades of party of brave adventurers. The people of Naros vanished instantly, their animals were transformed into terrible beasts, and their lands became shrouded in perpetual twilight.
 
 Since the embassy of Naros at the gates of the Shuttered City (29.14.11) was also technically part of Naros, the curse took effect within its walls as well. The ambassadors disappeared, the rooms took on a grey pallor, and the house cats, rats and livestock in the adjoining stable were turned into monsters. However, since the monsters showed a reluctance to leave the borders of the embassy, the [[Doge]]'s response was to have the entire building bricked up and ignored.
 

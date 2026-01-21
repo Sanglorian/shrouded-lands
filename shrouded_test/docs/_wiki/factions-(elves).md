@@ -10,7 +10,7 @@ categories:
   - "Category:The Kingswood"
 media: []
 ---
-[[File:290701.png|thumb|400px]]Connects to: 17.07, 29.10, 31.04, 36.04.01, 37.01 and 43.08.
+![](/media/290701.png)Connects to: 17.07, 29.10, 31.04, 36.04.01, 37.01 and 43.08.
 
 The elves of the Court ([[Vo Tume]] in their own language) are all bound by the same [[fey]] contracts, and all ultimately answer to the same [[Bloodied King]]. The King is named Tuma Yedaard plus a hundred other titles and names dependent upon the situation. Tuma Yedaard is also their name for [[The Kingswood|the forest]] itself.
 

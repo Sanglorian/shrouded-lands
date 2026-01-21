@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-book-boil.jpg|thumb|398px]]Connects to: 03.13, 26.16 and 29.14.50.
+![](/media/Shutt-book-boil.jpg)Connects to: 03.13, 26.16 and 29.14.50.
 
 One of the forbidden books kept in the [[Sealed Library]] of the [[Temple Indivisible]] is the *Book of Not Being Boiled in Fire*. It was written long ago by [[John Luciferus]], a mad lictor of the [[Tiamat]] cult, before being burned at the stake by inquisitors of the [[Temple of the Pure Light]] (a long-forgotten splinter sect of the Temple Indivisible). The mad lictor laughed and mocked the [[Pure Ones]] as the flames licked at him and after the flames died down not a single shard of human bone was found in the ashes.
 

@@ -14,7 +14,7 @@ media: []
 ---
 :See also [[Temple of Alberon (disambiguation)]]
 
-[[File:Shutt-temp.png|thumb|398px]]At the end of the [[Time of Schisms]] ([[25.15]]) when the [[Brothers of the Spear]] made their bargain and joined the powers that be as the [[Temple Invisible]], nine Brothers refused to compromise and defied their [[Hierophant]]. They were among the most deadly of assassins who had learned how not to be seen. The Hierophant smiled at them and explained to them mildly that not being seen was valuable and that they would learn its value but that there were limits that applied to such things, as they would do well to learn.
+![](/media/Shutt-temp.png)At the end of the [[Time of Schisms]] ([[25.15]]) when the [[Brothers of the Spear]] made their bargain and joined the powers that be as the [[Temple Invisible]], nine Brothers refused to compromise and defied their [[Hierophant]]. They were among the most deadly of assassins who had learned how not to be seen. The Hierophant smiled at them and explained to them mildly that not being seen was valuable and that they would learn its value but that there were limits that applied to such things, as they would do well to learn.
 
 And as those words were spoken, the limbs of the nine Brothers grew long and thin and their faces twisted into hideous shapes and a powerful stench rose up from their skin. Forevermore the Brothers would have to hide their hideous faces but would never be able to pass unnoticed again.
 

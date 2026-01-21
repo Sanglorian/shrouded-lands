@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 
-*[[Hoarlephants|Hoarlephants]][[File:Afrikanischer_Elefant-painting.jpg|thumb|400px]][[File:Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg|thumb|left|400px]]
+*[[Hoarlephants|Hoarlephants]]![](/media/Afrikanischer_Elefant-painting.jpg)![](/media/Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg)
 *[[Moon elephants]]
 *[[Painted elephants]]
 [[Category:Creatures]]

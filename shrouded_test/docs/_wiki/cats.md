@@ -10,7 +10,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[File:Rubens-Chasse_au_tigre-1617-18-Rennes,_musée_beaux-arts.jpg|thumb|400px|Peter Paul Reubens]]
+![Peter Paul Reubens](/media/Rubens-Chasse_au_tigre-1617-18-Rennes,_musée_beaux-arts.jpg)
 ## Big cats
 *[[Tigers]]
 *[[Lions]], including lion-like creatures

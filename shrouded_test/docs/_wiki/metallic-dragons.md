@@ -10,7 +10,7 @@ categories:
   - "Category:The World's Edge and Beyond"
 media: []
 ---
-[[File:Tigres_et_dragons_par_Kanō_Sanraku.jpg|thumb|400px|Tigers confront a dragon]]Metallic [[dragons]] cannot be found on this side of [[The World's Edge and Beyond|the World's Edge]]. As everyone knows, gold dragons are fire made flesh and must draw in heat to survive. A careful man may note a chill on the wind and know that a gold dragon has stolen its heat and lakes in which the dragons swim ice over in mid summer. As a result, they grow sluggish and lethargic in winter and their scales make excellent drink coolers (such as the [[Cup of the Doge]]).
+![Tigers confront a dragon](/media/Tigres_et_dragons_par_Kanō_Sanraku.jpg)Metallic [[dragons]] cannot be found on this side of [[The World's Edge and Beyond|the World's Edge]]. As everyone knows, gold dragons are fire made flesh and must draw in heat to survive. A careful man may note a chill on the wind and know that a gold dragon has stolen its heat and lakes in which the dragons swim ice over in mid summer. As a result, they grow sluggish and lethargic in winter and their scales make excellent drink coolers (such as the [[Cup of the Doge]]).
 
 ### Hooks:
 *Why aren't there any metallic dragons around?

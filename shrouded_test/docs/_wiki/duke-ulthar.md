@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Duke Ulthar the Loved
-[[File:Persia.jpg|thumb|400px|Rostam Riding Toward the History, Adel Adili, CC BY-SA 3.0 (Unported)]]**Family:** [[Ducal family of Thring]] (originator of)<br />
+![Rostam Riding Toward the History, Adel Adili, CC BY-SA 3.0 (Unported)](/media/Persia.jpg)**Family:** [[Ducal family of Thring]] (originator of)<br />
 **Relatives:** [[Broderick]] (son)<br />
 **Ruled:** [[Duchy of Thring]] (founder)<br />
 **Deities:** [[Green Lady]] (ceremonially married to)<br />

@@ -10,7 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Lizardthing.jpg|thumb|400px|'Lizard Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)]]
+!['Lizard Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)](/media/Lizardthing.jpg)
 
 *When the [[Duke of Thring]] tried to blackmail a lizardman caravan crossing the river via Smuggler's Isle ([[17.16]]), they fortified the isle, took up fishing and dug in. Their amphibious [[sailbeasts]] trouble the raftsmen who ply the river and when a force of [[knights of Thring|knights]] attempted to repulse them their [[fangbeasts]] ripped them to shreds. The lizardmen are eating roasted knight.
 **They were indirectly responsible for the [[Champion of Thring]] being a crocodile.

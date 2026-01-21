@@ -10,7 +10,7 @@ categories:
   - "Category:Vampires"
 media: []
 ---
-[[File:Odilon_Redon_-_The_Monster.jpg|thumb|400px]]Traces of the vampire hordes that once swept across the Shrouded Lands still remain in the Vampiric Stratum ([[02.02]]).
+![](/media/Odilon_Redon_-_The_Monster.jpg)Traces of the vampire hordes that once swept across the Shrouded Lands still remain in the Vampiric Stratum ([[02.02]]).
 
 The [[Lords Sanguine]] have some vampiric traits, and they do drink [[Tarrasque]] blood. [[Stirges]] are also bloodsuckers.
 

@@ -10,7 +10,7 @@ categories:
   - "Category:Elementals"
 media: []
 ---
-[[File:Phoenix-Fabelwesen.jpg|thumb|400px|Friedrich Justin Bertuch]]
+![Friedrich Justin Bertuch](/media/Phoenix-Fabelwesen.jpg)
 
 **Burning eagles** are monsters related to [[firebirds]] but much more vicious. 
 

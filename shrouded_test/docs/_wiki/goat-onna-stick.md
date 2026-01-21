@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## Goat Onna Stick
-[[File:2311goat.png|thumb|400px]]Connects to: 19.31, 20.10, 26.13 and 29.14.38.
+![](/media/2311goat.png)Connects to: 19.31, 20.10, 26.13 and 29.14.38.
 
 Many travelers make a point to stop by at Goat Onna Stick after the tiring and dusty journey up the [[White Road]]. The proprietor, a large [[Jahur]]i by the name of [[Bad Deza]] serves up grilled goat skewers and goat milk mead to thirsty travelers. Bad Deza is friendly and talkative and is a generally reliable source of information but has little patience with those who cause trouble in his dive and the muscle to back that up. However, enough mercenaries, bandits and adventurers get drunk here that he has his hands too full breaking up fights to pay attention to all of the pick pockets, especially his numerous cousins who hang out here and are famous for rolling drunks.
 ### Connections:

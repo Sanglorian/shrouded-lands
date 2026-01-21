@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Divinio Ambersmyth
-[[File:301501.png|thumb|239px]]Hex 30.15.01
+![](/media/301501.png)Hex 30.15.01
 
 There is a special warrant for the capture - not the killing - of the [[grey worms|grey worm]] ([[46.06]]), issued by one [[Divinio Ambersmyth]] of the Shuttered City. Divinio is a would-be boss in the Wedding Band ([[30.15]]), and a rival of the ruthless [[Bogarus Bolger]]. Divinio does not have much money or reputation, but he does have one thing: a live specimen of the [[burning eagles|burning eagle]], a monster that is related to the [[firebirds]] but is much more vicious. A legend, popularized by the exiled poet [[Trimueil]] (rival of [[Cleramon]], claims that the burning eagle and the grey worm represent the opposing elements of fire and water, and that the two creatures have been mortal enemies since the dawn times, a claim bolstered by the Fernsbank fossils ([[02.10]]).
 

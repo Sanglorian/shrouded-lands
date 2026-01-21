@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Wives of the Doge
-[[File:Shutt-wives.png|thumb|400px]]Connects to: 04.05, 25.15, 28.04, 29.14.07, 29.14.30, 29.14.38, 30.03 and 32.22.
+![](/media/Shutt-wives.png)Connects to: 04.05, 25.15, 28.04, 29.14.07, 29.14.30, 29.14.38, 30.03 and 32.22.
 
 When the twin daughters [[Lord Tristifer Bartley]] of Blackhorn Keep ([[30.03]]) came of age they were such beauties that all men wondered if they had [[elves|elven blood]].
 

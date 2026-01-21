@@ -10,7 +10,7 @@ media: []
 ---
 ## Index
 ### Other nations
-*[[File:Nations.png|thumb|400px]]Possibly among the Twelve Nations*
+*![](/media/Nations.png)Possibly among the Twelve Nations*
 
 *[[Adherion]]
 *Zamorqy

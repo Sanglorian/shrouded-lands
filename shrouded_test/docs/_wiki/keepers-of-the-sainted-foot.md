@@ -10,7 +10,7 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-[[File:2004.png|thumb|300px]]In the foothills of the Grey Mountains is a monastery ([[20.04]]), occupied by the **Keepers of the Sainted Foot**. The foot is a mummified relic that the brothers consider holy. Their monastery is a rude timber affair that has suffered badly over the years at the hands of [[orcs|orc raiders]] coming down from the north. However, despite these depredations it still produces a well spiced gruit with a distinctive tang, which is not only an excellent beer (although a bit of an acquired taste) but functions as potent holy water.
+![](/media/2004.png)In the foothills of the Grey Mountains is a monastery ([[20.04]]), occupied by the **Keepers of the Sainted Foot**. The foot is a mummified relic that the brothers consider holy. Their monastery is a rude timber affair that has suffered badly over the years at the hands of [[orcs|orc raiders]] coming down from the north. However, despite these depredations it still produces a well spiced gruit with a distinctive tang, which is not only an excellent beer (although a bit of an acquired taste) but functions as potent holy water.
 
 After the most recent such raid the [[Abbot of the Sainted Foot|Abbot]]'s favorite brother was struck down in the barley fields. After weeks of unrelenting grief, the Abbot decided to go on a pilgrimage to the fields of Fernsbank ([[01.09]]) to seek peace and wisdom. Little does he know that something has corrupted those once-peaceful fields and that all that pilgrims find there now is feelings of bloodlust.
 
@@ -25,7 +25,7 @@ Strangely enough, shortly after the departure of the Abbot the orcs began to giv
 *Why is the beer tangy?
 *What's happening to the Abbot over at Fernsbank?
 ## The Goliards of the Sainted Foot
-[[File:200401.png|thumb|400px]]Hex 20.04.01
+![](/media/200401.png)Hex 20.04.01
 
 Connects to: 29.14.17 and 33.12.
 

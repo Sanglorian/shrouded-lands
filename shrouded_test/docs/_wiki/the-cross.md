@@ -9,7 +9,7 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-**[[File:SL_18.png|thumb|343px]]Region:** [[Bitter Coast]]
+**![](/media/SL_18.png)Region:** [[Bitter Coast]]
 **Hex: **02.11
 
 Sailing on the [[Ocean of Bitter Regrets]] takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
@@ -32,7 +32,7 @@ one knows.
 *On whom do the Pirate Kings prey?
 *Why are the Pirate Kings gathering their forces and cloud castles?
 ## The Pits of the Cross
-[[File:SL_19.png|thumb|400px]]Connects to: 29.14.15.
+![](/media/SL_19.png)Connects to: 29.14.15.
 
 A crevasse on the outskirts of the Cross serves as a jail for the city. Those who anger one of the local bosses are either locked in one of the cave-vaults in the sides of the crevasse or simply lowered into the crevasse itself via a crude elevator. No one guards the prisoners, but citizens of the Cross amuse themselves by throwing things at anyone who attempts the steep climb out of the Pits.
 
@@ -45,7 +45,7 @@ There are a few people who have sneaked into the Pits to escape scrutiny, includ
 *What beast is trapped in one of the cave-vaults?
 *Who are the bosses of the Cross?
 ## The Skinscratch Murders
-[[File:SL_20.png|thumb|398px]]Hex 02.11.02
+![](/media/SL_20.png)Hex 02.11.02
 
 Connects to: 08.16 and 26.20.07.
 
@@ -68,7 +68,7 @@ The Scarecrows have shown particular interest in the killings, with one saying d
 *What is the meaning of the Gabber marks?
 *What‘s happened to the valuable items?
 
-[[File:PRISMATIC_ADAM.jpg|thumb|400px|"Captain Hook" © 2012 Brian Patterson, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/]]
+!["Captain Hook" © 2012 Brian Patterson, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/](/media/PRISMATIC_ADAM.jpg)
 
 ## The Rogue Janissary
 Hex 02.11.03

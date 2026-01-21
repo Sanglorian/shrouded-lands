@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Workshop of Hazad Kaldun
-[[File:Shutt-haz.png|thumb|398px]]Connects to: 15.24.
+![](/media/Shutt-haz.png)Connects to: 15.24.
 
 Within the stone halls of the dwarven inhabitants of the [[City of Shuttered Windows]], Hazad Kaldun is known as the greatest whitesmith and his jewelry is always in immense demand among the nobility of the city. However, he takes only a few orders and those are generally those that strike his fancy, not those with that come with the fattest commissions.
 

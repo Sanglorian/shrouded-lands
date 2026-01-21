@@ -12,7 +12,7 @@ categories:
   - "Category:The World's Edge and Beyond"
 media: []
 ---
-[[File:RichardWestall.jpg|thumb|400px|Richard Westall]]
+![Richard Westall](/media/RichardWestall.jpg)
 Its source is a geyser at the Holt of the Blooded King ([[29.07]])
 
 The heat of the water spewed from the geyser keeps the Witchwater remarkably ice-free in winter and for much of its length it is shrouded in a great serpent of mist. In many places it is warm enough to bathe in comfortably year-round, although any human doing so would surely be a fool...

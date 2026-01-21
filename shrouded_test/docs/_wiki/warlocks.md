@@ -11,6 +11,6 @@ media: []
 ---
 
 Warlocks are practitioners of [[pactmaking]]. They are trained, and use standardised ritual currencies for making deals with dark powers. [[Shamans]] also make pacts, although perhaps in a more ad hoc manner.
-[[File:WilliamFettesDouglas.jpg|thumb|400px|Pactmaking http://darkclassics.blogspot.com.au/2013/03/william-fettes-douglas-spell.html]]
+![Pactmaking http://darkclassics.blogspot.com.au/2013/03/william-fettes-douglas-spell.html](/media/WilliamFettesDouglas.jpg)
 [[Category:Professions]]
 [[Category:Magic]]

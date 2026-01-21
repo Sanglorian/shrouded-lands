@@ -9,7 +9,7 @@ categories:
   - "Category:The Withered Moors"
 media: []
 ---
-[[File:Withered.png|thumb|366px]]
+![](/media/Withered.png)
 
 Includes hexes: [[41.02]], [[42.02]], [[43.03]] and [[44.01]].
 

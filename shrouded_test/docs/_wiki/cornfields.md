@@ -9,7 +9,7 @@ categories:
   - "Category:The Cornfields"
 media: []
 ---
-[[File:Corn.png|right]]
+![](/media/Corn.png)
 
 Includes hexes: [[03.29]], [[03.30]], [[03.31]], [[04.30]] and [[04.31]].
 

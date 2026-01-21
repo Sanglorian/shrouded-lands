@@ -12,7 +12,7 @@ media: []
 ---
 
 
-[[File:Schiele_-_Wildbach_-_1918.jpg|thumb|400px]]
+![](/media/Schiele_-_Wildbach_-_1918.jpg)
 [[Category:Bodies of water]]
 [[Category:River Hyad]]
 [[Category:The Burning Lands]]

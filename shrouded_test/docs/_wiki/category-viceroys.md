@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 
-[[File:Gs74.jpg|thumb|A Viceroy]]
+![A Viceroy](/media/Gs74.jpg)
 [[Viceroy Baltas]] turns a blind eye to his concubine [[Isane the Beauty]]; the other Viceroys suspect her of associating with the heretical [[Holy Fools]].
 
 [[Viceroy Orhan]] was attacked in his bed last month, which has set the town on edge. He is an alchemist who made his own wives.

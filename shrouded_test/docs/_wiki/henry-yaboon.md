@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The King without a Throne
-[[File:SL11.png|thumb|297px]]Connects to: 25.19, 29.19, 26.20.04 and 27.19.
+![](/media/SL11.png)Connects to: 25.19, 29.19, 26.20.04 and 27.19.
 
 Henry Yaboon is a priest without a god. After the sinking of the temple of the Pacharia ([[27.19]]), he convinced the rulers of [[Blind Midshotgatepool]] to cede the lands and treasures of [[the Pacharia]]'s clergy to him, and he has since wielded this wealth and influence to persecute its remaining worshippers and to advance his own cause.
 

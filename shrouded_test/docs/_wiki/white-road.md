@@ -24,7 +24,7 @@ For those too poor to afford a tomb along the White Road, the Temple Indivisible
 *Any interesting undead about?
 *Boys from the village of Hostwick ([[39.14]]) who develop the proper signs after eating strange catterpillars are castrated and sold to the Necromantic Office. Why?
 ## The Restless Dead
-[[File:291302.png|thumb|377px]]Connects to: 16.16.04, 26.13 and the City of Shuttered Windows
+![](/media/291302.png)Connects to: 16.16.04, 26.13 and the City of Shuttered Windows
 
 Court necromancers and hedge mediums have long speculated on what causes [[undead|the dead to return to life]]. Surely the process that conjures back a [[Sack children|warhorse from a skin bag]] is different from the bindings that draw [[bone golems]] together.
 

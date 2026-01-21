@@ -11,7 +11,7 @@ categories:
   - "Category:Windseers"
 media: []
 ---
-[[File:2311princess.jpg|thumb|393px]]Connects to: 23.11 and 26.13.
+![](/media/2311princess.jpg)Connects to: 23.11 and 26.13.
 
 Famed adventurers arriving in [[Winds]] are regularly approached by a woman who styles herself the Princess of Seers. Though the current [[windseers|windseer]] [[Alceron]] believes that she uses black magic and was not properly trained as a windseer, she learned from a man who claimed to have been a windseer when that position carried great respect. According to the Princess, it is Alceron whose magic deviates from the true practices of the windseers.
 

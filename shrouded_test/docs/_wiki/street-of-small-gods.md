@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Schiele_-_Waldandacht_-_1915.jpg|thumb|400px]]Connects to: 24.18, 29.14.09, 29.14.28 and 36.09.
+![](/media/Schiele_-_Waldandacht_-_1915.jpg)Connects to: 24.18, 29.14.09, 29.14.28 and 36.09.
 
 The [[City of Shuttered Windows]] has no truck with divinities that rival or oppose Alberon. However, there is room in the faith for a celebration of the god’s helpers, lovers, progeny and saints. The [[Temple Indivisible]] calls this mile-long road the **Avenue of Preternatural Agents**, but to most it is the Street of Small Gods.
 
@@ -18,7 +18,7 @@ These small gods are of varied origin and mood. Some are local deities co-opted 
 
 Preachers and altars line the street. Priests offer benedictions and heretics preach under the auspices of particular preternatural agents—with the futile hope that this will shield them from the wrath of the Temple. Mystics initiate visitors into their mystery cults and soothsayers read fortunes in the entrails of [[night cattle]].
 
-There is also food and entertainment to be had here: plays and musical performances, roasted nuts and baked goods, and the so-called [[handmaidens and princes of Alberon]] who offer services that cleverly avoid violating the [[Hundred Heresies|Heresies]] ([[29.14]].09).[[File:Shutt-st_small.jpg|thumb|310px]]
+There is also food and entertainment to be had here: plays and musical performances, roasted nuts and baked goods, and the so-called [[handmaidens and princes of Alberon]] who offer services that cleverly avoid violating the [[Hundred Heresies|Heresies]] ([[29.14]].09).![](/media/Shutt-st_small.jpg)
 ### Connection:
 *The [[Tiamatan Revival]] is preached here (29.14.28).
 *One of these small gods is [[Jahbulon]], who speaks to an exiled necromancer ([[24.18]]).

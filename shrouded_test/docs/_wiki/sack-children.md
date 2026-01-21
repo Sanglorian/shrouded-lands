@@ -8,7 +8,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[File:Egon_Schiele_050.jpg|thumb|400px]]It is not only [[horses]] that can be brought back from the dead (16.16.04) by the secretive priests of [[Baron Autumn]] (like [[The Duchy of Thring#The Sorcerer of Tarengael Town|The Sorcerer of Tarengael Town]]). If the stripped bones of a man or woman killed by black magic are placed in a bag of human skin, a child crawls from the bag.
+![](/media/Egon_Schiele_050.jpg)It is not only [[horses]] that can be brought back from the dead (16.16.04) by the secretive priests of [[Baron Autumn]] (like [[The Duchy of Thring#The Sorcerer of Tarengael Town|The Sorcerer of Tarengael Town]]). If the stripped bones of a man or woman killed by black magic are placed in a bag of human skin, a child crawls from the bag.
 
 These sack children are, like the [[cauldronborn]] (23.16), vague and distracted. They often accompany the sorcerers who created them, protecting them and assisting them with their sorcery, as well as performing menial tasks on their behalf.
 

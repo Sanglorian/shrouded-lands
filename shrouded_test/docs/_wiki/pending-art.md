@@ -28,6 +28,6 @@ http://commons.wikimedia.org/wiki/File:John_d_batten_1892_9.jpg
 
 http://apolitical.info/teleleli/wp-content/uploads/2012/02/BerthaLum2.jpg
 
-[[File:I013.jpg|thumb|400px|Frost giant: http://www.gutenberg.org/files/37995/37995-h/37995-h.htm]][[File:I031.jpg|thumb|Jahuri or wizard: http://www.gutenberg.org/files/37995/37995-h/37995-h.htm]]
+![Frost giant: http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I013.jpg)![Jahuri or wizard: http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I031.jpg)
 
-[[File:Come-down-cried-the-heros-wife.jpg|thumb|400px|http://stevenpoke.com/frank-cheyne-pape/]]
+![http://stevenpoke.com/frank-cheyne-pape/](/media/Come-down-cried-the-heros-wife.jpg)

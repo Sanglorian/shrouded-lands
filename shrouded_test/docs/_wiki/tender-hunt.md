@@ -9,7 +9,7 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-[[File:Sl_gore2.png|thumb]]Connects to: 29.07.02.
+![](/media/Sl_gore2.png)Connects to: 29.07.02.
 
 Once each year the husbands and wives of the [[Lords Sanguine]] gather at [[The Collector]]’s keep ([[02.22]]) for the Tender Hunt. Dressed in full court regalia they ride forth on sheep, cows and the timidest of sows to catch as many animals as they can, without harming any of them. Their hounds are puppies and their hawks traded for parakeets.
 

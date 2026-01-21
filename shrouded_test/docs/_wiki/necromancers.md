@@ -13,7 +13,7 @@ media: []
 ---
 
 : See also [[Spellcasting]]
-* [[Yaegha Six-Kidneys]] was a formidable necromancer and keen user of corpse-slather who raised an entire undead army. [[File:Egon_Schiele_018.jpg|thumb|400px]]
+* [[Yaegha Six-Kidneys]] was a formidable necromancer and keen user of corpse-slather who raised an entire undead army. ![](/media/Egon_Schiele_018.jpg)
 * A cult of [[Dead Tiamat]] has raised [[skeletons]], [[shamblers]] and a [[wight]]. They seek to one day raise a [[dracoliches|dracolich]].
 * The [[Necromantic Office]] is the only great wizarding academy in the Shrouded Lands. It creates the skeletons of the Waterworks, stitches together flesh golems and maintains the White Road. The office itself is infested with thousands of ghosts.
 * The [[Princess of the Seers]] conjures [[drow-ghosts]] from beneath the White Road.

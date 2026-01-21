@@ -17,7 +17,7 @@ Amelar is mistress of the Garden of Amelar ([[36.04]]).
 **Family:** [[The Weeper]] (grandchild of Amelar)
 
 ## The Ancient Gardener
-[[File:360401.png|thumb|400px]]An elf older than any other within the Court ([[29.07]]), who, uncharacteristically for elves shows her age, wanders freely through [[Kingswood]], occasionally making unexpected stops in nearby lands. She dressed in layer upon layer of wispy, colorful, ragged silks, with her motley dreaded mass of grey hair entwined with vines. Her face isn't wrinkled, but is undeniably ancient -- nearly skeletal, with the most pallid of skin. She only refers to herself as the Hierophant, having long since forsaken her given name and title of Amelar the Immaculate. In fact, the Hierophant will speak of Amelar as if the two were separate people entirely. Although she is an elf of the [[Bloodied King]]'s Court, she is in many ways above the King and above elven (and round-eared) politics.
+![](/media/360401.png)An elf older than any other within the Court ([[29.07]]), who, uncharacteristically for elves shows her age, wanders freely through [[Kingswood]], occasionally making unexpected stops in nearby lands. She dressed in layer upon layer of wispy, colorful, ragged silks, with her motley dreaded mass of grey hair entwined with vines. Her face isn't wrinkled, but is undeniably ancient -- nearly skeletal, with the most pallid of skin. She only refers to herself as the Hierophant, having long since forsaken her given name and title of Amelar the Immaculate. In fact, the Hierophant will speak of Amelar as if the two were separate people entirely. Although she is an elf of the [[Bloodied King]]'s Court, she is in many ways above the King and above elven (and round-eared) politics.
 
 While she is unquestionably the most powerful [[druids|druid]] in the Shrouded Lands, unlike the more militant druids more directly aligned with the Court, the Hierophant takes a strict hand-off policy when dealing with the world. She only observes people, often unseen, even if they are directly harming one of her many gardens, only repairing the damage once the interlopers have left.
 
@@ -29,7 +29,7 @@ Those of any race that display particular wisdom and connection to growing thing
 ### Connection:
 *The Hierophant’s magics are potent and she can return the dead to life, although generally not in their previous form ([[40.09]]).
 ## The Hierophant of Constant Sorrow
-[[File:360402.png|thumb|400px]]It is not the passing of years that age a man but the worries and cares that accumulate with each passing day. Perhaps it is elven frivolity and their famous lack of empathy or others that explains why an elf may live a thousand years and never age.
+![](/media/360402.png)It is not the passing of years that age a man but the worries and cares that accumulate with each passing day. Perhaps it is elven frivolity and their famous lack of empathy or others that explains why an elf may live a thousand years and never age.
 
 Or at least most elves. Amelar the Immaculate, the Hierophant of of the Kingswood, is skeletal with age and as wizened as any crone. This is because she takes on those memories that other elves find distressing into her own mind and keeps them there. She remembers the betrayal of [[Ilsenaire]] and the thousand crimes of [[Alvadr]] while their victims dance freely.
 

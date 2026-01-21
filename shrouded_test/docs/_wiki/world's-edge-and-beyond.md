@@ -9,7 +9,7 @@ categories:
   - "Category:The World's Edge and Beyond"
 media: []
 ---
-[[File:Edge.png|right]]
+![](/media/Edge.png)
 
 ## The World's Edge and Beyond
 Includes hexes: [[42.07]], [[43.08]], [[44.03]], [[45.09]], [[46.01]], [[46.02]], [[46.06]], [[46.10]], [[47.00]], [[47.11]], [[49.03]], [[49.09]], [[49.11]], [[50.03]], [[50.04]], [[50.11]] and [[51.12]].
@@ -25,7 +25,7 @@ What is known for a fact is that the creatures of the forest sometimes climb up 
 ## The Air Down There
 Perhaps you have climbed Mount Scorshia (02.03) and felt the air grow cold and thin so that you must fight it for breath. We can see from this that air is chained to the earth by the works of ancient elementals and nowhere do the chains bind tighter than in the jungles that lay in the sunken lands beyond the World's Edge. 
 
-[[File:Air.png|right]]
+![](/media/Air.png)
 
 There the air is thick, so thick that you can almost feel it gripping you with its damp fingers. While barely breathing a man can draw enough wind to feed his lungs and the great beasts that grow large in this jungle gasp and wheeze and often die if taken into the upper world. Just as the thick air seems to feed the beasts of this land, it feeds any fires that are started which would rage with a fury to rival those of the Burning Lands if it were not for all the wet.
 But enough of all this talk, I know what you want me to tell you of. About how I strapped canvas wings to my arms and flew above the trees. You see, when the air is thick enough you can fly like a bird...

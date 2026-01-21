@@ -10,7 +10,7 @@ categories:
   - "Category:Witch Clans"
 media: []
 ---
-[[File:Fantasy020.jpg|thumb|400px|An Ossery uses her gift against an ogre.]]
+![An Ossery uses her gift against an ogre.](/media/Fantasy020.jpg)
 
 Or Osserys or Ossorys.
 

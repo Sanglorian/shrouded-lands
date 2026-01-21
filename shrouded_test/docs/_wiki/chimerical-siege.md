@@ -11,7 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Haywain_Right_Wing_of_the_triptych_WGA.jpg|thumb|400px]]Following [[Death of Tiamat|Alberon's slaying of Tiamat]], it is widely accepted that [[Chimalia]] (mother and sister of [[Tiamat]]) sent her creations -- the [[gryphons]], the [[minotaurs]], the [[manticores]], [[owlbears]], and other [[chimerics|chimeric creatures]] -- to lay siege against the [[City of Many Windows]]. And so, the [[Windows (Shuttered)|Windows were Shuttered]], and travel across the once well-trodden (and numerous) [[fairy roads]] leading to the City became impassible.
+![](/media/Haywain_Right_Wing_of_the_triptych_WGA.jpg)Following [[Death of Tiamat|Alberon's slaying of Tiamat]], it is widely accepted that [[Chimalia]] (mother and sister of [[Tiamat]]) sent her creations -- the [[gryphons]], the [[minotaurs]], the [[manticores]], [[owlbears]], and other [[chimerics|chimeric creatures]] -- to lay siege against the [[City of Many Windows]]. And so, the [[Windows (Shuttered)|Windows were Shuttered]], and travel across the once well-trodden (and numerous) [[fairy roads]] leading to the City became impassible.
 
 The chimerics were forced to find a route through the world to reach the City. During that time of war, Blackhorn's Maze ([[39.32]]) was constructed as an outpost along the route. And -- if the minotaur version of the story is believed -- to house one of the five skulls of Tiamat.
 

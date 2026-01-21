@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Gargoyles of the Conjured City
-[[File:481801.png|thumb|400px]]The [[elephants|elephant]] tusks that top the walls of [[Sosaria]] are not only there for show. Many of them have been carved into fanciful shapes and enchanted with a semblance of life. Whenever these ivory carvings see anyone committing any crime (littering for example) they come to life and attack them mercilessly.
+![](/media/481801.png)The [[elephants|elephant]] tusks that top the walls of [[Sosaria]] are not only there for show. Many of them have been carved into fanciful shapes and enchanted with a semblance of life. Whenever these ivory carvings see anyone committing any crime (littering for example) they come to life and attack them mercilessly.
 
 The gargoyles are small and their limbs are not especially strong but [[Imorcar]] the Many placed enchantments on them that protect them from most forms of harm. Piercing and slashing weapons barely nick them, bludgeoning weapons only do minimal damage and most forms of magic do not affect them. However, anything made out of ivory, tooth or bone can easily shatter the gargoyles. In addition, their touch draws memories from the minds of those they strike. Especially potent memories (such as memorized spells) can take the form of small creatures that fall mewling from the ears of their owners.
 

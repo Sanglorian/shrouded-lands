@@ -9,7 +9,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[File:Creature_ishtar-bird.png|thumb|400px|David Revoy/Blender Foundation (CC BY 3.0)]]As long as a firebird lives, its feathers give off a warm glow as of a bonfire just past its peak and a single caged bird can easily light an entire feasting hall throughout the night. 
+![David Revoy/Blender Foundation (CC BY 3.0)](/media/Creature_ishtar-bird.png)As long as a firebird lives, its feathers give off a warm glow as of a bonfire just past its peak and a single caged bird can easily light an entire feasting hall throughout the night. 
 ### Connections
 *Firebirds cavort at the Pool of the Firebirds ([[04.05]])
 *<span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">The dragon cultists of Cragsend (04.06) believe that ritually sacrificing firebirds will help to awaken the legendary phoenix, which plays an important role in their beliefs.</span>

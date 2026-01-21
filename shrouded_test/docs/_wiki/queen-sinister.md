@@ -10,7 +10,7 @@ categories:
   - "Category:Unseelie elves"
 media: []
 ---
-[[File:Salomé-_a_tragedy_in_one_act_pg_29.jpg|thumb|400px]]When the elven court in the [[Kingswood]] split, the exiled renegades (most of the [[unseelie elves]] and some [[seelie elves]]) were led away by the Queen Sinister.
+![](/media/Salomé-_a_tragedy_in_one_act_pg_29.jpg)When the elven court in the [[Kingswood]] split, the exiled renegades (most of the [[unseelie elves]] and some [[seelie elves]]) were led away by the Queen Sinister.
 
 According to legend, when the Queen Sinister left the [[Bloodied King]] and his court she cursed the Shrouded Lands so that it now only [[rain]]s once a year (described in [[With Morning Comes Mistfall]]).
 

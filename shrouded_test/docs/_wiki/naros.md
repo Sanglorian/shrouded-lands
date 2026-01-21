@@ -13,7 +13,7 @@ media: []
 ## Features
 *Naros has [[Embassies (Shuttered)|an embassy]] in the [[Shuttered City]], itself twisted like Naros was.
 ## Supendar and the Dryads
-<p style="margin-bottom:0in">[[File:JuliusvonKlever.jpg|thumb|400px|The dryads after Supendar's magic]]What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast (38.28). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.</p>
+<p style="margin-bottom:0in">![The dryads after Supendar's magic](/media/JuliusvonKlever.jpg)What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast (38.28). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.</p>
 
 <p style="margin-bottom:0in">Elsewhere in Naros all those who had been asleep when Supendar’s magic spread across the land remained so and did not wake. The waking men and women of Naros declared war on Supendar and sought to break the enchantment that the dryad had wrought. Finally a band of adventurers infiltrated deep into the Drymea and fell upon the tree of Supendar with great axes.</p>
 

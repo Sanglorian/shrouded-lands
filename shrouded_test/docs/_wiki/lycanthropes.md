@@ -9,7 +9,7 @@ categories:
   - "Category:Lycanthropes"
 media: []
 ---
-[[File:Werwolf.png|thumb|400px|Lucas Cranach the Elder]]Lycanthropes are not unusual.
+![Lucas Cranach the Elder](/media/Werwolf.png)Lycanthropes are not unusual.
 ## General
 *Anyone who eats a moon nut smells delicious to lycanthropes ([[50.02]]).
 *Dew from the [[flowers of the moon]] can trigger lycanthropy.

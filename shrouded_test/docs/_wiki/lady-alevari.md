@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Lady Alevari’s Lament
-[[File:Shutt-alev.png|thumb]]Connects to: 16.18, 29.14.05, 29.14.35, 29.14.46 and 32.12.
+![](/media/Shutt-alev.png)Connects to: 16.18, 29.14.05, 29.14.35, 29.14.46 and 32.12.
 
 Lord Alevari is not as he once was. His grizzled hair has turn midnight black and his paunch and chins have fallen away. His sons are not pleased with this as had they hoped to gain their inheritance before their debts come due. But even those who wish the lord well are unnerved by his glassy eyes, distant manner and the way in which the once strong-willed lord now defers to his young wife in all things. They whisper about how she must have placed him under an evil enchantment and about the furtive-eyed men that can now be seen slipping into the Alevari manse.
 

@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 Also known as the **Lord of Pain**.
-[[File:8775854218_c0815c0cb4_b.jpg|thumb|400px|Alberon strikes off one of Tiamat's heads.]]
+![Alberon strikes off one of Tiamat's heads.](/media/8775854218_c0815c0cb4_b.jpg)
 ## Features
 *The [[Hundred Heresies]] are dictated by the [[Temple Indivisible]]
 *The [[Temple Invisible]] no longer follow Alberon

@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Sosaria, the Conjured City
-[[File:4818.jpg|thumb|276px]]Hex 48.18
+![](/media/4818.jpg)Hex 48.18
 
 Connects to: 29.14.45, 50.11, 50.14, 51.17 and 50.20.
 

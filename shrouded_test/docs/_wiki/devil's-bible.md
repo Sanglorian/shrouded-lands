@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-C[[File:Shutt-dev.png|thumb|400px]]onnects to: 29.14.50.
+C![](/media/Shutt-dev.png)onnects to: 29.14.50.
 
 The Legend of the Devil's Bible, which is well known to occult scholars in the [[Shuttered City]], is generally agreed to proceed thusly: a certain acolyte of the [[Temple Indivisible]], having broken a sacred vow, had been condemned to live as a hermit in a bricked-up cell in the depths of the [[Steeple of Alberon]], with only a small slot to pass food and water to him. The terms of his imprisonment were thus: that he would create an illuminated bible of the Temple Indivisible's theology. The acolyte despaired, for such a task took decades and even then was accomplished via teams of scribes. Surely, he would spend his entire life creating the book. In the depths of his despair he called out to whatever powers would help him, and to his great surprise he was answered. The [[Devil]] appeared before him, and made him an offer: he would provide the acolyte with the power to scribe and illuminate the book in but 30 days, if only the acolyte would agree to include the Devil's portrait in the bible. Unwisely, the acolyte accepted.
 

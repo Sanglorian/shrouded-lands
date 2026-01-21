@@ -11,7 +11,7 @@ categories:
   - "Category:The Witchwater"
 media: []
 ---
-[[File:390801.jpg|thumb|400px]]Hex [[39.08]] (shared with [[the Spawn]])
+![](/media/390801.jpg)Hex [[39.08]] (shared with [[the Spawn]])
 
 In the last parts of the [[Witchwater]] before the Edge, humans may travel the waterways without fear of [[elves|elven]] arrow. These lands are firmly under the control of the giant talking [[beavers]], who have built vast city-dams and canals to tame the [[Kingswood]].
 

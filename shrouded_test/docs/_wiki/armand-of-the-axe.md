@@ -14,7 +14,7 @@ categories:
 media: []
 ---
 ## Armand of the Axe
-[[File:291301.png|thumb|398px]]
+![](/media/291301.png)
 
 Armand of the Axe was a warrior priest of the [[King in Splendor]] and came from the south to the [[City of Shuttered Windows]] to win glory for himself and his god at the Wedding Band ([[30.15]]). He soon rose to fame and earned the enmity of [[Bogarus Bolger]] for running down and hacking one of his prized [[blink dogs]] to pieces even after it had fled across the Wedding Band and had thus forfeited the match.
 

@@ -11,7 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-smile.png|thumb|300px]]Connects to: 02.11.01, 18.10, 25.15, 39.14, 43.27, 46.15 and 47.00.
+![](/media/Shutt-smile.png)Connects to: 02.11.01, 18.10, 25.15, 39.14, 43.27, 46.15 and 47.00.
 
 The Smiling Men of the [[Shuttered City]] are a band of assassins who are the deathly enemies of the [[Temple Invisible]]. They recruit their members from those who have killed out of depression, trauma or self-loathing - even those who have killed themselves.
 

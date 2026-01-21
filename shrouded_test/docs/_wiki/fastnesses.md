@@ -19,7 +19,7 @@ After all, the fortresses were built to protect from goblin invasion from the so
 
 The fortresses, since they were built by orcs in collaboration with the dwarves, are in the distinctive Titan-Grumludish architectural style (referring to Titan's Skull, [[33.00]], and [[Grumluda]]). 
 
-*Hoth Akhbir (unfinished) ([[02.05]])[[File:Kirchner_-_Mondnacht.jpg|thumb|400px|https://commons.wikimedia.org/wiki/File:Kirchner_-_Mondnacht.jpg]]
+*Hoth Akhbir (unfinished) ([[02.05]])![https://commons.wikimedia.org/wiki/File:Kirchner_-_Mondnacht.jpg](/media/Kirchner_-_Mondnacht.jpg)
 *Unnamed fortress (finished, unmanned) ([[14.02]])
 *? (finished, manned, didn’t survive first seige)
 *Hoth Achaar/First to Be Returned (finished, manned, survived first seige, in orcish hands today) ([[26.01]])

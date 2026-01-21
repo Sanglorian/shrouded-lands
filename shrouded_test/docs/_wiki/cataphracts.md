@@ -10,7 +10,7 @@ categories:
   - "Category:Warriors"
 media: []
 ---
-The cataphracts are warriors of the [[Golden Realm]], crushed by the gnoll armies of the [[Great Mother]] and the orc armies of [[Grumluda]] in the [[Battle of the Last River]]. They are described as "eagle-winged",  with the typical dark skin of southerners, brightly enameled steel and span-high hair.[[File:VietCavalry.jpg|thumb|400px|By Ptdtch, CC BY-SA.]]
+The cataphracts are warriors of the [[Golden Realm]], crushed by the gnoll armies of the [[Great Mother]] and the orc armies of [[Grumluda]] in the [[Battle of the Last River]]. They are described as "eagle-winged",  with the typical dark skin of southerners, brightly enameled steel and span-high hair.![By Ptdtch, CC BY-SA.](/media/VietCavalry.jpg)
 
 [[Elhanen]] the Silent has brought exiled cataphracts and blind [[lion priests]] to the [[Shuttered City]].
 [[Category:Golden Realm]]

@@ -10,9 +10,9 @@ categories:
   - "Category:The Westmarches"
 media: []
 ---
-[[File:FrankCPape10.jpg|thumb|400px|Frank C Pape]]
+![Frank C Pape](/media/FrankCPape10.jpg)
 ## The Ziggurat
-[[File:Zigg1.jpg|thumb|216px]]Hex 06.10
+![](/media/Zigg1.jpg)Hex 06.10
 
 Connects to: 03.08, 09.06 and 29.14.23.
 

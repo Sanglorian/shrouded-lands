@@ -10,7 +10,7 @@ media: []
 ---
 
 
-[[File:Aragorn.png|thumb|400px|JesicaLR (CC BY-SA 3.0 Unported)]]After failing to best a lion in the trial to become a [[Brothers of the Lion|Brother of the Lion]], Huw was condemned to a life among a lion pride that wanders [[The Devil's Fingers]] and [[The Singing Wastes]].
+![JesicaLR (CC BY-SA 3.0 Unported)](/media/Aragorn.png)After failing to best a lion in the trial to become a [[Brothers of the Lion|Brother of the Lion]], Huw was condemned to a life among a lion pride that wanders [[The Devil's Fingers]] and [[The Singing Wastes]].
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">Last year, in the pride's migration, he discovered the Cactogre's Canyon ([[18.28]]), where the Cactogre lived with his nymph lover. Huw romanced the nymph, and within a week, they eloped.</p>
 

@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Honorable Society of Engineers
-[[File:Shutt-hon.png|thumb|361px]]Connects to: 17.16, 19.31.10, 29.14.01, 29.14.09, 29.14.52 and 36.11.
+![](/media/Shutt-hon.png)Connects to: 17.16, 19.31.10, 29.14.01, 29.14.09, 29.14.52 and 36.11.
 
 Half guild, half civic institution, the Honorable Society of Engineers has been one of the greatest societies in the [[Shuttered City]] since the [[Sinking]] began.
 

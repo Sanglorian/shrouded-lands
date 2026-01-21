@@ -13,7 +13,7 @@ media: []
 Hex 23.11
 
 ## Winds
-[[File:2311.png|thumb|400px]]Connects to: 13.08, 20.10, 22.11, 24.11, 24.12, 25.18, 26.13, the Duchy of Thring and the City of Shuttered Windows.
+![](/media/2311.png)Connects to: 13.08, 20.10, 22.11, 24.11, 24.12, 25.18, 26.13, the Duchy of Thring and the City of Shuttered Windows.
 
 [[The Freeholds|Freehold]], [[Duchy of Thring|Thringish]] and [[Shuttered]] traders, and caravans from the [[Welt Road]], pour into this cramped, filthy town. It lies just beyond the claims of any Duchy noble. Shuttered allows it independence due to its position as a neutral trade center. The town is called Winds because its roads branch out towards each "wind" - north, south, east and west - and because of the mysterious gusts that whistle and howl through the caves beneath the city. The cave winds blow unpredictably, some gusts so violent that sentries on the wall hear them. A tribe of deaf [[kobolds]] dwells beneath the streets. In exchange for keeping the caverns and tunnels free of monsters or elf invaders, the citizens not only tolerate them, but grant them the privilege of digging through the town's refuse.
 

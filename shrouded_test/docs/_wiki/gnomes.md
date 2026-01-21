@@ -9,7 +9,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-Gnomes are one of the peoples of the Shrouded Lands.[[File:JohnBauer12.jpg|thumb|400px|A gnome gathering.]]
+Gnomes are one of the peoples of the Shrouded Lands.![A gnome gathering.](/media/JohnBauer12.jpg)
 
 ## Ninbolm
 [[Ninbolm]] is a gnomish city carved into a giant petrified stump. It is ruled by the [[Hierophant]], who merged with the stump, and hosts the subversive illusionist school, the [[Indigo Academy]]. 

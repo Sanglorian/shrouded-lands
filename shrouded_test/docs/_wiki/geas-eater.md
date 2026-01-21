@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-geas.jpg|thumb|400px]]Connects to: 29.07.03, 29.14.12 , 29.14.14 and 34.01.
+![](/media/Shutt-geas.jpg)Connects to: 29.07.03, 29.14.12 , 29.14.14 and 34.01.
 
 A strange and terrible monster stalks the streets of the [[Gnomish Quarter]] of the [[City of Shuttered Windows]]. It is known as the geas-eater, an invisible beast that feeds off certain types of coercive magic. It was created by the mad alchemist [[Jiffon Soon]], an exile from [[Naros]] ([[29.14]].12), who wished to remove from himself an unfortunate curse. However, the creature somehow escaped from Soon's laboratory and found its way to the Gnomish Quarter. At this point it was taken in by an elderly halfling woman named [[Arnea]]. Though wizened and penniless, Arnea had long been known to her kinsfolk as someone to go to in times of need. Soon after she had trapped the geas-eater in her attic, she saw an opportunity to make use of it.
 

@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ### The Swamp of Champions
-[[File:161602.png|thumb|400px]]Hex 16.16.02
+![](/media/161602.png)Hex 16.16.02
 
 Connects to: to be added.
 

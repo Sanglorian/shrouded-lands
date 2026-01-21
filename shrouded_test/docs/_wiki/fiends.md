@@ -10,7 +10,7 @@ categories:
   - "Category:Outsiders"
 media: []
 ---
-[[File:Demons.jpg|thumb|400px]]**Fiends** includes at least **demons** and **devils**. There are few [[outsiders]] for the fiendslayers to hunt after the [[Shuttering]].
+![](/media/Demons.jpg)**Fiends** includes at least **demons** and **devils**. There are few [[outsiders]] for the fiendslayers to hunt after the [[Shuttering]].
 
 ## Fiends
 *[[Erebus]] is the last fiendslayer; the fiendslayers fought demons and devils and used their body parts as grafts

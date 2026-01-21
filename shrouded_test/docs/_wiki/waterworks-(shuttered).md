@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-water.png|thumb|400px]]Connects to: 29.14.01, 29.14.35, 29.14.36, 29.15, 51.29.01 and the Burning Lands.
+![](/media/Shutt-water.png)Connects to: 29.14.01, 29.14.35, 29.14.36, 29.15, 51.29.01 and the Burning Lands.
 
 It's not a far jog from the [[North Gate and South Gate|South Gate]] of [[The Shuttered City|the City proper]] to the shore of [[Keening Sea]] -- a massive freshwater body that serves a fishery, bread basket ([[29.15]]), water-source, and sewage outtake for the City of Shuttered Windows. The underground canals leading to and out of the City have access points to allow the Priests of the [[Temple Indivisible]] to bless and purify the waters, as well as allowing for crews to patrol the waterways for monster incursions.
 

@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## The Mud Platter
-[[File:Shutt-mud.jpg|thumb|400px]]Connects to: 29.13.01.
+![](/media/Shutt-mud.jpg)Connects to: 29.13.01.
 
 This basement restaurant in the [[Shuttered City]] is popular place for drunks to fortify themselves against hangovers and for tired nocturnal entertainers to count their earnings before turning in. Its signature dish is salt beef cooked in yogurt and spices until the mess is as brown as the mud that seeps up between the bricks of the floor. This is then served on trenchers of spongy cornbread and eaten with the hands by ripping off pieces of the bread and using it to grab pieces of beef before they fall to the floor.
 

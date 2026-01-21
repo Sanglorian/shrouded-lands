@@ -11,7 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-elh.png|thumb|400px]]Connects to: 07.18, 11.08, 25.04.01, 29.14.11, 29.07, 33.00, 50.29, 50.30, 51.29 and the Duchy of Thring.
+![](/media/Shutt-elh.png)Connects to: 07.18, 11.08, 25.04.01, 29.14.11, 29.07, 33.00, 50.29, 50.30, 51.29 and the Duchy of Thring.
 
 When the allied armies of the [[gnolls]] of the [[Burning Lands]] and the orcs of [[Grumluda]] destroyed the eagle-winged [[cataphracts]] of the [[Golden Realm]] in the [[Battle of the Last River]] ([[51.29]]), the [[King in Yellow]] bowed and scraped to save his nation and the great iron statue of a lion that had lain sleeping before his palace for longer than anyone can remember was dragged off north by the gnolls’ many new slaves ([[50.30]]).
 

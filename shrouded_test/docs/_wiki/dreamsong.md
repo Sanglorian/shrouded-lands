@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Dreamsong
-[[File:SL_17.png|thumb|359px]]Connects to: 02.07, 18.10.01, 24.07 and 39.23.01.
+![](/media/SL_17.png)Connects to: 02.07, 18.10.01, 24.07 and 39.23.01.
 
 The [[whales]] of the [[Ocean of Bitter Regrets]] sing and the song must never cease or the Dreamsong itself will fail. Before the world was made there was the Dreamsong of the Great Dreamer and now only the songs of the whales sustain it and within the Dreamsong the leviathans learn great secrets before their mothers bring them into this world.
 

@@ -11,7 +11,7 @@ categories:
   - "Category:Wizards"
 media: []
 ---
-[[File:Shutt-nec.png|thumb]]Connects to: 14.23, 15.11, 21.14, 24.18, 26.13, 29.13, 29.14.09, 29.14.46 and 39.14.
+![](/media/Shutt-nec.png)Connects to: 14.23, 15.11, 21.14, 24.18, 26.13, 29.13, 29.14.09, 29.14.46 and 39.14.
 
 Most sorcerers in these lands learn their art by apprenticing themselves to an established wizard. There are stories from far lands of great wizarding academies but the [[City of Shuttered Windows]] has none, unless you count the Necromantic Office.
 

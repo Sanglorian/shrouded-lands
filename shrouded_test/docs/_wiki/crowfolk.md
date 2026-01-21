@@ -11,7 +11,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Caim_in_bird_form.jpg|thumb|330px]]
+![](/media/Caim_in_bird_form.jpg)
 ## The Crowfolk of Blind Midshotgatepool
 Connects to: 02.11.02, 04.00, 08.01, 29.13.31 and
 44.17.
@@ -25,7 +25,7 @@ Crowfolk are clever and learn quickly. Some have fallen in with the [[thieves gu
 *The crowfolk are native to Sladder ([[44.17]]).
 *The crowfolk have been blamed for the skinscratch murders ([[02.11]].02).
 *The [[Shuttered City]] tavern known as [[The Giant and the Gnome]] employs crowfolk to keep an eye out for thieves.
-*One of these ratters is currently adventuring with the [[Browncloaks]].[[File:SL10.jpg|thumb|400px]]
+*One of these ratters is currently adventuring with the [[Browncloaks]].![](/media/SL10.jpg)
 ### Hooks:
 *What plots are the crowfolk brewing now?
 [[Category:Creatures]]

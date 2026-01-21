@@ -17,7 +17,7 @@ media: []
 *Chelind’s Buns (16.16.06): a baker and her demon lover.
 
 ### The Bridges East and West
-[[File:161603.png|thumb|258px]]Hex 16.16.03
+![](/media/161603.png)Hex 16.16.03
 
 Connects to: 14.14, 16.16.04, 17.18, *39.23.01*, the **Bitter Coast** and the **City of Shuttered Windows**.
 
@@ -42,7 +42,7 @@ Strangely enough, the streets of Eastbridge are actually paved, at least some of
 *Any interesting inns in Eastbridge? What sort of entertainment can be had there?
 
 ### Chelind’s Buns
-[[File:161606.png|thumb|366px]]Hex 16.16.06
+![](/media/161606.png)Hex 16.16.06
 
 Connects to: *13.01* and 16.16.03.
 

@@ -10,7 +10,7 @@ categories:
   - "Category:Sosaria"
 media: []
 ---
-[[File:481803.png|thumb|400px]]Sosaria's artisans and entrepreneurs make extensive use of the bones of slaughtered beasts. [[Attu Sharku]], proprietor of the Bones' Jangle, purchases entire skeletons and transforms them into musical puppets. The skeletons are rebuilt into whimsical forms and attached to wires that gnome puppeteers move with pedal mechanisms. The lurid shadows cast by the skeletons and the soft jangling of their bones provide a unique ambiance.
+![](/media/481803.png)Sosaria's artisans and entrepreneurs make extensive use of the bones of slaughtered beasts. [[Attu Sharku]], proprietor of the Bones' Jangle, purchases entire skeletons and transforms them into musical puppets. The skeletons are rebuilt into whimsical forms and attached to wires that gnome puppeteers move with pedal mechanisms. The lurid shadows cast by the skeletons and the soft jangling of their bones provide a unique ambiance.
 
 The clientele varies from night to night, and includes all walks of Sosarian life. The weekday brings throngs of butchers and plague doctors. Weekend performances by bands of [[gnolls]] or [[steppe people]] attract the scions of cattle barons, adventurers and exiles hoping to forget the city's squalor. Everyone drinks local eggnog infused with pungent liquors. Those who can afford the house's [[pipeweed]] smoke it through brass hookahs shaped like fantastic beings.
 

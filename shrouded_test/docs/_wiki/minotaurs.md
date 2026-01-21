@@ -10,7 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Minotaure_posant_pour_un_calendrier_S.jpg|thumb|left|lyonart, 'Minotaure posant pour un calendrier' (CC BY-SA 3.0 Unported)]][[File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg|thumb|400px|George Frederic Watts]]Minotaurs ([[14.02]], [[18.26]], [[27.16]], [[29.14]], [[39.32]])
+![lyonart, 'Minotaure posant pour un calendrier' (CC BY-SA 3.0 Unported)](/media/Minotaure_posant_pour_un_calendrier_S.jpg)![George Frederic Watts](/media/George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg)Minotaurs ([[14.02]], [[18.26]], [[27.16]], [[29.14]], [[39.32]])
 
 Minotaurs, skeletal ([[39.32]])
 

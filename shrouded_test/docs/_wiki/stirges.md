@@ -8,7 +8,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[File:Gs89.jpg|thumb|Stirge]]
+![Stirge](/media/Gs89.jpg)
 ## Spawning
 With the fishermen of [[Shuttered]] growing ever more numerous and thorough, the larval [[stirges]] that the [[fish]] of the [[Keening Sea]] feast on are growing to maturity in ever-growing numbers (at the spawning grounds of the stirges, [[31.15]]). At the end of spring, they rise from the coastal waters of the freshwater sea and the females plague both man and beast for several weeks until they have either drank their fill, died of starvation or been killed. Luckily, the stirges can be driven off by strong sunlight, rain, wind or smoke but when the weather is mild it is dangerous to be out of doors for stirges drink deeply and the great red welts that they leave burn for weeks.
 

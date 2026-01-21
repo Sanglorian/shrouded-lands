@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## Ledo's Hunt
-[[File:2311ledo.png|thumb|400px]]Connects to: 17.21 and 25.04.
+![](/media/2311ledo.png)Connects to: 17.21 and 25.04.
 
 Long ago a warrior known as [[Egil Longspear]], known throughout these lands for his bastard sword and his bastard children, committed a vile crime against a certain elf of the [[Kingswood]] ([[Cerelaine]]). After sulking darkly for some decades the elf was disappointed to hear that Egil had died. Not to let vengeance slip through his fingers that easily he began plotting the annihilation of all of the Longspear's descendants.
 

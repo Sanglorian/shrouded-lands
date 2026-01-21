@@ -10,11 +10,11 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-[[File:Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg|thumb|400px]]Hex 08.27.
+![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex 08.27.
 
 **Region:** [[The Singing Wastes]]
 ## Zaal, the Sleeping City
-[[File:Sing2.jpg|thumb]]Connects to: 03.31.01, 29.07 and 29.14.36.
+![](/media/Sing2.jpg)Connects to: 03.31.01, 29.07 and 29.14.36.
 
 When the elven courts sundered ([[29.07]]) some few of the [[unseelie elves|unseelie court]] remained behind ([[28.07]] and [[31.04]]) and some few of the [[seelie elves|seelie court]] went into exile. The [[Bloodied King]] watched them leave with a stony face and they walked away south under the night stars with the elves of the unseelie court.
 
@@ -36,7 +36,7 @@ But any men with pleasing faces who are able to reach the city’s walls are wel
 *Whose hair is it?
 *Why do the white elves welcome (handsome male) travellers? Why have none (seemingly) ever left? Do the elves ever leave their city? The ghouls never see them go out…
 ## Hypno, Lord of Sleep
-[[File:Sing3.jpg|thumb]]Hex 08.27.01
+![](/media/Sing3.jpg)Hex 08.27.01
 
 Connects to: 19.31.08.
 

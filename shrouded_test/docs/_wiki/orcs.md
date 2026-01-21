@@ -10,7 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Ork_schamane.jpg|thumb|400px|'Orc', Markus Röncke (Public Domain Dedication)]]
+!['Orc', Markus Röncke (Public Domain Dedication)](/media/Ork_schamane.jpg)
 Two orc peoples have been identified:
 *The orcs who live in the Grey Mountains, particularly in and around the fortress of [[Hoth Achaar]].
 *The orcs of [[Grumluda]], a country beyond the Shrouded Lands. See the Grumluda entry for more.

@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Unknownartist3.jpg|thumb|400px|http://apolitical.info/teleleli/?p=1725]]
+![http://apolitical.info/teleleli/?p=1725](/media/Unknownartist3.jpg)
 Connects to: 03.08.01, 09.22 and 04.00.
 
 In the [[City of Shuttered Windows]] the rich and powerful live high above other men. Not only do their towers strain towards the sky but many of elite never set foot on the fetid muck that the city is sinking into. When they visit the towers of
@@ -24,7 +24,7 @@ The richest of the [[Great Families]] and [[Blind Doge|the Doge himself]] can af
 *The [[Black Balloon]] was balloon-artisan [[Yilbar the Illustrious]]' greatest work.
 
 ### Hooks:
-*Who is in the market for aarakocra slaves or eggs? There [[File:Shutt-ball.png|thumb|400px]]must be someone in the City who wants to match the Doge.
+*Who is in the market for aarakocra slaves or eggs? There ![](/media/Shutt-ball.png)must be someone in the City who wants to match the Doge.
 *How do you keep slaves that can fly from running away?
 [[Category:The Shuttered City]]
 [[Category:Buildings]]

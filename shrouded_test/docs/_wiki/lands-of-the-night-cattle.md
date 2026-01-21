@@ -9,7 +9,7 @@ categories:
   - "Category:The Lands of the Night Cattle"
 media: []
 ---
-[[File:Moo.png|right]] 
+![](/media/Moo.png) 
 
 
 ## The Lands of the Night Cattle

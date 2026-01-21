@@ -10,7 +10,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-These eccentric sages were exiled to Border’s Hill (20.18, on the borders of Thring) after an unfortunate accident involving a magical experiment on a herd of the Duke's cattle.[[File:Gs23.jpg|thumb|329px|http://www.gutenberg.org/files/32406/32406-h/32406-h.htm]]
+These eccentric sages were exiled to Border’s Hill (20.18, on the borders of Thring) after an unfortunate accident involving a magical experiment on a herd of the Duke's cattle.![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs23.jpg)
 
 They call themselves the Hunters of Truth, but others refer to them as the Foolish Sages. Their curiosity consistently surpasses their common sense and instinct for self-preservation. As a result, various calamities have befallen them and less than half their original number remains.
 

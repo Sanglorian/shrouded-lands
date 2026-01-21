@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 
-[[File:38_rackham_poe_msfoundinbottle.jpg|thumb|400px|Arthur Rackham]]Ghouls lurk and howl around the walls of [[Zaal]] hoping to eat those who fall asleep approaching the city.
+![Arthur Rackham](/media/38_rackham_poe_msfoundinbottle.jpg)Ghouls lurk and howl around the walls of [[Zaal]] hoping to eat those who fall asleep approaching the city.
 
 Ghouls gather in great packs in the [[Singing Wastes]].
 

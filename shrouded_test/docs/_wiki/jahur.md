@@ -11,9 +11,9 @@ categories:
   - "Category:Sea of Typhoons"
 media: []
 ---
-[[File:Jahur1.png|thumb]]Hex 19.31
+![](/media/Jahur1.png)Hex 19.31
 ## Jahur, City of Jewels
-[[File:Gs47.jpg|thumb|Iano]]
+![Iano](/media/Gs47.jpg)
 
 Connects to: 17.30, 19.30, 19.31.03, 20.32, 21.27,
 21.29, 23.32, 29.14.36, 46.01, 51.29 and the City of
@@ -69,7 +69,7 @@ City of Smoke ([[51.29]]), which is called the Burning
 City in these parts. Their jewel-laden caravans
 are protected by columns of Janissaries as well
 as more conventional guards.
-[[File:CharlesRobinson.jpg|thumb|400px|The people of Jahur]]
+![The people of Jahur](/media/CharlesRobinson.jpg)
 In this city, all walks of life appreciate visual art,
 especially bright colors. Ceramics, patterned
 rugs and calligraphy from all parts of the
@@ -168,7 +168,7 @@ A [[Viceroys|Viceroy]] will sometimes drag the vampire up to the wall’s upper 
 *What crime did the vampire commit? Is anyone tempted to cut him down?
 
 ## Alleys of the Woman in Red
-[[File:Jahur9.png|thumb]]Connects to: 08.27.01, 19.31.07, 19.31.10 and
+![](/media/Jahur9.png)Connects to: 08.27.01, 19.31.07, 19.31.10 and
 26.33.
 
 Viceroy Duygu was vexed by a recurring dream

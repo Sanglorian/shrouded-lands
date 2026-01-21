@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## Extant members
-[[File:Alexander_Litovchenko_002.jpg|thumb|400px|The Jester Prince; Alexander Litovchenko]]
+![The Jester Prince; Alexander Litovchenko](/media/Alexander_Litovchenko_002.jpg)
 *[[The Jester Prince]]
 ## High Kings of Gore
 ### Crowning
@@ -23,7 +23,7 @@ For an age, peasant children crowned every High King of Gore in Fool’s Court.
 *Why did peasant children crown the kings?
 *Why did the old kings revere an ancient, little-known civilization and their gods so much?
 ### Fall of the Falcon Throne
-[[File:David_Teniers_(II)_jester.jpg|thumb|400px|Turien, the King of Fools]]While the High Kings of Gore ruled they alone drank the blood of [[The Tarrasque]] of Bergolast (38.28) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
+![Turien, the King of Fools](/media/David_Teniers_(II)_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [[The Tarrasque]] of Bergolast (38.28) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
 
 Before it fell, every year without fail the kings who sat on the falcon throne would hold a festival where people traded roles for a week: freemen paraded around in their wives’ dresses, kings wore fool’s motley and – in the last year of the kingdom – twelve butchers acted as the king’s council of ministers. These were snidely called the Lords Sanguine, for they wore their robes of state beneath their bloody aprons.
 
@@ -44,7 +44,7 @@ As for the Lords Sanguine, they soon fell to fighting among themselves and the l
 *Why did King Turien agree to be Duke Ulthar’s jester?
 
 ## The Questing Beast and the Jester Prince
-[[File:Rackham_Dragon_Dublin.jpg|thumb|500px|"The dragon in the woods near Dublin", Arthur Rackham]]Connects to: *05.20, 06.03, *07.17 and *38.28.*
+!["The dragon in the woods near Dublin", Arthur Rackham](/media/Rackham_Dragon_Dublin.jpg)Connects to: *05.20, 06.03, *07.17 and *38.28.*
 
 All know why there is no king in the south yet a prince serves the Duke as court jester, so I will not bore you with that tale (see above). What you may not know is why the prince has the Tarrasque *(38.28)* emblazoned on his shield and why the Duke’s hunt so often follows the prince’s aimless rambles across the land.
 
@@ -58,7 +58,7 @@ The Tarrasque is not as other beasts nor is its blood like other blood, as the L
 
 But for the Duke of Thring this is not enough and he seeks the true blood of the Tarrasque that will flow from its heart when dealt a mortal wound. It is said that is such blood is caught in a cup that cup will become the sangreal and all who drink from it will have the shadow of death lifted from them.
 ## The Lady-in-Waiting of Castle Maratan
-[[File:Le_morte_d-arthur-201.gif|thumb|400px]]Connects to: 05.20, 07.18 and 31.15
+![](/media/Le_morte_d-arthur-201.gif)Connects to: 05.20, 07.18 and 31.15
 
 A Sanguine Lady would not be worthy of the title if she was not intimately concerned with the workings of blood. It should come as no surprise that [[Lady Natala]] keeps a gilded cage of [[stirges]], and has her plump and otherwise content servants press their veins to the bars after dinner each night.
 

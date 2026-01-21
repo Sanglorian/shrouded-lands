@@ -28,7 +28,7 @@ At least most of the time. When it’s convenient.
 
 Presumably other dwarves also hold these things true.
 ## The Beard-Mask
-[[File:Titan2.jpg|thumb]]The dwarves of Titan’s Skull place a veil beneath their nose to hide their beard and disguise their gender while in public. This is a strict interpretation of the dwarves’ second law on gender, with ‘outsiders’ sometimes interpreted to mean 
+![](/media/Titan2.jpg)The dwarves of Titan’s Skull place a veil beneath their nose to hide their beard and disguise their gender while in public. This is a strict interpretation of the dwarves’ second law on gender, with ‘outsiders’ sometimes interpreted to mean 
 anyone outside one’s immediate family.
 
 The nature of the veil depends on the dwarf’s station and personal preferences. Particularly conservative dwarves may cover their entire face, arguing—probably correctly—that a dwarf’s gender can be surmised from facial structure.

@@ -9,7 +9,7 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-[[File:2012_paladin1_0.jpg|thumb|304px|"Rook," © 2012 Jared von Hindman, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/]]
+!["Rook," © 2012 Jared von Hindman, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/](/media/2012_paladin1_0.jpg)
 It is the fourteenth birthday of the daughter of Ser Gareth Lemarr, her coming of age. She has not seen him since she was four. He was a brave snickersnee of [[Lady Natala]] and she has used his razor-like sword to cut her hair short in the Glade of Womanhood ([[07.18]])
 
 Gareth’s shield was entirely red (see [[Snickersnees]]), but it was lost alongside him.

@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-gia.png|thumb|336px]]Connects to: 00.02 and 26.20.07.
+![](/media/Shutt-gia.png)Connects to: 00.02 and 26.20.07.
 
 The improbable coupling vividly depicted on the sign hanging outside this tavern is a reference to a bawdy folk song about a [[Pirate Kings|Pirate King]] and his alleged dalliance with a flirtatious [[gnomes|gnome]] pirate whose ship he captured. How the gnome turned to piracy is unknown—according to some stories she was the last to leave the ruins of the [[stone giants]] after that devout race demolished their castles and took to living under the open sky.
 

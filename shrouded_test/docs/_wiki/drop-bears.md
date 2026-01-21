@@ -9,7 +9,7 @@ categories:
   - "Category:The World's Edge and Beyond"
 media: []
 ---
-[[File:Cambridge_Natural_History_Mammalia_Fig_070.jpg|thumb|400px|Frank E Beddard]]Although quite small and not especially fearsome looking, drop bears can be a real hazard as they fall on their victims from great heights, which often results in broken backs or crushed limbs.
+![Frank E Beddard](/media/Cambridge_Natural_History_Mammalia_Fig_070.jpg)Although quite small and not especially fearsome looking, drop bears can be a real hazard as they fall on their victims from great heights, which often results in broken backs or crushed limbs.
 
 Pregnant drop bears or those with litters of cubs watch intently for the various great beasts of these steaming jungles. These beasts are too large for the drop bears to kill outright so they instead "ride" them, digging in their long claws and goading them on with injections of pain-inducing poison from the spurs on their hind feet. These pain-maddened beasts can be quite dangerous to travelers as they completely ignore all threats except for the agony of the drop bears on their backs.
 

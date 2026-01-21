@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## The Falling Walls of Monatheron
-[[File:1914_Redon_Zyklop_anagoria.jpg|thumb|400px]]Hex 43.12
+![](/media/1914_Redon_Zyklop_anagoria.jpg)Hex 43.12
 
 Connects to: 14.01, 29.01, 47.11, 50.11 and the City of Shuttered Windows.
 
@@ -22,7 +22,7 @@ It seems that each year more stones fall and one by one the engines of wonder sl
 
 Among the most important of these duties is caring for the six sacred breeds of Andaran cattle. These beasts are unlike those seen elsewhere and any who crossbreeds them or removes them from Monatheron is thrown into the cat pits that lie in the lower levels of the castle. However, Monatheron does export a great deal of beef, much of it being sent to the City of Shuttered Windows as "gifts," for Monatheron's strength is far too withered to resist the power of the City's Doge.
 
-Currently, one of the primary concerns of the lords of Monatheron is outdoing each other in fashion. It is forbidden for any of their race to wear dead things and, as the fashion changes from year to year cloaks of mewling cats, tunics of caged birds (often birds of paradise, a fashion which the Sosarian cattle barons have adopted in a crude form, see 50.11) and much more can be seen in the castle's halls.[[File:4312.png|thumb|400px]]
+Currently, one of the primary concerns of the lords of Monatheron is outdoing each other in fashion. It is forbidden for any of their race to wear dead things and, as the fashion changes from year to year cloaks of mewling cats, tunics of caged birds (often birds of paradise, a fashion which the Sosarian cattle barons have adopted in a crude form, see 50.11) and much more can be seen in the castle's halls.![](/media/4312.png)
 
 The current fashion is for the cyclopses of the city to smear their hair with nutritive unguents that attract luminescent beetles that crawl over their bodies in dazzling ever-moving patterns (sometimes beetle-eating snakes are added to keep things more lively). This fashion has some admirers in Shuttered and one can tell much about the courtesans of that city by what beetles cling to their hair. However the from that this has taken in the grimier brothels of the Undercity can be a bit disconcerting.
 ### Connections:

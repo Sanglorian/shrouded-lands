@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Shuttered Windows
-[[File:Shutt-the_shutt_wind.png|thumb]]Connects to: 19.31.09, 23.08, 29.14.14, 29.14.26, 29.14.33, 29.14.41, 29.14.43, 29.24 and 40.06.
+![](/media/Shutt-the_shutt_wind.png)Connects to: 19.31.09, 23.08, 29.14.14, 29.14.26, 29.14.33, 29.14.41, 29.14.43, 29.24 and 40.06.
 
 You can see them all over the [[Undercity|under-city]] of the [[Shuttered City]], if you know where to look. Some of them are small, only big enough for a child to crawl through. Many are the size of doorways; a few are enormous, like the one that hangs in front of the old marketplace square which is now a dozen yards below the ground. Regardless of their size, what all of these windows have in common is that they are closed. Their great stone shutters have been drawn closed and sealed, so that one may mistake them for a wall until one notices the arcane runes inscribed around the edges.
 
@@ -33,7 +33,7 @@ Nobody has ever been able to open the Shuttered Windows since that day. However,
 *The strange roads can lead you places if you know the way. What happens if you don't know the way, or you get lost?
 *Is there a reliable way to access the strange roads anymore? Are there any other places besides the Shuttered City where you can get onto the roads?
 ## A Vision of the Distant Past
-[[File:Shutt-wind.png|thumb]]Connects to: 13.08, 17.17.05, 19.01, 27.12, 29.14.13 and 29.14.20.
+![](/media/Shutt-wind.png)Connects to: 13.08, 17.17.05, 19.01, 27.12, 29.14.13 and 29.14.20.
 
 Long ago, before the gods went to war ([[40.06]]) and the empire of [[Bergolast]] was torn asunder, there was an age of great peace and prosperity for this city. The Windows were not Shuttered but wide open, and travellers arrived in the bustling, smoking marketplace from across the world and beyond. The elves of the [[Kingswood]] and the troll-folk of Bergolast were considered locals by comparison with those who visited from distant lands - [[Naros]] and [[Grumluda]] and [[Zamorqy]], a land so far across the ocean that none have ever sailed there, and nothing of that place has reached the Shrouded Lands since the Shutters were closed forever.
 
@@ -53,7 +53,7 @@ By the time the war was over and the Shutters were closed, the people of the cit
 *Did Severard really escape to a different plane?
 
 ## The Last Window
-[[File:Shutt-last.png|thumb|381px]]Hex 29.14.33
+![](/media/Shutt-last.png)Hex 29.14.33
 
 Connects to: 29.14.13 and 43.08.
 

@@ -12,7 +12,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-suit.png|thumb|400px]]Hex 29.14.40
+![](/media/Shutt-suit.png)Hex 29.14.40
 
 As a mages grow in power the laws of reality twist to their whims, but no matter how great they wax their bodies remain feeble things caught in the flow of time. So [[Iraine]]'s quest for immortality is not surprising but perhaps her plan to achieve it is: she plans to get married.
 

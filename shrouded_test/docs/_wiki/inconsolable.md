@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Inconsolable
-[[File:Jahur7.jpg|thumb]]Hex 19.31.06
+![](/media/Jahur7.jpg)Hex 19.31.06
 
 Connects to: 51.29.
 

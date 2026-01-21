@@ -10,7 +10,7 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
-[[File:Titan3.png|thumb|144px]]Twenty years ago, [[the Hoard]] longbeards introduced an ‘eons-old custom’: the gifting of each dwarven child with a coin from the vaults. The smoothchins are to speak to their coin each night before bed.
+![](/media/Titan3.png)Twenty years ago, [[the Hoard]] longbeards introduced an ‘eons-old custom’: the gifting of each dwarven child with a coin from the vaults. The smoothchins are to speak to their coin each night before bed.
 
 Some [[dwarves]] suspect that the Hoard have enchanted the coins so that they can hear everything that the children of powerful dwarves say. This is untrue. The Hoard have no interest in what is said to the coins. They care only if the coins speak back.
 

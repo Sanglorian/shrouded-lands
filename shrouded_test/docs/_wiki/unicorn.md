@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 
-*[[29.07]][[File:Bertuch-Unicorn.png|thumb|400px]]
+*[[29.07]]![](/media/Bertuch-Unicorn.png)
 [[Category:Creatures]]
 [[Category:Characters]]
 [[Category:Elves]]

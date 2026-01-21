@@ -10,11 +10,11 @@ categories:
 media: []
 ---
 ## Elharada, Grasthifal and Vivisophal
-[[File:4832.jpg|thumb]]Connects to: 48.33 and 49.32.
+![](/media/4832.jpg)Connects to: 48.33 and 49.32.
 
 Three communities are built in three hexes - [[48.32]] contains the dwarven village of Elharda ("Golden Light" in the common tongue), [[48.33]] contains the gnomish village of Grasthifal ("Golden Light" in the common tongue), and hex [[49.32]] contains the elven village of Vivisophal ("Golden Light" in the common tongue). These three villages are exact replicas on one another, down to the very layout and square footage of each building. The only change being the race of people who live there, and the language they speak.
 
-In Elharda, the village is lead by an elder dwarf who calls himself Adymm. He speaks with a Gnomish accent. In Grasthifal, the village is lead by an elder gnome who calls himself Adymm. He speaks with an Elven accent. In Vivisophal, the village is lead by an elder elf who calls himself Adymm. He speaks with a Dwarven accent.[[File:4932.png|thumb]][[File:4833.png|thumb]]
+In Elharda, the village is lead by an elder dwarf who calls himself Adymm. He speaks with a Gnomish accent. In Grasthifal, the village is lead by an elder gnome who calls himself Adymm. He speaks with an Elven accent. In Vivisophal, the village is lead by an elder elf who calls himself Adymm. He speaks with a Dwarven accent.![](/media/4932.png)![](/media/4833.png)
 
 Items commissioned to be made in any of the villages can be picked up at either corresponding triplet, the corresponding artisan will know the buyer even if the buyer had never set foot in that particular village before. For example, if a sword was commissioned at the dwarven blacksmith, the buyer could pick the sword up at either the elven or gnomish blacksmith without ever having to inform the dwarven blacksmith that he is doing so.
 ### Subhex:

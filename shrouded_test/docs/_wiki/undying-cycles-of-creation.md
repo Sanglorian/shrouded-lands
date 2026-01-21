@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Undying Cycles of Creation
-[[File:Jahur4.png|thumb]]Connects to: 02.03, 05.18, 19.31, 25.31, 29.07.03, 37.01 and the City of Shuttered Windows.
+![](/media/Jahur4.png)Connects to: 02.03, 05.18, 19.31, 25.31, 29.07.03, 37.01 and the City of Shuttered Windows.
 
 Long ago the gilded fleet of the [[Imperium Undying]] set out from the utter west to colonize these Shrouded Lands. Little remains of it now but rumors of [[the Prince of Men]] (29.07.03) sleeping beneath the waters of Mirror Lake ([[37.01]]) and the pact that the [[elves]] of the [[Kingswood]] entered into with the Prince that they honor yet though all men have forgotten its terms.
 

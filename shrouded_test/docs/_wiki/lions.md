@@ -12,7 +12,7 @@ categories:
   - "Category:The King in Splendour"
 media: []
 ---
-[[File:Johnston_De_Quadrupedibus_Loewe.jpg|thumb|400px|John Johnston]]
+![John Johnston](/media/Johnston_De_Quadrupedibus_Loewe.jpg)
 ## Lion companions
 *[[Brothers of the Lion]] are an elite entourage that either win a lion companion or must live among the lion prides of the [[Devil's Fingers]]. 
 *The [[Abbot of the Sainted Foot|Abbot of the Keepers of the Sainted Foot]] met with a hermit ([[09.01]]) whose cow ate his lion. The Abbot is a priest of [[Alberon]].

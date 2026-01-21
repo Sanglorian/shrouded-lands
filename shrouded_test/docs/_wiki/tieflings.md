@@ -10,7 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Aubrey_Beardsley_-_Edgar_Poe_4.jpg|thumb|400px]]**Inspiration: ***Wild Seed, *Octavia Butler
+![](/media/Aubrey_Beardsley_-_Edgar_Poe_4.jpg)**Inspiration: ***Wild Seed, *Octavia Butler
 
 ## Tieflings
 A man named [[Tief]] jumped in the Font of Chimalia ([[31.19]]) in the prime of his life and has not aged for many mortal lifetimes. As one of the first outsiders to be trained by the Dustmen ([[40.20]]), he managed to evade the island's dangers by taking advantage of the place's plentiful shadows. Tief never gained the patience possessed by many immortals. He grew bored studying magic, presiding over a castle in Gore and even with throwing himself into hedonism that has become the subject of epic comedies. During a reclusive period of his life, he raised and traded livestock. He became obsessed with the possibilities of breeding fantastic animals. But like every other endeavor, he abandoned it. But this time, he felt inspired to do something no man had done before.

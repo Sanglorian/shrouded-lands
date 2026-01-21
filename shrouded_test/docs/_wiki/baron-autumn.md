@@ -9,7 +9,7 @@ categories:
   - "Category:Deities"
 media: []
 ---
-[[File:Madman's_Funeral.jpg|thumb|400px|https://commons.wikimedia.org/wiki/File:Madman%27s_Funeral.jpg]]
+![https://commons.wikimedia.org/wiki/File:Madman%27s_Funeral.jpg](/media/Madman's_Funeral.jpg)
 
 Baron Autumn is depicted as a grinning figure with pale skin, large black eyes and a smokey moustache. He is the unspoken second god of **Thring**. He shepherds the dead to the underworld and rides with his Wild Hunt, made up of the souls of those slain by black magic. The elves, it is said, recognise but do not worship him, for they have nothing to fear from death.
 ### Connection:

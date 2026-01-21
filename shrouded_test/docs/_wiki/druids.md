@@ -11,7 +11,7 @@ categories:
   - "Category:Professions"
 media: []
 ---
-[[File:JamesMichaelGleeson.jpg|thumb|400px|http://apolitical.info/teleleli/?p=3232]]
+![http://apolitical.info/teleleli/?p=3232](/media/JamesMichaelGleeson.jpg)
 Are the druids priests or mages, or something else again? It is not clear.
 ## Druids
 *Druids serve all official functions in the city of [[Ninbolm]].
@@ -25,7 +25,7 @@ Are the druids priests or mages, or something else again? It is not clear.
 *The Ancient Gardener can step into the ground to escape attack. She can return the dead to life, though not in their original form. 
 *Druids by the [[Ocean of Bitter Regrets]] cut sequoias to craft giant didgeridoos to call whales from the depths so they can hear the Dreamsong with their own ears. 
 *The [[Yrumps]], halfling druids, raised a network of earthen roads in Yrump Marsh ([[26.19]]) for ceremonial purposes. 
-[[File:Richard_Waitt_cromartie_fool.jpg|thumb|400px|Richard Waitt]]
+![Richard Waitt](/media/Richard_Waitt_cromartie_fool.jpg)
 [[Category:Professions]]
 [[Category:Priests]]
 [[Category:Magic]]

@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## The Houses of Tenzerlin and Ghosta
-[[File:Shutt-tenz.png|thumb|400px]]Connects to: 03.04.01 and 16.04.01.
+![](/media/Shutt-tenz.png)Connects to: 03.04.01 and 16.04.01.
 
 Among the many merchant houses of [[the Shuttered City]], two of the most famous are the Tenzerlins and the Ghostas, known for their feud that has endured for almost fifty years. The Tenzerlins are an old and noble house, whose colour is red and whose sigil is a hawk in flight. The Ghostas are upstarts, who wear green clothes and follow the sign of a bunch of grapes.
 

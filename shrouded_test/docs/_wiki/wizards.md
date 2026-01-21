@@ -8,7 +8,7 @@ categories:
   - "Category:Professions"
 media: []
 ---
-[[File:Gandalf.png|thumb|400px|JesicaLR (CC BY-SA 3.0 Unported)]]
+![JesicaLR (CC BY-SA 3.0 Unported)](/media/Gandalf.png)
 : **Mages** and **Thaumaturges** redirect here. For the nomenclature of spellcasters, see [[Spellcasting]].
 *Melnir was a heroic mage of old who struck the earth with his staff to summon a stream of magma that became a volcano (51.12). 
 *The Witch-Queen of Cragsend was a mage. 

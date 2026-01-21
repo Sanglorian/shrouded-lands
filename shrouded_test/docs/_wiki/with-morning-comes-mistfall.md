@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-H[[File:Shutt-with.png|thumb|398px]]ex 29.14.36
+H![](/media/Shutt-with.png)ex 29.14.36
 
 Connects to: 07.01, 08.27, 09.01, 10.01, 18.10.01, 19.31, 27.18.01, 29.13, 29.07, 29.14.09, 29.14.14, 29.15, 31.07, 38.28, 43.08, the Singing Wastes, the Grey Mountains and the Burning Lands.
 

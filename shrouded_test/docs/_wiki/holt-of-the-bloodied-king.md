@@ -13,9 +13,9 @@ categories:
   - "Category:The Witchwater"
 media: []
 ---
-[[File:August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg|thumb|400px|August Malmström]]
+![August Malmström](/media/August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg)
 ## The Holt of the Bloodied King
-**[[File:2907.png|thumb]]Hex: **29.07
+**![](/media/2907.png)Hex: **29.07
 
 **Region: **[[Kingswood]]
 Connects to: 5.24, 08.27, 13.03, 18.07, 18.28, 21.12,
@@ -59,7 +59,7 @@ the Kingswood.
 *Why‘s there such a massive geyser in the middle of the forest?
 *Why would it be foolish for a human (or other species as well?) to bathe in the Witchwater?
 ## The Holt Has Many Doors
-[[File:290702.png|thumb|400px]]Hex 29.07.02
+![](/media/290702.png)Hex 29.07.02
 
 Connects to: Hex 22.04.
 

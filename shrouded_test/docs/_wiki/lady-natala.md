@@ -10,7 +10,7 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-Rules: Castle Maratan[[File:AlphonseMucha3.jpg|thumb|400px|Lady Natala, in profile]]
+Rules: Castle Maratan![Lady Natala, in profile](/media/AlphonseMucha3.jpg)
 
 Related to: The Lady-in-Waiting of Castle Maratan.
 
@@ -23,7 +23,7 @@ She claims that on one of her hunts she came across the Duke of Thring himself (
 Although the Duke is not a kind man, Natala fell in love in an instant and nursed him back to health and when infection took hold on a wound that rang across the back of his hand, she drew blood from the beast so that the Duke could tell her which fingers could be saved and which to cut away.
 
 But their love could not last, for the Duke could not abandon his wife and Dukedom for her, but Lady Natala claims that the young lad who run whooping through the halls of Castle Maratan is the Duke's son and she means to see him sit on the high seat in Castle Tarengael (16.16) and rule all of the lands of Thring.
-[[File:Fantasy033.jpg|thumb|400px|Lady Natala confronts the Tarrasque.]]
+![Lady Natala confronts the Tarrasque.](/media/Fantasy033.jpg)
 ### Connections
 *One of Lady Natala’s agents has captured some [[dancer's bloom]] which is famous for boosting agility ([[15.18]]).
 ### Hooks

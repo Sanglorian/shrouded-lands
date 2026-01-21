@@ -12,7 +12,7 @@ media: []
 ---
 
 
-[[File:Matejko_Stańczyk.jpg|thumb|400px|Matejko Stańczyk]]A member (perhaps the only one) of the [[royal family of Gore]].
+![Matejko Stańczyk](/media/Matejko_Stańczyk.jpg)A member (perhaps the only one) of the [[royal family of Gore]].
 
 A mule, blood brother to the Prince, lives on a plateau ([[08.15]])
 

@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-creche.jpg|thumb|400px]]Connects to: 04.31, 08.03, 13.08, 29.14.11 and 29.14.37.
+![](/media/Shutt-creche.jpg)Connects to: 04.31, 08.03, 13.08, 29.14.11 and 29.14.37.
 
 Huddled against the south wall of the [[City of Shuttered Windows]], on land that has been technically part of the grounds of the [[Grumluda]] [[Embassies (Shuttered)|embassy]] since the unfortunate incident of Doge Montisse and the twenty-six shaven cave bears, one can find the Creche of a Million Young. Almost completely obscured from sight by criss-crossing walkways, the only entrance is a former upper window that is now sunk deem in the mud and that leads down into the halls of this temple.
 

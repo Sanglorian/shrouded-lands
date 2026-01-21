@@ -12,7 +12,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-[[File:1616.png|thumb|400px]]The great [[River of Crystal Waters]] nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [[Ulthar the Loved]] himself on a rocky island ([[16.16]]) so that the flowing waters would keep the [[Lords Sanguine]] at bay. Bridges connect it to the two halves of [[Tarengael Town]]: Eastbridge and Westbridge.
+![](/media/1616.png)The great [[River of Crystal Waters]] nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [[Ulthar the Loved]] himself on a rocky island ([[16.16]]) so that the flowing waters would keep the [[Lords Sanguine]] at bay. Bridges connect it to the two halves of [[Tarengael Town]]: Eastbridge and Westbridge.
 
 **Ruler:** The [[Duke of Thring]]<br />
 **Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [[The Foolish Sages]] (20.18) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
@@ -39,7 +39,7 @@ media: []
 *What happened to the cowhorses?
 
 ## The Mirror Throne
-[[File:161609.png|thumb|272px]]Hex 16.16.09
+![](/media/161609.png)Hex 16.16.09
 
 Connects to: 01.03 and 13.10.
 

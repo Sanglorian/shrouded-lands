@@ -14,7 +14,7 @@ media: []
 [[The Burning Lands]] are still called Bergolast to this day.
 
 ## The Doom That Was in Bergolast
-[[File:3828.png|thumb|313px]]Hex 38.28
+![](/media/3828.png)Hex 38.28
 
 Connects to: 02.22, 05.20, 15.01, 29.14.18, 29.14.24, 29.14.36, 30.15, 31.27, 32.32, 37.01.01, 39.31, 40.20, 43.03, 45.24, 48.24, 51.12, 51.29, the World’s Edge and the City of Shuttered Windows.
 

@@ -12,7 +12,7 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-[[File:I0081.jpg|thumb|400px|http://www.gutenberg.org/files/37995/37995-h/37995-h.htm]]On the shores of the [[Ocean of Bitter Regrets]] are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([[00.02]]. Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.
+![http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I0081.jpg)On the shores of the [[Ocean of Bitter Regrets]] are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([[00.02]]. Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.
 
 Periodically, floating cloud fortresses break from the mist of the mountains and head southward. The sight of one of these crimson Thunderheads elicits panic from any seagoing vessel that spots one. The cloud fortresses sink down and simply scoop up entire frigates. The ships are then dismantled by [[ogres]], valuables and slave-worthy men captured, and everything not taken is rained back down.
 
@@ -34,7 +34,7 @@ In the distant past, trade and diplomatic missions have been attempted, but the 
 ### Connections:
 *A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants (01.04).
 *One of the Pirate Kings attempted to raid the nests of the Kagu (04.00) and instead lost his castle.
-*The stone giants claim that the pirate kings once looted tw[[File:Sea_tsar_by_Sergey_Malyutin.jpg|thumb|left|400px|Sergey Malyutin]]o great rubies from the Long Table (06.03).
+*The stone giants claim that the pirate kings once looted tw![Sergey Malyutin](/media/Sea_tsar_by_Sergey_Malyutin.jpg)o great rubies from the Long Table (06.03).
 
 ## The Traveller’s Journal
 Hex 00.02.03

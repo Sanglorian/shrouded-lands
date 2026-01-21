@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 
-[[File:Egon_Schiele_081.jpg|thumb|400px]]The Dead Men are people suffering from the [[Courting Death]] who are sent on covert missions (often suicide missions) by the [[Temple Indivisible]]. (See [[Courting Death]] for more details).
+![](/media/Egon_Schiele_081.jpg)The Dead Men are people suffering from the [[Courting Death]] who are sent on covert missions (often suicide missions) by the [[Temple Indivisible]]. (See [[Courting Death]] for more details).
 
 [[Death's Lovelies]] are a band of Dead Men who defected.
 [[Category:Organisations]]

@@ -11,7 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:0103.png|right]] 
+![](/media/0103.png) 
 01.03
 
 ## Everdark

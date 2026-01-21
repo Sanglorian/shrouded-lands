@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Last Fiendslayer
-[[File:Jahur10.png|thumb|147px]]Hex 19.31.09
+![](/media/Jahur10.png)Hex 19.31.09
 
 Connects to: 03.13 and 29.14.13.
 

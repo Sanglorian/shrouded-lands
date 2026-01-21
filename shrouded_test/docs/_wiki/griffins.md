@@ -11,6 +11,6 @@ media: []
 ---
 
 [[29.14]], [[39.32]]
-[[File:Louvre-Lens_-_Renaissance_-_193_-_253_LR.jpg|thumb|400px]][[File:William_Blake_001.jpg|thumb|400px|William Blake]]
+![](/media/Louvre-Lens_-_Renaissance_-_193_-_253_LR.jpg)![William Blake](/media/William_Blake_001.jpg)
 [[Category:Creatures]]
 [[Category:Chimerics]]

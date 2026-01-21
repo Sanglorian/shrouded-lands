@@ -14,7 +14,7 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-[[File:Apollo_and_Daphne_.jpg|thumb|400px|adel adili, Creative Commons BY-SA 3.0 Unported]]
+![adel adili, Creative Commons BY-SA 3.0 Unported](/media/Apollo_and_Daphne_.jpg)
 ## Connections
 [http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 Dryads] killed by [http://shrouded-lands.wikia.com/wiki/Vampires vampires] become [http://shrouded-lands.wikia.com/wiki/Corpse_trees?action=edit&redlink=1 corpse trees] ([[11.11]]).
 

@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Temple of the Labyrinth
-[[File:Shutt-temp_lab.png|thumb|400px]]Connects to: 25.14, 29.01, 29.14.01, 29.14.13, 29.14.16, 29.14.29, 29.14.36, 29.14.38, 29.14.48, 29.14.50, 29.14.52 and 31.04.
+![](/media/Shutt-temp_lab.png)Connects to: 25.14, 29.01, 29.14.01, 29.14.13, 29.14.16, 29.14.29, 29.14.36, 29.14.38, 29.14.48, 29.14.50, 29.14.52 and 31.04.
 
 In the seediest corner of the [[Gnomish Quarter]] of the [[Shuttered City]], far from the shops of the reputable apothecaries and tinkerers and illusionists, beyond the cozy taverns and smoke shops, and past even the stalls and tents of the most disreputable [[naga-oil]] salesmen and pawn shop owners, lie the slums, which have sunk to the point of being half-underground and will be claimed entirely by the [[Undercity]] in a man's age or two. Once, when an ancient [[Doge]] allowed the construction of the Gnomish Quarter over the heated objections of an ancient [[Matriarch]], these were the row houses build by the first, wealthiest influx of gnomish artisans and traders, and now their low ceilings and narrow halls mean that their occupants are limited to destitute [[gnomes]] and [[halflings]]. [[Kobolds]] and [[goblins]] who attempt to defy their *geases* ([[29.14]].01) and remain in the City indefinitely often find their way into these warrens. Occasionally their wasted corpses are found among the trash strewn about the alleys, but rumors persist that there is some way to break the *geas*, and it can be found in this slum.
 

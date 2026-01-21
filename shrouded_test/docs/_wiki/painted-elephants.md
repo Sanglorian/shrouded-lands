@@ -11,7 +11,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-[[File:Two_Elephants,_by_Amrita_Sher-Gil,_ca_1940.jpg|thumb|368px|Amrita Sher-Gil]]When the painted elephants of the [[Burning Lands]] feel their steps faltering and their eyesight blurring, they travel to the Elephant Graveyard ([[43.27]]) where they gracefully die.
+![Amrita Sher-Gil](/media/Two_Elephants,_by_Amrita_Sher-Gil,_ca_1940.jpg)When the painted elephants of the [[Burning Lands]] feel their steps faltering and their eyesight blurring, they travel to the Elephant Graveyard ([[43.27]]) where they gracefully die.
 
 Painted elephants are small – about five feet high at the shoulder – and have four tusks. Their name comes from the brilliantly-colored fur and feathers that cover their hide. They are known to decorate their skin with ochers and clays; the [[elves]] report that they are forbidden by ancient pact from approaching an elephant with a white dot on its forehead and white circles around each eye.
 

@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 
-[[File:AlphonsedeNeuville.jpg|thumb|400px|http://apolitical.info/teleleli/?p=1387]]
+![http://apolitical.info/teleleli/?p=1387](/media/AlphonsedeNeuville.jpg)
 [[Category:Bodies of water]]
 [[Category:Regions]]
 [[Category:The Keening Sea]]

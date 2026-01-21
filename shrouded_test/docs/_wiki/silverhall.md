@@ -10,7 +10,7 @@ categories:
   - "Category:The Lands of the Night Cattle"
 media: []
 ---
-[[File:Silver.png|right]] 
+![](/media/Silver.png) 
 Silverhall
 
 Located in 31.04

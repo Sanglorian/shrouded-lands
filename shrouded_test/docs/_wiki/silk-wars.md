@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Silk Wars
-[[File:Shutt-weng2.png|thumb|400px]]Connects to: 13.06, 29.14.35, 29.14.37 and 29.14.45.
+![](/media/Shutt-weng2.png)Connects to: 13.06, 29.14.35, 29.14.37 and 29.14.45.
 
 [[Alvise Ettienne (nephew)|Alvise Ettienne]] took over the family silk business when his uncle, also [[Alvise Ettienne (uncle)|Alvise Ettienne]], was exiled from the City following his transformation into the first ettin and related scandals ([[13.06]]). The gold that he could make in this profitable business did a great deal to restore his house’s reputation and wash away all of the annoying whispers about head theft.
 

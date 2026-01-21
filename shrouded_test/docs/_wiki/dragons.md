@@ -9,7 +9,7 @@ categories:
   - "Category:Dragons"
 media: []
 ---
-[[File:Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg|thumb|400px|Thomas Cooper Gotch]][[Metallic dragons]] cannot be found this side of the World's Edge ([[The City Itself#The Cup of the Doge|29.14]])
+![Thomas Cooper Gotch](/media/Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg)[[Metallic dragons]] cannot be found this side of the World's Edge ([[The City Itself#The Cup of the Doge|29.14]])
 ## Connections
 *[[Metallic dragons]]
 *[[Severard]] left a chest of Scorshia birch charcoal doused in dragon blood ([[13.08]])

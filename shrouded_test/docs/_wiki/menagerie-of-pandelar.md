@@ -10,7 +10,7 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-[[File:Shutt-pand.png|thumb|400px]]Connects to: 43.08 and the World’s Edge.
+![](/media/Shutt-pand.png)Connects to: 43.08 and the World’s Edge.
 
 Somewhere deep in the vaults of the [[Undercity]] of the [[Shuttered City]], rumour has it that an ancient zoo lies hidden - bricked up now and deserted, yet still inhabited by a variety of strange animals who are preserved in eternal life by an enchantment placed upon the building. The Menagerie was created long ago by an elf named [[Pandelar]] who, unusually for and elf, travelled far from the Kingswood. Pandelar built the menagerie to repay the Doge of the city for a great service rendered unto him. Today, Pandelar dwells once again in the Kingswood, but is known only as the Weeper (43.08).
 

@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The City of Smoke
-[[File:51.29.png|thumb|400px]]Hex 51.29
+![](/media/51.29.png)Hex 51.29
 
 Connects to: 15.28, 25.17, 21.29, 29.14.47, 31.27, 38.28, 39.32 40.06, 43.27.01, 44.03, 50.29, 50.30, 51.17 and the City of Shuttered Windows.
 
@@ -46,7 +46,7 @@ Urged on, they say, by the whisperings of the bright priest, the Great Mother ha
 ### Hooks:
 *What does the Great Mother hope to find in Bergolast? Is that thing really there or has she been misled by her advisers?
 ## The Skull of the Defiler
-[[File:512901.png|thumb]]Hex 51.29.01
+![](/media/512901.png)Hex 51.29.01
 
 Connects to: 29.14.09, the Grey Mountains and the City of Shuttered Windows.
 

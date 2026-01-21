@@ -14,7 +14,7 @@ categories:
   - "Category:The Witchwater"
 media: []
 ---
-[[File:3908.png|thumb|400px]]Hex [[39.08]] (shared with [[Riparia]])
+![](/media/3908.png)Hex [[39.08]] (shared with [[Riparia]])
 
 Connects to [[40.09]]
 

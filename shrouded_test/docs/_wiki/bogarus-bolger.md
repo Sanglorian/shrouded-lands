@@ -23,7 +23,7 @@ Bolger's manner can be disarming, for he acts much like a gentleman halfling far
 *Bogarus is not pleased with the vampiric activites of his cousin, but he has not yet moved against her ([[29.14]].44).
 
 ## Bogarus' Safe Escape
-[[File:301502.png|thumb|300px]]Hex 30.15.02
+![](/media/301502.png)Hex 30.15.02
 
 This spell allows the caster to escape otherwise fatal circumstances. It teleports the caster 1d100 x 10 feet in a random direction. If this results in the caster being placed within a solid object then they instead appear in the nearest open space. However, if the caster appears above ground level then they will fall as normal.
 

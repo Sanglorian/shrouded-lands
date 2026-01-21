@@ -9,7 +9,7 @@ categories:
   - "Category:The Devil's Fingers"
 media: []
 ---
-[[File:Devilf.png|right]]
+![](/media/Devilf.png)
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [[13.24]], [[16.23]], [[18.26]], [[20.24]], [[22.25]], [[23.23]] and [[24.23]]. </span></p>
 Connects to: 16.16.05, 17.18 and 17.21.
 

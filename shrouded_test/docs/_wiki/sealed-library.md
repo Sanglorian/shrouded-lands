@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-seal.jpg|thumb|400px]]Connects to: 01.03, 17.07.02, 17.17.05, 27.18.01, 29.14.12, 29.14.14, 29.14.24, 29.14.29 and 29.14.48.
+![](/media/Shutt-seal.jpg)Connects to: 01.03, 17.07.02, 17.17.05, 27.18.01, 29.14.12, 29.14.14, 29.14.24, 29.14.29 and 29.14.48.
 
 Constructed in the early days of the supremacy of the [[Temple Indivisible]] by the legendary traveling wizard-architect [[Vilenius Arkhaus]] ([[01.03]]), the Sealed Library is the heavily warded archive housed at the top of the [[Steeple of Alberon]], accessible only by the [[Matriarch]] and those she chooses. The entire archive is constructed from a massive hollow cube of enchanted [[mithril]], and is engraved inside and out with millions upon millions of magical seals against not only scrying and unauthorized intrusion, but also to prevent the escape of any magical energies or malign influences contained within the archived tomes. The whole cube is suspended from the roof of the Steeple by winches and chains, so that it can be raised without having to be disassembled whenever the Steeple must be built up. The mirror portal by which the Library is entered can only be reached by the means of a system of scaffolding installed in the shaft housing the Sealed Library.
 

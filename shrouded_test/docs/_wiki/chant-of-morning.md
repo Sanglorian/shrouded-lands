@@ -10,7 +10,7 @@ categories:
   - "Category:The King in Splendour"
 media: []
 ---
-[[File:170703.png|thumb|400px]]Connects to: 04.08, 05.12 and 29.14.19.
+![](/media/170703.png)Connects to: 04.08, 05.12 and 29.14.19.
 
 One of the songs that the [[Stannevs]] sing of [[King in Splendour|their fiery god]] is as follows:
 

@@ -9,7 +9,7 @@ categories:
   - "Category:Organisations"
 media: []
 ---
-**[[File:SL4.jpg|thumb|400px]]Region: **[[Blind Midshotgatepool]]
+**![](/media/SL4.jpg)Region: **[[Blind Midshotgatepool]]
 ## The Thieves Guild of Blind Midshotgatepool
 Connects to: 15.24, 16.16, 19.30, 26.19, 26.20.03,
 26.20.04, 26.20.05, 27.18.01 and 37.06.

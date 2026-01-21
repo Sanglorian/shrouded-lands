@@ -9,7 +9,7 @@ categories:
   - "Category:The King in Splendour"
 media: []
 ---
-[[File:Aquaria_-_Energy_Temple_Concept.jpg|thumb|400px|Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)]]Connects to: 00.09, 06.03, 17.07, 17.07.01, 29.03,
+![Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)](/media/Aquaria_-_Energy_Temple_Concept.jpg)Connects to: 00.09, 06.03, 17.07, 17.07.01, 29.03,
 29.13, 29.14.07, 29.14.47, 46.10 and 50.30.
 
 The **King in Splendor**, the Sword that Slays the Night, also worshipped as the **Lion in Splendour**, is a sun god. He is usually portrayed as a muscular man with an eyeless lion head, a whip grasped in one hand and a manacle chained to
@@ -20,7 +20,7 @@ While popular across the waters, the King in Splendor has few followers in these
 The Lost Lighthouse was once maintained by the "lion priests" of the King in Splendor but due to the actions of [[Nikos Farver]], this is no longer the case ([[46.10]]).
 
 ### Connections:
-[[File:Sun2.png|thumb|336px]]
+![](/media/Sun2.png)
 *The hole that lets the noonlight in to the Sundial Inn was surely built by a devotee of the King in Splendour, possibly Pork Pie Stannev ([[25.04#The King in Splendor]])
 *Armand of the Axe is a current priest of the King in Splendor but he is somewhat inconvenienced with spider monkey [[lycanthropes|lycanthropism]] at the moment ([[29.13]]).
 *The lighthouse at Salt Point ([[00.09]]) is another former Lion Priest holding.

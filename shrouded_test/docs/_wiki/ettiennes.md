@@ -12,7 +12,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:I052.jpg|thumb|400px|Ettin]]
+![Ettin](/media/I052.jpg)
 [[Alvise Ettienne]] was once a wealthy and respected silk merchant and a noble of the City of Shuttered Windows. All of that began to change when the old Doge died and an election was announced. He gathered with the other electors in the Old Council Tower (29.14.06) and during the lengthy proceedings of the ducal election, he felt greatly honored when he was chosen as one of the Forty.
 
 A message was duly sent to the Brothers of the Grove ([[33.16]]) so that the augurs could determine which Twelve of the Forty would proceed to the next stage of the election. Due to a cow-related mishap, Alvise was declared the twelfth Elector to proceed to the next stage of the elections, but so were two others, which necessitated legal and bodily combination so that the election could proceed as the God of the City had obviously decreed.

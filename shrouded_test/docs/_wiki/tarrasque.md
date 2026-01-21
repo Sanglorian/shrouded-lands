@@ -9,7 +9,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[File:Arthur_and_the_Questing_Beast_(full).jpg|thumb|257px|"Arthur and the Questing Beast", HJ Ford]]
+!["Arthur and the Questing Beast", HJ Ford](/media/Arthur_and_the_Questing_Beast_(full).jpg)
 
 The Tarrasque of Bergolast (38.28) is the greatest of all beasts. Those corpses that are struck by the lightning at its birthplace are returned to life, those who eat of its flesh have their bodies like those of the gods that can heal most every injury and those who drink of its blood see the world as the gods see it. After drinking the blood of the Tarrasque, one can perceive any object not only as it is but as it was and as it might be. Sadly, to most this appears as nothing but a mad smear of images and sounds and it takes long years of practice and training to tease out useful information from the visions imparted by Tarrasque blood.
 

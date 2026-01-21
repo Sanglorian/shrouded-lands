@@ -11,7 +11,7 @@ categories:
   - "Category:The Kingswood"
 media: []
 ---
-[[File:2010-01-portrait_cendrea.png|thumb|400px|An elf. David Revoy/The Blender Foundation (CC BY 3.0 Unported)]]
+![An elf. David Revoy/The Blender Foundation (CC BY 3.0 Unported)](/media/2010-01-portrait_cendrea.png)
 ## Deities
 The [[Green Lady]] is said to be the mother of the elves.
 ## Peoples

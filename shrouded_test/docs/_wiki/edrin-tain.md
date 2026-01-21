@@ -13,7 +13,7 @@ media: []
 ---
 
 
-[[File:Alfons_Mucha_-_1896_-_Lorenzaccio.jpg|thumb|400px]][[04.06]]
+![](/media/Alfons_Mucha_-_1896_-_Lorenzaccio.jpg)[[04.06]]
 [[Category:Sorcerers]]
 [[Category:Clerics]]
 [[Category:The Westmarches]]

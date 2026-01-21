@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## With a Mouth Full of Mud
-[[File:Shutt-mud2.png|thumb|400px]]Connects to: 25.07, 29.14.14, 29.14.49 and 30.12.
+![](/media/Shutt-mud2.png)Connects to: 25.07, 29.14.14, 29.14.49 and 30.12.
 
 It shouldn’t come as a surprise that the Master Mason of the [[Honorable Society of Engineers]] is [[Baron Harenghast]] (briefly mentioned in [[30.12]]), after all the leader of most every Shuttered institution is a member of the high nobility. 
 However, the Baron’s subordinates are not displaying the awe and respect that his lineage deserves but are instead rather annoyed at his plans to cut funding for the Crack-Finders, divert work crew to shoring up the foundations of his own tower and selling the sacred steel band of the Society to “honorary engineers.”

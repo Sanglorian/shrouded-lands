@@ -12,7 +12,7 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-[[File:Shutt-old.jpg|thumb]]Connects to: 22.00.
+![](/media/Shutt-old.jpg)Connects to: 22.00.
 
 Oh, there’s more than Shuttered in [[Shuttered]], I’ll tell you that much for free. It’s monstrous and insatiable, creeping year after year across the countryside. Already towns and villages have been engulfed, crowded first by shantytowns and then townhouses, churches and acropoli. But according to the locals, one part of the city was here before the [[Windows (Shuttered)|first window ever opened]].
 

@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Medusa
-[[File:Medusa_1895.jpg|thumb|400px|'Medusa', Carlos Schwabe]]Connects to: 40.20 and the City of Shuttered
+!['Medusa', Carlos Schwabe](/media/Medusa_1895.jpg)Connects to: 40.20 and the City of Shuttered
 Windows.
 
 One of the many potent weapons that are hoarded by the [[Doges]] of the [[City of Shuttered Windows]] is the medusa. After it escaped and caused great havoc in the [[Undercity]], the Doges decided that it would be much safer (for them) if it was kept beyond the city walls, so it is currently penned in [[Tower Savage]], which lies at the heart of [[Blind Midshotgatepool]]. While waiting for a time when she can be used against the enemies of the City, the medusa earns her keep by transforming the newly-dead of Blind Midshotgatepool to stone that can be used as building material to raise the Tower Savage ever higher.
@@ -28,7 +28,7 @@ This is rather painful for the new host.
 *Where did the men of Shuttered get this parasitic medusa from? Are there more?
 *What happened when it got loose in the undercity?
 *Why is the Tower Savage (the Shuttered base inside of Blind Midshotgatepool) made out of petrified bodies?
-*How fresh do dead bodies have to be to be petrified? Why?[[File:SL9.png|thumb|281px]]
+*How fresh do dead bodies have to be to be petrified? Why?![](/media/SL9.png)
 *Who was girl before she got the medusa parasite stuck on her head? How long is she likely to live?
 [[Category:Characters]]
 [[Category:Creatures]]

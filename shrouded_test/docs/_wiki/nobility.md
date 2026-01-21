@@ -9,7 +9,7 @@ categories:
   - "Category:Professions"
 media: []
 ---
-[[File:Aubrey_Beardsley_-_Masquerade.jpg|thumb|400px]]The nobility - an upper class with specific rights and privileges - exists in a well-established form in the Duchy of Gore and the Shuttered City. These regions have hereditary titles and formal rules for acquiring and passing on titles. Duchy nobles are still likely to be identified only as lords and ladies, not barons, counts and so on.
+![](/media/Aubrey_Beardsley_-_Masquerade.jpg)The nobility - an upper class with specific rights and privileges - exists in a well-established form in the Duchy of Gore and the Shuttered City. These regions have hereditary titles and formal rules for acquiring and passing on titles. Duchy nobles are still likely to be identified only as lords and ladies, not barons, counts and so on.
 
 There is also a court in the Kingswood, headed by a monarch - the Bloodied King. It is not clear how many, if any, Kingswood elves exist outside of the nobility. However, the king can grant titles to his preferred followers, so a hierarchy of some sort exists.
 

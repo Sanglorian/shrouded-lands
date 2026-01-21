@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-seeds.png|thumb|385px]]Hex 29.14.38
+![](/media/Shutt-seeds.png)Hex 29.14.38
 
 Connects to: 19.31, 23.11.02, 23.32, 29.14.08, 29.14.14 and 48.18.01.
 

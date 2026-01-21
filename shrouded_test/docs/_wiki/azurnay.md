@@ -10,7 +10,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-[[File:2426.png|thumb|400px]]Hex 24.26
+![](/media/2426.png)Hex 24.26
 
 Connects to: 20.03, 27.16, 27.27 and 37.21.
 

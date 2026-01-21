@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Elfcatcher
-[[File:301201.png|thumb|400px]]Hex 30.12.01
+![](/media/301201.png)Hex 30.12.01
 
 Connects to: 18.02, 22.04, 29.10, 29.14.11, 30.15 the Lands of the Night Cattle and the City of Shuttered Windows.
 

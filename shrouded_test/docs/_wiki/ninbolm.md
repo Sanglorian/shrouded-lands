@@ -10,13 +10,13 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-[[File:0524.png|right]] 
+![](/media/0524.png) 
 05.24
 
 **Region:** [[The Lands of Gore]]
 ## Ninbolm
 Hex 05.24
-[[File:Gs35.jpg|thumb|336px|http://www.gutenberg.org/files/32406/32406-h/32406-h.htm]]
+![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs35.jpg)
 
 Connects to: 3.26, 11.01 and 29.07.
 

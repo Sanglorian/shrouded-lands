@@ -11,7 +11,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Squidthing.png|thumb|400px|'Squid Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)]]
+!['Squid Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)](/media/Squidthing.png)
 
 Octoids differ from their common cousins in that they're nearly man-sized, and use a complex language consisting of tentacle motions and color changing. Given enough time, intelligent or insane members of other races can usually interpret them. Octoids dwell in a system of caves beneath the surf of Kraken's Beak Isle ([[23.32]]), but many venture above the surface to raid fishing boats or map stellar and planetary motions.
 

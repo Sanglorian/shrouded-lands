@@ -9,7 +9,7 @@ categories:
   - "Category:The Barrier Range"
 media: []
 ---
-They spawn in The Fen of the Witch-Hounds ([[22.16]])[[File:Bold_Rabit_2.jpg|thumb|https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg]]
+They spawn in The Fen of the Witch-Hounds ([[22.16]])![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">They skulk around **Mazy Hollow **(25.14)</p>
 

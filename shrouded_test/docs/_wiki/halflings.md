@@ -9,7 +9,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-[[File:Bilbo_Bolsón.png|thumb|400px|JesicaLR (CC BY-SA 3.0 Unported)]]
+![JesicaLR (CC BY-SA 3.0 Unported)](/media/Bilbo_Bolsón.png)
 ## Settlements
 Hurlstone Hill, since abandoned ([[08.12]])
 

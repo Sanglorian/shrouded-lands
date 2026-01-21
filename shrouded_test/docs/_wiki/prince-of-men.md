@@ -10,7 +10,7 @@ categories:
   - "Category:Humans"
 media: []
 ---
-[[File:290703.png|thumb|398px]]Connects to: 19.31.03, 37.01 and 39.12.
+![](/media/290703.png)Connects to: 19.31.03, 37.01 and 39.12.
 
 The [[elves]] of [[the Kingswood]] refuse to say much of
 him and some say they have forgotten nearly all,

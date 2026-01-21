@@ -10,7 +10,7 @@ categories:
   - "Category:Witch Clans"
 media: []
 ---
-[[File:SL_22.jpg|thumb]]Live below the Towers of the Hallovers ([[26.16]])
+![](/media/SL_22.jpg)Live below the Towers of the Hallovers ([[26.16]])
 
 Each member of the Fausty family is accompanied by a monster that comes from beyond this world. In the other [[Witch Clans|witch clans]], strength of blood determines whether a person manifests the family power. In the Fausty family, strength of blood determines the power of the companion beast.
 

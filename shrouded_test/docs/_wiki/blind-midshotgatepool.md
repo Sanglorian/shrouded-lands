@@ -15,7 +15,7 @@ media: []
 
 **Hex: **26.20
 ## The August City of Blind Midshotgatepool
-[[File:SL2.png|thumb|400px]]Connects to: 22.18, 23.19, 24.18, 32.32, 39.31 and the City of Shuttered Windows and the Duchy of Thring.
+![](/media/SL2.png)Connects to: 22.18, 23.19, 24.18, 32.32, 39.31 and the City of Shuttered Windows and the Duchy of Thring.
 
 After flowing through [[the Barrier Range]] in a canyon that appears to have been blasted through the mountains with magic, the [[River of Crystal Waters]] exits into the Keening Sea at the August City of Blind Midshotgatepool. This city bears its name because long ago a band of adventurous [[Thring]]men drove the waker worms from their homes in the river delta and built the five fishing villages named Blindsnake, Midton, Banshot, Pontgate and Sepool. As the villages grew into towns, they became the main outlet of the trade of Thring until it became rather ridiculous to think of them as anything but one city. Still, the rivers of the delta divide the five towns but not as much as the pride of its five lords who each jealously guard their prerogatives.
 
@@ -45,7 +45,7 @@ With Shuttered having a stranglehold on its trade, Blind Midshotgatepool has gro
 26.20.08 (The King without a Throne): Henry Yaboon has become increasily powerful within the city.
 
 ## Five founders
-[[File:SL3.png|thumb|400px]]The Thringmen who drove away the [[waker worms]] were the five founders of the five fishing villages that became [[Blind Midshotgatepool]]:
+![](/media/SL3.png)The Thringmen who drove away the [[waker worms]] were the five founders of the five fishing villages that became [[Blind Midshotgatepool]]:
 *Pontgate, founded by [[Shara of Pontgate]]
 *Banshot, founded by [[Ban the Clever]]
 *Blindsnake
@@ -74,16 +74,16 @@ With Shuttered having a stranglehold on its trade, Blind Midshotgatepool has gro
 *How is the Savage Seat built? How do the local smugglers get past it?
 
 ## The Snake Wall
-[[File:SL5.jpg|thumb|266px]]Hex 26.20.02
+![](/media/SL5.jpg)Hex 26.20.02
 
-[[File:Egon_Schiele_035.jpg|thumb|400px|Houses on the edge of the Snake Wall]]Connects to: 27.19.
+![Houses on the edge of the Snake Wall](/media/Egon_Schiele_035.jpg)Connects to: 27.19.
 
 Nearly two hundred years ago, the five towns that make up this city were growing into each other and it was decided that they should each ratify legislation that would set their borders at precisely contiguous lines. However, the sly officials of Blindsnake snuck in a clause that no-one else saw, making Blindsnake's borders approximately one yard wider than those of the other four towns. As a result, Blindsnake commands a monopoly on the tariffs levied on those entering and leaving the town. The other four towns were furious about this, and hired a coven of Earth Whisperers (27.19) to destroy Blindsnake's margin by vanishing the very earth it was built on. The officials of Blindsnake acted quickly to arrest the Earth Whisperers on grounds of 'making an illegal construction without prior planning permission.‘ The apparently bottomless pits that they made can still be seen along the northwest edge of the town.
 ### Hook:
 *Are the bottomless pits really bottomless? If not, what's down there? If so, do they at least intersect with any other tunnels?
 
 ## The Hall of Five Gates
-[[File:SL6.jpg|thumb|400px]]Hex 26.20.03
+![](/media/SL6.jpg)Hex 26.20.03
 
 Connects to: 26.20.01.
 
@@ -95,7 +95,7 @@ People, goods, animals and buildings are all marked as being under a particular 
 *Who has betrayed the thieves' guild recently? Are they trapped in the city due to ridiculous regulations?
 
 ## The Road Paved Quince
-[[File:SL7.png|thumb|359px]]Hex 26.20.04
+![](/media/SL7.png)Hex 26.20.04
 
 Connects to: 26.20.01 and 26.20.08.
 
@@ -118,7 +118,7 @@ This desecration would not go unpunished by the Dust Walkers, who consider the w
 *Where is the Diadem now?
 *What will happen if the jewel is returned to its proper place? (Or perhaps: what will happen if it isn't?)
 ## The Houseboats of the Five Towns
-[[File:SL8.png|thumb|400px]]Hex 26.20.05
+![](/media/SL8.png)Hex 26.20.05
 
 Connects to: 26.20.01.
 

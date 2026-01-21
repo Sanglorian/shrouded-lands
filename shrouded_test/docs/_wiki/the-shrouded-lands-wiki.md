@@ -12,7 +12,7 @@ media: []
 ## Welcome to the The Shrouded Lands Wiki
 This wiki is dedicated to the development of the Shrouded Lands D&D hexcrawl setting. Please feel free to add to the setting by writing up additional hexes or by providing additional detail about existing ones.
 
-[[File:Shroud1.png|thumb|354px|'The Crystal Ball', John William Waterhouse]]
+!['The Crystal Ball', John William Waterhouse](/media/Shroud1.png)
 
 ## Tour of the Shrouded Lands
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">You’ve heard of the incredible firebirds, but this is the first one you’ve ever seen. It shimmers like the hearth in your home, like the hair of a beautiful woman, like the sun itself, and the sky and the water and the distant mountains seem to brighten in its presence. </p>
@@ -24,14 +24,14 @@ This wiki is dedicated to the development of the Shrouded Lands D&D hexcrawl set
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">Let me be your guide to the Shrouded Lands. We shall start at the Pool of the Firebirds. To the west, the endless Ocean of Bitter Regrets. Winging east over the Draugmere Peaks, passing the relentless Grey Mountains to the north, we come to the Kingswood. Jealously guarded by the elves, it is death to walk among its trees by day but humans have cut a path beneath it – the Welt Road. </p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">The Welt Road surfaces at the Lands of the Night Cattle, where they graze their cattle under the moon so as to keep their hides pure white and untouched by sun. The Welt Road continues north to Titan’s Skull, the great fastness of the dwarves. If we continue our passage east, we pass through the Withered Moors and come to the World’s Edge: a great cliff which stretches north and south for many miles above the jungles that lie far below. </p>
-[[File:The Shrouded Lands Regions.png|thumb|220x220px|A map of the Shrouded Lands setting]]
+![A map of the Shrouded Lands setting](/media/The_Shrouded_Lands_Regions.png)
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">We return now to the Lands of the Night Cattle and take the Welt Road back, this time heading south along the White Road to the City of Shuttered Windows. Its walls stand tall and unmoving, but the city itself is sinking into the ground. The Shuttered City is on the shore of the Keening Sea, and as we head south-east we come to the gnoll-ridden Burning Lands. Of these lands we will say little, except that beyond them still are the Twelve Nations, or what remains of them. </p>
 These are the great sites of the Shrouded Lands – unless you have others that you wish to tell me of?
 
-[[File:Shroud2.png|thumb|right|300px]]
+![](/media/Shroud2.png)
 
 ## Contributing to the Shrouded Lands
-<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">[[File:Sl1.jpg|thumb|400px]]The Shrouded Lands are a strange and varied fantasy setting. They have silly monsters like an ostrich lich (the ostrlich) and creepy cults like the Creche of a Million Young. They have twisted romances like the wereshark storm giant who mourns his dead lover and unsolved mysteries like that of the contract between the Prince of Man and the Bloodied King. </span>In short, any contribution will fit into these Lands.</p>
+<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">![](/media/Sl1.jpg)The Shrouded Lands are a strange and varied fantasy setting. They have silly monsters like an ostrich lich (the ostrlich) and creepy cults like the Creche of a Million Young. They have twisted romances like the wereshark storm giant who mourns his dead lover and unsolved mysteries like that of the contract between the Prince of Man and the Bloodied King. </span>In short, any contribution will fit into these Lands.</p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">The one special feature of these hex entries is that they are connected to one another. But they don’t need to be connected to more than one hex. My suggestion is to find a hex that interests you, and write another hex entry linked to that one. You don’t need to read tens of thousands of words to join in! In order to make this easier, the hex entries have been divided by regions with the less-detailed regions listed first. That way if you start reading you’ll come across the parts of this setting that are still pretty much blank slates that are ready for your contribution. </p>
 
@@ -68,7 +68,7 @@ As more content is converted over into this wiki, an index will be added to help
 *[[Sosaria]]
 *[[The Cross]]
 
-[[File:Shroud3.png|thumb|right|300px]]
+![](/media/Shroud3.png)
 
 ## Useful Resources
 *[http://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/ Hexcrawl resources]

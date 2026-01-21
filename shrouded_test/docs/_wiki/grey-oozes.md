@@ -11,8 +11,8 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-[[File:Gs133.jpg|thumb|255px|Grey ooze]]
-C[[File:Shutt-grey.png|thumb|398px]]onnects to: 29.14.10 and 29.14.13.
+![Grey ooze](/media/Gs133.jpg)
+C![](/media/Shutt-grey.png)onnects to: 29.14.10 and 29.14.13.
 
 If you go down deep enough in the [[Undercity]] one of the most common hazards is grey ooze. These gelatinous perils paralyze with a touch and then envelop their prey carrying them, still alive, down deeper into the tunnels and abandoned buildings that riddle the underbelly of the City of Shuttered Windows. The only reason more of them aren't around is that the troglodyte brothers of the [[Temple of Alberon]] (29.14.10) go out of their way to destroy them.
 

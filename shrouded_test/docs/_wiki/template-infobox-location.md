@@ -15,7 +15,7 @@ media: []
 
 |-
 {{#if: {{{image|}}} |
-{{!}} class="wikia-infobox-image" colspan="2" {{!}} [[File:{{{image}}}|{{{imagewidth|210}}}px|{{{imagecaption|}}}]]
+{{!}} class="wikia-infobox-image" colspan="2" {{!}} ![}}}](/media/{{{image}}})
 | }}
 
 |-
@@ -25,7 +25,7 @@ media: []
 
 |-
 {{#if: {{{map|}}} |
-{{!}} class="wikia-infobox-image" colspan="2" {{!}} [[File:{{{image}}}|{{{mapwidth|210}}}px|{{{mapcaption|}}}]]
+{{!}} class="wikia-infobox-image" colspan="2" {{!}} ![}}}](/media/{{{image}}})
 | }}
 
 |-

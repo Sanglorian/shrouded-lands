@@ -10,7 +10,7 @@ categories:
   - "Category:The King in Splendour"
 media: []
 ---
-[[File:170701.png|thumb|400px]]Connects to: 22.00, 28.04, 29.14.01 and the City of Shuttered Windows.
+![](/media/170701.png)Connects to: 22.00, 28.04, 29.14.01 and the City of Shuttered Windows.
 
 Six months from the [[Long Night]] (28.04) comes the Lion's Day - the time of the summer solstice when the sun is at its most ascendant. During this day, all clouds are banished from the sky and the temperature climbs high. It is a holiday for the people of the City of Shuttered Windows, who draw closed their shutters and retreat into cool basements to wait out the heat. In the [[Welt Road]], the normally stuffy air becomes practically unbreathable. In the [[Kingswood]], the elves become irascible and often clash with one another.
 

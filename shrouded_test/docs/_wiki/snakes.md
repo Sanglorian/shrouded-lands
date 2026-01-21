@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 
-[[File:NIEdot364.jpg|thumb|400px|Dodd, Mead and Company]]
+![Dodd, Mead and Company](/media/NIEdot364.jpg)
 *The [[Two Adders]] tavern in [[Hyfalls]] is built from the hulls of two upturned ships of [[Blindsnake]], which are identified by the black snakes painted on their gunwales. 
 *The [[Traitors' Pit]] is a collection of ladders and snakes. Each prisoner thrown into it is given the antivenom to one snake species. A giant pit viper with rubies for eyes guards the pit's exit. 
 *The is an albino snake hibernating in a treasure chest in [[Severard]]'s tower ([[13.08]])
@@ -25,10 +25,10 @@ media: []
 *The Ziggurat ([[06.10]]) imprisons a snake-demon. Vegetation on the Ziggurat turns to pythons when climbed upon. 
 **The [[Grimes]] are filthy to repulse their Snake God, the snake-demon, to whom they feed human sacrifices to keep it from breaking free of its prison. 
 *In the Footprints of the Tarrasque ([[48.24]]) can be found snakes basking in the sun. 
-*The [[King in Splendour]] is sometimes depicted as a snake with a lion's head and gems in place of eyes.[[File:Die_Königsschlange.jpg|thumb|left|400px|Aloys Zötl]]
+*The [[King in Splendour]] is sometimes depicted as a snake with a lion's head and gems in place of eyes.![Aloys Zötl](/media/Die_Königsschlange.jpg)
 *[[The Medusa]] is a mass of snakes that settles on the head of young females.
 *[[Lady Natala]] became ruler of Maratan after he died of snakebite. 
-*The [[Snake Wall]] refers to a bottomless pit created to frustrate Blindsnake. [[File:8776027130_2a8cb7b3a7_o.jpg|thumb|http://monsterbrains.blogspot.com.au/2013/05/frank-cheyne-pape.html]]
+*The [[Snake Wall]] refers to a bottomless pit created to frustrate Blindsnake. ![http://monsterbrains.blogspot.com.au/2013/05/frank-cheyne-pape.html](/media/8776027130_2a8cb7b3a7_o.jpg)
 *The Bone Field ([[41.24]]) includes several snakes that have escaped from their libraries. If read properly, among the various snakes whose scales contain cookbooks and caravan accounts, lie more valuable books. Some of them are low level spell books and one of the snakes a descendant of Sorlak the Gelderer’s essay on the races of the Shrouded Lands whose title is usually translated as “The Flesh Golems that Live as Easily as They Die.” It describes how men, dwarves and all the rest are fleshy automatons driven by their nature and the impulses of their environment and how lizardmen can take advantage of this. Sorlak helpfully recommends that eating the flesh of most races within the sight of other members of that race often results in adverse reactions and should be avoided. It is a classic work and Sorlak’s logic has only been sharpened by the generations that have passed since he inscribed it on a young cobra.
 *[[Isane the Beauty]] has a Slithering Garden with many snake books. They include invaluable sources related to divination and the Undying Cycles of Creation. These [[lizardfolk|lizard man]] accounts avoided the rot and fire that claimed the originals. Isane interprets the snakes for motley clients including diviners, [[Sons of Dagon]], historians and cultists. [[Viceroy Baltas]] overlooks her shadier clients because of her countless charms. 
 **[[Isane the Beauty's Treatise on Salt]] was researched from her snake library.

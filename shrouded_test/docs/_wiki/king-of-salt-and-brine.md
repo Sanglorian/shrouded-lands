@@ -14,7 +14,7 @@ media: []
 ---
 One of the many dangers of the [[Ocean of Bitter Regrets]] is the great [[lycanthropes|wereshark]] that swims in it, attacking all shipping that it comes across. In days past one of the greatest of the [[Pirate Kings]] (00.02) was a storm giant whose pride was only exceeded by his greed. He raided far and wide, adorning his cloud palace with treasure from a dozen nations. On one of his raids he managed to capture a queen of fairy and demanded, as the price of her release, that she grant him a boon. He asked that he be given the strength to smash any ship, even those that sail from the [[moon]] and that he become king of all the ocean.
 
-[[File:J_S_Copley_-_Watson_and_the_Shark_3.png|thumb|400px|00.06 The King of Salt and Brine]]
+![00.06 The King of Salt and Brine](/media/J_S_Copley_-_Watson_and_the_Shark_3.png)
 
 The queen of fairy complied and the Pirate King felt his flesh twist and warp itself into that of a great shark with jaws strong enough to crush any ship. He is now a king indeed, the King of Salt and Brine, but it brings him no pleasure for he can now never return to his lost palace in the clouds and he can keep none of the wealth of any of the ships that he destroys. The King of Salt and Brine can return to his true form but one night a year, the night when he struck his bargain with the queen of fairy, but this but serves to remind him of all that he has lost.
 

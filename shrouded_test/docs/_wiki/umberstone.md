@@ -9,7 +9,7 @@ categories:
   - "Category:The Moon"
 media: []
 ---
-[[File:Placeholder|right|300px]] 
+![](/media/Placeholder) 
 Umberstone
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Connects to 18.07, 18.26 and 26.17.

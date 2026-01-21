@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Wyvern of the Waste
-[[File:2929.png|thumb|400px]]Hex 29.29
+![](/media/2929.png)Hex 29.29
 
 A great blood-red wyvern makes her lair in the tablelands ([[29.29]]). She has grown indolent with age, and spends most of her days lying on rocks. But her cunning and predator instincts remain as sharp as her stinger. When she takes to the sky to hunt, [[gnolls]] and [[dwarves]] run for cover but she prefers to prey on cattle and livestock. Her favorite tactic is to snatch prey in her talons and dash them against rocks. Unlike other predators of this wasted corned of the [[Burning Lands]], the wyvern is never satisfied after a single kill. She relishes in annihilating herds, and has attacked [[cattle]] with her stinger after gorging herself until she cannot fly.
 

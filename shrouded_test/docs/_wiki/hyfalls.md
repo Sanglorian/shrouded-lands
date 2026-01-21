@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Town of Hyfalls
-[[File:Schiele_-_Stadtende_-_Krumau_Häuserbogen.jpg|thumb|400px]]Hex 40.20
+![](/media/Schiele_-_Stadtende_-_Krumau_Häuserbogen.jpg)Hex 40.20
 
 Connects to: 16.04, 16.16, 19.31.10, 26.20.06, 32.32, 38.26, 38.28, 51.17 and the City of Shuttered Windows.
 
@@ -19,7 +19,7 @@ Built on the ruins of old [[Hyadovere]], once a colony of fallen [[Bergolast]], 
 
 Hyfalls is a rude village and most travelers do not tarry here long and most only come because here is where ships from the City of Shuttered Windows come to pick up the goods of caravans that have crossed the Burning Lands. Aside from the shattered ruins, the only sight of interest is the great number of centaur statues that have been set up, seemingly at random throughout the village. The reason for their presence is that when the current [[Doge]] of the [[City of Shuttered Windows]] had recently been installed he held negotiations here with the centaur tribes and unleashed the [[medusa]] (26.20.06) against them. The Doge, being blind, was unharmed but the centaurs were not so lucky.
 
-Being mostly a trade depot, there is little industry in Hyfalls except for mining. No, not minerals, there are few enough of them here but rather the depths of the ruins of Hyadovere and the even more ancient city it was built atop. This work is generally done by the inhabitants of Goblin Town, a small community of [[hobgoblins]] (16.04) that lives below Hyfall. Goblin Town was accidentally founded by the current Duke of Thring ([[16.16]]) before he married the [[Lady of Thring]] and gained his title, when he travelled the length and breadth of the Burning Lands seeking Tarrasque lore. At that time he had hired a band of hobgoblins as expert spelunkers but they broke their contract and remained behind below Hyfall. The hobgoblins stay away from the more dangerous sections of the subterranean ruins but will happily point treasure hunters in their direction in return for a cut of the loot. The hobgoblins claim that they deal fairly with all such, but the hobgoblins emerged from the ground to sell some fine loot suspiciously soon after the disappearance of the [[Company of the Silver Flame]]…[[File:4020.png|thumb|274px]]
+Being mostly a trade depot, there is little industry in Hyfalls except for mining. No, not minerals, there are few enough of them here but rather the depths of the ruins of Hyadovere and the even more ancient city it was built atop. This work is generally done by the inhabitants of Goblin Town, a small community of [[hobgoblins]] (16.04) that lives below Hyfall. Goblin Town was accidentally founded by the current Duke of Thring ([[16.16]]) before he married the [[Lady of Thring]] and gained his title, when he travelled the length and breadth of the Burning Lands seeking Tarrasque lore. At that time he had hired a band of hobgoblins as expert spelunkers but they broke their contract and remained behind below Hyfall. The hobgoblins stay away from the more dangerous sections of the subterranean ruins but will happily point treasure hunters in their direction in return for a cut of the loot. The hobgoblins claim that they deal fairly with all such, but the hobgoblins emerged from the ground to sell some fine loot suspiciously soon after the disappearance of the [[Company of the Silver Flame]]…![](/media/4020.png)
 ### Subhexes:
 *40.20.01 (The Dust Men): a mystical brotherhood or just colorful thieves?
 *40.20.02 (The Two Alders): up for a friendly game of pot of death?
@@ -36,14 +36,14 @@ Hook:
 *Who was the Company of the Silver Flame? What happened to them?
 
 ## The Dust Men
-[[File:402001.jpg|thumb|398px]]Hex 40.20.01
+![](/media/402001.jpg)Hex 40.20.01
 
 Connects to: 15.18, 25.31 and 50.11.
 
 Much to the annoyance of the city fathers, Hyfalls is currently host to a large band of [[Dust Men]]. They have already covered the petrified [[centaurs]] in blasphemous images and forced several merchants to swallow the contents of their purses and it is feared that there is worse to come. However, it is proving hard to drive them out as they are able to step from shadow to shadow and are very popular with the rough sailors and caravan hands that gather in Hyfalls.
 
 ## The Two Adders
-[[File:402002.jpg|thumb|244px]]Hex 40.20.02
+![](/media/402002.jpg)Hex 40.20.02
 
 Connects to: 03.13.01 and 29.14.28.
 

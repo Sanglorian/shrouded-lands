@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Tower of Weng Xiao
-[[File:Shutt-weng.png|thumb|400px]]Hex 29.14.45
+![](/media/Shutt-weng.png)Hex 29.14.45
 
 Connects to: 29.14.46 and 48.18.
 

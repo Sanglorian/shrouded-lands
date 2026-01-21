@@ -10,7 +10,7 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-[[File:Follower_of_Jheronimus_Bosch_010.jpg|thumb|400px]]The Breath of the Earth ([[12.28]]) is far more than a mile deep and none has ever seen the bottom for no such bottom exists. Instead, those who peer over the edge of this vast sinkhole can see the perambulations of strange stars and the feeble gleams of a thousand dying earths.
+![](/media/Follower_of_Jheronimus_Bosch_010.jpg)The Breath of the Earth ([[12.28]]) is far more than a mile deep and none has ever seen the bottom for no such bottom exists. Instead, those who peer over the edge of this vast sinkhole can see the perambulations of strange stars and the feeble gleams of a thousand dying earths.
 
 The hot wind that blows out of this hole in the world is laden with the grey dust of corroded planets and the lifeless ash of decayed hells. For miles in every direction the proper yellow sand of [[the Singing Wastes]] is overlaid with a thick layer of blasphemous grey that slowly spreads outwards year by year.
 

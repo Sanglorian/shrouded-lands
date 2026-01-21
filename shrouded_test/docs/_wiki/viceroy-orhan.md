@@ -11,7 +11,7 @@ categories:
   - "Category:Viceroys"
 media: []
 ---
-[[File:ReneBull.png|thumb|400px|Viceroy Orhan, Rene Bull]]
+![Viceroy Orhan, Rene Bull](/media/ReneBull.png)
 ## Viceroy Orhan's Madness
 Connects to: 17.11 and 19.31.05.
 
@@ -40,7 +40,7 @@ successful, the golem would have stolen Orhan's
 memories, mannerisms and identity. The golem is
 lurking in one of Jahur's abandoned palaces,
 plotting its next move. Orhan's amnesia will
-persist until the golem is slain.[[File:Jahur2.jpg|thumb]]
+persist until the golem is slain.![](/media/Jahur2.jpg)
 ### Connections
 *Orhan was chosen as treasurer because of his skill at alchemy. He was knowledgable of much else besides, for example he grew his own wives in vats (19.31.05). If is only because of one of these wives that he is still alive today.
 ### Hooks
@@ -49,7 +49,7 @@ persist until the golem is slain.[[File:Jahur2.jpg|thumb]]
 *Are any leaders in the Shrouded Lands actually wax golems?
 
 ## The Wives of Viceroy Orhan
-[[File:Jahur6.png|thumb]]Connections: 19.31.01, 37.07 and 40.06.03.
+![](/media/Jahur6.png)Connections: 19.31.01, 37.07 and 40.06.03.
 
 It is easy to see why the Viceroys made Orhan
 (19.31.01) treasurer of Jahur. Despite his

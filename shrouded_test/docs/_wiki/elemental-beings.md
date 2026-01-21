@@ -9,7 +9,7 @@ categories:
   - "Category:Elementals"
 media: []
 ---
-**[[File:Bengs.jpg|thumb|400px]]Type:** [[Elementals]]
+**![](/media/Bengs.jpg)Type:** [[Elementals]]
 
 There are a number of beings of X and Y.
 

@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-[[File:Shutt-black.jpg|thumb|400px]]Hex 29.14.03
+![](/media/Shutt-black.jpg)Hex 29.14.03
 
 Connects to: 29.14.02 and 30.12.
 

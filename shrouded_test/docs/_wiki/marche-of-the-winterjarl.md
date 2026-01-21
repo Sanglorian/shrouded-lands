@@ -11,7 +11,7 @@ categories:
   - "Category:The Marche of the Winterjarl"
 media: []
 ---
-**[[File:Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg|thumb|400px|Julius Payer]]Region: **[[The Grey Mountains]]
+**![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)Region: **[[The Grey Mountains]]
 
 **Includes:** [[12.01]], [[13.00]], [[13.01]], [[14.00]], [[14.01]], [[15.01]], [[14.02]], [[15.00]]
 
@@ -22,7 +22,7 @@ The bjornajarl does not spend much time in his cave, for he is usually roaming [
 
 The [[Zoar Rajak]] ([[11.01]]) feel differently. They believe that Ironhide is responsible for the blight upon their oak trees, that he is dabbling with foul sorceries from an accursed cave high up on his mountain. Meticulous explorers will discover that there is indeed a cave from which eerie lights issue on cloudy nights ([[15.00]]); but this cave is higher than the one where the nordanbjorn traditionally dwell. Thorek Ironhide scoffs at the [[goblins]]' accusations and denies even the existence of the upper cave.
 
-[[File:MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png|thumb|400px|AN Komarov]]
+![AN Komarov](/media/MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png)
 
 ## Connections
 *The small village that was founded by the troll Prophet of Grahakzahak (15.01) is part of the marche of the bjornajarl as are the [[Skullcrusher orcs]] (13.01) who are more peaceful than their name suggests.
