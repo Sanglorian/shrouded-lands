@@ -10,7 +10,6 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
 [[File:Lizardthing.jpg|thumb|400px|'Lizard Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)]]
 
 *When the [[Duke of Thring]] tried to blackmail a lizardman caravan crossing the river via Smuggler's Isle ([[17.16]]), they fortified the isle, took up fishing and dug in. Their amphibious [[sailbeasts]] trouble the raftsmen who ply the river and when a force of [[knights of Thring|knights]] attempted to repulse them their [[fangbeasts]] ripped them to shreds. The lizardmen are eating roasted knight.
@@ -21,7 +20,7 @@ media: []
 **[[Sorlak the Gelderer]]'s essay on the races of the Shrouded Lands, itself a snake, is usually translated as “The Flesh Golems that Live as Easily as They Die.” It describes how men, dwarves and all the rest are fleshy automatons driven by their nature and the impulses of their environment and how lizardmen can take advantage of this. 
 **The bone field was created when two lizardmen caravans clashed, as they always do when they meet. Lizardmen are too rare this far north for these conflicts to happen often but every so often one of their caravans lumbers slowly out of the utter south with [[sailbeasts]] struggling under their heavy loads, outriders patrolling on their great [[fanged lizards]] and the great bloated forms of lizardman elders carried on the backs of the young.
 **Members of other races flock to lizardman caravans for their goods are exotic and, while lizardmen are even more possessive than dwarves, they are poor hagglers and offer excellent prices for slaves that they can lay their eggs in. However, the lizardmen have difficulty understanding what sort of goods are be in demand where, which has resulted in their trying to sell several loads of [[Ungolath]]an orgy masks to the dour dwarves of Nororak ([[29.24]]) and other tragedies. 
-==Connections==
+## Connections
 *The [[deep dwarves]] of [[Nororak]] kill lizardmen on sight.
 *A being of salt and chalk took thirteen great lizardman shamans and bound them to the drinkers mouth ([[04.02]]) and had them cry out in voices that only children and secret things can hear ([[50.26]]) for a year and a day until a being of soot and ash emerged from the fire of the earth (as described here: [[09.09]]). 
 *The whistling language of the lizardmen is so high pitched that it drives dogs mad but among humans only young children are able to hear it. The tongues of most other races are completely incapable of producing lizardman speech which is why the gnolls of the [[Howling College]] gather [[whistling reeds]] ([[50.26]]), a species of river grass that can be made into flutes that allow the player to communicate with lizardmen in their own language. 

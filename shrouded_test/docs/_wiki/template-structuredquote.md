@@ -8,17 +8,16 @@ categories:
   []
 media: []
 ---
-
 <blockquote class="pull-quote">
 	<div class="pull-quote__text">{{{text|Text...}}}</div>
 	<p style="text-align: right"><cite>—{{{speaker|speaker}}}{{#if:{{{receiver|}}}|, to {{{receiver|}}}}}{{#if:{{{attribution|}}}|, {{{attribution|}}}}}{{#if:{{{source|}}}|, {{{source|}}}}}</cite></p>
 </blockquote>
 <noinclude>
-==Description==
-A template used for displaying Structured Quotes ( ''<nowiki>{{#SQuote:}}</nowiki>'' ). If you want to unlock the full potential of Structured Quotes, please avoid using this template directly, and consider ''<nowiki>{{#SQuote:}}</nowiki>'' markup instead.
+## Description
+A template used for displaying Structured Quotes ( *<nowiki>{{#SQuote:}}</nowiki>* ). If you want to unlock the full potential of Structured Quotes, please avoid using this template directly, and consider *<nowiki>{{#SQuote:}}</nowiki>* markup instead.
 See https://community.fandom.com/wiki/Help:Structured_Quotes for extra information about Structured Quotes.
 
-==Syntax==
+## Syntax
 <pre>
 {{StructuredQuote
 | text   =
@@ -29,7 +28,7 @@ See https://community.fandom.com/wiki/Help:Structured_Quotes for extra informati
 }}
 </pre>
 
-==Samples==
+## Samples
 {{StructuredQuote
 |text=Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. (...)
 |speaker=[[w:c:en.starwars:Yoda|Yoda]]
@@ -45,8 +44,7 @@ See https://community.fandom.com/wiki/Help:Structured_Quotes for extra informati
 }}
 </pre>
 
-== TemplateData ==
-
+## TemplateData
 <templatedata>
 	{
 		"params": {

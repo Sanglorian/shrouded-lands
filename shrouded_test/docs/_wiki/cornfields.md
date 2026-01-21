@@ -9,13 +9,12 @@ categories:
   - "Category:The Cornfields"
 media: []
 ---
-
 [[File:Corn.png|right]]
 
 Includes hexes: [[03.29]], [[03.30]], [[03.31]], [[04.30]] and [[04.31]].
 
 The Cornfields is a remote region that lies beyond the Duchy of Thring. Little is known about it and the insular people who live there who extract teeth from strangers to fertilize their fields. In order to avoid attracting bandits and worse, any treasure they find on their victims is dumped into a cave that is slowly being expanded by a sentient sphere of annihilation.
-==Hex summary:==
+## Hex summary:
 *03.29 (The God in the Stone): a local galeb duhr suffers his worshipers in silence.
 *03.30 (The Cornfields): are fertilized with the teeth of unlucky travellers.
 *03.31 (The Old Mill): what appear to be regurgitated souls haunt this abandoned mill.

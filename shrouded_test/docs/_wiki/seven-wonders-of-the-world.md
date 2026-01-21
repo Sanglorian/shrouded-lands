@@ -10,8 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-==Seven Wonders of the World==
+## Seven Wonders of the World
 The scholar and rakish traveller [[Taran Prenderghast]] has seen recent success with a book proposing Seven Wonders of the Modern World. 
 
 Published in the [[Shuttered City]] under the patronage of [[Blind Doge|the Doge]], the "world" seems limited to the Shrouded Lands and the [[Twelve Nations]], and particularly those parts that Taran happens to have visited.
@@ -34,7 +33,7 @@ Taran's list is a revision of a list compiled over a thousand years ago by the f
 # The [[Temple of Elemental Good]] in [[Othonoi]] (this may be what is now referred to in hushed voices as the "[[49.11|Terminus Temple]]"). 
 # The [[Mausoleum of Khaldi]]. Khaldi existed in both [[Zamorqy]] and [[Zhuriman]]. 
 
-===Hooks===
+### Hooks
 *Are there other wonders worthy of mention?
 *How did the Great Oak become the stump of Ninbolm?
 *What is a temple of elemental good like?

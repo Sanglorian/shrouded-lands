@@ -11,8 +11,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
-==The Canals of Bergolast==
+## The Canals of Bergolast
 When the [[Burning Lands]] were green and rivers flowed across their length and breadth, the good folk of [[Bergolast]] built canals for their trading barges. In parts, they cut around mountains. In others, they built bridges over valleys so the canals could run flat.
 
 The Bergolasti even cut through the [[Devil's Spine]], opening up caves and caverns turned wild since Bergolast's fall.
@@ -21,7 +20,7 @@ Untended since those days, most of the canals remain – though all but one are 
 
 Mostly surviving is the canal that linked [[Hyfalls]] and Bergolast. In most parts, it is raised two metres off of the ground. Travellers that avoid the hyena packs by using the canal find they have only two directions to run when the rogue Nekh [[One-Wing]] swoops down from the sky.
 
-===Hooks===
+### Hooks
 *Where is the one canal where the water still flows?
 *Who wants the Nekh done away with?
 *Why are they called One-Wing if they can fly? What make them a rogue Nekh?

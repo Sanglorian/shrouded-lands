@@ -10,8 +10,7 @@ categories:
   - "Category:Outsiders"
 media: []
 ---
-
-According to the [[gnolls]], their matrons copulated with '''efreet''' to burn away the land's weakness. There are quite a few [[fire genasi]] in the gnolls' ranks, who may descend from such a union.
+According to the [[gnolls]], their matrons copulated with **efreet** to burn away the land's weakness. There are quite a few [[fire genasi]] in the gnolls' ranks, who may descend from such a union.
 [[Category:Creatures]]
 [[Category:Outsiders]]
 [[Category:Genies]]

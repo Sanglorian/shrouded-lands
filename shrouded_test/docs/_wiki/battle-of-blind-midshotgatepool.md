@@ -11,8 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-A battle between [[Blind Midshotgatepool]] and the [[Shuttered City]], after which Shuttered asserted its control over Blind Midshotgatepool. 
+A battle between [[Blind Midshotgatepool]] and the [[Shuttered City]], after which Shuttered asserted its control over Blind Midshotgatepool. 
 
 [[Death's Lovelies]] formed during this battle, when they realised that the promise of a cure was a false one.
 [[Category:Conflicts]]

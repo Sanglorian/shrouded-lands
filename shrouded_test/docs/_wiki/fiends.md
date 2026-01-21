@@ -10,21 +10,20 @@ categories:
   - "Category:Outsiders"
 media: []
 ---
+[[File:Demons.jpg|thumb|400px]]**Fiends** includes at least **demons** and **devils**. There are few [[outsiders]] for the fiendslayers to hunt after the [[Shuttering]].
 
-[[File:Demons.jpg|thumb|400px]]'''Fiends''' includes at least '''demons''' and '''devils'''. There are few [[outsiders]] for the fiendslayers to hunt after the [[Shuttering]].
-
-==Fiends==
+## Fiends
 *[[Erebus]] is the last fiendslayer; the fiendslayers fought demons and devils and used their body parts as grafts
 *The mutations of the [[tieflings]] suggest a fiendish connection ([[42.11]])
 *The [[Hells]]
 *A [[Hell-born spirits|Hell-born spirit]] infects the [[Mirror Throne]]. 
 *When the [[Bell of Six Answers]] in Castle Brucoloc ([[08.21]]) is tolled, it will apparently summon an Imp from Hell. 
 
-==Devils==
+## Devils
 *The [[Devil's Fingers]] is a region
 *The [[Devil's Bible]] was apparently created after an acolyte made a deal with the Devil.
 
-==Demons==
+## Demons
 *[[The Demon of Many Colors]]
 *Someone is singing in [[Demonic]] in [[05.05]]
 *A demon fell from the blackness behind the stars and into a tar pit in the Lornfields ([[14.11]])

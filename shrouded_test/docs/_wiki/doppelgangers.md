@@ -9,18 +9,17 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
-==Other==
+## Other
 *At least one doppelganger has been identified when it passed out in an orcish sweat lodge ([[21.02]])
-==Antar==
+## Antar
 The Bronze Ass, an ancient inn lying in the center of town ([[22.29]]), has a staff of doppelgangers employed by [[Viceroy Orhan]]
-==Smiling Men==
+## Smiling Men
 The [[Smiling Men]] are described as doppelgangers.
-==Small Waters==
-The Villard family of '''Small Waters '''([[16.15]].01) have been replaced by a circle of doppelgangers.
+## Small Waters
+The Villard family of **Small Waters **([[16.15]].01) have been replaced by a circle of doppelgangers.
 
 Doppelgangers carry out the last orders of their long-dead creator, for they are incapable of doing anything else. Doppelganger young are small colorless blobs that, when drunk, attach themselves to the stomach of their drinkers and slowly grow, hollowing out their host from within.
-===Hooks===
+### Hooks
 *Is there any way to safely remove a young doppleganger that is growing within its victim?
 [[Category:Creatures]]
 [[Category:The Duchy of Thring]]

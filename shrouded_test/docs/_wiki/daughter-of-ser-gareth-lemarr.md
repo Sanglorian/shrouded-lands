@@ -9,17 +9,16 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-
 [[File:2012_paladin1_0.jpg|thumb|304px|"Rook," © 2012 Jared von Hindman, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/]]
 It is the fourteenth birthday of the daughter of Ser Gareth Lemarr, her coming of age. She has not seen him since she was four. He was a brave snickersnee of [[Lady Natala]] and she has used his razor-like sword to cut her hair short in the Glade of Womanhood ([[07.18]])
 
 Gareth’s shield was entirely red (see [[Snickersnees]]), but it was lost alongside him.
 
 The circumstances of Ser Gareth’s death are unclear, but include a brutish Thringish knight called [[Sir Mimslet]]. He is known by his harlequin chequer and kite shield. The daughter of Gareth plans to become the man’s squire and discover more about the death of her father.
-====Connections====
+#### Connections
 *The girl was the childhood friend of [[Princess Elandra]] and has a story to tell her
 
-====Hooks:====
+#### Hooks:
 *What happened to Ser Gareth and what did Sir Mimslet have to do with it?
 *Are the Lemarrs related to Lorenzo DiMarr? ([[09.22]])
 [[Category:Characters]]

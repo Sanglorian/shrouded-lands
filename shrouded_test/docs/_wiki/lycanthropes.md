@@ -9,22 +9,21 @@ categories:
   - "Category:Lycanthropes"
 media: []
 ---
-
 [[File:Werwolf.png|thumb|400px|Lucas Cranach the Elder]]Lycanthropes are not unusual.
-==General==
+## General
 *Anyone who eats a moon nut smells delicious to lycanthropes ([[50.02]]).
 *Dew from the [[flowers of the moon]] can trigger lycanthropy.
-==Werewolves==
+## Werewolves
 Werewolves suffer from the worst type of lychanthropy. While other were-creatures maintain some control of their actions when they change forms, werewolves become berserk monsters during full moons.
 
 *The Werewolf Nuns of St. Birgit ([[10.17]]).
 *The [[Traxas]] were infected by werewolves in the [[Undercity]]
 
-==Weresharks==
+## Weresharks
 *The [[King of Salt and Brine]] is a wereshark.
 *[[Zuc]] is a wereshark ogre.
 
-==Other==
+## Other
 *[[Jackalweres]]
 **[[Taheesha]] is a jackalwere.
 *[[Were-Barnabi]]

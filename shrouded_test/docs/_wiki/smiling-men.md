@@ -11,7 +11,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-smile.png|thumb|300px]]Connects to: 02.11.01, 18.10, 25.15, 39.14, 43.27, 46.15 and 47.00.
 
 The Smiling Men of the [[Shuttered City]] are a band of assassins who are the deathly enemies of the [[Temple Invisible]]. They recruit their members from those who have killed out of depression, trauma or self-loathing - even those who have killed themselves.
@@ -21,11 +20,11 @@ The Smiling Men bring their recruits into an intensive training program that use
 In addition to this training, the Smiling Men are taught how to take the forms of those that they have been formally introduced to. Even in the form of another, however, these [[doppelgangers]] still smile broadly.
 
 The Smiling Men highly value the poisons of the Cloud Forest ([[47.00]]).
-===Connection:===
+### Connection:
 *A Smiling Man is hiding out in Veerhaven ([[39.14]]).
 *The Smiling Men obtain many new recruits from the Wood of Suicides ([[43.27]]).
 *A Smiling Man can be found in the Pits of the Cross ([[02.11]].01).
-===Hooks:===
+### Hooks:
 *How do the Smiling Men deliver electric shocks? A generator would be much too science fantasy, wouldn’t it?
 *What happens if a Smiling Man tries to take the form of one of the [[Barnabi]] ([[18.10]])?
 *What happens if a Smiling Man mates with the [[Heget]] ([[46.15]]) in the form of another?

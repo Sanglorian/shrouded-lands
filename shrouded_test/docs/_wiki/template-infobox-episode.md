@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -25,33 +24,33 @@ media: []
 | }}
 
 |-
-! style="font-weight:normal;" colspan="2" | ''Season {{{season|unknown}}}, Episode {{{number|unknown}}}''
+! style="font-weight:normal;" colspan="2" | *Season {{{season|unknown}}}, Episode {{{number|unknown}}}*
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Vital statistics</div>
 
 |-
 ! Air date
-| {{{airdate|''Unknown''}}}
+| {{{airdate|*Unknown*}}}
 
 |-
 ! Written by
-| {{{writer|''Unknown''}}}
+| {{{writer|*Unknown*}}}
 
 |-
 ! Directed by
-| {{{director|''Unknown''}}}
+| {{{director|*Unknown*}}}
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Episode guide</div>
 
 |-
 ! Previous
-| '''Next'''
+| **Next**
 
 |-
-! style="font-weight:normal;" | {{{previous|''Unknown''}}}
-| {{{next|''Unknown''}}}
+! style="font-weight:normal;" | {{{previous|*Unknown*}}}
+| {{{next|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

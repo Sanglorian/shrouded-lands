@@ -10,7 +10,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 :See also [[Temple of Alberon (disambiguation)]]
 
 According to the Reluctant Temple of Alberon, the [[Time of Schisms]] broke out because a quiet rural preacher revealled to the high priests of [[Alberon]] that the God of [[Shuttered]] is a slave to that city.
@@ -25,7 +24,7 @@ When Alberon mustered his forces, he led the march down the [[Street of Small Go
 
 He was the god of the City of Many Windows, and could not pass beyond its walls. His plans for domination were frustrated. Now, he plots the expansion of Shuttered and hopes one day it will cover the world.
 
-===Hooks===
+### Hooks
 *What about Shuttered’s embassies in other nations? Can Alberon manifest within them?
 *And how about the embassies in Shuttered?
 *How could Alberon slay Tiamat if he is confined to the City?

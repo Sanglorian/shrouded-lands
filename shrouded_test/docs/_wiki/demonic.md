@@ -8,8 +8,7 @@ categories:
   - "Category:Languages"
 media: []
 ---
-
 Presumably spoken by [[demons]].
-==Connections==
+## Connections
 Someone is singing in Demonic in [[05.05]]
 [[Category:Languages]]

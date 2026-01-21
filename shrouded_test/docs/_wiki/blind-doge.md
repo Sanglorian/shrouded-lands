@@ -10,15 +10,14 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-The blind Doge is the current [[Doges|doge]] of the [[Shuttered City]]. He is married to [[Seline and Eliana]]. 
-==The Talking Watch of the Doge==
+The blind Doge is the current [[Doges|doge]] of the [[Shuttered City]]. He is married to [[Seline and Eliana]]. 
+## The Talking Watch of the Doge
 [[Albus Flidge]]’s most sophisticated clockwork requires not just the delicate hands of his [[jermalaines]], but actually their continued involvement in its operation. He seals them up in the mechanism so they can keep it wound and greased.
 
 Recently, a pocket watch bought for the Doge by [[Count Seutorian]] came from Flidge’s Clockworks. It contains a philosophical jermalaine who has decided to make the best of her lot. Each night as the Doge sleeps, the jermalaine whispers advice from the watch on his bedside table.
 
 The Doge is a heavy sleeper and seems unaffected by the watch, but not so his two wives. Eliana has developed a sudden and curious interest in statecraft - particularly labour regulations for clockwork manufacturers. Celine is convinced that the whispers come from the [[Whispering Sisters]].
-===Hooks===
+### Hooks
 *Will Eliana enter politics at the behest of a talking watch?
 *What will Celine do if she finds out that the watch is the source of the whispers?
 *How can the jermalaine survive without food or water?

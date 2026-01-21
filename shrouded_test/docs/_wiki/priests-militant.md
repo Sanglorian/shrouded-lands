@@ -14,8 +14,7 @@ categories:
   - "Category:Warriors"
 media: []
 ---
-
-The '''Priests-Militant''' are priests of Alberon. 
+The **Priests-Militant** are priests of Alberon. 
 
 The Order of the [[Canes Sanguis]] is its greatest arm. Its knights are zealous though cool and practical. Its legions guard the [[Steeple of Alberon]] and the [[Matriarch]]. Others enact the church's will wherever the City holds power. Its headquarters, the Kennel, are just outside the City ([[26.15]]) and the order claimed ownership of Loguiso's Wall ([[27.16]]). 
 
@@ -24,7 +23,7 @@ which allows people to enter the City after curfew and is where priests of forei
 
 The Priests-Militant collaborate with the [[Dead Men]], though the holy assassins ensure that the Dead Men die after the mission.
 
-==Connections==
+## Connections
 *When [[Isane and Orsine]] were born conjoined twins, the Priests-Militant attempted to divide them.
 [[Category:Priests]]
 [[Category:Alberon]]

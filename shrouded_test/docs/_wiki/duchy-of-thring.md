@@ -10,18 +10,17 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
 [[File:Duchy.jpg|thumb|227px]]Includes hexes: [[11.15]], [[11.16]], [[13.12]], [[13.17]], [[13.20]], [[14.14]], [[15.13]], [[15.15]], [[15.16]], [[15.19]], [[16.15]], [[16.16]], [[16.17]], [[16.18]], [[16.20]], [[17.11]], [[17.14]], [[17.18]], [[17.21]], [[18.19]], [[19.15]], [[20.13]], [[20.16]], [[20.18]], [[20.20]], [[21.12]], [[21.14]], [[22.18]] and [[24.13]].
 
 Connects to: 05.05, 07.06, 18.10, '23.16, 26.20, 29.14.47, 50.29, 51.29.01, and 50.04.
 
-The waters that flow from the '''Draugmere Peaks''' drop down into the Glass Rapids ''(05.05)'' and through many caverns ''(07.06)''. Those waters that do not sink down into the Sunless Sea seep into the low-lying Brindlebrook Swamp ''(18.10)'' where they mingle with waters that wash down from the north before flowing southwards into the River of Crystal Waters that flows through the '''Duchy of Thring'''. It is a land known for its brave knights, soaring castles and the Seven Laws of '''Thring'''.
-==Hex Summary==
+The waters that flow from the **Draugmere Peaks** drop down into the Glass Rapids *(05.05)* and through many caverns *(07.06)*. Those waters that do not sink down into the Sunless Sea seep into the low-lying Brindlebrook Swamp *(18.10)* where they mingle with waters that wash down from the north before flowing southwards into the River of Crystal Waters that flows through the **Duchy of Thring**. It is a land known for its brave knights, soaring castles and the Seven Laws of **Thring**.
+## Hex Summary
 *The Werewolf Nuns of St Birgit ([[10.17]]) are on the border between [[Gore]] and Thring.
 *The Haunt of the Peryton ([[11.15]]): the peryton speaks with the voice of the last man (not woman) it has killed.
 *The Tomb of Sir Theanor ([[11.16]]): Gorean Greys are agile cats as Theanor learned to late.
 *Lochgate Lodge ([[13.10]]): the rambling home of a clan of werebears.
-*The Piss-and-Shit Castle ([[13.12]]): as a result of a religious dispute this ruined castle is the home to the most ancient and putrid garbage in '''Thring'''.
+*The Piss-and-Shit Castle ([[13.12]]): as a result of a religious dispute this ruined castle is the home to the most ancient and putrid garbage in **Thring**.
 *Castle Karandur ([[13.17]]): when disputed with the men and women of Karandur confidently reply that they ride bears.
 *The Sunken Cathedral of Master Memin ([[13.20]]): an ancient stone giant instructor in the Stern Way.
 *The Lornfields ([[14.11]]): a demon-haunted forest.
@@ -33,7 +32,7 @@ The waters that flow from the '''Draugmere Peaks''' drop down into the Glass Rap
 *The Castle of Dances ([[15.18]]): the home of the famous dancer’s blooms.
 *The Graves of Heroes ([[15.19]]): the grave of a legendary paladin.
 *The Haunted Isle ([[16.15]]): is not actually haunted, just home to feuding blink dogs and displacer beasts.
-*Castle Tarengael ([[16.16]]): the seat of the Dukes of '''Thring''' and home to many strange sights.
+*Castle Tarengael ([[16.16]]): the seat of the Dukes of **Thring** and home to many strange sights.
 *The Shield of Alberon ([[16.17]]): is the size of a castle.
 *The Skinsack Shed ([[16.18]]): there are ways to return the dead to life; this is one of the less pleasant ones.
 *Jar Town ([[16.20]]): a few hundred halflings live among and within a bizarre collection of jar
@@ -51,50 +50,50 @@ The waters that flow from the '''Draugmere Peaks''' drop down into the Glass Rap
 *The Foolish Sages of Border's Hill ([[20.18]]): the Foolish Sages are curious and voracious for knowledge which often gets them into trouble.
 *The Inverted Temple ([[20.20]]): this flooded temple ha some strange aquatic inhabitants.
 *The Gravewatch Moors ([[21.12]]): the Counts of Castle Steadfast are interred here.
-*Birlwood Hold ([[21.14]]): the bastion of the Spellknights, who guards the eastern borders of '''Thring''' against the Witch Clans.
+*Birlwood Hold ([[21.14]]): the bastion of the Spellknights, who guards the eastern borders of **Thring** against the Witch Clans.
 *Where the Levee Breaks ([[22.18]]): transit along the River of Crystal Waters has become imperiled.
-*The Lords Under the Mountain ([[24.13]]): the ruined hold of Clan Penderghast, the only of the Witch Clans to swear fealty to the Dukes of '''Thring'''.
-==Features==
+*The Lords Under the Mountain ([[24.13]]): the ruined hold of Clan Penderghast, the only of the Witch Clans to swear fealty to the Dukes of **Thring**.
+## Features
 *[[Grant Birl]] is a pretender to the throne of the Duchy of Thring; he is suing [[the Collector]] in [[Thring v Jack Donne]].
 
-==Connections:==
-*The Skull of the Defiler ''(51.29.01)'' was once used to defeat an entire army of the knights of '''Thring'''.
-*The Witch Queen ''(23.16) ''is a sworn enemy of '''Thring'''.
-*Messeren Talbote ''(50.29)'', an officious exile of the Duchy, serves the Great Mother of the gnolls as a gatekeeper.
-*The Duchy is recovering from the march of Yaegha Six-Kidneys ''(50.04)''.
-*The August City of '''Blind Midshotgatepool''' (26.20) is a colony, ally and trade outlet for the '''Duchy of Thring'''.
-*Elharen the Silent ''(29.14.47)'' has come here to seek aid in her personal war against the gnolls of the '''Burning Lands.'''
+## Connections:
+*The Skull of the Defiler *(51.29.01)* was once used to defeat an entire army of the knights of **Thring**.
+*The Witch Queen *(23.16) *is a sworn enemy of **Thring**.
+*Messeren Talbote *(50.29)*, an officious exile of the Duchy, serves the Great Mother of the gnolls as a gatekeeper.
+*The Duchy is recovering from the march of Yaegha Six-Kidneys *(50.04)*.
+*The August City of **Blind Midshotgatepool** (26.20) is a colony, ally and trade outlet for the **Duchy of Thring**.
+*Elharen the Silent *(29.14.47)* has come here to seek aid in her personal war against the gnolls of the **Burning Lands.**
 *The goblin [[Fughol the Ageless]] has sent a party of goblins to kidnap some of the maidens of Thring ([[11.11]]).
 
-==Mounts of Thring==
-Connects to: ''07.21'', 13.17, 16.16.04, 16.16, 17.11, 17.18, 17.21, 20.13, 20.16, 20.18 and the '''Devil’s Fingers'''.
+## Mounts of Thring
+Connects to: *07.21*, 13.17, 16.16.04, 16.16, 17.11, 17.18, 17.21, 20.13, 20.16, 20.18 and the **Devil’s Fingers**.
 
-Since the [[horses]] went out of the world, the question of the best mount for riding upon has been an eternally unresolved question. Today in '''Thring''', the most valiant knights (cynics would say the richest) ride upon the resurrected horses of old ''(16.16.04)'', but most are forced to find other means of transport. Each castle generally chooses a different form of mount, and the lords often bicker about which is the best choice.
+Since the [[horses]] went out of the world, the question of the best mount for riding upon has been an eternally unresolved question. Today in **Thring**, the most valiant knights (cynics would say the richest) ride upon the resurrected horses of old *(16.16.04)*, but most are forced to find other means of transport. Each castle generally chooses a different form of mount, and the lords often bicker about which is the best choice.
 
 It is said that some individual knights have their own forms of transport. The Spellknight ([[Knights of the Cudgel]]) uses his magic to summon a ghostly charger. Lord Spiriwon the Cruel is known to ride on a horse-shaped palanquin carried by six stocky slaves (20.16).
-====Connections:====
+#### Connections:
 -A handful of the most elite knights of Thring win lions as their mounts while those that fail must join the lion prides (17.21).
-====Hooks====
--What other weird mounts are used by the knights of '''Thring''' and others?
+#### Hooks
+-What other weird mounts are used by the knights of **Thring** and others?
 
 -Tell me more about the Spellknight or Lord Spiriwen.
-==History==
-The Lords Sanguine launched a coup against Turien, the last [[Royal family of Gore|High King of Gore]]. Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [[The Verlimes]] heeded him. 
+## History
+The Lords Sanguine launched a coup against Turien, the last [[Royal family of Gore|High King of Gore]]. Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [[The Verlimes]] heeded him. 
 
-[[Ulthar]] proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [[The River of Crystal Waters]]. He forced the petty kings of Thring (each with an [[earth whisperers|earth whisperer]] companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [[The Pacharia]].
+[[Ulthar]] proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [[The River of Crystal Waters]]. He forced the petty kings of Thring (each with an [[earth whisperers|earth whisperer]] companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [[The Pacharia]].
 
 Turien, now known as the King of Fools, lived out his days in Castle Tarengael ([[16.16]]) as has the rest of his line.
-==Organisations==
+## Organisations
 *[[The Brothers of the Lion]]
 *[[The Foolish Sages]]
 *[[Knights of the Cudgel]]
-==Witch Clans==
+## Witch Clans
 Two of the [[Witch Clans]], [[Witch Clans#The Birls|The Birls]] and [[Witch Clans#The Penderghasts|The Penderghasts]], live in The Duchy of Thring.
-==The Sack Man==
+## The Sack Man
 The Sack Man and his [[bugbears]] snatch children.
-==The Laws of Thring==
+## The Laws of Thring
 There are seven fundamental [[laws of Thring]].
-==Nobility of Thring==
+## Nobility of Thring
 [[Lords of Thring|Read more]]
 
 *Castle Dinivar (Lady Naideen, black ostriches)

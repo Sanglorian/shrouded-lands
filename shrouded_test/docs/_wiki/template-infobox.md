@@ -9,11 +9,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -30,15 +29,15 @@ media: []
 
 |-
 ! First
-| {{{first|''Unknown''}}}
+| {{{first|*Unknown*}}}
 
 |-
 ! Second
-| {{{second|''Unknown''}}}
+| {{{second|*Unknown*}}}
 
 |-
 ! Third
-| {{{third|''Unknown''}}}
+| {{{third|*Unknown*}}}
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Other attributes</div>

@@ -11,12 +11,11 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
-[[File:Gs88.jpg|thumb|Quickling - http://www.gutenberg.org/files/32406/32406-h/32406-h.htm]]A diminutive race of [[elves]] known as quicklings live in Quickhollow (a grove in [[The Kingswood]], [[31.09]]) at a pace that seems blistering to outsiders. Their day-to-day activities are barely perceptable because they often move faster than the human eye. Still, a patient observer can gather that most stand about a foot high, dress in feathers and use special breeds of dragonflies from a nearby bog as mounts or beasts of burden.  Large interlopers linger in their town at their own peril, as quicklings enjoy tying them in place with enchanted bonds of spider silk, among other nasty pranks.
+[[File:Gs88.jpg|thumb|Quickling - http://www.gutenberg.org/files/32406/32406-h/32406-h.htm]]A diminutive race of [[elves]] known as quicklings live in Quickhollow (a grove in [[The Kingswood]], [[31.09]]) at a pace that seems blistering to outsiders. Their day-to-day activities are barely perceptable because they often move faster than the human eye. Still, a patient observer can gather that most stand about a foot high, dress in feathers and use special breeds of dragonflies from a nearby bog as mounts or beasts of burden.  Large interlopers linger in their town at their own peril, as quicklings enjoy tying them in place with enchanted bonds of spider silk, among other nasty pranks.
 
 Quicklings happily serve as the spies, assassins and unseen sentries of the Kingswood. By ancient law, they are beholden to none, so they work for those who can shower them with the most grotesque luxuries. Their poisons and powders have a sophistication umatched in the Shrouded Lands. Their most notorious poison, the Dynastic Sting, is said to wrack seven generations of the victim's descendants with dire fortune. It is rumored that [[The Verlimes]] (17.07) received the Dynastic Sting a generation ago, and that the vestiges of their ancestral power will be swept into history when the old countess passes.
 
-===Hooks===
+### Hooks
 *-Tell me about these dragonflies.
 *-In what politics are these vicious little creatures involved?
 *-Who has fallen victim to their pranks?

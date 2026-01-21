@@ -10,7 +10,6 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
 [[File:2426.png|thumb|400px]]Hex 24.26
 
 Connects to: 20.03, 27.16, 27.27 and 37.21.
@@ -20,10 +19,10 @@ The [[southern dwarves|dwarves of the Burning Lands]] have many septs, but Azurn
 A cabal of machinists known as the [[Chain Gang (Azurnay)|Chain Gang]] pulls the city's strings. They jealously guard their monopoly on maintaining the wells and work hand in glove with the city guard, who punish anyone outside of the Chain Gang who attempts to repair wells on suspicion of sabotage. The Chain Gang demands high prices for their services and those who cannot pay find themselves owing favors.
 
 The Ring of Fire, a tavern owned by [[Hairy Jack]]'s ([[37.21]]) nephew [[Bloody Vincent]], is popular for its nightly insect fights. Vermin wranglers, mostly adventurers who have fallen on hard times, are paid good money to capture the Burning Lands’ most vicious giant bugs. The captured wasteland horrors duel to the death within a burning circle. [[Tamilda Kondransdotter]], another scion of [[Koldran]] ([[20.03]]), is Azurnay's best vermin wrangler thanks to owning a ring that charms the unpleasant creatures. When Bloody Vincent's vermin stocks become low, he persuades desperate adventurers to fight the beasts. The dwarves call these bouts [[imoku]]. They attend the Ring of Fire, which they normally shun, in large numbers to watch them.
-===Connections:===
+### Connections:
 *The city watch trains blunt-toothed [[pigdogs]] ([[27.27]]) to catch troublemakers they can't keep up with.
 *Some [[Backbiters|Backbiter gnomes]] ([[27.16]]) have settled here.
-===Hooks:===
+### Hooks:
 *Who built Azurney's waterworks?
 *Who or what is the Chain Gang's biggest rival?
 *What kind of favors does the Chain Gang demand?

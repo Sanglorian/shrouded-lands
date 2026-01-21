@@ -12,14 +12,13 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-
-Gnoll clans are matriarchal. 
+Gnoll clans are matriarchal. 
 
 Gnolls learn to sing in the [[Howling College]]. All their music is narrative and all their history is oral. They have three distinct genres: Lowings, Whoopings and Gigglings.
 
-The [[City of Smoke]] is the seat of the [[Mothers|Mother]], the ultimate ruler of the gnolls. It is called the City of Smoke (or Shit) because the cow dung burns constantly here. The [[Great Mother]] rules currently; upon ascending to power she ate the hearts of all other matriarchs - save three, who escaped. 
+The [[City of Smoke]] is the seat of the [[Mothers|Mother]], the ultimate ruler of the gnolls. It is called the City of Smoke (or Shit) because the cow dung burns constantly here. The [[Great Mother]] rules currently; upon ascending to power she ate the hearts of all other matriarchs - save three, who escaped. 
 
-The Great Mother united the clans and invaded - with the help of [[Grumluda]] - the south. They recently crushed the [[Golden Realm]] and extract tribute from others. 
+The Great Mother united the clans and invaded - with the help of [[Grumluda]] - the south. They recently crushed the [[Golden Realm]] and extract tribute from others. 
 
 Soon after the fall of Bergolast, when the gnolls first came to the Burning Lands, the gnolls were led by a Grand Chieftan whose supremacy was established through mortal combat. The Defiler was the one who led the gnolls into the Burning Lands; his skull can be worn as a helmet and caused whole armies to quell. Its current location is unknown.
 
@@ -27,7 +26,7 @@ Gnolls practice the [[devouring art]], the eating of the heart of a beast to gai
 
 The gnolls fought the [[Gnawbone Wars]] against Shuttered, in which they drove the men of Shuttered from the Burning Lands. The southern dwarven nation was forged in the wake of this war, as detailed in [[31.27]].
 
-Male gnolls who reach adulthood without finding favour with a matriarch live in Abbalah-Doon ([[15.28]]), a village of bone huts. These gnolls are more peaceful and have more solemn songs. 
+Male gnolls who reach adulthood without finding favour with a matriarch live in Abbalah-Doon ([[15.28]]), a village of bone huts. These gnolls are more peaceful and have more solemn songs. 
 
 At the vernal and autumnal equinoxes, gnolls and [[Nekh]] meet at Ogo Tassak ([[14.27]]) to perform rites to ensure another season of game.
 
@@ -35,7 +34,7 @@ Jahur's Scent Barrier ([[21.29]]) deters gnolls because of their sensitive noses
 
 Hairy Jack lives close to a clan of gnolls - and some claim he is intimate with one of them. ([[37.21]])
 
-Gnolls honour the wyvern of the waste ([[29.29]]) and gnoll bards sing of a time when warriors rode wyverns into battle. 
+Gnolls honour the wyvern of the waste ([[29.29]]) and gnoll bards sing of a time when warriors rode wyverns into battle. 
 
 The gnolls brought back Teodo, a golden lion statue, from the Golden Realm. A slave, [[Abassi]], converted some gnolls to the [[King in Splendour]]. These 'praying gnolls' meet secretly near Teodo ([[50.30]])
 
@@ -49,8 +48,7 @@ By ancient gnollish custom, if you defeat the Keeper of the Gate you have gnolli
 
 The [[flindbar]] is a spiked nunchuku developed by the gnolls.
 
-==Connections==
-
+## Connections
 *Like the position of Grand Chieftan, the [[Champion of Thring]] is also decided by one-on-one combat
 [[Category:Creatures]]
 [[Category:Peoples]]

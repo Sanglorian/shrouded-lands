@@ -11,7 +11,6 @@ categories:
   - "Category:Wizards"
 media: []
 ---
-
 [[File:Shutt-nec.png|thumb]]Connects to: 14.23, 15.11, 21.14, 24.18, 26.13, 29.13, 29.14.09, 29.14.46 and 39.14.
 
 Most sorcerers in these lands learn their art by apprenticing themselves to an established wizard. There are stories from far lands of great wizarding academies but the [[City of Shuttered Windows]] has none, unless you count the Necromantic Office.
@@ -27,14 +26,14 @@ Adult members of the Necromantic Office play an important role in the City of Sh
 In return for their valuable services they receive everything that people have on them when they die and are granted full immunity from all convictions in the courts of the City unless the charge is heresy.
 
 The Office itself is very secure. If any intruders enter, one of the thousands of ghosts will certainly sound the alarm and the ghosts themselves can easily enter the minds of those nearby and wreck all sorts of havoc.
-===Connections:===
+### Connections:
 *The Office is not pleased with [[Lady Alevari]] (29.14.37).
 *[[Lars]] the chimera is an ally of the Necromantic Office ([[Suitor's Tower]]).
 *Sir [[Codwise]] the Old, the Spellknight of the [[Knights of the Cudgel]], has important contacts with the Necromantic Office ([[21.14]]).
 *[[Ranmore]] is an exiled necromancer who is currently working for [[The Osseries|the Ossory witchclan]], if the Office knew of his more extravagant ambitions they would be very concerned (24.18).
 *Silk merchants squabbling over bodies has drawn the attention of the Office (29.14.46).
 *One of the old lords of the Keep of Dreanach was a renegade member of the Office ([[15.11]]).
-===Hooks:===
+### Hooks:
 *Why are most (all?) members of the Necromantic Office eunuchs?
 *What secrets do the ghosts know? Any nifty signature spells?
 *Are there any duties have the Office has been shirking?

@@ -12,15 +12,14 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-
 The knights of [[Lady Natala]] and Castle Maratan ([[07.17]]).
 
 For all their common blood and low station, the snickersnees are brave and ruthless knights. Upon entering Lady Natala’s service, they paint their shields black and tear all heraldry from their clothes.
 
-They have none of the Swordsage's ([[11.15]]) art so they mingle the blood of [[The Tarrasque]] (38.28) with [[hobgoblins|hobgoblin]] (16.04) [[shroom wine]] to dull its powers. These warriors favor long straight swords with a single cutting edge, something like shaving razors of extreme length. After drinking their bloodied wine, they wave their swords in a frenzy the strokes coming seemingly at random but finding their mark often enough to make the knights of the castle bitter foes of Thring.
+They have none of the Swordsage's ([[11.15]]) art so they mingle the blood of [[The Tarrasque]] (38.28) with [[hobgoblins|hobgoblin]] (16.04) [[shroom wine]] to dull its powers. These warriors favor long straight swords with a single cutting edge, something like shaving razors of extreme length. After drinking their bloodied wine, they wave their swords in a frenzy the strokes coming seemingly at random but finding their mark often enough to make the knights of the castle bitter foes of Thring.
 
 Each kill that they may in the Lady’s name allows them to add a band of red to their shields.
-====Hooks====
+#### Hooks
 *One of these snickersees is [[Elwen]], a leader of [[The Browncloaks]] (08.01). [[The Daughter of Ser Gareth Lemarr|Gareth Lemarr]] was another - his shield was entirely red
 *What other famous snickersnees are there?
 [[Category:Organisations]]

@@ -10,11 +10,10 @@ categories:
   - "Category:Undead"
 media: []
 ---
-
 :See also [[Necromancers]]
-=== Anonymity ===
+### Anonymity
 Theories on anonymity and its affects on the dead are discussed further at the [[White Road]] entry.
-=== Undead ===
+### Undead
 Not all of these creatures have been definitively listed as undead. Some, like the sack children, flesh golems and vampires, might not be.
 * [[Drow-ghosts]]
 * [[Ostrlich]] (an ostrich lich)
@@ -35,7 +34,7 @@ Not all of these creatures have been definitively listed as undead. Some, like t
 * [[Corpse trees]] "grow" in [[11.11]]
 ** [[Fughol the Ageless]] is becoming undead by eating corpse acorn pemmican produced by corpse trees.
 
-=== Connections ===
+### Connections
 * [[Blind dogs]] bark in the presence of ghosts and spirits; some bark at all undead. A rare few have barks that drive off the undead.
 * [[Corpse-slather]] fuses two dead or undead bodies.
 * Some say that sprinkling [[beer]] across a path will keep vengeful dead away.

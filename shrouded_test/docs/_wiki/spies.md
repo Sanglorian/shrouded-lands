@@ -9,9 +9,8 @@ categories:
   - "Category:Spies"
 media: []
 ---
-
-'''Spy''' can describe someone who spies upon someone as a one-off, as well as a trained professional. 
-==Spies==
+**Spy** can describe someone who spies upon someone as a one-off, as well as a trained professional. 
+## Spies
 *[[Quicklings]] are the spies of the Kingswood, selling their services to the highest bidder.
 *Some [[Mirdenlows]] work as spies for [[Sanguine Lords]]. [[Sheemie Mirdenlow]] spies for [[Lady Natala]].
 *[[Lady Seline]] deploys her spies based on [[Olga Gruel]]'s reports.

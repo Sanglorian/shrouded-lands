@@ -9,8 +9,7 @@ categories:
   - "Category:The Grey Mountains"
 media: []
 ---
-
-One thousand years ago, when the race of [[dwarves]] was at its zenith, the dictators of the dwarves ordered five great '''dwarf fortresses''' or '''fastnesses''' to be built across the [[Grey Mountains]], to keep the passes from being overrun by invaders.
+One thousand years ago, when the race of [[dwarves]] was at its zenith, the dictators of the dwarves ordered five great **dwarf fortresses** or **fastnesses** to be built across the [[Grey Mountains]], to keep the passes from being overrun by invaders.
 
 Of the five, four were finished (Hoth Akbir being the exception: [[02.05]]). Of the four, three were ever manned (the unnamed fortress in [[14.02]] went unmanned). Of the three, two survived their first siege. Of the two, one lasts to this day: Titan’s Skull ([[33.00]]).
 

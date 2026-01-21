@@ -10,8 +10,7 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-
-==The Honorable Society of Engineers==
+## The Honorable Society of Engineers
 [[File:Shutt-hon.png|thumb|361px]]Connects to: 17.16, 19.31.10, 29.14.01, 29.14.09, 29.14.52 and 36.11.
 
 Half guild, half civic institution, the Honorable Society of Engineers has been one of the greatest societies in the [[Shuttered City]] since the [[Sinking]] began.
@@ -29,12 +28,12 @@ Despite the Weighing Day tax and their budget from the Doge, the Society is quic
 The Society maintains its headquarters and administrative heart in the Honor-Hall of the Society, an underground complex of blueprint archives, storehouses, laboratories, academies, armories, and offices where the Engineers toil unceasingly to save the city from collapse.
 
 On a minor note, Engineers of the Society can be identified by the plain steel band worn on the middle finger of the right hand. Any person found wearing such a ring on this finger without being a recognized member is subject to [[fingers and fingernails|removal of the offending digit]].
-===Connections:===
+### Connections:
 *The Master Mason of the Society is [[Baron Harenghast]], who is not popular with his subordinates ([[29.14]].52).
 *Some crack finders have contracted [[lycanthropy]] in the Undercity ([[36.11]]).
 *The mud around Smuggler's Isle ([[17.16]]) is especially sought after by the Society of Engineers as an ingredient in their cement. This is not because it is especially strong but because it has a weak magical resonance that slowly fades with time, allowing the engineers to keep track of how old a certain piece of construction is. This is of especial use to the Department of Obscure Annexes as it allows them to detect suspicious new construction that may hide secret rooms.
 *Some maps drafted by Engineers are sold by [[Lunfar]] in [[Jahur]].
-===Hooks:===
+### Hooks:
 *Who originally founded the Society, and why?
 *What dark secrets has the Society uncovered in their explorations of the Undercity?
 *What lies still buried in Vog's Folly?

@@ -10,7 +10,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-black.jpg|thumb|400px]]Hex 29.14.03
 
 Connects to: 29.14.02 and 30.12.
@@ -25,9 +24,9 @@ The whole City turned out to watch the Black Balloon rise. Yilbar was on it, alo
 
 Nobody knows why the Balloon is not returning. However, a few hours after its ascent, a flaming body was seen to fall from it before bursting into ashes on the pavement. A distinctive silver ring identified the body as Yilbar the Illustrious.
 
-====Connection:====
+#### Connection:
 *Yilbar constructed a balloon for the fabulously wealthy [[Count Seutorian]] ([[30.12]]) in the likeness of [[Baron Horenghast]]‘s mother.
-====Hooks:====
+#### Hooks:
 *Where did the black gas come from?
 *What happened to Yilbar, and why hasn't the balloon come down?
 *Yilbar's son is offering a handsome reward to anyone who can get up to the balloon and rescue his sisters, if they still live. But how would anyone get up that high?

@@ -9,9 +9,8 @@ categories:
   - "Category:Organisations"
 media: []
 ---
-
-'''[[File:SL4.jpg|thumb|400px]]Region: '''[[Blind Midshotgatepool]]
-==The Thieves Guild of Blind Midshotgatepool==
+**[[File:SL4.jpg|thumb|400px]]Region: **[[Blind Midshotgatepool]]
+## The Thieves Guild of Blind Midshotgatepool
 Connects to: 15.24, 16.16, 19.30, 26.19, 26.20.03,
 26.20.04, 26.20.05, 27.18.01 and 37.06.
 
@@ -65,14 +64,14 @@ Aside from Wortimer himself there are several
 notable members of the Blind Midshotgatepool
 thieves guild.
 
-'''Mabalaquain:''' a half-elven enchanter of some
+**Mabalaquain:** a half-elven enchanter of some
 minor skill. Wortimer‘s right-hand man is vicious
 and conniving, always ready with a cruel
 mockery or a half-true rumor for other members
 of the guild. However, his position is secure as he
 is Wortimer‘s paramour.
 
-'''Gwened:''' Mabalaquain‘s human half-sister. She
+**Gwened:** Mabalaquain‘s human half-sister. She
 was brought on board by her brother, over the
 heads of some rather resentful junior members,
 but she soon proved her worth with the blade
@@ -83,7 +82,7 @@ episode with the honeyed roped annoyed
 Wortimer but all was forgiven when she
 managed to suborn Boros‘ squire.
 
-'''Mousey:''' after being exiled from his old home
+**Mousey:** after being exiled from his old home
 within the walls of a northern giant‘s holding, the
 local gnome who the humans call Mousey
 quickly proved his worth as the most skilled sneak
@@ -95,7 +94,7 @@ buildings that he burgles. He especially favors
 'gifts' that only begin to have their effect years
 afterwards.
 
-'''Granny Lin:''' the guild‘s professional fence. She
+**Granny Lin:** the guild‘s professional fence. She
 has an especially sharp eye for rare herbs, plants
 and spices. She drives a sharp bargain but is
 known to have a soft spot in her heart for urchins
@@ -122,7 +121,7 @@ would then come to life and begin suffocating its
 victim. Wortimer hopes that that would provide
 enough of a distraction to let him escape and
 rally his guild.
-===Connections:===
+### Connections:
 *[[Uriza]] (15.24) was a power in the thieves guild, thanks to the magic item she had stolen, until Mousey brought her low.
 *The thieves guild takes advantage of the Hall of the Five Gates (26.20.03) and cooperates with the [[Yaboons|Yaboon family]] (26.20.04).
 *The guild‘s power is greatest among the houseboats of the city (26.20.05).
@@ -130,7 +129,7 @@ rally his guild.
 *Wortimer is quietly supporting a banned wind cult in hopes that it weakens the hold of the state church of the City of Shuttered Windows ([[27.18]].01).
 *The thieves of the August City uses memory-stealing [[birds of paradise]] ([[19.30]]) on guild members who know too much but are too important to be killed.
 *Wortimer has offered a reward to anyone who drives the bullywogs out of Yrump Marsh ([[26.19]]).
-===Hooks:===
+### Hooks:
 *Who is Mabalaquain's elven parent?
 *Wait, gnomes live between the walls of the homes of giants?
 *Who have some of the victims of the thieves guild been?

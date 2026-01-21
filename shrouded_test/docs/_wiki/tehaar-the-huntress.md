@@ -11,7 +11,6 @@ categories:
   - "Category:The Kingswood"
 media: []
 ---
-
 One of the most able, or at least the most active, of the servants of the [[Bloodied King]] is [[Tehaar the Huntress]]. She leads a band of elves that relentlessly patrols the Kingswood, more out of love for the hunt than for any duty to the king, other elves say. She can be easily recognized by the unseelie runes inscribed on the leather mask that she wears whenever on the hunt and the stag that she rides.
 
 Tehaar’s tactics are based on bleeding intruders without risking elven lives and generally begin by harassing the quarry without alerting them to elven presence. This is done by driving beasts into the paths of the intruders, setting up snares, obscuring trails and casting spells out of earshot (summoned monsters are a favorite) to slowly wear down the intruders. If the quarry resists these attempts, then the elves approach and shoot arrows at them from cover (often magical), especially focusing on interrupting any attempts at casting healing magic. A favorite tactic is firing down at the quarry from tall trees and then bounding away across branches too thin for bulkier races to climb across. Throughout the hunt, Tehaar’s second in command shadows that intruders and reports their activities (via mimicked animal sounds).
@@ -23,10 +22,10 @@ However, Tehaar is not entirely without mercy. In one case, a band of [[Stannevs
 The best ways to survive an encounter with Tehaar is to use an elf as a hostage, hide in an enclosed area where elven bows are of little use or run into her when she is not hunting, such as during one of her frequent swims in the Witchwater (29.07).
 
 Although Tehaar ranges widely across the Kingswood in search of intruders, where she can be found most often is at the far southern border of the Kingswood where the forest approaches the City of Shuttered Windows ([[29.10]]). Here is where humanity swarms the thickest and where it must be watched the most closely.
-===Connections: ===
+### Connections:
 *Tehaar’s nemesis is [[Brigadier Kalas Montra-brey]] ([[30.12]].01).
 *A stag that she once rode ran away and can now be found far to the southwest ([[11.15]]).
-===Hook:===
+### Hook:
 *Who else has run into Tehaar? Did they live?
 [[Category:Characters]]
 [[Category:Elves]]

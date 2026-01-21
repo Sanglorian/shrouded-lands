@@ -11,37 +11,35 @@ categories:
   - "Category:Witch Clans"
 media: []
 ---
-
-
-The '''Witchmen''' or '''Witch Clans''', suspicious of outsiders, tend to marry within their own clan – the Dungers do this most extensively.
+The **Witchmen** or **Witch Clans**, suspicious of outsiders, tend to marry within their own clan – the Dungers do this most extensively.
 
 With the exception of the Faustys, strength of blood in the witch clans determines whether a person manifests the family power.
 
 The Witch Clans live mostly in [[The Barrier Range]], but the Birls and the Maddlows have scattered while the Penderghasts live in [[The Duchy of Thring]]. The Serendips live in distant Jahur.
-*[[Birls]] (''animate wood; ''scattered throughout Thring)
-*[[Cransoms]] (''hallucinatory terrain; ''adults killed, children kidnapped)
-*[[Dungers]] (''stinking cloud; ''enslaved the Hallovers, tribal war with the Osseries)
-*[[Faustys]] (''summon monster'')
-*[[Hallovers]] (''feather fall; ''enslaved by the Dungers)
-*[[Haverlies]] (''floating disc; ''trapped in a valley)
-*[[Maddlows]] (''geas; geased'' to travel to the far corners of the Shrouded Lands)
-*[[Mirdenlows]] (''willow shape; ''?)
-*[[Osseries]] (''burning hands; ''tribal war with Dungers)
-*[[Penderghasts]] (''disintegrate; ''mostly wiped out)
-*[[Serendips]] (''change emotions; ''extant but of uncertain status as a Clan)
-*[[Wrannows]] (''rope trick''; extinct)
+*[[Birls]] (*animate wood; *scattered throughout Thring)
+*[[Cransoms]] (*hallucinatory terrain; *adults killed, children kidnapped)
+*[[Dungers]] (*stinking cloud; *enslaved the Hallovers, tribal war with the Osseries)
+*[[Faustys]] (*summon monster*)
+*[[Hallovers]] (*feather fall; *enslaved by the Dungers)
+*[[Haverlies]] (*floating disc; *trapped in a valley)
+*[[Maddlows]] (*geas; geased* to travel to the far corners of the Shrouded Lands)
+*[[Mirdenlows]] (*willow shape; *?)
+*[[Osseries]] (*burning hands; *tribal war with Dungers)
+*[[Penderghasts]] (*disintegrate; *mostly wiped out)
+*[[Serendips]] (*change emotions; *extant but of uncertain status as a Clan)
+*[[Wrannows]] (*rope trick*; extinct)
 *[[Yarbeens]] (unknown spell; isolated in valley)
-===Hooks===
+### Hooks
 *What do the Witch Clans call themselves?
 *What is the source of their magical bloodlines?
 *What other clans are there?
-*Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with ''27.09''?
+*Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with *27.09*?
 *The Faustys and the Wrannows have a connection to other dimensions. Do the witch clans have a connection to the planes?
-===<span style="font-size:20px;">Random Witch Clan Table</span>===
-The ''colour ward ''spell was inspired by [http://dndwithpornstars.blogspot.com.au/ D&D with Pornstars]
+### <span style="font-size:20px;">Random Witch Clan Table</span>
+The *colour ward *spell was inspired by [http://dndwithpornstars.blogspot.com.au/ D&D with Pornstars]
 
 To create a new witch clan, roll once on each of these tables.
-===Quirk (1d12)===
+### Quirk (1d12)
 #Can only cast the reverse of the assigned spell
 #Almost extinct
 #Have the spell of another clan
@@ -54,7 +52,7 @@ To create a new witch clan, roll once on each of these tables.
 #Can only cast the spell on their selves and their possessions
 #Can only use the spells on others
 #Presence allows others to cast the spell but cannot cast it themselves
-===Spell (1d20)===
+### Spell (1d20)
 #Feeblemind
 #Knock
 #Hold person
@@ -75,7 +73,7 @@ To create a new witch clan, roll once on each of these tables.
 #Animate shadows
 #Sticky skin: Can turn ones own skin and the skin of those one is in contact with highly adhesive.
 #Colour ward: The target is immune to anything of a particular colour and anyone wearing that colour.
-===Relationship with another witch clan (1d12)===
+### Relationship with another witch clan (1d12)
 #Intermarriage
 #Slavery
 #Neighbours
@@ -88,7 +86,7 @@ To create a new witch clan, roll once on each of these tables.
 #Colonisation
 #Alliance
 #Ancient rift
-===Name (1d20)===
+### Name (1d20)
 #The Bunkums
 #The Milligrubs
 #The Rawmaish

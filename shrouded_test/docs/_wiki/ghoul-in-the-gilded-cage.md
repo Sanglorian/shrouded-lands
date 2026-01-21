@@ -14,8 +14,7 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-
-==The Ghoul in the Gilded Cage==
+## The Ghoul in the Gilded Cage
 [[File:Jahur3.jpg|thumb]]Connects to: 13.30, 15.28, and 32.32.
 
 In the very heart of [[Jahur]], the City of Jewels, lies of the Sublime Divan where the Viceroys of the City sit in council upon jeweled cushions that float upon a deep pool of amber ichor. Strange astringent mists rise from the pool, which are said to aid the Viceroys in their contemplations (or ensure that annoyingly-emotional Viceroys lose their balance and fall into the poisonous ooze or provide an excuse to keep the too-heavy-to-float [[Janissaries]] excluded from government, depending on who you believe).
@@ -29,9 +28,9 @@ However, the ghoul has little talent for giggling, certainly not the great talen
 When Viceroy Rullaj summoned the Gnawer of Flame to perform for him and his cronies his young daughter crept behind a keyhole and listened. She fell in love with his voice and not even the length of his claws or his gnollish muzzle could move her heart from its course thereafter. Soon she was stealing away from her manse at midnight to see and hear all of the outside world that had been denied her.
 
 It was not long before Helin and her lover fled into the trackless wastes to the west of the city. But in lands where men do no walk, ghouls are known to dance and howl. The strength of these foul creatures is greatest when their location is isolated. Even a small track will sap their power and being in a human city steals almost all of their strength. But despite this, they love the taste of human flesh and are known to use illusions to lure travelers away from roads and into the lands where they dwell. Perhaps this is what happened to Helin for she was not able to flee far from Jahar before ending up in the belly of the ghoul who now mimics her voice and form.
-===Connection:===
+### Connection:
 *Helin and her lover were trying to reach the remote gnollish village of Abbalah-doon, where the gnoll still lives today ([[15.28]]).
-===Hooks:===
+### Hooks:
 *What is the real reason for the strange site of the Sublime Divan?
 *What is the amber ichor and what effects does breathing in its mists (or falling into it) have?
 *Do any other gnolls possess the power of singing images into smoke?

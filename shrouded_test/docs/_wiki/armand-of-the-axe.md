@@ -13,8 +13,7 @@ categories:
   - "Category:Warriors"
 media: []
 ---
-
-==Armand of the Axe==
+## Armand of the Axe
 [[File:291301.png|thumb|398px]]
 
 Armand of the Axe was a warrior priest of the [[King in Splendor]] and came from the south to the [[City of Shuttered Windows]] to win glory for himself and his god at the Wedding Band ([[30.15]]). He soon rose to fame and earned the enmity of [[Bogarus Bolger]] for running down and hacking one of his prized [[blink dogs]] to pieces even after it had fled across the Wedding Band and had thus forfeited the match.
@@ -26,9 +25,9 @@ That night Armand had a terrible dream in which his powerful limbs wasted away t
 Each night Armand fights off the coming of sleep, chanting prayers to the god who neither listens nor grants him spells, for he knows that when sleep comes his other self will wake. When in spider monkey form, Armand coats himself in bone dust and climbs amidst the forest of tombs that line the White Road barking madly and harassing any people he finds. His mad bark functions causes supernatural terror to come over the weak minded and he enjoys pretending to be a ghost, causing mayhem and attempting to terrorize people into giving him offerings.
 
 The next day, Armand awakens later remembering all that he did the previous night and until night comes again he either tries to make reparations for what he did or lies sobbing in the tomb where he now lives. His attempts to return to Shuttered have met in failure for the priests turn him away at the gate.
-===Connection:===
+### Connection:
 *One of the regular at [[the Mud Platter]] thinks that Armand is an angel of [[Alberon]].
-===Hooks:===
+### Hooks:
 *What is heart fruit?
 *How did Bogarus Bolger get the infected monkey?
 *Will Armand ever be able to cast clerical spells again?

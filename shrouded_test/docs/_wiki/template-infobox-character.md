@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -29,26 +28,26 @@ media: []
 
 |-
 ! Position
-| {{{position|''Unknown''}}}
+| {{{position|*Unknown*}}}
 
 |-
 ! Age
-| {{{age|''Unknown''}}}
+| {{{age|*Unknown*}}}
 
 |-
 ! Status
-| {{{status|''Unknown''}}}
+| {{{status|*Unknown*}}}
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Physical attributes</div>
 
 |-
 ! Height
-| {{{height|''Unknown''}}}
+| {{{height|*Unknown*}}}
 
 |-
 ! Weight
-| {{{weight|''Unknown''}}}
+| {{{weight|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

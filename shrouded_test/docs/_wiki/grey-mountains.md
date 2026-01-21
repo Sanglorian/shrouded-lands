@@ -9,7 +9,6 @@ categories:
   - "Category:The Grey Mountains"
 media: []
 ---
-
 [[File:Cirith_forn_en_andrath.jpg|thumb|400px|'High Pass in Misty Mountains', Neral (CC BY 3.0 Unported)]]
 
 Includes hexes: [[09.00]], [[09.01]], [[10.01]], [[11.01]], [[12.00]], [[13.01]], [[14.00]], [[14.01]], [[14.02]], [[15.00]], [[15.01]], [[16.01]], [[18.01]], [[19.01]], [[20.00]], [[21.02]], [[22.00]], [[24.02]], [[26.01]], [[26.02]], [[33.00]], [[33.01]], [[34.00]], [[34.01]], [[37.01]], [[39.00]] and [[46.00]].[[File:Grey1.png|thumb|400px]]
@@ -17,7 +16,7 @@ Includes hexes: [[09.00]], [[09.01]], [[10.01]], [[11.01]], [[12.00]], [[13.01]]
 The Grey Mountains form the northern border of the Shrouded Lands. Few humans make their homes here and they are instead dominated by giants in the west, dwarves in the east and orcs and great bears in the central peaks.
 
 Due to ancient magic, in the Shrouded Lands it rains but once a year (29.14.36) so great water-laden clouds blow in from the south only to be caught by the towering peaks of the Grey Moutains. Here it can often be difficult to see more than a few feet through the grey masses of cloud that wreathe the mountains and leave the land glistening with dew or burdened by the heavy snows that feed the rivers that run south into the rest of these lands.
-===Hex summary:===
+### Hex summary:
 *09.00 (To Go A-Striga through the Night): the owl-riding strigoi claim they are the descendants of those who escaped from the land of the dead by riding owls.
 *09.01(The Hermit of the Crag): here lives a wise hermit and his fearsome pet cow.
 *10.01 (The Mouth of the Dragon): a tunnel that looks a lot like a dragon’s mouth, the goblins do not allow any others to venture inside.

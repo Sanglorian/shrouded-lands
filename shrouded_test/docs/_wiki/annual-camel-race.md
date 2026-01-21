@@ -12,8 +12,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
-==The Annual Camel Race==
+## The Annual Camel Race
 This is the starting point of [[Jahur]]'s annual across-desert camel race. A great tent city opens for the week over which the race runs. The event is so popular, and Jahur so populous, that the tent city is itself the Shrouded Lands' fourth most populuous [[cities|city]] for that week. 
 
 In the race, competitors must lead a chain of any number of [[camels]] through the wastes, and end with at least one camel still alive. [[Gnolls]] and [[Nekh]] delight in the custom, and help weed out riders and camels.
@@ -26,7 +25,7 @@ On the final day, the role of announcer is claimed by one of the [[Viceroys]] of
 
 The [[Ibraheen]] sponsor the race. Rather than a noble family, or even one of the rising merchant families, the Ibraheen is a trade guild of street vendors, publicans and newspaper printers. Their ambition is sneered at by the greats of the city, but none can deny that a camel race is precisely their bailiwick. 
 
-===Hooks===
+### Hooks
 *Who is the knight? Why does he or she hide his or her identity?
 *What is the prize for winners of the race?
 *Why do people risk life and limb to compete?

@@ -14,10 +14,8 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-
 [[File:Apollo_and_Daphne_.jpg|thumb|400px|adel adili, Creative Commons BY-SA 3.0 Unported]]
-==Connections==
-
+## Connections
 [http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 Dryads] killed by [http://shrouded-lands.wikia.com/wiki/Vampires vampires] become [http://shrouded-lands.wikia.com/wiki/Corpse_trees?action=edit&redlink=1 corpse trees] ([[11.11]]).
 
 Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?action=edit&redlink=1 hawthorn dryads] can chop down their shrub and fashion it into a still-living but functional item.
@@ -26,8 +24,7 @@ Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?a
 
 *[[Count Seutorian]]'s parties include transplanted dryads.
 
-==Dryads==
-
+## Dryads
 *[[Laughing Sam]] is a dryad from Naros, but has forgotten his past. His tree is a willow on the Bitter Coast.
 
 *The woman who ended the [[Seelie-Unseelie wars]] was a hawthorn dryad

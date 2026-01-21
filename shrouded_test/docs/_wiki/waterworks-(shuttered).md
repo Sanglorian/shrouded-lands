@@ -9,7 +9,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-water.png|thumb|400px]]Connects to: 29.14.01, 29.14.35, 29.14.36, 29.15, 51.29.01 and the Burning Lands.
 
 It's not a far jog from the [[North Gate and South Gate|South Gate]] of [[The Shuttered City|the City proper]] to the shore of [[Keening Sea]] -- a massive freshwater body that serves a fishery, bread basket ([[29.15]]), water-source, and sewage outtake for the City of Shuttered Windows. The underground canals leading to and out of the City have access points to allow the Priests of the [[Temple Indivisible]] to bless and purify the waters, as well as allowing for crews to patrol the waterways for monster incursions.
@@ -23,7 +22,7 @@ Originally, the waterworks were powered by summoned [[elementals]], and some sec
 From the heights of the tallest buildings, the water falls in several open air streams, where it is diverted by sleeves to fall into homes and public cisterns. There are a few more elaborate fountains throughout the various tiers of the city as well, particularly in shrines. They tend to be fed directly by water being pumped upward. The largest of the waterfalls powers a system of waterwheels, which have a variety of purposes.
 
 The Guild of the Waterworks, the Plumbers, dutifully maintains and expands the system. They are also responsible for the grueling task of raising the canal's ever-sinking basin. The Guild traditionally employs dwarven citizens, but there are humans and halflings on the rolls as well. Those that make it past the apprenticeship of working on pipes in the occasionally dangerous lower levels enjoy very well-paided positions in the forges and upper tiers.
-===Connections:===
+### Connections:
 *The waterworks is busiest during the heavy annual rainfall (29.14.36).
 *The workers of the waterworks saved the City from invasion during the [[Gnawbone War]] with the [[gnolls]] of the [[Burning Lands]] (see the main Burning Land entry and 51.29.01).
 [[Category:Buildings]]

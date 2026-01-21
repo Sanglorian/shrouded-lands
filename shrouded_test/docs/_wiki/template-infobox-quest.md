@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -29,38 +28,38 @@ media: []
 
 |-
 ! Start
-| {{{start|''Unknown''}}}
+| {{{start|*Unknown*}}}
 
 |-
 ! End
-| {{{end|''Unknown''}}}
+| {{{end|*Unknown*}}}
 
 |-
 ! Prerequisites
-| {{{prerequisites|''Unknown''}}}
+| {{{prerequisites|*Unknown*}}}
 
 |-
 ! Level
-| {{{level|''Unknown''}}}
+| {{{level|*Unknown*}}}
 
 |-
 ! Location
-| {{{location|''Unknown''}}}
+| {{{location|*Unknown*}}}
 
 |-
 ! Rewards
-| {{{rewards|''Unknown''}}}
+| {{{rewards|*Unknown*}}}
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Quest progression</div>
 
 |-
 ! Previous
-| '''Next'''
+| **Next**
 
 |-
-! style="font-weight:normal;" | {{{previous|''Unknown''}}}
-| {{{next|''Unknown''}}}
+! style="font-weight:normal;" | {{{previous|*Unknown*}}}
+| {{{next|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

@@ -9,7 +9,6 @@ categories:
   - "Category:Languages"
 media: []
 ---
-
-*A certain dragon claims that "Scorshia" ([[02.03]]) is a mispronunciation of a '''draconic''' term that means "mother of mountains" or perhaps "the first stone"; draconic is difficult to translate.
+*A certain dragon claims that "Scorshia" ([[02.03]]) is a mispronunciation of a **draconic** term that means "mother of mountains" or perhaps "the first stone"; draconic is difficult to translate.
 [[Category:Languages]]
 [[Category:Dragons]]

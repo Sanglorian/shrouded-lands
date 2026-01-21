@@ -9,8 +9,7 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
-
-[[Lady Naideen]] animated a wax golem using a stone shaped like a snake’s egg but covered in orange scales that shone like gems ([[17.11]]).
+[[Lady Naideen]] animated a wax golem using a stone shaped like a snake’s egg but covered in orange scales that shone like gems ([[17.11]]).
 
 [[03.04]]
 

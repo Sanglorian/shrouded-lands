@@ -14,8 +14,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-==The Glorious Reign of Doge Simone the Fowl ==
+## The Glorious Reign of Doge Simone the Fowl
 [[File:Rooster_Portrait.jpg|thumb|Harrison Weir]]
 Connects to: 29.13 and 29.14.06.
 
@@ -36,7 +35,7 @@ Doge Simone the Fowl was unusually long-lived, and his reign lasted 21 glorious 
 Simone the Fowl was embalmed, interred in a gold jewel-encrusted casket, and laid to rest beside his common-law wife in a towering marble mausoleum along the [[White Road]], financed by donations from all over the city. Simone the Foul’s daughter [[Geda the Fair]], his care-taker, is also buried here. The [[Blind Doge]] is her direct matrilineal descendant, and he makes frequent pilgrimage to the tomb to pay his respects to his ancestor and her illustrious charge in a grand annual procession.
 
 And that is why to this very day the people of Shuttered put roosters on their weathervanes.
-===Hooks:===
+### Hooks:
 *What other momentous events occurred during the glorious reign of Doge Simone the Fowl?
 *Does the ghost of Simone the Foul still haunt the foothills?
 *Is Geda the Fair known for anything else?

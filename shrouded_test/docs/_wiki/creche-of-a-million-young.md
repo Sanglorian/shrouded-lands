@@ -9,7 +9,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-creche.jpg|thumb|400px]]Connects to: 04.31, 08.03, 13.08, 29.14.11 and 29.14.37.
 
 Huddled against the south wall of the [[City of Shuttered Windows]], on land that has been technically part of the grounds of the [[Grumluda]] [[Embassies (Shuttered)|embassy]] since the unfortunate incident of Doge Montisse and the twenty-six shaven cave bears, one can find the Creche of a Million Young. Almost completely obscured from sight by criss-crossing walkways, the only entrance is a former upper window that is now sunk deem in the mud and that leads down into the halls of this temple.
@@ -24,9 +23,9 @@ The new High Priest claims to be [[Dormond]] of the Crooked Oak (04.31) but, as 
 Whoever the High Priest is, he has certainly been active. The Creche now throngs with worshipers, so many that the press of their numbers occasionally knocks one of them into the pit and, while the Creche of a Million Young looks as dingy as ever, its worshipers have established a strong presence in the Undercity. Many still mock the Creche of a Million Young as the "bug pit" but they now make sure to do so quietly or they could end up like [[Armond Sauvaughn]], a proud man who mocked the "bug eaters" but who now refuses to leave the well-netted gondola of his balloon for wherever he goes his very presence draws thousands upon thousands of insects that crawl over his skin with no regard for their own safety.
 
 To his most dedicated followers, the High Priest speaks of the final researches of [[Severard]] of the Seven Circles ([[13.08]]) and how his final and greatest work was never completed...
-===Connection:===
+### Connection:
 *Lady Alevari bought some hungry silkworms from the Crech (29.14.37).
-====Hooks:====
+#### Hooks:
 *Shaved cave bears? What?
 *Just what were Severard's final researches? What is the High Priest of the Creche of a Million Young planning to do?
 *Who is the High Priest anyway? Dormond? Ogwyn? Severard's lich? Someone else?

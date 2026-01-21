@@ -10,8 +10,7 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-
-==The Dreamsong==
+## The Dreamsong
 [[File:SL_17.png|thumb|359px]]Connects to: 02.07, 18.10.01, 24.07 and 39.23.01.
 
 The [[whales]] of the [[Ocean of Bitter Regrets]] sing and the song must never cease or the Dreamsong itself will fail. Before the world was made there was the Dreamsong of the Great Dreamer and now only the songs of the whales sustain it and within the Dreamsong the leviathans learn great secrets before their mothers bring them into this world.
@@ -21,10 +20,10 @@ Human [[dreams]] are feeble things but sometimes even they can touch the Dreamso
 Few men know this but the [[druids]] of the Bitter Coast do and their great redwood didgeridoos ([[02.07]]) can call the leviathans up from the depths so that the druids can hear the Dreamsong with their own ears.
 
 The [[elves]] have a keen interest in the Dreamsong ([[24.07]]) although they cannot sleep themselves.
-===Connections:===
+### Connections:
 *The agonized cries of a white whale trapped in the Sunless Sea ([[18.10]].01) have tarnished the Dreamsong, sending nightmares to the people of these lands.
 *A human poet seems to have stumbled across a meter that can bridge the gap between the waking world and that of dreams ([[39.23]].01).
-===Hooks:===
+### Hooks:
 *Where have the druids set up their didgeridoos? What is their goal? Jungian collective unconscious hacking?
 *What do the whales learn before they are born?
 *What would happen if the whales sang no more and the Dreamsong failed? Who is trying to make this happen?

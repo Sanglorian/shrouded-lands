@@ -8,8 +8,7 @@ categories:
   - "Category:Nations"
 media: []
 ---
-
-Little is known of '''Adherion, '''except that
+Little is known of **Adherion, **except that
 *The Spear-in-the-Stone of Adherion was one of the old [[Seven Wonders of the World]]
 *The lady of Blackhorn Keep ([[30.03]]) was originally a lady of "far" Adherion.
 [[Category:Nations]]

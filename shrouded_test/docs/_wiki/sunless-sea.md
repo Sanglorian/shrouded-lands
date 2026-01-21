@@ -9,9 +9,8 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-
 [[File:NCWyeth19.png|thumb|400px|http://commons.wikimedia.org/wiki/File:NC_Wyeth_the_Indian_in_His_Solitude_2.png]]
-==Down to a Sunless Sea ==
+## Down to a Sunless Sea
 Connects to: 00.06.01, 01.10, 02.06, 07.08, 13.09, 18.07.01, 20.03 and 29.14.36.
 
 The water of the [[Brindlebrook Swamp]] filters down deep into the earth, filling a series of great dark caverns known as the Sunless Sea. How far they extend and where they end no man can say, but many strange sights can be found within these drowned caves.
@@ -20,7 +19,7 @@ What is known is that when you travel through the deep and hidden passages benea
 
 One enormous cavern of the Sea is filled by a white whale ([[01.10]]), larger than any found in the Ocean. The whale—trapped long ago by its extraordinary growth—is now motionless, its calloused back dry except when a chance tide splashes it.
 The whale sings, and its moans echo around the Sunless Sea like a grating dirge. The agony of this mighty beast also tarnishes the [[Dreamsong]], sending nightmares across the Shrouded Lands.
-===Connections:===
+### Connections:
 *A tunnel connects the Sunless Sea and the womb of the Moon Child ([[18.07]].01) that allows elementals to emerge into the world.[[File:181001.jpg|thumb|398px]]
 *Various [[merlinburrows]] connect the upper world with the Sunless Sea ([[18.10]].01).
 This location is mentioned in a strange journal which discusses why it rains but once a year ([[29.14]].36).
@@ -28,7 +27,7 @@ This location is mentioned in a strange journal which discusses why it rains but
 *[[Giant blind salamanders]] live down there ([[02.06]]).
 *Subterranean bees fly down here to feed on the lilies that grow by fungus light ([[13.09]]).
 
-===Hooks:===
+### Hooks:
 *Is this whale [[Old Leviathan]]?
 *What effect does this whale have on the Dreamsong?
 *What are the properties of the salt of the Sunless Sea?

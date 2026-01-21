@@ -10,9 +10,8 @@ categories:
   - "Category:Whales"
 media: []
 ---
-
-: '''Leviathans''' redirects here. For the leviathans of the earth, see [[46.09]].
-Also called '''leviathans'''.
+: **Leviathans** redirects here. For the leviathans of the earth, see [[46.09]].
+Also called **leviathans**.
 
 * [[Old Leviathan]] is a figure in the faith of the [[King in Splendour]].
 

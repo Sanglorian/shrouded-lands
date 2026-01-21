@@ -12,10 +12,9 @@ categories:
   - "Category:Thieves"
 media: []
 ---
-
 : Not be be confused with [[Lord Kardash]], a Sanguine Lord. 
 
-The '''Thief-Lord''', the lord of the Fourth Castle. See [[18.11]] for more.
+The **Thief-Lord**, the lord of the Fourth Castle. See [[18.11]] for more.
 [[Category:Lords of Thring]]
 [[Category:Thieves]]
 [[Category:Jahuri]]

@@ -9,10 +9,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 :See also [[Mud Tongue and High Tongue]]
 Spoken in the lower levels of [[Shuttered]]; the [[wild men]] speak a particularly degenerate dialect.
 
-Outside of Shuttered, it is known as the '''Common Tongue'''. It is spoken by [[the Spawn]]. 
+Outside of Shuttered, it is known as the **Common Tongue**. It is spoken by [[the Spawn]]. 
 [[Category:Languages]]
 [[Category:The Shuttered City]]

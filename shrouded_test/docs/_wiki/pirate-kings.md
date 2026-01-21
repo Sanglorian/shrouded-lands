@@ -12,7 +12,6 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-
 [[File:I0081.jpg|thumb|400px|http://www.gutenberg.org/files/37995/37995-h/37995-h.htm]]On the shores of the [[Ocean of Bitter Regrets]] are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([[00.02]]. Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.
 
 Periodically, floating cloud fortresses break from the mist of the mountains and head southward. The sight of one of these crimson Thunderheads elicits panic from any seagoing vessel that spots one. The cloud fortresses sink down and simply scoop up entire frigates. The ships are then dismantled by [[ogres]], valuables and slave-worthy men captured, and everything not taken is rained back down.
@@ -22,22 +21,22 @@ From time to time a Pirate Thunderhead will raid a coastal village or even an ov
 The treasure hordes of the five Pirate Kingdoms are known to be vast beyond belief, and there are always would-be treasure seekers plotting to steal their share. These plots rarely go past the stage of wistful dreaming, because really...? Who's crazy enough to anger an entire clan of giants?
 
 In the distant past, trade and diplomatic missions have been attempted, but the giants simply take what they want and crush the envoys. To the Pirate Kings, men are insects, not worth talking to and barely worth enslaving. They do make trade with the civilization of [[dragons]] that roost far beyond World's Edge, as well as [[elementals|elemental envoys]], and even [[deities|gods]] - but such things are practically unknown in the mortal world.
-==Pirate Kings==
+## Pirate Kings
 *[[The King of Salt and Brine]], a great wereshark.
 *Udenyr, the king of [[Skullreach]].
-==Features of the Pirate Kings==
+## Features of the Pirate Kings
 *[[Skullreach]] is the most dreaded Thunderhead.
 
-===Subhexes:===
+### Subhexes:
 *00.02.01 (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
 *00.02.02 (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
 *00.02.03 (The Traveller’s Journal): tells of a journey through this hex.
-===Connections:===
+### Connections:
 *A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants (01.04).
 *One of the Pirate Kings attempted to raid the nests of the Kagu (04.00) and instead lost his castle.
 *The stone giants claim that the pirate kings once looted tw[[File:Sea_tsar_by_Sergey_Malyutin.jpg|thumb|left|400px|Sergey Malyutin]]o great rubies from the Long Table (06.03).
 
-==The Traveller’s Journal==
+## The Traveller’s Journal
 Hex 00.02.03
 
 Connects to: 25.04.02 and 39.23.01.
@@ -61,10 +60,10 @@ The cutting away of the mountain had left a network of caves exposed to the elem
 She looked like a woman, though she was a child's size. She called in a strange, squawking tongue and a flock of birds of many kinds appeared at the cave face. They swooped and pecked me and I ran from the cave.
 
 Tomorrow I shall try to reach the summit of the mountain.
-===Hook:===
+### Hook:
 *Who is the narrator of this piece?
 
-===The Stormhead===
+### The Stormhead
 Why do the Pirate Kings so restlessly patrol the [[Ocean of Bitter Regrets]]? By now, their coffers must overflow with spices, gemstones and all other riches of the world. Indeed, the Pirate Kings have been seen to jettison treasures just minutes after looting them.
 
 While it is true that the Pirate Kings are madly covetous, their raiding serves another purpose. Each cloud giant searches for their ‘spark’, something that reveals to them the tremendous beauty of the world. One King wept over an altar of the [[Green Lady]], another sniffed deeply from a bottle of [[Naros]]i perfume resting on the tip of his finger.
@@ -72,7 +71,7 @@ While it is true that the Pirate Kings are madly covetous, their raiding serves 
 When a cloud giant is ignited in this way, he or she must craft a wooden ship and sail or row it to the Stormhead ([[01.04]]), a perpetual storm that rages at the edge of the Ocean of Bitter Regrets. As soon as he or she casts the spark into the sea, he or she is struck by a single bolt of lightning that transforms the cloud giant into a storm giant.
 
 The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [[King of Salt and Brine]]—before his infection—swam straight back to the Shrouded Lands (00.06).
-===Hooks===
+### Hooks
 *Is there anything within the Stormhead? What causes it?
 *What causes the perpetual storm?
 *What were the sparks for other storm giants?

@@ -10,9 +10,8 @@ categories:
   - "Category:Wizards"
 media: []
 ---
-
-'''Severard of the Seven Circles''', also known as '''Severard of the Seven Chins''', is a wizard of the Shrouded Lands believed killed by a giant spider.
-===Severard's Town===
+**Severard of the Seven Circles**, also known as **Severard of the Seven Chins**, is a wizard of the Shrouded Lands believed killed by a giant spider.
+### Severard's Town
 Severard's Town is the name for the village that grew up around the tower occupied by Severard and his apprentices ([[13.08]]). As extracted from that hex entry:
 
 :He protected the village and set about improving the lives of the villagers through the rational application of magic. Some of the locals chafed at his demands that they do all things “rationally” but most considered it a small price to pay for his aid and protection.
@@ -21,9 +20,9 @@ Severard's Town is the name for the village that grew up around the tower occupi
 
 :He was wrapping up his experiments on spider growth and preparing to move on to chickens and other delicious animals when, in a moment of carelessness, he was poisoned and killed by his prize spider specimen.
 
-===Features===
+### Features
 *[[Severard's Spellbook]]
-===Connections===
+### Connections
 *He is survived by his experimental giant bee colony ([[10.10]])
 *One of Seveard’s apprentices was [[Barnabus Bludenose]] ([[18.10]]).
 *The new High Priest of the [[Creche of a Million Young]] claims to be carrying on Severard’s legacy.
@@ -31,7 +30,7 @@ Severard's Town is the name for the village that grew up around the tower occupi
 *The [[Perytons|Peryton]] ([[11.15]]) is said to speak with Severard’s voice.
 *[[Alceron]], another of Severard’s apprentices is the windseer of Winds ([[23.11]]).
 *One of Severard’s old enemies was [[Yaegha]] Six-Kidneys (25.18).
-===Hooks===
+### Hooks
 *It is rumored that Severard is not dead but is traveling the planes (29.14.26).
 *Severard’s magical signature can be found on the [[Cauldron of Galovain]] ([[48.32]].01).
 *It seems that reports of Severard’s death may have been somewhat exaggerated ([[13.09]]).

@@ -14,10 +14,9 @@ categories:
   - "Category:The Devil's Fingers"
 media: []
 ---
-
 [[File:Edward_Julius_Detmold50.jpg|thumb|332px|Edward Julius Detmold]]
-==The Man Whose Shadow is a Tiger==
-'''Inspiration:''' ''The Book of Tigers,'' Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/11/inventing-tiger.html
+## The Man Whose Shadow is a Tiger
+**Inspiration:** *The Book of Tigers,* Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/11/inventing-tiger.html
 
 A few hunters make names for themselves by hunting big game beyond the World’s Edge. Though [[giant serpents]], [[hearth beasts]] and [[displacer leopards]] are fearsome foes, the most respected quarry is the King of Cats, the tiger.
 
@@ -33,7 +32,7 @@ The shadow leaves footprints on the world. After a hunter kills a tiger, he migh
 
 A man, haggard and worn, arrived at the [[Gushing Ruby]] last night. He has a tiger skin - yet to be cured - rolled up beside him. He casts no shadow.[[File:Brooklyn_Museum_-_Tiger_-_Franz_Marc.jpg|thumb|258px|Franz Marc]]
 
-===Hooks===
+### Hooks
 *What happens if a hunter successfully slays his or her shadow?
 *What if someone else slays the shadow?
 *Do Gorean Greys have a death curse?

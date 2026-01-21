@@ -11,10 +11,9 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
 [[The Burning Lands]] are still called Bergolast to this day.
 
-==The Doom That Was in Bergolast==
+## The Doom That Was in Bergolast
 [[File:3828.png|thumb|313px]]Hex 38.28
 
 Connects to: 02.22, 05.20, 15.01, 29.14.18, 29.14.24, 29.14.36, 30.15, 31.27, 32.32, 37.01.01, 39.31, 40.20, 43.03, 45.24, 48.24, 51.12, 51.29, the World’s Edge and the City of Shuttered Windows.
@@ -28,7 +27,7 @@ The wounds of centuries healed in moments and it gleefully ravaged the great cit
 The men of the City of Shuttered Windows and the dwarves of the north came to Bergolast to loot its treasures (31.27) and claim the shattered links of adamantium that had bound it. Strangely, little gold and only a few links of the adamantine chains were ever claimed and many (51.29) claim that much of the wealth of Bergolast remains there still, hidden away by the last sorceries of its people.
 
 Today the remnants of the Bergolasti people are the trolls of the Shrouded Lands. Centuries of feasting on Tarrasque flesh has left a mark on them that can never be erased and they are foul to behold but regenerate from wounds just as the Tarrasque does. They are an ignorant folk and have forgotten most of their heritage, but some (15.01) remember enough to reenact the old Bergolasti rites in their own crude way.
-===Connections:===
+### Connections:
 *While it thrived, Bergolast lay amidst the Land of Verdant Snow, but only a fragment of the old climate remains (39.31).
 *The old Kings of Gore once drank the blood of the Tarrasque before their fall.
 *A certain troll (15.01) still carries out a version of the old rituals of Bergolast but they have been corrupted and debased by years that have passed since the fall of Bergolast.
@@ -39,7 +38,7 @@ Today the remnants of the Bergolasti people are the trolls of the Shrouded Lands
 *A strangely-erudite troll who goes by the name of Master Var claims to have seen the fall of Bergolast with his own eyes (43.03).
 *The Scroll of Seven Shadows tells of the founding of Bergolast and how the tarrasque was bound (29.14.24).
 *Some say that the fall of Bergolast is responsible for the fact that in these lands it rains but once a year (29.14.36).
-===Hooks:===
+### Hooks:
 *How did the people of Bergolast catch the Tarrasque to begin with?
 *Aside from eating it, what else did they use their endless supply of regenerating Tarrasque for?
 *Eating of the Tarrasque turned the people of Bergolast into trolls. What were they originally?

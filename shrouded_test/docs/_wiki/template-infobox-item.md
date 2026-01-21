@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -29,23 +28,23 @@ media: []
 
 |-
 ! Type
-| {{{type|''Unknown''}}}
+| {{{type|*Unknown*}}}
 
 |-
 ! Effects
-| {{{effects|''Unknown''}}}
+| {{{effects|*Unknown*}}}
 
 |-
 ! Source
-| {{{source|''Unknown''}}}
+| {{{source|*Unknown*}}}
 
 |-
 ! Cost to buy
-| {{{buy|''Unknown''}}}
+| {{{buy|*Unknown*}}}
 
 |-
 ! Cost to sell
-| {{{sell|''Unknown''}}}
+| {{{sell|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

@@ -10,9 +10,8 @@ categories:
   - "Category:Planes"
 media: []
 ---
-
-Also known as the '''Fey-Realm'''.
-==Features==
+Also known as the **Fey-Realm**.
+## Features
 *There are paths in the Kingswood that lead through the Land of Fairy; the [[Bound Bargainers]] dwell in these passages and truck with fey.
 *[[Fey]] live here
 *The Orphans' Road might be one of the paths that pass through the Fey-Realm

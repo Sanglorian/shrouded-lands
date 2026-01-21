@@ -9,10 +9,9 @@ categories:
   - "Category:Verlimes"
 media: []
 ---
-
 A family
 
-==The Good Wife==
+## The Good Wife
 The faithful of the [[King in Splendour]] came into the Shrouded Lands from all sides, and had much success against the creatures of the night. Foremost among them was [[Tunath]], who had as her weapon a meteoric sword - like the [[Last Light]]. When she drew it, they were blinded, and when she swung it they were deafened, and when it touched their skin, they died.
 
 Among those impressed by Tunath's mission in those days was the Lord of the Verlimes, [[Cosimo Verlime|Cosimo]], who was troubled by raucous [[werewolves]] who ate his flocks of sheep and chased his servants through the fields if they dared stray after dark.
@@ -45,7 +44,7 @@ Not a drop of blood was spilled, but her sisters convinced Cosimo to give up the
 
 And when Tunath next showed her face in the area, her sword had been melted down to make [[Teodo]], and she was sent packing with the flat of a sword not made from meteoric iron, but from good old orcish steel.
 
-===Hooks===
+### Hooks
 *What caused the fall of Zhuriman?
 *Where else did refugees of its fall travel to?
 *What happened to the child of the lion priestess?

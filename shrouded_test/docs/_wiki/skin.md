@@ -8,9 +8,7 @@ categories:
   - "Category:Body parts"
 media: []
 ---
-
-==Colour==
-
+## Colour
 *[[Seline and Eliana|Seline]] has very pale skin; [[Seline and Eliana|Eliana]] has golden skin despite her indoors lifestyle.
 
 *The bartenders of [[The Giant and the Gnome]] all have dark blue skin and claim to share a common ancestor.
@@ -19,7 +17,6 @@ media: []
 
 *[[Silverlings]] can have their skin stained silver.
 
-==Uses==
-
-*[[Sack-children]] 
+## Uses
+*[[Sack-children]] 
 [[Category:Body parts]]

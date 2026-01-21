@@ -9,11 +9,10 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
-
 The [[darkness behind the moon]] is the indirect source of [[kobolds]]. The [[darkness behind the stars]] is the source of the meteors that [[Lord Ward]] watches for (see [[22.10]] for more).
-==Dwarven==
+## Dwarven
 [[File:Ett_gammalt_bergtroll.jpg|thumb|400px|A dwarf.]]The dwarves know there are many darknesses. There is the Clinging Dark, the muffling and oppressive darkness that closes in on the lonely and the lost. There is the Dreaming Dark that turns up strange flashes and patterns that quicken the imagination. There is the Gigantic Dark, which echoes and expands, leaving the mind reeling from the vastness of creation.
-===Connections===
+### Connections
 *The Haunting Dark was summoned to Station Seven ([[16.01]]) by the curse of a dying dwarf, and it cannot be satiated.
 [[Category:Phenomena]]
 [[Category:Deities]]

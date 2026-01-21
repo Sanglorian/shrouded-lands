@@ -9,7 +9,6 @@ categories:
   - "Category:Undead"
 media: []
 ---
-
 According to the [[White Road]] entry, all ghosts have a mystery associated with them. Undeath is a state brought on by anonymity, and so if every detail was known about a ghost they could be talked back into their grave by anyone who knew it. 
 
 *[[Drow-ghosts]] communicate with the [[Princess of the Seers]].
@@ -26,7 +25,7 @@ According to the [[White Road]] entry, all ghosts have a mystery associated with
 *[[Boraz]] is a goblin ghost (also described as a spirit) that inhabits a dead tree and attacks (through direct possession, having tree branches fall on their heads, etc.) those who come without offerings of acorns. 
 *The ghost of [[Simone the Foul]] can apparently still be heard crowing insanely in the foothills of the Barrier Range, where he fled to after killing [[Simone the Fowl]]. 
 *Because a [[Hell-born spirit]] evicted the souls of rulers of Castle Targengael from the [[Mirror Throne]], they wandered aimlessly and most came to rest in a thick scrub overlooking the castle ([[17.15]]). [[Bugbears]] delight in chasing the ducal ghosts. One ghost whispers advice and comforting words in the ears of the captured children of the Sack Man. He wants to bewitch a [[bogswines|bogswine]] and make it 'poison' the bugbears.
-==Connections==
+## Connections
 *The [[devouring art]] is often performed on [[ghost apes]].
 *'Ghostly' writhing arms and snapping jaws surround the [[Great Mother]] after she performed the devouring art on many [[Mothers]] of the gnolls.
 *Zealots in the Zealots' Tower ([[07.33]]) burn [[ghost buffalo]] dung through the long desert nights.

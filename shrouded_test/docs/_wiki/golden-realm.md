@@ -12,11 +12,9 @@ categories:
   - "Category:Unseelie elves"
 media: []
 ---
-
 The people of the Golden Realm, as do many in the south, have dark skin. It is one of the [[Twelve Nations]].
 
-==Connections==
-
+## Connections
 *[[Cataphracts]] are elite troops of the Golden Realm.
 
 *The lady of Adherion said that her slippers were made of silk from the Golden Realm ([[30.03]])

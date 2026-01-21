@@ -9,7 +9,6 @@ categories:
   - "Category:The Grey Mountains"
 media: []
 ---
-
 The strigoi are a pale-skinned people who ride giant owls through the Grey Mountains. Thy are both respected and feared by the villagers, and wage war with the nordanbjorn (14.00)—a conflict that allegedly has continued for centuries, but which has escalated recently.
 
 The strigoi are considered bad omens, for it is said that their presence in a village presages a death. The strigoi claim that these are mere coincidences, but their private mythology suggests otherwise.
@@ -18,11 +17,11 @@ The strigoi claim that their ancestors were shades who escaped the land of the d
 
 When one of their own number dies before his or her time, the strigoi ‘go a-striga’—they fly through the night screaming horribly in the hope that the scream will be heard in the land of the dead and the shade will be reminded to scheme to escape as the strigoi’s ancestors did.
 
-==Connection==
+## Connection
 *Some brave strigoi occasionally raid Greymere Vale for wine, braving numerous lightning bolts in order to do so ([[20.00]]).
 *They gather once a year at a copse of white-barked elms ([[09.00]]).
 
-==Hooks==
+## Hooks
 *Why do the nordanbjorn loathe the strigoi?
 *Did they truly escape the land of the dead? Could anyone else escape? What is that land like?
 *Why were there giant owls in the land of the dead?

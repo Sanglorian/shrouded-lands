@@ -11,9 +11,8 @@ categories:
   - "Category:Viceroys"
 media: []
 ---
-
 [[File:ReneBull.png|thumb|400px|Viceroy Orhan, Rene Bull]]
-==Viceroy Orhan's Madness==
+## Viceroy Orhan's Madness
 Connects to: 17.11 and 19.31.05.
 
 [[Jahur]] has been on edge since Viceroy Orhan,
@@ -42,14 +41,14 @@ memories, mannerisms and identity. The golem is
 lurking in one of Jahur's abandoned palaces,
 plotting its next move. Orhan's amnesia will
 persist until the golem is slain.[[File:Jahur2.jpg|thumb]]
-===Connections===
+### Connections
 *Orhan was chosen as treasurer because of his skill at alchemy. He was knowledgable of much else besides, for example he grew his own wives in vats (19.31.05). If is only because of one of these wives that he is still alive today.
-===Hooks===
+### Hooks
 *Who created the wax golem? Was it a rival Viceroy, or a foreign threat?
 *How do you create a wax golem that can steal an identity?
 *Are any leaders in the Shrouded Lands actually wax golems?
 
-==The Wives of Viceroy Orhan==
+## The Wives of Viceroy Orhan
 [[File:Jahur6.png|thumb]]Connections: 19.31.01, 37.07 and 40.06.03.
 
 It is easy to see why the Viceroys made Orhan
@@ -84,9 +83,9 @@ dungeon and, while he has forgotten much, he
 has not forgotten Ronais and constantly rants
 and beats his fists screaming that he must be let
 out to build her a new body before it is too late.
-===Connection:===
+### Connection:
 *The Lady grew similar people in vats ([[37.07]]). Maybe that‘s why she kept the gnolls around in her tower...
-===Hooks:===
+### Hooks:
 *What material components are needed to turn lead into gold? Why other alchemy does (did?) Orhan know?
 *How did Orhan build his own palace?
 *What duties do Jahuri men owe their father in-laws?

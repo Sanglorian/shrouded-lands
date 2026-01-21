@@ -8,9 +8,8 @@ categories:
   []
 media: []
 ---
-
-==Notable Regions==
-'''The Kingswood:''' A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor.
+## Notable Regions
+**The Kingswood:** A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor.
 
 The City of Shuttered Windows: Largest city in the Lands, ancient and labyrinthine. It is very slowly sinking into the ground and is strongly religious. Feels like Vornheim crossed with Venice.
 
@@ -45,7 +44,7 @@ The Hills of Gore: Region ruled by the Lords Sanguine, former butchers who overt
 The Cornfields: Fields inhabited by tooth-stealing corn farmers, mostly undescribed.
 
 The Devil's Fingers: Mountains (?) with a ruined city and a tribe of cave-dwelling gnomes, mostly undescribed.
-==Races==
+## Races
 Where unspecified, assume similarity to D&D norms.
 
 Gnolls: Gnolls are relatively civilised. A gnoll could be a PC. They have their own city, a matriarchal society, a college for bards. Still pretty violent and barbaric though. They dwell primarily in the Burning Lands.
@@ -62,8 +61,7 @@ Elves: Are pre-Tolkien - fey, mysterious and capricious. An Elf could probably n
 
 Gnomes: (Sometimes) live inside the walls of giants' castles.
 
-==Gods and Godesses==
-
+## Gods and Godesses
 Alberon: God of the City of Shuttered Windows. Whether he has any other portfolio beside this city is unclear. Spurned the godesses She Who Waits and the Green Lady, slew the goddess Tiamat, fought a war with the goddess Chimalia. He apparently does not get on well with goddesses. Cults: The Temple Indivisible and the Temple Invisible.
 
 She Who Waits: A nameless cthonic goddess spurned by Alberon. She is possibly the cause of the Shuttered City sinking into the ground. Each night she tries to trap the sun god, the King in Splendor, in her dark realm. Cult: The Whispering Sisterhood.
@@ -74,7 +72,7 @@ Tiamat: Dragon-goddess who was killed by the god Alberon. She still has a small 
 
 Chimalia: Goddess of chimerical (half-and-half) monsters, particularly minotaurs. This is the sister and daughter of Tiamat. Her symbol is a labyrinth.
 
-==Famous Figures==
+## Famous Figures
 The Tarrasque: The Tarrasque used to be chained up in the city of Bergolast, where the citizens drank its blood to gain immortality. That turned them into trolls. Since then the Tarrasque has escaped. It doesn't ravage the land unless you make it angry. In Thring it is called the Questing Beast and they hunt it, but never manage to kill it.
 
 Severard of the Seven Chins: Highly powerful wizard who was apparently something of a dick, though not outright evil. He is now presumed to be dead.

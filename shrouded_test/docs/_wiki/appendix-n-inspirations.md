@@ -8,10 +8,9 @@ categories:
   []
 media: []
 ---
-
-==Games==
+## Games
 Dwarf Fortress
-==Books==
+## Books
 Le Guin, Ursula - Gifts
 
 <p style="margin-bottom:0in">Thurbur, James - The Thirteen Clocks</p>
@@ -26,7 +25,7 @@ Le Guin, Ursula - Gifts
 
 <p style="margin-bottom:0in">Smith, Clarke Ashton</p>
 
-==Blogs==
+## Blogs
 <p style="margin-bottom:0in">Playing D&D with Pornstars</p>
 
 <p style="margin-bottom:0in">Rolang's Creeping Doom</p>

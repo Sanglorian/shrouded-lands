@@ -9,8 +9,7 @@ categories:
   - "Category:Giants"
 media: []
 ---
-
-The stone giants razed their monuments and buildings, but kept '''The Sunken Cathedral of Master Memin '''([[13.20]]), perhaps because it was protected by Master Memin or because it was carved into the stone rather than built up with stone blocks. 
+The stone giants razed their monuments and buildings, but kept **The Sunken Cathedral of Master Memin **([[13.20]]), perhaps because it was protected by Master Memin or because it was carved into the stone rather than built up with stone blocks. 
 
 Stone giants developed the [[Stern Way]].
 [[Category:Creatures]]

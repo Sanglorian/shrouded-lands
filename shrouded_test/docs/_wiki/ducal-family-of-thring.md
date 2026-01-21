@@ -10,8 +10,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
-==Members==
+## Members
 *[[Duke Ulthar]] the Loved, founder of the [[Duchy of Thring]]
 *[[Broderick]], son of Duke Ulthar
 *[[Duke Theloc]] or Deloc, the fourth Duke

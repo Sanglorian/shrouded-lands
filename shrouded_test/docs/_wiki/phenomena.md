@@ -8,10 +8,9 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
-
-==Astronomy==
+## Astronomy
 In the dead of winter the sun grows dims and finally fades from the sky, leaving the world blanketed in darkness for the week of [[The Long Night]] (which is celebrated joyously in [[The Lands of the Night Cattle]], see [[27.03]]) while in midsummer the sun shines so brightly that the horizon is rimmed with rose even at midnight ([[The Lion's Day]]).
-====Hooks:====
+#### Hooks:
 *The planet has no axial tilt, but instead the sun gets brighter in summer and dimmer in winter. What does this process look like? Does the sun change size? Color? Have shadows run across it? What? What causes this?
 *Any interesting Long Night traditions, rituals or practices?
 [[Category:Phenomena]]

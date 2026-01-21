@@ -9,7 +9,6 @@ categories:
   - "Category:The Kingswood"
 media: []
 ---
-
 [[File:Chetwood.jpg|thumb|400px|'Chetwood in the Bree-Land', Neral (CC BY 3.0 Unported)]]Includes hexes: [[22.04]], [[22.06]], [[23.08]], [[23.10]], [[24.05]], [[24.07]], [[25.04]], [[25.07]], [[27.03]], [[27.09]], [[28.07]], [[29.07]], [[29.10]], [[31.07]], [[32.05]], [[33.04]], [[33.08]], [[34.04]], [[34.05]], [[34.10]], [[35.04]], [[35.06]], [[36.04]], [[36.09]], [[37.06]], [[37.07]], [[38.05]], [[38.06]], [[39.08]], [[39.09]], [[40.06]], [[40.09]] and [[41.09]].
 
 Connects to: 08.16, 18.06, 18.07.01, 30.12.01 50.11.
@@ -19,7 +18,7 @@ Ancient beyond the reckoning of any of the lesser-lived peoples, the court of th
 The [[elves]] of Kingswood kill anyone found within or near their lands during the daylight hours. They cannot be swayed into allowing human traffic through their forest, citing the terms of an ancient covenant with a long forgotten Prince of Men ([[29.07]].03).
 
 Those who dare to walk beneath the trees of the wild wood long enough to see the light of the sun filter through the leaves can see much wonder and terror that the elves would prefer to keep away from mortal eyes.[[File:2010-1-meeting-under-the-tree.jpg|thumb|400px|David Revoy/Blender Foundation (CC BY 3.0 Unported)]]
-==Hex Summary:==
+## Hex Summary:
 *22.04 (The Door at Dun's End): an attempt to open a dimensional door into the elven Holt lead to a door that leads elsewhere.
 *22.06 (The Western Edge of the Kingswood): it is not wise for outsiders to walk beneath the trees when the sun is in the sky.
 *23.08 (The Gloompatch): in this dark patch of woods the local spiders are considerate enough to draw up the horoscopes of outsides.
@@ -53,14 +52,14 @@ Those who dare to walk beneath the trees of the wild wood long enough to see the
 *40.06 (The Broken Spear): a tower of strange and twisted metal that, if stories can believe, was once wielded by a god to slay dread Tiamat herself.
 *40.09 (The Frogs of the Witchwater): a few still retain the human speech of their ancestor.
 *41.09 (The Grandmother of the Ford): a crone that asks travellers to take her across the ford on her back could not possibly be a trap, could she?
-===Connections:===
+### Connections:
 *The people of the village of Aggoth (18.06) perform rituals that they believe placate the fey of the wood.
 *Elves are skilled at summoning elementals, what have they learned from the Moon Child (18.07.01)?
 *There are hideouts of the Scarecrows (08.16) hidden within the Kingswood and barred against the elves with rods of hawthorn.
 *The orcish slaver known as Brigadier Kalas Montra-brey, the Elfcatcher is one of the view brave enough to raid the Kingswood when the sun is up (30.12.01).
 *A favorite subject of elven art is the bird of paradise, whose struts they often imitate in their dances (50.11).
-==Random Encounters==
-'''[[File:King1.png|thumb|400px]]Inspired by:''' ''Random Encounters in a Spooky Dark Forest'', Danny Peck, Secret Santicore 2011
+## Random Encounters
+**[[File:King1.png|thumb|400px]]Inspired by:** *Random Encounters in a Spooky Dark Forest*, Danny Peck, Secret Santicore 2011
 
 # Flowering vines whose scent causes a feeling of great happiness and wellbeing that makes it very difficult do anything violent (including defending oneself).
 # A tree bearing several hanged bodies on which mushrooms grow in great numbers. These same mushrooms are a popular ingredient Sundial Inn cooking and are not usually seen elsewhere.

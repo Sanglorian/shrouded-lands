@@ -11,8 +11,7 @@ categories:
   - "Category:Ninbolm"
 media: []
 ---
-
-==The Empty Drinkhall==
+## The Empty Drinkhall
 One of the decrees of the [[Hierophant of Ninbolm|Hierophant]] of [[Ninbolm]] is that residents shall not congregate where alcohol is served. To ease this ridiculous requirement, the [[Indigo Academy]] created the Empty Drinkhall, which is more of an experience than a location.
 
 Participants sup the purest springwater, but they believe themselves to be drinking alcohol. They make merry with other revellers (and sometimes convincing images summoned up by the [[illusionists]]) as they wander through the city.
@@ -21,7 +20,7 @@ One benefit of the experience is that the participant awakes the next day totall
 
 Illusionists treat the sophisticated phantasms that they apply as if they were cocktails, carefully blending different effects. Each one warns not to mix the ‘cocktail’ of one illusionist with that of another.
 
-===Hooks===
+### Hooks
 *What happens if you mix cocktails?
 *Why does the Indigo Academy do this?
 *Why did the Hierophant ban revelry?

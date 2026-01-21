@@ -10,7 +10,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 Includes hexes: [[26.13]], [[27.12]], [[28.11]], [[29.13]], [[29.14]], [[29.15]], [[30.12]], [[30.15]], [[31.15]], [[32.12]], [[33.16]], [[35.13]], [[36.11]], [[39.12]], [[39.14]], [[39.23]] and [[43.12]].
 
 Connects to: 00.09, 01.03, 15.00, 17.07.01, 19.31, 24.05, 26.20, 26.20.06, 26.33, 27.16, 33.00, 40.20, 44.03, 46.15, 48.13. 50.11 and 51.29.
@@ -18,7 +17,7 @@ Connects to: 00.09, 01.03, 15.00, 17.07.01, 19.31, 24.05, 26.20, 26.20.06, 26.33
 The greatest city of the Shrouded Lands is certainly the City of Shuttered Windows. Once, long ago, the windows of the city were flung open and led travellers to a thousand worlds. It has been centuries since they have been shuttered and many still lament the planes of beauty and terror that once lay just beyond the city’s windowsills, but much of the strangeness of those days can still be found in the city’s back alleys or sunk deep into the city’s muck.
 
 Although sadly reduced, the Shuttered City is still the greatest power in these Shrouded Lands and holds sway over the sodden northern coast of the Keening Sea and much of the trade that passes through these lands. The lands where men still pay the cattle tithe to the Doge of the City include the vast estates of the City’s nobility, villages that lie in the shadows of hills where the peasants look darkly at any outsider who passes through and the Falling Wall of the cyclops lords. Through it all winds the White Road, a highway paved with the ground bones of all within the City who are too poor to buy a tomb and watched over by the castrati of the Necromantic Office lest it rise.
-===Hex Summary:===
+### Hex Summary:
 *26.13 (The White Road, The Wailing Road): the bone dust that the White Road is paved of does not always rest quietly.
 *27.12 (The Mind Chambers of the Infidel): an ancient prison of nightmares from which kobolds once emerged.
 *28.11 (Goss Hall): Lord Goss is a famous hunting who does more with his prizes than just mount them on the wall.
@@ -34,7 +33,7 @@ Although sadly reduced, the Shuttered City is still the greatest power in these 
 *39.12 (The Lost Folio): the strange dungeon where the famed poet Trimueil lost his greatest manuscript.
 *39.14 (Veerhaven and Hostwick): two remote villages known for their elfskin drums and strange bloated radishes.
 *43.12 (The Falling Walls of Monatheron): the only cyclops city left in these lands.
-===Connections:===
+### Connections:
 *One of the Heget's healthier sons looks eerily similar to old paintings of the Doge of the City (46.15).
 *The People of the Claw (48.13) are the descendants of colonists from the Shuttered. If the priests of the City took notice of them they would be most displeased with their innovative and crayfish-ridden theology.
 *A narcotic known as bucket kelp has begun to catch on in the fashionable salons of the City (26.33).

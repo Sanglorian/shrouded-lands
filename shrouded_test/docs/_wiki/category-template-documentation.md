@@ -8,7 +8,6 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
-This category should contain all '''template documentation pages'''. See [[Template:Documentation]] for more details.
+This category should contain all **template documentation pages**. See [[Template:Documentation]] for more details.
 
 [[Category:Templates| Documentation]]

@@ -9,10 +9,9 @@ categories:
   - "Category:Deities"
 media: []
 ---
-
-Also known as the '''Lord of Pain'''.
+Also known as the **Lord of Pain**.
 [[File:8775854218_c0815c0cb4_b.jpg|thumb|400px|Alberon strikes off one of Tiamat's heads.]]
-==Features==
+## Features
 *The [[Hundred Heresies]] are dictated by the [[Temple Indivisible]]
 *The [[Temple Invisible]] no longer follow Alberon
 *The [[Temple Indivisible]] is the main church of Alberon
@@ -21,7 +20,7 @@ Also known as the '''Lord of Pain'''.
 *The [[Time of Schisms]] was a period where the priests of Alberon divided and then united
 *Alberon appears in one of [[eleven recognised forms]]
 
-==Places of worship==
+## Places of worship
 *The Farthest Hermitage ([[15.00]]) is the most distant outpost of Alberon's worshippers
 [[Category:Deities]]
 [[Category:Alberon]]

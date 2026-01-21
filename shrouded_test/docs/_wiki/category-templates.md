@@ -8,8 +8,7 @@ categories:
   - "Category:Organization"
 media: []
 ---
-
-This is the base category for '''templates'''. Templates should be placed in appropriate subcategories.
+This is the base category for **templates**. Templates should be placed in appropriate subcategories.
 
 See [[Project:Templates]] for collated information on templates.
 

@@ -8,18 +8,17 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 <h2>Hi there!</h2>
 [[Image:Example.jpg|thumb|Welcome!]]
-'''Welcome to our wiki, and thank you for your contributions! There's a lot to do around here, so I hope you'll stay with us and make many more improvements.'''
+**Welcome to our wiki, and thank you for your contributions! There's a lot to do around here, so I hope you'll stay with us and make many more improvements.**
 
-:'''[[Special:Recentchanges|Recent changes]]''' is a great first stop, because you can see what pages other people have been editing, and where you can help.
+:**[[Special:Recentchanges|Recent changes]]** is a great first stop, because you can see what pages other people have been editing, and where you can help.
 
-:'''Questions?'''  You can ask at the [[Forum:Help desk|Help desk]] or on the [[Help:Talk pages|"discussion" page]] associated with each article, or post a message on [[User talk:{{{1}}}|my talk page]]!
+:**Questions?**  You can ask at the [[Forum:Help desk|Help desk]] or on the [[Help:Talk pages|"discussion" page]] associated with each article, or post a message on [[User talk:{{{1}}}|my talk page]]!
 
-:'''Need more help?'''  The [[Project:Community Portal|Community Portal]] has an outline of the site and links to pages to help you learn how to edit.
+:**Need more help?**  The [[Project:Community Portal|Community Portal]] has an outline of the site and links to pages to help you learn how to edit.
 
-:'''Please [[Special:UserLogin|sign in]] every time you edit''', so that we can recognise an established user. 
+:**Please [[Special:UserLogin|sign in]] every time you edit**, so that we can recognise an established user. 
  
 I'm really happy to have you here, and look forward to working with you!
 

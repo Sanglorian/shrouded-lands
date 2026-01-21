@@ -9,11 +9,10 @@ categories:
   - "Category:Jahur"
 media: []
 ---
-
-==The Dead Fish==
+## The Dead Fish
 [[File:Jahur5.png|thumb]]Connects to: 15.07, 23.32, 50.03 and 50.20.
 
-The '''Wayfarer's Quiescent Repose''' (usually known as the Dead Fish after the enormous dried shark that hangs over the door) is a rough bar near the docks of [[Jahur]] that caters to local toughs, bloodstained travelers and members of the theater. There they guzzle down Thringish brandy of amazingly low quality, mutter quietly about the [[viceroys]] of the city, chew on [[bucket kelp]], eat steaming plates of entrails fried in the local style ([[15.07]]) and watch a never-ending series of bare-knuckle brawling matches set to accordion music.
+The **Wayfarer's Quiescent Repose** (usually known as the Dead Fish after the enormous dried shark that hangs over the door) is a rough bar near the docks of [[Jahur]] that caters to local toughs, bloodstained travelers and members of the theater. There they guzzle down Thringish brandy of amazingly low quality, mutter quietly about the [[viceroys]] of the city, chew on [[bucket kelp]], eat steaming plates of entrails fried in the local style ([[15.07]]) and watch a never-ending series of bare-knuckle brawling matches set to accordion music.
 
 Useful relationships can be struck up here but generally not those of an amorous nature as giving the locals the wrong looks can result in foreigners being volunteered for the next brawl (in which the patrons will helpfully throw mugs at the hapless fighter until they learn how to fight in time with the music).
 
@@ -21,9 +20,9 @@ The local authorities, both legal and otherwise have little love for the Dead Fi
 
 During nights of the new moon the bar grows even more rowdy than normal and octoid
 [[Lashers]] hidden beneath [[moon elephants|moon elephant leather]] slither across the damp and salty floor working their magic.
-===Connection:===
+### Connection:
 *The proprietor gained his signature smile during a disasterous expedition to the Bone Heap ([[50.03]]).
-===Hooks:===
+### Hooks:
 *Why is there a large dried shark hanging over the door?
 *Why do actors and actresses hang out here?
 *What‘s the Lonely Crag?

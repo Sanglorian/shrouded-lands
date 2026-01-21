@@ -10,12 +10,11 @@ categories:
   - "Category:Humans"
 media: []
 ---
-
 [[File:290703.png|thumb|398px]]Connects to: 19.31.03, 37.01 and 39.12.
 
 The [[elves]] of [[the Kingswood]] refuse to say much of
 him and some say they have forgotten nearly all,
-but the famed historian [[Sabrek of Ungolath]] 
+but the famed historian [[Sabrek of Ungolath]] 
 makes the following conjectures: long centuries
 past the Prince was the heir to the [[Imperium Undying]], which once lay across [[the Ocean of Bitter Regrets]] (00.06) and claimed imperium over
 all men. However, before he could he could
@@ -47,10 +46,10 @@ what is and what might be to the surface of the
 lake and that he will rise again one day with the
 Seal of the One King in his hand and bend all
 mankind to his will.
-===Connection:===
+### Connection:
 *A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([[39.12]]).
 *For hints about the ancient religion of the Prince of Men, see ([[19.31]].03).
-===Hooks:===
+### Hooks:
 *What did Sabrek get wrong?
 *Where is [[Ungolath]]?
 *What happened to the Imperium Undying?

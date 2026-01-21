@@ -10,14 +10,13 @@ categories:
   - "Category:Religious groups"
 media: []
 ---
-
 Also described as monks, clerics, cultists, brothers, sisters or nuns.
 
 Divine magic exists, but it seems that priests either do not have it by default or exercise it mostly through rituals and sacrifices. The term “cleric” might describe a priest with divine power.
 
 Religious terminology seems loose. The faiths of Alberon and the King in Splendour are also described as cults. The Temple Indivisible has a Great Temple and a Cathedral, as well as a bible. There are high priests for many faiths, representing a number of different positions.
 
-==Ranks==
+## Ranks
 *The Church of Alberon has a Matriarch.
 *The Temple Indivisible has high priests.
 *The Temple Invisible is led by the Unseen Hierophant.
@@ -28,7 +27,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *The Voice of the Claw is both priest and chief of the People of the Claw.
 *Magister is a position in the Thringish clergy - there is one for Castle Steadfast who made a ruling regarding the Laws of Thring.
 
-==Priesthoods==
+## Priesthoods
 *The [[Keepers of the Sacred Foot]], heterodox monks of Alberon, have an abbot. They were once led by the Archpoet when they were driven from the City in the Time of Schisms. They are brewers and goliards (part cleric, part jester).
 * The monastery of St Dulaine had an abbot ([[21.16]]). The theological texts from the monastery remain among the few scholarly works devoted to the Green Lady, although it is not clear if the monks worshipped her, or worshipped her exclusively.
 *The [[Last Prophet of Asrigh]] was a disgruntled bishop of Alberon who took up the worship of the imprisoned god Asrigh.
@@ -60,7 +59,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *Henry Yaboon is a priest without a god, as the legal inheritor of the lands and treasures of the Pacharia’s clergy.
 * The [[nuns of St. Birgit]] are nuns or sisters who live in an abbey, but are infected with lycanthropy.
 
-==Powers==
+## Powers
 *Priests of the Stern Way can learn the husbandry and nurture of hills and mountains. One rogue student can grow a hill in a day or open a gorge in an hour - but this strain the earth, increasing the chances of volcanoes and earthquakes.
 *Priest-kings of Othonoi exploited elemental leylines to create favorable winds and currents and fertile soil.
 *The priests of the Azru sometimes take an illness or injry of a worthy sufferer onto themselves. They bless children with the yellow flux.
@@ -81,7 +80,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *A thousand thousand orcish charms that have been scrawled across the outer walls of Hoth Achaar capture the magic of the Eye of Gruumsch.
 *The Disciples of Othonoi, apparently servants of the last priest-king, moved about the city with invisibility cloaks and began whispering spells into the ears of the sleeping masons and architects. Soon engravers feverishly covered the walls in runes by moonlight. They viciously assaulted any who attempted to restrain them. Paranoia, then chaos spread in the streets as citizens sought a source for the madness. It didn't last long. After the final rune was carved into the walls, a mighty earthquake rocked the city. Its gates were torn open.
 
-==Other==
+## Other
 *Gharsang are sometimes carved in the likeness of orcish priests.
 [[Category:Priests]]
 [[Category:Religious groups]]

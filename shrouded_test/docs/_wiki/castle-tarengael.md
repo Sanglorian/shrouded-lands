@@ -12,34 +12,33 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
+[[File:1616.png|thumb|400px]]The great [[River of Crystal Waters]] nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [[Ulthar the Loved]] himself on a rocky island ([[16.16]]) so that the flowing waters would keep the [[Lords Sanguine]] at bay. Bridges connect it to the two halves of [[Tarengael Town]]: Eastbridge and Westbridge.
 
-[[File:1616.png|thumb|400px]]The great [[River of Crystal Waters]] nurtures the Duchy’s crops and protects its greatest bastion: '''Castle Tarengael''' whose nine domed towers were built by Duke [[Ulthar the Loved]] himself on a rocky island ([[16.16]]) so that the flowing waters would keep the [[Lords Sanguine]] at bay. Bridges connect it to the two halves of [[Tarengael Town]]: Eastbridge and Westbridge.
+**Ruler:** The [[Duke of Thring]]<br />
+**Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [[The Foolish Sages]] (20.18) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
 
-'''Ruler:''' The [[Duke of Thring]]<br />
-'''Mounts:''' At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [[The Foolish Sages]] (20.18) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
-
-===Residents===
+### Residents
 *[[Duke of Thring (incumbent)|Duke of Thring]]
 *[[Princess Elandra]], his daughter: the Duke’s daughter once wept jewels but now she weeps no more.
 *The [[Jester Prince]], the Duke's fool and heir of the High Kings of Gore
 *The [[Chain Gang (Thring)|Chain Gang]]
 *[[Sir Mimslet]] and the [[Sparrow Knight]], Two Suitors of [[Princess Elandra]]: many are gathering to seek the hand of the Princess.
 
-===Details===
+### Details
 *16.16.08 (No More Tears): 
 *16.16.09 (The Mirror Throne): the Mirror Throne is under an unfortunate curse.
 *16.16.10 
 *16.16.11 (The Doomsday Book): a record of who will hold what property when the world ends.
 
-===Connections===
+### Connections
 *The statue of the Green Lady that once lay in the Duke’s private chapel has been hacked to pieces by an apparent madman ([[23.16]]).
 *With horses nearly extinct in these lands, the knights of Tarengael have taken to riding boars, especially after the incident with the cowhorses.
 *The boars used by the knights of Tarengael are raised at Castle Spiriwin ([[20.16]]).
 
-===Hooks===
+### Hooks
 *What happened to the cowhorses?
 
-==The Mirror Throne==
+## The Mirror Throne
 [[File:161609.png|thumb|272px]]Hex 16.16.09
 
 Connects to: 01.03 and 13.10.
@@ -61,14 +60,14 @@ The shadowy spirit in the Throne whispered to the son lies that his father plann
 Lords of strong character, such as Duke Ulthar, easily resisted its insidious influence. Some with weaker minds, or simply deeper, more profound fears, such as [[Duke Theloc]], were not so lucky. The fourth Duke was lead erroneously to believe that his children conspired against him. In his fear he entrusted the succession to [[Sweitbor the Roarer]] ([[13.10]]), leading to much war and bloodshed upon his death.
 
 To this day the spirit in the Mirror Throne uses its position to slowly twist the Duchy of Thring whenever possible, in hopes that one day a Duke of dark mind and soul will sit upon the Throne to work its evil devices across the land.
-===Hooks:===
+### Hooks:
 *Could the lost rites be rediscovered?
 *Can the dark spirit that now possesses the Throne be exorcised?
 *Who and what is the Hell-Born Spirit?
 *What are its ultimate plans?
 *What were the dark sorceries that brought it here in the first place?
 *Who ruled from the Mirror Throne before Duke Ulthar?
-==The Doomsday Book==
+## The Doomsday Book
 Hex 16.16.11
 
 Connects to: to be added.
@@ -80,7 +79,7 @@ The book is kept in chains - allegedly the same chains that the Duke used to blu
 The Duke discovered the book when he was a squire, and what it taught him about power and longevity has driven his burning ambition.
 
 The Duke has not read the book in years. If he had, we would find that the ledger looks very different to how it once did.
-===Hooks:===
+### Hooks:
 *Why has the book changed?
 *What did the Duke read?
 *If the knights wear links and the Duke a key, what do the rest of his retinue wear?

@@ -9,7 +9,6 @@ categories:
   - "Category:Sosaria"
 media: []
 ---
-
-'''Plague doctors''' are ammong the many employed by [[Sosaria]]'s cattle barons to keep the trade going. Like [[butchers]], plague doctors are used as [[assassins]], demogogues and agitators in the feuds.
+**Plague doctors** are ammong the many employed by [[Sosaria]]'s cattle barons to keep the trade going. Like [[butchers]], plague doctors are used as [[assassins]], demogogues and agitators in the feuds.
 [[Category:Professions]]
 [[Category:Sosaria]]

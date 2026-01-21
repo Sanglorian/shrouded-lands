@@ -9,7 +9,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 H[[File:Shutt-with.png|thumb|398px]]ex 29.14.36
 
 Connects to: 07.01, 08.27, 09.01, 10.01, 18.10.01, 19.31, 27.18.01, 29.13, 29.07, 29.14.09, 29.14.14, 29.15, 31.07, 38.28, 43.08, the Singing Wastes, the Grey Mountains and the Burning Lands.
@@ -39,10 +38,10 @@ Perhaps the Matriarch should have told that to a thousand glacier-fed streams th
 I had no use for pious nonsense, so I set off into the east to the Weeper’s Tower ([[43.08]]), skirting so close to the World’s Edge that I could make out [[winged monkeys]] wheeling in the thick lowland air. I asked the wily elf why it rains but once a year but I spoke too much and when the words “Drow’s Tears” crossed my lips his, wet eyes flashed with anger and he bit off the words, “Is there nothing you children have not forgotten of the doom that freed the [[tarrasque]] from [[Bergolast]]?”
 
 In an instant, I found myself transported by the elf’s magic to the waters of the [[Sunless Sea]] and my laughter echoed through its measureless caverns for the Weeper had shown me the answer that I had sought.
-===Connections:===
+### Connections:
 *A few seelie elves went south into exile with the elves of the unseelie court but were abandoned on the way south ([[08.27]]) by the Queen Sinister.
 *A prophet of an imprisoned god claims that his god’s return will bring back the rains ([[27.18]].01).
-===Hooks:===
+### Hooks:
 *What effects does this strange climate have on the land?
 *What is the answer? Why does it rain but once a year? The narrator seems dismissive of the old story about the Queen Sinister and seems to have another answer in mind.
 *The rain awakens the frogs of the Burning Lands. What frogs?

@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -39,19 +38,19 @@ media: []
 
 |-
 ! Type
-| {{{type|''Unknown''}}}
+| {{{type|*Unknown*}}}
 
 |-
 ! Level
-| {{{level|''Unknown''}}}
+| {{{level|*Unknown*}}}
 
 |-
 ! Location
-| {{{location|''Unknown''}}}
+| {{{location|*Unknown*}}}
 
 |-
 ! Inhabitants
-| {{{inhabitants|''Unknown''}}}
+| {{{inhabitants|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

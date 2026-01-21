@@ -11,7 +11,6 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-
 [[File:Gs133.jpg|thumb|255px|Grey ooze]]
 C[[File:Shutt-grey.png|thumb|398px]]onnects to: 29.14.10 and 29.14.13.
 
@@ -20,7 +19,7 @@ If you go down deep enough in the [[Undercity]] one of the most common hazards i
 If you follow the oozes down into deep into the Undercity you will find their source: the mucus that drips from a great leering face as grey and dull as old steel. This is Ghar Zaghoan, a great presence from another [[other planes|plane of existence]] who was trying to enter the City when its many [[Windows (Shuttered)|windows]] slammed shut (29.14.13). Here he has remained ever since.
 
 Ghar Zaghoan has grown increasingly bored over the centuries and he hopes that his grey oozes will bring him people who were more entertaining than the last batch.
-===Hooks:===
+### Hooks:
 *Why do the troglodytes go after the grey oozes with special fervor?
 *Who has been paralyzed by grey ooze and taken down to entertain Ghar Zaghoan?
 *What does such a presence from another plane consider entertaining?

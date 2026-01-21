@@ -8,6 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
-{{#ifeq: {{{1|---}}}|---||&#124;<font color="gray">''&lt;{{{1}}}&gt;''</font>}}<noinclude>
+{{#ifeq: {{{1|---}}}|---||&#124;<font color="gray">*&lt;{{{1}}}&gt;*</font>}}<noinclude>
 {{documentation}}</noinclude>

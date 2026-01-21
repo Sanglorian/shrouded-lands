@@ -10,10 +10,8 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
 *The Holt of the Bloodied Lords ([[03.31]])
-==Half-elves==
-
+## Half-elves
 *[[Ceralin the Healer]] ([[17.05]])
 
 *[[Olga Pignose]] (child of a half-elf and a half-orc) ([[17.07]])

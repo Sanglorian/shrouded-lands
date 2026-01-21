@@ -12,7 +12,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:I052.jpg|thumb|400px|Ettin]]
 [[Alvise Ettienne]] was once a wealthy and respected silk merchant and a noble of the City of Shuttered Windows. All of that began to change when the old Doge died and an election was announced. He gathered with the other electors in the Old Council Tower (29.14.06) and during the lengthy proceedings of the ducal election, he felt greatly honored when he was chosen as one of the Forty.
 
@@ -29,17 +28,17 @@ He took his family with him, which now included nine sons named Alvise who soon 
 At Ettin Castle ([[13.06]]), the Alvises have learned several things about the enchantment that affects them. Heads that are added retain their original memories and skills, which the other heads can access. However, being introduced suddenly to an ettin’s body is not pleasant and drives many heads to madness. The primary head is able to keep the others in line most of the time if it has a strong will, but if it is weak-willed or not careful in the choosing of its heads then the new heads can do anything from screaming warnings to those the ettin is trying to ambush, to begging for death during combat, to even wrestling with the primary head for control of the body.
 
 The elder Alvise had already commissioned a crown and plans to proclaim himself King of the Giants when the time is ripe. There are just a few more preparations left…
-===Connections:===
+### Connections:
 *The ettins take giant bee mead from the nearby halflings (11.08), often without payment.
 *Alvise Ettienne, the nephew of the Alvise Ettienne who became an ettin, manages the family’s old silk business in the City (29.14.46).
-===Hooks:===
+### Hooks:
 *What “extreme measures” did Dovan Vantisse take?
 *How much power do Irabella and Georj have over the body that they share with Alvise (and various new heads).
 *What about the nine younger Alvises? What heads have they collected? What are their relationships like with their new heads? Do any of them have children of their own? Did any of them try to graft a chicken head to their elbow? What happened?
 *Except for the ettins, who else lives at Ettin Castle? Are any of the family members of the three heads still about?
 *Who did Alvise commission a crown from? That sounds like a hard job.
 *What preparations is Alvise making before he crowns himself king and tries to carve out a kingdom?
-==Members==
+## Members
 *[[Alvise Ettienne (uncle)]]
 *[[Alvise Ettienne (nephew)]]
 [[Category:Creatures]]

@@ -10,11 +10,10 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-
 [[File:Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg|thumb|400px]]Hex 08.27.
 
-'''Region:''' [[The Singing Wastes]]
-==Zaal, the Sleeping City==
+**Region:** [[The Singing Wastes]]
+## Zaal, the Sleeping City
 [[File:Sing2.jpg|thumb]]Connects to: 03.31.01, 29.07 and 29.14.36.
 
 When the elven courts sundered ([[29.07]]) some few of the [[unseelie elves|unseelie court]] remained behind ([[28.07]] and [[31.04]]) and some few of the [[seelie elves|seelie court]] went into exile. The [[Bloodied King]] watched them leave with a stony face and they walked away south under the night stars with the elves of the unseelie court.
@@ -26,17 +25,17 @@ Now, at that very spot rise strangely pale basalt pillars that form the city wal
 However, those that approach the basalt pillars of Zaal are more likely to see [[ghouls]] than temples for the creatures lurk and howl about the city’s walls hoping to eat those who fall into magical sleep as they approach the city.
 
 But any men with pleasing faces who are able to reach the city’s walls are welcomed warmly and a rope of elven hair is thrown down to them. No one, not even the ghouls, has seen anyone leave the white-walled city.
-===Subhex:===
+### Subhex:
 08.27.01 (Hypno, Lord of Sleep): he slumbers beneath the city.
-===Connection:===
+### Connection:
 *The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([[03.31]].01).
-===Hooks:===
+### Hooks:
 *Why did these seelie elves leave with the unseelie elves when the courts were sundered? Why did the unseelie elves leave them behind?
 *How did a small handful of elves build such a city? Why are they called white elves? What’s inside the city?
 *What causes (most of) those who approach this city to fall into a magical sleep? Why don’t the ghouls all fall asleep?
 *Whose hair is it?
 *Why do the white elves welcome (handsome male) travellers? Why have none (seemingly) ever left? Do the elves ever leave their city? The ghouls never see them go out…
-==Hypno, Lord of Sleep==
+## Hypno, Lord of Sleep
 [[File:Sing3.jpg|thumb]]Hex 08.27.01
 
 Connects to: 19.31.08.
@@ -47,9 +46,9 @@ Hypno uses his powers to steal dreams that could inflict mental harm or inspire 
 
 The Lord of Sleep is not perfect, however. Many subversive or terrible dreams slip through his mental net. Some of these dreams impact mortals profoundly. Elves often blame mankind's weaknesses, follies and hubris on such renegade dreams.
 
-===Connects to:===
+### Connects to:
 *Viceroy Duygu’s recent behavior is a good example of the sort of thing Hypno is trying to prevent (19.31.08).
-===Hooks:===
+### Hooks:
 *Is Hypno the only shepherd of dreams?
 *What kind of dreams do elves fear mortals will have? Can dreams grant sleepers any powers or earth-shattering ideas?
 *Where do dreams come from, anyway? The depths of dreamers' minds? Above? Below?

@@ -9,12 +9,10 @@ categories:
   - "Category:Nations"
 media: []
 ---
-
-
-The '''Imperium Undying''' or '''Empire Undying''' is in the [[Undying Lands]] or [[Sunset Lands]]. It is to the west of the Shrouded Lands, across the [[Ocean of Bitter Regrets]].
+The **Imperium Undying** or **Empire Undying** is in the [[Undying Lands]] or [[Sunset Lands]]. It is to the west of the Shrouded Lands, across the [[Ocean of Bitter Regrets]].
 
 Once ruled by the [[Prince of Men]], its leaders are heirs to the [[Sun Throne]]. The Prince of Men came to the Lands after being expelled from the Imperium by his imposter sister and half-brother.
-==Connections==
+## Connections
 *[[Oderas]] the [[centaurs|centaur]] has predicted a tremendous interaction between the Shrouded Lands and the Imperium ([[02.23]])
 *The first men in the Shrouded Lands may have come on great boats from the Imperium.
 *A dungeon apparently of the Imperium Undying is where [[Trimueil]] lost his poem ([[39.12]])

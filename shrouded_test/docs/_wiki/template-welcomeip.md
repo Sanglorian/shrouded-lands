@@ -8,12 +8,11 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 <h2>Hi there!</h2>
 [[Image:Example.jpg|thumb|Welcome!]]
-'''Welcome to this Wikia, and thank you for your contributions! [[Special:UserLogin|We invite you to log in and create a user name.]]'''
+**Welcome to this Wikia, and thank you for your contributions! [[Special:UserLogin|We invite you to log in and create a user name.]]**
 
-[[Help:Why create an account|Creating a user name]] is free and takes only a minute ''and'' it gives you greater '''anonymity''' if that is your wish. In addition, it is easier for other contributors to ask you questions and help you.
+[[Help:Why create an account|Creating a user name]] is free and takes only a minute *and* it gives you greater **anonymity** if that is your wish. In addition, it is easier for other contributors to ask you questions and help you.
 
 *Of course, we hope you continue to make contributions, even if not logged in.
 *If you are new to Wikia or wikis in general, please visit the [[Project:Community Portal|Community portal]] for an outline of some of the main parts of the site and links to pages that show you how to edit.

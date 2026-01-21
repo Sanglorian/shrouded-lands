@@ -8,5 +8,4 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
-<div style="float:right; clear:right; margin:12px 5px"><big>'''New pages'''</big><widget style="width:305px">NewPages</widget>__NOTOC__</div><noinclude>[[Category:Templates|Newpages]]</noinclude>
+<div style="float:right; clear:right; margin:12px 5px"><big>**New pages**</big><widget style="width:305px">NewPages</widget>__NOTOC__</div><noinclude>[[Category:Templates|Newpages]]</noinclude>

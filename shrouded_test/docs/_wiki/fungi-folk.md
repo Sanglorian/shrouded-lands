@@ -11,8 +11,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
-Inside the Shield of Alberon ([[16.17]]) are peculiar '''fungus people''' or '''fungi folk''' who work strange magic using blinking wands that shoot lightning or fire.
+Inside the Shield of Alberon ([[16.17]]) are peculiar **fungus people** or **fungi folk** who work strange magic using blinking wands that shoot lightning or fire.
 [[Category:Plants]]
 [[Category:Fungi folk]]
 [[Category:Creatures]]

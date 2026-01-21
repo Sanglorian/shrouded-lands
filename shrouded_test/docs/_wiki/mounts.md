@@ -11,14 +11,13 @@ categories:
   - "Category:Thring"
 media: []
 ---
-
 Because there are no more fertile [[horses]] in the Shrouded Lands, most knights of Thring ride a wide variety of other animals. 
-==Specific==
+## Specific
 *[[Telamar]] was the steed of [[Ulthar the Loved]], potentially for sale at Castle Tarengael
 *[[Alarion]] was the mount of the [[Knight of Constant Sorrow]], potentially for sale at Castle Tarengael
 *Knights attempt to recover [[Garendar]], the charger of [[Sir Hyfres]] the paladin, from the cess pit where its bones lie.
 *The [[Phantom Steed]] is the mount of [[Sir Codwise]] the Old.
-==Types==
+## Types
 *The [[horse market (Tarengael)|horse market at Tarengael]] sells resurrected horses.
 * The knights of Thring have a variety of mounts:
 **The knights of Dinivar ([[17.11]]) ride great black ostriches.

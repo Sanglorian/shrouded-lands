@@ -10,9 +10,8 @@ categories:
   - "Category:Professions"
 media: []
 ---
-
 Shamans are spiritual leaders of rural and nomadic peoples that are relied on for their knowledge. While [[lizardman|lizardmen]] shamans in ages past are described as [[pactmaking|making pacts]], the key responsibilities of a shaman seem to be related to knowledge and decision-making.
-==Shamans==
+## Shamans
 *In the early days of pactmaking, the lizardman shamans bumbled through dealings with elemental beings in an ad hoc manner. Thirteen lizardman shamans were bound to cry out for a year and a day to summon a [[elemental beings|being of soot and ash]]. 
 *The [[Paionian centaurs]]' shaman Knoss uses astrology tomes to conduct moonlit ceremonies that change from solemn to raucous as soon as the first flagon wine is poured. 
 *The goblins of the Mountain Woods all listen to a powerful (or mad) shaman whose mistletoe-shrouded oak grows far above the rest and has somehow survived multiple lightning strikes ([[11.01]]).

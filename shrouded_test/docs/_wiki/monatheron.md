@@ -9,8 +9,7 @@ categories:
   - "Category:Shuttered and Surrounds"
 media: []
 ---
-
-==The Falling Walls of Monatheron==
+## The Falling Walls of Monatheron
 [[File:1914_Redon_Zyklop_anagoria.jpg|thumb|400px]]Hex 43.12
 
 Connects to: 14.01, 29.01, 47.11, 50.11 and the City of Shuttered Windows.
@@ -26,10 +25,10 @@ Among the most important of these duties is caring for the six sacred breeds of 
 Currently, one of the primary concerns of the lords of Monatheron is outdoing each other in fashion. It is forbidden for any of their race to wear dead things and, as the fashion changes from year to year cloaks of mewling cats, tunics of caged birds (often birds of paradise, a fashion which the Sosarian cattle barons have adopted in a crude form, see 50.11) and much more can be seen in the castle's halls.[[File:4312.png|thumb|400px]]
 
 The current fashion is for the cyclopses of the city to smear their hair with nutritive unguents that attract luminescent beetles that crawl over their bodies in dazzling ever-moving patterns (sometimes beetle-eating snakes are added to keep things more lively). This fashion has some admirers in Shuttered and one can tell much about the courtesans of that city by what beetles cling to their hair. However the from that this has taken in the grimier brothels of the Undercity can be a bit disconcerting.
-===Connections:===
+### Connections:
 *Drogo the Baldfaced (29.01) was able to rustle some moon-horned cattle under cover of night, only to find that all of the cows he had stolen were female or steers. His attempts to get his hands on a bull or crossbreed them with other cattle have not gone well.
 *Thorek Ironhide is served by an exiled cyclops who has assassinated several elder members of the council that stood in the Winterjarl's way, thanks to his knowledge of secrets forgotten by the younger races (14.01).
-===Hooks:===
+### Hooks:
 *Is there anything to tell about old Andara that now lies under the waves of the Keening Sea? How did it spread "ecstasy and terror?"
 *What are the engines of wonder?
 *What sort of people serve the cyclopses? What sort of jobs do they have? If each has exactly the same job as his/her parent there must be some strange or obsolete jobs.

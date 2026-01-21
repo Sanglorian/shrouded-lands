@@ -10,8 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-==The Wives of the Doge==
+## The Wives of the Doge
 [[File:Shutt-wives.png|thumb|400px]]Connects to: 04.05, 25.15, 28.04, 29.14.07, 29.14.30, 29.14.38, 30.03 and 32.22.
 
 When the twin daughters [[Lord Tristifer Bartley]] of Blackhorn Keep ([[30.03]]) came of age they were such beauties that all men wondered if they had [[elves|elven blood]].
@@ -27,12 +26,12 @@ At first the [[Great Families]] seethed at the presence of the twin wives and so
 Celine fared differently. The face of the sun, which she had never before seen, filled her with terror and she had the windows of her apartments replaced with the solid walls of home. Yet that was not enough, for she thought that she could smell the sun on the people who surrounded her and soon took to stalking the lonely halls of the Doge's palace by night. Her only comfort was her husband and, as he often worked through the night, Celine soon became his secretary. She had a quick mind and a sharper nose for lies, which pleased the Doge. But Celine found that the reports of assassins, cults and mad wizards that she now read nightly bred with her mad fear of the sun and produced a brood of a thousand terrors. Chief among them is her fear of the [[Whispering Sisters]], who she is convinced are dedicated to her destruction above all else.
 
 Thus, while it is Eliana who speaks about organizing a company of female warriors to attack to citadel of the Whispering Sisters ([[32.22]]), she does it out of love for her sister as when they meet at every dawn and every dusk Celine never fails to speak of the peril of the Sisters.
-===Connections:===
+### Connections:
 *The wives favor the clocks made at the works of [[Albus Flidge]], which may not be wise.
 *One of Flidge's watches is whispering to the wives when they sleep alongside the [[Blind Doge]]
 *Selene owns a pearl shop that she uses to keep tabs on who is buying pearls as the material component of identify spells ([[29.14]].38).
 
-===Hooks:===
+### Hooks:
 *Do the Whispering Sisters truly seek to destroy Celine?
 *What other fashions has Eliana popularized?
 *What is life like within the keeps of the Land of the Night Cattle?

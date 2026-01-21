@@ -9,14 +9,12 @@ categories:
   - "Category:Elves"
 media: []
 ---
-
 :See also [[Hair]]
-'''Copperhairs''' and '''Copperheads''' are terms for red-headed people.
+**Copperhairs** and **Copperheads** are terms for red-headed people.
 
 Elves once stole copperhair children along the Orphans' March ([[27.09]]).
 
-==Connection==
-
+## Connection
 *The son of [[Lady Natala]] - and, potentially, the [[Jester Prince]] - has copper hair, perhaps inherited from his father.
 [[Category:Body parts]]
 [[Category:Elves]]

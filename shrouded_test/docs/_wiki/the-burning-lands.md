@@ -9,7 +9,6 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
 [[File:Burning.jpg|thumb|400px]]Includes hexes: [[24.26]], [[27.23]], [[27.27]], [[29.24]], [[29.29]], [[31.27]], [[32.22]], [[32.32]], [[34.25]], [[37.21]], [[38.26]], [[38.27]], [[38.28]], [[39.31]], [[39.32]], [[40.20]], [[41.24]], [[43.22]], [[43.27]], [[44.17]], [[44.19]], [[44.22]], [[45.18]], [[45.24]], [[48.18]], [[48.24]], [[48.32]], [[48.33]], [[49.32]], [[50.20]], [[50.26]], [[50.29]], [[50.30]], [[51.17]] and [[51.29]]
 
 Connects to: 29.14.09, 40.06 and the City of Shuttered Windows
@@ -23,7 +22,7 @@ In the course of the wars, the gnolls learned the value of having a ready source
 As is normal for gnolls (the gnolls of the Broken Spear (40.06) being a notable exception), the gnolls are ruled by clan matriarchs. Young male gnolls are driven out of the clan sod huts never to return. These exiled young gnolls form bands and engage in hunting the great beasts of the plains, raiding the nearby dwarven septs and other adventures. Most of these gnoll youths die, but the bravest, richest and luckiest are able to secure themselves places as the mates of the matriarchs of another clan. Some of these youths are not so lucky live out their lives beyond the Burning Lands as mercenaries or bandits, always dreaming of a chance to return to the gnoll lands in glory.
 
 Some of the bravest of these gnoll youths slaughter beasts and consume their hearts raw according to an ancient gnollish ritual. The gnolls say that this binds their soul to the spirit of the animal and gives them great strength and other powers. This is usually done with aurochs but it has been known to have been performed on everything from mammoths to ghost apes, with varying effects. The gnolls report that the gnolls who do this enjoy no afterlife, for the souls of the gnolls are too closely entangled with the spirits of animals to leave this world and drink the honeyed milk of the Mother of All.
-==Hex Summary:==
+## Hex Summary:
 *24.26 (Azumay): this southern dwarven city is under the thumb of a cabal of well operators.
 *27.23 (Death’s Lovelies): a community of plague-afflicted bandits who seek out death.
 *27.27 (The Pigdog Sept): these fierce but ugly beasts help keep their dwarven masters safe.

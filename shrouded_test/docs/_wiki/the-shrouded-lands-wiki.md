@@ -8,14 +8,13 @@ categories:
   - "Category:Browse"
 media: []
 ---
-
 <mainpage-leftcolumn-start />
-==Welcome to the The Shrouded Lands Wiki==
+## Welcome to the The Shrouded Lands Wiki
 This wiki is dedicated to the development of the Shrouded Lands D&D hexcrawl setting. Please feel free to add to the setting by writing up additional hexes or by providing additional detail about existing ones.
 
 [[File:Shroud1.png|thumb|354px|'The Crystal Ball', John William Waterhouse]]
 
-==Tour of the Shrouded Lands==
+## Tour of the Shrouded Lands
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">You’ve heard of the incredible firebirds, but this is the first one you’ve ever seen. It shimmers like the hearth in your home, like the hair of a beautiful woman, like the sun itself, and the sky and the water and the distant mountains seem to brighten in its presence. </p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">A flying viper latches on to its head and tries to swallow it whole. The two plummet to the ground, where an ibis pecks at them. </p>
@@ -31,7 +30,7 @@ These are the great sites of the Shrouded Lands – unless you have others that 
 
 [[File:Shroud2.png|thumb|right|300px]]
 
-==Contributing to the Shrouded Lands==
+## Contributing to the Shrouded Lands
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">[[File:Sl1.jpg|thumb|400px]]The Shrouded Lands are a strange and varied fantasy setting. They have silly monsters like an ostrich lich (the ostrlich) and creepy cults like the Creche of a Million Young. They have twisted romances like the wereshark storm giant who mourns his dead lover and unsolved mysteries like that of the contract between the Prince of Man and the Bloodied King. </span>In short, any contribution will fit into these Lands.</p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">The one special feature of these hex entries is that they are connected to one another. But they don’t need to be connected to more than one hex. My suggestion is to find a hex that interests you, and write another hex entry linked to that one. You don’t need to read tens of thousands of words to join in! In order to make this easier, the hex entries have been divided by regions with the less-detailed regions listed first. That way if you start reading you’ll come across the parts of this setting that are still pretty much blank slates that are ready for your contribution. </p>
@@ -40,12 +39,12 @@ These are the great sites of the Shrouded Lands – unless you have others that 
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">When you add your own entry it can be additional information about a hex that has already been described or a new hex. If you want to write up a description of a new hex, look at map and choose a hex number and also provide at least a few “hooks” that people can use be connect their own entries to yours. For example if you describe a village and say that a traveller has been staying at the inn and paying his bills with strange hexagonal coins, your hooks could be “who is the traveller and where did he get those coins?” </p>
 
-==Index placeholder==
+## Index placeholder
 As more content is converted over into this wiki, an index will be added to help readers to navigate to the various pages.
 
 [[Resources]]
 
-===Regions:===
+### Regions:
 *[[The Bitter Coast]]
 *[[The Corn Fields]]
 *[[The Devil's Fingers]]
@@ -58,7 +57,7 @@ As more content is converted over into this wiki, an index will be added to help
 *[[The Barrier Range]]
 *[[The Kingswood]]
 *[[The Burning Lands]]
-===Cities:===
+### Cities:
 *[[City of Shuttered Windows]] ([[Shuttered and Surrounds]])
 *[[Jahur]]
 *[[Blind Midshotgatepool]] ([[Hinterlands of Blind Midshotgatepool]])
@@ -71,11 +70,11 @@ As more content is converted over into this wiki, an index will be added to help
 
 [[File:Shroud3.png|thumb|right|300px]]
 
-==Useful Resources==
+## Useful Resources
 *[http://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/ Hexcrawl resources]
 *[[Quick summary]]
 
-==Appendices==
+## Appendices
 [[Phenomena]]
 
 [[Plants]]
@@ -92,8 +91,7 @@ As more content is converted over into this wiki, an index will be added to help
 
 [[Spells]]
 
-==Latest activity==
-
+## Latest activity
 <activityfeed></activityfeed>
 
 [[Category:Browse]]

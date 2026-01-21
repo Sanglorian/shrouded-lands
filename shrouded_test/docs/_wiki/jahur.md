@@ -11,9 +11,8 @@ categories:
   - "Category:Sea of Typhoons"
 media: []
 ---
-
 [[File:Jahur1.png|thumb]]Hex 19.31
-==Jahur, City of Jewels==
+## Jahur, City of Jewels
 [[File:Gs47.jpg|thumb|Iano]]
 
 Connects to: 17.30, 19.30, 19.31.03, 20.32, 21.27,
@@ -106,7 +105,7 @@ music or scholasticism. Those unsuitable for
 marriage, mostly due to a having cruel or greedy
 father, may flee their families to become
 adventurers or concubines.
-==Features==
+## Features
 *[[Duxton Academy]] is an orphanage that sunk below the waves but continues to operate.
 *The [[Ghoul in the Gilded Cage]] is suspended above the ichor of the Sublime Divan
 *The [[Undying Cycles of Creation]] is the calendar used by local diviners - it also reflects the old faith of Jahur.
@@ -117,7 +116,7 @@ adventurers or concubines.
 *The [[Inconsolable]]
 *The [[Dead Fish]]
 
-==Subhexes:==
+## Subhexes:
 19.31.01 (Viceroy Orhan‘s Madness): the city‘s treasurer has not been himself since a botched assassination attempt.
 
 19.31.04 (The Dead Fish): a rough bar full of fist fights, narcotic kelp, accordion music and even more horrid things.
@@ -129,7 +128,7 @@ adventurers or concubines.
 19.31.08 (Alleys of the Woman in Red): it is difficult to lay traps for one‘s dreams but that doesn‘t mean that people haven‘t tried.
 
 19.31.09 (The Last Fiendslayer): after the windows of Shuttered closed this ancient order withered away.
-==Connections:==
+## Connections:
 *There is a ring of ancient obelisks in the city but one is missing and has been uncovered far to the northeast (46.01).
 *Jahur was ruled for twelve years by the octoids (23.32).
 *The rulers of Jahur have access to the feared fire centipedes (17.30).
@@ -138,7 +137,7 @@ adventurers or concubines.
 *Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still (21.27).
 *Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss (19.31). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
 *The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning (19.30).
-==Hooks:==
+## Hooks:
 *What now dwells in the city's immaculate ruins?
 *Do any Janissaries live abroad? Why did their leave their posts?
 *What famous jewels are in Jahur?
@@ -146,12 +145,12 @@ adventurers or concubines.
 *Is Iano for real? Is he part of the moon's scheming, or something else?
 *What dives do adventurers haunt?
 
-==People==
-[[Viceroy Orhan]]: Jahur has been on edge since [[Viceroy Orhan]], the city's treasurer, was attacked in his bedchamber last month.
+## People
+[[Viceroy Orhan]]: Jahur has been on edge since [[Viceroy Orhan]], the city's treasurer, was attacked in his bedchamber last month.
 
 [[Erebus]]: The Last Fiendslayer is staying at The Gushing Ruby, a tavern in the blue quarter.
-==Execution in Jahur ('Death in the Old Way')==
-''Inspired by:'' Goblin Punch ([http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire'])
+## Execution in Jahur ('Death in the Old Way')
+*Inspired by:* Goblin Punch ([http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire'])
 
 In Jahur, they reserve an ancient punishment for the worst criminals: murderers, kidnappers and vendors of [[quicksilver]]. It is to be hung from the walls of the city by the hands, with the feet weighed down by a chunk of lead in the shape of a giant sword.
 
@@ -162,13 +161,13 @@ The [[Duke of Thring|Duke]] fights with such a sword, an heirloom used ever sinc
 One criminal hangs to this day. He is a [[vampires|vampire]], unkillable by this method. He was fortunately - or unfortunately - positioned in a nook in the wall so direct sunlight never touches his flesh. Even the ambient light is enough to blister and warp his skin.
 
 A [[Viceroys|Viceroy]] will sometimes drag the vampire up to the wall’s upper edge for questioning about supernatural events in the city. His answers are always rewarded with a full meal.
-===Hooks===
+### Hooks
 *Why are these swords so effective?
 *Who else has such a weapon?
 *Why is this a rarely used form of punishment? Are the alternatives even worse?
 *What crime did the vampire commit? Is anyone tempted to cut him down?
 
-==Alleys of the Woman in Red==
+## Alleys of the Woman in Red
 [[File:Jahur9.png|thumb]]Connects to: 08.27.01, 19.31.07, 19.31.10 and
 26.33.
 
@@ -203,18 +202,18 @@ elude watchmen by fleeing into the labyrinth.
 The Holy Fools use isolated courtyards as open-air
 meeting places.
 
-===Connections===
+### Connections
 *These alleys are rife with bucket kelp (26.33) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
 *Hypno (08.27.01) tries to prevent mortals from having recurring dreams.
 *Lunfar sells illicit maps within the alleyways (19.31.10).
-===Hooks:===
+### Hooks:
 *Were Duygu's dreams sent to him by someone with an agenda?
 *How much influence does Isane the Beauty have over the Viceroys who seek her counsel?
 *Do Viceroys often pose as commoners? What shenanigans do they get into while trying to pass as porters, beggars or wallahs?
 *Who are the major players in Jahur's thieves' guild?
 
-==The Sandmines Neath Jahur==
-'''Inspiration:''' The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
+## The Sandmines Neath Jahur
+**Inspiration:** The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
 
 As houses and temples crumbled in Jahur, they were built on top of, slowly compressing the sand, brick and stone together into what masons call ‘city brick’. It carries some memory of the buildings that it once was - city brick will always stay in place, even if its supports collapse. Only the scrubbing out of the mason’s mark placed on each block causes gravity to reassert itself.
 
@@ -226,18 +225,17 @@ The mining - both authorised and illicit - of this distinctive stone has left va
 
 From the ceilings of some of the caves hang archaes, which look like stalactites but feel like mucus to the touch and are powerfully acidic. Giant red worms ooze through these tunnels, suckling on the archaes as if they were teats.
 
-===Hooks===
+### Hooks
 *What is the component of the Scent Barrier?
 *What other tricks have people used citybrick for?
 *What power do the masons wield in the city?
 
-==The Lampbearing Octoid==
-
+## The Lampbearing Octoid
 An [[octoids|octoid]] will approach strangers and then lead them on a path through Jahur. The path is never to their intended destination, but the octoid always leads people to a serendipitous meeting, usually in a part of town that they’ve never visited. Perhaps they meet a former lover by the quayside or a man idle comes across a party reading themselves for adventure.
 
 The octoid takes advantage of the lucky encounter to scurry off, its lamp trailing in one tentacle behind it.
 
-===Hooks===
+### Hooks
 *What are the octoid’s motives?
 *How does it know to arrange these encounters?
 *Who owes their marriage to the octoid’s guidance?

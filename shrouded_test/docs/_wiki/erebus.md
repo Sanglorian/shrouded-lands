@@ -10,8 +10,7 @@ categories:
   - "Category:Jahur"
 media: []
 ---
-
-==The Last Fiendslayer==
+## The Last Fiendslayer
 [[File:Jahur10.png|thumb|147px]]Hex 19.31.09
 
 Connects to: 03.13 and 29.14.13.
@@ -46,7 +45,7 @@ He is in Jahur because his comrade is a [[Janissaries|Janissary]]
 who was badly damaged in a battle with an
 [[ogres|ogre]]. He hopes the Jahuri have the skills to repair
 him.
-===Hooks:===
+### Hooks:
 *Did the ogre survive?
 *What is the blue quarter?
 *Tell me more about The Gushing Ruby.

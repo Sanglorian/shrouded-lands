@@ -9,14 +9,13 @@ categories:
   - "Category:The Devil's Fingers"
 media: []
 ---
-
 [[File:Devilf.png|right]]
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [[13.24]], [[16.23]], [[18.26]], [[20.24]], [[22.25]], [[23.23]] and [[24.23]]. </span></p>
 Connects to: 16.16.05, 17.18 and 17.21.
 
 The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Burning Lands and, while it is not as hot as that land, it is home to little but brush, ruins, scorpions and gnomes. These desert gnomes are the reason for much of the Devil’s Fingers’ fearsome reputation for they have concocted a thousand and one terrifying illusions to keep sinful strangers as far away from their homes as possible.
 
-==Hex Summary==
+## Hex Summary
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">13.24 (The Nameless Mountain): Old Black slumbers here, but perhaps not for long.</p>
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">15.24 (The Grotto of Uriza the Solemn): it is not wise to gaze too deeply into the sins of ones neighbors.</p>
 
@@ -32,7 +31,7 @@ The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Bu
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">24.23 (The Sandalwood Groves): all gnomes wear sandals because illusionists can never get the feet quite right.</span></p>
 
-==Connections==
+## Connections
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">-</span><span lang="EN-US" style="font-size: 9.0pt;font-family:"CenturyGothic","sans-serif";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">With the (near) extinction of horses (16.16.05), the knights of the Forked Castle ([[17.18]]) have taken to riding giant lizards. </span></p>
 
 <p class="MsoNormal" style="margin-bottom:6pt;">-The lion prides that live in these lands have an ancient compact with the Dukes of Thring in which some knights are allowed to attempt to win lions as mounts while those who fail must join the lion prides for life (17.21).</p>

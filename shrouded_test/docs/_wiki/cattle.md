@@ -15,8 +15,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-==Industry==
+## Industry
 *The [[Lands of the Night Cattle]] are named after the breed of cattle farmed there.
 *[[Sosaria]] is dominated by cattle barons and the cattle industry. The cattle is slaughtered in [[The Trunk]].
 **Livestock in Sosaria (including [[dodos]] and [[ostriches]] as well as cattle) outnumber citizens over 10 to one.
@@ -25,11 +24,11 @@ media: []
 *[[Clan Tukraal]] are gnollish cattle herders ([[34.28]]).
 *The [[southern dwarves]] keep small herds of cattle and make shields of cowhide. 
 
-==Nature and nurture==
-*The meat of the cattle of [[Greymere Valley]] is succulent, perhaps because the cattle drink ''[[cure light wounds]]'' potion-water.
+## Nature and nurture
+*The meat of the cattle of [[Greymere Valley]] is succulent, perhaps because the cattle drink *[[cure light wounds]]* potion-water.
 *The [[night men]] and some [[gnoll]] cattle drovers use salt from the Fallsalt Mines for their cowlicks as it keeps the cows docile.
 
-==Breeds==
+## Breeds
 *The [[Foolish Sages]] attempted to turn the [[Duke of Thring]]'s cattle into "cowhorses".
 *[[Vampiric cattle]] are found in the abandoned [[embassies (Shuttered)|embassy of Naros]]
 *The zealots ([[07.33]]) burn [[ghost buffalo]] dung in their lighthouse.
@@ -39,12 +38,12 @@ media: []
 *In [[Monatheron]] they still keep the six sacred breeds of [[Andara]]n cattle. They cannot be crossbred or removed from Monatheron on pain of death.
 **One variety are moon-horned cattle. Drogo rustled a herd, but it contained no bulls so he cannot breed them.
 
-==Practice==
+## Practice
 *Night cattle that enter the [[Shuttered City]] must do so via the [[South Gate]], where their brands are examined.
 *Sosarian cattle chants are said to be millennia-old but are recited for political reasons (see [[Sosaria the Brave]]).
-*[[Giant bees|Giant bee]] honey is used to cure meat in Sosaria. Beef jerked in this way acts as a potion of ''cure light wounds''. 
+*[[Giant bees|Giant bee]] honey is used to cure meat in Sosaria. Beef jerked in this way acts as a potion of *cure light wounds*. 
 
-==Uses==
+## Uses
 *[[Nekh]] accept night cattle as tribute.
 *Flayed cattle corpses are used by [[orcs]] to collect gems from a peculiar valley ([36.02]])
 *Night cattle on the Isle of Dolyeades ([[33.16]]) are used in the election of a doge.

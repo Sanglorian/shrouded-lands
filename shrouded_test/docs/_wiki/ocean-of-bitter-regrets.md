@@ -11,13 +11,12 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-
 With [[00.06]] begins the Ocean of Bitter Regrets, which stretches far away to the west. All sailors know that it is foolish to drink [[salt|sea water]]. This is nowhere the case as much as with the Ocean of Bitter Regrets, for even a small sip of the water immediately brings to mind one's most bitter memories. Strong warriors have been known to collapse in tears after drinking from the ocean, an effect that persists even in the evaporated residue of the ocean (i.e. sea salt).
 
-==Inhabitants==
+## Inhabitants
 * The [[King of Salt and Brine]]
 * [[Whales]] (who sing the [[Dreamsong]])
-==Phenomena==
+## Phenomena
 *The [[Dreamsong]]: The singing of whales creates the Dreamsong, the plane of dreams.
 [[Category:Regions]]
 [[Category:The Bitter Coast]]

@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -29,15 +28,15 @@ media: []
 
 |-
 ! Participants
-| {{{participants|''Unknown''}}}
+| {{{participants|*Unknown*}}}
 
 |-
 ! Date
-| {{{date|''Unknown''}}}
+| {{{date|*Unknown*}}}
 
 |-
 ! Location
-| {{{location|''Unknown''}}}
+| {{{location|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

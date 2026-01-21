@@ -9,10 +9,9 @@ categories:
   - "Category:Organisations"
 media: []
 ---
+The Hoard is the great dwarven bank, based in [[Titan's Skull]] but operating across the Shrouded Lands, including in the [[Shuttered City]]. 
 
-The Hoard is the great dwarven bank, based in [[Titan's Skull]] but operating across the Shrouded Lands, including in the [[Shuttered City]]. 
-
-==Connections==
+## Connections
 *Twenty years ago, the Hoard longbeards introduced an 'eons-old custom': gifting each dwarf-child with a coin from the vaults, to reveal if they are [[numinomancers]]
 *Hoard dwarves discovered the Misplaced Obelisk ([[46.01]])
 *The Hoard sent dwarves to colonise Olgam or Oskill ([[09.24]]) to exploit the metal-rich hills of southern [[Gore]]

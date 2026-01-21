@@ -10,8 +10,7 @@ categories:
   - "Category:The Moon"
 media: []
 ---
-
-'''Inspiration: '''The soratami, ''Magic: the Gathering''[[File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg|thumb|https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg]]
+**Inspiration: **The soratami, *Magic: the Gathering*[[File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg|thumb|https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg]]
 
 The somnakami, or Cloud Rabbits, are a humanoid people with pale, soft fur and long, rabbit-like ears. They live on the dark side of [[The Moon]], but travel to earth in small rowboats made of [[lufwood]] weighed down with sparkling moonrocks.
 
@@ -19,7 +18,7 @@ They do sometimes come for travel or trade, but recently have sent down prison h
 
 The prison hulks land at [[04.18]]. Some of the [[Lords Sanguine]] have already made overtures to the convicts, hoping that their lunar magic could be brought to bear.[[File:Sævarmaður.jpg|thumb|https://commons.wikimedia.org/wiki/File:S%C3%A6varma%C3%B0ur.jpg]]
 
-===Hooks===
+### Hooks
 *Do the moonrocks have any special qualities?
 *What were the two sides in this war in the Heavens?
 *What can lunar magic do?

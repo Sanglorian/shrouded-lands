@@ -9,15 +9,14 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
+Leyline with blue crystalline deposits ([[04.06]] to [[05.05]])
 
-Leyline with blue crystalline deposits ([[04.06]] to [[05.05]])
+Fire (runs from south to north beginning at [[32.32]], through [[38.28]] and ending [[44.19]])
 
-Fire (runs from south to north beginning at [[32.32]], through [[38.28]] and ending [[44.19]])
+<p style="margin-bottom:0in">Water (allegedly crosses [[20.20]])</p>
 
-<p style="margin-bottom:0in">Water (allegedly crosses [[20.20]])</p>
+<p style="margin-bottom:0in">Earth (allegedly crosses [[20.20]] and ends at the Eye of Gruumsch, [[26.01]])</p>
 
-<p style="margin-bottom:0in">Earth (allegedly crosses [[20.20]] and ends at the Eye of Gruumsch, [[26.01]])</p>
-
-<p style="margin-bottom:0in">'''The Breath of the Earth: '''The only charted air leyline in the Shrouded Lands. It begins beneath [[The Duchy of Thring]] and surfaces in the eponymous, mile-long sinkhole ([[12.28]]).</p>
+<p style="margin-bottom:0in">**The Breath of the Earth: **The only charted air leyline in the Shrouded Lands. It begins beneath [[The Duchy of Thring]] and surfaces in the eponymous, mile-long sinkhole ([[12.28]]).</p>
 [[Category:Phenomena]]
 [[Category:Magic]]

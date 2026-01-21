@@ -8,6 +8,5 @@ categories:
   - "Category:Files"
 media: []
 ---
-
-'''Images''' on {{SITENAME}}.
+**Images** on {{SITENAME}}.
 [[Category:Files]]

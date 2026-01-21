@@ -9,10 +9,9 @@ categories:
   - "Category:Shuttered and Surrounds"
 media: []
 ---
+At the Wedding Band ([[30.15]]), the Doge's authority is weak. An **aristocracy of bosses **runs the fights, bars and brothels. 
 
-At the Wedding Band ([[30.15]]), the Doge's authority is weak. An '''aristocracy of bosses '''runs the fights, bars and brothels. 
-
-=== Bosses ===
+### Bosses
 [[Bogarus Bolger]]
 
 [[Divinio Ambersmyth]]

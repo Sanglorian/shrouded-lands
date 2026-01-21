@@ -11,8 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-==The Medusa==
+## The Medusa
 [[File:Medusa_1895.jpg|thumb|400px|'Medusa', Carlos Schwabe]]Connects to: 40.20 and the City of Shuttered
 Windows.
 
@@ -23,9 +22,9 @@ If intruders break into the tower and come face to face with the medusa, she wil
 The girl within the mass of snakes may speak cryptically, make extravagant threats or beg for death. The girl is in every way a normal human and can be killed as easily as one, although the snakes will attempt to defend her. If she is killed, the mass of snakes will detach itself from her scalp, slither with surprising speed across the room and attempt to attach itself to the head of any young female (if none is present, it will make do).
 
 This is rather painful for the new host.
-===Connection:===
+### Connection:
 *The medusa was used by the blind Doge against the [[centaurs]] of the [[Burning Lands]] ([[40.20]]).
-===Hooks:===
+### Hooks:
 *Where did the men of Shuttered get this parasitic medusa from? Are there more?
 *What happened when it got loose in the undercity?
 *Why is the Tower Savage (the Shuttered base inside of Blind Midshotgatepool) made out of petrified bodies?

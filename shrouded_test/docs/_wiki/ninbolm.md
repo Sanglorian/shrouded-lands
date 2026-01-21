@@ -10,12 +10,11 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-
 [[File:0524.png|right]] 
 05.24
 
-'''Region:''' [[The Lands of Gore]]
-==Ninbolm==
+**Region:** [[The Lands of Gore]]
+## Ninbolm
 Hex 05.24
 [[File:Gs35.jpg|thumb|336px|http://www.gutenberg.org/files/32406/32406-h/32406-h.htm]]
 
@@ -28,9 +27,9 @@ Ninbolm's citizens proudly assert that they have inhabited the great tree foreve
 For as long as any gnome can remember, the city has been ruled by the [[Hierophant of Ninbolm|Hierophant]], a druid who long ago merged with the tree's petrified heartwood. He can know anything that happens within the city. His omniscience is limited by the fact that he can only experience a few things at any given time. Druids, who serve all official functions within the city, commune with him through giant snail familiars that cling to the heartwood.
 
 The [[Indigo Academy]] is based in Ninbolm. It runs the [[Empty Drinkhall]], an illusory revelry.
-===Connections===
+### Connections
 *Some gnomish refugees moved out to avoid the Hierophant’s tyranny only to squabble with dwaves and get eaten by a dragon ([[09.24]])
-===Hooks===
+### Hooks
 *How much of the legend of Nilbog is true?
 *Where is the rest of the petrified tree?
 *What are some of the Hierophant's decrees?

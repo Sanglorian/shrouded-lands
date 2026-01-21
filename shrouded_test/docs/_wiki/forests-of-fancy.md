@@ -8,6 +8,5 @@ categories:
   - "Category:Planes"
 media: []
 ---
-
-Before [[Shuttered]] was shuttered, processions of Galloons visited the Shrouded Lands from the '''Forest of Fancy''' or '''Forests of Fancy'''.
+Before [[Shuttered]] was shuttered, processions of Galloons visited the Shrouded Lands from the **Forest of Fancy** or **Forests of Fancy**.
 [[Category:Planes]]

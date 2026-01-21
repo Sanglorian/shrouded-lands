@@ -8,12 +8,11 @@ categories:
   - "Category:Category templates"
 media: []
 ---
-
 {| style="width:100%; margin-top:1em; border:1px solid #999; font-size:90%; text-align:center;"
 |-
 ! style="background-color:#3366CC; color:#FFFFFF; padding:0.2em 0.5em;" | This is a very large category!
 |-
-! To see more of it, click the links below for specific letters, or click the "Next" (or "Prev") links.<br />Also note that subcategories are sorted alongside articles, so '''not all subcategories are visible on the first page'''.
+! To see more of it, click the links below for specific letters, or click the "Next" (or "Prev") links.<br />Also note that subcategories are sorted alongside articles, so **not all subcategories are visible on the first page**.
 |-
 | style="text-align:center;" |
 [{{fullurl:{{NAMESPACE}}:{{PAGENAME}}}} *] - 

@@ -10,9 +10,8 @@ categories:
   - "Category:The Westmarches"
 media: []
 ---
-
 [[File:FrankCPape10.jpg|thumb|400px|Frank C Pape]]
-==The Ziggurat==
+## The Ziggurat
 [[File:Zigg1.jpg|thumb|216px]]Hex 06.10
 
 Connects to: 03.08, 09.06 and 29.14.23.
@@ -23,12 +22,12 @@ The vegetation transforms into grasping pythons when climbed upon, pulling the u
 The violet flowers that blossom on the vines can be brewed into a [[violet tea|narcotic tea]] that offers a sense of euphoria. Knowledgeable characters can brew a tea that offers resistance to poison.
 
 [[Shep]] the goblin from Uncle Bertie’s Trading Post ([[03.08]]) gathers the tea for sale in Uncle Bertie's Trading Post at [[Maris]]' behest. He is jealous of his treasure and will lead others to their doom.
-===Connections: ===
+### Connections:
 *One of the idols of the temple had its [[rubies|ruby eyes]] pried out by [[Giles Chosard]] ([[09.06]]) and they now are set in the earrings of a young [[Electors|Elector]] named [[Ilace]] who is currently staying at Uncle Bertie’s Trading Post (03.08).
 *The design of this temple is very similar to that of the Black Ziggurat ([[18.26]]).
 *The rubies of the [[Traitor’s Pit]] (29.14.23), the Black Ziggurat ([[18.26]]) and the Green Ziggurat all seem to be identical.
 *The [[Grimes]] feed occasional sacrifices to the Snake God to placate it.
-===Hooks:===
+### Hooks:
 *How is the snake-demon imprisoned? Who imprisoned it?
 *How does Shep gather the tea without being killed?
 [[Category:Hex]]

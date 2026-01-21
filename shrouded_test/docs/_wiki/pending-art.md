@@ -8,8 +8,7 @@ categories:
   []
 media: []
 ---
-
-==Page 1==
+## Page 1
 http://darkclassics.blogspot.com.au/2012/12/andreas-achenbach-snowy-forest.html
 
 http://darkclassics.blogspot.com.au/2011/04/kawanabe-kyosai-ghost-painting_2392.html

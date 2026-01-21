@@ -11,9 +11,8 @@ categories:
   - "Category:Sosaria"
 media: []
 ---
-
 Dodos are farmed in [[Sosaria]]. [[Jahur]]i merchants take advantage of dodos' poor sense of smell by having them pull caravans past the Scent Barrier ([[21.29]])
-===Hooks===
+### Hooks
 *Tell me more about Jahur's giant dodo birds. Have any knights of Thring adopted them as mounts?[[File:Dodo_stoelzel.jpg|thumb]]
 [[Category:Creatures]]
 [[Category:Animals]]

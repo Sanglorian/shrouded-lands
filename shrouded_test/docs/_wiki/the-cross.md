@@ -9,9 +9,8 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-
-'''[[File:SL_18.png|thumb|343px]]Region:''' [[Bitter Coast]]
-'''Hex: '''02.11
+**[[File:SL_18.png|thumb|343px]]Region:** [[Bitter Coast]]
+**Hex: **02.11
 
 Sailing on the [[Ocean of Bitter Regrets]] takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
 
@@ -21,18 +20,18 @@ Do not make the mistake of thinking that misery makes this city safe. Many sailo
 
 The Skull, a floating city of moored ships, used to sit in the bay of the Cross. One day, the [[King of Salt and Brine]] was caught in one of its ropes and pulled the whole armada out to sea before freeing himself. Where it floats now, no
 one knows.
-==Subhexes:==
+## Subhexes:
 *02.11.01 (The Pits of the Cross): this serves as the jail of the Cross.
 *02.11.02 (The Skinscratch Murders): people are being murdered and left without their most precious possession and with strange marks carved into their skin.
 *02.11.03 (The Rogue Janissary): a golem captains one of the local pirate ships.
-==Connection:==
+## Connection:
 *An old sailor and the ghosts of some pirates who once frequented the Cross can be found not so far from here (01.10).
-==Hooks:==
+## Hooks:
 *Where is the Skull now?
 *Are the Matrons as motherly as they seem?
 *On whom do the Pirate Kings prey?
 *Why are the Pirate Kings gathering their forces and cloud castles?
-==The Pits of the Cross==
+## The Pits of the Cross
 [[File:SL_19.png|thumb|400px]]Connects to: 29.14.15.
 
 A crevasse on the outskirts of the Cross serves as a jail for the city. Those who anger one of the local bosses are either locked in one of the cave-vaults in the sides of the crevasse or simply lowered into the crevasse itself via a crude elevator. No one guards the prisoners, but citizens of the Cross amuse themselves by throwing things at anyone who attempts the steep climb out of the Pits.
@@ -40,12 +39,12 @@ A crevasse on the outskirts of the Cross serves as a jail for the city. Those wh
 An informal community has arisen in the Pits. They barter and feud among themselves and will transport food or even tools for escape to those in the cave-vaults. Most of the bosses come around to the Pits once a week or month and free those who have stayed for a sufficient amount of time, allies who were imprisoned by other bosses and those prepared to strike a deal with the one of the bosses.
 
 There are a few people who have sneaked into the Pits to escape scrutiny, including a [[Smiling Men|Smiling Man]] biding his time until a particular target is thrown into the pits.
-===Hooks:===
+### Hooks:
 *Who is the Smiling Man's target? How can he be sure that the target will be thrown in the Pits?
 *Who else is lying low here?
 *What beast is trapped in one of the cave-vaults?
 *Who are the bosses of the Cross?
-==The Skinscratch Murders==
+## The Skinscratch Murders
 [[File:SL_20.png|thumb|398px]]Hex 02.11.02
 
 Connects to: 08.16 and 26.20.07.
@@ -60,9 +59,9 @@ Street preachers have not been shy to accuse the [[crowfolk]] of somehow being
 responsible. [[One-Eyed Kristof]]—a known fantasist—claims that the crowfolk have realised that their obsession with shiny things leads them to value worthless trash: so they have devised magic that identifies the most valuable item a person is carrying, without realising that this is almost as arbitrary as their own love of 'shinies'. He cannot explain the Gabber marks, however.
 
 The Scarecrows have shown particular interest in the killings, with one saying darkly that they have to be stopped before 'the forbidden sign' is used.
-===Connections===
+### Connections
 *The murderer is the daughter of a pirate of the Cross. The [[hollow-hearted elf]] wilfully misinterpretted the pirate's request, much to the pirate's horror
-===Hooks===
+### Hooks
 *What is the forbidden sign?
 *Are the crowfolk involved?
 *Where does One-Eyed Kristof get his information?
@@ -71,7 +70,7 @@ The Scarecrows have shown particular interest in the killings, with one saying d
 
 [[File:PRISMATIC_ADAM.jpg|thumb|400px|"Captain Hook" © 2012 Brian Patterson, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/]]
 
-==The Rogue Janissary==
+## The Rogue Janissary
 Hex 02.11.03
 
 Connects to: 19.31 and 23.32.
@@ -80,20 +79,20 @@ Connects to: 19.31 and 23.32.
 who remain in that city is that the octoids did not take the Daughter. It was stolen by a reanimated [[Janissaries|Janissary]] who had grown bored by centuries of service.
 
 With the pearl in one fist and a map in the other, the Janissary made its way across the Shrouded Lands until it came to the Cross. It fell in with pirates and now serves as captain of its own ship under the name of [[Ironsides]].
-===Connection:===
+### Connection:
 *Ironsides has captured a nereid and forces her to serve him (02.18).
-===Hooks:===
+### Hooks:
 *Just what trade passes through the Ocean of Bitter Regrets?
 *How does the Rogue Janissary disguise itself? Does it need to?
 
-==A Being of Pollen and Milk==
+## A Being of Pollen and Milk
 Some years ago the proprietor of this restaurant was a bitter chef serving bad food. One day, she drove all her staff from the building, claiming they were sabotaging her cooking and she would bring in new workers.
 
 They seem to have done the trick: her food is now heralded as the finest in [[the Cross]].
 
 In fact, she enslaved [[elemental beings|a being of pollen and milk]] and forces it to prepare all the meals her guests order. The being tries occasionally to seek help - leaving symbols in the drizzled sauce or marbling ‘Save me’ in the meat.
 
-===Hooks===
+### Hooks
 *How do you enslave a being?
 *This is the second being associated with food (Chelind's Buns, [[16.16]]). Why is there a connection?
 *What is the name of the restaurant?

@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -25,27 +24,27 @@ media: []
 | }}
 
 |-
-! colspan="2" | <div class="wikia-infobox-section-header">{{{artist|''Unknown''}}}</div>
+! colspan="2" | <div class="wikia-infobox-section-header">{{{artist|*Unknown*}}}</div>
 
 |-
 ! Released
-| {{{released|''Unknown''}}}
+| {{{released|*Unknown*}}}
 
 |-
 ! Recorded
-| {{{recorded|''Unknown''}}}
+| {{{recorded|*Unknown*}}}
 
 |-
 ! Length
-| {{{length|''Unknown''}}}
+| {{{length|*Unknown*}}}
 
 |-
 ! Label
-| {{{label|''Unknown''}}}
+| {{{label|*Unknown*}}}
 
 |-
 ! Producer
-| {{{producer|''Unknown''}}}
+| {{{producer|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

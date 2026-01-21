@@ -8,7 +8,6 @@ categories:
   []
 media: []
 ---
-
 While the main [[deck of cards]] in the Shrouded Lands uses the [[Undying Cycle]] for its inspiration, it is the curious set of pieces called a quertik that is the most popular foundation for games.
 
 Just as a deck fo cards can be used to play many card games - [[Cripple Baron Autumn]], [[Twins]], [[Go Wereshark]] - a quertik can be used to play many boardgames.
@@ -17,7 +16,7 @@ The quertik consists of four suits: Suns, Moons, Caps and Storms. The Caps suit 
 
 Folklore and slang have grown up around each component. The Lord of Suns is called the king, after the [[King in Splendour]]. The Lord of Moons is the Merchant; the six Caps coins are called Drops, the six Moon tiles are named after [[Bergolast]]'s city quarters.
 
-===Hooks===
+### Hooks
 *What are the slang terms for the other components? What is their significance?
 *What games are played with a quertik? Have any matches been played that changed the course of history?
 *What are the rules of Cripple Baron Autumn?

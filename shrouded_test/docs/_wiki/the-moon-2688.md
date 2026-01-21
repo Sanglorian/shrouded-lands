@@ -10,7 +10,6 @@ categories:
   - "Category:The Moon"
 media: []
 ---
-
 *[[Umberstone]]
 *[[Lycanthropes]]
 *[[Somnakami]]
@@ -18,7 +17,7 @@ media: []
 *[[Moon nuts]]
 *[[Flowers of the moon]]
 *There is a Barrier Range superstition that the first bird a man sees on the first full moon following his sixteenth birthday indicates who he shall marry (implemented in [[Simone's Aviary]])
-*The hues and temperaments of [[moon elephants]] change to match the phases of the moon
+*The hues and temperaments of [[moon elephants]] change to match the phases of the moon
 *'Once the [[father of all dragons]] asked the darkness behind the moon for a gift and it was granted. Even today, all dragons remember every coin of their hoard, every bauble and every gem.' ([[Kobolds]])
 [[Category:Astronomy]]
 [[Category:Phenomena]]

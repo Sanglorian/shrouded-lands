@@ -10,11 +10,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
+**Family: **[[Seutorians]]. Count Seutorian is uncle of [[Lucin Seutorian]] and [[Cliffar Seutorian]] ([[11.03]])
 
-'''Family: '''[[Seutorians]]. Count Seutorian is uncle of [[Lucin Seutorian]] and [[Cliffar Seutorian]] ([[11.03]])
-
-==Connections==
-
+## Connections
 *The Count funded Lucin's disastrous production of [[The Song of Ban and Ulena]] ([[39.12]])
 
 *The Count's [[Balloons (Shuttered)|hot-air balloon]] looks like [[Baron Harenghast]]'s mother.

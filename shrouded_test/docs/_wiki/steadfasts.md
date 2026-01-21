@@ -9,8 +9,7 @@ categories:
   - "Category:Humans"
 media: []
 ---
-
-Previously known as '''Stodfost'''.
+Previously known as **Stodfost**.
 
 *[[Terise of Steadfast]]
 

@@ -9,8 +9,7 @@ categories:
   - "Category:Elementals"
 media: []
 ---
-
-==Connections==
+## Connections
 *Elves specialise in elemental summoning, and the art is more closely guarded than it was when water-spirits were summoned to power the [[Waterworks (Shuttered)|Waterworks]]
 **The tempest of Idjit Tower owes allegiance to the [[Queen Sinister]]. 
 **The elves summoned a horde of elementals to dismantle the walls of the Citadel of the Verlimes ([[18.07]]). A few still guard the ruins and ensure that no one rebuilds. 
@@ -20,7 +19,7 @@ media: []
 *The lamplighters ([[17.06]]) with iron and flame keep away the monsters dwelling in Verlime Citadel, particularly the elementals
 *The [[Pirate Kings]] trade with elemental envoys. 
 *The air was chained to the earth by ancient elementals ([[World’s Edge and Beyond]])
-==Elementals==
+## Elementals
 *[[Elemental beings]]
 *[[Tempests]]​ and tempest spawn
 *[[Steam elemental]] ([[44.19]])

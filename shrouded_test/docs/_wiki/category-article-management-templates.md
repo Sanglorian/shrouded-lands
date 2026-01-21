@@ -8,8 +8,7 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
-Templates to aid in '''article management'''.
+Templates to aid in **article management**.
 
 {{Templatecategory}}
 

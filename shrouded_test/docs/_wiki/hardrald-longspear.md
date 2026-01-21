@@ -11,13 +11,11 @@ categories:
   - "Category:Winds"
 media: []
 ---
-
-'''Family:''' [[Longspears]]. [[Egil Longspear]] was his son.
+**Family:** [[Longspears]]. [[Egil Longspear]] was his son.
 
 Hardrald Longspear was a barbarian from the Westmarches. Armed with the longspear [[Seven Paces]] from which he got his name, Hardrald held the bridge now known as Longspear Bridge for two hours against an orc army.
 
-==Further reading==
-
+## Further reading
 *See the Longspear Bridge entry for more on his exploits ([[22.11]])
 [[Category:Characters]]
 [[Category:Longspears]]

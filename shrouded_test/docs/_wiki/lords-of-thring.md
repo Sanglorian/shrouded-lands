@@ -11,8 +11,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
-The '''Lords of Thring''' are the feudal lords of the [[Duchy of Thring]]. They answer ultimately to the [[Duke of Thring]]. Each has their seat in a different castle, and typically their knights have different mounts (see also, [[mounts of Thring]]). 
+The **Lords of Thring** are the feudal lords of the [[Duchy of Thring]]. They answer ultimately to the [[Duke of Thring]]. Each has their seat in a different castle, and typically their knights have different mounts (see also, [[mounts of Thring]]). 
 
 {| class="wikitable"
 |-

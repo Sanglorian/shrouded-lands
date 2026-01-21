@@ -8,11 +8,10 @@ categories:
   - "Category:Infobox templates"
 media: []
 ---
-
 <onlyinclude>{| class="wikia-infobox"
 
 |-
-! class="wikia-infobox-header" colspan="2" | {{{title|''Unknown''}}}
+! class="wikia-infobox-header" colspan="2" | {{{title|*Unknown*}}}
 
 |-
 {{#if: {{{image|}}} |
@@ -29,30 +28,30 @@ media: []
 
 |-
 ! Author
-| {{{authot|''Unknown''}}}
+| {{{authot|*Unknown*}}}
 
 |-
 ! Illustrator
-| {{{illustrator|''Unknown''}}}
+| {{{illustrator|*Unknown*}}}
 
 |-
 ! Published on
-| {{{date|''Unknown''}}}
+| {{{date|*Unknown*}}}
 
 |-
 ! Published by
-| {{{publisher|''Unknown''}}}
+| {{{publisher|*Unknown*}}}
 
 |-
 ! colspan="2" | <div class="wikia-infobox-section-header">Publication order</div>
 
 |-
 ! Previous
-| '''Next'''
+| **Next**
 
 |-
-! style="font-weight:normal;" | {{{previous|''Unknown''}}}
-| {{{next|''Unknown''}}}
+! style="font-weight:normal;" | {{{previous|*Unknown*}}}
+| {{{next|*Unknown*}}}
 
 |- style="font-size:0; line-height:0;"
 ! style="width:50%; padding:0" |

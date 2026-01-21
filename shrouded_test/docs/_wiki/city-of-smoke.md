@@ -11,15 +11,14 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
-==The City of Smoke==
+## The City of Smoke
 [[File:51.29.png|thumb|400px]]Hex 51.29
 
 Connects to: 15.28, 25.17, 21.29, 29.14.47, 31.27, 38.28, 39.32 40.06, 43.27.01, 44.03, 50.29, 50.30, 51.17 and the City of Shuttered Windows.
 
-Known as the '''Burning City''' to the people of [[Jahur]].
+Known as the **Burning City** to the people of [[Jahur]].
 
-Traditionally, there has been no authority over the [[gnolls|gnoll clans]] but the Mother. She dwells in the '''City of Smoke''' (or the '''City of Shit''' according to the men of [[Shuttered]]), so called because of the dried cow dung that always burns there. Many gnollish disputes have been settled there by the wisdom of past Mothers. The Mothers are indeed wise for when one dies, her successor consumes her heart raw, and gains a portion of her soul, memories and wisdom.
+Traditionally, there has been no authority over the [[gnolls|gnoll clans]] but the Mother. She dwells in the **City of Smoke** (or the **City of Shit** according to the men of [[Shuttered]]), so called because of the dried cow dung that always burns there. Many gnollish disputes have been settled there by the wisdom of past Mothers. The Mothers are indeed wise for when one dies, her successor consumes her heart raw, and gains a portion of her soul, memories and wisdom.
 
 However the current Mother, the so-call [[Great Mother]], is a gnoll of a different color. As the last Mother lay dying, matriarchs of all of the gnoll clans gathered in the City of Smoke to pay their respects and choose her successor (traditionally done by gathering the matriarchs in a closed hut wherein the dung of a cow poisoned by [[bleeding berries]] ([[25.17]]) is burned until the matriarchs who have not yet passed out can come to an agreement). This time, followers of the gnoll now called the Great Mother burst into the sod hut there the matriarchs had gathered and subdued almost all but three, who managed to escape, with nets and magics. There, at the urgings of their leader, the throat of the ailing Mother was slit and her heart was forced down the throat of one of the captured matriarchs. When the terrified gnoll had finished her feeding her own throat was slit and her own heart was fed to the next matriarch.
 
@@ -32,21 +31,21 @@ These days much tribute and many slaves are brought from the south into the City
 These days all gnolls live in fear of the Great Mother and her three outland advisers who include an exile from Thing ([[50.29]]) and the priest who claims to worship the lost God-[[Tarrasque]] of Bergolast and who is always wreathed in magical light so bright that he cannot be looked upon. Some young gnolls, such as those who live in the Broken Spear ([[40.06]]), fear to return from their wanderings and others whisper in secret of the three matriarchs who escaped the Great Mother and yet plan her overthrow.
 
 Urged on, they say, by the whisperings of the bright priest, the Great Mother has commanded the gnolls to seek in the ruins for [[Bergolast]] for objects of great power that she claims will allow the gnolls to establish an unbreakable imperium over the Twelve Nations, instead of the occasional tribute payments that the Great Mother is able to currently obtain.
-===Connections: ===
+### Connections:
 *The Great Mother seeks the heart of one of the [[painted elephants]] (43.27.01), but such a heart must be eaten whole to have an effect, which may prove difficult.
 *The gnolls raid the dwarves of the western Burning Lands ([[31.27]]), but even the Great Mother has let them off with token tribute payments as she judges conquering or exterminating them would not be worth her while.
-===Subhexes:===
+### Subhexes:
 *51.29.01 (The Skull of the Defiler): this is a great lost artifact of the gnolls.
 *51.29.02 (The Howling College): the greatest center of the fine art of gnollish singing in these lands.
-===Connections:===
+### Connections:
 *The gnolls receive salt from the Fallsalt Mines ([[44.03]]), but the supply has recently been cut off.
 *Some gnollish exiles now live in Abbalah-doon ([[15.28]]).
 *The Scent Barrier makes it difficult for gnolls to travel west into the Singing Wastes (21.29), which helps keep the human city of Jahur safe.
 *The Great Mother's third non-human adviser is a gormandizing jackalwere (51.17) named Voon. He keeps her informed of events around Sosaria in exchange for his favorite delicacy, dwarf pie.
 *After the gnollish victory over the Golden Realm, a sacred lion statue of a lion was carted back to the Burning Lands, but the Great Mother seems to fear it and refuses to allow it to be displayed in her city (50.30).
-===Hooks:===
+### Hooks:
 *What does the Great Mother hope to find in Bergolast? Is that thing really there or has she been misled by her advisers?
-==The Skull of the Defiler==
+## The Skull of the Defiler
 [[File:512901.png|thumb]]Hex 51.29.01
 
 Connects to: 29.14.09, the Grey Mountains and the City of Shuttered Windows.
@@ -60,7 +59,7 @@ After the Defiler died, his skull was bleached by the desert winds and kept as a
 The Skull was used as a weapon by the gnolls during the [[Gnawbone Wars]] against the City of Shuttered Windows. An entire army from the [[Duchy of Thring]] was routed by a glance from the Skull, as were the defenders on the walls of the [[Shuttered City]]. However, at the crucial moment, the one who wore the Skull overexerted himself and collapsed. While the other gnoll chieftains bickered over who would take up the Skull next, the Waterworks of the Shuttered City (29.14.09) were opened to drown the entire gnollish army on the shores of the Keening Sea.
 
 The whereabouts of the Skull of the Defiler is currently unknown. Some say it was washed into the sea and is now lost in sunken reefs, or was found by the wailing [[drow-ghosts]]. Others claim that it was captured by the [[Doge]]'s men and locked in a vault in the depths of the [[Undercity]]. Still others report it was picked up by an adventurer and later lost on the fringes of the [[Kingswood]].
-===Hooks:===
+### Hooks:
 *Where did the gnolls come from before they were in the Burning Lands? Why did the Defiler lead them there, and hy did they remain after his death?
 *What creature did the Defiler find in the Grey Mountains that gave him such power?
 *How did the gnolls change from a dueling-chieftains hierarchy to the current one with the matriarchs?

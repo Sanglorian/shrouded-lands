@@ -10,8 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
-[[File:Minotaure_posant_pour_un_calendrier_S.jpg|thumb|left|lyonart, 'Minotaure posant pour un calendrier' (CC BY-SA 3.0 Unported)]][[File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg|thumb|400px|George Frederic Watts]]Minotaurs ([[14.02]], [[18.26]], [[27.16]], [[29.14]], [[39.32]])
+[[File:Minotaure_posant_pour_un_calendrier_S.jpg|thumb|left|lyonart, 'Minotaure posant pour un calendrier' (CC BY-SA 3.0 Unported)]][[File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg|thumb|400px|George Frederic Watts]]Minotaurs ([[14.02]], [[18.26]], [[27.16]], [[29.14]], [[39.32]])
 
 Minotaurs, skeletal ([[39.32]])
 
@@ -21,20 +20,17 @@ A grouping of minotaurs in a steading is a herd, and the minotaurs of Lastmaze a
 
 Shuttered has signed the [[Horn Treaty]], decreeing all minotaurs to be property of the orcish nation. The bull-like minotaurs were always considered semi-heretical by the church of [[Alberon]], which sacrifices white cattle.
 
-==Minotaurs==
-
+## Minotaurs
 *[[Ja of the Red]]
 
-==Places==
-
+## Places
 *Lastmaze ([[18.02]])
 
 *[[Embassies (Shuttered)|Empty and bricked up embassy]]
 
 *Blackhorn's Maze ([[39.32]]) was built as an outpost during the [[Chimerical Siege]]. Minotaur eyes of fear and flame guard it now.
 
-==Connections==
-
+## Connections
 *The gnolls "vigorously and with weapons" dispute the minotaur claim that the lands north of Blackhorn's Maze ([[39.31]]) are glazed flat because they were scorched by trailing blood from [[Tiamat]]'s severed red head.
 [[Category:Creatures]]
 [[Category:Peoples]]

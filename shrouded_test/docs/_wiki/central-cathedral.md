@@ -10,9 +10,8 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[The Giant and the Gnome]] is taller than, and casts a shadow upon, the Central Cathedral. 
-==Connections==
+## Connections
 *There is a [[Great Temple of Alberon]]. It is not clear what the relationship between these two buildings is, or whether they are the same building.
 [[Category:Buildings]]
 [[Category:The Shuttered City]]

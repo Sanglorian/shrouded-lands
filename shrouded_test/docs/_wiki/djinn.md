@@ -10,8 +10,7 @@ categories:
   - "Category:Outsiders"
 media: []
 ---
-
-According to legend, [[Imorcar]] summoned an army of '''djinn''' to build the [[Elephant Wall]] that protects [[Sosaria]].
+According to legend, [[Imorcar]] summoned an army of **djinn** to build the [[Elephant Wall]] that protects [[Sosaria]].
 [[Category:Creatures]]
 [[Category:Genies]]
 [[Category:Outsiders]]

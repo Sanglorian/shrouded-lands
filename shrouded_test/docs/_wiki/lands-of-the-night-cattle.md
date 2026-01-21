@@ -9,11 +9,10 @@ categories:
   - "Category:The Lands of the Night Cattle"
 media: []
 ---
-
 [[File:Moo.png|right]] 
 
 
-==The Lands of the Night Cattle==
+## The Lands of the Night Cattle
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [[27.04]], [[28.04]], [[29.01]], [[30.03]] and [[31.04]].</span></p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">Connects to: </span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif";mso-bidi-font-family: "TimesNewRoman";color:black;mso-themecolor:text1">27.03, 29.07, 29.14.01, 29.14.07, 33.00, 33.16, 34.05, 41.02 and the Kingswood.</span></p>
@@ -24,7 +23,7 @@ All of these keeps are well away from the woods, except the one inhabited by Lor
 
 From the western plains, past the edge of the Kingswood and up into the northern mountains to the Titan’s Skull (33.00) lies the [[Welt Road]]. It was built by the men who herd the night cattle, who dig deep trenches at night, raise support beams and then cover the road with dirt and sod. These men, who cringe at the sight of the sun, can then scuttle between their keeps during the day, which also makes it easier for caravans to travel east into their lands. (See [[Welt Road]] for more).
 
-==Hex Summary==
+## Hex Summary
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">27.04 (The Order of the Broken Chain): becoming the leader of a growing slave rebellion was never part of his plans.
 </span></p>
 
@@ -41,7 +40,7 @@ From the western plains, past the edge of the Kingswood and up into the northern
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">
 </span></p>
 
-==Connections==
+## Connections
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">-</span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">The </span><span lang="EN-US" style="font-size: 9.0pt;font-family:"CenturyGothic","sans-serif";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">night </span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif";mso-fareast-font-family: "TimesNewRoman";mso-bidi-font-family:"TimesNewRoman";color:black; mso-themecolor:text1">cattle are used by the Brothers of the Grove (33.16) to help guide the process by which the Doge of the City of Shuttered Windows is selected</span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1"> and are used in the wicked auguries of the Whispering Sisters (29.14.07). They are carefully inspected when they are brought into the City (29.14.01).
 </span></p>
 
@@ -49,7 +48,7 @@ From the western plains, past the edge of the Kingswood and up into the northern
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">-A strange tree has been eating cows while the herdmen blame each other for the disappearances (27.03).</span></p>
 
-==Hooks==
+## Hooks
 *What cults value these albino cows for sacrifices?
 *Who are the individual lords who rule the various keeps of the night men?
 *Why do some elves want human infants?

@@ -10,7 +10,6 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-
 *[[The Collector]] (The Castle of the Collector)
 *[[Lady Natala]] (Castle Maratan)
 *[[The Sack Man]] (debatable; The Castle of the Sack Man, [[09.19]])
@@ -18,14 +17,14 @@ media: []
 *[[Lady Belal]] of the Nets (Castle Ravenscraig)
 *[[Anselm Brucoloc]] (Castle Brucoloc, former)
 *[[Sulgrim]] (Castle Brucoloc, current)
-The rulers of [[The Lands of Gore]]
+The rulers of [[The Lands of Gore]]
 The Lords Sanguine cannot bear to look upon running water.
 
 The Lords Sanguine have mastered the art of teasing out useful information from the visions imparted by drinking the blood of [[The Tarrasque]].
 
 The Lords Sanguine took their position from the [[royal family of Gore]]
 
-==The Rhyme of the Sanguine Lords==
+## The Rhyme of the Sanguine Lords
 From the blood of the [[Tarrasque]],<br />
 Antic and old,<br />
 Sipped twelve humble butchers,<br />
@@ -66,7 +65,7 @@ Or bathe in a flood.<br />
 But one law goes unbroken:<br />
 Speak nothing of blood.<br />
 
-===Hooks===
+### Hooks
 *What genius could write a terrific poem like this?
 *What effect do these superstitutions have on the Lords’ behaviour?
 *What encourages the Lords to follow these suiperstitutions?

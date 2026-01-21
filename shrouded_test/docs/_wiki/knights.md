@@ -8,11 +8,10 @@ categories:
   - "Category:Professions"
 media: []
 ---
-
 Knights are often described questing, such as through the lands of the Hunting Huts ([[10.14]]) or into the mouth of [[Celadon]] the Shrewd ([[10.12]]).
 
 The [[knights of Thring]] are the best-known and most numerous knights of the Shrouded Lands.
-==Orders of knights==
+## Orders of knights
 *Sulgrim of Castle Brucoloc ([[08.21]]) has ten troll knights.
 *The [[snickersnees]] are the knights of Castle Maratan ([[07.17]]), of low birth and without heraldry on their shields.
 *The knights of Ettin Castle ([[13.06]]) are sworn to one of the three households that live there.
@@ -22,6 +21,6 @@ The [[knights of Thring]] are the best-known and most numerous knights of the Sh
 *The werewolf nuns ([[10.17]]) were infected by a retainer of Gore, a knight. 
 *[[The Freeholds|Freeholders]] are mustering men-at-arms who fancy themselves to be knights.
 *[[The Collector]] sent knights to the Glass Eye ([[01.23]]), though they were repulsed
-==Specific knight==
+## Specific knight
 *[[Sir Alard]] is a knight of Oldstones, wherever that is ([[23.10]]).
 [[Category:Professions]]

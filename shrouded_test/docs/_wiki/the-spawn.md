@@ -14,7 +14,6 @@ categories:
   - "Category:The Witchwater"
 media: []
 ---
-
 [[File:3908.png|thumb|400px]]Hex [[39.08]] (shared with [[Riparia]])
 
 Connects to [[40.09]]
@@ -25,7 +24,7 @@ When all of the tadpoles of the swarm speak together they are capable of being u
 difficult for them and carries a large chance of failure. Alternatively, they can cast a vast swarm of [[cantrips]] at their enemies.
 
 These enemies are humans, especially [[Thringmen]], for the Spawn remembers what the men of Thring did to frogkind ([[40.09]]). The Spawn will not generally attack non-humans however, and they can even be consulted with about some magical matters that they have mastered.
-===Hooks:===
+### Hooks:
 *What caused the Spawn to form and how did it learn magic?
 [[Category:Creatures]]
 [[Category:Frogs]]

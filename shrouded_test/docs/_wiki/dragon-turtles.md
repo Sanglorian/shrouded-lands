@@ -11,8 +11,7 @@ categories:
   - "Category:Turtles"
 media: []
 ---
-
-*The first Hog of [[Death's Lovelies]], after much consideration, chose to die by climbing naked into the mouth of a sleeping '''dragon turtle''' while singing the bawdy folk song "The Lady and the Codfish.”
+*The first Hog of [[Death's Lovelies]], after much consideration, chose to die by climbing naked into the mouth of a sleeping **dragon turtle** while singing the bawdy folk song "The Lady and the Codfish.”
 [[Category:Creatures]]
 [[Category:Dragons]]
 [[Category:Turtles]]

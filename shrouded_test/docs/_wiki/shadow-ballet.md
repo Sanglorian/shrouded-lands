@@ -10,8 +10,7 @@ categories:
   - "Category:Professions"
 media: []
 ---
-
-Also known as the '''Shadowed Ballet'''.
+Also known as the **Shadowed Ballet**.
 
 There are seven dancers of the Shadow Ballet in the [[Grey Comedy]]; [[Rosetta]] claims that they were once [[firebirds]] turned to stone.
 

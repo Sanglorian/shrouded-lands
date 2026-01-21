@@ -9,7 +9,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-gia.png|thumb|336px]]Connects to: 00.02 and 26.20.07.
 
 The improbable coupling vividly depicted on the sign hanging outside this tavern is a reference to a bawdy folk song about a [[Pirate Kings|Pirate King]] and his alleged dalliance with a flirtatious [[gnomes|gnome]] pirate whose ship he captured. How the gnome turned to piracy is unknown—according to some stories she was the last to leave the ruins of the [[stone giants]] after that devout race demolished their castles and took to living under the open sky.
@@ -21,7 +20,7 @@ The Giant and the Gnome is inaccessible from the street. Long-term lodgers lower
 Inside, the tavern is a den of strictly regulated vices. Only drinks bought at the bar can be consumed, and no money is allowed to change hands between patrons. Even idly challenging another drinker to a friendly wager will see one expelled; selling sexual services without a licence from the bartender is punished by defenestration. [[Crowfolk]], chattering to one another, walk along the rafters watching for thieves and brawlers.
 
 The tavern is considered the finest place to celebrate, seal a business deal, meet a lover or arrange an adventure. The bartenders look almost identical, with dark blue skin and white hair: they claim to be the sons of the fertile and adulterous founder of the tavern, though none can find a record of any time before there was The Giant and the Gnome.
-===Hooks:===
+### Hooks:
 *What is the story behind the bartenders?
 *How do they manage to employ crowfolk?
 *Did the gnome and the giant ever exist?

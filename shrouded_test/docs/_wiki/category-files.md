@@ -8,6 +8,5 @@ categories:
   - "Category:Browse"
 media: []
 ---
-
-'''Files''' on {{SITENAME}}.
+**Files** on {{SITENAME}}.
 [[Category:Browse]]

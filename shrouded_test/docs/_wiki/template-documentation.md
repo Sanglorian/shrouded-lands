@@ -9,12 +9,11 @@ categories:
   - "Category:Template documentation"
 media: []
 ---
-
 <includeonly>{| class="article-table" style="width:100%;"
 |- style="font-size:18px;"
 ! Template documentation follows
 |-
-| ''Note: the template above may sometimes be partially or fully invisible.''
+| *Note: the template above may sometimes be partially or fully invisible.*
 |-
 | Visit [[Template:{{PAGENAMEE}}/doc]] to edit this documentation. ([[Template:Documentation|How does this work?]])
 |}

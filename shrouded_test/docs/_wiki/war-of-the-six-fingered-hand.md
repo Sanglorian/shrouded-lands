@@ -10,9 +10,8 @@ categories:
   - "Category:Jahur"
 media: []
 ---
-
-The [[duergar]] seized the Dismal Mine ([[21.27]]) from [[Jahur]] during the '''War of the Six-Fingered Hand'''. 
-==See also==
+The [[duergar]] seized the Dismal Mine ([[21.27]]) from [[Jahur]] during the **War of the Six-Fingered Hand**. 
+## See also
 *[[Fingers and fingernails]]
 [[Category:Jahur]]
 [[Category:Dwarves]]

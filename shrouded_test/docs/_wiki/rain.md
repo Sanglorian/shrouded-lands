@@ -9,8 +9,7 @@ categories:
   - "Category:Weather"
 media: []
 ---
-
-[[With Morning Comes Mistfall]] purports to explain why, in the Shrouded Lands, it rains but once a year (the so-called [[Drow's Tears]]). The claim is that the [[Queen Sinister]] cursed the land when she left the [[Bloodied King]]. 
+[[With Morning Comes Mistfall]] purports to explain why, in the Shrouded Lands, it rains but once a year (the so-called [[Drow's Tears]]). The claim is that the [[Queen Sinister]] cursed the land when she left the [[Bloodied King]]. 
 
 According to the story, she spared the [[Pirate Kings]]; their storm castles still release rain.
 [[Category:Weather]]

@@ -9,15 +9,12 @@ categories:
   - "Category:Professions"
 media: []
 ---
-
-==Connections==
-
+## Connections
 *The Bard is one of the gods of the [[Undying Cycles of Creation]].
 
 *[[The Day of the Bard]] is presumably named after him ([[08.21]])
 
-==Bards==
-
+## Bards
 *[[Olga Pignose]]'s father was a half-elf bard.
 
 *Bards and musicians who might be capable of playing the didgeridoo to summon [[Old Leviathan]] are kept at [[Skullreach]].
@@ -36,8 +33,7 @@ media: []
 
 *[[Algrael the Gelderer]]
 
-==Musical lore==
-
+## Musical lore
 *Gnoll bards sing of ancient battles when warriors rode [[wyverns]] into battle, and sightings on the eve of conflict are considered auspicious.
 
 *A popular dwarf chant tells of how in a dark hour, the wyvern ([[29.29]]) will save them. She will turn her fury against the gnoll armies and scatter them across the desert.
@@ -52,8 +48,7 @@ media: []
 
 The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [http://shrouded-lands.wikia.com/wiki/Green_Lady Green Lady]’s shawl from the [http://shrouded-lands.wikia.com/wiki/Steeple_of_Alberon?action=edit&redlink=1 Steeple of Alberon] itself ([http://shrouded-lands.wikia.com/wiki/29.14 29.14].14).
 
-==Works==
-
+## Works
 *[[Song of Dust and Flame]]
 
 *[[The Song of Ban and Ulena]]

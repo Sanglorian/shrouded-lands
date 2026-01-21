@@ -9,7 +9,6 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-
 [[File:Sing1.png|thumb|400px]]Includes hexes: [[08.27]], [[09.29]], [[11.27]], [[11.28]], [[11.32]], [[12.28]], [[12.29]], [[13.28]], [[13.30]], [[14.23]], [[14.27]], [[15.28]], [[17.30]], [[18.28]], [[19.30]], [[19.31]], [[20.32]], [[21.27]], [[21.29]], [[23.32]], [[25.31]] and [[26.33]].
 
 When the [[Queen Sinister]] banished rainfall from the Shrouded Lands, almost all life fled this torrid plain. Today, those who trudge through the sands may hear the songs of the creatures that remain. [[Ghouls]] gather here in great packs. Here, far from anything shaped by humans, their illusions are potent. They are fond of serenading their prey before gorging themselves. The sad lows and growls of [[Abbalah-Doon]]’s outcast gnolls are more likely to inspire melancholy than fear. [[Nekh]], a race of vultures that claims the desert form screeching, cawing choruses as they glide on thermals from the [[Breath of the Earth]]. The Breath of the Earth's tainted moisture nourishes the [[Forest of Abominations]], a putrid cactus forest filled with creatures that even Nekh hesitate to eat.
@@ -17,7 +16,7 @@ When the [[Queen Sinister]] banished rainfall from the Shrouded Lands, almost al
 The Singing Wastes hold many secrets. Somewhere in this badland, [[Grandfather Cactus]] presides over a pristine valley. Elsewhere, a hermit dwells in a bird god's skull. Legends of [[Zaal]], an elf city built from the dreams of mortals, place it somewhere deep within this trackless waste. An oasis cradles the remnants of a [http://shrouded-lands.wikia.com/wiki/12.29 prehistoric ocean], saturated with salt that will nullify a man's greatest passion.
 
 The [[Tantalus Mountains]], the [[Scent Barrier]], and the Jeweled City, [[Jahur]], lie in the east. Jahur’s jewel-laden caravans still cross the [[Burning Lands]]. The trade brings wealth to its Viceroys even as the city slides into drug addiction, heresy and [[octoids|cephalopedic influence]]. Despite its decadence, Jahur remains the Shrouded Lands' greatest seaport, and ships from faraway lands moor in its harbor. [[Janissaries]], constructs that are relics of an imperial past, defend the city with zeal. A wise, mysterious concubine named [[Isane the Beauty]] enchants and enlightens those who seek her counsel.
-==Hex summary:==
+## Hex summary:
 *08.27 (Zaal, the Sleeping City): the home of elven exiles. Handsome men are hauled up its basalt walls on ropes of elven hair and are never seen to leave.
 *09.29 (The Dune Walker): a mysterious wanderer ages those he kisses.
 * 11.28 (The Ghoul-Haunted Ruins): A morbidly obese ghoul presides over a ruined city populated with ghouls and hyenas.

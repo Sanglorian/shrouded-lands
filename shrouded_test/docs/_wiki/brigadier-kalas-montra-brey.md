@@ -10,8 +10,7 @@ categories:
   - "Category:Shuttered and Surrounds"
 media: []
 ---
-
-==The Elfcatcher==
+## The Elfcatcher
 [[File:301201.png|thumb|400px]]Hex 30.12.01
 
 Connects to: 18.02, 22.04, 29.10, 29.14.11, 30.15 the Lands of the Night Cattle and the City of Shuttered Windows.
@@ -27,9 +26,9 @@ Occasionally, Kalas will accept contracts from the [[night people|Night People]]
 Naturally, Kalas (and all those associated with the embassy) are subject an Unending [[Elf-Hunt]]. But the orc's luck hasn't run out yet, and those that have seen him in battle suspect that he'll always be one step ahead of the elves. [[Tehaar the Huntress]] ([[29.10]]) has had him nearly cornered on a couple different occasions, only for Kalas to manage yet another escape. On Kalas’ part, he enjoys being the hunted just as much as he does being the hunter, and on his expeditions into the forest, is eager to draw attention to himself.
 
 Kalas is massive, even by orc standards, nearly as large and as strong as an [[ogres|ogre]]. When hunting, he dons the soot-blackened plate mail typical of Grumludi officers. He is never seen in public without his [[minotaurs|minotaur-horn]] helmet and black sash displaying various military decorations. Non-elves find him extremely personable -- charming (for an orc) and even-tempered, proud to tell stories of his various exploits. Elves, on the other hand, can only expect the most dedicated and savagely hateful of enemies.
-===Connections: ===
+### Connections:
 *Kalas’ grandfather ([[22.04]]) was also a famous orc raider before his disappearance.
-===Hooks:===
+### Hooks:
 *Why does the Count want an elf slave? What are his "specifications?"
 *Why is Kalas so unrelenting in his hunt for elves?
 *Has Kalas caught any especially notable elves?

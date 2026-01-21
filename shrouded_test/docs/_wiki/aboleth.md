@@ -9,8 +9,7 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
-'''Aboleth''' or '''aboleths''' are an ancient aquatic race. Their fossils are found in the rocks of the mountains around the [[Ocean atop the World]] ([[02.24]]) and in the Grey Mountains. They were alive when the Forgotten City-State was built ([[22.25]]), many years ago. The [[Least Ocean]] ([[12.29]]) is, apart from the Ocean atop the World, the last remnant of the great ocean in which the aboleth once swam. 
+**Aboleth** or **aboleths** are an ancient aquatic race. Their fossils are found in the rocks of the mountains around the [[Ocean atop the World]] ([[02.24]]) and in the Grey Mountains. They were alive when the Forgotten City-State was built ([[22.25]]), many years ago. The [[Least Ocean]] ([[12.29]]) is, apart from the Ocean atop the World, the last remnant of the great ocean in which the aboleth once swam. 
 
 The aboleth may live on in the Ocean atop the World, though no man claims to have seen them.  
 

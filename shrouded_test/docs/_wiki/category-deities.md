@@ -8,8 +8,7 @@ categories:
   []
 media: []
 ---
-
-===Gods and their priests===
+### Gods and their priests
 *[Nameless aaracockra god]
 *[Nameless crayfish god] (Voices of the Claw)
 *[Nameless galeb duhr god] (Shamans of the Corn People)
@@ -45,7 +44,7 @@ media: []
 *Tiamat, see [[Dead Tiamat]]
 *[[Undying Cycle]], The (The Pilgrim, etc.) ([[Dust Men]], brothers, sisters, grandmasters)
 *Unnath the Unborn
-===Priests of unidentified gods===
+### Priests of unidentified gods
 *Cultists of the Inverted Temple (now manta-people)
 *Dragon Cultists
 *[[Druids]]

@@ -9,7 +9,6 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
 [[File:Shutt-geas.jpg|thumb|400px]]Connects to: 29.07.03, 29.14.12 , 29.14.14 and 34.01.
 
 A strange and terrible monster stalks the streets of the [[Gnomish Quarter]] of the [[City of Shuttered Windows]]. It is known as the geas-eater, an invisible beast that feeds off certain types of coercive magic. It was created by the mad alchemist [[Jiffon Soon]], an exile from [[Naros]] ([[29.14]].12), who wished to remove from himself an unfortunate curse. However, the creature somehow escaped from Soon's laboratory and found its way to the Gnomish Quarter. At this point it was taken in by an elderly halfling woman named [[Arnea]]. Though wizened and penniless, Arnea had long been known to her kinsfolk as someone to go to in times of need. Soon after she had trapped the geas-eater in her attic, she saw an opportunity to make use of it.
@@ -21,7 +20,7 @@ However, the business eventually came to an end. With each geas consumed, the mo
 Since then, there have been scattered reports of the creature from the denizens of the slums. Once or twice a lucky kobold has had his geas stolen from him. More worryingly, a few people have become suddenly afflicted with a mysterious lassitude, their hopes and cares scrubbed out - as though the monster has graduated from eating geases to devouring desire in any form.
 
 [[Burrin Olmstead]], a minor member of the family ([[31.04]]), was seen visiting Arnea the halfling shortly after the geas-eater's escape. Rumor has it that he was there as an emissary of the Bloodied King of the elves himself. As the creature grew, it gained the ability to devour progressively stronger and more complex geases. The question that this Olmstead had for Arnea was, purportedly: how big would the creature have to grow before it was ready to devour a geas laid down by the Prince of Men (29.07.03) himself?
-===Hooks:===
+### Hooks:
 *Who's Jiffon Soon and where is his laboratory?
 *What's the deal with Arnea? Does she have some interesting history?
 *What's the geas that the Bloodied King is trying to break, and what will happen if he succeeds?

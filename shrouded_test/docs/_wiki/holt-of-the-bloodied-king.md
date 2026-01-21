@@ -13,12 +13,11 @@ categories:
   - "Category:The Witchwater"
 media: []
 ---
-
 [[File:August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg|thumb|400px|August Malmström]]
-==The Holt of the Bloodied King==
-'''[[File:2907.png|thumb]]Hex: '''29.07
+## The Holt of the Bloodied King
+**[[File:2907.png|thumb]]Hex: **29.07
 
-'''Region: '''[[Kingswood]]
+**Region: **[[Kingswood]]
 Connects to: 5.24, 08.27, 13.03, 18.07, 18.28, 21.12,
 24.11, 27.09, 28.07, 29.14.36, 29.14.47, 31.04, 31.07
 and 34.04.
@@ -37,11 +36,11 @@ Elves of the Kingswood reigns, a great geyser
 bursts from the earth. It is the source of [[the Witchwater]], a river that flows through and out of 
 the Kingswood.
 
-==Subhexes:==
+## Subhexes:
 *29.07.01 (The Factions of the Elves): although the unseelie court is gone divisions remain within the seelie court.
 *29.07.02 (The Holt has Many Doors): how the elves can show up nearly everywhere in the Kingswood.
 *29.07.03 (The Prince of Men): the Bloodied King is still bound by a treaty signed with the Prince of Men, an ancient human ruler that his race has forgotten.
-==Connections:==
+## Connections:
 *Copperhaired human children were once brought in tribute to the Holt along the Orphan‘s March ([[27.09]]).
 *The elves of the Timberlode ([[13.03]]) were exiled from the Kingswood.
 *The Bloodied King destroyed the Citadel of the Verlimes ([[18.07]]) 150 years ago.
@@ -56,10 +55,10 @@ the Kingswood.
 *When the unseelie elves went into exile a few of the seelie court went with them. Those exiles are now known as the [[white elves]] of Zaal ([[08.27]]).
 *After what happened after [[Dead Tiamat|Tiamat‘s]] black head fell, the Bloodied King scoured all the trees that grew in a certain patch of the Kingswood ([[24.11]]).
 *[[Elharen the Silent]] ([[29.14]].47) has come here to seek aid in her personal war against the gnolls of the Burning Lands.
-==Hooks:==
+## Hooks:
 *Why‘s there such a massive geyser in the middle of the forest?
 *Why would it be foolish for a human (or other species as well?) to bathe in the Witchwater?
-==The Holt Has Many Doors==
+## The Holt Has Many Doors
 [[File:290702.png|thumb|400px]]Hex 29.07.02
 
 Connects to: Hex 22.04.
@@ -101,10 +100,10 @@ was higher than she could have known. Of the
 elves who believe this legend, many fear what
 would happen to the doors of the Holt if harm
 should ever befall the unicorn...
-===Connection:===
+### Connection:
 *An orc ([[22.04]]) tried to exploit these doors to make an attack on the Holt. It failed.
 
-===Hooks:===
+### Hooks:
 *Why does the unicorn appear in a thousand and one places each day at noon?
 *What was the price that the young Bargainer paid that proved to be so high?
 *Where is the 'elsewhere' that many of the doors lead?

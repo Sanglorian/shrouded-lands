@@ -9,8 +9,7 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-
-[[File:Freeh.jpg|thumb|400px]]Includes hexes: [[10.09]], [[10.10]], [[11.03]], [[11.05]], [[11.08]], [[13.02]], [[13.03]], [[13.06]], [[13.08]], [[13.09]], [[14.09]], [[15.04]], [[15.07]], [[16.04]], [[16.09]], [[17.03]], [[17.05]], [[17.06]], [[17.07]], [[18.02]], [[18.03]], [[18.06]], [[18.07]], [[18.10]], [[19.04]], [[19.05]], [[20.03]], [[20.04]], [[20.08]], [[20.10]], [[21.06]], [[22.03]], [[22.10]], [[22.11]], [[23.11]], [[24.11]] and [[24.12]].
+[[File:Freeh.jpg|thumb|400px]]Includes hexes: [[10.09]], [[10.10]], [[11.03]], [[11.05]], [[11.08]], [[13.02]], [[13.03]], [[13.06]], [[13.08]], [[13.09]], [[14.09]], [[15.04]], [[15.07]], [[16.04]], [[16.09]], [[17.03]], [[17.05]], [[17.06]], [[17.07]], [[18.02]], [[18.03]], [[18.06]], [[18.07]], [[18.10]], [[19.04]], [[19.05]], [[20.03]], [[20.04]], [[20.08]], [[20.10]], [[21.06]], [[22.03]], [[22.10]], [[22.11]], [[23.11]], [[24.11]] and [[24.12]].
 
 Connects to: 05.20, 24.02, the Duchy of Thring, the Hills of Gore and the City of Shuttered Windows.
 
@@ -19,7 +18,7 @@ The lands surrounding the Citadel of the Verlime ([[18.07]]) were known far and 
 The next five years were hard on the farmers, and though the elves left them be, bandits and [[orcs|orc]] raiders were not so kind. Food shortages lead to widespread hunger and some venerable vintages vanished forever. Soon, however, the lean times drove humans and [[halflings]] from far and wide to working the fallow fields of the Verlimes, either out of greed or out of a simple desire to have enough to eat. The farms no longer were under the protection of any noble house, but the farmers would pay small bands of mercenaries to protect them from the orcs. To this day, many young adventurers get their start defending the Freehold for the customary wage of 15 sp a day, and many old adventurers retire there after a big score.
 
 Today, though, some of the richest families are beginning to consider themselves aristocracy, and are no longer satisfied with mere wealth. Some, like the noble families they ape, have simply decided to call themselves a House, while others, like the [[Furhoofs]] ([[17.05]]), have bought titles from the Duke of Thring, and all five of the [[Blackworts|Blackwort brothers]] have purchased citizens' charters from the [[City of Shuttered Windows]]. Worse, wealthy Freeholders are starting to hire their own men at arms, and have started raising their eldest sons and daughters to be warriors instead of farmers, and those would-be knights threaten to tear the community apart with drunken brawls that escalate into violent family feuds.
-===Hex Summaries:===
+### Hex Summaries:
 *09.09 (A Being of Chalk and Salt): not being able to turn your love into a statue can be a tragic thing.
 *10.09 (The Haunted Statue): strange runes are written on its pedestal and it is not weathered in the least by wind or rain.
 *10.10 (Bees! Giant Bees!): are their honey and wax worth braving their stings?
@@ -59,7 +58,7 @@ Today, though, some of the richest families are beginning to consider themselves
 *23.11 (Winds): a trading town built on a crossroads, with one of those crossing roads providing useful undead moans.
 *24.11 (The Stolen Hills): the very place where Tiamat’s severed black head fell to the earth.
 *24.12 (The Grey Comedy): the current location of a famous circus troupe.
-===Connections:===
+### Connections:
 *After the end of the [[goblins wars]], in which the orcs and dwarves destroyed the goblin forests that once lay between the [[Kingswood]] and the coast ([[24.02]]), these lands were ruled by the [[High Kings of Gore]] (05.20). The Verlimes were able to carve out their Duchy after the fall of the High Kings.
 [[Category:Regions]]
 [[Category:The Freeholds]]

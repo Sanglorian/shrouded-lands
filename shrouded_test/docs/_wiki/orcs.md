@@ -10,7 +10,6 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
 [[File:Ork_schamane.jpg|thumb|400px|'Orc', Markus Röncke (Public Domain Dedication)]]
 Two orc peoples have been identified:
 *The orcs who live in the Grey Mountains, particularly in and around the fortress of [[Hoth Achaar]].
@@ -18,7 +17,7 @@ Two orc peoples have been identified:
 Both orc peoples have a [[nobility]].
 
 [[Half-orcs]] are the result of a union between orc and human.
-==Orcs of the Grey Mountains==
+## Orcs of the Grey Mountains
 Hoth Achaar was built with orc artifice as well as the cunning of the dwarves. This combination of styles is called Titan-Grumludish architecture. The fortress-city’s quartermasters still carefully balance the city’s defences and the city is kept in good condition.
 
 Whether the orcs cooperated with the dwarves, and to what extent, is unclear. There were orc construction crews and slaves inside the city, but it appears it was not until the Disciples of [[Othonoi]] conquered the city that the orcs were influential in the direction of the city.
@@ -32,13 +31,13 @@ Troubles have broken out among the orcs, ending the Skibart practice of avoiding
 There was a time before the orcs and elves were sundered. ([[09.09]])
 
 Orc women can face the [[Double Duty]]. Some who tire of their children leave them to become changelings ([[22.03]]).
-===Religion===
+### Religion
 The orcs venerate the lords of the sky and the underworld depicted on the [[gharsang]].
 
 The orcish faith requires practitioners to move to different temples, although this may be simply because of the unusual defences of Hoth Achaar.
 
 The orcs perform rites to their strange gods at the Ten Thousand Stumps ([[24.02]]).
-===Connections===
+### Connections
 *[[Hardrald Longspear]] fought an orcish army on Longspear Bridge ([[22.11]]).
 *The Keepers of the Sainted Foot are raided by orcs (20.04). A recently-arrived novice appears to be scaring the orcs off.
 *Before the great falling out of orc and dwarf, the two races defeated the goblins. At that time, the Kingswood stretched much farther - but orcish and dwarven axes felled many oaks (24.02).
@@ -52,7 +51,7 @@ The orcs perform rites to their strange gods at the Ten Thousand Stumps ([[24.02
 *The Tomb of the Nameless is a site of pilgrimage. ([[42.02]])
 *Orcs find boiled catfruit (from [[cat trees]]) a delicacy.
 
-==Particular orcs==
+## Particular orcs
 *The [[Skullcrusher orcs]] are remarkably peaceful. Some of this tribe are overseeing construction of the Farnsfall Holding (11.03).
 **A Skullcrusher orc hired by Chelind died (16.16)
 *Vartran Montra-brey, some hundred years ago, planned an audacious attack on the Hold of the Bloodied King, but was foiled (22.04)

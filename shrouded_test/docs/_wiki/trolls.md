@@ -9,16 +9,15 @@ categories:
   - "Category:Trolls"
 media: []
 ---
-
 [[File:JohnDBatten15.png|thumb|400px|http://commons.wikimedia.org/wiki/File:Illustration_inset_at_page_125_of_Indian_Fairy_Tales_(1892).png]]
-'''Trolls''' or '''troll-folk''' are descendants of the citizens of the city of [[Bergolast]]. That their ancestors ate of the flesh of the [[Tarrasque]] has given them bodies like "those of the gods that can heal most any injury" - they can regenerate but are vulnerable to acid and fire. They are "hideous to behold" and are mostly ignorant of their heritage, though some customs survive.
+**Trolls** or **troll-folk** are descendants of the citizens of the city of [[Bergolast]]. That their ancestors ate of the flesh of the [[Tarrasque]] has given them bodies like "those of the gods that can heal most any injury" - they can regenerate but are vulnerable to acid and fire. They are "hideous to behold" and are mostly ignorant of their heritage, though some customs survive.
 
 Those who eat of a troll's flesh might find themselves changed by the experience.
-==Connections==
+## Connections
 *According to the [[Scroll of Seven Shadows]], if the Tarrasque is slain all trolls and other descendants will die instantly.
 *A troll worships [[Grahakzahak]], 'he of 99 heads' (unbeknownst to him, the Tarrasque), and encourages others to venerate it by eating of the Prophet's flesh. A village of many races survives under his watch ([[15.01]].
 *Small yellow flowers that grow in the footprints of the Tarrasque can be turned into an oil that, when smeared on a blade, makes it difficult for trolls to regenerate ([[48.24]]).
-==Trolls==
+## Trolls
 *The [[Prophet of Grahakzahak]]
 *Several trolls lair in [[Loguiso's Wall]].
 *[[Sulgrim]], a troll who seized Castle Brucoloc ([[08.21]]) on the grounds that - like the [[Lords Sanguine]] - trolls have consumed the Tarrasque's blood. He rules supported by his troll knights

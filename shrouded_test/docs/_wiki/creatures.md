@@ -8,22 +8,21 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
 [[:Category:Creatures|Wiki entries on creatures]]
-==Index==
+## Index
 This index does not state whether a hex is relevant because a single one of the creature can be found there, because multiple of the creature can be found there or because the creature is mentioned in the hex description. This data is still available in the Google Doc.
 
 *[[Aarokocra]] (04.00, 26.20, 29.14)
 
-*[[Aboleths]] (11.20, 12.29, 22.25, Down to a Sunless Sea)
+*[[Aboleths]] (11.20, 12.29, 22.25, Down to a Sunless Sea)
 
-*[[Alkalions]] (14.27)
+*[[Alkalions]] (14.27)
 
-*[[Alligators]] (40.20)
+*[[Alligators]] (40.20)
 
-*[[Amphibians]] (20.16), see also Bullywugs
+*[[Amphibians]] (20.16), see also Bullywugs
 
-*Amphibians (desert toads) (03.26)
+*Amphibians (desert toads) (03.26)
 
 *Amphibians (frogs) (With Morning Comes Mistfall)
 
@@ -37,31 +36,31 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Amphibians (toads) (21.16)
 
-*[[Angels]] (02.03)
+*[[Angels]] (02.03)
 
 *Angels, destroying (07.06, 08.06, 37.01)
 
 *Animals, talking (29.13)
 
-*[[Animated swords]] (15.15)
+*[[Animated swords]] (15.15)
 
-*[[Ankhegs]] (15.04)
+*[[Ankhegs]] (15.04)
 
-*[[Antelope]] (13.24)
+*[[Antelope]] (13.24)
 
 *[[Apes]], carnivorous (15.11)
 
 *Apes, ghost (51.29)
 
-*[[Araneas]] (23.08)
+*[[Araneas]] (23.08)
 
-*[[Archaes]] ([Jahur])
+*[[Archaes]] ([Jahur])
 
 *[[Azimyth]], see Bats (azimyth)
 
-*[[Basilisks]] (24.12, 25.31)
+*[[Basilisks]] (24.12, 25.31)
 
-*[[Bats]] (azimyth) (12.09)
+*[[Bats]] (azimyth) (12.09)
 
 *Bats, fire (21.16)
 
@@ -71,7 +70,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Bats, vampire (Kingswood Random Encounters)
 
-*[[Bears]] (08.16)
+*[[Bears]] (08.16)
 
 *Bears, drop, see Drop bears
 
@@ -83,7 +82,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *[[Beavers]], talking (39.08)
 
-*[[Beetlefolk]] (49.03)
+*[[Beetlefolk]] (49.03)
 
 *Beings of chalk and salt (09.09, 33.04)
 
@@ -101,7 +100,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Beings of vine and feather (33.04)
 
-*[[Birds]] (blood falcons) (36.04, The Lady of the Vale)
+*[[Birds]] (blood falcons) (36.04, The Lady of the Vale)
 
 *Birds (bluejay) (29.14)
 
@@ -159,11 +158,11 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Birds (white ravens) (01.06), see also Birds (ravens)
 
-*[[Boar]] (03.08, 12.22, 16.16, 20.16, The Mounts of Thring)
+*[[Boar]] (03.08, 12.22, 16.16, 20.16, The Mounts of Thring)
 
-*[[Bodaks]] (21.12)
+*[[Bodaks]] (21.12)
 
-*[[Bogswines]] (17.16)
+*[[Bogswines]] (17.16)
 
 *[[Buffalo]], see Cattle (ghost buffalo)
 
@@ -171,21 +170,21 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Bull, the iron (of She Who Waits) (The Chant of Morning), see also Cattle
 
-*[[Bullywugs]] (26.19)
+*[[Bullywugs]] (26.19)
 
 *[[Butterflies]], gilded (23.10)
 
 *Cacti, great, see Cactogres
 
-*[[Catoblepas]] (18.11)
+*[[Catoblepas]] (18.11)
 
-*[[Cactogres]] (18.28)
+*[[Cactogres]] (18.28)
 
-*[[Cats]] (Kingswood Random Encounters, 15.13, 29.14, 43.12)
+*[[Cats]] (Kingswood Random Encounters, 15.13, 29.14, 43.12)
 
 *Cats, feathered, see Cats, flying
 
-*Cats, flying (17.07, 34.04, The  Lady of the Vale)
+*Cats, flying (17.07, 34.04, The  Lady of the Vale)
 
 *Cats (Gorean Greys) (11.16)
 
@@ -195,7 +194,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Cats, razor (29.14)
 
-*[[Cattle]] (09.01, 18.17, 20.18, 22.03, 24.02, 31.27, 37.21, 44.03, 48.18), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
+*[[Cattle]] (09.01, 18.17, 20.18, 22.03, 24.02, 31.27, 37.21, 44.03, 48.18), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
 
 *Cattle, Andaran (43.12) (includes moon-horned cattle)
 
@@ -211,35 +210,35 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Cattle, vampire (29.14)
 
-*[[Cauldronborn]] (23.16)
+*[[Cauldronborn]] (23.16)
 
-*[[Centaurs]] (04.17, 05.18, 40.20)
+*[[Centaurs]] (04.17, 05.18, 40.20)
 
 *[[Changelings]], see Orcs
 
-*[[Chickens]] (26.16)
+*[[Chickens]] (26.16)
 
 *Child, The, see Earth-children
 
-*[[Chimeras]] (The Chimera of the Suitor’s Tower)
+*[[Chimeras]] (The Chimera of the Suitor’s Tower)
 
 *[[Chimerics]], see Minotaurs, Manticores, Mermaids, Owlbears, Gryphons, Goatscorpions, Chimeras, Manscorpions, etc.
 
-*[[Cloakers]] (26.20)
+*[[Cloakers]] (26.20)
 
-*[[Clockwork eyes]] (26.16)
+*[[Clockwork eyes]] (26.16)
 
-*[[Cockatrices]] (peacockatrice) (25.16)
+*[[Cockatrices]] (peacockatrice) (25.16)
 
 *[[Constructs]], see Golems; Janissaries
 
-*[[Corpse trees]] (11.11)
+*[[Corpse trees]] (11.11)
 
-*[[Cowhorses]] (The Mounts of Thring)
+*[[Cowhorses]] (The Mounts of Thring)
 
-*[[Coyotes]] (The Undying Cycles of Creation)
+*[[Coyotes]] (The Undying Cycles of Creation)
 
-*[[Crabs]] (31.19)
+*[[Crabs]] (31.19)
 
 *Crabs, prism (20.32)
 
