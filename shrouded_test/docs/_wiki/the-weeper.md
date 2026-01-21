@@ -20,7 +20,7 @@ media: []
 
 <li align="left" class="MsoNormal" style="margin-bottom:6pt;"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">The actions of the Weeper’s daughter also resulted in the creation of the Skullcrusher orcs ([[13.01]]).</span></li>
 
-<li align="left" class="MsoNormal" style="margin-bottom:6pt;"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">The Weeper knows something of the Last Window (29.14.33).</span></li>
+<li align="left" class="MsoNormal" style="margin-bottom:6pt;"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">The Weeper knows something of the Last Window ([29.14.33](/wiki/29-14/)).</span></li>
 
 ## Hook
 <li align="left" class="MsoNormal" style="margin-bottom:6pt;"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">What other secrets does the Weeper know?</span></li>

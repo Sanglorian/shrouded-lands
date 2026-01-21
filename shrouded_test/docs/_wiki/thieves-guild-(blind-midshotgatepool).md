@@ -11,8 +11,8 @@ media: []
 ---
 **![](/media/SL4.jpg)Region: **[[Blind Midshotgatepool]]
 ## The Thieves Guild of Blind Midshotgatepool
-Connects to: 15.24, 16.16, 19.30, 26.19, 26.20.03,
-26.20.04, 26.20.05, 27.18.01 and 37.06.
+Connects to: [15.24](/wiki/15-24/), [16.16](/wiki/16-16/), [19.30](/wiki/19-30/), [26.19](/wiki/26-19/), [26.20.03](/wiki/26-20/),
+[26.20.04](/wiki/26-20/), [26.20.05](/wiki/26-20/), [27.18.01](/wiki/27-18/) and [37.06](/wiki/37-06/).
 
 With
 the
@@ -33,7 +33,7 @@ and for their daring raids on Shuttered
 merchants and even the Tower Savage itself.
 
 Despite the tales that are whispered in the
-houseboats (26.20.05), most of the local thieves
+houseboats ([26.20.05](/wiki/26-20/)), most of the local thieves
 target Shuttered merchants because they‘re the
 only ones with much money but Wortimer himself
 has nursed a sharp hatred against the sinking city
@@ -122,9 +122,9 @@ victim. Wortimer hopes that that would provide
 enough of a distraction to let him escape and
 rally his guild.
 ### Connections:
-*[[Uriza]] (15.24) was a power in the thieves guild, thanks to the magic item she had stolen, until Mousey brought her low.
-*The thieves guild takes advantage of the Hall of the Five Gates (26.20.03) and cooperates with the [[Yaboons|Yaboon family]] (26.20.04).
-*The guild‘s power is greatest among the houseboats of the city (26.20.05).
+*[[Uriza]] ([15.24](/wiki/15-24/)) was a power in the thieves guild, thanks to the magic item she had stolen, until Mousey brought her low.
+*The thieves guild takes advantage of the Hall of the Five Gates ([26.20.03](/wiki/26-20/)) and cooperates with the [[Yaboons|Yaboon family]] ([26.20.04](/wiki/26-20/)).
+*The guild‘s power is greatest among the houseboats of the city ([26.20.05](/wiki/26-20/)).
 *Wortimer is served by a wild man who is able to sniff out magic ([[37.06]]).
 *Wortimer is quietly supporting a banned wind cult in hopes that it weakens the hold of the state church of the City of Shuttered Windows ([[27.18]].01).
 *The thieves of the August City uses memory-stealing [[birds of paradise]] ([[19.30]]) on guild members who know too much but are too important to be killed.

@@ -12,7 +12,7 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-One of the many dangers of the [[Ocean of Bitter Regrets]] is the great [[lycanthropes|wereshark]] that swims in it, attacking all shipping that it comes across. In days past one of the greatest of the [[Pirate Kings]] (00.02) was a storm giant whose pride was only exceeded by his greed. He raided far and wide, adorning his cloud palace with treasure from a dozen nations. On one of his raids he managed to capture a queen of fairy and demanded, as the price of her release, that she grant him a boon. He asked that he be given the strength to smash any ship, even those that sail from the [[moon]] and that he become king of all the ocean.
+One of the many dangers of the [[Ocean of Bitter Regrets]] is the great [[lycanthropes|wereshark]] that swims in it, attacking all shipping that it comes across. In days past one of the greatest of the [[Pirate Kings]] ([00.02](/wiki/00-02/)) was a storm giant whose pride was only exceeded by his greed. He raided far and wide, adorning his cloud palace with treasure from a dozen nations. On one of his raids he managed to capture a queen of fairy and demanded, as the price of her release, that she grant him a boon. He asked that he be given the strength to smash any ship, even those that sail from the [[moon]] and that he become king of all the ocean.
 
 ![00.06 The King of Salt and Brine](/media/J_S_Copley_-_Watson_and_the_Shark_3.png)
 

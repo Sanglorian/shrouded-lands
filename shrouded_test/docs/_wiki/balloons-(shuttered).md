@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1725](/media/Unknownartist3.jpg)
-Connects to: 03.08.01, 09.22 and 04.00.
+Connects to: [03.08.01](/wiki/03-08/), [09.22](/wiki/09-22/) and [04.00](/wiki/04-00/).
 
 In the [[City of Shuttered Windows]] the rich and powerful live high above other men. Not only do their towers strain towards the sky but many of elite never set foot on the fetid muck that the city is sinking into. When they visit the towers of
 their peers they cross the high bridges and causeways or they sail through the air above the City in hot air balloons. While the [[Electors]] sit haughtily in their gondolas looking down at the people scuttling below, their tow cables are

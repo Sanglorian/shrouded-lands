@@ -12,9 +12,9 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-![](/media/Shutt-prison.png)Connects to: 17.11, 27.18.01, 29.14.01, 29.14.49 and 49.11.
+![](/media/Shutt-prison.png)Connects to: [17.11](/wiki/17-11/), [27.18.01](/wiki/27-18/), [29.14.01](/wiki/29-14/), [29.14.49](/wiki/29-14/) and [49.11](/wiki/49-11/).
 
-In the depths of the [[Undercity]] is a region where even the Society of Engineers (29.14.49) fears to venture. It is the prison of nine ancient and half-forgotten gods that once defied [[Alberon]].
+In the depths of the [[Undercity]] is a region where even the Society of Engineers ([29.14.49](/wiki/29-14/)) fears to venture. It is the prison of nine ancient and half-forgotten gods that once defied [[Alberon]].
 
 Keeping a god imprisoned requires great power and constant vigilance and not even Alberon can bind nine. But the servants of the God of the City of Shuttered Windows are a clever lot and have bound the gods in a dense web of illusions so that they believe that they are fighting one another for control over a world that never was. One god raises up a jungle of tentacle palms to squeeze a rival’s temple to dust and another brings forth an army of gibbering [[lemur-men]] to slaughter the priests of another. They have fought for centuries and will probably fight for centuries more and as they do so their struggles fuel the illusions that bind their minds and the chains to immovable force that bind their forms. Of course if the gods would cease their struggle and cooperate they would break free in minutes…
 

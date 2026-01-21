@@ -10,13 +10,13 @@ categories:
   - "Category:Humans"
 media: []
 ---
-![](/media/290703.png)Connects to: 19.31.03, 37.01 and 39.12.
+![](/media/290703.png)Connects to: [19.31.03](/wiki/19-31/), [37.01](/wiki/37-01/) and [39.12](/wiki/39-12/).
 
 The [[elves]] of [[the Kingswood]] refuse to say much of
 him and some say they have forgotten nearly all,
 but the famed historian [[Sabrek of Ungolath]] 
 makes the following conjectures: long centuries
-past the Prince was the heir to the [[Imperium Undying]], which once lay across [[the Ocean of Bitter Regrets]] (00.06) and claimed imperium over
+past the Prince was the heir to the [[Imperium Undying]], which once lay across [[the Ocean of Bitter Regrets]] ([00.06](/wiki/00-06/)) and claimed imperium over
 all men. However, before he could he could
 claim the [[Sun Throne]] he was betrayed by his
 beloved sister and his bastard half-brother. He

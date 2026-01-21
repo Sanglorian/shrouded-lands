@@ -20,7 +20,7 @@ Necropoli tomb robbers have reported being attacked by jackalwere mages armed wi
 *[[Taheesha]]
 ### Connections:
 *A more bestial line of jackalweres lurks in the ruins beneath Hyfalls ([[40.20]]). Their diet of hobgoblin flesh mutates them in unusual ways.
-*The [[Great Mother]]'s third non-human adviser (51.29) is a gormandizing jackalwere named [[Voon]]. He keeps her informed of events around Sosaria in exchange for his favorite delicacy, dwarf pie.
+*The [[Great Mother]]'s third non-human adviser ([51.29](/wiki/51-29/)) is a gormandizing jackalwere named [[Voon]]. He keeps her informed of events around Sosaria in exchange for his favorite delicacy, dwarf pie.
 *A pack of jackalweres is harassing a ship that ran aground not far from here ([[50.14]]).
 ### Hooks:
 *Who built the necropoli?

@@ -13,7 +13,7 @@ media: []
 ---
 ![Viceroy Orhan, Rene Bull](/media/ReneBull.png)
 ## Viceroy Orhan's Madness
-Connects to: 17.11 and 19.31.05.
+Connects to: [17.11](/wiki/17-11/) and [19.31.05](/wiki/19-31/).
 
 [[Jahur]] has been on edge since Viceroy Orhan,
 the city's treasurer, was attacked in his
@@ -42,17 +42,17 @@ lurking in one of Jahur's abandoned palaces,
 plotting its next move. Orhan's amnesia will
 persist until the golem is slain.![](/media/Jahur2.jpg)
 ### Connections
-*Orhan was chosen as treasurer because of his skill at alchemy. He was knowledgable of much else besides, for example he grew his own wives in vats (19.31.05). If is only because of one of these wives that he is still alive today.
+*Orhan was chosen as treasurer because of his skill at alchemy. He was knowledgable of much else besides, for example he grew his own wives in vats ([19.31.05](/wiki/19-31/)). If is only because of one of these wives that he is still alive today.
 ### Hooks
 *Who created the wax golem? Was it a rival Viceroy, or a foreign threat?
 *How do you create a wax golem that can steal an identity?
 *Are any leaders in the Shrouded Lands actually wax golems?
 
 ## The Wives of Viceroy Orhan
-![](/media/Jahur6.png)Connections: 19.31.01, 37.07 and 40.06.03.
+![](/media/Jahur6.png)Connections: [19.31.01](/wiki/19-31/), [37.07](/wiki/37-07/) and [40.06.03](/wiki/40-06/).
 
 It is easy to see why the Viceroys made Orhan
-(19.31.01) treasurer of Jahur. Despite his
+([19.31.01](/wiki/19-31/)) treasurer of Jahur. Despite his
 protestations about the cost of the material
 components, how could they not make a man
 who could turn lead to gold their treasurer?
@@ -60,7 +60,7 @@ who could turn lead to gold their treasurer?
 And Orhan did not only make his own gold, he
 built his own palace and sculpted his own wives.
 In his younger days, fresh from serving as an
-apprentice of the Lady (40.06.03) the Viceroys of
+apprentice of the Lady ([40.06.03](/wiki/40-06/)) the Viceroys of
 the Jahur showed him their daughters one by
 one, but Orhan found much to be desired both
 in the girls themselves and in the heavy duties
@@ -68,11 +68,11 @@ that every Jahuri man owes to his father in-law.
 
 He decided he could do better himself and grew
 his own wives in his vats and had a gnoll of the
-kharghaha sing souls into them (51.29.02). Their
+kharghaha sing souls into them ([51.29.02](/wiki/51-29/)). Their
 beauty and grace were envied by all of Jahur
 and Orhan owes his live to his favorite wife,
 Ronais, who was struck down defending him
-from the wax golem that attacked him (19.31.01).
+from the wax golem that attacked him ([19.31.01](/wiki/19-31/)).
 Although her body was shattered, one of
 Orhan‘s apprentices was able to cut out her
 brain and keep it safe until a new body can be

@@ -19,7 +19,7 @@ If the enemy attempts to chase the elves, then they are lead deep into the fores
 
 However, Tehaar is not entirely without mercy. In one case, a band of [[Stannevs|Stannev men]] were in pursuit of a gang of cattle rustlers who had become desperate enough to run into the Kingswood in the daytime. The Stannev men-at-arms bravely gave chase and, as they were finishing gutting the rustlers, Tehaar’s band arrived, bristling with arrows, but allowed the humans to retreat out of the Kingswood with only a few desultory arrows fired past their ears. In general, Tehaar will allow intruders to retreat out of the Kingswood after killing their leader, in some cases even providing an escort. However, enemies who attempt to cover their escape by doing such things as setting fire to the forest will be hunted to extinction.
 
-The best ways to survive an encounter with Tehaar is to use an elf as a hostage, hide in an enclosed area where elven bows are of little use or run into her when she is not hunting, such as during one of her frequent swims in the Witchwater (29.07).
+The best ways to survive an encounter with Tehaar is to use an elf as a hostage, hide in an enclosed area where elven bows are of little use or run into her when she is not hunting, such as during one of her frequent swims in the Witchwater ([29.07](/wiki/29-07/)).
 
 Although Tehaar ranges widely across the Kingswood in search of intruders, where she can be found most often is at the far southern border of the Kingswood where the forest approaches the City of Shuttered Windows ([[29.10]]). Here is where humanity swarms the thickest and where it must be watched the most closely.
 ### Connections:

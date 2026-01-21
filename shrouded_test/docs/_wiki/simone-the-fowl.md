@@ -16,7 +16,7 @@ media: []
 ---
 ## The Glorious Reign of Doge Simone the Fowl
 ![Harrison Weir](/media/Rooster_Portrait.jpg)
-Connects to: 29.13 and 29.14.06.
+Connects to: [29.13](/wiki/29-13/) and [29.14.06](/wiki/29-14/).
 
 It happened in a certain year that in the [[City of Shuttered Windows]] an [[election of the Doges|election for the Doge]] was held, following the death of the previous Doge, as was the rule. The top contender for the Doge’s coronet was [[Simone the Foul]], a singularly unpleasant but mind-bogglingly wealthy patrician. Seeking to subvert the [[College of Electors]], Simone the Foul went to great lengths to bribe not one, or some of the Electors, but every single one, reasoning that if they were all in his pocket he was guaranteed to win the election.
 

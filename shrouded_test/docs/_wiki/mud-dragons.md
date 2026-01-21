@@ -21,7 +21,7 @@ The halflings, who were avenging the cannibalization of an innkeeper and his wif
 *How do the mud dragons hold their own against the local lions?
 *Do the domesticated mounts also inflict plague with their bites? That doesn't seem very chivalrous.
 *Are all halflings as vengeful as those inhabiting Jar Town?
-*The Foolish Sages (20.18) have reason to believe that the lauded lizardman historian [[Kashikik]] was killed in the battle, and that his lost works can be caught among the rocks and scrub.
+*The Foolish Sages ([20.18](/wiki/20-18/)) have reason to believe that the lauded lizardman historian [[Kashikik]] was killed in the battle, and that his lost works can be caught among the rocks and scrub.
 [[Category:Creatures]]
 [[Category:Dragons]]
 [[Category:Reptiles]]

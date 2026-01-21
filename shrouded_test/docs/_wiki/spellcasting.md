@@ -34,15 +34,15 @@ Members of the Witch Clans can cast a spell based on their family, but this does
 
 The Yaboons are humorously known as the “wizards of bureaucracy”. 
 
-There are a number of descriptions of clerics and wizards working together, which suggests that their magic is different, and Edrin was a priest who is now learning sorcery. *The whispered caress* is specifically identified as a divine spell. The lion priests placed a spell on the top floor of the lighthouse to sustain the people there almost indefinitely (46.10). For simplicity’s sake, priests, clerics and divine magic have been excluded from this article - where it is identified as divine magic. 
+There are a number of descriptions of clerics and wizards working together, which suggests that their magic is different, and Edrin was a priest who is now learning sorcery. *The whispered caress* is specifically identified as a divine spell. The lion priests placed a spell on the top floor of the lighthouse to sustain the people there almost indefinitely ([46.10](/wiki/46-10/)). For simplicity’s sake, priests, clerics and divine magic have been excluded from this article - where it is identified as divine magic. 
 
 Likewise, while the art of [[pactmaking]] is definitely magical, it is not clear that it involves spellcasting. [[Warlocks]] and [[shamans]] are thus not discussed in this article. 
 ## Wizardry and magecraft
 Wizards and mages are associated with a number of practices:
 ***The art:** Wizards describe their power as their art. 
 ***Laws of reality:** As mages grow in power, the laws of reality twist to their whims. Despite their power, their bodies are vulnerable to the passage of time. Trying to achieve immortality is a particular goal of several wizards. 
-***Wizard’s towers:** As well as Severard’s, there is an abandoned wizard tower in 07.33. 
-***Familiars:** Drunk giant bat Hiccup wants to be a wizard’s familiar (12.09). 
+***Wizard’s towers:** As well as Severard’s, there is an abandoned wizard tower in [07.33](/wiki/07-33/). 
+***Familiars:** Drunk giant bat Hiccup wants to be a wizard’s familiar ([12.09](/wiki/12-09/)). 
 ## The practice of spellcasting
 Some wizards reference spellbooks, but it does not appear that all do. Snakes are books, and some in the Bone Field are spellbooks. Carvings in the Vale of Tirandelle seem to be spell formulae in an ancient script. The Arch-Lich of Naros had a spellbook, now in the Sealed Library. 
 
@@ -52,9 +52,9 @@ The High Tongue is the language of sorcery, at least in Shuttered, and the nobil
 
 Spells cast from the peak of Mount Scorshia at the right time are amplified in unexpected ways. 
 
-When ivory gargoyles force memorised spells from people’s minds, the shed spells take the form of small mewling animals. Rest is needed to memorise spells (33.08). It is not clear whether all spellcasters must memorise spells, or only wizards, or only some wizards. 
+When ivory gargoyles force memorised spells from people’s minds, the shed spells take the form of small mewling animals. Rest is needed to memorise spells ([33.08](/wiki/33-08/)). It is not clear whether all spellcasters must memorise spells, or only wizards, or only some wizards. 
 
-Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a chest of spell components with her into the badlands (06.05). Pearls are the material component of *identify* spells, specifically ones worth 100 gp. 
+Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a chest of spell components with her into the badlands ([06.05](/wiki/06-05/)). Pearls are the material component of *identify* spells, specifically ones worth 100 gp. 
 ## Illusion
 *Most every gnomish illusionist smokes pipeweed. 
 *The Dust Walkers have a hallucinogenic brew that makes illusions affect the drinker as if they were real. 
@@ -65,8 +65,8 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 *The necromancers of the Necromantic Office. They are mostly eunuchs and have some civil responsibilities: regulating proper corpse disposal and prosecuting those who disturb the dead without proper licences. 
 *Windseers of Winds learned information from listening to screams echoing through caverns beneath the city, actually the collective voice of the dead of the White Road. It is unclear if this is considered necromancy, though it involves learning from the dead. 
 ### Wizards and mages
-*There are jackelwere mages who are armed with engraved bronze discs and who cast the gibberish hex (51.17). 
-*The pathfinder-mages can unbind and redirect the paths to and from the Holt of the Bloodied King (22.04). 
+*There are jackelwere mages who are armed with engraved bronze discs and who cast the gibberish hex ([51.17](/wiki/51-17/)). 
+*The pathfinder-mages can unbind and redirect the paths to and from the Holt of the Bloodied King ([22.04](/wiki/22-04/)). 
 *The Knights of the Cudgel are questing mages armed with enchanted clubs that each studies an arcane discipline. 
 *Wizard-transmuters work alongside earth elementalists in the Honorable Society of Engineers. 
 *Jahuri wizards guard a swarming brood of fire centipedes, sometimes used to clear mountain tunnels of hostile creatures. 
@@ -156,9 +156,9 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 *Dispelling hostile magic is described as something not all Office students learn. 
 *Barnabus turned himself into a were-man to escape death.
 *Black magic can kill. 
-*Elementals can be bound, like the tempest bound to 19.30. 
+*Elementals can be bound, like the tempest bound to [19.30](/wiki/19-30/). 
 *The Eternal King of Sosaria commanded djinn to built a great wall from elephant ivory. 
-*Sala Olmsted has put strong wards against magical attack on the Olmsted Keep walls. The Witch-Queen of Cragsend, when she was a wizard with the Verlimes, set up wards that were “shredded” during the elven attack (18.07).
+*Sala Olmsted has put strong wards against magical attack on the Olmsted Keep walls. The Witch-Queen of Cragsend, when she was a wizard with the Verlimes, set up wards that were “shredded” during the elven attack ([18.07](/wiki/18-07/)).
 *An alliance of wizards and priests performed a ritual to reawake the Janissaries. 
 *Some say the sorcerers of Bergolast placed fingers of stone in the Sea of Typhoons to mark the city’s maritime borders. 
 *Shnutu knows the languages of every flying thing, and the many winds. 

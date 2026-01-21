@@ -12,7 +12,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-suit.png)Hex 29.14.40
+![](/media/Shutt-suit.png)Hex [29.14.40](/wiki/29-14/)
 
 As a mages grow in power the laws of reality twist to their whims, but no matter how great they wax their bodies remain feeble things caught in the flow of time. So [[Iraine]]'s quest for immortality is not surprising but perhaps her plan to achieve it is: she plans to get married.
 
@@ -23,7 +23,7 @@ Her lofty thousand-corniced tower (the **Suitor's Tower**), which is always shro
 Iraine the Suitor has not yet won the hand of a god but she is confident that her research is nearing its conclusion and soon she will ascend.
 ### Connections:
 *Iraine is the elder sister of [[Uriza]] the Solemn ([[15.24]]).
-*One of Iraine’s creations is a chimera named [[Lars]] (29.14.41).
+*One of Iraine’s creations is a chimera named [[Lars]] ([29.14.41](/wiki/29-14/)).
 *The wooden gargoyles are carved by [[Jassetta Birl]], a scion of an ancient [[The Birls|Witch Clan]].
 ### Hooks:
 *Does marrying a god really turn you into one? Has anyone done this?

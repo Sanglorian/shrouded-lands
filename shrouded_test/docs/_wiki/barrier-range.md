@@ -11,7 +11,7 @@ media: []
 ---
 ![](/media/SL_21.jpg)Includes hexes: [[21.15]], [[22.15]], [[22.16]], [[23.16]], [[23.18]], [[23.19]], [[24.18]], [[24.20]], [[25.14]], [[25.15]], [[25.16]], [[25.17]], [[26.16]] and [[26.17]].
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">Connects to: *21.14.*</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">Connects to: *[21.14](/wiki/21-14/).*</p>
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">The **Barrier Range**, which begins near the Keening Sea and extends north to near the **Kingswood**,** **serves to divide the **City of Shuttered Windows **and the **Duchy of Thring**, especially due to the presence of the Witch Clans. The copper-haired Witchmen are a dangerous breed for arcane power runs through their blood and when it breeds true the children of the hill people are able to manifest the power of their clan's arcane charm. Some are able to spray fire from their fingers, other weave illusions, emit stinking clouds, crawl up ropes to lands that aren’t there, summon demons or lay down geases</p>
 
@@ -35,7 +35,7 @@ media: []
 *<p lang="en-US" style="margin-bottom:0.14in">The Chequered Room ([[26.17]]): great pieces are engaged in what appears to be an ongoing chess game.</p>
 <p lang="en-US" style="margin-bottom:0.14in"><span id="cke_bm_56S" style="display:none;"> </span></p>
 ### Connection
-*<p lang="en-US" style="margin-bottom:0.14in">The border between the **Barrier Range** and **Thring** is patrolled by the cunning [[Knights of the Cudgel]] *(21.14)*.</p>
+*<p lang="en-US" style="margin-bottom:0.14in">The border between the **Barrier Range** and **Thring** is patrolled by the cunning [[Knights of the Cudgel]] *([21.14](/wiki/21-14/))*.</p>
 
 ## Ogres
 <p class="western" lang="en-US" style="margin-bottom:0.14in">Two ogres are known to live in the Barrier Range.</p>

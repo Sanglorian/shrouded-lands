@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## With a Mouth Full of Mud
-![](/media/Shutt-mud2.png)Connects to: 25.07, 29.14.14, 29.14.49 and 30.12.
+![](/media/Shutt-mud2.png)Connects to: [25.07](/wiki/25-07/), [29.14.14](/wiki/29-14/), [29.14.49](/wiki/29-14/) and [30.12](/wiki/30-12/).
 
 It shouldn’t come as a surprise that the Master Mason of the [[Honorable Society of Engineers]] is [[Baron Harenghast]] (briefly mentioned in [[30.12]]), after all the leader of most every Shuttered institution is a member of the high nobility. 
 However, the Baron’s subordinates are not displaying the awe and respect that his lineage deserves but are instead rather annoyed at his plans to cut funding for the Crack-Finders, divert work crew to shoring up the foundations of his own tower and selling the sacred steel band of the Society to “honorary engineers.”
@@ -21,8 +21,8 @@ Meanwhile, Baron Harenghast is pleased that most of his subordinates cannot spea
 
 But the Mud Tongue is not without its own merits. Outside of the City it has another name: the Common Tongue.
 ### Connections:
-*Deep in the Gnomish Quarter (29.14.14) there is an illegal academy where High Tongue verb declensions are spoken of in whispers lest unkind ears hear them.
-*Occasionally the mockingbird (25.07) can be heard calling out spell formulae in the High Tongue.
+*Deep in the Gnomish Quarter ([29.14.14](/wiki/29-14/)) there is an illegal academy where High Tongue verb declensions are spoken of in whispers lest unkind ears hear them.
+*Occasionally the mockingbird ([25.07](/wiki/25-07/)) can be heard calling out spell formulae in the High Tongue.
 ### Hooks:
 *What other institutions run Shuttered?
 *What are the Thousand Spells and One?

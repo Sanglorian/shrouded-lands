@@ -15,9 +15,9 @@ media: []
 ## The Last Laugh
 Region: the Barrier Range
 
-Connects to 24.26, 26.15, 29.14 and 48.33.
+Connects to [24.26](/wiki/24-26/), [26.15](/wiki/26-15/), [29.14](/wiki/29-14/) and [48.33](/wiki/48-33/).
 ## Overview
-Loguiso's Wall, a massive fortification that began in the foothills of the Barrier Range and ended in the tepid tide of the Keening Sea (passing through [[27.16]]), rose here before Shuttered's conquest of the August City (26.20). Starting with Loguiso II, doge after doge poured gold into building a wall that would prevent an invasion from the south. Of course, during the war of conquest, the armies of the August City never came within sight of its turrets.
+Loguiso's Wall, a massive fortification that began in the foothills of the Barrier Range and ended in the tepid tide of the Keening Sea (passing through [[27.16]]), rose here before Shuttered's conquest of the August City ([26.20](/wiki/26-20/)). Starting with Loguiso II, doge after doge poured gold into building a wall that would prevent an invasion from the south. Of course, during the war of conquest, the armies of the August City never came within sight of its turrets.
 
 A clan of gnomes, now known in Shuttered as the [[Backbiters]], were hired to carve the dungeons beneath the wall. Their contracts guaranteed that they would be given rights to own the tunnels if ever the wall was rendered obsolete. Unfortunately for the gnomes, the Templars of [[Canes Sanguis]] immediately claimed ownership of the wall when the city's secular armies abandoned it. The templars were to use the passages and chambers, and they evicted the gnomes. The gnomes packed their belongings onto donkeys, gathered their children and trudged south. When they were out of sight of their old home, the tunnels collapsed. The earth swallowed the wall and every templar on it.
 

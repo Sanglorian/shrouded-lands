@@ -16,7 +16,7 @@ Prisoners are left with only a dagger, sturdy boots, baggy trousers and a tunic.
 
 Officially, the pit is no longer used. In practice, nobles find it a convenient way to dispose of their enemies without violating the taboo on committing murder within the Doge's palace.
 ### Connections
-*It seems that someone replaces the rubies that are taken from the pit (29.14.23).
+*It seems that someone replaces the rubies that are taken from the pit ([29.14.23](/wiki/29-14/)).
 ### Hooks:
 *What is the provenance of the rubies in the pit viper's eyes? Do they have any effect? Where did the rest of the treasure come from?
 *Who else has been thrown into the pit? Are they still alive?

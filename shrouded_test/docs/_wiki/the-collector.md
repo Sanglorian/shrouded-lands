@@ -29,7 +29,7 @@ The Collector has acquired several tarrasque skulls (his original and only const
 ### Hooks
 *What is the Collector's true name? Does anyone remember it in secret?
 *What is the Collector's current obsession?
-*Why can't the Collector get his hands on the Tarrasque Skull at 45.24? Not to mention the other nineteen of them...
+*Why can't the Collector get his hands on the Tarrasque Skull at [45.24](/wiki/45-24/)? Not to mention the other nineteen of them...
 *Who is it in Thring who sells Tarrasque skulls to the Collector?
 *Where does the Collector's wealth come from?
 [[Category:Lords Sanguine]]

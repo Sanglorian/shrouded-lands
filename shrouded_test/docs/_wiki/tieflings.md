@@ -23,7 +23,7 @@ Their appearances and talents are as varied as the types of birds in the trees. 
 
 ### Connections
 *Abdul (5.04) has no genetic traits that interest Tief at the moment, so he is allowed to live with little interference.
-*The folk of the Cornfields (03.30) are tieflings with scizophrenic tendencies. He keeps them far from the rest of the population, keeping them intact for when he wants to produce sorcerers.
+*The folk of the Cornfields ([03.30](/wiki/03-30/)) are tieflings with scizophrenic tendencies. He keeps them far from the rest of the population, keeping them intact for when he wants to produce sorcerers.
 
 ### Hooks
 *How does Tief get around?

@@ -25,7 +25,7 @@ The dwarf lords are a separate race, not simply the lords of the dwarves.
 ## Orc
 Grumluda is ruled by the Eternal-King-of-All-Orcs.
 
-The Hoth Achaar orcs have nobles who undergo ritual torture (26.01).
+The Hoth Achaar orcs have nobles who undergo ritual torture ([26.01](/wiki/26-01/)).
 ## Former
 *The Prince of Men was heir to the Sun Throne of the Imperium Undying and claimed imperium over all men.
 *The Maddlow King was the last king of the Barrier Range. Simon Maddlow is a descendent of the Prince of the Maddlows, presumably the dead king’s son.
@@ -49,7 +49,7 @@ Daram Os, the dwarven king, was killed in the Chimerical Siege of Shuttered. He 
 Clan Battle Beard had a lord. He-she divided a clan artifact in two and said until it was united neither of his-her two children could rule.
 ## Loose use
 *The Pirate Kings are the five cloud and storm giant pirate clans, so named by humans. The King of Salt and Brine, a solitary wereshark, appears to get his title from this tradition. However, King Udenyr of Skullreach is the head of his floating castle - and presumably thus a king even among the Pirate Kings.
-*There are two Witch-Queens, one in Cragsend (04.06) and one in Thring (23.16).
+*There are two Witch-Queens, one in Cragsend ([04.06](/wiki/04-06/)) and one in Thring ([23.16](/wiki/23-16/)).
 *A convict with particular influence on Jahur’s Lonely Crags, Iram, is known as the King of the Rocks.
 *The Holt of the Bloodied Lords in the Cornfields was founded by a petty king.
 *The archmage Imorcar is nominally the Eternal King of Sosaria. The city has two warring factions of cattle barons, but it’s not clear that this represents a nobility rather than the term “baron” being used metaphorically.
@@ -65,10 +65,10 @@ Clan Battle Beard had a lord. He-she divided a clan artifact in two and said unt
 *Lord Jehan Deismark rules Cragsend.
 *Lord and Lady Delasar lived in their ancestral abode, a sprawling mansion, but have since moved to a castle.
 ## The Kingswood
-Tuma Yedaard is the Bloodied King, ruler of the elves of the Kingswood. There’s a reference to the Count of Kingswood (18.07). It is unclear if this refers to the Bloodied King. The Queen Sinister once ruled the elven court alongside the Bloodied King. The queen of fairy struck a deal with the King of Salt and Brine. It is unclear if this refers to the Queen Sinister. The Bloodied King gives titles to the Loyal.
+Tuma Yedaard is the Bloodied King, ruler of the elves of the Kingswood. There’s a reference to the Count of Kingswood ([18.07](/wiki/18-07/)). It is unclear if this refers to the Bloodied King. The Queen Sinister once ruled the elven court alongside the Bloodied King. The queen of fairy struck a deal with the King of Salt and Brine. It is unclear if this refers to the Queen Sinister. The Bloodied King gives titles to the Loyal.
 *An elf lord is instrumental in Lisbet’s Lament.
 *There is a sorcerer who calls herself the Lady, but whether this represents a noble rank is unclear.
-*The elves keep human nobles in the Sleeping Vale (24.07). It is unclear how the elves define nobility, except that the woman who would become lady of Blackhorn Keep (a lady of Adherion) was kept here for many years. Would they recognise the bought aristocracy of the Furhoofs or the self-declared nobility of the Wards?
+*The elves keep human nobles in the Sleeping Vale ([24.07](/wiki/24-07/)). It is unclear how the elves define nobility, except that the woman who would become lady of Blackhorn Keep (a lady of Adherion) was kept here for many years. Would they recognise the bought aristocracy of the Furhoofs or the self-declared nobility of the Wards?
 *The elves want to recover the Seal of the One King.
 
 ## Shuttered City
@@ -83,8 +83,8 @@ The Doge, the ruler of the City, is an elected position.
 *Count Seutorian is patriarch of one of the richest of the Great Families of Shuttered. His manse lies outside of the city walls.
 *The Ettiennes, Casteneus and Vantisses are presumably noble families, as their members are mentioned as Electors.
 *Giles Chosard’s father was a disgraced Elector
-*Two nobles are trapped in the Colossal Wreck (14.23)
-*Ilace is a minor Elector and Jerrod is her brother (03.08). Ilace has a maid; Jerrod had a valet.
+*Two nobles are trapped in the Colossal Wreck ([14.23](/wiki/14-23/))
+*Ilace is a minor Elector and Jerrod is her brother ([03.08](/wiki/03-08/)). Ilace has a maid; Jerrod had a valet.
 *The Traxas were nobles of the City before the Doge exiled them for fear they were all werewolves.
 *Lord and Lady Alevari live in a manse
 *The Tenzerlins are a noble merchant house. Their rivals, the Ghostas, are merchants but do not appear to be nobles.

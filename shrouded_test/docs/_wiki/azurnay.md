@@ -10,9 +10,9 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-![](/media/2426.png)Hex 24.26
+![](/media/2426.png)Hex [24.26](/wiki/24-26/)
 
-Connects to: 20.03, 27.16, 27.27 and 37.21.
+Connects to: [20.03](/wiki/20-03/), [27.16](/wiki/27-16/), [27.27](/wiki/27-27/) and [37.21](/wiki/37-21/).
 
 The [[southern dwarves|dwarves of the Burning Lands]] have many septs, but Azurnay is the only settlement that humans would call a city. It is carved into a mesa, and exists to serve those bound for [[Jahur]], [[Blind Midshotgatepool]] or [[Hyfalls]] ([[46.00]]). Azurnay is built over a subterranean lake, but the lake lies so far below the surface that the city relies on complex machinery to bring its water to the surface. The machinery already existed, rusted and decrepit, when Azurnay's founders settled here. The dwarves managed to refurbish many of the parts and began harvesting the water.
 

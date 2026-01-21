@@ -9,11 +9,11 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-seal.jpg)Connects to: 01.03, 17.07.02, 17.17.05, 27.18.01, 29.14.12, 29.14.14, 29.14.24, 29.14.29 and 29.14.48.
+![](/media/Shutt-seal.jpg)Connects to: [01.03](/wiki/01-03/), [17.07.02](/wiki/17-07/), [17.17.05](/wiki/17-17/), [27.18.01](/wiki/27-18/), [29.14.12](/wiki/29-14/), [29.14.14](/wiki/29-14/), [29.14.24](/wiki/29-14/), [29.14.29](/wiki/29-14/) and [29.14.48](/wiki/29-14/).
 
 Constructed in the early days of the supremacy of the [[Temple Indivisible]] by the legendary traveling wizard-architect [[Vilenius Arkhaus]] ([[01.03]]), the Sealed Library is the heavily warded archive housed at the top of the [[Steeple of Alberon]], accessible only by the [[Matriarch]] and those she chooses. The entire archive is constructed from a massive hollow cube of enchanted [[mithril]], and is engraved inside and out with millions upon millions of magical seals against not only scrying and unauthorized intrusion, but also to prevent the escape of any magical energies or malign influences contained within the archived tomes. The whole cube is suspended from the roof of the Steeple by winches and chains, so that it can be raised without having to be disassembled whenever the Steeple must be built up. The mirror portal by which the Library is entered can only be reached by the means of a system of scaffolding installed in the shaft housing the Sealed Library.
 
-The inside of the cube is larger than without and, disturbingly, this was not one of the properties which the Library was originally constructed with, and is believed to be the effect of gathering so many powerful texts in a single location. Indeed, the Library appears to expand to accommodate new additions. The Library houses many texts, some heretical, others dangerous, a few embarrassing, but all of them are too useful to destroy. Here is kept the spellbook of the [[Supendar|Arch-Lich of Naros]] (29.14.12), one of the three remaining copies of the Testament of [[Weneslas Stannev]] ([[17.07]].02), the only unredacted copy of the [[Scroll of Seven Shadows]] (24.19.24), the Contract between the First Matriarch and the High Priestess of the Labyrinth ([[29.14]].14), the [[Book of Not Being Boiled in Fire]] (29.14.50) and the blood-scriven [[Devil's Bible]] (29.14.48).
+The inside of the cube is larger than without and, disturbingly, this was not one of the properties which the Library was originally constructed with, and is believed to be the effect of gathering so many powerful texts in a single location. Indeed, the Library appears to expand to accommodate new additions. The Library houses many texts, some heretical, others dangerous, a few embarrassing, but all of them are too useful to destroy. Here is kept the spellbook of the [[Supendar|Arch-Lich of Naros]] ([29.14.12](/wiki/29-14/)), one of the three remaining copies of the Testament of [[Weneslas Stannev]] ([[17.07]].02), the only unredacted copy of the [[Scroll of Seven Shadows]] ([24.19.24](/wiki/24-19/)), the Contract between the First Matriarch and the High Priestess of the Labyrinth ([[29.14]].14), the [[Book of Not Being Boiled in Fire]] ([29.14.50](/wiki/29-14/)) and the blood-scriven [[Devil's Bible]] ([29.14.48](/wiki/29-14/)).
 
 In addition to these storied texts, a selection (in no particular order) of the Sealed Library’s contents is briefly described below:
 **The Vedich Manuscript*, an alchemical treatise with obscene formulae that would blacken and twist the soul of any man who would dare carry out the profane experiments and operations they describe.
@@ -34,7 +34,7 @@ This is, of course, by no means a comprehensive list, and yet even stranger and 
 ### Connections:
 *The Sealed Library is the holding place of the Contract between the Matriarch of the Temple Indivisible and the High Priestess of the Temple of the Labyrinth ([[29.14]].14).
 **The Breath of Alberon* is one of the many burned books that are summarized in the *Book of a Thousand False Lies* ([[17.17]].07).
-*One of the texts that the Library holds concerns [[Asrigh]], an imprisoned wind god (27.18.01).
+*One of the texts that the Library holds concerns [[Asrigh]], an imprisoned wind god ([27.18.01](/wiki/27-18/)).
 ### Hooks:
 *Who is Vilenius Arkhaus and what else did he build?
 *Who wrote these books?

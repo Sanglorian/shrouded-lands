@@ -12,157 +12,157 @@ media: []
 ## Index
 This index does not state whether a hex is relevant because a single one of the creature can be found there, because multiple of the creature can be found there or because the creature is mentioned in the hex description. This data is still available in the Google Doc.
 
-*[[Aarokocra]] (04.00, 26.20, 29.14)
+*[[Aarokocra]] ([04.00](/wiki/04-00/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
 
-*[[Aboleths]] (11.20, 12.29, 22.25, Down to a Sunless Sea)
+*[[Aboleths]] ([11.20](/wiki/11-20/), [12.29](/wiki/12-29/), [22.25](/wiki/22-25/), Down to a Sunless Sea)
 
-*[[Alkalions]] (14.27)
+*[[Alkalions]] ([14.27](/wiki/14-27/))
 
-*[[Alligators]] (40.20)
+*[[Alligators]] ([40.20](/wiki/40-20/))
 
-*[[Amphibians]] (20.16), see also Bullywugs
+*[[Amphibians]] ([20.16](/wiki/20-16/)), see also Bullywugs
 
-*Amphibians (desert toads) (03.26)
+*Amphibians (desert toads) ([03.26](/wiki/03-26/))
 
 *Amphibians (frogs) (With Morning Comes Mistfall)
 
-*Amphibians (giant blind salamanders) (02.06)
+*Amphibians (giant blind salamanders) ([02.06](/wiki/02-06/))
 
-*Amphibians (Grandmother of the Ford) (41.09)
+*Amphibians (Grandmother of the Ford) ([41.09](/wiki/41-09/))
 
-*Amphibians (The Spawn) (39.08)
+*Amphibians (The Spawn) ([39.08](/wiki/39-08/))
 
-*Amphibians (talking frogs) (40.09)
+*Amphibians (talking frogs) ([40.09](/wiki/40-09/))
 
-*Amphibians (toads) (21.16)
+*Amphibians (toads) ([21.16](/wiki/21-16/))
 
-*[[Angels]] (02.03)
+*[[Angels]] ([02.03](/wiki/02-03/))
 
-*Angels, destroying (07.06, 08.06, 37.01)
+*Angels, destroying ([07.06](/wiki/07-06/), [08.06](/wiki/08-06/), [37.01](/wiki/37-01/))
 
-*Animals, talking (29.13)
+*Animals, talking ([29.13](/wiki/29-13/))
 
-*[[Animated swords]] (15.15)
+*[[Animated swords]] ([15.15](/wiki/15-15/))
 
-*[[Ankhegs]] (15.04)
+*[[Ankhegs]] ([15.04](/wiki/15-04/))
 
-*[[Antelope]] (13.24)
+*[[Antelope]] ([13.24](/wiki/13-24/))
 
-*[[Apes]], carnivorous (15.11)
+*[[Apes]], carnivorous ([15.11](/wiki/15-11/))
 
-*Apes, ghost (51.29)
+*Apes, ghost ([51.29](/wiki/51-29/))
 
-*[[Araneas]] (23.08)
+*[[Araneas]] ([23.08](/wiki/23-08/))
 
 *[[Archaes]] ([Jahur])
 
 *[[Azimyth]], see Bats (azimyth)
 
-*[[Basilisks]] (24.12, 25.31)
+*[[Basilisks]] ([24.12](/wiki/24-12/), [25.31](/wiki/25-31/))
 
-*[[Bats]] (azimyth) (12.09)
+*[[Bats]] (azimyth) ([12.09](/wiki/12-09/))
 
-*Bats, fire (21.16)
+*Bats, fire ([21.16](/wiki/21-16/))
 
-*Bats, great (02.05)
+*Bats, great ([02.05](/wiki/02-05/))
 
-*Bats, courier (40.06)
+*Bats, courier ([40.06](/wiki/40-06/))
 
 *Bats, vampire (Kingswood Random Encounters)
 
-*[[Bears]] (08.16)
+*[[Bears]] ([08.16](/wiki/08-16/))
 
 *Bears, drop, see Drop bears
 
-*Bears, fire-breathing (05.12)
+*Bears, fire-breathing ([05.12](/wiki/05-12/))
 
-*Bears (nordenbjorn) (09.00, 11.10, 14.00, 14.01, 35.04)
+*Bears (nordenbjorn) ([09.00](/wiki/09-00/), [11.10](/wiki/11-10/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [35.04](/wiki/35-04/))
 
-*Bears, riding (13.17)
+*Bears, riding ([13.17](/wiki/13-17/))
 
-*[[Beavers]], talking (39.08)
+*[[Beavers]], talking ([39.08](/wiki/39-08/))
 
-*[[Beetlefolk]] (49.03)
+*[[Beetlefolk]] ([49.03](/wiki/49-03/))
 
-*Beings of chalk and salt (09.09, 33.04)
+*Beings of chalk and salt ([09.09](/wiki/09-09/), [33.04](/wiki/33-04/))
 
-*Beings of dew and vapour (16.16)
+*Beings of dew and vapour ([16.16](/wiki/16-16/))
 
-*Beings of dust and wind (33.04)
+*Beings of dust and wind ([33.04](/wiki/33-04/))
 
-*Beings of fire and smoke (03.04)
+*Beings of fire and smoke ([03.04](/wiki/03-04/))
 
-*Beings of pollen and milk (02.11)
+*Beings of pollen and milk ([02.11](/wiki/02-11/))
 
-*Beings of shadow and flame (24.11)
+*Beings of shadow and flame ([24.11](/wiki/24-11/))
 
-*Beings of soot and ash (09.09)
+*Beings of soot and ash ([09.09](/wiki/09-09/))
 
-*Beings of vine and feather (33.04)
+*Beings of vine and feather ([33.04](/wiki/33-04/))
 
-*[[Birds]] (blood falcons) (36.04, The Lady of the Vale)
+*[[Birds]] (blood falcons) ([36.04](/wiki/36-04/), The Lady of the Vale)
 
-*Birds (bluejay) (29.14)
+*Birds (bluejay) ([29.14](/wiki/29-14/))
 
-*Birds (burning eagles) (2.10, 30.15)
+*Birds (burning eagles) (2.10, [30.15](/wiki/30-15/))
 
-*Birds (chickens) (26.16, 29.14), see also Dragons, gold
+*Birds (chickens) ([26.16](/wiki/26-16/), [29.14](/wiki/29-14/)), see also Dragons, gold
 
-*Birds (cormorants) (09.22)
+*Birds (cormorants) ([09.22](/wiki/09-22/))
 
 *Birds (cuckoos), see Birds (chickens)
 
-*Birds (dire butcher birds) (04.30)
+*Birds (dire butcher birds) ([04.30](/wiki/04-30/))
 
-*Birds (dodos) (21.29, 48.18)
+*Birds (dodos) ([21.29](/wiki/21-29/), [48.18](/wiki/48-18/))
 
-*Birds (falcons) (05.20)
+*Birds (falcons) ([05.20](/wiki/05-20/))
 
-*Birds (firebirds) (03.04, 04.05, 04.06, 06.05, 17.11, 24.12, 39.23)
+*Birds (firebirds) ([03.04](/wiki/03-04/), [04.05](/wiki/04-05/), [04.06](/wiki/04-06/), [06.05](/wiki/06-05/), [17.11](/wiki/17-11/), [24.12](/wiki/24-12/), [39.23](/wiki/39-23/))
 
-*Birds (giant crows) (04.30)
+*Birds (giant crows) ([04.30](/wiki/04-30/))
 
-*Birds (hummingbirds) (29.14)
+*Birds (hummingbirds) ([29.14](/wiki/29-14/))
 
-*Birds (ibises) (27.18, 29.15)
+*Birds (ibises) ([27.18](/wiki/27-18/), [29.15](/wiki/29-15/))
 
-*Birds, miniature flightless (12.28)
+*Birds, miniature flightless ([12.28](/wiki/12-28/))
 
-*Birds (mockingbirds) (25.07)
+*Birds (mockingbirds) ([25.07](/wiki/25-07/))
 
-*Birds (nightingales) (14.01, 39.23)
+*Birds (nightingales) ([14.01](/wiki/14-01/), [39.23](/wiki/39-23/))
 
-*Birds of paradise (29.30, 43.12, 49.11, 50.11)
+*Birds of paradise ([29.30](/wiki/29-30/), [43.12](/wiki/43-12/), [49.11](/wiki/49-11/), [50.11](/wiki/50-11/))
 
-*Birds (ostriches) (11.08, 16.04, 16.09, 17.03, 17.07, 18.07, 19.04, 20.03, 48.18, The Mounts of Thring)
+*Birds (ostriches) ([11.08](/wiki/11-08/), [16.04](/wiki/16-04/), [16.09](/wiki/16-09/), [17.03](/wiki/17-03/), [17.07](/wiki/17-07/), [18.07](/wiki/18-07/), [19.04](/wiki/19-04/), [20.03](/wiki/20-03/), [48.18](/wiki/48-18/), The Mounts of Thring)
 
-*Birds (owls) (09.00)
+*Birds (owls) ([09.00](/wiki/09-00/))
 
 *Birds (peacockatrice), see Cockatrice (peacockatrice)
 
-*Birds (penguins) (29.14)
+*Birds (penguins) ([29.14](/wiki/29-14/))
 
-*Birds (poison vultures) (03.13), see also Birds (vultures)
+*Birds (poison vultures) ([03.13](/wiki/03-13/)), see also Birds (vultures)
 
-*Birds (ravens) (05.20, 34.00), see also Birds (white ravens), see also Dwarf lords
+*Birds (ravens) ([05.20](/wiki/05-20/), [34.00](/wiki/34-00/)), see also Birds (white ravens), see also Dwarf lords
 
-*Birds (robins) (29.14)
+*Birds (robins) ([29.14](/wiki/29-14/))
 
-*Birds (rocs) (01.01, 36.02)
+*Birds (rocs) ([01.01](/wiki/01-01/), [36.02](/wiki/36-02/))
 
-*Birds, sea (19.33)
+*Birds, sea ([19.33](/wiki/19-33/))
 
-*Birds (sparrows) (16.16)
+*Birds (sparrows) ([16.16](/wiki/16-16/))
 
-*Birds (vultures) (38.26, 38.27), see also Birds (poison vultures), see also Nekh
+*Birds (vultures) ([38.26](/wiki/38-26/), [38.27](/wiki/38-27/)), see also Birds (poison vultures), see also Nekh
 
-*Birds (white ravens) (01.06), see also Birds (ravens)
+*Birds (white ravens) ([01.06](/wiki/01-06/)), see also Birds (ravens)
 
-*[[Boar]] (03.08, 12.22, 16.16, 20.16, The Mounts of Thring)
+*[[Boar]] ([03.08](/wiki/03-08/), [12.22](/wiki/12-22/), [16.16](/wiki/16-16/), [20.16](/wiki/20-16/), The Mounts of Thring)
 
-*[[Bodaks]] (21.12)
+*[[Bodaks]] ([21.12](/wiki/21-12/))
 
-*[[Bogswines]] (17.16)
+*[[Bogswines]] ([17.16](/wiki/17-16/))
 
 *[[Buffalo]], see Cattle (ghost buffalo)
 
@@ -170,53 +170,53 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Bull, the iron (of She Who Waits) (The Chant of Morning), see also Cattle
 
-*[[Bullywugs]] (26.19)
+*[[Bullywugs]] ([26.19](/wiki/26-19/))
 
-*[[Butterflies]], gilded (23.10)
+*[[Butterflies]], gilded ([23.10](/wiki/23-10/))
 
 *Cacti, great, see Cactogres
 
-*[[Catoblepas]] (18.11)
+*[[Catoblepas]] ([18.11](/wiki/18-11/))
 
-*[[Cactogres]] (18.28)
+*[[Cactogres]] ([18.28](/wiki/18-28/))
 
-*[[Cats]] (Kingswood Random Encounters, 15.13, 29.14, 43.12)
+*[[Cats]] (Kingswood Random Encounters, [15.13](/wiki/15-13/), [29.14](/wiki/29-14/), [43.12](/wiki/43-12/))
 
 *Cats, feathered, see Cats, flying
 
-*Cats, flying (17.07, 34.04, The  Lady of the Vale)
+*Cats, flying ([17.07](/wiki/17-07/), [34.04](/wiki/34-04/), The  Lady of the Vale)
 
-*Cats (Gorean Greys) (11.16)
+*Cats (Gorean Greys) ([11.16](/wiki/11-16/))
 
-*Cats, hunting (37.06)
+*Cats, hunting ([37.06](/wiki/37-06/))
 
-*Cats (pumas) (06.03)
+*Cats (pumas) ([06.03](/wiki/06-03/))
 
-*Cats, razor (29.14)
+*Cats, razor ([29.14](/wiki/29-14/))
 
-*[[Cattle]] (09.01, 18.17, 20.18, 22.03, 24.02, 31.27, 37.21, 44.03, 48.18), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
+*[[Cattle]] ([09.01](/wiki/09-01/), [18.17](/wiki/18-17/), [20.18](/wiki/20-18/), [22.03](/wiki/22-03/), [24.02](/wiki/24-02/), [31.27](/wiki/31-27/), [37.21](/wiki/37-21/), [44.03](/wiki/44-03/), [48.18](/wiki/48-18/)), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
 
-*Cattle, Andaran (43.12) (includes moon-horned cattle)
+*Cattle, Andaran ([43.12](/wiki/43-12/)) (includes moon-horned cattle)
 
-*Cattle (aurochs) (05.07, 51.29)
+*Cattle (aurochs) ([05.07](/wiki/05-07/), [51.29](/wiki/51-29/))
 
-*Cattle (demon bulls) (03.13)
+*Cattle (demon bulls) ([03.13](/wiki/03-13/))
 
 *Cattle (ghost buffalo)
 
-*Cattle, night (12.28, 24.05, 27.03, 27.04, 29.03, 30.03, 30.04, 29.14, 33.16)
+*Cattle, night ([12.28](/wiki/12-28/), [24.05](/wiki/24-05/), [27.03](/wiki/27-03/), [27.04](/wiki/27-04/), [29.03](/wiki/29-03/), [30.03](/wiki/30-03/), [30.04](/wiki/30-04/), [29.14](/wiki/29-14/), [33.16](/wiki/33-16/))
 
-*Cattle, red (17.03)
+*Cattle, red ([17.03](/wiki/17-03/))
 
-*Cattle, vampire (29.14)
+*Cattle, vampire ([29.14](/wiki/29-14/))
 
-*[[Cauldronborn]] (23.16)
+*[[Cauldronborn]] ([23.16](/wiki/23-16/))
 
-*[[Centaurs]] (04.17, 05.18, 40.20)
+*[[Centaurs]] ([04.17](/wiki/04-17/), [05.18](/wiki/05-18/), [40.20](/wiki/40-20/))
 
 *[[Changelings]], see Orcs
 
-*[[Chickens]] (26.16)
+*[[Chickens]] ([26.16](/wiki/26-16/))
 
 *Child, The, see Earth-children
 
@@ -224,43 +224,43 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *[[Chimerics]], see Minotaurs, Manticores, Mermaids, Owlbears, Gryphons, Goatscorpions, Chimeras, Manscorpions, etc.
 
-*[[Cloakers]] (26.20)
+*[[Cloakers]] ([26.20](/wiki/26-20/))
 
-*[[Clockwork eyes]] (26.16)
+*[[Clockwork eyes]] ([26.16](/wiki/26-16/))
 
-*[[Cockatrices]] (peacockatrice) (25.16)
+*[[Cockatrices]] (peacockatrice) ([25.16](/wiki/25-16/))
 
 *[[Constructs]], see Golems; Janissaries
 
-*[[Corpse trees]] (11.11)
+*[[Corpse trees]] ([11.11](/wiki/11-11/))
 
 *[[Cowhorses]] (The Mounts of Thring)
 
 *[[Coyotes]] (The Undying Cycles of Creation)
 
-*[[Crabs]] (31.19)
+*[[Crabs]] ([31.19](/wiki/31-19/))
 
-*Crabs, prism (20.32)
+*Crabs, prism ([20.32](/wiki/20-32/))
 
-*Crabs, whirligig (44.19)
+*Crabs, whirligig ([44.19](/wiki/44-19/))
 
-*[[Crayfish]], giant (13.10, 48.13, 48.14)
+*[[Crayfish]], giant ([13.10](/wiki/13-10/), [48.13](/wiki/48-13/), [48.14](/wiki/48-14/))
 
-*Creatures through the window (29.14)
+*Creatures through the window ([29.14](/wiki/29-14/))
 
-*Crowfolk (04.30, 20.16, 22.18, 26.20, 29.14, 44.17, 02.11)
+*Crowfolk ([04.30](/wiki/04-30/), [20.16](/wiki/20-16/), [22.18](/wiki/22-18/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/), [44.17](/wiki/44-17/), [02.11](/wiki/02-11/))
 
-*Crocodiles (18.17)
+*Crocodiles ([18.17](/wiki/18-17/))
 
-*Crocodiles, albino (08.06)
+*Crocodiles, albino ([08.06](/wiki/08-06/))
 
-*Cyclopses (43.12)
+*Cyclopses ([43.12](/wiki/43-12/))
 
-*Daemons, Fausty (26.16)
+*Daemons, Fausty ([26.16](/wiki/26-16/))
 
-*Daggerfeet (20.10, 43.22)
+*Daggerfeet ([20.10](/wiki/20-10/), [43.22](/wiki/43-22/))
 
-*Darknesses (16.01)
+*Darknesses ([16.01](/wiki/16-01/))
 
 *Daz, see Mantas (river-mantas)
 
@@ -268,167 +268,167 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Death of cows, see Plants (death of cows)
 
-*Deer (11.15, 14.11, 29.10, Kingswood Random Encounters)
+*Deer ([11.15](/wiki/11-15/), [14.11](/wiki/14-11/), [29.10](/wiki/29-10/), Kingswood Random Encounters)
 
-*Deer (white stags) (13.10)
+*Deer (white stags) ([13.10](/wiki/13-10/))
 
-*Demi-gods (03.04)
+*Demi-gods ([03.04](/wiki/03-04/))
 
-*Demons (03.04, 14.11, 19.31, 21.16, 22.10), see also Phantom Steeds, see also Spirits, Hell-born, see also Devil, The, see also Devils
+*Demons ([03.04](/wiki/03-04/), [14.11](/wiki/14-11/), [19.31](/wiki/19-31/), [21.16](/wiki/21-16/), [22.10](/wiki/22-10/)), see also Phantom Steeds, see also Spirits, Hell-born, see also Devil, The, see also Devils
 
-*Demons (imps) (08.21, 21.16)
+*Demons (imps) ([08.21](/wiki/08-21/), [21.16](/wiki/21-16/))
 
-*Demons (snake-demons) (06.10)
+*Demons (snake-demons) ([06.10](/wiki/06-10/))
 
 *Destroying angels, see Angels, destroying
 
-*Devil, The (29.14), see also Demons, see also Devils
+*Devil, The ([29.14](/wiki/29-14/)), see also Demons, see also Devils
 
-*Devils (19.31), see also Demons, see also Devil, The
+*Devils ([19.31](/wiki/19-31/)), see also Demons, see also Devil, The
 
-*Dinosaurs (33.04)
+*Dinosaurs ([33.04](/wiki/33-04/))
 
-*Displacer beasts (16.15)
+*Displacer beasts ([16.15](/wiki/16-15/))
 
-*Djinn (48.18)
+*Djinn ([48.18](/wiki/48-18/))
 
-*Dogs (04.08, 05.12, The Lady of the Vale, The Chant of Morning), see also Hound of She Who Waits
+*Dogs ([04.08](/wiki/04-08/), [05.12](/wiki/05-12/), The Lady of the Vale, The Chant of Morning), see also Hound of She Who Waits
 
-*Dogs, black (04.02, 05.05, 05.07, 41.09)
+*Dogs, black ([04.02](/wiki/04-02/), [05.05](/wiki/05-05/), [05.07](/wiki/05-07/), [41.09](/wiki/41-09/))
 
-*Dogs (black mastiff) (26.16)
+*Dogs (black mastiff) ([26.16](/wiki/26-16/))
 
-*Dogs, blind (19.04)
+*Dogs, blind ([19.04](/wiki/19-04/))
 
-*Dogs, blink (16.15, 29.13, 30.15)
+*Dogs, blink ([16.15](/wiki/16-15/), [29.13](/wiki/29-13/), [30.15](/wiki/30-15/))
 
-*Dogs (earless hounds) (01.03)
+*Dogs (earless hounds) ([01.03](/wiki/01-03/))
 
-*Dogs (long-tongued hounds) (28.11)
+*Dogs (long-tongued hounds) ([28.11](/wiki/28-11/))
 
-*Dogs (Narosi hairless) (39.23)
+*Dogs (Narosi hairless) ([39.23](/wiki/39-23/))
 
-*Dogs (pigdogs) (27.27)
+*Dogs (pigdogs) ([27.27](/wiki/27-27/))
 
-*Dogs (witch-hounds) (22.16, 22.18)
+*Dogs (witch-hounds) ([22.16](/wiki/22-16/), [22.18](/wiki/22-18/))
 
-*Donkeys (07.21)
+*Donkeys ([07.21](/wiki/07-21/))
 
-*Dopplegangers (16.15, 21.02, 22.29, 43.27), see also Smiling Men
+*Dopplegangers ([16.15](/wiki/16-15/), [21.02](/wiki/21-02/), [22.29](/wiki/22-29/), [43.27](/wiki/43-27/)), see also Smiling Men
 
-*Dracoliches (14.02)
+*Dracoliches ([14.02](/wiki/14-02/))
 
-*Draco-lions (26.16)
+*Draco-lions ([26.16](/wiki/26-16/))
 
-*Dragon of She Who Waits (The Chant of Morning, 06.03)
+*Dragon of She Who Waits (The Chant of Morning, [06.03](/wiki/06-03/))
 
-*Dragonblooded (03.13, 15.18, 26.16, 40.20)
+*Dragonblooded ([03.13](/wiki/03-13/), [15.18](/wiki/15-18/), [26.16](/wiki/26-16/), [40.20](/wiki/40-20/))
 
-*Dragons (00.02, 01.02, 01.08, 03.03, 04.06, 07.33, 10.01, 22.25, 25.16, 31.19, 45.09); see also Dracoliches; Draco-lions
+*Dragons ([00.02](/wiki/00-02/), [01.02](/wiki/01-02/), [01.08](/wiki/01-08/), [03.03](/wiki/03-03/), [04.06](/wiki/04-06/), [07.33](/wiki/07-33/), [10.01](/wiki/10-01/), [22.25](/wiki/22-25/), [25.16](/wiki/25-16/), [31.19](/wiki/31-19/), [45.09](/wiki/45-09/)); see also Dracoliches; Draco-lions
 
-*Dragons, black (09.24, 13.24, 21.27, 24.11)
+*Dragons, black ([09.24](/wiki/09-24/), [13.24](/wiki/13-24/), [21.27](/wiki/21-27/), [24.11](/wiki/24-11/))
 
-*Dragons, blue (00.02, 20.24)
+*Dragons, blue ([00.02](/wiki/00-02/), [20.24](/wiki/20-24/))
 
-*Dragons, gold (19.15, 29.14)
+*Dragons, gold ([19.15](/wiki/19-15/), [29.14](/wiki/29-14/))
 
-*Dragons, green (10.12)
+*Dragons, green ([10.12](/wiki/10-12/))
 
 *Dragons, mud, see Lizards (mud dragons)
 
-*Dragons, red (39.32)
+*Dragons, red ([39.32](/wiki/39-32/))
 
-*Dragons, quicksilver (29.14)
+*Dragons, quicksilver ([29.14](/wiki/29-14/))
 
-*Dragons, silver (29.14)
+*Dragons, silver ([29.14](/wiki/29-14/))
 
-*Dragons, topaz (15.15, 17.11?)
+*Dragons, topaz ([15.15](/wiki/15-15/), [17.11](/wiki/17-11/)?)
 
-*Dragons, white (33.04)
+*Dragons, white ([33.04](/wiki/33-04/))
 
-*Dragons (wyverns) (29.29)
+*Dragons (wyverns) ([29.29](/wiki/29-29/))
 
-*Dragon turtles (27.23)
+*Dragon turtles ([27.23](/wiki/27-23/))
 
-*Drakes (01.08)
+*Drakes ([01.08](/wiki/01-08/))
 
-*Drop bears (49.09)
+*Drop bears ([49.09](/wiki/49-09/))
 
 *Drow, see Elves, unseelie
 
 *Drow-ghosts, see Ghosts (drow-ghosts)
 
-*Drowned, the (29.32)
+*Drowned, the ([29.32](/wiki/29-32/))
 
-*Dryads (00.02, 01.05, 05.14, 06.14, 30.12, 32.05, 38.06), see also Corpse trees
+*Dryads ([00.02](/wiki/00-02/), [01.05](/wiki/01-05/), [05.14](/wiki/05-14/), [06.14](/wiki/06-14/), [30.12](/wiki/30-12/), [32.05](/wiki/32-05/), [38.06](/wiki/38-06/)), see also Corpse trees
 
 *Duergar, see Dwarves (duergar)
 
-*Dune Walker (09.29)
+*Dune Walker ([09.29](/wiki/09-29/))
 
-*Dwarf lords (34.00)
+*Dwarf lords ([34.00](/wiki/34-00/))
 
-*Dwarves (02.03, 02.05, 03.03, 03.04, 03.07, 04.05, 09.24, 16.01, 17.11, 22.02, 24.02, 26.01, 27.04, 29.01, 29.14, 29.29, 30.12, 33.00, 33.01, 34.01, 38.26, 39.00, 46.01, 49.03, 49.32), see also Dwarf lords
+*Dwarves ([02.03](/wiki/02-03/), [02.05](/wiki/02-05/), [03.03](/wiki/03-03/), [03.04](/wiki/03-04/), [03.07](/wiki/03-07/), [04.05](/wiki/04-05/), [09.24](/wiki/09-24/), [16.01](/wiki/16-01/), [17.11](/wiki/17-11/), [22.02](/wiki/22-02/), [24.02](/wiki/24-02/), [26.01](/wiki/26-01/), [27.04](/wiki/27-04/), [29.01](/wiki/29-01/), [29.14](/wiki/29-14/), [29.29](/wiki/29-29/), [30.12](/wiki/30-12/), [33.00](/wiki/33-00/), [33.01](/wiki/33-01/), [34.01](/wiki/34-01/), [38.26](/wiki/38-26/), [39.00](/wiki/39-00/), [46.01](/wiki/46-01/), [49.03](/wiki/49-03/), [49.32](/wiki/49-32/)), see also Dwarf lords
 
-*Dwarves (derro) (05.06)
+*Dwarves (derro) ([05.06](/wiki/05-06/))
 
-*Dwarves, deep (29.14, 29.24, 31.04, 33.00)
+*Dwarves, deep ([29.14](/wiki/29-14/), [29.24](/wiki/29-24/), [31.04](/wiki/31-04/), [33.00](/wiki/33-00/))
 
-*Dwarves (duergar) (21.27)
+*Dwarves (duergar) ([21.27](/wiki/21-27/))
 
-*Dwarves, southern (27.27, 31.27)
+*Dwarves, southern ([27.27](/wiki/27-27/), [31.27](/wiki/31-27/))
 
-*Earth-children (18.07)
+*Earth-children ([18.07](/wiki/18-07/))
 
-*Eels (35.13)
+*Eels ([35.13](/wiki/35-13/))
 
-*Eel, electric (23.11)
+*Eel, electric ([23.11](/wiki/23-11/))
 
-*Efreet (39.32)
+*Efreet ([39.32](/wiki/39-32/))
 
 *Egg ghosts, see Yends
 
-*Elementals (00.02, 03.04, 17.06, 17.07, 18.07, The Air Down There), see also Beings of ..., Spirits of smoke and fire
+*Elementals ([00.02](/wiki/00-02/), [03.04](/wiki/03-04/), [17.06](/wiki/17-06/), [17.07](/wiki/17-07/), [18.07](/wiki/18-07/), The Air Down There), see also Beings of ..., Spirits of smoke and fire
 
-*Elementals (fire elements) (51.29)
+*Elementals (fire elements) ([51.29](/wiki/51-29/))
 
-*Elementals, moon (18.07, Umberstone)
+*Elementals, moon ([18.07](/wiki/18-07/), Umberstone)
 
-*Elementals, steam (44.19)
+*Elementals, steam ([44.19](/wiki/44-19/))
 
-*Elementals (tempest/tempest spawn) (19.30)
+*Elementals (tempest/tempest spawn) ([19.30](/wiki/19-30/))
 
-*Elementals (water spirits) (29.14)
+*Elementals (water spirits) ([29.14](/wiki/29-14/))
 
-*Elementals, water (13.02)
+*Elementals, water ([13.02](/wiki/13-02/))
 
-*Elephants (12.28)
+*Elephants ([12.28](/wiki/12-28/))
 
-*Elephants (hoarlephants) (49.03, 50.03)
+*Elephants (hoarlephants) ([49.03](/wiki/49-03/), [50.03](/wiki/50-03/))
 
-*Elephants (mammoths) (51.29)
+*Elephants (mammoths) ([51.29](/wiki/51-29/))
 
-*Elephants, moon (16.16, 50.20)
+*Elephants, moon ([16.16](/wiki/16-16/), [50.20](/wiki/50-20/))
 
-*Elephants, painted (43.27)
+*Elephants, painted ([43.27](/wiki/43-27/))
 
-*Elves (07.21, 13.02, 13.03, 16.16, 18.07, 19.31, 20.08, 22.02, 22.04, 22.06, 23.11, 24.02, 24.07, 25.04, 27.09, 27.09, 28.07, 29.07, 29.10, 33.08, 34.04, 36.04, 36.09, 38.06, 43.08, 43.27, 49.32, The Lady of the Vale, Kingswood Random Encounters, With Morning Comes Mistfall), see also Fey
+*Elves ([07.21](/wiki/07-21/), [13.02](/wiki/13-02/), [13.03](/wiki/13-03/), [16.16](/wiki/16-16/), [18.07](/wiki/18-07/), [19.31](/wiki/19-31/), [20.08](/wiki/20-08/), [22.02](/wiki/22-02/), [22.04](/wiki/22-04/), [22.06](/wiki/22-06/), [23.11](/wiki/23-11/), [24.02](/wiki/24-02/), [24.07](/wiki/24-07/), [25.04](/wiki/25-04/), [27.09](/wiki/27-09/), [27.09](/wiki/27-09/), [28.07](/wiki/28-07/), [29.07](/wiki/29-07/), [29.10](/wiki/29-10/), [33.08](/wiki/33-08/), [34.04](/wiki/34-04/), [36.04](/wiki/36-04/), [36.09](/wiki/36-09/), [38.06](/wiki/38-06/), [43.08](/wiki/43-08/), [43.27](/wiki/43-27/), [49.32](/wiki/49-32/), The Lady of the Vale, Kingswood Random Encounters, With Morning Comes Mistfall), see also Fey
 
-*Elves (half-elves) (03.31, 17.05, 17.07, 20.16, 23.11, 26.20, 29.14, 31.04)
+*Elves (half-elves) ([03.31](/wiki/03-31/), [17.05](/wiki/17-05/), [17.07](/wiki/17-07/), [20.16](/wiki/20-16/), [23.11](/wiki/23-11/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/), [31.04](/wiki/31-04/))
 
-*Elves, high (07.21?, 29.14)
+*Elves, high ([07.21](/wiki/07-21/)?, [29.14](/wiki/29-14/))
 
-*Elves (quicklings) (31.09)
+*Elves (quicklings) ([31.09](/wiki/31-09/))
 
 *Elves, seelie (The Prince of Men), see also Elves, white
 
-*Elves, unseelie (07.21?, 28.07, 31.04, 31.07, 51.29, The Prince of Men)
+*Elves, unseelie ([07.21](/wiki/07-21/)?, [28.07](/wiki/28-07/), [31.04](/wiki/31-04/), [31.07](/wiki/31-07/), [51.29](/wiki/51-29/), The Prince of Men)
 
-*Elves, wax-based (16.04)
+*Elves, wax-based ([16.04](/wiki/16-04/))
 
-*Elves, white (08.27)
+*Elves, white ([08.27](/wiki/08-27/))
 
-*Ettins (13.06, 29.14)
+*Ettins ([13.06](/wiki/13-06/), [29.14](/wiki/29-14/))
 
 *Eyes of flame and fear, see Minotaurs, skeletal
 
@@ -436,31 +436,31 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Fairies, see Fey, see also Elves
 
-*Ferrets, giant (19.01)
+*Ferrets, giant ([19.01](/wiki/19-01/))
 
-*Fey (18.06, 19.05, 29.07), see also Elves
+*Fey ([18.06](/wiki/18-06/), [19.05](/wiki/19-05/), [29.07](/wiki/29-07/)), see also Elves
 
-*Fey (queen of fairy) (00.06)
+*Fey (queen of fairy) ([00.06](/wiki/00-06/))
 
-*Fey (pixies) (33.04)
+*Fey (pixies) ([33.04](/wiki/33-04/))
 
-*Fey, seelie (04.06)
+*Fey, seelie ([04.06](/wiki/04-06/))
 
-*Fey, unseelie (04.06, 21.12, 29.07)
+*Fey, unseelie ([04.06](/wiki/04-06/), [21.12](/wiki/21-12/), [29.07](/wiki/29-07/))
 
 *Fiends, see Demons, see Devils
 
-*Figureheads (00.03)
+*Figureheads ([00.03](/wiki/00-03/))
 
-*Fish (08.06, 13.10, 16.15, 20.04, 27.19, 28.21)
+*Fish ([08.06](/wiki/08-06/), [13.10](/wiki/13-10/), [16.15](/wiki/16-15/), [20.04](/wiki/20-04/), [27.19](/wiki/27-19/), [28.21](/wiki/28-21/))
 
-*Fish (catfish) (35.13)
+*Fish (catfish) ([35.13](/wiki/35-13/))
 
-*Fish (codfish) (27.23)
+*Fish (codfish) ([27.23](/wiki/27-23/))
 
-*Fish, flying (09.22)
+*Fish, flying ([09.22](/wiki/09-22/))
 
-*Fish (lungfish) (35.13)
+*Fish (lungfish) ([35.13](/wiki/35-13/))
 
 *Foolish Sages, see Sages
 
@@ -468,93 +468,93 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Frogs, see under Amphibians
 
-*Fungi folk (16.17)
+*Fungi folk ([16.17](/wiki/16-17/))
 
-*Galeb duhr (03.29, 03.30)
+*Galeb duhr ([03.29](/wiki/03-29/), [03.30](/wiki/03-30/))
 
-*Galloon (26.16, 29.14)
+*Galloon ([26.16](/wiki/26-16/), [29.14](/wiki/29-14/))
 
-*Gargoyles (48.18, The Chimera of the Suitor’s Tower)
+*Gargoyles ([48.18](/wiki/48-18/), The Chimera of the Suitor’s Tower)
 
-*Gargoyles, wooden (21.14)
+*Gargoyles, wooden ([21.14](/wiki/21-14/))
 
 *Gatherer-of-Bones, see Golems, bone
 
-*Geas eaters (29.14)
+*Geas eaters ([29.14](/wiki/29-14/))
 
-*Genasi, fire (39.32)
+*Genasi, fire ([39.32](/wiki/39-32/))
 
 *Genies, see djinn
 
-*Ghosts (01.08, 01.10, 09.19, 12.28, 17.03, 20.08, 21.12, 29.13, 29.14, 46.10); see also Cattle (ghost buffalo)
+*Ghosts ([01.08](/wiki/01-08/), [01.10](/wiki/01-10/), [09.19](/wiki/09-19/), [12.28](/wiki/12-28/), [17.03](/wiki/17-03/), [20.08](/wiki/20-08/), [21.12](/wiki/21-12/), [29.13](/wiki/29-13/), [29.14](/wiki/29-14/), [46.10](/wiki/46-10/)); see also Cattle (ghost buffalo)
 
 *Ghosts, egg, see Yends
 
-*Ghosts (drow-ghosts) (23.11, 51.29)
+*Ghosts (drow-ghosts) ([23.11](/wiki/23-11/), [51.29](/wiki/51-29/))
 
-*Ghosts, gnome (29.14)
+*Ghosts, gnome ([29.14](/wiki/29-14/))
 
-*Ghouls (08.27, 09.24, 12.28, 13.30, 11.28, 14.27, 15.28, 13.08, 29.13)
+*Ghouls ([08.27](/wiki/08-27/), [09.24](/wiki/09-24/), [12.28](/wiki/12-28/), [13.30](/wiki/13-30/), [11.28](/wiki/11-28/), [14.27](/wiki/14-27/), [15.28](/wiki/15-28/), [13.08](/wiki/13-08/), [29.13](/wiki/29-13/))
 
-*Giants (02.03, 02.03, 07.01, 16.20, 22.02, 24.02, 26.20, 29.14)
+*Giants ([02.03](/wiki/02-03/), [02.03](/wiki/02-03/), [07.01](/wiki/07-01/), [16.20](/wiki/16-20/), [22.02](/wiki/22-02/), [24.02](/wiki/24-02/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
 
-*Giants, cloud (00.02, 01.04)
+*Giants, cloud ([00.02](/wiki/00-02/), [01.04](/wiki/01-04/))
 
-*Giants, frost (02.03)
+*Giants, frost ([02.03](/wiki/02-03/))
 
-*Giants, hill (02.03, 10.03)
+*Giants, hill ([02.03](/wiki/02-03/), [10.03](/wiki/10-03/))
 
 *Giants’ Mortar, see Gnomes
 
-*Giants, stone (02.05, 2.10, 06.03, 13.20, 29.14)
+*Giants, stone ([02.05](/wiki/02-05/), 2.10, [06.03](/wiki/06-03/), [13.20](/wiki/13-20/), [29.14](/wiki/29-14/))
 
-*Giants, storm (00.06, 01.04, 04.00, 06.03, 07.01, 29.14, 31.07)
+*Giants, storm ([00.06](/wiki/00-06/), [01.04](/wiki/01-04/), [04.00](/wiki/04-00/), [06.03](/wiki/06-03/), [07.01](/wiki/07-01/), [29.14](/wiki/29-14/), [31.07](/wiki/31-07/))
 
-*Gibberlings (38.26)
+*Gibberlings ([38.26](/wiki/38-26/))
 
-*Giraffes (su-giraffes) (46.06, 49.04)
+*Giraffes (su-giraffes) ([46.06](/wiki/46-06/), [49.04](/wiki/49-04/))
 
-*Gith (29.14?)
+*Gith ([29.14](/wiki/29-14/)?)
 
 *Gloomwings (The Lady of the Vale)
 
-*Gnolls (12.28, 13.30, 14.02, 14.27, 15.28, 16.16.02, 18.28, 19.31, 21.29, 22.03, 29.29, 29.32, 34.25, 31.27, 32.32, 34.28, 37.21, 38.26, 39.31, 39.32, 40.06, 40.20, 43.27, 44.03, 50.30, 51.29), see also Genasi (fire)
+*Gnolls ([12.28](/wiki/12-28/), [13.30](/wiki/13-30/), [14.02](/wiki/14-02/), [14.27](/wiki/14-27/), [15.28](/wiki/15-28/), [16.16.02](/wiki/16-16/), [18.28](/wiki/18-28/), [19.31](/wiki/19-31/), [21.29](/wiki/21-29/), [22.03](/wiki/22-03/), [29.29](/wiki/29-29/), [29.32](/wiki/29-32/), [34.25](/wiki/34-25/), [31.27](/wiki/31-27/), [32.32](/wiki/32-32/), [34.28](/wiki/34-28/), [37.21](/wiki/37-21/), [38.26](/wiki/38-26/), [39.31](/wiki/39-31/), [39.32](/wiki/39-32/), [40.06](/wiki/40-06/), [40.20](/wiki/40-20/), [43.27](/wiki/43-27/), [44.03](/wiki/44-03/), [50.30](/wiki/50-30/), [51.29](/wiki/51-29/)), see also Genasi (fire)
 
-*Gnomes (02.05, 03.26, 05.24, 09.24, 17.18, 19.31, 20.03, 24.05, 24.23, 25.14, 26.20, 27.16, 29.14, 48.18, 49.32)
+*Gnomes ([02.05](/wiki/02-05/), [03.26](/wiki/03-26/), [05.24](/wiki/05-24/), [09.24](/wiki/09-24/), [17.18](/wiki/17-18/), [19.31](/wiki/19-31/), [20.03](/wiki/20-03/), [24.05](/wiki/24-05/), [24.23](/wiki/24-23/), [25.14](/wiki/25-14/), [26.20](/wiki/26-20/), [27.16](/wiki/27-16/), [29.14](/wiki/29-14/), [48.18](/wiki/48-18/), [49.32](/wiki/49-32/))
 
-*Gnomes, sand (20.24, 23.23, 26.20, 29.14)
+*Gnomes, sand ([20.24](/wiki/20-24/), [23.23](/wiki/23-23/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
 
-*Goats (03.26, 13.24, 22.03, 23.11, 24.02, 24.15, 25.17)
+*Goats ([03.26](/wiki/03-26/), [13.24](/wiki/13-24/), [22.03](/wiki/22-03/), [23.11](/wiki/23-11/), [24.02](/wiki/24-02/), [24.15](/wiki/24-15/), [25.17](/wiki/25-17/))
 
-*Goats, mountain (02.09)
+*Goats, mountain ([02.09](/wiki/02-09/))
 
-*Goatscorpions (29.14)
+*Goatscorpions ([29.14](/wiki/29-14/))
 
-*Goblins (02.05, 03.08, 05.24, 10.01, 11.01, 11.05, 11.10, 11.11, 12.00, 14.00, 14.02, 17.14, 24.02, 29.14, 33.04, 34.00, 38.05)
+*Goblins ([02.05](/wiki/02-05/), [03.08](/wiki/03-08/), [05.24](/wiki/05-24/), [10.01](/wiki/10-01/), [11.01](/wiki/11-01/), [11.05](/wiki/11-05/), [11.10](/wiki/11-10/), [11.11](/wiki/11-11/), [12.00](/wiki/12-00/), [14.00](/wiki/14-00/), [14.02](/wiki/14-02/), [17.14](/wiki/17-14/), [24.02](/wiki/24-02/), [29.14](/wiki/29-14/), [33.04](/wiki/33-04/), [34.00](/wiki/34-00/), [38.05](/wiki/38-05/))
 
-*Goblins (bugbears) (09.19, 14.02, 17.14, 24.12)
+*Goblins (bugbears) ([09.19](/wiki/09-19/), [14.02](/wiki/14-02/), [17.14](/wiki/17-14/), [24.12](/wiki/24-12/))
 
-*Goblins (hobgoblins) (07.17, 14.02, 15.04, 16.04, 40.20)
+*Goblins (hobgoblins) ([07.17](/wiki/07-17/), [14.02](/wiki/14-02/), [15.04](/wiki/15-04/), [16.04](/wiki/16-04/), [40.20](/wiki/40-20/))
 
-*Goblins, maize (04.30)
+*Goblins, maize ([04.30](/wiki/04-30/))
 
-*God-men (17.07)
+*God-men ([17.07](/wiki/17-07/))
 
-*Golems, bone (50.04)
+*Golems, bone ([50.04](/wiki/50-04/))
 
-*Golems, clay (01.09, 14.09, 22.25)
+*Golems, clay ([01.09](/wiki/01-09/), [14.09](/wiki/14-09/), [22.25](/wiki/22-25/))
 
-*Golems (Fist of Madai) (34.28)
+*Golems (Fist of Madai) ([34.28](/wiki/34-28/))
 
-*Golems, flesh (14.23, 29.14, 37.07), see also elves, dwarves, humans, etc. (pejorative)
+*Golems, flesh ([14.23](/wiki/14-23/), [29.14](/wiki/29-14/), [37.07](/wiki/37-07/)), see also elves, dwarves, humans, etc. (pejorative)
 
-*Golems, giant beeswax (17.11)
+*Golems, giant beeswax ([17.11](/wiki/17-11/))
 
-*Golems, stone (20.00)
+*Golems, stone ([20.00](/wiki/20-00/))
 
-*Golems, strange metal (16.17)
+*Golems, strange metal ([16.17](/wiki/16-17/))
 
-*Golems, wax (19.31, 27.12)
+*Golems, wax ([19.31](/wiki/19-31/), [27.12](/wiki/27-12/))
 
 *Gorgonopsian, see Lizards (fangbeasts)
 
@@ -568,17 +568,17 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Grey oozes, see Oozes, grey
 
-*Grey Revenants (43.27)
+*Grey Revenants ([43.27](/wiki/43-27/))
 
-*Griffons (29.14, 39.32)
+*Griffons ([29.14](/wiki/29-14/), [39.32](/wiki/39-32/))
 
-*Hags (46.15)
+*Hags ([46.15](/wiki/46-15/))
 
-*Halflings (02.22, 08.12, 11.08, 16.20, 16.23, 17.03, 20.03, 26.19, 29.01, 29.14)
+*Halflings ([02.22](/wiki/02-22/), [08.12](/wiki/08-12/), [11.08](/wiki/11-08/), [16.20](/wiki/16-20/), [16.23](/wiki/16-23/), [17.03](/wiki/17-03/), [20.03](/wiki/20-03/), [26.19](/wiki/26-19/), [29.01](/wiki/29-01/), [29.14](/wiki/29-14/))
 
-*Halflings, cloud (02.09)
+*Halflings, cloud ([02.09](/wiki/02-09/))
 
-*Harpies (12.22, 49.11)
+*Harpies ([12.22](/wiki/12-22/), [49.11](/wiki/49-11/))
 
 *Hart, see Deer
 
@@ -586,21 +586,21 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Heget, see Hags
 
-*Heget’s sons (46.15)
+*Heget’s sons ([46.15](/wiki/46-15/))
 
-*Hell-born spirits (16.16)
+*Hell-born spirits ([16.16](/wiki/16-16/))
 
-*Hippopotamuses (40.20, 44.22)
+*Hippopotamuses ([40.20](/wiki/40-20/), [44.22](/wiki/44-22/))
 
 *Hive zombies, see Zombies, hive
 
 *Hoarlephants, see Elephants (hoarlephants)
 
-*Homonculi (06.05, 08.03, 49.03)
+*Homonculi ([06.05](/wiki/06-05/), [08.03](/wiki/08-03/), [49.03](/wiki/49-03/))
 
-*Horses (07.21, 17.17, 29.13, 50.03, 50.04, The Mounts of Thring), see also Donkeys; Mules; Phantom Steeds
+*Horses ([07.21](/wiki/07-21/), [17.17](/wiki/17-17/), [29.13](/wiki/29-13/), [50.03](/wiki/50-03/), [50.04](/wiki/50-04/), The Mounts of Thring), see also Donkeys; Mules; Phantom Steeds
 
-*Horses, flayed hides of (18.26)
+*Horses, flayed hides of ([18.26](/wiki/18-26/))
 
 *Hound of She Who Waits (The Chant of Morning), see also Dogs
 
@@ -608,199 +608,199 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Hunting huts, see Mimics
 
-*Hyenas (11.28)
+*Hyenas ([11.28](/wiki/11-28/))
 
-*Hypno (08.27)
+*Hypno ([08.27](/wiki/08-27/))
 
 *Imps, see Demons (imps)
 
-*Insects (29.14), see also Beetlefolk
+*Insects ([29.14](/wiki/29-14/)), see also Beetlefolk
 
-*Insects (bees) (08.16), see also Insects, giant (giant bees), see also Insects (subterranean bees)
+*Insects (bees) ([08.16](/wiki/08-16/)), see also Insects, giant (giant bees), see also Insects (subterranean bees)
 
-*Insects (centipedes) (40.20), see also Insects (fire centipedes), see also Insects, giant (man-sized centipedes)
+*Insects (centipedes) ([40.20](/wiki/40-20/)), see also Insects (fire centipedes), see also Insects, giant (man-sized centipedes)
 
-*Insects (dragonflies) (31.09)
+*Insects (dragonflies) ([31.09](/wiki/31-09/))
 
-*Insects, flesh-eating (29.14)
+*Insects, flesh-eating ([29.14](/wiki/29-14/))
 
-*Insects (fire centipedes) (17.30)
+*Insects (fire centipedes) ([17.30](/wiki/17-30/))
 
-*Insects, giant (19.01, 24.26)
+*Insects, giant ([19.01](/wiki/19-01/), [24.26](/wiki/24-26/))
 
-*Insects, giant (fire beetles) (06.05, 06.06, 14.02)
+*Insects, giant (fire beetles) ([06.05](/wiki/06-05/), [06.06](/wiki/06-06/), [14.02](/wiki/14-02/))
 
-*Insects, giant (giant bees) (10.09, 10.10, 13.08, 13.10, 17.11, 27.03), see also Insects (bees)
+*Insects, giant (giant bees) ([10.09](/wiki/10-09/), [10.10](/wiki/10-10/), [13.08](/wiki/13-08/), [13.10](/wiki/13-10/), [17.11](/wiki/17-11/), [27.03](/wiki/27-03/)), see also Insects (bees)
 
-*Insects, giant (giant stag beetles) (06.05, 06.06)
+*Insects, giant (giant stag beetles) ([06.05](/wiki/06-05/), [06.06](/wiki/06-06/))
 
-*Insects, giant (man-sized centipedes) (02.08, 04.06, 13.08)
+*Insects, giant (man-sized centipedes) ([02.08](/wiki/02-08/), [04.06](/wiki/04-06/), [13.08](/wiki/13-08/))
 
-*Insects (luminescent beetles) (43.12)
+*Insects (luminescent beetles) ([43.12](/wiki/43-12/))
 
-*Insects (mosquitos) (29.14)
+*Insects (mosquitos) ([29.14](/wiki/29-14/))
 
-*Insects (subterranean bees) (13.09), see also Zombies, hive
+*Insects (subterranean bees) ([13.09](/wiki/13-09/)), see also Zombies, hive
 
 *Insects (ticks) (Kingswood Random Encounters)
 
-*Invisible stalkers (03.31, 48.18)
+*Invisible stalkers ([03.31](/wiki/03-31/), [48.18](/wiki/48-18/))
 
-*Jackals (38.28)
+*Jackals ([38.28](/wiki/38-28/))
 
-*Jackalweres (40.20, 51.17, 51.29)
+*Jackalweres ([40.20](/wiki/40-20/), [51.17](/wiki/51-17/), [51.29](/wiki/51-29/))
 
-*Janissaries (2.18, 13.30, 19.31, 19.33, [The Cross], 23.32, 29.29)
+*Janissaries (2.18, [13.30](/wiki/13-30/), [19.31](/wiki/19-31/), [19.33](/wiki/19-33/), [The Cross], [23.32](/wiki/23-32/), [29.29](/wiki/29-29/))
 
-*Jermalaines (19.01, 29.14)
+*Jermalaines ([19.01](/wiki/19-01/), [29.14](/wiki/29-14/))
 
 *Kenku, see Crowfolk
 
 *Koalas, see Drop bears
 
-*Kobolds (10.12, 13.24, 14.02, 23.11, 27.12, 29.14, 36.04, 38.05, 40.06, 45.09)
+*Kobolds ([10.12](/wiki/10-12/), [13.24](/wiki/13-24/), [14.02](/wiki/14-02/), [23.11](/wiki/23-11/), [27.12](/wiki/27-12/), [29.14](/wiki/29-14/), [36.04](/wiki/36-04/), [38.05](/wiki/38-05/), [40.06](/wiki/40-06/), [45.09](/wiki/45-09/))
 
-*Krakens (01.08, 30.16)
+*Krakens ([01.08](/wiki/01-08/), [30.16](/wiki/30-16/))
 
-*Kuo-toas (44.19)
+*Kuo-toas ([44.19](/wiki/44-19/))
 
-*Leeches, giant (45.24)
+*Leeches, giant ([45.24](/wiki/45-24/))
 
-*Lemur-men (29.14)
+*Lemur-men ([29.14](/wiki/29-14/))
 
-*Leucrotta (04.07, 30.15)
+*Leucrotta ([04.07](/wiki/04-07/), [30.15](/wiki/30-15/))
 
-*Leviathans of the earth (46.09), see also Whales; Old Leviathan
+*Leviathans of the earth ([46.09](/wiki/46-09/)), see also Whales; Old Leviathan
 
-*Liches (18.07)
+*Liches ([18.07](/wiki/18-07/))
 
-*Liches, arch (29.14)
+*Liches, arch ([29.14](/wiki/29-14/))
 
-*Lions (09.01, 17.21, 18.19, The Chant of Morning); see also Draco-lions; Alkalions; Saklas
+*Lions ([09.01](/wiki/09-01/), [17.21](/wiki/17-21/), [18.19](/wiki/18-19/), The Chant of Morning); see also Draco-lions; Alkalions; Saklas
 
-*Lions, riding (16.09)
+*Lions, riding ([16.09](/wiki/16-09/))
 
-*Lizardmen (09.09, 16.23, 17.16, 19.31, 33.04, 41.24)
+*Lizardmen ([09.09](/wiki/09-09/), [16.23](/wiki/16-23/), [17.16](/wiki/17-16/), [19.31](/wiki/19-31/), [33.04](/wiki/33-04/), [41.24](/wiki/41-24/))
 
-*Lizards (22.29)
+*Lizards ([22.29](/wiki/22-29/))
 
 *Lizards, enormous (The Mounts of Thring), see also Lizards (mud dragons)
 
-*Lizards (fangbeasts) (17.16)
+*Lizards (fangbeasts) ([17.16](/wiki/17-16/))
 
-*Lizards, fanged (41.24)
+*Lizards, fanged ([41.24](/wiki/41-24/))
 
-*Lizards (hearth beasts) (22.00)
+*Lizards (hearth beasts) ([22.00](/wiki/22-00/))
 
-*Lizards (mud dragons) (16.23), see also Lizards, enormous
+*Lizards (mud dragons) ([16.23](/wiki/16-23/)), see also Lizards, enormous
 
-*Lizards (sailbeasts) (41.24)
+*Lizards (sailbeasts) ([41.24](/wiki/41-24/))
 
-*Lizards, shock (19.30)
+*Lizards, shock ([19.30](/wiki/19-30/))
 
-*Lizards, spider-limbed (12.28)
+*Lizards, spider-limbed ([12.28](/wiki/12-28/))
 
-*Lizards, spine (24.29)
+*Lizards, spine ([24.29](/wiki/24-29/))
 
 *Lycanthropy, see Were-creatures
 
 *Mammoths, see Elephants (mammoths)
 
-*Manscorpions (01.32)
+*Manscorpions ([01.32](/wiki/01-32/))
 
-*Mantas, cloud (19.30)
+*Mantas, cloud ([19.30](/wiki/19-30/))
 
-*Manta-people (16.15, 20.20, 25.18)
+*Manta-people ([16.15](/wiki/16-15/), [20.20](/wiki/20-20/), [25.18](/wiki/25-18/))
 
-*Mantas (river-mantas) (16.15)
+*Mantas (river-mantas) ([16.15](/wiki/16-15/))
 
-*Manticores (16.16, 39.32)
+*Manticores ([16.16](/wiki/16-16/), [39.32](/wiki/39-32/))
 
-*Medusas (26.17, 26.20)
+*Medusas ([26.17](/wiki/26-17/), [26.20](/wiki/26-20/))
 
-*Men of the End (14.02)
+*Men of the End ([14.02](/wiki/14-02/))
 
-*Mermaids (28.21)
+*Mermaids ([28.21](/wiki/28-21/))
 
-*Mice (05.20)
+*Mice ([05.20](/wiki/05-20/))
 
-*Mice, giant (04.30)
+*Mice, giant ([04.30](/wiki/04-30/))
 
-*Mice, plague (29.14
+*Mice, plague ([29.14](/wiki/29-14/)
 
-*Mimics (10.14)
+*Mimics ([10.14](/wiki/10-14/))
 
-*Mindflayers (35.13)
+*Mindflayers ([35.13](/wiki/35-13/))
 
-*Minotaurs (14.02, 18.02, 18.26, 27.16, 29.14, 39.31, 39.32)
+*Minotaurs ([14.02](/wiki/14-02/), [18.02](/wiki/18-02/), [18.26](/wiki/18-26/), [27.16](/wiki/27-16/), [29.14](/wiki/29-14/), [39.31](/wiki/39-31/), [39.32](/wiki/39-32/))
 
-*Minotaurs, skeletal (39.32)
+*Minotaurs, skeletal ([39.32](/wiki/39-32/))
 
-*Monkeys (24.13, 29.14)
+*Monkeys ([24.13](/wiki/24-13/), [29.14](/wiki/29-14/))
 
-*Monkeys, spider (29.13, 44.01)
+*Monkeys, spider ([29.13](/wiki/29-13/), [44.01](/wiki/44-01/))
 
 *Monkeys, winged (With Morning Comes Mistfall)
 
-*Moths (39.14)
+*Moths ([39.14](/wiki/39-14/))
 
 *Mud dragons, see Lizards (mud dragons)
 
-*Mules (07.21, 12.00, 16.09, 35.04, 50.04, The Mounts of Thring), see also Donkeys, Horses
+*Mules ([07.21](/wiki/07-21/), [12.00](/wiki/12-00/), [16.09](/wiki/16-09/), [35.04](/wiki/35-04/), [50.04](/wiki/50-04/), The Mounts of Thring), see also Donkeys, Horses
 
-*Mummies, ice (03.02, 03.03, 03.08)
+*Mummies, ice ([03.02](/wiki/03-02/), [03.03](/wiki/03-03/), [03.08](/wiki/03-08/))
 
-*Muskrats (39.08)
+*Muskrats ([39.08](/wiki/39-08/))
 
-*Nekh (11.28, 12.28, 14.27)
+*Nekh ([11.28](/wiki/11-28/), [12.28](/wiki/12-28/), [14.27](/wiki/14-27/))
 
 *Nereids (2.18), see also Nymphs
 
-*Nephilium (29.14)
+*Nephilium ([29.14](/wiki/29-14/))
 
 *Nordenbjrorn (see Bears (nordenbjorn))
 
-*Nymphs (18.28, 19.31), see also Nereids
+*Nymphs ([18.28](/wiki/18-28/), [19.31](/wiki/19-31/)), see also Nereids
 
-*Octoids (02.11, 19.31.04, 23.32, 29.14)
+*Octoids ([02.11](/wiki/02-11/), [19.31.04](/wiki/19-31/), [23.32](/wiki/23-32/), [29.14](/wiki/29-14/))
 
-*Ogres (00.02, 00.06, 01.07, 14.02, 22.15, 27.16, 19.31, 26.01, 35.13)
+*Ogres ([00.02](/wiki/00-02/), [00.06](/wiki/00-06/), [01.07](/wiki/01-07/), [14.02](/wiki/14-02/), [22.15](/wiki/22-15/), [27.16](/wiki/27-16/), [19.31](/wiki/19-31/), [26.01](/wiki/26-01/), [35.13](/wiki/35-13/))
 
 *Ogres (cactogres), see Cactogres
 
 *Old Leviathan, see Whales (Old Leviathan)
 
-*Oozes (ochre jelly) (43.03)
+*Oozes (ochre jelly) ([43.03](/wiki/43-03/))
 
-*Oozes, grey (29.14)
+*Oozes, grey ([29.14](/wiki/29-14/))
 
-*Orcs (02.05, 11.03, 13.01, 14.02, 16.16, 18.02, 20.03, 20.04, 21.02, 22.03, 22.04, 22.11, 24.02, 26.01, 26.02, 29.14, 30.12, 34.00, 34.01, 34.05, 36.02, 40.09, 42.02)
+*Orcs ([02.05](/wiki/02-05/), [11.03](/wiki/11-03/), [13.01](/wiki/13-01/), [14.02](/wiki/14-02/), [16.16](/wiki/16-16/), [18.02](/wiki/18-02/), [20.03](/wiki/20-03/), [20.04](/wiki/20-04/), [21.02](/wiki/21-02/), [22.03](/wiki/22-03/), [22.04](/wiki/22-04/), [22.11](/wiki/22-11/), [24.02](/wiki/24-02/), [26.01](/wiki/26-01/), [26.02](/wiki/26-02/), [29.14](/wiki/29-14/), [30.12](/wiki/30-12/), [34.00](/wiki/34-00/), [34.01](/wiki/34-01/), [34.05](/wiki/34-05/), [36.02](/wiki/36-02/), [40.09](/wiki/40-09/), [42.02](/wiki/42-02/))
 
-*Orcs (half-orcs) (01.03, 05.10, 11.03, 13.01, 17.07, 21.06, 29.14)
+*Orcs (half-orcs) ([01.03](/wiki/01-03/), [05.10](/wiki/05-10/), [11.03](/wiki/11-03/), [13.01](/wiki/13-01/), [17.07](/wiki/17-07/), [21.06](/wiki/21-06/), [29.14](/wiki/29-14/))
 
 *Ostriches, see Birds (ostriches)
 
-*Otyughs (13.12, The Chimera of the Suitor’s Tower)
+*Otyughs ([13.12](/wiki/13-12/), The Chimera of the Suitor’s Tower)
 
-*Owlbears (29.14, 39.32)
+*Owlbears ([29.14](/wiki/29-14/), [39.32](/wiki/39-32/))
 
 *Parakeets ([wherever the Collector’s keep is])
 
 *Peacockatrice, see Cockatrice (peacockatrice)
 
-*Peryton (11.15, 17.18)
+*Peryton ([11.15](/wiki/11-15/), [17.18](/wiki/17-18/))
 
-*Phantom Steeds (21.14)
+*Phantom Steeds ([21.14](/wiki/21-14/))
 
-*Phlegmfolk (25.18)
+*Phlegmfolk ([25.18](/wiki/25-18/))
 
-*Phoenixes (03.04, 04.05, 04.06)
+*Phoenixes ([03.04](/wiki/03-04/), [04.05](/wiki/04-05/), [04.06](/wiki/04-06/))
 
 *Pixies, see Fey (pixies)
 
-*Plants (death of cows) (27.03)
+*Plants (death of cows) ([27.03](/wiki/27-03/))
 
-*Plants (mandrakes) (01.03)
+*Plants (mandrakes) ([01.03](/wiki/01-03/))
 
 *Pigdogs, see Dogs (pigdogs)
 
@@ -814,87 +814,87 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Quicklings, see Elves (quicklings)
 
-*Rats (14.14, 15.13, Kingswood Random Encounters)
+*Rats ([14.14](/wiki/14-14/), [15.13](/wiki/15-13/), Kingswood Random Encounters)
 
-*Roads, man-eating wizard (26.13)
+*Roads, man-eating wizard ([26.13](/wiki/26-13/))
 
 *Rocs, see Birds (rocs)
 
-*Rhinoceroses, wooly (03.02)
+*Rhinoceroses, wooly ([03.02](/wiki/03-02/))
 
-*Rojarshans (28.07)
+*Rojarshans ([28.07](/wiki/28-07/))
 
 *Sack children, see Zombies
 
 *Sack Man, see Goblins (bugbears)
 
-*Sages, time-splintered (20.18, 20.20, 46.01)
+*Sages, time-splintered ([20.18](/wiki/20-18/), [20.20](/wiki/20-20/), [46.01](/wiki/46-01/))
 
 *Sailbeasts, see Lizards (sailbeasts)
 
-*Saklas (47.26)
+*Saklas ([47.26](/wiki/47-26/))
 
-*Sandlings (22.25)
+*Sandlings ([22.25](/wiki/22-25/))
 
-*Seawigs (29.14: unclear if flora or fauna)
+*Seawigs ([29.14](/wiki/29-14/): unclear if flora or fauna)
 
-*Selkies (01.05)
+*Selkies ([01.05](/wiki/01-05/))
 
 *Shamblers, see Zombies
 
-*Sheep (02.04, 16.20, 18.03, 18.19, 19.04)
+*Sheep ([02.04](/wiki/02-04/), [16.20](/wiki/16-20/), [18.03](/wiki/18-03/), [18.19](/wiki/18-19/), [19.04](/wiki/19-04/))
 
 *Silverlings ([Jahur])
 
-*Skeletons (14.02, 21.16, 24.18, 29.13, 29.14, 50.04)
+*Skeletons ([14.02](/wiki/14-02/), [21.16](/wiki/21-16/), [24.18](/wiki/24-18/), [29.13](/wiki/29-13/), [29.14](/wiki/29-14/), [50.04](/wiki/50-04/))
 
 *Skeletons (minotaur), see Minotaurs, skeletal
 
-*Skeletons (skeleton-melanges) (20.20, 25.18)
+*Skeletons (skeleton-melanges) ([20.20](/wiki/20-20/), [25.18](/wiki/25-18/))
 
-*Smiling Men (02.11, 39.14)
+*Smiling Men ([02.11](/wiki/02-11/), [39.14](/wiki/39-14/))
 
-*Snails, giant (05.24)
+*Snails, giant ([05.24](/wiki/05-24/))
 
 *Snake-demons, see Demons (snake-demons)
 
-*Snakes (17.11, 19.31, 29.14, 40.20, 41.24), see also Medusas
+*Snakes ([17.11](/wiki/17-11/), [19.31](/wiki/19-31/), [29.14](/wiki/29-14/), [40.20](/wiki/40-20/), [41.24](/wiki/41-24/)), see also Medusas
 
-*Snakes, beetle-eating (43.12)
+*Snakes, beetle-eating ([43.12](/wiki/43-12/))
 
-*Snakes (giant pit vipers) (29.14)
+*Snakes (giant pit vipers) ([29.14](/wiki/29-14/))
 
-*Snakes (palid vipers) (12.28)
+*Snakes (palid vipers) ([12.28](/wiki/12-28/))
 
-*Snakes (pythons) (06.10)
+*Snakes (pythons) ([06.10](/wiki/06-10/))
 
-*Snakes, vile water (16.15)
+*Snakes, vile water ([16.15](/wiki/16-15/))
 
-*Snakes (winged vipers) (09.22, 27.18, 29.15)
+*Snakes (winged vipers) ([09.22](/wiki/09-22/), [27.18](/wiki/27-18/), [29.15](/wiki/29-15/))
 
-*Snakes, albino (13.08)
+*Snakes, albino ([13.08](/wiki/13-08/))
 
 *Spawn, The, see Frogs (The Spawn)
 
-*Spectre (29.13)
+*Spectre ([29.13](/wiki/29-13/))
 
-*Spheres of annihilation (04.31)
+*Spheres of annihilation ([04.31](/wiki/04-31/))
 
-*Spider-legged things (29.14)
+*Spider-legged things ([29.14](/wiki/29-14/))
 
-*Spiders (13.08, 13.09, 21.16)
+*Spiders ([13.08](/wiki/13-08/), [13.09](/wiki/13-09/), [21.16](/wiki/21-16/))
 
-*Spiders, giant (03.19)
+*Spiders, giant ([03.19](/wiki/03-19/))
 
 *Spiders, human-armed, see Araneas
 
-*Spirits (27.16)
+*Spirits ([27.16](/wiki/27-16/))
 
-*Spirits, Hell-born (16.16)
+*Spirits, Hell-born ([16.16](/wiki/16-16/))
 
-*Spirits of smoke and fire (34.28)
+*Spirits of smoke and fire ([34.28](/wiki/34-28/))
 
-*Squid, large (01.10, 08.06)
+*Squid, large ([01.10](/wiki/01-10/), [08.06](/wiki/08-06/))
 
 *Stags, see Deer
 
@@ -904,43 +904,43 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Swine-harpies, see Harpies
 
-*Stirges (07.17, 08.06, 31.15)
+*Stirges ([07.17](/wiki/07-17/), [08.06](/wiki/08-06/), [31.15](/wiki/31-15/))
 
-*Strigoi (09.00)
+*Strigoi ([09.00](/wiki/09-00/))
 
 *Talking animals, see Nordenbjorn, Mules, Beavers, etc.
 
-*Tarrasques (02.22, 05.20, 07.17, 11.20, 16.16, 24.12, 27.27?, 29.14, 34.28, 37.01, 38.26, 38.27, 38.28, 40.20, 45.24, 48.24, 50.04, With Morning Comes Mistfall)
+*Tarrasques ([02.22](/wiki/02-22/), [05.20](/wiki/05-20/), [07.17](/wiki/07-17/), [11.20](/wiki/11-20/), [16.16](/wiki/16-16/), [24.12](/wiki/24-12/), [27.27](/wiki/27-27/)?, [29.14](/wiki/29-14/), [34.28](/wiki/34-28/), [37.01](/wiki/37-01/), [38.26](/wiki/38-26/), [38.27](/wiki/38-27/), [38.28](/wiki/38-28/), [40.20](/wiki/40-20/), [45.24](/wiki/45-24/), [48.24](/wiki/48-24/), [50.04](/wiki/50-04/), With Morning Comes Mistfall)
 
 *Tempests, see Elementals (tempests/tempest spawn)
 
 *Temple of Alberon, see Troglodytes
 
-*Tieflings (05.04, 42.11)
+*Tieflings ([05.04](/wiki/05-04/), [42.11](/wiki/42-11/))
 
 *Time-splintered sages, see Sages
 
 *Toads, see under Amphibians
 
-*Tongues, dead men’s (29.14)
+*Tongues, dead men’s ([29.14](/wiki/29-14/))
 
-*Troglodytes (29.14)
+*Troglodytes ([29.14](/wiki/29-14/))
 
-*Trolls (08.21, 11.20, 14.00, 15.01, 16.20, 27.16, 29.14, 30.15, 31.04, 38.28, 43.03, 48.24)
+*Trolls ([08.21](/wiki/08-21/), [11.20](/wiki/11-20/), [14.00](/wiki/14-00/), [15.01](/wiki/15-01/), [16.20](/wiki/16-20/), [27.16](/wiki/27-16/), [29.14](/wiki/29-14/), [30.15](/wiki/30-15/), [31.04](/wiki/31-04/), [38.28](/wiki/38-28/), [43.03](/wiki/43-03/), [48.24](/wiki/48-24/))
 
-*Turtles, giant snapping (29.15, 39.14)
+*Turtles, giant snapping ([29.15](/wiki/29-15/), [39.14](/wiki/39-14/))
 
-*Undead (16.00, 29.13, Kingswood Random Encounters), see also Skeletons; Zombies; Roads, man-eating wizard; Golems, bone; Spectres; Ghouls; Ghosts; Mummies, ice; Liches; Invisible stalkers [?]; Horses, flayed hides of; Grey Revenants; Cauldronborn; Cattle, vampire; Bodaks; Dracoliches; Drowned, the; Corpse trees
+*Undead ([16.00](/wiki/16-00/), [29.13](/wiki/29-13/), Kingswood Random Encounters), see also Skeletons; Zombies; Roads, man-eating wizard; Golems, bone; Spectres; Ghouls; Ghosts; Mummies, ice; Liches; Invisible stalkers [?]; Horses, flayed hides of; Grey Revenants; Cauldronborn; Cattle, vampire; Bodaks; Dracoliches; Drowned, the; Corpse trees
 
-*Unicorns (07.21, 22.04, 29.07, [the Collector’s keep])
+*Unicorns ([07.21](/wiki/07-21/), [22.04](/wiki/22-04/), [29.07](/wiki/29-07/), [the Collector’s keep])
 
 *Unnatural beings (Umberstone)
 
-*Vampires (02.02, 08.12, 11.11, 29.14)
+*Vampires ([02.02](/wiki/02-02/), [08.12](/wiki/08-12/), [11.11](/wiki/11-11/), [29.14](/wiki/29-14/))
 
-*Vat-born (19.31)
+*Vat-born ([19.31](/wiki/19-31/))
 
-*Voles, giant (04.30)
+*Voles, giant ([04.30](/wiki/04-30/))
 
 *Vo Tume, see Elves
 
@@ -948,73 +948,73 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Wailing Road, see Roads, man-eating wizard
 
-*Warg (24.02, 26.01, 40.09), see also Wolves
+*Warg ([24.02](/wiki/24-02/), [26.01](/wiki/26-01/), [40.09](/wiki/40-09/)), see also Wolves
 
 *Warhorses, see Horses
 
 *Wemics (The Chant of Morning)
 
-*Were-creatures (16.00)
+*Were-creatures ([16.00](/wiki/16-00/))
 
-*Were-bears (13.10, 14.11, 15.11)
+*Were-bears ([13.10](/wiki/13-10/), [14.11](/wiki/14-11/), [15.11](/wiki/15-11/))
 
-*Were-men (18.10, 31.04)
+*Were-men ([18.10](/wiki/18-10/), [31.04](/wiki/31-04/))
 
-*Were-rats (14.14, 26.01) (also written as ‘wererats’)
+*Were-rats ([14.14](/wiki/14-14/), [26.01](/wiki/26-01/)) (also written as ‘wererats’)
 
-*Were-sharks (00.06, 01.07, 11.05, 31.07)
+*Were-sharks ([00.06](/wiki/00-06/), [01.07](/wiki/01-07/), [11.05](/wiki/11-05/), [31.07](/wiki/31-07/))
 
-*Were-spider monkeys (29.13)
+*Were-spider monkeys ([29.13](/wiki/29-13/))
 
-*Were-wolves (36.11)
+*Were-wolves ([36.11](/wiki/36-11/))
 
-*Whales (00.06, 03.19, 01.10, 02.07, 06.03, 39.23)
+*Whales ([00.06](/wiki/00-06/), [03.19](/wiki/03-19/), [01.10](/wiki/01-10/), [02.07](/wiki/02-07/), [06.03](/wiki/06-03/), [39.23](/wiki/39-23/))
 
-*Whales, bearded (35.13)
+*Whales, bearded ([35.13](/wiki/35-13/))
 
-*Whales (Old Leviathan) (00.02, 06.03, Down to a Sunless Sea)
+*Whales (Old Leviathan) ([00.02](/wiki/00-02/), [06.03](/wiki/06-03/), Down to a Sunless Sea)
 
 *White Road, see Roads, man-eating wizard
 
 *White stags, see Deer (white stags)
 
-*Widows’ Mites (18.03)
+*Widows’ Mites ([18.03](/wiki/18-03/))
 
-*Wights (14.02)
+*Wights ([14.02](/wiki/14-02/))
 
-*Willow people (09.19)
+*Willow people ([09.19](/wiki/09-19/))
 
 *Witch-hounds, see Dogs (witch-hounds)
 
 *Wives of Orhan, see Vat-born
 
-*Wolves (08.16, 10.03, 33.01)
+*Wolves ([08.16](/wiki/08-16/), [10.03](/wiki/10-03/), [33.01](/wiki/33-01/))
 
-*Worms (19.01, 29.14, 47.11)
+*Worms ([19.01](/wiki/19-01/), [29.14](/wiki/29-14/), [47.11](/wiki/47-11/))
 
-*Worms, ever-winding (29.14)
+*Worms, ever-winding ([29.14](/wiki/29-14/))
 
 *Worms, giant red ([Jahur])
 
-*Worms, grey (2.10, 30.15, 46.06)
+*Worms, grey (2.10, [30.15](/wiki/30-15/), [46.06](/wiki/46-06/))
 
-*Worms, purple (46.06)
+*Worms, purple ([46.06](/wiki/46-06/))
 
-*Worms, waker (24.19, 25.18, 26.20)
+*Worms, waker ([24.19](/wiki/24-19/), [25.18](/wiki/25-18/), [26.20](/wiki/26-20/))
 
-*Wyrms (40.06)
+*Wyrms ([40.06](/wiki/40-06/))
 
 *Wyverns, see Dragons (wyverns)
 
-*Xortoises (29.14)
+*Xortoises ([29.14](/wiki/29-14/))
 
-*Yends (13.28)
+*Yends ([13.28](/wiki/13-28/))
 
-*Zombies (14.02, 16.18, 21.16, 29.13, 29.14)
+*Zombies ([14.02](/wiki/14-02/), [16.18](/wiki/16-18/), [21.16](/wiki/21-16/), [29.13](/wiki/29-13/), [29.14](/wiki/29-14/))
 
-*Zombies, booze (15.11)
+*Zombies, booze ([15.11](/wiki/15-11/))
 
-*Zombies, hive (13.09)
+*Zombies, hive ([13.09](/wiki/13-09/))
 
 *Zor, see Golems, flesh
 [[Category:Creatures|Creature entries on this wiki]]

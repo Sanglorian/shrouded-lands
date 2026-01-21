@@ -11,7 +11,7 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-![Gustave Doré](/media/Der_Alte_Matrose_b_38.jpg)Connects to: 03.04 and the City of Shuttered Windows.
+![Gustave Doré](/media/Der_Alte_Matrose_b_38.jpg)Connects to: [03.04](/wiki/03-04/) and the City of Shuttered Windows.
 
 Of all the [[Pirate Kings|Pirate Thunderheads]] that rove the ocean, the most dreaded fortress is surely Skullreach, throne of the giant king Udenyr. Wherever it goes, this floating castle is overshadowed by a localized storm, with black clouds boiling above its black walls. Lightning crackles from the clouds to the rods at the top of the keep, powering what is said to be the electric sorcery of Udenyr's captive wizards.
 

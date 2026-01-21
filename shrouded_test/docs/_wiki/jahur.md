@@ -11,12 +11,12 @@ categories:
   - "Category:Sea of Typhoons"
 media: []
 ---
-![](/media/Jahur1.png)Hex 19.31
+![](/media/Jahur1.png)Hex [19.31](/wiki/19-31/)
 ## Jahur, City of Jewels
 ![Iano](/media/Gs47.jpg)
 
-Connects to: 17.30, 19.30, 19.31.03, 20.32, 21.27,
-21.29, 23.32, 29.14.36, 46.01, 51.29 and the City of
+Connects to: [17.30](/wiki/17-30/), [19.30](/wiki/19-30/), [19.31.03](/wiki/19-31/), [20.32](/wiki/20-32/), [21.27](/wiki/21-27/),
+[21.29](/wiki/21-29/), [23.32](/wiki/23-32/), [29.14.36](/wiki/29-14/), [46.01](/wiki/46-01/), [51.29](/wiki/51-29/) and the City of
 Shuttered Windows.
 
 Every merchant and romantic in the Shrouded
@@ -117,31 +117,31 @@ adventurers or concubines.
 *The [[Dead Fish]]
 
 ## Subhexes:
-19.31.01 (Viceroy Orhan‘s Madness): the city‘s treasurer has not been himself since a botched assassination attempt.
+[19.31.01](/wiki/19-31/) (Viceroy Orhan‘s Madness): the city‘s treasurer has not been himself since a botched assassination attempt.
 
-19.31.04 (The Dead Fish): a rough bar full of fist fights, narcotic kelp, accordion music and even more horrid things.
+[19.31.04](/wiki/19-31/) (The Dead Fish): a rough bar full of fist fights, narcotic kelp, accordion music and even more horrid things.
 
-19.31.05 (The Wives of Viceroy Orhan): they were grown in vats. Orhan was most pleased with the result.
+[19.31.05](/wiki/19-31/) (The Wives of Viceroy Orhan): they were grown in vats. Orhan was most pleased with the result.
 
-19.31.06 (The Inconsolable): one of the strangest boats currently docked in Jahur is a boat of a million human fingernails that hails from the Isle of Thalanyl.
+[19.31.06](/wiki/19-31/) (The Inconsolable): one of the strangest boats currently docked in Jahur is a boat of a million human fingernails that hails from the Isle of Thalanyl.
 
-19.31.08 (Alleys of the Woman in Red): it is difficult to lay traps for one‘s dreams but that doesn‘t mean that people haven‘t tried.
+[19.31.08](/wiki/19-31/) (Alleys of the Woman in Red): it is difficult to lay traps for one‘s dreams but that doesn‘t mean that people haven‘t tried.
 
-19.31.09 (The Last Fiendslayer): after the windows of Shuttered closed this ancient order withered away.
+[19.31.09](/wiki/19-31/) (The Last Fiendslayer): after the windows of Shuttered closed this ancient order withered away.
 ## Connections:
-*There is a ring of ancient obelisks in the city but one is missing and has been uncovered far to the northeast (46.01).
-*Jahur was ruled for twelve years by the octoids (23.32).
-*The rulers of Jahur have access to the feared fire centipedes (17.30).
-*This location is mentioned in a strange journal which discusses why it rains but once a year (29.14.36).
-*Jahur is defended by the Scent Barrier (21.29).
-*Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still (21.27).
-*Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss (19.31). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
-*The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning (19.30).
+*There is a ring of ancient obelisks in the city but one is missing and has been uncovered far to the northeast ([46.01](/wiki/46-01/)).
+*Jahur was ruled for twelve years by the octoids ([23.32](/wiki/23-32/)).
+*The rulers of Jahur have access to the feared fire centipedes ([17.30](/wiki/17-30/)).
+*This location is mentioned in a strange journal which discusses why it rains but once a year ([29.14.36](/wiki/29-14/)).
+*Jahur is defended by the Scent Barrier ([21.29](/wiki/21-29/)).
+*Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still ([21.27](/wiki/21-27/)).
+*Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss ([19.31](/wiki/19-31/)). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
+*The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning ([19.30](/wiki/19-30/)).
 ## Hooks:
 *What now dwells in the city's immaculate ruins?
 *Do any Janissaries live abroad? Why did their leave their posts?
 *What famous jewels are in Jahur?
-*Tell me about Jahur's thriving thieves' guild. Is it connected to Blind Midshotgatepool's organizations (26.20.01)?
+*Tell me about Jahur's thriving thieves' guild. Is it connected to Blind Midshotgatepool's organizations ([26.20.01](/wiki/26-20/))?
 *Is Iano for real? Is he part of the moon's scheming, or something else?
 *What dives do adventurers haunt?
 
@@ -168,8 +168,8 @@ A [[Viceroys|Viceroy]] will sometimes drag the vampire up to the wall’s upper 
 *What crime did the vampire commit? Is anyone tempted to cut him down?
 
 ## Alleys of the Woman in Red
-![](/media/Jahur9.png)Connects to: 08.27.01, 19.31.07, 19.31.10 and
-26.33.
+![](/media/Jahur9.png)Connects to: [08.27.01](/wiki/08-27/), [19.31.07](/wiki/19-31/), [19.31.10](/wiki/19-31/) and
+[26.33](/wiki/26-33/).
 
 Viceroy Duygu was vexed by a recurring dream
 about a beautiful, long-haired woman in a red
@@ -178,7 +178,7 @@ flee down lanes and alleyways. Duygu always
 awoke, exasperated, before catching up to her.
 Despite having two wives and a harem of
 concubines, the viceroy felt he should have his
-way in his dreams. Isane the Beauty (19.31.07)
+way in his dreams. Isane the Beauty ([19.31.07](/wiki/19-31/))
 recommended that he present himself as a
 commoner and try to win the heart of a lowborn
 woman. So in his idle time, Duygu donned a
@@ -195,7 +195,7 @@ To this day, he is frustrated that his quarry eluded
 him.
 
 Thieves and the heretical cult known as the Holy
-Fools (briefly mentioned in 26.33) take
+Fools (briefly mentioned in [26.33](/wiki/26-33/)) take
 advantage of the alleys' dead ends and
 irrational turns. Cutpurses and cutthroats often
 elude watchmen by fleeing into the labyrinth.
@@ -203,9 +203,9 @@ The Holy Fools use isolated courtyards as open-air
 meeting places.
 
 ### Connections
-*These alleys are rife with bucket kelp (26.33) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
-*Hypno (08.27.01) tries to prevent mortals from having recurring dreams.
-*Lunfar sells illicit maps within the alleyways (19.31.10).
+*These alleys are rife with bucket kelp ([26.33](/wiki/26-33/)) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
+*Hypno ([08.27.01](/wiki/08-27/)) tries to prevent mortals from having recurring dreams.
+*Lunfar sells illicit maps within the alleyways ([19.31.10](/wiki/19-31/)).
 ### Hooks:
 *Were Duygu's dreams sent to him by someone with an agenda?
 *How much influence does Isane the Beauty have over the Viceroys who seek her counsel?

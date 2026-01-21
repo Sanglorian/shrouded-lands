@@ -16,7 +16,7 @@ After the most recent such raid the [[Abbot of the Sainted Foot|Abbot]]'s favori
 
 Strangely enough, shortly after the departure of the Abbot the orcs began to give the monastery a wide birth. None of the brothers know why, all that has happened since then is that a new novice has joined them, a quiet man who now works in the kitchen gardens...
 ### Subhex:
-*20.04.01 (The Goliards of the Sainted Foot): the whole bit about the mummified foot beer started as a life-saving joke.
+*[20.04.01](/wiki/20-04/) (The Goliards of the Sainted Foot): the whole bit about the mummified foot beer started as a life-saving joke.
 ### Connection:
 *While staying with the Hermit of the Crag ([[09.01]]), the hermit’s cow ate the Abbot’s lion.
 ### Hooks:
@@ -25,9 +25,9 @@ Strangely enough, shortly after the departure of the Abbot the orcs began to giv
 *Why is the beer tangy?
 *What's happening to the Abbot over at Fernsbank?
 ## The Goliards of the Sainted Foot
-![](/media/200401.png)Hex 20.04.01
+![](/media/200401.png)Hex [20.04.01](/wiki/20-04/)
 
-Connects to: 29.14.17 and 33.12.
+Connects to: [29.14.17](/wiki/29-14/) and [33.12](/wiki/33-12/).
 
 The Keepers of the Sainted Foot are an offshoot of the Church of [[Alberon]], who were driven from the Shuttered City many years ago during the [[Time of Schisms]]. The foot that they hold sacred is that of the [[Archpoet]], a composer of high liturgical poetry who led the monks as they fled north on the brink of starvation. While lost somewhere near the edge of the [[Kingswood]], the Archpoet was told by his brothers that they had no more food and many were too footsore to continue walking. He replied: "Well, we shall have to dine on our feet, since they are of so little use to us." His laughter quickly spread through the whole company, and miraculously they subsisted on humor alone until they found sanctuary in the [[Freeholds]].
 

@@ -29,7 +29,7 @@ Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?a
 
 *The woman who ended the [[Seelie-Unseelie wars]] was a hawthorn dryad
 
-*A forest dell in Gore ([[051.14]]) is home to the largest grove of [http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 dryads] on this side of the Keening Sea. Rather than growing here naturally, all of the trees of the dryads were transplanted here fifteen years ago when [http://shrouded-lands.wikia.com/wiki/Naros Naros] fell to the curse of the arch-lich [http://shrouded-lands.wikia.com/wiki/Supendar?action=edit&redlink=1 Supendar] (29.14.12).
+*A forest dell in Gore ([[051.14]]) is home to the largest grove of [http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 dryads] on this side of the Keening Sea. Rather than growing here naturally, all of the trees of the dryads were transplanted here fifteen years ago when [http://shrouded-lands.wikia.com/wiki/Naros Naros] fell to the curse of the arch-lich [http://shrouded-lands.wikia.com/wiki/Supendar?action=edit&redlink=1 Supendar] ([29.14.12](/wiki/29-14/)).
 
 *The near-death of her tree makes a dryad in the Kingswood ravenous ([[32.05]])
 

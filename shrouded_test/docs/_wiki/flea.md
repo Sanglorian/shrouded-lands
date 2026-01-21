@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Flea of the Daggerfeet
-Connects to: 17.07, 20.03, 23.11, 23.11.02, 43.22 and Blind Midshotgatepool.
+Connects to: [17.07](/wiki/17-07/), [20.03](/wiki/20-03/), [23.11](/wiki/23-11/), [23.11.02](/wiki/23-11/), [43.22](/wiki/43-22/) and Blind Midshotgatepool.
 
 When **Felix Koldranson** turned fifteen, [[Koldran|his father]] sent him into the world with a ring that granted the ability to jump incredible distances. Like dozens before him ([[20.03]]), he joined an adventuring party with three older siblings: Jota, Zigmund and Hansa. During an expedition into to the Burning Land, he watched a [[daggerfeet]] pack maul a [[hippopotamuses|hippo]] ([[43.22]]). He asked Hrunwun, their gnoll guide, why the gnolls were not taming and using the creatures against their enemies. Hrunwun did not know the secret of Felix's ring, so he had no qualms telling him that daggerfeet only respect those who can jump higher than they do. On returning from the expedition, he took a detour back to the daggerfeets' breeding ground and began training a small pack.
 

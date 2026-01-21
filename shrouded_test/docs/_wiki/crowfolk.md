@@ -13,8 +13,8 @@ media: []
 ---
 ![](/media/Caim_in_bird_form.jpg)
 ## The Crowfolk of Blind Midshotgatepool
-Connects to: 02.11.02, 04.00, 08.01, 29.13.31 and
-44.17.
+Connects to: [02.11.02](/wiki/02-11/), [04.00](/wiki/04-00/), [08.01](/wiki/08-01/), [29.13.31](/wiki/29-13/) and
+[44.17](/wiki/44-17/).
 
 The crowfolk—or kenku—of the August City of [[Blind Midshotgatepool]] are short, about the size of an adolescent. They stand on two legs, with winged arms that end in two long, clawed hands. They travel in thick, dark robes that obscure most of their features, but unbeknown to the crowfolk their beaks jut out from under the hood to reveal their identity.
 

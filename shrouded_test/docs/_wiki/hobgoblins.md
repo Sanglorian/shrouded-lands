@@ -11,7 +11,7 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-Hobgoblins or ‘’’hobs’’’ lack whatever it is that binds goblins to oak trees (11.01) and their affinity for magic along with it, and tend be to lanky and misshapen when compared to their cousins, but are fearsomely strong. 
+Hobgoblins or ‘’’hobs’’’ lack whatever it is that binds goblins to oak trees ([11.01](/wiki/11-01/)) and their affinity for magic along with it, and tend be to lanky and misshapen when compared to their cousins, but are fearsomely strong. 
 ## Connections
 *Jackalweres in the ruins beneath [[Hyfalls]] eat hobgoblin flesh and are mutated by it in unusual ways.
 *Thad Breen ([[15.04]])  wrongfully blames the hobgoblins of [[16.04]] for the death of a farmhand.

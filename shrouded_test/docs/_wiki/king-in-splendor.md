@@ -9,8 +9,8 @@ categories:
   - "Category:The King in Splendour"
 media: []
 ---
-![Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)](/media/Aquaria_-_Energy_Temple_Concept.jpg)Connects to: 00.09, 06.03, 17.07, 17.07.01, 29.03,
-29.13, 29.14.07, 29.14.47, 46.10 and 50.30.
+![Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)](/media/Aquaria_-_Energy_Temple_Concept.jpg)Connects to: [00.09](/wiki/00-09/), [06.03](/wiki/06-03/), [17.07](/wiki/17-07/), [17.07.01](/wiki/17-07/), [29.03](/wiki/29-03/),
+[29.13](/wiki/29-13/), [29.14.07](/wiki/29-14/), [29.14.47](/wiki/29-14/), [46.10](/wiki/46-10/) and [50.30](/wiki/50-30/).
 
 The **King in Splendor**, the Sword that Slays the Night, also worshipped as the **Lion in Splendour**, is a sun god. He is usually portrayed as a muscular man with an eyeless lion head, a whip grasped in one hand and a manacle chained to
 the other. However, in his most ancient temples he is sometimes portrayed as a snake with a lion‘s head and gems in the place of eyes. He promises his faithful a day that never ends, when all things that creep in darkness will be rooted out and when the fields will never be fallow.

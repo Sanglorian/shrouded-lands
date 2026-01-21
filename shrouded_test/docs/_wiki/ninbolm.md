@@ -11,14 +11,14 @@ categories:
 media: []
 ---
 ![](/media/0524.png) 
-05.24
+[05.24](/wiki/05-24/)
 
 **Region:** [[The Lands of Gore]]
 ## Ninbolm
-Hex 05.24
+Hex [05.24](/wiki/05-24/)
 ![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs35.jpg)
 
-Connects to: 3.26, 11.01 and 29.07.
+Connects to: 3.26, [11.01](/wiki/11-01/) and [29.07](/wiki/29-07/).
 
 This gnome city is carved into the petrified stump of a colossal tree. Most visitors only have the privilege of seeing the tunnels and windows that dot the small upper city. Most of Ninbolm's secrets, including the Hierophant's Heart and the Indigo Academy, lie within the enormous maze that is its root system.
 

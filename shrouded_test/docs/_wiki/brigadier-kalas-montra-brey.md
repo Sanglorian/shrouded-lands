@@ -11,9 +11,9 @@ categories:
 media: []
 ---
 ## The Elfcatcher
-![](/media/301201.png)Hex 30.12.01
+![](/media/301201.png)Hex [30.12.01](/wiki/30-12/)
 
-Connects to: 18.02, 22.04, 29.10, 29.14.11, 30.15 the Lands of the Night Cattle and the City of Shuttered Windows.
+Connects to: [18.02](/wiki/18-02/), [22.04](/wiki/22-04/), [29.10](/wiki/29-10/), [29.14.11](/wiki/29-14/), [30.15](/wiki/30-15/) the Lands of the Night Cattle and the City of Shuttered Windows.
 
 One of [[Count Seutorian]]’s current guests (in [[30.12]]) is the orc Brigadier Kalas Montra-brey, who Seutorian provides with assistance in his hunts in return for a promise of an elf slave of his very own, if Kalas can find one that meets his specifications.
 

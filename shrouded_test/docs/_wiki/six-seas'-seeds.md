@@ -9,9 +9,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-seeds.png)Hex 29.14.38
+![](/media/Shutt-seeds.png)Hex [29.14.38](/wiki/29-14/)
 
-Connects to: 19.31, 23.11.02, 23.32, 29.14.08, 29.14.14 and 48.18.01.
+Connects to: [19.31](/wiki/19-31/), [23.11.02](/wiki/23-11/), [23.32](/wiki/23-32/), [29.14.08](/wiki/29-14/), [29.14.14](/wiki/29-14/) and [48.18.01](/wiki/48-18/).
 
 Pearls are not currently in fashion in the [[City of Shuttered Windows]] so they can be hard to find, especially pearls worth precisely 100 gp. However Six Seas' Seeds, a small shop tucked away in a back alley of the [[Gnomish Quarter]] specializes in them. The proprietor is a seemly-senile human female named [[Olga Gruel]] who chats in a friendly, if eccentric, manner with her customers, especially those with the hairy bloodstained look that often goes with those looking for the material component of *identify* spells. Unless treated rudely she offers freebies with any purchase of at least 100 gp. You can roll a d12 to see what she is likely to offer:
 #Her granddaughter's hand in marriage.

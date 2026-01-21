@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Temple of the Labyrinth
-![](/media/Shutt-temp_lab.png)Connects to: 25.14, 29.01, 29.14.01, 29.14.13, 29.14.16, 29.14.29, 29.14.36, 29.14.38, 29.14.48, 29.14.50, 29.14.52 and 31.04.
+![](/media/Shutt-temp_lab.png)Connects to: [25.14](/wiki/25-14/), [29.01](/wiki/29-01/), [29.14.01](/wiki/29-14/), [29.14.13](/wiki/29-14/), [29.14.16](/wiki/29-14/), [29.14.29](/wiki/29-14/), [29.14.36](/wiki/29-14/), [29.14.38](/wiki/29-14/), [29.14.48](/wiki/29-14/), [29.14.50](/wiki/29-14/), [29.14.52](/wiki/29-14/) and [31.04](/wiki/31-04/).
 
 In the seediest corner of the [[Gnomish Quarter]] of the [[Shuttered City]], far from the shops of the reputable apothecaries and tinkerers and illusionists, beyond the cozy taverns and smoke shops, and past even the stalls and tents of the most disreputable [[naga-oil]] salesmen and pawn shop owners, lie the slums, which have sunk to the point of being half-underground and will be claimed entirely by the [[Undercity]] in a man's age or two. Once, when an ancient [[Doge]] allowed the construction of the Gnomish Quarter over the heated objections of an ancient [[Matriarch]], these were the row houses build by the first, wealthiest influx of gnomish artisans and traders, and now their low ceilings and narrow halls mean that their occupants are limited to destitute [[gnomes]] and [[halflings]]. [[Kobolds]] and [[goblins]] who attempt to defy their *geases* ([[29.14]].01) and remain in the City indefinitely often find their way into these warrens. Occasionally their wasted corpses are found among the trash strewn about the alleys, but rumors persist that there is some way to break the *geas*, and it can be found in this slum.
 
@@ -28,8 +28,8 @@ Supplicants may sit in the pews and wait for her to address them, and those she 
 ### Connections:
 *A strange and terrible monster stalks the streets of the Gnomish Quarter: the [[geas-eater|Geas Eater]].
 *The High Priestesses of this temple are drawn from a line of gnomes who live in Mazy Hollow ([[25.14]]).
-*One of the stores in this quarter is the best place in the City to buy pearls (29.14.38).
-*Deep in the Gnomish Quarter there is an illegal academy where [[High Tongue]] (29.14.52) verb declensions are spoken of in whispers lest unkind ears hear them.
+*One of the stores in this quarter is the best place in the City to buy pearls ([29.14.38](/wiki/29-14/)).
+*Deep in the Gnomish Quarter there is an illegal academy where [[High Tongue]] ([29.14.52](/wiki/29-14/)) verb declensions are spoken of in whispers lest unkind ears hear them.
 ### Hooks:
 *What did the last Doge want to know? How about Zeem and Drogo?
 *Why was the Church willing to tolerate the presence of the Temple?

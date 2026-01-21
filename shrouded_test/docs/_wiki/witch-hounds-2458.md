@@ -11,7 +11,7 @@ media: []
 ---
 They spawn in The Fen of the Witch-Hounds ([[22.16]])![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">They skulk around **Mazy Hollow **(25.14)</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">They skulk around **Mazy Hollow **([25.14](/wiki/25-14/))</p>
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">They were created by **[[The Witch Queen]]**</p>
 
@@ -21,9 +21,9 @@ They spawn in The Fen of the Witch-Hounds ([[22.16]])![https://commons.wikimedia
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">The witch-hounds are shaped like great wolves, and their bodies consist of reeking globs of mud and straw. They are swift in any terrain, and can cover leagues in a single night. Knights who face them and survive are unnerved by the pitch black sockets where their eyes should be. Every night, the pack rises from the fen to do the Witch Queen's bidding. They have ended the quests of many knights hoping to slay their mistress.</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">Witch-hounds can be defeated, but not truly slain by mundane means. They crumble to pieces when damaged, but they rise again the next night as strong as before. The Foolish Sages *(20.18)*, however, have discovered one weakness at the cost of Laughing Milo's horrible demise. The pack was created at midnight during a lunar eclipse, meaning the hounds will be utterly destroyed if exposed to sunlight. No one is sure how to do this, as pack rises from and returns to the earth unerringly according to sunset and sunset.</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">Witch-hounds can be defeated, but not truly slain by mundane means. They crumble to pieces when damaged, but they rise again the next night as strong as before. The Foolish Sages *([20.18](/wiki/20-18/))*, however, have discovered one weakness at the cost of Laughing Milo's horrible demise. The pack was created at midnight during a lunar eclipse, meaning the hounds will be utterly destroyed if exposed to sunlight. No one is sure how to do this, as pack rises from and returns to the earth unerringly according to sunset and sunset.</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">Lately, witch-hounds have been seen skulking around Mazy Hollow (25.14). The Witch Queen cursed Gertja Traitor's-Daughter's last scion, Jota, to bear only sons so the sacred family that maintains peace between Alberon and Chimalia would be broken. The curse has been unexpectedly broken, and the Witch Queen plans to strike Mazy Hollow and end the line of succession forever.</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">Lately, witch-hounds have been seen skulking around Mazy Hollow ([25.14](/wiki/25-14/)). The Witch Queen cursed Gertja Traitor's-Daughter's last scion, Jota, to bear only sons so the sacred family that maintains peace between Alberon and Chimalia would be broken. The curse has been unexpectedly broken, and the Witch Queen plans to strike Mazy Hollow and end the line of succession forever.</p>
 #### Hooks
 *<p lang="en-US" style="margin-bottom:0.14in">Why does the Witch Queen want war been Alberon and Chimalia?</p>
 *<p lang="en-US" style="margin-bottom:0.14in">How did Laughing Milo discover the hounds' secret? How did he die?</p>

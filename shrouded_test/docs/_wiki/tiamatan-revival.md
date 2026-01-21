@@ -9,7 +9,7 @@ categories:
   - "Category:Religious groups"
 media: []
 ---
-![](/media/Shutt-tia.png)Connects to: 03.13, 29.14.32 and 40.20.02.
+![](/media/Shutt-tia.png)Connects to: [03.13](/wiki/03-13/), [29.14.32](/wiki/29-14/) and [40.20.02](/wiki/40-20/).
 
 There is a reaction against the Cult of Dead Tiamat ([[03.13]]) among the worshippers of [[Tiamat]]. These Tiamatan Revivalists reject the desperate and often destructive attempts by the Cult to resurrect Tiamat and hold that—now she is dead—the only way to truly honour Tiamat is to live as she taught her followers to live.
 

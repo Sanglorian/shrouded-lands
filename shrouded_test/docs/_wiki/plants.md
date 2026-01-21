@@ -8,8 +8,6 @@ categories:
   - "Category:Plants"
 media: []
 ---
-
-
 [[:Category:Plants]]
 <p style="margin-bottom:0in">[[Barrier Range berries]]</p>
 
@@ -21,13 +19,13 @@ media: []
 
 <p style="margin-bottom:0in">[[Hobgoblin shrooms]]</p>
 
-<p style="margin-bottom:0in">[[Razorgrass]] (34.25)</p>
+<p style="margin-bottom:0in">[[Razorgrass]] ([34.25](/wiki/34-25/))</p>
 
-<p style="margin-bottom:0in">Cat Tree (34.05)</p>
+<p style="margin-bottom:0in">Cat Tree ([34.05](/wiki/34-05/))</p>
 
 <p style="margin-bottom:0in">[[Sea wigs]] (possibly)</p>
 
-<p style="margin-bottom:0in">[[Sowing Path plants]] (19.05)</p>
+<p style="margin-bottom:0in">[[Sowing Path plants]] ([19.05](/wiki/19-05/))</p>
 
 <p style="margin-bottom:0in">[[Sandalwood]] trees ([[24.23]])</p>
 

@@ -13,7 +13,7 @@ categories:
 media: []
 ---
 ## The Howling College
-![](/media/512902.jpg)Connects to: 15.28, 32.32 and 50.26.
+![](/media/512902.jpg)Connects to: [15.28](/wiki/15-28/), [32.32](/wiki/32-32/) and [50.26](/wiki/50-26/).
 
 One thing that may surprise travellers to the [[City of Smoke]] is that despite their savage appearance and violent tendencies, the [[gnolls]] are in fact possessed of a rich culture of oral literature and song. One of the oldest buildings in the City of Smoke is the kharghaha (an untranslatable word that essentially means 'Building for the Teaching of Musical Stories in the City of Smoke'). To outsiders it is known as the Howling College. The building was abandoned and left in disrepair for many years, but has recently been refurbished by order of the [[Great Mother]].
 
@@ -25,7 +25,7 @@ This is done with the aid of a pointing bone, a length of sharpened bone cut fro
 ### Connections:
 *The farthest campus of the Howling College is located at the Fire Fang ([[32.32]]).
 *The [[western gnolls]] of Abbalah-doon have their own musical traditions ([[15.28]]).
-*The gnolls of the Howling College collect whistling reeds to be heard by [[lizardmen]] (50.26).
+*The gnolls of the Howling College collect whistling reeds to be heard by [[lizardmen]] ([50.26](/wiki/50-26/)).
 * Viceroy Orhan used a gnoll of the college to sing souls into his vat-born wives.
 ### Hooks:
 *Why was the kharghaha abandoned in the first place?

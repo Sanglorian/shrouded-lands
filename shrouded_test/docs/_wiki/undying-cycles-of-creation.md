@@ -12,9 +12,9 @@ categories:
 media: []
 ---
 ## The Undying Cycles of Creation
-![](/media/Jahur4.png)Connects to: 02.03, 05.18, 19.31, 25.31, 29.07.03, 37.01 and the City of Shuttered Windows.
+![](/media/Jahur4.png)Connects to: [02.03](/wiki/02-03/), [05.18](/wiki/05-18/), [19.31](/wiki/19-31/), [25.31](/wiki/25-31/), [29.07.03](/wiki/29-07/), [37.01](/wiki/37-01/) and the City of Shuttered Windows.
 
-Long ago the gilded fleet of the [[Imperium Undying]] set out from the utter west to colonize these Shrouded Lands. Little remains of it now but rumors of [[the Prince of Men]] (29.07.03) sleeping beneath the waters of Mirror Lake ([[37.01]]) and the pact that the [[elves]] of the [[Kingswood]] entered into with the Prince that they honor yet though all men have forgotten its terms.
+Long ago the gilded fleet of the [[Imperium Undying]] set out from the utter west to colonize these Shrouded Lands. Little remains of it now but rumors of [[the Prince of Men]] ([29.07.03](/wiki/29-07/)) sleeping beneath the waters of Mirror Lake ([[37.01]]) and the pact that the [[elves]] of the [[Kingswood]] entered into with the Prince that they honor yet though all men have forgotten its terms.
 
 However the calendar that is still used by diviners and astrologers across these lands has been handed down since the days of the Prince of Men and the [[Jahur]]i two-faced god [[Iano]] seems to be a revival of the ancient gods knows as the Fools that were worshiped by the ancients. And the lesser gods are still paid homage to in every gambling pit in Shuttered where the grim face of the Father still glares at gamers as the King of Winter along with all of the rest of the twelve Dreamers. And even the greatest fool can see the shapes of the old gods when they look up into the sky.
 
@@ -30,7 +30,7 @@ However the calendar that is still used by diviners and astrologers across these
 
 **The Lover:** The essence of beauty and desire, a seductress and a confidante. Her colors pink and red. Doves are sacred to her, and a dove's egg properly sacrificed to her is said to bring fertility and bliss. On her Day the Maiden finally succumbs to the Bard's charms. Her time is any post-coital, but only when the act was done in bliss, and was the very first time the lovers had thus embraced.
 
-**The Hero:** The champion, strong and daring. He is associated with Mount Scorshia (02.03) and the colors blue and gold. He holds sway ever battle and on his Day, a day of silence, he strikes down the Bard in a jealous rage.
+**The Hero:** The champion, strong and daring. He is associated with Mount Scorshia ([02.03](/wiki/02-03/)) and the colors blue and gold. He holds sway ever battle and on his Day, a day of silence, he strikes down the Bard in a jealous rage.
 
 **The Hunter:** The searcher, finder, and slayer. He is associated with all forests and stars, but particularly those with no names, and also with the colors green and brown. On his Day he fells a stag of such size that the Pilgrim can fill his pack with jerky and set out on his journey. His time is the dawn of any day that is sacred to none.
 

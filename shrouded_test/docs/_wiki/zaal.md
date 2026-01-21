@@ -10,15 +10,15 @@ categories:
   - "Category:The Singing Wastes"
 media: []
 ---
-![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex 08.27.
+![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
 
 **Region:** [[The Singing Wastes]]
 ## Zaal, the Sleeping City
-![](/media/Sing2.jpg)Connects to: 03.31.01, 29.07 and 29.14.36.
+![](/media/Sing2.jpg)Connects to: [03.31.01](/wiki/03-31/), [29.07](/wiki/29-07/) and [29.14.36](/wiki/29-14/).
 
 When the elven courts sundered ([[29.07]]) some few of the [[unseelie elves|unseelie court]] remained behind ([[28.07]] and [[31.04]]) and some few of the [[seelie elves|seelie court]] went into exile. The [[Bloodied King]] watched them leave with a stony face and they walked away south under the night stars with the elves of the unseelie court.
 
-But during the long miles of their exile these renegade elves fell to quarrelling with the [[Queen Sinister]] (29.14.36) and the unseelie elves abandoned them as they lay sleeping in this stretch of desert.
+But during the long miles of their exile these renegade elves fell to quarrelling with the [[Queen Sinister]] ([29.14.36](/wiki/29-14/)) and the unseelie elves abandoned them as they lay sleeping in this stretch of desert.
 
 Now, at that very spot rise strangely pale basalt pillars that form the city walls of Zaal, the sleeping city of the [[white elves]]. Within this small city rise tall terraces, bright and beautiful with green verdure unseen elsewhere in the Singing Wastes and that tree-studded avenues wind between gleaming white roofs and strange temples. It is said that here lie all dreams of beauty that men forget when they awake.
 
@@ -26,7 +26,7 @@ However, those that approach the basalt pillars of Zaal are more likely to see [
 
 But any men with pleasing faces who are able to reach the city’s walls are welcomed warmly and a rope of elven hair is thrown down to them. No one, not even the ghouls, has seen anyone leave the white-walled city.
 ### Subhex:
-08.27.01 (Hypno, Lord of Sleep): he slumbers beneath the city.
+[08.27.01](/wiki/08-27/) (Hypno, Lord of Sleep): he slumbers beneath the city.
 ### Connection:
 *The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([[03.31]].01).
 ### Hooks:
@@ -36,9 +36,9 @@ But any men with pleasing faces who are able to reach the city’s walls are wel
 *Whose hair is it?
 *Why do the white elves welcome (handsome male) travellers? Why have none (seemingly) ever left? Do the elves ever leave their city? The ghouls never see them go out…
 ## Hypno, Lord of Sleep
-![](/media/Sing3.jpg)Hex 08.27.01
+![](/media/Sing3.jpg)Hex [08.27.01](/wiki/08-27/)
 
-Connects to: 19.31.08.
+Connects to: [19.31.08](/wiki/19-31/).
 
 A crystal plaza lies in the center of Zaal. Hypno, the Lord of Sleep, slumbers beneath its translucent tiles. He is a shepherd of all mortals' dreams. Though he appears to be sleeping peacefully, Hypno is exerting incredible psychic energy keeping "dangerous" dreams from affecting the lives of mortals. He appears to be an exceptionally tall and hardy elf dressed in royal finery. His crown's silver tendrils trail from behind his head, winding downward out of sight.
 
@@ -47,7 +47,7 @@ Hypno uses his powers to steal dreams that could inflict mental harm or inspire 
 The Lord of Sleep is not perfect, however. Many subversive or terrible dreams slip through his mental net. Some of these dreams impact mortals profoundly. Elves often blame mankind's weaknesses, follies and hubris on such renegade dreams.
 
 ### Connects to:
-*Viceroy Duygu’s recent behavior is a good example of the sort of thing Hypno is trying to prevent (19.31.08).
+*Viceroy Duygu’s recent behavior is a good example of the sort of thing Hypno is trying to prevent ([19.31.08](/wiki/19-31/)).
 ### Hooks:
 *Is Hypno the only shepherd of dreams?
 *What kind of dreams do elves fear mortals will have? Can dreams grant sleepers any powers or earth-shattering ideas?

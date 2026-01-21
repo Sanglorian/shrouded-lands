@@ -24,7 +24,7 @@ Even the [[embassies (Shuttered)|embassies]] remain and are staffed, despite the
 *During the siege the [[gnome ghosts|gnomes of the City]] turned traitor.
 ### Hooks:
 *Can the Windows ever be reopened? Is the priesthood trying?
-*Why isn't Chimalia ravaging the orcs for subjugating her minotaurs (18.02)? Is she incapable, or is there another reason?
+*Why isn't Chimalia ravaging the orcs for subjugating her minotaurs ([18.02](/wiki/18-02/))? Is she incapable, or is there another reason?
 *Where are Tiamat's other four heads?
 [[Category:Alberon]]
 [[Category:Chimalia]]

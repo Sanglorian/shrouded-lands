@@ -15,7 +15,7 @@ A dwarf of singular appearance named [[Droesh]] has recently arrived at [[Newhil
 
 The finger bone that Droesh keeps around his-her neck is all that remains of his oath-bound lover who died some months past. Since then, the distraught dwarf has been seeking any excuse he-she can find to challenge strangers to duels in an attempt to gather enough money to pay for the resurrection of his-her lover.
 
-Droesh has already killed one of [[Abdul]]'s best customers ([[05.04]]) and shaken down several burghers of [[Blind Midshotgatepool]] ([[26.20]]) for money in return for cancelling scheduled duels before being run out of town by the thieves guild (26.20.01). What Droesh usually does is allow his-her opponent to choose the duel's weapons if he-she is allowed the choose the place of the duel and then Droesh chooses locations such as on tightropes, on top of trees or on rooftops. A few of Droesh's opponents have fallen to their deaths before the sure-footed dwarf could lay hands on them.
+Droesh has already killed one of [[Abdul]]'s best customers ([[05.04]]) and shaken down several burghers of [[Blind Midshotgatepool]] ([[26.20]]) for money in return for cancelling scheduled duels before being run out of town by the thieves guild ([26.20.01](/wiki/26-20/)). What Droesh usually does is allow his-her opponent to choose the duel's weapons if he-she is allowed the choose the place of the duel and then Droesh chooses locations such as on tightropes, on top of trees or on rooftops. A few of Droesh's opponents have fallen to their deaths before the sure-footed dwarf could lay hands on them.
 
 ### Hooks:
 *-What gender is Droesh and his-her lover? Does it matter?

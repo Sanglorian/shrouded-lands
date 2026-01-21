@@ -11,7 +11,7 @@ categories:
   - "Category:Undercity"
 media: []
 ---
-![](/media/Shutt-dead.png)Connects to: 29.14.07.
+![](/media/Shutt-dead.png)Connects to: [29.14.07](/wiki/29-14/).
 
 Deep in the [[Undercity]] squirm the dead men's tongues, strange creatures that look much like enormous half-rotten human tongues. Those that they lick are overcome with the desire to kiss the nearest human or human-like being. If they are able to do so, silk-like filaments begins sprouting out of the afflicted's tongue, worm their way down the throat of the one they are kissing and eventually erupt out of the skin and envelop the pair in a cocoon. Several days later a new dead man's tongue will hatch from this cocoon.
 

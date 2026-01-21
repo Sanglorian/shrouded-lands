@@ -11,9 +11,9 @@ categories:
 media: []
 ---
 ## Lunfar's Shop
-Hex 19.31.10
+Hex [19.31.10](/wiki/19-31/)
 
-Connects to: 19.31.08, 29.14.49 and 40.20.
+Connects to: [19.31.08](/wiki/19-31/), [29.14.49](/wiki/29-14/) and [40.20](/wiki/40-20/).
 
 Somewhere in the accordion-haunted [[Alleys of the Woman in Red]] (in [[Jahur]]), a gnome named Lunfar runs a grocery. Even by gnomish standards, he looks unusual. He shaves his black beard so it is divided in three parts, and his eyes bulge from their sockets when he becomes excited. Some in Jahur know that he trades illicit maps during his after-hours. Lunfar is one of the [[Holy Fools]]' Barking Dogs, meaning that he is tasked with spreading hidden information.
 

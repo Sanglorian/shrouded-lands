@@ -15,7 +15,7 @@ categories:
 media: []
 ---
 ## The Ghoul in the Gilded Cage
-![](/media/Jahur3.jpg)Connects to: 13.30, 15.28, and 32.32.
+![](/media/Jahur3.jpg)Connects to: [13.30](/wiki/13-30/), [15.28](/wiki/15-28/), and [32.32](/wiki/32-32/).
 
 In the very heart of [[Jahur]], the City of Jewels, lies of the Sublime Divan where the Viceroys of the City sit in council upon jeweled cushions that float upon a deep pool of amber ichor. Strange astringent mists rise from the pool, which are said to aid the Viceroys in their contemplations (or ensure that annoyingly-emotional Viceroys lose their balance and fall into the poisonous ooze or provide an excuse to keep the too-heavy-to-float [[Janissaries]] excluded from government, depending on who you believe).
 

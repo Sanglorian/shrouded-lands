@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-C![](/media/Shutt-dev.png)onnects to: 29.14.50.
+C![](/media/Shutt-dev.png)onnects to: [29.14.50](/wiki/29-14/).
 
 The Legend of the Devil's Bible, which is well known to occult scholars in the [[Shuttered City]], is generally agreed to proceed thusly: a certain acolyte of the [[Temple Indivisible]], having broken a sacred vow, had been condemned to live as a hermit in a bricked-up cell in the depths of the [[Steeple of Alberon]], with only a small slot to pass food and water to him. The terms of his imprisonment were thus: that he would create an illuminated bible of the Temple Indivisible's theology. The acolyte despaired, for such a task took decades and even then was accomplished via teams of scribes. Surely, he would spend his entire life creating the book. In the depths of his despair he called out to whatever powers would help him, and to his great surprise he was answered. The [[Devil]] appeared before him, and made him an offer: he would provide the acolyte with the power to scribe and illuminate the book in but 30 days, if only the acolyte would agree to include the Devil's portrait in the bible. Unwisely, the acolyte accepted.
 
@@ -20,7 +20,7 @@ The Devil's Bible was found to be beautifully illuminated and possessing of unma
 
 Unable to destroy the Bible due to its holy words, but unwilling to use such a foully conceived book in any sacrament, the [[Matriarch]] had the tome banished to the Sealed Library, where it remains to this day.
 ### Connections
-*The Devil's Bible shares shelf-space with other strange tomes in the Sealed Library, along with the un-redacted version of the [[Scroll of Seven Shadows]] (29.14.24), the [[Book of Not Being Boiled By Fire]] (29.14.29), and other heretical, dangerous, or secret texts and documents.
+*The Devil's Bible shares shelf-space with other strange tomes in the Sealed Library, along with the un-redacted version of the [[Scroll of Seven Shadows]] ([29.14.24](/wiki/29-14/)), the [[Book of Not Being Boiled By Fire]] ([29.14.29](/wiki/29-14/)), and other heretical, dangerous, or secret texts and documents.
 ### Hooks:
 *Who was the unfortunate acolyte, what were his sins, and where was he buried?
 *Who or what is the Devil, and why did he want his portrait in the Bible?

@@ -28,20 +28,20 @@ In the distant past, trade and diplomatic missions have been attempted, but the 
 *[[Skullreach]] is the most dreaded Thunderhead.
 
 ### Subhexes:
-*00.02.01 (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
-*00.02.02 (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
-*00.02.03 (The Traveller’s Journal): tells of a journey through this hex.
+*[00.02.01](/wiki/00-02/) (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
+*[00.02.02](/wiki/00-02/) (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
+*[00.02.03](/wiki/00-02/) (The Traveller’s Journal): tells of a journey through this hex.
 ### Connections:
-*A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants (01.04).
-*One of the Pirate Kings attempted to raid the nests of the Kagu (04.00) and instead lost his castle.
-*The stone giants claim that the pirate kings once looted tw![Sergey Malyutin](/media/Sea_tsar_by_Sergey_Malyutin.jpg)o great rubies from the Long Table (06.03).
+*A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants ([01.04](/wiki/01-04/)).
+*One of the Pirate Kings attempted to raid the nests of the Kagu ([04.00](/wiki/04-00/)) and instead lost his castle.
+*The stone giants claim that the pirate kings once looted tw![Sergey Malyutin](/media/Sea_tsar_by_Sergey_Malyutin.jpg)o great rubies from the Long Table ([06.03](/wiki/06-03/)).
 
 ## The Traveller’s Journal
-Hex 00.02.03
+Hex [00.02.03](/wiki/00-02/)
 
-Connects to: 25.04.02 and 39.23.01.
+Connects to: [25.04.02](/wiki/25-04/) and [39.23.01](/wiki/39-23/).
 
-I awoke on the beaches of a strange land, with no memory of my life before this moment, a white feather (25.04.02) clutched in my hand and a name on my lips: 'Lisbet' (39.12.01).
+I awoke on the beaches of a strange land, with no memory of my life before this moment, a white feather ([25.04.02](/wiki/25-04/)) clutched in my hand and a name on my lips: 'Lisbet' ([39.12.01](/wiki/39-12/)).
 
 My clothes were sodden, but I couldn't tell if they were wet from the sea or the rain. A storm raged over my head, so I got to my feet and walked inland.
 
@@ -70,13 +70,13 @@ While it is true that the Pirate Kings are madly covetous, their raiding serves 
 
 When a cloud giant is ignited in this way, he or she must craft a wooden ship and sail or row it to the Stormhead ([[01.04]]), a perpetual storm that rages at the edge of the Ocean of Bitter Regrets. As soon as he or she casts the spark into the sea, he or she is struck by a single bolt of lightning that transforms the cloud giant into a storm giant.
 
-The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [[King of Salt and Brine]]—before his infection—swam straight back to the Shrouded Lands (00.06).
+The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [[King of Salt and Brine]]—before his infection—swam straight back to the Shrouded Lands ([00.06](/wiki/00-06/)).
 ### Hooks
 *Is there anything within the Stormhead? What causes it?
 *What causes the perpetual storm?
 *What were the sparks for other storm giants?
 *What are the [[Islands of Bitter Regret]] like?
-*Who makes perfume now that Naros (29.14.12) has fallen?
+*Who makes perfume now that Naros ([29.14.12](/wiki/29-14/)) has fallen?
 [[Category:The Bitter Coast]]
 [[Category:The Ocean of Bitter Regrets]]
 [[Category:Creatures]]

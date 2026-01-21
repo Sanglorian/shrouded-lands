@@ -11,7 +11,7 @@ media: []
 ---
 ![http://commons.wikimedia.org/wiki/File:NC_Wyeth_the_Indian_in_His_Solitude_2.png](/media/NCWyeth19.png)
 ## Down to a Sunless Sea
-Connects to: 00.06.01, 01.10, 02.06, 07.08, 13.09, 18.07.01, 20.03 and 29.14.36.
+Connects to: [00.06.01](/wiki/00-06/), [01.10](/wiki/01-10/), [02.06](/wiki/02-06/), [07.08](/wiki/07-08/), [13.09](/wiki/13-09/), [18.07.01](/wiki/18-07/), [20.03](/wiki/20-03/) and [29.14.36](/wiki/29-14/).
 
 The water of the [[Brindlebrook Swamp]] filters down deep into the earth, filling a series of great dark caverns known as the Sunless Sea. How far they extend and where they end no man can say, but many strange sights can be found within these drowned caves.
 

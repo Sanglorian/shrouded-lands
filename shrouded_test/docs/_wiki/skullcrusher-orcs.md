@@ -20,14 +20,14 @@ Some of these orcs view their orcish ancestry as a curse and bear no children bu
 
 These orcs have no gift for farming and are mediocre hunters, but the Weeper's daughter taught their ancestors something of woodwork and they are skillful carpenters and their furniture, although it has none of the artistry of elven work, is sturdily-made and has a certain simple elegance.
 ### Connections
-*Skullcrusher orcs are currently at work building Farnsfall for its new Baron whose daughter is considering running off with the orcs (11.03).
-*One of the members of this tribe drowned in far-off Thring (16.16.06).
+*Skullcrusher orcs are currently at work building Farnsfall for its new Baron whose daughter is considering running off with the orcs ([11.03](/wiki/11-03/)).
+*One of the members of this tribe drowned in far-off Thring ([16.16.06](/wiki/16-16/)).
 ### Hooks
 *If the Skullcrusher Orcs are pacifists (at least by orcish standards) why are they called "Skullcrusher?”
 *Is the old clan chief still alive? What is Goram planning next?
 *Have any of the orcs adopted any interesting non-orc orphans?
 *Who would pay the Skullcrusher orcs for their carpentry?
-*What happened to the Weeper's daughter anyway? Who was she? See 46.10 for a story that might be about her.
+*What happened to the Weeper's daughter anyway? Who was she? See [46.10](/wiki/46-10/) for a story that might be about her.
 [[Category:Tribes]]
 [[Category:Orcs]]
 [[Category:Half-orcs]]

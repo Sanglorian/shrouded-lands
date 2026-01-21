@@ -25,7 +25,7 @@ The dedication of the paladins of **Thring** brings hope to these lands where me
 
 *How did Sir Waine get his hands on alchemical materials?
 
-*How did Sir Waine get Caledbrand out of the sepulchre (15.15), even if it was only for a day?
+*How did Sir Waine get Caledbrand out of the sepulchre ([15.15](/wiki/15-15/)), even if it was only for a day?
 
 *Presumably the marriage between the paladins and the Green Lady was symbolic, but was it real in the case of Duke Ulthar? Is she his children's mother?
 [[Category:Characters]]

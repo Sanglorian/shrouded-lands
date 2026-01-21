@@ -12,9 +12,9 @@ categories:
 media: []
 ---
 ## The Inconsolable
-![](/media/Jahur7.jpg)Hex 19.31.06
+![](/media/Jahur7.jpg)Hex [19.31.06](/wiki/19-31/)
 
-Connects to: 51.29.
+Connects to: [51.29](/wiki/51-29/).
 
 One of the many boats that can currently be found at the docks of [[Jahur]] is the *Inconsolable*, bound from the [[Isle of Thalanyl]]. The captain is currently selling a great deal of scented soap for transshipment to the [[City of Smoke]] while the crew, a deep-eyed close-mouthed lot, mill around the docks and poke suspiciously at anything they are fed.
 

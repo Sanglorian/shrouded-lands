@@ -17,7 +17,7 @@ When he came of age, Giles Chosard took passage to the Shrouded Lands, but found
 He has pried out the [[rubies|gems]] of an idol in the Green Ziggurat ([[06.10]]) and gave them freely to a lady of the city ([[03.08]].01) among several other adventures. Giles has quick hands and a quicker tongue, but he is not nearly as good of a swordsman as he believes himself to be and much of his success has come from more luck than skill. To citizens of the City, Giles Chosard cuts a somewhat ridiculous figure, his clothing and manner slavishly follows the fashions in the City during his father's day and in all ways he tries to act how be believes a gentleman of the City should act, taking such things far more seriously than any of the actual inhabitants of the city do.
 ### Connections:
 *Giles has stashed treasure and equipment under a rock in [[09.06]]
-*Giles’ father was probably exiled by hot air balloon (14.23).
+*Giles’ father was probably exiled by hot air balloon ([14.23](/wiki/14-23/)).
 *The rubies of the [[Traitors' Pit]], the Black Ziggurat ([[18.26]]) and the Green Ziggurat ([[06.10]]) all seem to be identical.
 *Giles has won some agility-boosting [[dancer’s bloom]] ([[15.18]]).
 ### Hooks:

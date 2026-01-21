@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Schiele_-_Waldandacht_-_1915.jpg)Connects to: 24.18, 29.14.09, 29.14.28 and 36.09.
+![](/media/Schiele_-_Waldandacht_-_1915.jpg)Connects to: [24.18](/wiki/24-18/), [29.14.09](/wiki/29-14/), [29.14.28](/wiki/29-14/) and [36.09](/wiki/36-09/).
 
 The [[City of Shuttered Windows]] has no truck with divinities that rival or oppose Alberon. However, there is room in the faith for a celebration of the god’s helpers, lovers, progeny and saints. The [[Temple Indivisible]] calls this mile-long road the **Avenue of Preternatural Agents**, but to most it is the Street of Small Gods.
 
@@ -20,11 +20,11 @@ Preachers and altars line the street. Priests offer benedictions and heretics pr
 
 There is also food and entertainment to be had here: plays and musical performances, roasted nuts and baked goods, and the so-called [[handmaidens and princes of Alberon]] who offer services that cleverly avoid violating the [[Hundred Heresies|Heresies]] ([[29.14]].09).![](/media/Shutt-st_small.jpg)
 ### Connection:
-*The [[Tiamatan Revival]] is preached here (29.14.28).
+*The [[Tiamatan Revival]] is preached here ([29.14.28](/wiki/29-14/)).
 *One of these small gods is [[Jahbulon]], who speaks to an exiled necromancer ([[24.18]]).
 *This street must lead out the [[North Gate]] as according to the [[Reluctant Temple of Alberon]] the god drove his chariot to the North Gate via this street
 ### Hooks:
-*Why are these Small Gods permitted while the Little Gods are not (36.09)?
+*Why are these Small Gods permitted while the Little Gods are not ([36.09](/wiki/36-09/))?
 *Which small gods are prominent here?
 *What services do the handmaidens and princes offer?
 *What mystery cults operate in the City?

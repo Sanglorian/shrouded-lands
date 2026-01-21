@@ -13,7 +13,7 @@ media: []
 ## Features
 *Naros has [[Embassies (Shuttered)|an embassy]] in the [[Shuttered City]], itself twisted like Naros was.
 ## Supendar and the Dryads
-<p style="margin-bottom:0in">![The dryads after Supendar's magic](/media/JuliusvonKlever.jpg)What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast (38.28). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.</p>
+<p style="margin-bottom:0in">![The dryads after Supendar's magic](/media/JuliusvonKlever.jpg)What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast ([38.28](/wiki/38-28/)). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.</p>
 
 <p style="margin-bottom:0in">Elsewhere in Naros all those who had been asleep when Supendar’s magic spread across the land remained so and did not wake. The waking men and women of Naros declared war on Supendar and sought to break the enchantment that the dryad had wrought. Finally a band of adventurers infiltrated deep into the Drymea and fell upon the tree of Supendar with great axes.</p>
 
@@ -21,7 +21,7 @@ media: []
 
 <p style="margin-bottom:0in">When the men of Naros found themselves in the land of fairy they despaired. The dryads, at first greatly confused by what had happened, began to see the purpose of Supendar’s last act. The humans of Naros had hoped to take axes to all the dryads of the forest, so great was their anger at Supendar, but they now found that the only ones that could hope to guide them back to the mortal world were the very dryads that they hated so. Taking advantage of this, the dryads had the Narosi haul their trees across the land of fairy so that they could be transplanted far away from any who had been angered by the magic of Supendar.</p>
 
-<p style="margin-bottom:0in">Although some of the dryads ended up scattered across the Shrouded Lands (32.05), the bulk of them were indeed transplanted to The Dryad Grove ([[05.14]]). One, known as Laughing Sam (01.05) was driven mad by his journey through fairy and refuses to remember what has become of Naros.</p>
+<p style="margin-bottom:0in">Although some of the dryads ended up scattered across the Shrouded Lands ([32.05](/wiki/32-05/)), the bulk of them were indeed transplanted to The Dryad Grove ([[05.14]]). One, known as Laughing Sam ([01.05](/wiki/01-05/)) was driven mad by his journey through fairy and refuses to remember what has become of Naros.</p>
 
 <p style="margin-bottom:0in">It is unknown what happened to the men of Naros, though some claim that their voices can be heard in The Dryad Grove.</p>
 #### Hooks

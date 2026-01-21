@@ -11,11 +11,11 @@ categories:
 media: []
 ---
 ## The Silk Wars
-![](/media/Shutt-weng2.png)Connects to: 13.06, 29.14.35, 29.14.37 and 29.14.45.
+![](/media/Shutt-weng2.png)Connects to: [13.06](/wiki/13-06/), [29.14.35](/wiki/29-14/), [29.14.37](/wiki/29-14/) and [29.14.45](/wiki/29-14/).
 
 [[Alvise Ettienne (nephew)|Alvise Ettienne]] took over the family silk business when his uncle, also [[Alvise Ettienne (uncle)|Alvise Ettienne]], was exiled from the City following his transformation into the first ettin and related scandals ([[13.06]]). The gold that he could make in this profitable business did a great deal to restore his house’s reputation and wash away all of the annoying whispers about head theft.
 
-That is, of course, until [[Weng Lo]] came to town. The easterner was able to produce his own silk and savagely undercut the prices that Alvise sold his imported silks for (29.14.45). Finally he found a solution: he would market the silks produced by [[Lady Alevari]] produced with the help of flesh-eating insects (29.14.37). He suspects, but cannot prove, that [[Weng Xiao]] produces her silk through the same means.
+That is, of course, until [[Weng Lo]] came to town. The easterner was able to produce his own silk and savagely undercut the prices that Alvise sold his imported silks for ([29.14.45](/wiki/29-14/)). Finally he found a solution: he would market the silks produced by [[Lady Alevari]] produced with the help of flesh-eating insects ([29.14.37](/wiki/29-14/)). He suspects, but cannot prove, that [[Weng Xiao]] produces her silk through the same means.
 
 Thanks to his prodding, Lady Alevari has stepped up her silk production and the competition between the two of them and the easterners has stepped up. Many think that Alvise is behind Weng Lo’s death and his daughter has become increasingly paranoid and has gone to extreme lengths to safeguard her tower.
 

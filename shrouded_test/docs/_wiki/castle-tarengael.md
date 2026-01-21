@@ -15,7 +15,7 @@ media: []
 ![](/media/1616.png)The great [[River of Crystal Waters]] nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [[Ulthar the Loved]] himself on a rocky island ([[16.16]]) so that the flowing waters would keep the [[Lords Sanguine]] at bay. Bridges connect it to the two halves of [[Tarengael Town]]: Eastbridge and Westbridge.
 
 **Ruler:** The [[Duke of Thring]]<br />
-**Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [[The Foolish Sages]] (20.18) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
+**Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [[The Foolish Sages]] ([20.18](/wiki/20-18/)) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
 
 ### Residents
 *[[Duke of Thring (incumbent)|Duke of Thring]]
@@ -25,10 +25,10 @@ media: []
 *[[Sir Mimslet]] and the [[Sparrow Knight]], Two Suitors of [[Princess Elandra]]: many are gathering to seek the hand of the Princess.
 
 ### Details
-*16.16.08 (No More Tears): 
-*16.16.09 (The Mirror Throne): the Mirror Throne is under an unfortunate curse.
-*16.16.10 
-*16.16.11 (The Doomsday Book): a record of who will hold what property when the world ends.
+*[16.16.08](/wiki/16-16/) (No More Tears): 
+*[16.16.09](/wiki/16-16/) (The Mirror Throne): the Mirror Throne is under an unfortunate curse.
+*[16.16.10](/wiki/16-16/) 
+*[16.16.11](/wiki/16-16/) (The Doomsday Book): a record of who will hold what property when the world ends.
 
 ### Connections
 *The statue of the Green Lady that once lay in the Duke’s private chapel has been hacked to pieces by an apparent madman ([[23.16]]).
@@ -39,9 +39,9 @@ media: []
 *What happened to the cowhorses?
 
 ## The Mirror Throne
-![](/media/161609.png)Hex 16.16.09
+![](/media/161609.png)Hex [16.16.09](/wiki/16-16/)
 
-Connects to: 01.03 and 13.10.
+Connects to: [01.03](/wiki/01-03/) and [13.10](/wiki/13-10/).
 
 An ancient keep predates Castle Tarengael by many long centuries, built there on that rocky promontory by the long-dead ancestors of Duke Ulthar the Loved. When Ulthar tore it down to build his nine domed towers all that remained of the original keep were the foundations, and the Mirror Throne. The Mirror Throne, a throne of cunningly shaped silver crystals growing out of the living rock beneath the foundations, is nearly as ancient as the original castle.
 
@@ -68,7 +68,7 @@ To this day the spirit in the Mirror Throne uses its position to slowly twist th
 *What were the dark sorceries that brought it here in the first place?
 *Who ruled from the Mirror Throne before Duke Ulthar?
 ## The Doomsday Book
-Hex 16.16.11
+Hex [16.16.11](/wiki/16-16/)
 
 Connects to: to be added.
 

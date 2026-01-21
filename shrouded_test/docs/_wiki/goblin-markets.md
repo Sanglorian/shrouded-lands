@@ -20,7 +20,7 @@ One merchant is a goblin child who appeared one day and lay his bundle on the gr
 The most powerful merchant is a willowy [[mercanes|mercane]] named [[Geddar]]. Her gaudy tents fill fully a third of the entire market. She has promised she will give over all of her wealth if someone can bring her a tail feather ([[25.07]]) from the [[mockingbird]]. 
 
 ### Connections
-* Toadvine's (30.09) jewellry is often found for sale here.
+* Toadvine's ([30.09](/wiki/30-09/)) jewellry is often found for sale here.
 ### Hooks:
 *Where does one get orichalcum coins, dinosaur feathers and pixie dust, other than here?
 *What intangibles, impossibilities and organs could the heroes bring to the markets?

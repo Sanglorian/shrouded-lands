@@ -11,7 +11,7 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-Connected to: 11.20, 14.11, 15.11, 16.16.09, 18.11, 22.11 and 23.11.
+Connected to: [11.20](/wiki/11-20/), [14.11](/wiki/14-11/), [15.11](/wiki/15-11/), [16.16.09](/wiki/16-16/), [18.11](/wiki/18-11/), [22.11](/wiki/22-11/) and [23.11](/wiki/23-11/).
 
 The [[Lochgates]], a [[werebears|werebear]] clan, dwell in a sprawling hunting lodge ([[13.10]]) when not roaming the forest as great bears. The lodge has been built, destroyed and rebuilt countless times through the centuries. Some wings of the house have rough timber walls and sod roofs, while others are sophisticated masonry and stained glass. Each wing reflects the builders' tastes and level of wealth. The lodge rises from the rocky banks of Loch Sable, a narrow but very deep lake with black waters. Fishermen draw up pale, eyeless [[fish]] and huge [[crayfish]] from its depths. 
 

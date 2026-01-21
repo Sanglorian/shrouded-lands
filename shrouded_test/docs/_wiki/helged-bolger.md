@@ -11,7 +11,7 @@ categories:
   - "Category:Vampires"
 media: []
 ---
-!['Krasue (Thai) or Ab (Khmer)', Xavier Romero-Frias (CC BY-SA 3.0 Unported)](/media/XRF-krasue.jpg)Connects to: 17.06 and 30.15.
+!['Krasue (Thai) or Ab (Khmer)', Xavier Romero-Frias (CC BY-SA 3.0 Unported)](/media/XRF-krasue.jpg)Connects to: [17.06](/wiki/17-06/) and [30.15](/wiki/30-15/).
 
 Helged [[The Bolgers|Bolger]] is the smallest vampire in these lands. Her small form consists of nothing more than a halfling head and some trailing acid-dripping viscera. Unlike many of her kind, she cannot fly and can only move slowly without the help of her troop of enthralled [[monkeys]].
 

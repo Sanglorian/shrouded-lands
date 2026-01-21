@@ -11,11 +11,11 @@ categories:
 media: []
 ---
 ## The Last Fiendslayer
-![](/media/Jahur10.png)Hex 19.31.09
+![](/media/Jahur10.png)Hex [19.31.09](/wiki/19-31/)
 
-Connects to: 03.13 and 29.14.13.
+Connects to: [03.13](/wiki/03-13/) and [29.14.13](/wiki/29-14/).
 
-When Shuttered's windows closed (29.14.13) a
+When Shuttered's windows closed ([29.14.13](/wiki/29-14/)) a
 loosely-knit league of fiendslayers was trapped in
 the Shrouded Lands. These hunters specialised in
 the slaying of demons and devils, but some

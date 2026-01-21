@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Bureaucrat Descended from a King
-![](/media/Shutt-bure.jpg)Connects to: 23.19 and 29.14.01.
+![](/media/Shutt-bure.jpg)Connects to: [23.19](/wiki/23-19/) and [29.14.01](/wiki/29-14/).
 
 Humanoid races entering the gates of the [[City of Shuttered Windows]] are required to take a *geas* that enforces the limited duration of their stay. However, there are hardly a large number of high-level [[clerics]] hanging around the city with nothing better to do than *geas* [[kobolds]] all day. No, that task falls to Simon Maddlow, last scion of [[The Maddlows|his house]]. Simon is descended from the Prince of the Maddlows, who was sent to the Shuttered City along with his wife and children "to see how they do things there" (the exact words of the *geas*). While the other Maddlow lines have mostly died out or at least lost their powers, the Shuttered City Maddlows managed to find a way of keeping their genetic stock pure despite their small breeding pool.
 

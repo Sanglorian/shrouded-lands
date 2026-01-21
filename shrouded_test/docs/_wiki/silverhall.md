@@ -13,7 +13,7 @@ media: []
 ![](/media/Silver.png) 
 Silverhall
 
-Located in 31.04
+Located in [31.04](/wiki/31-04/)
 
 Region: the Lands of the Night Cattle.
 

@@ -10,10 +10,10 @@ categories:
   - "Category:Winds"
 media: []
 ---
-Hex 23.11
+Hex [23.11](/wiki/23-11/)
 
 ## Winds
-![](/media/2311.png)Connects to: 13.08, 20.10, 22.11, 24.11, 24.12, 25.18, 26.13, the Duchy of Thring and the City of Shuttered Windows.
+![](/media/2311.png)Connects to: [13.08](/wiki/13-08/), [20.10](/wiki/20-10/), [22.11](/wiki/22-11/), [24.11](/wiki/24-11/), [24.12](/wiki/24-12/), [25.18](/wiki/25-18/), [26.13](/wiki/26-13/), the Duchy of Thring and the City of Shuttered Windows.
 
 [[The Freeholds|Freehold]], [[Duchy of Thring|Thringish]] and [[Shuttered]] traders, and caravans from the [[Welt Road]], pour into this cramped, filthy town. It lies just beyond the claims of any Duchy noble. Shuttered allows it independence due to its position as a neutral trade center. The town is called Winds because its roads branch out towards each "wind" - north, south, east and west - and because of the mysterious gusts that whistle and howl through the caves beneath the city. The cave winds blow unpredictably, some gusts so violent that sentries on the wall hear them. A tribe of deaf [[kobolds]] dwells beneath the streets. In exchange for keeping the caverns and tunnels free of monsters or elf invaders, the citizens not only tolerate them, but grant them the privilege of digging through the town's refuse.
 
@@ -21,9 +21,9 @@ Before Winds became a trade hub, a line of [[windseers]] held great influence, c
 
 In this enlightened age, the Council of the Calm rules. The Council convenes monthly in a chamber where every member is submerged up to his or her waist in a cistern. An [[electric eels|electric eel]] is then placed into each cistern. The eels are trained by the city eelmistress to only discharge electricity when they detect hostility or lies. They are also put to use in the city's popular public criminal trials. While the Council meetings present a facade of peace, it forces especially desperate or ambitious council members to turn to the town's criminal underbelly when they cannot resolve certain issues with the required civility.
 
-Winds fears [[elves]] above all. A burning stake in Council Square awaits any elf discovered within the city walls. As far as anyone can remember, it has not been used for this purpose. But last year [[Alceron]], the current windseer, led a mob that burned [[Ulmo Targu]]s, an alleged disciple of [[Yaegha Six-Kidneys]] (25.18). Even if Ulmo was innocent, he did have some magic in him. The charcoal from his lynching emits a potent aura. Alceron himself gathered most of the charcoal after the flames died.
+Winds fears [[elves]] above all. A burning stake in Council Square awaits any elf discovered within the city walls. As far as anyone can remember, it has not been used for this purpose. But last year [[Alceron]], the current windseer, led a mob that burned [[Ulmo Targu]]s, an alleged disciple of [[Yaegha Six-Kidneys]] ([25.18](/wiki/25-18/)). Even if Ulmo was innocent, he did have some magic in him. The charcoal from his lynching emits a potent aura. Alceron himself gathered most of the charcoal after the flames died.
 
-No one in Winds knows, but Alceron was once a pupil of [[Severard]] (13.08). They do know that few have seen him since the lynching.
+No one in Winds knows, but Alceron was once a pupil of [[Severard]] ([13.08](/wiki/13-08/)). They do know that few have seen him since the lynching.
 ### Features
 *[[Cowlard]] has just rolled into town.
 *The [[Princess of the Seers]] seeks to awaken the vast undead being that makes up the White Road.

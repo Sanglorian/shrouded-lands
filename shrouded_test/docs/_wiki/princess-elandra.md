@@ -32,11 +32,11 @@ So her father, the Duke of Thring, has decreed that when each day passes and the
 *What’s brandyfruit?
 *Who’s flocking to Castle Tarengael to tell tear-jerking stories?
 ## Two Suitors of Princess Elandra
-Hex 16.16.10
+Hex [16.16.10](/wiki/16-16/)
 
-Connects to: 07.18, 09.09, 10.09, 16.16.02, 16.16.08 and 50.20.
+Connects to: [07.18](/wiki/07-18/), [09.09](/wiki/09-09/), [10.09](/wiki/10-09/), [16.16.02](/wiki/16-16/), [16.16.08](/wiki/16-16/) and [50.20](/wiki/50-20/).
 
-One suitor to the fair princess (16.16.08) is [[Sir Mimslet]], a brutish Thringish knight of harlequin chequer. More suited to ribald jokes than sorrowful tales, the knight has little inspiration and is waiting at court until he can bribe or cajole someone into suggesting a story. The [[daughter of Ser Gareth Lemarr]] is cutting her hair in the Glade of Womanhood ([[07.18]]) at this very moment because she knows a story that will bring tears to Elandra and hopes that if she shares it with Sir Mimslet while disguised as a boy he will accept her as his squire.
+One suitor to the fair princess ([16.16.08](/wiki/16-16/)) is [[Sir Mimslet]], a brutish Thringish knight of harlequin chequer. More suited to ribald jokes than sorrowful tales, the knight has little inspiration and is waiting at court until he can bribe or cajole someone into suggesting a story. The [[daughter of Ser Gareth Lemarr]] is cutting her hair in the Glade of Womanhood ([[07.18]]) at this very moment because she knows a story that will bring tears to Elandra and hopes that if she shares it with Sir Mimslet while disguised as a boy he will accept her as his squire.
 
 The woman Lemarr will tell not a fable to Sir Mimslet, but the truth. Six years ago, the daughter of the Duke of Thring played with a daughter of the knight Ser Lemarr. The girlchild Lemarr had been left as a hostage to ensure peace between Gore and Thring. The two children grew close, and the Gorean girl soothed Elandra whenever the hardness of the world wet the princess' eyes.
 

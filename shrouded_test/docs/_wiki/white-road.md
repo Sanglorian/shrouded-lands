@@ -24,7 +24,7 @@ For those too poor to afford a tomb along the White Road, the Temple Indivisible
 *Any interesting undead about?
 *Boys from the village of Hostwick ([[39.14]]) who develop the proper signs after eating strange catterpillars are castrated and sold to the Necromantic Office. Why?
 ## The Restless Dead
-![](/media/291302.png)Connects to: 16.16.04, 26.13 and the City of Shuttered Windows
+![](/media/291302.png)Connects to: [16.16.04](/wiki/16-16/), [26.13](/wiki/26-13/) and the City of Shuttered Windows
 
 Court necromancers and hedge mediums have long speculated on what causes [[undead|the dead to return to life]]. Surely the process that conjures back a [[Sack children|warhorse from a skin bag]] is different from the bindings that draw [[bone golems]] together.
 
@@ -42,7 +42,7 @@ Shuttered City funerals are festive, but not celebrations of the person’s life
 *This would explain why all [[ghosts]] have mysteries associated with them. But why do most people who are not well known not come back as undead?
 
 ## White Road, Wailing Road
-Connects to: 23.11, 24.18, 29.13, 29.13.02 and 29.14.35.
+Connects to: [23.11](/wiki/23-11/), [24.18](/wiki/24-18/), [29.13](/wiki/29-13/), [29.13.02](/wiki/29-13/) and [29.14.35](/wiki/29-14/).
 
 The Sages say that the more anonymous a corpse the more likely it is to be restless in its death. This explains many funeral ceremonies that take place across the lands. But what then of of the poor of the City of Shuttered Windows, whose bones are ground up to make the White Road? Isn’t that the most anonymous fate of all? Indeed it is; which is why one of the greatest works of the servants of the [[Necromantic Office]] is to keep the road quiet.
 

@@ -31,7 +31,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *The [[Keepers of the Sacred Foot]], heterodox monks of Alberon, have an abbot. They were once led by the Archpoet when they were driven from the City in the Time of Schisms. They are brewers and goliards (part cleric, part jester).
 * The monastery of St Dulaine had an abbot ([[21.16]]). The theological texts from the monastery remain among the few scholarly works devoted to the Green Lady, although it is not clear if the monks worshipped her, or worshipped her exclusively.
 *The [[Last Prophet of Asrigh]] was a disgruntled bishop of Alberon who took up the worship of the imprisoned god Asrigh.
-*The priests of the Speaker of Bronze (39.00).
+*The priests of the Speaker of Bronze ([39.00](/wiki/39-00/)).
 *Lion priests are in the service of the King in Splendour. There was a schism between the lion priests of the two different lighthouses. The Lost Lighthouse had a single Keeper at a time, who served a two-year term.
 *Thringish sorcerers are priests of Baron Autumn.
 *The Farthest Hermitage is the most distant outpost of Alberon’s priesthood. The hermits meditate before a glowing ball. Exiled or retired priests come here to live out the rest of their days.
@@ -51,7 +51,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *There is a preacher of the Tiamatan Revival in the City
 *The abbot of the Keepers of the Sainted Foot used to ride a lion, before a run-in with a hermit and his cow.
 *The priests of several cults, including Alberon’s, use night cattle in their sacrifices.
-*The Priest of the Lake (37.01) stalks around the lake with a bloodied iron in hand.
+*The Priest of the Lake ([37.01](/wiki/37-01/)) stalks around the lake with a bloodied iron in hand.
 *The priests of the City interpret the laws of the Temple Indivisible, which bind even the Doge.
 *A sun priest, a cleric of Iano and a shield maiden of Alberon have united to slay vampires.
 *Orc priests carry out ritual torture on willing participants.
@@ -66,7 +66,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *The priests of the Creche seem to be able to direct swarms of insects, including mosquitos.
 *Fisher-priests bless the water, fish and turtles that enter the city.
 *A priest who claims to worship the God-Tarrasque is permanently wreathed in magical light so bright he cannot be looked upon.
-*The priests of the Speaker of Bronze (39.00) have recently begun speaking in tongues.
+*The priests of the Speaker of Bronze ([39.00](/wiki/39-00/)) have recently begun speaking in tongues.
 *Blind lion priests have tamed saklas. The lion priests have woven a potent spell on the Lost Lighthouse - those there need only sun and a sip of water for sustenance. The lion priests have prophesied about the End Times.
 *Priests of Baron Autumn can create sack children.
 *The High Priestess of the Temple of the Labyrinth answers the questions of supplicants unerringly.

@@ -10,9 +10,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-black.jpg)Hex 29.14.03
+![](/media/Shutt-black.jpg)Hex [29.14.03](/wiki/29-14/)
 
-Connects to: 29.14.02 and 30.12.
+Connects to: [29.14.02](/wiki/29-14/) and [30.12](/wiki/30-12/).
 
 Of all the [[Balloons (Shuttered)|balloon-artisans]] in the [[City of Shuttered Windows]], the most respected was Yilbar the Illustrious. Owning an entire studio of builders, designers and painters, he was the creator of the Doge's current air-barge, as well as many other fine balloons.
 

@@ -12,7 +12,7 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-Connects to: 13.08, 13.09, 18.11 and 31.04.
+Connects to: [13.08](/wiki/13-08/), [13.09](/wiki/13-09/), [18.11](/wiki/18-11/) and [31.04](/wiki/31-04/).
 
 This is a strange story that begins with a wizard named [[Barnabus Bludenoss]]. Like [[Dormond of the Crooked Oak]], he was a student of the famed wizard [[Severard]], and studied in his tower ([[13.08]]) before the unfortunate spider-related incident. Barnabus was, like many wizards, obsessed with the idea of attaining immortal life. He considered becoming a lich, but did not want to be mad, undead, or hated by mortal society. So his researches continued. After ten years of study, Barnabus finally completed his new and bizarre spell: he turned himself into the world's first [[were-men|were-man]].
 

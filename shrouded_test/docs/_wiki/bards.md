@@ -46,7 +46,7 @@ media: []
 
 *[http://shrouded-lands.wikia.com/wiki/Elves Elven music] can twist a man's wits and the vile giggles of [http://shrouded-lands.wikia.com/wiki/Gnolls gnollish bards] can break even an archmage's concentration, but [[Dwarves#Drums|dwarf drummers]] make music that sinks deeper than either.
 
-The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [http://shrouded-lands.wikia.com/wiki/Green_Lady Green Lady]’s shawl from the [http://shrouded-lands.wikia.com/wiki/Steeple_of_Alberon?action=edit&redlink=1 Steeple of Alberon] itself ([http://shrouded-lands.wikia.com/wiki/29.14 29.14].14).
+The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [http://shrouded-lands.wikia.com/wiki/Green_Lady Green Lady]’s shawl from the [http://shrouded-lands.wikia.com/wiki/Steeple_of_Alberon?action=edit&redlink=1 Steeple of Alberon] itself ([http://shrouded-lands.wikia.com/wiki/[29.14](/wiki/29-14/) [29.14](/wiki/29-14/)].14).
 
 ## Works
 *[[Song of Dust and Flame]]

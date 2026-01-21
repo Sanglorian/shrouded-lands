@@ -9,7 +9,7 @@ categories:
   - "Category:Characters"
 media: []
 ---
-![http://apolitical.info/teleleli/?p=1368](/media/ArthurRackham18.jpg)Connects to: 19.01 and 29.14.08.
+![http://apolitical.info/teleleli/?p=1368](/media/ArthurRackham18.jpg)Connects to: [19.01](/wiki/19-01/) and [29.14.08](/wiki/29-14/).
 
 When Albus Flidge was a young man he ranged the Grey Mountains with the Browncloaks, but retired after raiding Hearthwright Green ([[19.01]]). Shortly thereafter, he set up a small clockworks in Shuttered, despite having no training in such arts. Thanks to the small size and intricate decorations that his pocket watches boast, Flidge Clockworks soon began selling to the greatest nobles of the City and even to the wives of the Doge themselves ([[29.14]].08).
 

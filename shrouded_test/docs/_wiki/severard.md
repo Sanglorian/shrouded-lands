@@ -29,9 +29,9 @@ Severard's Town is the name for the village that grew up around the tower occupi
 *Severard is partially to blame for the creation of the [[ettins]] ([[13.06]]).
 *The [[Perytons|Peryton]] ([[11.15]]) is said to speak with Severard’s voice.
 *[[Alceron]], another of Severard’s apprentices is the windseer of Winds ([[23.11]]).
-*One of Severard’s old enemies was [[Yaegha]] Six-Kidneys (25.18).
+*One of Severard’s old enemies was [[Yaegha]] Six-Kidneys ([25.18](/wiki/25-18/)).
 ### Hooks
-*It is rumored that Severard is not dead but is traveling the planes (29.14.26).
+*It is rumored that Severard is not dead but is traveling the planes ([29.14.26](/wiki/29-14/)).
 *Severard’s magical signature can be found on the [[Cauldron of Galovain]] ([[48.32]].01).
 *It seems that reports of Severard’s death may have been somewhat exaggerated ([[13.09]]).
 *Why was he called Severard “of the Seven Circles?” What circles?

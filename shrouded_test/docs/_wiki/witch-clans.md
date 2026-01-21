@@ -33,7 +33,7 @@ The Witch Clans live mostly in [[The Barrier Range]], but the Birls and the Madd
 *What do the Witch Clans call themselves?
 *What is the source of their magical bloodlines?
 *What other clans are there?
-*Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with *27.09*?
+*Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with *[27.09](/wiki/27-09/)*?
 *The Faustys and the Wrannows have a connection to other dimensions. Do the witch clans have a connection to the planes?
 ### <span style="font-size:20px;">Random Witch Clan Table</span>
 The *colour ward *spell was inspired by [http://dndwithpornstars.blogspot.com.au/ D&D with Pornstars]

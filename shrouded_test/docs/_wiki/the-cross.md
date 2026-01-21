@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 **![](/media/SL_18.png)Region:** [[Bitter Coast]]
-**Hex: **02.11
+**Hex: **[02.11](/wiki/02-11/)
 
 Sailing on the [[Ocean of Bitter Regrets]] takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
 
@@ -21,18 +21,18 @@ Do not make the mistake of thinking that misery makes this city safe. Many sailo
 The Skull, a floating city of moored ships, used to sit in the bay of the Cross. One day, the [[King of Salt and Brine]] was caught in one of its ropes and pulled the whole armada out to sea before freeing himself. Where it floats now, no
 one knows.
 ## Subhexes:
-*02.11.01 (The Pits of the Cross): this serves as the jail of the Cross.
-*02.11.02 (The Skinscratch Murders): people are being murdered and left without their most precious possession and with strange marks carved into their skin.
-*02.11.03 (The Rogue Janissary): a golem captains one of the local pirate ships.
+*[02.11.01](/wiki/02-11/) (The Pits of the Cross): this serves as the jail of the Cross.
+*[02.11.02](/wiki/02-11/) (The Skinscratch Murders): people are being murdered and left without their most precious possession and with strange marks carved into their skin.
+*[02.11.03](/wiki/02-11/) (The Rogue Janissary): a golem captains one of the local pirate ships.
 ## Connection:
-*An old sailor and the ghosts of some pirates who once frequented the Cross can be found not so far from here (01.10).
+*An old sailor and the ghosts of some pirates who once frequented the Cross can be found not so far from here ([01.10](/wiki/01-10/)).
 ## Hooks:
 *Where is the Skull now?
 *Are the Matrons as motherly as they seem?
 *On whom do the Pirate Kings prey?
 *Why are the Pirate Kings gathering their forces and cloud castles?
 ## The Pits of the Cross
-![](/media/SL_19.png)Connects to: 29.14.15.
+![](/media/SL_19.png)Connects to: [29.14.15](/wiki/29-14/).
 
 A crevasse on the outskirts of the Cross serves as a jail for the city. Those who anger one of the local bosses are either locked in one of the cave-vaults in the sides of the crevasse or simply lowered into the crevasse itself via a crude elevator. No one guards the prisoners, but citizens of the Cross amuse themselves by throwing things at anyone who attempts the steep climb out of the Pits.
 
@@ -45,9 +45,9 @@ There are a few people who have sneaked into the Pits to escape scrutiny, includ
 *What beast is trapped in one of the cave-vaults?
 *Who are the bosses of the Cross?
 ## The Skinscratch Murders
-![](/media/SL_20.png)Hex 02.11.02
+![](/media/SL_20.png)Hex [02.11.02](/wiki/02-11/)
 
-Connects to: 08.16 and 26.20.07.
+Connects to: [08.16](/wiki/08-16/) and [26.20.07](/wiki/26-20/).
 
 People walking early in the morning along the decks of the Cross have stumbled across butchered bodies, each one marked with a sign scratched in its forehead.
 
@@ -71,16 +71,16 @@ The Scarecrows have shown particular interest in the killings, with one saying d
 !["Captain Hook" © 2012 Brian Patterson, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/](/media/PRISMATIC_ADAM.jpg)
 
 ## The Rogue Janissary
-Hex 02.11.03
+Hex [02.11.03](/wiki/02-11/)
 
-Connects to: 19.31 and 23.32.
+Connects to: [19.31](/wiki/19-31/) and [23.32](/wiki/23-32/).
 
-[[The Moon's Daughter]]—a [[pearls|pearl]] of tremendous pride (23.32) to [[Jahur]] which grants its bearer control over the tides—is the greatest loss that Jahur suffered during the reign of [[the Cephalopedic Emperor]]. What is unknown to all
+[[The Moon's Daughter]]—a [[pearls|pearl]] of tremendous pride ([23.32](/wiki/23-32/)) to [[Jahur]] which grants its bearer control over the tides—is the greatest loss that Jahur suffered during the reign of [[the Cephalopedic Emperor]]. What is unknown to all
 who remain in that city is that the octoids did not take the Daughter. It was stolen by a reanimated [[Janissaries|Janissary]] who had grown bored by centuries of service.
 
 With the pearl in one fist and a map in the other, the Janissary made its way across the Shrouded Lands until it came to the Cross. It fell in with pirates and now serves as captain of its own ship under the name of [[Ironsides]].
 ### Connection:
-*Ironsides has captured a nereid and forces her to serve him (02.18).
+*Ironsides has captured a nereid and forces her to serve him ([02.18](/wiki/02-18/)).
 ### Hooks:
 *Just what trade passes through the Ocean of Bitter Regrets?
 *How does the Rogue Janissary disguise itself? Does it need to?

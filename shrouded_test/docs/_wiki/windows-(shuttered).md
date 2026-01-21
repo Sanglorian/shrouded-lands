@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Shuttered Windows
-![](/media/Shutt-the_shutt_wind.png)Connects to: 19.31.09, 23.08, 29.14.14, 29.14.26, 29.14.33, 29.14.41, 29.14.43, 29.24 and 40.06.
+![](/media/Shutt-the_shutt_wind.png)Connects to: [19.31.09](/wiki/19-31/), [23.08](/wiki/23-08/), [29.14.14](/wiki/29-14/), [29.14.26](/wiki/29-14/), [29.14.33](/wiki/29-14/), [29.14.41](/wiki/29-14/), [29.14.43](/wiki/29-14/), [29.24](/wiki/29-24/) and [40.06](/wiki/40-06/).
 
 You can see them all over the [[Undercity|under-city]] of the [[Shuttered City]], if you know where to look. Some of them are small, only big enough for a child to crawl through. Many are the size of doorways; a few are enormous, like the one that hangs in front of the old marketplace square which is now a dozen yards below the ground. Regardless of their size, what all of these windows have in common is that they are closed. Their great stone shutters have been drawn closed and sealed, so that one may mistake them for a wall until one notices the arcane runes inscribed around the edges.
 
@@ -22,18 +22,18 @@ All that came to an end during the [[Chimerical Siege]]. After [[Alberon]] slew 
 
 Nobody has ever been able to open the Shuttered Windows since that day. However, it is said that the magic of the confluence still lingers within the city walls. One night you may find yourself walking down a dark alley, only to glimpse at the far end an open field, a dirt road, and a skyline obscured by fog. Follow that trail, and you may emerge anywhere in the Shrouded Lands or beyond. Or you may never emerge at all...
 ### Connections:
-*The [[Temple of the Labyrinth]] is dedicated to Chimalia (29.14.14).
-*In these days Alberon was a not yet a god (29.14.26).
-*The [[araneas]] came through one of these windows before they were shuttered (23.08).
-*[[Lars]] the chimera was sculted so as to resemble Alberon’s original human form (29.14.41).
+*The [[Temple of the Labyrinth]] is dedicated to Chimalia ([29.14.14](/wiki/29-14/)).
+*In these days Alberon was a not yet a god ([29.14.26](/wiki/29-14/)).
+*The [[araneas]] came through one of these windows before they were shuttered ([23.08](/wiki/23-08/)).
+*[[Lars]] the chimera was sculted so as to resemble Alberon’s original human form ([29.14.41](/wiki/29-14/)).
 *The dwarves of Nororak want to reopen the closed windows ([[29.24]]).
-*When the Windows slammed shut the face of [[Ghar Zaghoan]] was caught (29.14.43).
+*When the Windows slammed shut the face of [[Ghar Zaghoan]] was caught ([29.14.43](/wiki/29-14/)).
 *When the windows closed a brotherhood of fiendslayers was stranded in Shuttered ([[Erebus]]).
 ### Hooks:
 *The strange roads can lead you places if you know the way. What happens if you don't know the way, or you get lost?
 *Is there a reliable way to access the strange roads anymore? Are there any other places besides the Shuttered City where you can get onto the roads?
 ## A Vision of the Distant Past
-![](/media/Shutt-wind.png)Connects to: 13.08, 17.17.05, 19.01, 27.12, 29.14.13 and 29.14.20.
+![](/media/Shutt-wind.png)Connects to: [13.08](/wiki/13-08/), [17.17.05](/wiki/17-17/), [19.01](/wiki/19-01/), [27.12](/wiki/27-12/), [29.14.13](/wiki/29-14/) and [29.14.20](/wiki/29-14/).
 
 Long ago, before the gods went to war ([[40.06]]) and the empire of [[Bergolast]] was torn asunder, there was an age of great peace and prosperity for this city. The Windows were not Shuttered but wide open, and travellers arrived in the bustling, smoking marketplace from across the world and beyond. The elves of the [[Kingswood]] and the troll-folk of Bergolast were considered locals by comparison with those who visited from distant lands - [[Naros]] and [[Grumluda]] and [[Zamorqy]], a land so far across the ocean that none have ever sailed there, and nothing of that place has reached the Shrouded Lands since the Shutters were closed forever.
 
@@ -53,11 +53,11 @@ By the time the war was over and the Shutters were closed, the people of the cit
 *Did Severard really escape to a different plane?
 
 ## The Last Window
-![](/media/Shutt-last.png)Hex 29.14.33
+![](/media/Shutt-last.png)Hex [29.14.33](/wiki/29-14/)
 
-Connects to: 29.14.13 and 43.08.
+Connects to: [29.14.13](/wiki/29-14/) and [43.08](/wiki/43-08/).
 
-If the musings of [[the Weeper]] ([[43.08]]) are to be believed there is only one window of the City that yet remains open for it was spared by [[Chimalia]]'s curse. Now it still lies in the very deepest recesses of the Undercity below the dens of the [[Whispering Sisters]] (29.14.07) and even the [[troglodytes]] (29.14.10).
+If the musings of [[the Weeper]] ([[43.08]]) are to be believed there is only one window of the City that yet remains open for it was spared by [[Chimalia]]'s curse. Now it still lies in the very deepest recesses of the Undercity below the dens of the [[Whispering Sisters]] ([29.14.07](/wiki/29-14/)) and even the [[troglodytes]] ([29.14.10](/wiki/29-14/)).
 
 Those who look through this last window see an endless vista of steel-grey skies, great shining arcs of metal pitted with vast fungoid cavities and quicksilver dragons that twist and writhe as they fly.
 

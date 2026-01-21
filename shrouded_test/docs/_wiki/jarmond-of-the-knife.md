@@ -11,7 +11,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-jarm.png)Connects to: 29.14.13, 38.28, 40.06 and 43.01.
+![](/media/Shutt-jarm.png)Connects to: [29.14.13](/wiki/29-14/), [38.28](/wiki/38-28/), [40.06](/wiki/40-06/) and [43.01](/wiki/43-01/).
 
 In days long past, there lived in the City of Many Windows ([[29.14]]) a priest named Jarmond of the Knife. In those days the [[Alberon|God of the City]] still walked its streets, always in the guise of a local city-dweller, sometimes with his wife on his arm; but it was given to the faithful to see his true form during moments of enlightenment. Jarmond was blessed to be visited in this manner not once, or twice, but eleven times, more than any other man in history. The last time was the most famous: Alberon appeared as a blacksmith, and he said unto Jarmond: "Go you to [[Bergolast]], in the land of eternal ice, and tell the people there to repent their wickedness; for a day of shattered bonds is coming, and if they do not give themselves over to me they are lost." And he gave Jarmond a knife he had forged himself, and bid him keep it always.
 

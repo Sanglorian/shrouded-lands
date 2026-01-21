@@ -13,7 +13,7 @@ media: []
 ---
 Rumors persist that [[Tuma Yedaard]] himself is the legendary Huu Vo Malkus, a mysterious Raider ([[factions (elves)]]) who single-handily makes a big score once every decade or so, donating the entirety of his catch to the [[Weeper]] for distribution among the Simple.
 ## Connection:
-[[Maud Verlime|'Maud' Verlime]] claimes to have chased off Huu Vo Malkus from her grazing lands (17.07).
+[[Maud Verlime|'Maud' Verlime]] claimes to have chased off Huu Vo Malkus from her grazing lands ([17.07](/wiki/17-07/)).
 [[Category:Characters]]
 [[Category:Elves]]
 [[Category:The Kingswood]]

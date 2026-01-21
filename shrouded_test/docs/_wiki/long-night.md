@@ -13,7 +13,7 @@ The world lies black and sunless for an entire week during this event in midwint
 
 ## Connections
 *In the Market Pits ([[28.04]]) the night men emerge from their windowless keeps and gather at the pits for a riot of feasting, revelry and running naked through snowdrifts while the world lies black and sunless for an entire week.
-*The other end of the year from the Long Night is the [[Lion's Day]] (17.07.01).
-*The gates of Shuttered are closed during the Long Night (29.14.01).
+*The other end of the year from the Long Night is the [[Lion's Day]] ([17.07.01](/wiki/17-07/)).
+*The gates of Shuttered are closed during the Long Night ([29.14.01](/wiki/29-14/)).
 [[Category:Phenomena]]
 [[Category:Astronomy]]

@@ -7,3 +7,4 @@ Find hexes that are redirects, and instead make the hex the canonical page, but 
 Bullet points that are meant to be indented instead show up as "*The rubies in the pit bear a strange likeness to those found in the eyes of strange foreign idols."
 Connection links don't work when there's a space in the name - e.g. Henry Yaboon
 Links got stripped out, e.g. 25.19 should point to Waker worms
+Where a redirect page has categories, it should instead be a stub with a "see X" link. 

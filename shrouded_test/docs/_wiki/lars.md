@@ -14,7 +14,7 @@ media: []
 ---
 :**Chimera** redirects here. For the creations of [[Chimalia]] that combine the features of multiple animals or of humans and animals, see [[Chimerics]].
 ## The Chimera of the Suitor's Tower
-![](/media/Shutt-suit2.png)Hex 29.14.41
+![](/media/Shutt-suit2.png)Hex [29.14.41](/wiki/29-14/)
 
 One of the most interesting of the products of [[Iraine]]'s vats is a chimera who answers to the name of Lars. She created him in an attempt to create [[Alberon]] anew in human form. Thanks to his creator he has the long graceful legs of a [[su-giraffes|su-giraffe]], [[octoids|octoid]] limbs along his spine as is proper and much more besides. He is completely devoted to his creator, just as she intended, but after long years in which she ignored him to pursue her researches his devotion has twisted into mad jealousy.
 

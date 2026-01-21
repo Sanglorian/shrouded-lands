@@ -11,9 +11,9 @@ categories:
 media: []
 ---
 ## Sosaria, the Conjured City
-![](/media/4818.jpg)Hex 48.18
+![](/media/4818.jpg)Hex [48.18](/wiki/48-18/)
 
-Connects to: 29.14.45, 50.11, 50.14, 51.17 and 50.20.
+Connects to: [29.14.45](/wiki/29-14/), [50.11](/wiki/50-11/), [50.14](/wiki/50-14/), [51.17](/wiki/51-17/) and [50.20](/wiki/50-20/).
 
 Centuries ago, the archmage [[Imorcar]] the Many chose this remote shore of the Keening Sea to found his empire. Legends tell of how he ordered an army of [[djinn]] to build the Elephant Wall, which is wide enough to host ostrich races and topped with thousands of protruding elephant tusks. He then conjured the Palace of All Time from the stone beneath the plains and proclaimed himself the Eternal King of Sosaria.
 

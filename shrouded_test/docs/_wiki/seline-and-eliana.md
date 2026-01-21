@@ -11,13 +11,13 @@ categories:
 media: []
 ---
 ## The Wives of the Doge
-![](/media/Shutt-wives.png)Connects to: 04.05, 25.15, 28.04, 29.14.07, 29.14.30, 29.14.38, 30.03 and 32.22.
+![](/media/Shutt-wives.png)Connects to: [04.05](/wiki/04-05/), [25.15](/wiki/25-15/), [28.04](/wiki/28-04/), [29.14.07](/wiki/29-14/), [29.14.30](/wiki/29-14/), [29.14.38](/wiki/29-14/), [30.03](/wiki/30-03/) and [32.22](/wiki/32-22/).
 
 When the twin daughters [[Lord Tristifer Bartley]] of Blackhorn Keep ([[30.03]]) came of age they were such beauties that all men wondered if they had [[elves|elven blood]].
 
 Considering the history of the second Lady Bartley, it is easy to see how people could come to such a misapprehension, but the girls were human. But such humans they were! Seline was as pale as the moon and with hair as dark as the night sky, but nevertheless it shone brighter than a thousand stars. Her sister Eliana had such skin that, even though she led the sunless life of the night men, it remained golden but not near as golden as the bright and curling wreath of her hair.
 
-For long years Lord Bartley refused all suitors, cleverly playing the other lords of the [[Lands of the Night Cattle]] off against each other until many, his brother chief among them, feared that he sought to name one of them his heir, for he had no sons. But then, during one [[Long Night]] (28.04) some years past, the great [[Blind Doge|Doge]] of the City of Shuttered Windows paid a visit to the market pits ([[28.04]]) and, blind though he was and is, he was enchanted by the sisters.
+For long years Lord Bartley refused all suitors, cleverly playing the other lords of the [[Lands of the Night Cattle]] off against each other until many, his brother chief among them, feared that he sought to name one of them his heir, for he had no sons. But then, during one [[Long Night]] ([28.04](/wiki/28-04/)) some years past, the great [[Blind Doge|Doge]] of the City of Shuttered Windows paid a visit to the market pits ([[28.04]]) and, blind though he was and is, he was enchanted by the sisters.
 
 The thought of his house allied to Shuttered itself brought great joy to Lord Bartley but precious little to the Doge or his daughters. How could the Doge choose either one of the beauties and how could the twins be separated by the lonely miles between Blackhorn Keep and the Shuttered City? Finally a priest of the [[Alberon]], the god of the City of Shuttered Windows who traveled in the Doge's revenue arrived at a solution: by his interpretation of the laws of the [[Temple Invisible]] the sisters had but one soul and thus the Doge was free to marry both of them, which he did in the greatest festivity that Blackhorn Keep had ever seen.
 

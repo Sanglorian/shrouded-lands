@@ -18,7 +18,7 @@ Moon elephants were revered in ancient times as living calenders. Their hues and
 Those who have butchered these rare, majestic creatures report that their hides do not change hue after being removed. Armor made from white moon elephant hides inspires its wearers with courage and can be enchanted to have light-related properties. The dark hide armor is sought by many thieves and assassins because it makes its wearers both more alert and difficult to see.![](/media/Giovanni_Antonio_Guardi_(attr)_Elefant.jpg)
 ### Connections:
 *[[Octoids|Octoid]] agents have gotten their hands on some moon elephant cloaks and are using them to infiltrate [[Jahur]].
-*The [[Sparrow Knight]] fights in moon elephant leather (16.16.10).
+*The [[Sparrow Knight]] fights in moon elephant leather ([16.16.10](/wiki/16-16/)).
 *Other [[elephants|elephant breeds]] exist
 ### Hooks
 *Did these remarkable elephants come from the moon? If not, what is their relationship to the moon?

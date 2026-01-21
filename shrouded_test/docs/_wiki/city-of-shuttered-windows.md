@@ -13,7 +13,7 @@ media: []
 :**City of Many Windows** redirects here. To learn why the name changed, see [[Windows (Shuttered)]] or [[Chimerical Siege]]![](/media/2914.jpg)
 **Region: **[[Shuttered and Surrounds]]
 
-**Hex: **29.14
+**Hex: **[29.14](/wiki/29-14/)
 
 South of the Kingswood and the Freeholds there lies the City of Shuttered Windows, thick with the dust of ages and the grime of hidden violence. Traders from across the land pass through this city, which is often known by its shortened name of simply 'the Shuttered City'.
 
@@ -67,26 +67,26 @@ In the City, height is an indicator of social status. The towers and other tall 
 *[[The Giant and the Gnome]]  is a famous tower-top tavern. There are no stairs.
 *The [[Street of Small Gods]] is for worshippers of supernatural beings. They are tolerates as long as they engage in none of the Hundred Heresies. Not to be confused with the Little Gods that are firmly banned.
 *The [[Arch of Defeat]] is the proper place to celebrate defeat, folly and error.
-*29.14.35 (The [[Necromantic Office]]): it has very firm views on those who rise from their graves without the proper licenses.
-*29.14.36 ([[With Morning Comes Mistfall]]): a journal of a traveler trying to learn why it rains but once a year.
-*29.14.37 ([[Lady Alevari]]’s Lament): she only turned her husband into a zombie because she loved him so.
-*29.14.38 (The [[Seeds of the Sea]]): the best place in the City to buy pearls for a hundred gold pieces.
-*29.14.39 (The [[Dead Men's Tongues]]): escaped temple beasts of the Whispering Sisters that have spread throughout much of the Undercity.
-*29.14.40 (The [[Suitor’s Tower]]): the tower of a sorceress to plans to gain immortality by marrying a god.
-**29.14.41 (The Chimera of the Suitor’s Tower): the Suitor’s finest creation and her steward. Octoid tentacles sprout from his back, as is to be expected.
-*29.14.42 (The [[Mud Platter]]): where the rumors are far fresher than the beef.
-*29.14.43 (The [[Grey Ooze]]): these strange oozes that infest the Undercity serve a strange master.
-*29.14.44 ([[Helged Bolger]]): beware monkey-borne vampiric halfling heads.
-*29.14.45 (The Tower of [[Weng Xiao]]): immigrants from the east maintain a profitable business in silk and corpses.
-**29.14.46 (The Silk Wars): agents of the City’s silk merchants compete fiercely for fresh corpses.
-*29.14.47 ([[Elhanen the Silent]]): an exile from the Golden Realm is trying to rouse these lands against the gnolls who shamed her homeland.
-*29.14.48 (The [[Devil’s Bible]]): too holy to destroy but far too blasphemous to use.
-*29.14.49 (The [[Honorable Society of Engineers]]): works day and night to put off the day when the City sinks into the mud.
-*29.14.50 (The [[Sealed Library]]): a collection of forbidden texts maintained by the Temple Indivisible.
-*29.14.51 (The Glorious Reign of Doge [[Simone the Fowl]]): the result of the second most bizarre election in the City.
-*29.14.52 ([[Mud tongue|With a Mouth Full of Mud]]): in the City the right and poor do not even share the same language.
-*29.14.53 ([[Simone’s Aviary]]): this floating aviary has become popular with the inbred Witch Clans.
-*29.14.54 (The [[Prison of the Nine]]): here nine gods lie imprisoned by their greed.
+*[29.14.35](/wiki/29-14/) (The [[Necromantic Office]]): it has very firm views on those who rise from their graves without the proper licenses.
+*[29.14.36](/wiki/29-14/) ([[With Morning Comes Mistfall]]): a journal of a traveler trying to learn why it rains but once a year.
+*[29.14.37](/wiki/29-14/) ([[Lady Alevari]]’s Lament): she only turned her husband into a zombie because she loved him so.
+*[29.14.38](/wiki/29-14/) (The [[Seeds of the Sea]]): the best place in the City to buy pearls for a hundred gold pieces.
+*[29.14.39](/wiki/29-14/) (The [[Dead Men's Tongues]]): escaped temple beasts of the Whispering Sisters that have spread throughout much of the Undercity.
+*[29.14.40](/wiki/29-14/) (The [[Suitor’s Tower]]): the tower of a sorceress to plans to gain immortality by marrying a god.
+**[29.14.41](/wiki/29-14/) (The Chimera of the Suitor’s Tower): the Suitor’s finest creation and her steward. Octoid tentacles sprout from his back, as is to be expected.
+*[29.14.42](/wiki/29-14/) (The [[Mud Platter]]): where the rumors are far fresher than the beef.
+*[29.14.43](/wiki/29-14/) (The [[Grey Ooze]]): these strange oozes that infest the Undercity serve a strange master.
+*[29.14.44](/wiki/29-14/) ([[Helged Bolger]]): beware monkey-borne vampiric halfling heads.
+*[29.14.45](/wiki/29-14/) (The Tower of [[Weng Xiao]]): immigrants from the east maintain a profitable business in silk and corpses.
+**[29.14.46](/wiki/29-14/) (The Silk Wars): agents of the City’s silk merchants compete fiercely for fresh corpses.
+*[29.14.47](/wiki/29-14/) ([[Elhanen the Silent]]): an exile from the Golden Realm is trying to rouse these lands against the gnolls who shamed her homeland.
+*[29.14.48](/wiki/29-14/) (The [[Devil’s Bible]]): too holy to destroy but far too blasphemous to use.
+*[29.14.49](/wiki/29-14/) (The [[Honorable Society of Engineers]]): works day and night to put off the day when the City sinks into the mud.
+*[29.14.50](/wiki/29-14/) (The [[Sealed Library]]): a collection of forbidden texts maintained by the Temple Indivisible.
+*[29.14.51](/wiki/29-14/) (The Glorious Reign of Doge [[Simone the Fowl]]): the result of the second most bizarre election in the City.
+*[29.14.52](/wiki/29-14/) ([[Mud tongue|With a Mouth Full of Mud]]): in the City the right and poor do not even share the same language.
+*[29.14.53](/wiki/29-14/) ([[Simone’s Aviary]]): this floating aviary has become popular with the inbred Witch Clans.
+*[29.14.54](/wiki/29-14/) (The [[Prison of the Nine]]): here nine gods lie imprisoned by their greed.
 
 ### Hooks:
 *What are the rites and traditions of the Temple Indivisible?
@@ -97,12 +97,12 @@ In the City, height is an indicator of social status. The towers and other tall 
 *What lands send their traders to the Shuttered City?
 *What are some specific locations within the city?
 ## Flying fish
-![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs127.jpg)When word of the extraordinary flying fish living in the Lake of the Flying Fish ([[09.22]]) reached the ears of the nobles of the Shuttered City, an expedition was immediately sent out to capture them. Twelve flying fish were taken from the lake and flown through Thring and across the Keening Sea. Only three of them remained at the end of this journey. It was intended that the flying fish should pull leisure balloons for the nobles (29.14.02), but alas! During their first parade through the city, the fish were driven mad by the claustrophobic closeness of the tower walls. One fish had to be put out of its misery after killing several bystanders, and the remaining two are now stabled in the Gardens of the Sea ([[29.15]]). Their owner will pay good money to anyone who can cure the fish of their madness.
+![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs127.jpg)When word of the extraordinary flying fish living in the Lake of the Flying Fish ([[09.22]]) reached the ears of the nobles of the Shuttered City, an expedition was immediately sent out to capture them. Twelve flying fish were taken from the lake and flown through Thring and across the Keening Sea. Only three of them remained at the end of this journey. It was intended that the flying fish should pull leisure balloons for the nobles ([29.14.02](/wiki/29-14/)), but alas! During their first parade through the city, the fish were driven mad by the claustrophobic closeness of the tower walls. One fish had to be put out of its misery after killing several bystanders, and the remaining two are now stabled in the Gardens of the Sea ([[29.15]]). Their owner will pay good money to anyone who can cure the fish of their madness.
 
 ### Hooks
 *What happened to the rest of the fish? Did they all die, or did some escape?
 *Who owns the remaining two fish? Will he/she be competing with the Doge for the highest spot in the city?
-*What will happen to the flying fish when the flying snakes (27.18) arrive this year?
+*What will happen to the flying fish when the flying snakes ([27.18](/wiki/27-18/)) arrive this year?
 
 ## People
 *[[Dugglet Bolger]]

@@ -13,7 +13,7 @@ categories:
 media: []
 ---
 ## Simone’s Aviary
-![](/media/Shutt-aviary.png)Connects to: 29.14.51 and the Barrier Range.
+![](/media/Shutt-aviary.png)Connects to: [29.14.51](/wiki/29-14/) and the Barrier Range.
 
 To show his beneficence towards his fellow birds, Doge [[Simone the Fowl|Simone’s]] minders had a great gilt aviary built and placed in [[Shuttered City|the City]]. [[Doges|The Doge who followed him]] had the aviary lifted by ten tremendous balloons so the birds would better feel the wind and the sky.
 

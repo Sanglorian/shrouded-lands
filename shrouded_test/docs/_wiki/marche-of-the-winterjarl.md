@@ -25,9 +25,9 @@ The [[Zoar Rajak]] ([[11.01]]) feel differently. They believe that Ironhide is r
 ![AN Komarov](/media/MSU_V2P1a_-_Ursus_arctos_arctos_painting_(1).png)
 
 ## Connections
-*The small village that was founded by the troll Prophet of Grahakzahak (15.01) is part of the marche of the bjornajarl as are the [[Skullcrusher orcs]] (13.01) who are more peaceful than their name suggests.
+*The small village that was founded by the troll Prophet of Grahakzahak ([15.01](/wiki/15-01/)) is part of the marche of the bjornajarl as are the [[Skullcrusher orcs]] ([13.01](/wiki/13-01/)) who are more peaceful than their name suggests.
 *The acolytes of the Farthest Hermitage ([[15.00]]) pay tribute to the winterjarl in the form of manual labor.
-*The villagers of Ritethal (18.03) are strangely diligent when it comes to paying tribute to the winterjarl, even though they live far from his cave.
+*The villagers of Ritethal ([18.03](/wiki/18-03/)) are strangely diligent when it comes to paying tribute to the winterjarl, even though they live far from his cave.
 *One-Eyed Kevanjr’s sworn enemy is [[Arinlag Fivefish]], who currently lives in exile ([[35.04]]) after losing a duel to him over the hand of Thorek’s daughter.
 *The previous jarl of the bears lies frozen not far from here ([[14.01]]).
 *The nordanbjorn fued with the owl-riding [[strigoi]].

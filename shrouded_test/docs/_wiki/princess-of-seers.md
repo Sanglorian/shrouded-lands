@@ -11,7 +11,7 @@ categories:
   - "Category:Windseers"
 media: []
 ---
-![](/media/2311princess.jpg)Connects to: 23.11 and 26.13.
+![](/media/2311princess.jpg)Connects to: [23.11](/wiki/23-11/) and [26.13](/wiki/26-13/).
 
 Famed adventurers arriving in [[Winds]] are regularly approached by a woman who styles herself the Princess of Seers. Though the current [[windseers|windseer]] [[Alceron]] believes that she uses black magic and was not properly trained as a windseer, she learned from a man who claimed to have been a windseer when that position carried great respect. According to the Princess, it is Alceron whose magic deviates from the true practices of the windseers.
 
@@ -22,7 +22,7 @@ The Princess gains this information from the [[ghosts]] of the [[White Road]], m
 As for the adventuring parties she has sent delving, she will blame the undead attack on their intrusions onto sacred burial grounds and ban them all from the city along with Alceron the 'imposter' windseer.
 
 ### Connections
-* Anastasia uses a choker made by Toadvine (30.09) to communicate with the drow-ghosts.
+* Anastasia uses a choker made by Toadvine ([30.09](/wiki/30-09/)) to communicate with the drow-ghosts.
 ### Hooks:
 *Who are the drow-ghosts that serve the Princess?
 *Is her art deviant or is it the true practice of the windseers?

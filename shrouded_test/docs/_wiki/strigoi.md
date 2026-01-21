@@ -9,7 +9,7 @@ categories:
   - "Category:The Grey Mountains"
 media: []
 ---
-The strigoi are a pale-skinned people who ride giant owls through the Grey Mountains. Thy are both respected and feared by the villagers, and wage war with the nordanbjorn (14.00)—a conflict that allegedly has continued for centuries, but which has escalated recently.
+The strigoi are a pale-skinned people who ride giant owls through the Grey Mountains. Thy are both respected and feared by the villagers, and wage war with the nordanbjorn ([14.00](/wiki/14-00/))—a conflict that allegedly has continued for centuries, but which has escalated recently.
 
 The strigoi are considered bad omens, for it is said that their presence in a village presages a death. The strigoi claim that these are mere coincidences, but their private mythology suggests otherwise.
 

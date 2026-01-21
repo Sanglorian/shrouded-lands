@@ -9,9 +9,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-H![](/media/Shutt-with.png)ex 29.14.36
+H![](/media/Shutt-with.png)ex [29.14.36](/wiki/29-14/)
 
-Connects to: 07.01, 08.27, 09.01, 10.01, 18.10.01, 19.31, 27.18.01, 29.13, 29.07, 29.14.09, 29.14.14, 29.15, 31.07, 38.28, 43.08, the Singing Wastes, the Grey Mountains and the Burning Lands.
+Connects to: [07.01](/wiki/07-01/), [08.27](/wiki/08-27/), [09.01](/wiki/09-01/), [10.01](/wiki/10-01/), [18.10.01](/wiki/18-10/), [19.31](/wiki/19-31/), [27.18.01](/wiki/27-18/), [29.13](/wiki/29-13/), [29.07](/wiki/29-07/), [29.14.09](/wiki/29-14/), [29.14.14](/wiki/29-14/), [29.15](/wiki/29-15/), [31.07](/wiki/31-07/), [38.28](/wiki/38-28/), [43.08](/wiki/43-08/), the Singing Wastes, the Grey Mountains and the Burning Lands.
 
 The following is an excerpt from a journal locked away in the [[Sealed Library]].
 
@@ -27,7 +27,7 @@ It was a sight I shall never forget. The whole world was bathed in white from ho
 
 After I asked him my question he turned to me with a senile grin and told me the story about how the [[Queen Sinister]], who once had ruled at the left hand of the [[Bloodied King]] ([[29.07]]), cried as she bid farewell to her husband as she prepared to leave with the rest of the [[unseelie elves]] into the south after the sundering of the elven court, while only a single tear fell from the king’s eyes.
 
-Such a torrent of tears fell from the eyes of the elf queen that her king jerked away from her, lest his robes be stained by her tears. Then her sadness was replaced with wrath and she strode out of the elven Holt (29.07), cursing the whole land that even as the Bloodied King had shed but a single tear, so should all of the Shrouded Lands feel rain but once a year.
+Such a torrent of tears fell from the eyes of the elf queen that her king jerked away from her, lest his robes be stained by her tears. Then her sadness was replaced with wrath and she strode out of the elven Holt ([29.07](/wiki/29-07/)), cursing the whole land that even as the Bloodied King had shed but a single tear, so should all of the Shrouded Lands feel rain but once a year.
 
 It was the same story that I’d been told a thousand times before and I knew every word from the description of the queen’s dark beauty to how her gaze fell on the Rockery ([[31.07]]) and the rage in her heart was stilled so that the Pirate Kings were exempted from her curse so that even today rain falls freely from the clouds that bear the castles of the storm giants.
 

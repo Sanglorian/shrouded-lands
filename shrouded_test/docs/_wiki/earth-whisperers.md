@@ -27,8 +27,8 @@ Nearly two hundred years ago, the other four towns hired a coven of earth whispe
 When the temple Shara built sunk during the Shuttered City's attack on Blind Midshotgatepool ([[27.19]]), it did more damage to Shuttered's armada than the five lords managed. Neither the sailors nor the earth whisperers were seen again.
 
 ## Connections
-*The earth whisperers are responsible for several seemingly-bottomless pits at the outskirts of the city (26.20.02).
-*Henry Yaboon (26.20.08), a man of power in Blind Midshotgatepool has taken over the possessions of the priesthood of the Pacharia as his own.
+*The earth whisperers are responsible for several seemingly-bottomless pits at the outskirts of the city ([26.20.02](/wiki/26-20/)).
+*Henry Yaboon ([26.20.08](/wiki/26-20/)), a man of power in Blind Midshotgatepool has taken over the possessions of the priesthood of the Pacharia as his own.
 *Some of the old ways of Thring are still kept in the Fourth Castle in Thring's far north ([[18.11]]).
 
 ## Hooks

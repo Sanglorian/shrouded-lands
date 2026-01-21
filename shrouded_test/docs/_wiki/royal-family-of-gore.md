@@ -23,30 +23,30 @@ For an age, peasant children crowned every High King of Gore in Fool’s Court.
 *Why did peasant children crown the kings?
 *Why did the old kings revere an ancient, little-known civilization and their gods so much?
 ### Fall of the Falcon Throne
-![Turien, the King of Fools](/media/David_Teniers_(II)_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [[The Tarrasque]] of Bergolast (38.28) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
+![Turien, the King of Fools](/media/David_Teniers_(II)_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [[The Tarrasque]] of Bergolast ([38.28](/wiki/38-28/)) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
 
 Before it fell, every year without fail the kings who sat on the falcon throne would hold a festival where people traded roles for a week: freemen paraded around in their wives’ dresses, kings wore fool’s motley and – in the last year of the kingdom – twelve butchers acted as the king’s council of ministers. These were snidely called the Lords Sanguine, for they wore their robes of state beneath their bloody aprons.
 
-When the week had passed, the [[Lords Sanguine]] realized that they preferred the work of ministers to that of butchers and guzzled down the blood of the Tarrasque. They cast the king and his family from the south and Turien, still in tattered motley, begged the vassal kings of Thring for help in winning back his throne. But they were far too busy fighting the Lords Sanguine and each other and neither they nor the Verlimes (18.07) opened their gates of him. In the chaos [[Ducal family of Thring|Ulthar the Loved]], the first Duke of Thring, was able to conquer the banks of the River of Crystal Waters and proclaim the Duchy of Thring.
+When the week had passed, the [[Lords Sanguine]] realized that they preferred the work of ministers to that of butchers and guzzled down the blood of the Tarrasque. They cast the king and his family from the south and Turien, still in tattered motley, begged the vassal kings of Thring for help in winning back his throne. But they were far too busy fighting the Lords Sanguine and each other and neither they nor the Verlimes ([18.07](/wiki/18-07/)) opened their gates of him. In the chaos [[Ducal family of Thring|Ulthar the Loved]], the first Duke of Thring, was able to conquer the banks of the River of Crystal Waters and proclaim the Duchy of Thring.
 
-The Sanguine Lords keep the festival to this day, though they are careful to trade roles only with their wives. As for Turien, the King of Fools, he lived out his days Castle Tarengael as court jester (16.16.01) as did he son and his grandson after him.
+The Sanguine Lords keep the festival to this day, though they are careful to trade roles only with their wives. As for Turien, the King of Fools, he lived out his days Castle Tarengael as court jester ([16.16.01](/wiki/16-16/)) as did he son and his grandson after him.
 
 Today [[The Jester Prince]] can often be found at the side of [[Ducal family of Thring|the Duke of Thring]]. In memory of the lost kingdom of Gore, the Jester Prince has the sigil of the Tarrasque rampant emblazoned on his shield and often accompanies the Duke on his hunts for the great beast.
 
 As for the Lords Sanguine, they soon fell to fighting among themselves and the land of Gore was became as stained with blood as the aprons of the first bloody lords. They rule still in the lands southwest of Thring, but the blood of the Tarrasque has given them more madness than wisdom.
 #### Connections
-*It is possible that the true heir of Gore may be the young lad that [[Lady Natala]] believes to be the son of the Duke of Thring (07.17.01).
-*The old crown of the High Kings (actually a helm of opposite alignment) is now located beneath the Temple of the Hunt (14.27.01).
-*The old High Kings were chosen according to their vices and crowned nearby (05.18).
-*The High Kings had a pact with the pirate kings that spared them the ravages of those fierce giants (03.19).
+*It is possible that the true heir of Gore may be the young lad that [[Lady Natala]] believes to be the son of the Duke of Thring ([07.17.01](/wiki/07-17/)).
+*The old crown of the High Kings (actually a helm of opposite alignment) is now located beneath the Temple of the Hunt ([14.27.01](/wiki/14-27/)).
+*The old High Kings were chosen according to their vices and crowned nearby ([05.18](/wiki/05-18/)).
+*The High Kings had a pact with the pirate kings that spared them the ravages of those fierce giants ([03.19](/wiki/03-19/)).
 #### Hooks
 *Why was it called the falcon throne?
 *Why did King Turien agree to be Duke Ulthar’s jester?
 
 ## The Questing Beast and the Jester Prince
-!["The dragon in the woods near Dublin", Arthur Rackham](/media/Rackham_Dragon_Dublin.jpg)Connects to: *05.20, 06.03, *07.17 and *38.28.*
+!["The dragon in the woods near Dublin", Arthur Rackham](/media/Rackham_Dragon_Dublin.jpg)Connects to: *[05.20](/wiki/05-20/), [06.03](/wiki/06-03/), *[07.17](/wiki/07-17/) and *[38.28](/wiki/38-28/).*
 
-All know why there is no king in the south yet a prince serves the Duke as court jester, so I will not bore you with that tale (see above). What you may not know is why the prince has the Tarrasque *(38.28)* emblazoned on his shield and why the Duke’s hunt so often follows the prince’s aimless rambles across the land.
+All know why there is no king in the south yet a prince serves the Duke as court jester, so I will not bore you with that tale (see above). What you may not know is why the prince has the Tarrasque *([38.28](/wiki/38-28/))* emblazoned on his shield and why the Duke’s hunt so often follows the prince’s aimless rambles across the land.
 
 To understand that, you must comprehend that a troupe of knights can slay most any beast. Our own Duke has run down and slain boar, fey princes, manticores and that rarest of game, a king. But we need not speak of that. There is one beast that the Duke has pursued time and time again, always to return frustrated with lance unblooded. That prey is called the Questing Beast in **Thring**, while others know it as the Tarrasque of Bergolast.
 
@@ -58,7 +58,7 @@ The Tarrasque is not as other beasts nor is its blood like other blood, as the L
 
 But for the Duke of Thring this is not enough and he seeks the true blood of the Tarrasque that will flow from its heart when dealt a mortal wound. It is said that is such blood is caught in a cup that cup will become the sangreal and all who drink from it will have the shadow of death lifted from them.
 ## The Lady-in-Waiting of Castle Maratan
-![](/media/Le_morte_d-arthur-201.gif)Connects to: 05.20, 07.18 and 31.15
+![](/media/Le_morte_d-arthur-201.gif)Connects to: [05.20](/wiki/05-20/), [07.18](/wiki/07-18/) and [31.15](/wiki/31-15/)
 
 A Sanguine Lady would not be worthy of the title if she was not intimately concerned with the workings of blood. It should come as no surprise that [[Lady Natala]] keeps a gilded cage of [[stirges]], and has her plump and otherwise content servants press their veins to the bars after dinner each night.
 
@@ -70,7 +70,7 @@ Word of this passed to Lady Natala, who became obsessed with harvesting the tarr
 
 Natala had a stirge brought to her quarters. It drew blood from the lady-in-waiting and delivered it into the Sanguine Lady’s eager vein. Certainly, knowledge of the sporting ground of the tarrasque passed to the Lady, for a week later she battled that beast.
 
-But when the son that Lady Natala bore grew his first head of copper hair—so unlike the hair of both the Lady Sanguine and the Duke—the lady-in-waiting drew a horrible conclusion. The stirge had drawn not just a memory from her mind, but also a baby from her belly. The son of Natala is not heir of Thring; he is heir of all Gore (05.20).
+But when the son that Lady Natala bore grew his first head of copper hair—so unlike the hair of both the Lady Sanguine and the Duke—the lady-in-waiting drew a horrible conclusion. The stirge had drawn not just a memory from her mind, but also a baby from her belly. The son of Natala is not heir of Thring; he is heir of all Gore ([05.20](/wiki/05-20/)).
 
 Or so the mad lady-in-waiting believes.
 #### Connection
