@@ -1,0 +1,17 @@
+---
+layout: wiki_page
+title: "The Trunk"
+pageid: 3014
+namespace: 0
+original_url: "https://shrouded-lands.fandom.com/wiki/The_Trunk"
+categories:
+  - "Category:Buildings"
+  - "Category:Sosaria"
+media: []
+---
+
+[[File:481802.png|thumb]]The Palace of All Time will probably always be the highest building in [[Sosaria]], but it is dwarfed in sheer size by its neighbor, the Trunk. The Trunk is Sosaria's vast slaughterhouse. It is terrible to behold - a winding, sprawling earthen mound that leaks offal, blood and viscera into the Sweet Bay. The city's [[cattle barosn (Sosaria)|cattle barons]] are joint shareholders in the Trunk's operation. Each employs an army of butchers, jerky makers, tanners, cleaners and plague doctors to keep the city's industry rolling.
+===Hooks:===
+*Is the Sweet Bay an ironic name, or is it somehow clean in spite of the city's filth?
+[[Category:Buildings]]
+[[Category:Sosaria]]
