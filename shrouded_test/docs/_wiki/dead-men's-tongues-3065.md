@@ -17,10 +17,10 @@ Deep in the [Undercity](/wiki/undercity/) squirm the dead men's tongues, strange
 
 The [Whispering Sisters](/wiki/whispering-sisters/) once favored these tongues in their sacrifices of newlyweds but these days prefer to roast them alive within [albino cows](/wiki/night-cattle/). This has resulted in the dead men's tongues getting loose and spreading uncontrollably through much of the Undercity.
 ### Hooks:
-*How were these tongues created?
-*Is it possible to reverse the transformation into a dead man's tongue? Was anyone able to arrest the process part-way through?
-*Why did the Whispering Sisters stop using the tongues in their rituals?
-Category:She Who Waits
-Category:Creatures
-Category:The Shuttered City
-Category:Undercity
+* How were these tongues created?
+* Is it possible to reverse the transformation into a dead man's tongue? Was anyone able to arrest the process part-way through?
+* Why did the Whispering Sisters stop using the tongues in their rituals?
+
+
+
+

@@ -16,7 +16,7 @@ According to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon
 During the Time of Schisms, the [Brothers of the Spear](/wiki/brothers-of-the-spear/) split into the [Temple of Alberon](/wiki/temple-of-alberon/) and the [Temple Invisible](/wiki/temple-invisible/). 
 
 The [Keepers of the Sainted Foot](/wiki/keepers-of-the-sainted-foot/) were driven out at this time.
-Category:Conflicts
-Category:Alberon
-Category:The Shuttered City
-Category:Historical events
+
+
+
+

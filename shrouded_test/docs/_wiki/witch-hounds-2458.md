@@ -25,9 +25,9 @@ They spawn in The Fen of the Witch-Hounds ([22.16](/wiki/22-16/))![https://commo
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">Lately, witch-hounds have been seen skulking around Mazy Hollow ([25.14](/wiki/25-14/)). The Witch Queen cursed Gertja Traitor's-Daughter's last scion, Jota, to bear only sons so the sacred family that maintains peace between Alberon and Chimalia would be broken. The curse has been unexpectedly broken, and the Witch Queen plans to strike Mazy Hollow and end the line of succession forever.</p>
 #### Hooks
-*<p lang="en-US" style="margin-bottom:0.14in">Why does the Witch Queen want war been Alberon and Chimalia?</p>
-*<p lang="en-US" style="margin-bottom:0.14in">How did Laughing Milo discover the hounds' secret? How did he die?</p>
-*<p lang="en-US" style="margin-bottom:0.14in">What defenses do locals have against the hounds?</p>
-*<p lang="en-US" style="margin-bottom:0.14in">How could a witch-hound be exposed to sunlight? Does it have to be true sunlight, or can an adventurer "cheat"?</p>
-Category:Creatures
-Category:The Barrier Range
+* <p lang="en-US" style="margin-bottom:0.14in">Why does the Witch Queen want war been Alberon and Chimalia?</p>
+* <p lang="en-US" style="margin-bottom:0.14in">How did Laughing Milo discover the hounds' secret? How did he die?</p>
+* <p lang="en-US" style="margin-bottom:0.14in">What defenses do locals have against the hounds?</p>
+* <p lang="en-US" style="margin-bottom:0.14in">How could a witch-hound be exposed to sunlight? Does it have to be true sunlight, or can an adventurer "cheat"?</p>
+
+

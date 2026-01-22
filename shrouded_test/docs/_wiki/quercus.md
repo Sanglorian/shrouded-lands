@@ -25,14 +25,13 @@ But the goblins' deep ties to oaks are not timeless as they may seem. Many stude
 But for their part in this massacre, the orcs and dwarves alienated themselves from oaks. [Druidic traditions](/wiki/druids/) for those races withered and died. Neither orc nor dwarf ever made it that far into the Kingswood again.
 
 Meanwhile, the oak loomed large in the goblin imagination as the symbol of their defeated empire. More and more, to be goblin was to be oak. Crafts that worked with oak grew in prestige; oak-based magic proved destructive against orcs and dwarves; and the feeding of oaks with the blood of dissidents and cowards kept the goblins focused on revenge.
-
-*Quercus *may be a goblin construct, a product of ancient trauma, but it is real. All across the north, groves thrive, druids sharpen their sickles, and goblins prepare to take back what was once theirs.
+* Quercus *may be a goblin construct, a product of ancient trauma, but it is real. All across the north, groves thrive, druids sharpen their sickles, and goblins prepare to take back what was once theirs.
 ## Hooks
-*Are only humans born with belief in gods? Are all humans really born that way?
-*Can *quercus *be learned by others?
-*What is dwarvish stonecunning?
-*What are some of the ingenious galls manufactured by goblins?
-*How does goblin “lightning” work?
-Category:Goblins
-Category:Magic
-Category:Sanglorian
+* Are only humans born with belief in gods? Are all humans really born that way?
+* Can *quercus *be learned by others?
+* What is dwarvish stonecunning?
+* What are some of the ingenious galls manufactured by goblins?
+* How does goblin “lightning” work?
+
+
+

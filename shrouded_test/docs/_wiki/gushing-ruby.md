@@ -11,8 +11,8 @@ media: []
 ---
 A tavern in the blue quarter of [Jahur](/wiki/jahur/). 
 ### Currently in the tavern
-*[Erebus](/wiki/erebus/)
-*A man who carries a fresh [tiger](/wiki/tigers/) skin and therefore may be cursed.
-*[Valderama Bolger](/wiki/valderama-bolger/)![A tiger lays a curse upon its slayer.](/media/TigerSkinning.jpg)
-Category:Buildings
-Category:Jahur
+* [Erebus](/wiki/erebus/)
+* A man who carries a fresh [tiger](/wiki/tigers/) skin and therefore may be cursed.
+* [Valderama Bolger](/wiki/valderama-bolger/)![A tiger lays a curse upon its slayer.](/media/TigerSkinning.jpg)
+
+

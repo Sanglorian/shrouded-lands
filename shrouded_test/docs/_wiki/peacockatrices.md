@@ -18,12 +18,12 @@ Peacockatrice eggs can fetch high prices in **Shuttered, **making the dangerous 
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">Hairy Jack *([37.21](/wiki/37-21/))* also keeps one, but it is a female that lacks the dazzling feathers and petrifying peck of the males of this species. However, he has glued some bright feathers to its tail and hopes that it will serve as a useful decoy.</p>
 #### Connections
-*Peacockatrice eggs can be found at the bottom of Dragon Lake ([25.16](/wiki/25-16/))
+* Peacockatrice eggs can be found at the bottom of Dragon Lake ([25.16](/wiki/25-16/))
 #### Hooks
-*<p lang="en-US" style="margin-bottom:0.14in">A small war? Tell me about it!</p>
-*<p lang="en-US" style="margin-bottom:0.14in">How do Count Seutorian’s gardeners maintain a garden full of peacockatrices?</p>
-*<p lang="en-US" style="margin-bottom:0.14in">Who’s been turned to stone by them?</p>
-*<p lang="en-US" style="margin-bottom:0.14in">Who else owns one?</p>
-Category:Creatures
-Category:The Barrier Range
-Category:Birds
+* <p lang="en-US" style="margin-bottom:0.14in">A small war? Tell me about it!</p>
+* <p lang="en-US" style="margin-bottom:0.14in">How do Count Seutorian’s gardeners maintain a garden full of peacockatrices?</p>
+* <p lang="en-US" style="margin-bottom:0.14in">Who’s been turned to stone by them?</p>
+* <p lang="en-US" style="margin-bottom:0.14in">Who else owns one?</p>
+
+
+

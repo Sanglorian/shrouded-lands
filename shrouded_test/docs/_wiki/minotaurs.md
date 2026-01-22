@@ -21,17 +21,17 @@ A grouping of minotaurs in a steading is a herd, and the minotaurs of Lastmaze a
 Shuttered has signed the [Horn Treaty](/wiki/horn-treaty/), decreeing all minotaurs to be property of the orcish nation. The bull-like minotaurs were always considered semi-heretical by the church of [Alberon](/wiki/alberon/), which sacrifices white cattle.
 
 ## Minotaurs
-*[Ja of the Red](/wiki/ja-of-the-red/)
+* [Ja of the Red](/wiki/ja-of-the-red/)
 
 ## Places
-*Lastmaze ([18.02](/wiki/18-02/))
+* Lastmaze ([18.02](/wiki/18-02/))
 
-*[Empty and bricked up embassy](/wiki/embassies-(shuttered)/)
+* [Empty and bricked up embassy](/wiki/embassies-(shuttered)/)
 
-*Blackhorn's Maze ([39.32](/wiki/39-32/)) was built as an outpost during the [Chimerical Siege](/wiki/chimerical-siege/). Minotaur eyes of fear and flame guard it now.
+* Blackhorn's Maze ([39.32](/wiki/39-32/)) was built as an outpost during the [Chimerical Siege](/wiki/chimerical-siege/). Minotaur eyes of fear and flame guard it now.
 
 ## Connections
-*The gnolls "vigorously and with weapons" dispute the minotaur claim that the lands north of Blackhorn's Maze ([39.31](/wiki/39-31/)) are glazed flat because they were scorched by trailing blood from [Tiamat](/wiki/tiamat/)'s severed red head.
-Category:Creatures
-Category:Peoples
-Category:Chimerics
+* The gnolls "vigorously and with weapons" dispute the minotaur claim that the lands north of Blackhorn's Maze ([39.31](/wiki/39-31/)) are glazed flat because they were scorched by trailing blood from [Tiamat](/wiki/tiamat/)'s severed red head.
+
+
+

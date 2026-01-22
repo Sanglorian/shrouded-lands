@@ -13,6 +13,6 @@ media: []
 ![](/media/Edward_Burne-Jones_-_Perseus.jpeg)A grey worm is found in its lair ([46.06](/wiki/46-06/)). They are known for their rapacious greed and animal cunning, and can swallow a [su-giraffe](/wiki/su-giraffes/) whole - which satiates it for a fortnight.
 
 A fossiled grey worm is caught in battle with a [burning eagle](/wiki/burning-eagles/) in the Fernsbank Fossil ([02.10](/wiki/02-10/)). The Stern Way associates the worm with water. The worm has a larger cousin, which is [purple](/wiki/purple-worms/)
-Category:Creatures
-Category:Worms
-Category:The World's Edge and Beyond
+
+
+

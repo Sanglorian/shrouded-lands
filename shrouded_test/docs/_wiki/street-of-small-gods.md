@@ -20,15 +20,15 @@ Preachers and altars line the street. Priests offer benedictions and heretics pr
 
 There is also food and entertainment to be had here: plays and musical performances, roasted nuts and baked goods, and the so-called [handmaidens and princes of Alberon](/wiki/handmaidens-and-princes-of-alberon/) who offer services that cleverly avoid violating the [Heresies](/wiki/hundred-heresies/) ([29.14](/wiki/29-14/).09).![](/media/Shutt-st_small.jpg)
 ### Connection:
-*The [Tiamatan Revival](/wiki/tiamatan-revival/) is preached here ([29.14.28](/wiki/29-14/)).
-*One of these small gods is [Jahbulon](/wiki/jahbulon/), who speaks to an exiled necromancer ([24.18](/wiki/24-18/)).
-*This street must lead out the [North Gate](/wiki/north-gate/) as according to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/) the god drove his chariot to the North Gate via this street
+* The [Tiamatan Revival](/wiki/tiamatan-revival/) is preached here ([29.14.28](/wiki/29-14/)).
+* One of these small gods is [Jahbulon](/wiki/jahbulon/), who speaks to an exiled necromancer ([24.18](/wiki/24-18/)).
+* This street must lead out the [North Gate](/wiki/north-gate/) as according to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/) the god drove his chariot to the North Gate via this street
 ### Hooks:
-*Why are these Small Gods permitted while the Little Gods are not ([36.09](/wiki/36-09/))?
-*Which small gods are prominent here?
-*What services do the handmaidens and princes offer?
-*What mystery cults operate in the City?
-*What radical messages are preached here?
-Category:Deities
-Category:Buildings
-Category:The Shuttered City
+* Why are these Small Gods permitted while the Little Gods are not ([36.09](/wiki/36-09/))?
+* Which small gods are prominent here?
+* What services do the handmaidens and princes offer?
+* What mystery cults operate in the City?
+* What radical messages are preached here?
+
+
+

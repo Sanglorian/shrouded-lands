@@ -39,14 +39,14 @@ I had no use for pious nonsense, so I set off into the east to the Weeper’s To
 
 In an instant, I found myself transported by the elf’s magic to the waters of the [Sunless Sea](/wiki/sunless-sea/) and my laughter echoed through its measureless caverns for the Weeper had shown me the answer that I had sought.
 ### Connections:
-*A few seelie elves went south into exile with the elves of the unseelie court but were abandoned on the way south ([08.27](/wiki/08-27/)) by the Queen Sinister.
-*A prophet of an imprisoned god claims that his god’s return will bring back the rains ([27.18](/wiki/27-18/).01).
+* A few seelie elves went south into exile with the elves of the unseelie court but were abandoned on the way south ([08.27](/wiki/08-27/)) by the Queen Sinister.
+* A prophet of an imprisoned god claims that his god’s return will bring back the rains ([27.18](/wiki/27-18/).01).
 ### Hooks:
-*What effects does this strange climate have on the land?
-*What is the answer? Why does it rain but once a year? The narrator seems dismissive of the old story about the Queen Sinister and seems to have another answer in mind.
-*The rain awakens the frogs of the Burning Lands. What frogs?
-*What exactly was (is?) a Queen Sinister?
-*Flying monkeys? Of course there are flying monkeys! Tell me about them.
-*Who is the writer of this piece? How did it end up in the Sealed Library?
-Category:Books
-Category:The Shuttered City
+* What effects does this strange climate have on the land?
+* What is the answer? Why does it rain but once a year? The narrator seems dismissive of the old story about the Queen Sinister and seems to have another answer in mind.
+* The rain awakens the frogs of the Burning Lands. What frogs?
+* What exactly was (is?) a Queen Sinister?
+* Flying monkeys? Of course there are flying monkeys! Tell me about them.
+* Who is the writer of this piece? How did it end up in the Sealed Library?
+
+

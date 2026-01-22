@@ -23,13 +23,13 @@ The violet flowers that blossom on the vines can be brewed into a [narcotic tea]
 
 [Shep](/wiki/shep/) the goblin from Uncle Bertie’s Trading Post ([03.08](/wiki/03-08/)) gathers the tea for sale in Uncle Bertie's Trading Post at [Maris](/wiki/maris/)' behest. He is jealous of his treasure and will lead others to their doom.
 ### Connections:
-*One of the idols of the temple had its [ruby eyes](/wiki/rubies/) pried out by [Giles Chosard](/wiki/giles-chosard/) ([09.06](/wiki/09-06/)) and they now are set in the earrings of a young [Elector](/wiki/electors/) named [Ilace](/wiki/ilace/) who is currently staying at Uncle Bertie’s Trading Post ([03.08](/wiki/03-08/)).
-*The design of this temple is very similar to that of the Black Ziggurat ([18.26](/wiki/18-26/)).
-*The rubies of the [Traitor’s Pit](/wiki/traitors-pit/) ([29.14.23](/wiki/29-14/)), the Black Ziggurat ([18.26](/wiki/18-26/)) and the Green Ziggurat all seem to be identical.
-*The [Grimes](/wiki/grimes/) feed occasional sacrifices to the Snake God to placate it.
+* One of the idols of the temple had its [ruby eyes](/wiki/rubies/) pried out by [Giles Chosard](/wiki/giles-chosard/) ([09.06](/wiki/09-06/)) and they now are set in the earrings of a young [Elector](/wiki/electors/) named [Ilace](/wiki/ilace/) who is currently staying at Uncle Bertie’s Trading Post ([03.08](/wiki/03-08/)).
+* The design of this temple is very similar to that of the Black Ziggurat ([18.26](/wiki/18-26/)).
+* The rubies of the [Traitor’s Pit](/wiki/traitors-pit/) ([29.14.23](/wiki/29-14/)), the Black Ziggurat ([18.26](/wiki/18-26/)) and the Green Ziggurat all seem to be identical.
+* The [Grimes](/wiki/grimes/) feed occasional sacrifices to the Snake God to placate it.
 ### Hooks:
-*How is the snake-demon imprisoned? Who imprisoned it?
-*How does Shep gather the tea without being killed?
-Category:Hex
-Category:The Westmarches
-Category:LostSoul
+* How is the snake-demon imprisoned? Who imprisoned it?
+* How does Shep gather the tea without being killed?
+
+
+

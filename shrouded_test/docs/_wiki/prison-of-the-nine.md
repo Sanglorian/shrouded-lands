@@ -24,17 +24,17 @@ While the Society wisely steers clear of this prison a few brave souls venture d
 
 Of the nine one is [Asrigh](/wiki/asrigh/), an ancient wind deity and another is [Unnath the Unborn](/wiki/unnath-the-unborn/), a strange god that once manifested itself in the wombs of virgins, whores and crones giving strange powers and weird commands to its “mother” before moving on to a new vessel.
 ### Connections:
-*An ancient prophesy says that if any of the imprisoned gods are freed the [walls of the City](/wiki/city-walls-shuttered/) will sink forever.
-*The old songs that [Naideen](/wiki/lady-naideen/) of Dinivar knows are hymns to one of the imprisoned gods, and the snakes that she visits are holy to that god ([17.11](/wiki/17-11/)).
+* An ancient prophesy says that if any of the imprisoned gods are freed the [walls of the City](/wiki/city-walls-shuttered/) will sink forever.
+* The old songs that [Naideen](/wiki/lady-naideen/) of Dinivar knows are hymns to one of the imprisoned gods, and the snakes that she visits are holy to that god ([17.11](/wiki/17-11/)).
 ### Hooks:
-*Who are the other seven imprisoned gods?
-*What sort of things leak out from the illusionary world that the gods are fighting over?
-*Do Asrigh or Unnath have any cultists? What happened to Unnath’s mothers?
-*Who is crazy enough to try to break into the prison? What are they after?
-*Who made that prophesy?
-*Whose lore has Naideen uncovered? How?
-Category:Deities
-Category:Buildings
-Category:The Shuttered City
-Category:Alberon
-Category:Undercity
+* Who are the other seven imprisoned gods?
+* What sort of things leak out from the illusionary world that the gods are fighting over?
+* Do Asrigh or Unnath have any cultists? What happened to Unnath’s mothers?
+* Who is crazy enough to try to break into the prison? What are they after?
+* Who made that prophesy?
+* Whose lore has Naideen uncovered? How?
+
+
+
+
+

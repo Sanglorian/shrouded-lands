@@ -20,15 +20,15 @@ This eccentric ogre was not born prescient or docile. He is the result of brain 
 
 Rogdag, of course, has no memory of Hush's experiments. But sometimes he wonders how he got the scar that divides the left and right sides of his head.
 ### Hooks:
-*What other ruins dot the Keening Sea's northern shore?
-*Bearded whales? Giant catfish? Lungfish? What other bounty can you harvest from the Keening Sea?
-*Tell me more about these rocky isles.
-*Who has joined Rogdag in meditation?
-*How exactly can you kidnap an ogre?
-*What about ogre brains interest mindflayers?
-*What other experiments has Hush conducted?
-Category:The Keening Sea
-Category:Ogres
-Category:Characters
-Category:Creatures
-Category:Shuttered and Surrounds
+* What other ruins dot the Keening Sea's northern shore?
+* Bearded whales? Giant catfish? Lungfish? What other bounty can you harvest from the Keening Sea?
+* Tell me more about these rocky isles.
+* Who has joined Rogdag in meditation?
+* How exactly can you kidnap an ogre?
+* What about ogre brains interest mindflayers?
+* What other experiments has Hush conducted?
+
+
+
+
+

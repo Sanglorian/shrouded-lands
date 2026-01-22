@@ -21,23 +21,23 @@ As with many cults, [night cattle](/wiki/night-cattle/) (see the Lands of the Ni
 
 Due to the failure of the Sisterhood's many enemies to root them out, some say that their sacrificial pit is located beneath the lower vaults of the local dwarven [Hoard](/wiki/the-hoard/) ([33.00](/wiki/33-00/)) and that its only entrance lies within the well-guarded premises of the Hoard. But if that is true, why would the dwarves risk so much to shelter such a cult?
 ### Connections:
-*The wives of the Doge are sworn enemies of the Sisterhood ([29.14.08](/wiki/29-14/)).
-*The [Brotherhood of the Spear](/wiki/brotherhood-of-the-spear/), which became the [Temple Invisible](/wiki/temple-invisible/), fought against the sisters for hundreds of years.
-*The Drowning Place ([32.22](/wiki/32-22/)) is a stronghold of the Whispering Sisters.
-*The [Temple Invisible](/wiki/temple-invisible/) ([25.15](/wiki/25-15/)) is attempting to hunt down the Whipering Sisters with little success.
-*The Sisters abduced [Pork Pie Stannev](/wiki/pork-pie-stannev/), the former owner of the Sundial Inn and a worshiper of the [King in Splendor](/wiki/king-in-splendor/), some years past ([25.04](/wiki/25-04/).01).
-*The sisters once used [dead men's tongues](/wiki/dead-mens-tongues/) in their ritual human sacrifices, but no longer.
-*Iraine the Suitor plans to become the third wife of Alberon ([29.14.40](/wiki/29-14/)).
-*The sisters use the [Whispered Caress](/wiki/whispered-caress/)
+* The wives of the Doge are sworn enemies of the Sisterhood ([29.14.08](/wiki/29-14/)).
+* The [Brotherhood of the Spear](/wiki/brotherhood-of-the-spear/), which became the [Temple Invisible](/wiki/temple-invisible/), fought against the sisters for hundreds of years.
+* The Drowning Place ([32.22](/wiki/32-22/)) is a stronghold of the Whispering Sisters.
+* The [Temple Invisible](/wiki/temple-invisible/) ([25.15](/wiki/25-15/)) is attempting to hunt down the Whipering Sisters with little success.
+* The Sisters abduced [Pork Pie Stannev](/wiki/pork-pie-stannev/), the former owner of the Sundial Inn and a worshiper of the [King in Splendor](/wiki/king-in-splendor/), some years past ([25.04](/wiki/25-04/).01).
+* The sisters once used [dead men's tongues](/wiki/dead-mens-tongues/) in their ritual human sacrifices, but no longer.
+* Iraine the Suitor plans to become the third wife of Alberon ([29.14.40](/wiki/29-14/)).
+* The sisters use the [Whispered Caress](/wiki/whispered-caress/)
 
 ### Hooks:
-*What brothels are actually fronts for the Whispering Sisters? What other places do they control?
-*Who in the halls of power answers to the Sisterhood, and why?
-*What's in the caverns beneath the city, and does anyone go down there?
-*Where is the bottomless pit where the sacrifice takes place? Is it really under the Hoard's Vault? Why would the dwarves protect them?
-*What prophecies have been handed down by She Who Waits?
-*Where are Alberon and the Green Lady now? Are they a tangible presence in the setting, or merely figures of myth?
-Category:Religious groups
-Category:Deities
-Category:The Shuttered City
-Category:She Who Waits
+* What brothels are actually fronts for the Whispering Sisters? What other places do they control?
+* Who in the halls of power answers to the Sisterhood, and why?
+* What's in the caverns beneath the city, and does anyone go down there?
+* Where is the bottomless pit where the sacrifice takes place? Is it really under the Hoard's Vault? Why would the dwarves protect them?
+* What prophecies have been handed down by She Who Waits?
+* Where are Alberon and the Green Lady now? Are they a tangible presence in the setting, or merely figures of myth?
+
+
+
+

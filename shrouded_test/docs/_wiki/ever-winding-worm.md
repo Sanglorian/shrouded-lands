@@ -17,14 +17,14 @@ This is a spell whose material component is the most perfectly-formed worm to be
 
 The Necromantic Office never announces its verdicts or gives the accused any chance to defend themselves, which does no favors to those who wonder if the worm has already begun to wind every time they feel a twinge in their chest.
 ### Connection:
-*[Baron Herenghast](/wiki/baron-herenghast/) ([29.14.49](/wiki/29-14/)) has been having chest pains and is panicking, thinking that an ever-winding worm is at work.
+* [Baron Herenghast](/wiki/baron-herenghast/) ([29.14.49](/wiki/29-14/)) has been having chest pains and is panicking, thinking that an ever-winding worm is at work.
 ### Hooks:
-*Who has been condemned to the ever-winding worm?
-*What is necessary to target the victim? Just saying their name? Line of sight? A bit of hair?
-*Is there any oversight to make sure that the Office doesn’t worm the wrong person?
-*What laws does the Office enforce?
-*Does Baron Herenghast suffer from a worm or just poor diet?
-Category:Creatures
-Category:The Shuttered City
-Category:Worms
-Category:Spells
+* Who has been condemned to the ever-winding worm?
+* What is necessary to target the victim? Just saying their name? Line of sight? A bit of hair?
+* Is there any oversight to make sure that the Office doesn’t worm the wrong person?
+* What laws does the Office enforce?
+* Does Baron Herenghast suffer from a worm or just poor diet?
+
+
+
+

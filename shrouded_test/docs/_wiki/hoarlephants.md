@@ -15,6 +15,6 @@ media: []
 The hoarlephant suffers from a continous and exaggerated case of constipation. Everything it eats is stored in its stomach and digested. That which cannot be digested, including bones and armour, remains in the gut, giving a distinctive clanking sound to the creature's movements. Roughly once every three months each hoarlephant will return to the Bone Heap in order to void its bowels. Immediately after this, it will be unusually lean, quick and hungry.
 
 ![](/media/'The_Steam_House'_by_Léon_Benett_088.jpg)The Bone Heap ([50.03](/wiki/50-03/)) is the ancestral defecating ground of the hoarlephants. The bones of a paladin and his mount presumably rest here.
-Category:Creatures
-Category:The World's Edge and Beyond
-Category:Elephants
+
+
+

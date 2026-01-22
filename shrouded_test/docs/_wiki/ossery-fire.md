@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: The Osseries#Ashberries and Ossery Fire
 ---
 #REDIRECT [The Osseries#Ashberries and Ossery Fire](/wiki/the-osseries/)
-Category:Osseries
-Category:Victuals
+
+

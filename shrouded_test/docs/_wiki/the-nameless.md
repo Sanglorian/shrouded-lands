@@ -17,8 +17,8 @@ After the battle, even the Disciples of Othonoi feared the strange knowledge and
 
 Though the orcs still practice the pain-rituals that the Nameless imparted to them, she was always an outcast on the fringes of their society. Much of her deeper teachings were incomprehensible. In her final years, she led an expedition east to the [Withered Moors](/wiki/withered-moors/), and there passed out of record. It is unknown what she was looking for in that bleak place, and whether she found it, but it is known that after she died her followers built a tomb for her which is guarded by the strength of orcish trapcraft ([42.02](/wiki/42-02/)).
 ### Hooks
-*What's inside the Eye of Gruumsh? Did the Nameless really receive a vision from the lords of the underworld?
-*What was the Nameless searching for in the Withered Moors?
-*What is the terrible trial that the lords of the underworld predicted to befall the orcs? Is it coming soon?
-Category:Orcs
-Category:Characters
+* What's inside the Eye of Gruumsh? Did the Nameless really receive a vision from the lords of the underworld?
+* What was the Nameless searching for in the Withered Moors?
+* What is the terrible trial that the lords of the underworld predicted to befall the orcs? Is it coming soon?
+
+

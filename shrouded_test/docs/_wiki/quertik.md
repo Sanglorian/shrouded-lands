@@ -17,6 +17,6 @@ The quertik consists of four suits: Suns, Moons, Caps and Storms. The Caps suit 
 Folklore and slang have grown up around each component. The Lord of Suns is called the king, after the [King in Splendour](/wiki/king-in-splendour/). The Lord of Moons is the Merchant; the six Caps coins are called Drops, the six Moon tiles are named after [Bergolast](/wiki/bergolast/)'s city quarters.
 
 ### Hooks
-*What are the slang terms for the other components? What is their significance?
-*What games are played with a quertik? Have any matches been played that changed the course of history?
-*What are the rules of Cripple Baron Autumn?
+* What are the slang terms for the other components? What is their significance?
+* What games are played with a quertik? Have any matches been played that changed the course of history?
+* What are the rules of Cripple Baron Autumn?

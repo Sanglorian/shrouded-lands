@@ -10,6 +10,6 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-Category:Characters
-Category:Nobles
-Category:The Duchy of Thring
+
+
+

@@ -15,5 +15,5 @@ At the Wedding Band ([30.15](/wiki/30-15/)), the Doge's authority is weak. An **
 [Bogarus Bolger](/wiki/bogarus-bolger/)
 
 [Divinio Ambersmyth](/wiki/divinio-ambersmyth/)
-Category:Professions
-Category:Shuttered and Surrounds
+
+

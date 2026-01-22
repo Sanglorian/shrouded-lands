@@ -10,7 +10,7 @@ categories:
   - "Category:The Moon"
 media: []
 ---
-**Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg)
+* *Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg)
 
 The somnakami, or Cloud Rabbits, are a humanoid people with pale, soft fur and long, rabbit-like ears. They live on the dark side of [The Moon](/wiki/the-moon/), but travel to earth in small rowboats made of [lufwood](/wiki/lufwood/) weighed down with sparkling moonrocks.
 
@@ -19,12 +19,12 @@ They do sometimes come for travel or trade, but recently have sent down prison h
 The prison hulks land at [04.18](/wiki/04-18/). Some of the [Lords Sanguine](/wiki/lords-sanguine/) have already made overtures to the convicts, hoping that their lunar magic could be brought to bear.![https://commons.wikimedia.org/wiki/File:S%C3%A6varma%C3%B0ur.jpg](/media/Sævarmaður.jpg)
 
 ### Hooks
-*Do the moonrocks have any special qualities?
-*What were the two sides in this war in the Heavens?
-*What can lunar magic do?
-*Is there a way that humans can travel to the Moon?
-*Do the moonfolk have mooncalves and mooncakes?
-*Which Sanguine Lords have approached the somnakami?
-Category:Peoples
-Category:The Moon
-Category:Somnakami
+* Do the moonrocks have any special qualities?
+* What were the two sides in this war in the Heavens?
+* What can lunar magic do?
+* Is there a way that humans can travel to the Moon?
+* Do the moonfolk have mooncalves and mooncakes?
+* Which Sanguine Lords have approached the somnakami?
+
+
+

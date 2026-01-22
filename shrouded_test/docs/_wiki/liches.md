@@ -11,11 +11,11 @@ categories:
   - "Category:Wizards"
 media: []
 ---
-*[Supendar](/wiki/supendar/) is described as the arch-lich of [Naros](/wiki/naros/), but was in fact a powerful [dryad](/wiki/dryads/). 
-*[Dracoliches](/wiki/dracoliches/)
-*The [Ostrlich](/wiki/ostrlich/)
-*[Barnabus Bludenoss](/wiki/barnabus-bludenoss/), who became the [Were-Barnabi](/wiki/were-barnabi/), wanted to become immortal so considered becoming a lich, but decided that he did not want to be mad, undead, or hated by mortal society.
-Category:Undead
-Category:Creatures
-Category:Characters
-Category:Wizards
+* [Supendar](/wiki/supendar/) is described as the arch-lich of [Naros](/wiki/naros/), but was in fact a powerful [dryad](/wiki/dryads/).
+* [Dracoliches](/wiki/dracoliches/)
+* The [Ostrlich](/wiki/ostrlich/)
+* [Barnabus Bludenoss](/wiki/barnabus-bludenoss/), who became the [Were-Barnabi](/wiki/were-barnabi/), wanted to become immortal so considered becoming a lich, but decided that he did not want to be mad, undead, or hated by mortal society.
+
+
+
+

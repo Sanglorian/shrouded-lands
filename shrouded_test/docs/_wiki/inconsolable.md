@@ -20,10 +20,10 @@ One of the many boats that can currently be found at the docks of [Jahur](/wiki/
 
 Like all ships that sail from Thalanyl, the Inconsolable shines with the million [human fingernails](/wiki/fingers-and-fingernails/) that cover its white hull. It is whispered that the isle contains a great cauldron in which the body of a brave human can be cooked so that it provides enough meat to feed the entire city for a day.
 ### Hooks:
-*Why is the ship called the Inconsolable?
-*Are the stories about the Isle of Thalanyl true?
-*Why is the soap being sent to the City of Smoke?
-Category:Ships
-Category:Jahur
-Category:Isle of Thalanyl
-Category:City of Smoke
+* Why is the ship called the Inconsolable?
+* Are the stories about the Isle of Thalanyl true?
+* Why is the soap being sent to the City of Smoke?
+
+
+
+

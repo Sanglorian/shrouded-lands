@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: :Category:Draugmere Peaks
 ---
-#REDIRECT:Category:Draugmere Peaks
+#REDIRECT:

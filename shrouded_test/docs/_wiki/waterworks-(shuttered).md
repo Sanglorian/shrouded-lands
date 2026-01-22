@@ -23,7 +23,7 @@ From the heights of the tallest buildings, the water falls in several open air s
 
 The Guild of the Waterworks, the Plumbers, dutifully maintains and expands the system. They are also responsible for the grueling task of raising the canal's ever-sinking basin. The Guild traditionally employs dwarven citizens, but there are humans and halflings on the rolls as well. Those that make it past the apprenticeship of working on pipes in the occasionally dangerous lower levels enjoy very well-paided positions in the forges and upper tiers.
 ### Connections:
-*The waterworks is busiest during the heavy annual rainfall ([29.14.36](/wiki/29-14/)).
-*The workers of the waterworks saved the City from invasion during the [Gnawbone War](/wiki/gnawbone-war/) with the [gnolls](/wiki/gnolls/) of the [Burning Lands](/wiki/burning-lands/) (see the main Burning Land entry and [51.29.01](/wiki/51-29/)).
-Category:Buildings
-Category:The Shuttered City
+* The waterworks is busiest during the heavy annual rainfall ([29.14.36](/wiki/29-14/)).
+* The workers of the waterworks saved the City from invasion during the [Gnawbone War](/wiki/gnawbone-war/) with the [gnolls](/wiki/gnolls/) of the [Burning Lands](/wiki/burning-lands/) (see the main Burning Land entry and [51.29.01](/wiki/51-29/)).
+
+

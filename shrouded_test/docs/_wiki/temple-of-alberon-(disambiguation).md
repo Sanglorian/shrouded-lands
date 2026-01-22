@@ -10,9 +10,8 @@ media: []
 ---
 May refer to:
 
-*The [Temple of Alberon](/wiki/temple-of-alberon/), cursed heterodox worshippers of Alberon.
+* The [Temple of Alberon](/wiki/temple-of-alberon/), cursed heterodox worshippers of Alberon.
+* The [Great Temple of Alberon](/wiki/great-temple-of-alberon/)
 
-*The [Great Temple of Alberon](/wiki/great-temple-of-alberon/)
+* The [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/)
 
-*The [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/)
-Category:Disambiguation

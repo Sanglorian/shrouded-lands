@@ -20,12 +20,12 @@ Undeterred, the mechanism sent another army and another and another and still to
 
 If not killed for sport by bands of [gnolls](/wiki/gnolls/), the [gibberlings](/wiki/gibberlings/) march through the Burning Lands hacking to pieces anything that cannot escape them until they die of hunger, thirst or exhaustion. Their course can easily be charted by the flocks of [vultures](/wiki/vultures/) that fly above them ([38.27](/wiki/38-27/)) waiting to feast on their corpses. The gnolls als![](/media/3126.png)o pick over them, as their bronze knives are a rare source of metal in the mineral-poor Burning Lands. This is often an occasion for squabbling between various gnollish clans, which the [dwarves](/wiki/dwarves/) ([31.27](/wiki/31-27/)) sometimes take advantage of by marching in to claim the monthly crop of blades for themselves.
 ### Hooks:
-*Who was the hero who is the template for the gibblings?
-*Is that hero still alive and insane locked down in a cave somewhere? Where?
-*Why is the gibberling army still sent ever new moon, so many years after the fall of Bergolast?
-*Is it possible to catch a gibberling and cure its madness? What would it have to say? Has anyone done this?
-Category:Humans
-Category:Creatures
-Category:Peoples
-Category:Bergolast
-Category:The Burning Lands
+* Who was the hero who is the template for the gibblings?
+* Is that hero still alive and insane locked down in a cave somewhere? Where?
+* Why is the gibberling army still sent ever new moon, so many years after the fall of Bergolast?
+* Is it possible to catch a gibberling and cure its madness? What would it have to say? Has anyone done this?
+
+
+
+
+

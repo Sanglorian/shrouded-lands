@@ -10,9 +10,8 @@ categories:
 media: []
 ---
 Previously known as **Stodfost**.
+* [Terise of Steadfast](/wiki/terise-of-steadfast/)
 
-*[Terise of Steadfast](/wiki/terise-of-steadfast/)
+* [20.13](/wiki/20-13/)
 
-*[20.13](/wiki/20-13/)
-Category:Families
-Category:Humans
+

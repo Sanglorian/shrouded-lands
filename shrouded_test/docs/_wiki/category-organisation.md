@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: :Category:Organization
 ---
-#REDIRECT :Category:Organization
+#REDIRECT :

@@ -35,8 +35,8 @@ Region: the Bitter Coast
 Like so much else about the people of the borough of Everdark their clothes are not like those of other men. They wear black robes woven from the long vanes of the feathers of great [rocs](/wiki/rocs/) ([01.01](/wiki/01-01/)) which are not only waterproof but quite warm and comfortable.
 
 ### Hooks:
-*-Any living rocs about?
-*-Do roc robes have another other useful properties?
+* -Any living rocs about?
+* -Do roc robes have another other useful properties?
 
 ## Shrine of the Hilt
 The [Knife of Jarmond's](/wiki/jarmond-of-the-knife/) hilt lies in a small shrine atop Mount Lorca, one of the clouded mountains surrounding Everdark. [Alberon](/wiki/alberon/), in the form of a squire, commanded the archmage [Vilenius Arkhouse](/wiki/vilenius-arkhouse/) to keep the hilt of the prophet's knife in a place shrouded by perpetual clouds. After extensive research, he found Everdark's current location to be the cloudiest place in the Shrouded Lands, and built a shrine to house the hilt. It is said that when sunlight touches the hilt again, it must be reunited with the blade and given to Alberon's new prophet.
@@ -45,14 +45,14 @@ The [Temple Indivisible](/wiki/temple-indivisible/) has made a plausible claim t
 
 Every year on [The Youth's Day](/wiki/the-youths-day/), four young men from Everdark place the hilt in a ceremonial ark and carry it down Mount Lorca's treacherous paths to the town square. When it arrives, a festival begins. The King of Dogs is crowned at the end of the festival, and the four young men are sent off to find wives. After the farewell, four silent, cloaked figures appear and carry the ark back to the shrine.
 ### Hooks
-*Why was the Knife separated? Where is the blade?
-*What will happen when Alberon has a new prophet?
-*Has Vilenius Arkhouse "retired" from wizardry, or is the powerful archmage still meddling in world affairs?
-*Has Alberon ever appeared in Everdark?
-*What duties and privileges does the King of Dogs have?
-*How often do the young men in the ceremony return to Everdark?
-*Who are the cloaked figures that carry the ark back to shrine?
-Category:Hex
-Category:The Bitter Coast
-Category:The Shuttered City
-Category:Electric Wizard
+* Why was the Knife separated? Where is the blade?
+* What will happen when Alberon has a new prophet?
+* Has Vilenius Arkhouse "retired" from wizardry, or is the powerful archmage still meddling in world affairs?
+* Has Alberon ever appeared in Everdark?
+* What duties and privileges does the King of Dogs have?
+* How often do the young men in the ceremony return to Everdark?
+* Who are the cloaked figures that carry the ark back to shrine?
+
+
+
+

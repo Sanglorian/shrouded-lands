@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 Svetlana is the large-bosomed wife of [Regulus Verlime](/wiki/regulus-verlime/), the owner of the Sundial Inn ([25.04](/wiki/25-04/)). She runs the Inn. [Elfard Gollens](/wiki/elfard-gollens/) is romantically interested in her, but it is unclear if his feelings are reciprocated.
-Category:Characters
-Category:Verlimes
+
+

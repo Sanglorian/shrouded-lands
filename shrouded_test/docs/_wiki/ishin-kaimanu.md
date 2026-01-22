@@ -14,7 +14,7 @@ The desperate cannibalistic derro that now huddle in the Trench of the Battle Hi
 
 On his-her death bed, the Lord divided the Stein between his-her two offspring, saying that he-she could not decide between them. When the Lord's body was barely cold, the two heirs lead their followers against each other, both attempting to reform the Stein and claim leadership of the whole clan. Neither was able to prevail and Clan Battle Beard slowly degenerated into vicious packs of degenerate wretches.
 ## Hooks
-*Why was Clan Battle Beard exiled?
-Category:Dwarves
-Category:Families
-Category:The Westmarches
+* Why was Clan Battle Beard exiled?
+
+
+

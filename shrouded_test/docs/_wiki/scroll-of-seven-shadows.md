@@ -17,11 +17,11 @@ Also kept in the [Sealed Library](/wiki/sealed-library/) is this scroll, though 
 
 The last section of the scroll is written in a different hand, terse and cryptic. It seems to imply that when the Tarrasque is slain, the properties of the beast's blood will be instantly inverted. Instead of granting life, they will bring death; all trolls and other such descendants will be destroyed instantly. Furthermore, the seventh spear will become indelibly coated in the blood and made into the most deadly weapon ever forged; a weapon with the power to slay even a god... ([29.14.19](/wiki/29-14/))
 ### Hooks:
-*How exactly was Bergolast founded? Where did the founders acquire these seven spears?
-*Was the seventh spear forged from the same metal as the Broken Spear ([40.06](/wiki/40-06/))? Apparently the Broken Spear was used to kill [Tiamat](/wiki/tiamat/). Does that mean that the Broken Spear was also doused in the lifeblood of a Tarrasque?
-*Does the Temple Invisible want to get their hands on this seventh spear? Even if they did, who would wield it? Would they give the spear to the [Lion in Splendor](/wiki/lion-in-splendor/)? How exactly do you give a weapon to the Sun?
-*Let's say that the Lion in Splendor does slay his nameless wife ([17.07](/wiki/17-07/).03). What happens then? Do we get a day that lasts forever? What exactly is 'purifying flame'?
-Category:Books
-Category:The King in Splendour
-Category:Bergolast
-Category:Alberon
+* How exactly was Bergolast founded? Where did the founders acquire these seven spears?
+* Was the seventh spear forged from the same metal as the Broken Spear ([40.06](/wiki/40-06/))? Apparently the Broken Spear was used to kill [Tiamat](/wiki/tiamat/). Does that mean that the Broken Spear was also doused in the lifeblood of a Tarrasque?
+* Does the Temple Invisible want to get their hands on this seventh spear? Even if they did, who would wield it? Would they give the spear to the [Lion in Splendor](/wiki/lion-in-splendor/)? How exactly do you give a weapon to the Sun?
+* Let's say that the Lion in Splendor does slay his nameless wife ([17.07](/wiki/17-07/).03). What happens then? Do we get a day that lasts forever? What exactly is 'purifying flame'?
+
+
+
+

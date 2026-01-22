@@ -32,12 +32,12 @@ Not all of these creatures have been definitively listed as undead. Some, like t
 * There are undead cows in the [Sealed Embassy of Naros](/wiki/sealed-embassy-of-naros/).
 * It's not clear if either variety of [mummy](/wiki/mummies/), the mellified mummy or the ice mummies, are undead.
 * [Corpse trees](/wiki/corpse-trees/) "grow" in [11.11](/wiki/11-11/)
-** [Fughol the Ageless](/wiki/fughol-the-ageless/) is becoming undead by eating corpse acorn pemmican produced by corpse trees.
+* * [Fughol the Ageless](/wiki/fughol-the-ageless/) is becoming undead by eating corpse acorn pemmican produced by corpse trees.
 
 ### Connections
 * [Blind dogs](/wiki/blind-dogs/) bark in the presence of ghosts and spirits; some bark at all undead. A rare few have barks that drive off the undead.
 * [Corpse-slather](/wiki/corpse-slather/) fuses two dead or undead bodies.
 * Some say that sprinkling [beer](/wiki/beer/) across a path will keep vengeful dead away.
-Category:Undead
-Category:Creatures
-Category:Necromancers
+
+
+

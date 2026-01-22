@@ -38,49 +38,32 @@ The rugged dwarves that undertake these duties bring their wagons out of Titan�
 Barca Enmordet ([49.03](/wiki/49-03/)) is one example.
 
 ## Hex Summary
-***[42.07](/wiki/42-07/) (The West Reach):** one of the easier placed to climb down the World’s Edge.
-
-***[43.08](/wiki/43-08/) (The Weeper’s Tower):** the wisest of elven sages lives here at the top of a mile-high waterfall.
-
-***[44.03](/wiki/44-03/) (The Fallsalt Mines):** something is going wrong in this remote salt mine.
-
-***[45.09](/wiki/45-09/) (The Kobold Exodus): **a huge migration of kobolds is swarming up this segment of the World’s Edge.
-
-***[46.01](/wiki/46-01/) (The Misplaced Obelisk):** strange creatures are seen around this Jahari obelisk.
-
-***[46.02](/wiki/46-02/) (The Disciples of Cleramon): **bards and enchanted table salt can be a dangerous combination.
-
-***[46.06](/wiki/46-06/) (The Lair of the Grey Worm): **it feeds on the su-giraffes that water here.
-
-***[46.10](/wiki/46-10/) (The Lost Lighthouse):** an ancient lighthouse now lying in ruin with mad anti-elven graffiti marking the walls.
-
-***[47.00](/wiki/47-00/) (The Cloud Forests):** the source of the poisons favored by the Smiling Men.
-
-***[47.11](/wiki/47-11/) (The Wedge-Stone): **the stone prevents the Keening Sea from draining down and drowning the jungles beyond the World’s Edge.
-
-***[49.03](/wiki/49-03/) (Strike the Earth):** the most remote outpost of the dwarven Hoard.
-
-***[49.09](/wiki/49-09/) (The Forest of Falling Bears): **better wear a hat.
-
-***[49.11](/wiki/49-11/) (Asrigh’s Portal): **this ruined temple swarms with harpies.
-
-***[50.03](/wiki/50-03/) (The Bone Heap):** due to the habits of carnivorous constipated hoarlephants there is a vast pile of bones here from many species.
-
-***[50.04](/wiki/50-04/) (Gatherer-of-Bones):** bone golems are busy at work sorting the bones of the Bone Heap.
-
-***[50.11](/wiki/50-11/) (Birds of Paradise):** all who harm them are cursed, which is exploited by men of devious minds.
-
-***[51.12](/wiki/51-12/) (Melnir’s Mount):** the ancient mage raised a volcano here to keep the Keening Sea in its bed.
+* **[42.07](/wiki/42-07/) (The West Reach):** one of the easier placed to climb down the World’s Edge.
+* **[43.08](/wiki/43-08/) (The Weeper’s Tower):** the wisest of elven sages lives here at the top of a mile-high waterfall.
+* **[44.03](/wiki/44-03/) (The Fallsalt Mines):** something is going wrong in this remote salt mine.
+* **[45.09](/wiki/45-09/) (The Kobold Exodus): **a huge migration of kobolds is swarming up this segment of the World’s Edge.
+* **[46.01](/wiki/46-01/) (The Misplaced Obelisk):** strange creatures are seen around this Jahari obelisk.
+* **[46.02](/wiki/46-02/) (The Disciples of Cleramon): **bards and enchanted table salt can be a dangerous combination.
+* **[46.06](/wiki/46-06/) (The Lair of the Grey Worm): **it feeds on the su-giraffes that water here.
+* **[46.10](/wiki/46-10/) (The Lost Lighthouse):** an ancient lighthouse now lying in ruin with mad anti-elven graffiti marking the walls.
+* **[47.00](/wiki/47-00/) (The Cloud Forests):** the source of the poisons favored by the Smiling Men.
+* **[47.11](/wiki/47-11/) (The Wedge-Stone): **the stone prevents the Keening Sea from draining down and drowning the jungles beyond the World’s Edge.
+* **[49.03](/wiki/49-03/) (Strike the Earth):** the most remote outpost of the dwarven Hoard.
+* **[49.09](/wiki/49-09/) (The Forest of Falling Bears): **better wear a hat.
+* **[49.11](/wiki/49-11/) (Asrigh’s Portal): **this ruined temple swarms with harpies.
+* **[50.03](/wiki/50-03/) (The Bone Heap):** due to the habits of carnivorous constipated hoarlephants there is a vast pile of bones here from many species.
+* **[50.04](/wiki/50-04/) (Gatherer-of-Bones):** bone golems are busy at work sorting the bones of the Bone Heap.
+* **[50.11](/wiki/50-11/) (Birds of Paradise):** all who harm them are cursed, which is exploited by men of devious minds.
+* **[51.12](/wiki/51-12/) (Melnir’s Mount):** the ancient mage raised a volcano here to keep the Keening Sea in its bed.
 
 ## Connections
-*The Maw ([46.00](/wiki/46-00/)) is a great canyon that extends from the World’s Edge deep into the Grey Mountains.
-
-*Many of the strange beasts than can be found beyond the World’s Edge were once penned in the Menagerie of Pandelar ([29.14.04](/wiki/29-14/)). The orcs of Grumlada are eager customers of these beasts ([29.14.11](/wiki/29-14/)).
+* The Maw ([46.00](/wiki/46-00/)) is a great canyon that extends from the World’s Edge deep into the Grey Mountains.
+* Many of the strange beasts than can be found beyond the World’s Edge were once penned in the Menagerie of Pandelar ([29.14.04](/wiki/29-14/)). The orcs of Grumlada are eager customers of these beasts ([29.14.11](/wiki/29-14/)).
 
 ## Hooks
-*What cataclysm caused World's Edge to take its current shape?
-*Are the rumors true, about travellers emerging from the savage forest?
-*Why is there no civilization beyond the cliffs?
-*Where do the monsters of the forest come from, and what makes them different from those of the world above?
-Category:Regions
-Category:The World's Edge and Beyond
+* What cataclysm caused World's Edge to take its current shape?
+* Are the rumors true, about travellers emerging from the savage forest?
+* Why is there no civilization beyond the cliffs?
+* Where do the monsters of the forest come from, and what makes them different from those of the world above?
+
+

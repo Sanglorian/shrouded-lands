@@ -22,5 +22,5 @@ Includes hexes: [41.02](/wiki/41-02/), [42.02](/wiki/42-02/), [43.03](/wiki/43-0
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">[43.03](/wiki/43-03/) (Master Var’s Cave): the home of the greatest troll artist in these lands. Perhaps you would like to purchase a ship in the bottle fashioned from human fingernails or an oblation bowl made of silvered-inlaid puppy skulls? </span></p>
 [44.01](/wiki/44-01/) (The Ruined Hut): lies abandoned due to a surfeit of spider monkeys.
-Category:Regions
-Category:The Withered Moors
+
+

@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Great cacti
 ---
 #REDIRECT[Great cacti](/wiki/great-cacti/)
-Category:Synonyms
+

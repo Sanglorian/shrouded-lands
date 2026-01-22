@@ -11,4 +11,4 @@ media: []
 The Drinker's Mouth ([04.02](/wiki/04-02/)) is a volcano that has not erupted for a long time, but the dwarves believe it will belch forth molten iron on the appointed day.![](/media/11307154523_a4fdface21_o.jpg)
 
 Mirror Lake ([37.01](/wiki/37-01/)) is in the caldera of a dormant volcano. 
-Category:Phenomena
+

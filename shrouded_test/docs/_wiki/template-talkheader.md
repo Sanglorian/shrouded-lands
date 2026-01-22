@@ -22,8 +22,8 @@ This is the talk page for discussing {{{1|improvements to the :{{SUBJECTPAGENAME
 * **Put new text under old text.** [{{fullurl:{{TALKPAGENAMEE}}|action=edit&section=new}} Click here to start a new topic].
 * If you're new to the wiki, please take a look at the **[talk page help](/wiki/helptalk-page/)**.
 | class="title" style="text-align:left;" |
-*Be polite
-*Assume good faith
-*Be welcoming
+* Be polite
+* Assume good faith
+* Be welcoming
 |}<noinclude>
 {{documentation}}</noinclude>

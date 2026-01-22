@@ -27,17 +27,17 @@ Celine fared differently. The face of the sun, which she had never before seen, 
 
 Thus, while it is Eliana who speaks about organizing a company of female warriors to attack to citadel of the Whispering Sisters ([32.22](/wiki/32-22/)), she does it out of love for her sister as when they meet at every dawn and every dusk Celine never fails to speak of the peril of the Sisters.
 ### Connections:
-*The wives favor the clocks made at the works of [Albus Flidge](/wiki/albus-flidge/), which may not be wise.
-*One of Flidge's watches is whispering to the wives when they sleep alongside the [Blind Doge](/wiki/blind-doge/)
-*Selene owns a pearl shop that she uses to keep tabs on who is buying pearls as the material component of identify spells ([29.14](/wiki/29-14/).38).
+* The wives favor the clocks made at the works of [Albus Flidge](/wiki/albus-flidge/), which may not be wise.
+* One of Flidge's watches is whispering to the wives when they sleep alongside the [Blind Doge](/wiki/blind-doge/)
+* Selene owns a pearl shop that she uses to keep tabs on who is buying pearls as the material component of identify spells ([29.14](/wiki/29-14/).38).
 
 ### Hooks:
-*Do the Whispering Sisters truly seek to destroy Celine?
-*What other fashions has Eliana popularized?
-*What is life like within the keeps of the Land of the Night Cattle?
-*What other paranoid whisperings is Celine engaged in?
-*Have either of the twins had children by the blind Doge?
-*Was the priest's ruling that the twins share one soul true? What temple law is he basing that interpretation on?
-Category:Characters
-Category:Doges
-Category:The Shuttered City
+* Do the Whispering Sisters truly seek to destroy Celine?
+* What other fashions has Eliana popularized?
+* What is life like within the keeps of the Land of the Night Cattle?
+* What other paranoid whisperings is Celine engaged in?
+* Have either of the twins had children by the blind Doge?
+* Was the priest's ruling that the twins share one soul true? What temple law is he basing that interpretation on?
+
+
+

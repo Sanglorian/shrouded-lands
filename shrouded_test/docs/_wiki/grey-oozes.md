@@ -20,11 +20,11 @@ If you follow the oozes down into deep into the Undercity you will find their so
 
 Ghar Zaghoan has grown increasingly bored over the centuries and he hopes that his grey oozes will bring him people who were more entertaining than the last batch.
 ### Hooks:
-*Why do the troglodytes go after the grey oozes with special fervor?
-*Who has been paralyzed by grey ooze and taken down to entertain Ghar Zaghoan?
-*What does such a presence from another plane consider entertaining?
-*Is there any way for him to get unstuck?
-Category:Creatures
-Category:The Shuttered City
-Category:Oozes
-Category:Undercity
+* Why do the troglodytes go after the grey oozes with special fervor?
+* Who has been paralyzed by grey ooze and taken down to entertain Ghar Zaghoan?
+* What does such a presence from another plane consider entertaining?
+* Is there any way for him to get unstuck?
+
+
+
+

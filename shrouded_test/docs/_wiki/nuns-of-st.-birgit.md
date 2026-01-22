@@ -21,15 +21,15 @@ Years ago, the Sisters of St. Birgit took in a haggard, wounded [Gorean](/wiki/l
 
 On full moons, a pack of habit-clad werewolves stalk these hills, seeking blood. The werewolf nuns are a bane to both [Thring](/wiki/thring/) and Gore, but neither side has successfully assailed the fortified abbey. The ivy on the walls are enchanted to strangle any men who attempt to scale the walls, and its doors withstand fire and battering rams. Often, questing knights from either kingdom meet in the hills and clash before they can reach the abbey.
 ### Hooks
-*Who is St. Birgit?
-*Why was an abbey built on this dangerous frontier?
-*What became of the werewolf knight and his lover?
-*Are the nuns still world-class healers, or have they descended completely into savagery?
-*What treasures lie in the dungeons beneath the abbey?
-Category:Religious groups
-Category:The Lands of Gore
-Category:The Duchy of Thring
-Category:Lycanthropes
-Category:Werewolves
-Category:Monks
-Category:Priests
+* Who is St. Birgit?
+* Why was an abbey built on this dangerous frontier?
+* What became of the werewolf knight and his lover?
+* Are the nuns still world-class healers, or have they descended completely into savagery?
+* What treasures lie in the dungeons beneath the abbey?
+
+
+
+
+
+
+

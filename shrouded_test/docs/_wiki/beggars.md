@@ -24,7 +24,7 @@ A pompous beggar named the [Squatter King](/wiki/squatter-king/) holds court in 
 Beggars live in a swamp near [Castle Tarengael](/wiki/castle-tarengael/) to loot the bodies of the losers of the [Challenge of the Hand](/wiki/challenge-of-the-hand/).
 
 The most wretched beggars are at the Piss-and-Shit Castle.
-Category:Professions
-Category:The Shuttered City
-Category:The Duchy of Thring
-Category:Bergolast
+
+
+
+

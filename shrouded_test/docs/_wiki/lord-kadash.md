@@ -15,8 +15,8 @@ media: []
 : Not be be confused with [Lord Kardash](/wiki/lord-kardash/), a Sanguine Lord. 
 
 The **Thief-Lord**, the lord of the Fourth Castle. See [18.11](/wiki/18-11/) for more.
-Category:Lords of Thring
-Category:Thieves
-Category:Jahuri
-Category:The Duchy of Thring
-Category:Nobles
+
+
+
+
+

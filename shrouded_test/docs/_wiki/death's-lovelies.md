@@ -23,13 +23,13 @@ The treasure that the Lovelies collect they have almost no use for. Most of it i
 
 More mysteriously, it seems that the current Hog is searching for something in the lands south of Blind Midshotgatepool. Some members of the Lovelies hint at an overarching purpose that has been passed down from the first Hog, though none can say what it might be.
 ### Hooks:
-*If the dreams aren't merely psychosomatic, then is there any truth to the beliefs of Death's Lovelies?
-*Where's this dragon turtle? Did the Lovelies manage to kill it or is it still extant?
-*What's the original significance of the cairn?
-*What kind of treasure have the Lovelies acquired? Is there anything that's worth dealing with the poisons and curses?
-*What is the Yellow Pool of Ondos?
-*What is the Hog really planning? Does he/she want to get revenge on the Shuttered City?
-Category:Organisations
-Category:Brigands
-Category:Blind Midshotgatepool
-Category:Maladies
+* If the dreams aren't merely psychosomatic, then is there any truth to the beliefs of Death's Lovelies?
+* Where's this dragon turtle? Did the Lovelies manage to kill it or is it still extant?
+* What's the original significance of the cairn?
+* What kind of treasure have the Lovelies acquired? Is there anything that's worth dealing with the poisons and curses?
+* What is the Yellow Pool of Ondos?
+* What is the Hog really planning? Does he/she want to get revenge on the Shuttered City?
+
+
+
+

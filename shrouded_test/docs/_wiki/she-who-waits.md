@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 Worshipped by the [Whispering Sisters](/wiki/whispering-sisters/). According to them, she was [Alberon](/wiki/alberon/)'s consort before he fell for - and married, and later [divorced](/wiki/great-divorce/) - the [Green Lady](/wiki/green-lady/). He spurned and entombed her. 
-Category:Deities
-Category:She Who Waits
+
+

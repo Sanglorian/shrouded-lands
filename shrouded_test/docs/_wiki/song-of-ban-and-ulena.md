@@ -45,13 +45,13 @@ Trimueil's epic poem of the same name was lost in a mysterious dungeon of the Im
 
 The epic poem is a retelling of the founding of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/), beginning with the arrival of the [five founders](/wiki/five-founders/) on the shores of the [Keening Sea](/wiki/keening-sea/) and ending with the companions' tragic death. Trimueil subsequently felt unable to conjure up the creative energies to re-write the entire manuscript, and as a result the work is considered lost. However, scholars in the [Shuttered City](/wiki/shuttered-city/) would pay an exorbitant price for the poem to be recovered. 
 ### Hooks:
-*Is there some connection between the meter of the script of the Song of Ban and Ulena and the songs of the leviathans ([00.06.01](/wiki/00-06/))? What else could explain its apparent ability to bridge the gap between this world and the land of dreams?
-*Who is Lucin exactly?
-*Did the strange events of the casting of the Song of Ban and Ulena have* any permanent effects?
-*Who was (is?) the Green Witch?
-Category:Works
-Category:Plays
-Category:Seutorians
-Category:The Shuttered City
-Category:The Duchy of Thring
-Category:Trimueil
+* Is there some connection between the meter of the script of the Song of Ban and Ulena and the songs of the leviathans ([00.06.01](/wiki/00-06/))? What else could explain its apparent ability to bridge the gap between this world and the land of dreams?
+* Who is Lucin exactly?
+* Did the strange events of the casting of the Song of Ban and Ulena have* any permanent effects?
+* Who was (is?) the Green Witch?
+
+
+
+
+
+

@@ -22,18 +22,18 @@ Tief's largest holding is Baelton ([42.11](/wiki/42-11/)), home to several hundr
 Their appearances and talents are as varied as the types of birds in the trees. But many second and third generation tieflings have horns, vestigal tails and unusual body odor that many suspect to be signs of demonic heritage.
 
 ### Connections
-*Abdul (5.04) has no genetic traits that interest Tief at the moment, so he is allowed to live with little interference.
-*The folk of the Cornfields ([03.30](/wiki/03-30/)) are tieflings with scizophrenic tendencies. He keeps them far from the rest of the population, keeping them intact for when he wants to produce sorcerers.
+* Abdul (5.04) has no genetic traits that interest Tief at the moment, so he is allowed to live with little interference.
+* The folk of the Cornfields ([03.30](/wiki/03-30/)) are tieflings with scizophrenic tendencies. He keeps them far from the rest of the population, keeping them intact for when he wants to produce sorcerers.
 
 ### Hooks
-*How does Tief get around?
-*Over which castle in Gore did he rule? Does he still have influence in that land?
-*He was an epic hedonist. Tell me about his escapades!
-*Did he breed any new creatures before giving up on it?
-*Where did Tief get his terrifying invisible arm?
-*Are there any mutation "hotspots" in the Shouded Lands?
-*What abilities do tieflings possess? What do the Witch Clans think of them?
-*Where are Tief's other villages?
-Category:Creatures
-Category:Peoples
-Category:Fiends
+* How does Tief get around?
+* Over which castle in Gore did he rule? Does he still have influence in that land?
+* He was an epic hedonist. Tell me about his escapades!
+* Did he breed any new creatures before giving up on it?
+* Where did Tief get his terrifying invisible arm?
+* Are there any mutation "hotspots" in the Shouded Lands?
+* What abilities do tieflings possess? What do the Witch Clans think of them?
+* Where are Tief's other villages?
+
+
+

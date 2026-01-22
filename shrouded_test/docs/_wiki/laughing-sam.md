@@ -18,8 +18,8 @@ A rocky peninsula ([01.05](/wiki/01-05/)) juts into the Ocean of Bitter Regrets 
 
 <p align="left" class="MsoNormal" style="margin-bottom:6pt;">Sam was one of the dryads who escaped Naros, but he has forgotten that nation's fall in the horror of diaspora. </p>
 <span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">Sam cannot move beyond the peninsula, and his selkie friends will ask him to pass on requests for brave surface dwellers.</span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1"> R</span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">ecent problems include the King of Salt and Brine ([00.06](/wiki/00-06/)) swallowing a selkie shield maiden’s helm and the Pirate Kings making underwater raids.</span>
-Category:Characters
-Category:Creatures
-Category:Dryads
-Category:Naros
-Category:The Bitter Coast
+
+
+
+
+

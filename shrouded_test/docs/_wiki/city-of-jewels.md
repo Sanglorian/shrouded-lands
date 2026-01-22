@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Jahur
 ---
 #REDIRECT[Jahur](/wiki/jahur/)
-Category:Synonyms
+

@@ -20,10 +20,10 @@ They have none of the Swordsage's ([11.15](/wiki/11-15/)) art so they mingle the
 
 Each kill that they may in the Lady’s name allows them to add a band of red to their shields.
 #### Hooks
-*One of these snickersees is [Elwen](/wiki/elwen/), a leader of [The Browncloaks](/wiki/the-browncloaks/) ([08.01](/wiki/08-01/)). [Gareth Lemarr](/wiki/the-daughter-of-ser-gareth-lemarr/) was another - his shield was entirely red
-*What other famous snickersnees are there?
-Category:Organisations
-Category:The Lands of Gore
-Category:Lords Sanguine
-Category:Professions
-Category:Knights
+* One of these snickersees is [Elwen](/wiki/elwen/), a leader of [The Browncloaks](/wiki/the-browncloaks/) ([08.01](/wiki/08-01/)). [Gareth Lemarr](/wiki/the-daughter-of-ser-gareth-lemarr/) was another - his shield was entirely red
+* What other famous snickersnees are there?
+
+
+
+
+

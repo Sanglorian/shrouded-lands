@@ -16,9 +16,9 @@ The [Idjits](/wiki/idjits/), or the Disciples of the Spire, are a group of alche
 
 In addition to the danger of being beneath a raging, eternal lightning storm, they must contend with "tempest spawn" - chaotic bits of fire, wind, earth or water that combine into bizarre physical forms and attack the Idjits and their creations. Many Idjits believe that the spawn are the work of saboteurs. Suspects include the [Holy Fools](/wiki/holy-fools/) and a rival wizard guild, the [Broken Wands](/wiki/broken-wands/).
 ## Connection
-*[The thieves of the August City](/wiki/thieves-guild-(blind-midshotgatepool)/) use memory-stealing birds of paradise on guild members who know too much but are too important to be killed.
-Category:Organisations
-Category:Alchemists
-Category:Elementalists
-Category:Magic
-Category:The Singing Wastes
+* [The thieves of the August City](/wiki/thieves-guild-(blind-midshotgatepool)/) use memory-stealing birds of paradise on guild members who know too much but are too important to be killed.
+
+
+
+
+

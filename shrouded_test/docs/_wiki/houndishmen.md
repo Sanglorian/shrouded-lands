@@ -13,8 +13,8 @@ categories:
 media: []
 ---
 The residents of Hound's Heath ([05.12](/wiki/05-12/)).
-Category:Peoples
-Category:Dogtur
-Category:Houndishmen
-Category:Humans
-Category:The Westmarches
+
+
+
+
+

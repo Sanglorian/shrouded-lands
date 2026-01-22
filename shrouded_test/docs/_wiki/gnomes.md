@@ -31,8 +31,8 @@ Gnomes serving as Giants' Mortar also let [Loguiso's Wall](/wiki/loguiso's-wall/
 There is a Gnomish Quarter in Shuttered; one of its key features is the [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) - of whom a gnome is the High Priestess. 
 
 ## Other
-* [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) is a reference to a gnome pirate (possibly legendary) who fell in love with a stone giant. 
+* [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) is a reference to a gnome pirate (possibly legendary) who fell in love with a stone giant.
 * The [deep dwarves](/wiki/deep-dwarves/) hate gnomes and gouge their eyes out, due to their grudge related to the gnomish betrayal of the [Shuttered City](/wiki/shuttered-city/). 
 
-Category:Peoples
-Category:Gnomes
+
+

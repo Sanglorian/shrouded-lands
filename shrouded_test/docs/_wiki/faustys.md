@@ -16,9 +16,9 @@ Each member of the Fausty family is accompanied by a monster that comes from bey
 
 The monsters are clearly alien. One boy is followed by a clockwork eye with wings of glass and mithril. It speaks only in mathematical formulae. A scion of the family is followed about by a colourful and bounding great [Galloon](/wiki/galloons/), rabbit-eared and poodle-tailed. A girl born last year has already summoned a great [black mastiff](/wiki/black-mastiffs/) that the matrons say once collected the dead with the Wild Hunt ([31.07](/wiki/31-07/)).
 #### Hooks
-*Do the Wild Hunts really collect the dead, or is that Clanswoman gossip?
-*What other companion beasts do Faustys have?
-*Do any of these extraplanar beings exist in the Shrouded Lands other than as Fausty companions?
-Category:Families
-Category:Witch Clans
-Category:The Barrier Range
+* Do the Wild Hunts really collect the dead, or is that Clanswoman gossip?
+* What other companion beasts do Faustys have?
+* Do any of these extraplanar beings exist in the Shrouded Lands other than as Fausty companions?
+
+
+

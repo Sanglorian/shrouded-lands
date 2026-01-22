@@ -12,4 +12,4 @@ General wiki templates. Templates in this category will likely have a descriptio
 
 {{Templatecategory}}
 
-Category:Templates
+

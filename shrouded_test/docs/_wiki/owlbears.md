@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 ([29.14](/wiki/29-14/), [39.32](/wiki/39-32/))
-Category:Creatures
-Category:Chimerics
+
+

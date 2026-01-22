@@ -14,7 +14,7 @@ is_redirect: true
 redirect_to: '11.01'
 ---
 #REDIRECT [11.01](/wiki/11-01/)
-Category:Tribes
-Category:Goblins
-Category:The Grey Mountains
-Category:The Marche of the Winterjarl
+
+
+
+

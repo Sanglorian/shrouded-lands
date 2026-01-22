@@ -38,5 +38,5 @@ The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Bu
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">
 </p>
-Category:Regions
-Category:The Devil's Fingers
+
+

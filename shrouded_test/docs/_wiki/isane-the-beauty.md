@@ -21,15 +21,15 @@ Most of the [snake books](/wiki/snakes/) in Isane's Slithering Garden are invalu
 
 Most of Isane's clients are women. Since she is a Viceroy's concubine, Jahur law prohibits men from speaking with her on pain of death or castration. Men who insist on meeting her in person arrange with one of her Janissaries to deliver a potion that [temporarily changes the drinker's gender](/wiki/sexuality-and-sexual-identity/).![](/media/Jahur8.png)
 ### Connects to:
-*Isane gives advice to many of the [Viceroys](/wiki/viceroys/), which helps her exert a great deal of influence on their council ([19.31.08](/wiki/19-31/)).
-*[Anghart](/wiki/anghart/) of Dreanach stole a large supply of sex change potion from Isane ([15.11](/wiki/15-11/)).
+* Isane gives advice to many of the [Viceroys](/wiki/viceroys/), which helps her exert a great deal of influence on their council ([19.31.08](/wiki/19-31/)).
+* [Anghart](/wiki/anghart/) of Dreanach stole a large supply of sex change potion from Isane ([15.11](/wiki/15-11/)).
 ### Hooks
-*Who is Isane the Beauty, really?
-*Why were so many of the old books burned? Who burned them?
-*Are the snake books entirely accurate? They have been filtered through and reinterpreted by lizard brains.
-*What do the lower classes like about the Holy Fools?
-*Who else uses potions that can change the drinker's gender?
-Category:Characters
-Category:Jahur
-Category:The Lands of the Night Cattle
-Category:Elves
+* Who is Isane the Beauty, really?
+* Why were so many of the old books burned? Who burned them?
+* Are the snake books entirely accurate? They have been filtered through and reinterpreted by lizard brains.
+* What do the lower classes like about the Holy Fools?
+* Who else uses potions that can change the drinker's gender?
+
+
+
+

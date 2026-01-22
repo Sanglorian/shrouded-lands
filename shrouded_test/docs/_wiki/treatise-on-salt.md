@@ -17,11 +17,11 @@ She asserts that salt was once the purest substance in the Shrouded Lands. It fo
 
 Occasionally, she states, salt absorbs powerful magic and fundamentally changes. She theorizes that the salt in the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) became tainted when the [Green Lady](/wiki/green-lady/) sat on the shore and wept during the [Great Divorce](/wiki/great-divorce/). When [Princess Agnothene](/wiki/princess-agnothene/), the last of [Othonoi](/wiki/othonoi/)'s [First Dynasty](/wiki/first-dynasty/), leaped off of a cliff at her father's orders, her spirit may have entered the salt that is now mined at Fallsalt ([44.03](/wiki/44-03/)). As for the salt of the Least Ocean ([12.29](/wiki/12-29/)), some believe it is merely poisoned by the [Breath of the Earth](/wiki/breath-of-the-earth/), although that doesn't explain the statues sunken in the sand around it. Her treatise is hazy in this section, and she would generously reward more information about the Least Ocean.
 ### Hooks
-*How has the academic community and the public reacted to her treatise?
-*What were the angels? Why did they fall?
-*Does any pure, primordial salt survive in the Shrouded Lands?
-*Tell me more about the legends that Isane claims changed the salt.
-*What's with the statues surrounding the Least Ocean?
-Category:Books
-Category:Jahur
-Category:Electric Wizard
+* How has the academic community and the public reacted to her treatise?
+* What were the angels? Why did they fall?
+* Does any pure, primordial salt survive in the Shrouded Lands?
+* Tell me more about the legends that Isane claims changed the salt.
+* What's with the statues surrounding the Least Ocean?
+
+
+

@@ -21,14 +21,14 @@ The Priests of [Alberon](/wiki/alberon/) are wary of Tharcofal for his past crim
 
 Dead Men have been deployed as far afield as the [Kingswood](/wiki/kingswood/), the temple of the [Whispering Sisters](/wiki/whispering-sisters/) ([32.22](/wiki/32-22/)) and most famously to [Blind Midshotgatepool](/wiki/blind-midshotgatepool/) during Shuttered’s war with that city. Only their high turnover prevents them from becoming one of the most dangerous fighting forces in the Shrouded Lands. However, a rumour has recently spread that one among the Dead Men has now lived an unusually long time.
 ### Connections:
-*A band of Dead Men who defected during the war with Blindmidshotgatepool are now known as [Death’s Lovelies](/wiki/death’s-lovelies/) and are dangerous bandits indeed ([27.23](/wiki/27-23/)).
-*Lord Alevari came down with the Courting Death some time ago and [his wife](/wiki/lady-alevari/) took some rather drastic measures as a result.
+* A band of Dead Men who defected during the war with Blindmidshotgatepool are now known as [Death’s Lovelies](/wiki/death’s-lovelies/) and are dangerous bandits indeed ([27.23](/wiki/27-23/)).
+* Lord Alevari came down with the Courting Death some time ago and [his wife](/wiki/lady-alevari/) took some rather drastic measures as a result.
 ### Hooks:
-*Are the dreams meaningful or merely psychosomatic?
-*How widespread is this disease? What races aside from humans can catch it?
-*Is there a cure for the Courting Death? If so, what makes it unfeasible for the priests of Erleforst?
-*Why was Tharcofal deposed from his position as bishop?
-*What sort of missions have the Dead Men undertaken?
-*Who is this Dead Man who seems unable to die?
-Category:Maladies
-Category:Shuttered and Surrounds
+* Are the dreams meaningful or merely psychosomatic?
+* How widespread is this disease? What races aside from humans can catch it?
+* Is there a cure for the Courting Death? If so, what makes it unfeasible for the priests of Erleforst?
+* Why was Tharcofal deposed from his position as bishop?
+* What sort of missions have the Dead Men undertaken?
+* Who is this Dead Man who seems unable to die?
+
+

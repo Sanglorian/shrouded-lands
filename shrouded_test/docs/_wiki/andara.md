@@ -19,6 +19,6 @@ An ancient kingdom which was situated in the lands now covered by the [Keening S
 : Look to me when [the Hammer of Bronze](/wiki/the-hammer-of-bronze/) is forged anew. Look to me on the twelfth night when the sea boils. Look upon me, ye of Serpantia, and despair.
 
 The cyclopean ruin of Monatheron ([43.12](/wiki/43-12/)) is the last remnant of Andara.
-Category:Lost civilisations
-Category:Nations
-Category:The Keening Sea
+
+
+

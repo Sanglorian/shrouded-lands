@@ -12,4 +12,4 @@ This is the base category for **templates**. Templates should be placed in appro
 
 See [Project:Templates](/wiki/projecttemplates/) for collated information on templates.
 
-Category:Organization
+

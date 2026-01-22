@@ -16,7 +16,7 @@ The Maddlows once ruled over all the Witch Clans. The Maddlows had the frighteni
 
 All this came to an end in the time of Ban the Clever, founder of the town of Banshot *([26.20](/wiki/26-20/))*. While travelling over the mountains, Ban and his four companions were captured by the Maddlows and geased into service. However, Ban managed to play on the Maddlow King's paranoia and convinced him to geas all the other Maddlows to travel to the far borders of the Shrouded Lands so that they couldn't steal his throne. After the rest of the Maddlows were gone, Ban's party escaped while the Maddlow King was gassed to death by a disgruntled Dunger ([25.17](/wiki/25-17/)).
 #### Connections
-*[Simon Maddlow](/wiki/simon-maddlow/) lives in exile in the Shuttered City and is employed laying geases on travellers at its gates *([29.14.17](/wiki/29-14/))*.
-Category:Families
-Category:Witch Clans
-Category:The Barrier Range
+* [Simon Maddlow](/wiki/simon-maddlow/) lives in exile in the Shuttered City and is employed laying geases on travellers at its gates *([29.14.17](/wiki/29-14/))*.
+
+
+

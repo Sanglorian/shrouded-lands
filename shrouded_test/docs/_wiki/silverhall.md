@@ -25,6 +25,6 @@ Region: the Lands of the Night Cattle.
 
 ## Hook
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">-Where does the silver wall come from? What does its magic do exactly?</span></p>
-Category:Hex
-Category:Lands of the Night Cattle
-Category:The Lands of the Night Cattle
+
+
+

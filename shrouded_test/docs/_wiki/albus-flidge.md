@@ -17,11 +17,11 @@ Many rivals have tried to worm their way into Flidge’s confidence and find the
 
 Since then the jermalaines have labored in Flidge’s workshop under the baleful eyes of his [cats](/wiki/cats/). However, in recent years Flidge’s advancing age has meant that he has not supervised ![](/media/Shutt-flid.jpg)the jermalaines as closely as was once the case and they have taken to making modifications to the designs of their pocket watches and some of Flidge’s customers have had most unpleasant surprises. But, despite this, Flidge’s prestige is such that he continues to command the highest prices in the City.
 ### Connections:
-*One of Flidge's watches is whispering to the [Blind Doge](/wiki/blind-doge/).
+* One of Flidge's watches is whispering to the [Blind Doge](/wiki/blind-doge/).
 
 ### Hooks:
-*What is Flidge’s security system?
-*How have the jermalaines modified the pocket watch designs?
-*Have any been able to escape into the City of Shuttered Windows?
-Category:Characters
-Category:Browncloaks
+* What is Flidge’s security system?
+* How have the jermalaines modified the pocket watch designs?
+* Have any been able to escape into the City of Shuttered Windows?
+
+

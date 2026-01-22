@@ -17,13 +17,13 @@ When **Felix Koldranson** turned fifteen, [his father](/wiki/koldran/) sent him 
 
 This is when Felix became Flea, just another fallen child of Koldran. Unlike Jota, Zigmund and Hansa, who became heroes for their deeds in [Blind Midshotgatepool](/wiki/blind-midshotgatepool/), Flea became a common bandit. He makes a den in the woods near a road that he shares with his loyal daggerfeet pack. He lost his last scruples long ago, and simply unleashes his pack of daggerfeet against caravans marked for robbery. He lets his pets do most of the work, preferring to kneel by the sidelines and pick off survivors with a powerful crossbow. His well-paid contacts in [Newhill](/wiki/newhill/) ([17.07](/wiki/17-07/)) and [Winds](/wiki/winds/) have helped him score big and elude justice. Flea is planning to get a few more jobs and "retire" as a petty baron somewhere in the Freeholds.
 ### Connection:
-*[Bad Deza](/wiki/bad-deza/) is Flea’s informant in [Winds](/wiki/winds/) but he has sold Flea out and is feeding him false information.
+* [Bad Deza](/wiki/bad-deza/) is Flea’s informant in [Winds](/wiki/winds/) but he has sold Flea out and is feeding him false information.
 ### Hooks:
-*How did Jota, Zigmund and Hansa become heroes?
-*Who has fallen victim to Flea?
-*Who are Flea's contacts? How do they communicate?
-*What interesting treasures is Flea hoarding?
-*Money aside, how exactly does Flea plan to become a baron? How does anyone gain a title in the Freeholds?
-Category:Characters
-Category:The Freeholds
-Category:Koldran
+* How did Jota, Zigmund and Hansa become heroes?
+* Who has fallen victim to Flea?
+* Who are Flea's contacts? How do they communicate?
+* What interesting treasures is Flea hoarding?
+* Money aside, how exactly does Flea plan to become a baron? How does anyone gain a title in the Freeholds?
+
+
+

@@ -21,20 +21,20 @@ But much later, during the [Chimerical Siege](/wiki/chimerical-siege/) and after
 
 Today, it is whispered that the ghosts of the gnomes can still be heard tapping on the inside of the walls on moonless nights. As the Shuttered City sinks into the earth, the gnomes build the walls up higher, giving the impression that they are not sinking at all. The [deep dwarves](/wiki/deep-dwarves/) who visit the walls on a yearly basis are not architects; they are descendants of Daram Os, ensuring that his death-curse remains strong.
 ### Connection:
-*One gnomes named [Gertja](/wiki/gertja/) survived the massacre ([25.14](/wiki/25-14/)) and the High Priestess of the Temple of the Labyrinth ([29.14](/wiki/29-14/).14) is her descendent.
-*A clan of gnomes now called the [Backbiters](/wiki/backbiters/) caused [Loguiso's Wall](/wiki/loguiso's-wall/) to collapse.
+* One gnomes named [Gertja](/wiki/gertja/) survived the massacre ([25.14](/wiki/25-14/)) and the High Priestess of the Temple of the Labyrinth ([29.14](/wiki/29-14/).14) is her descendent.
+* A clan of gnomes now called the [Backbiters](/wiki/backbiters/) caused [Loguiso's Wall](/wiki/loguiso's-wall/) to collapse.
 
 ### Hooks:
-*What was the gift given to the giants? Is it still around (i.e. stealable)?
-*Who made war on the giants in those ancient days?
-*We know that Blackhorn's Maze was an outpost for the [minotaur](/wiki/minotaurs/) army, but who was Blackhorn himself? (Herself?)
-*Who was the Soiled Champion and how did he repel the minotaurs?
-*What is built on the dwarven quarter of the City now?
-*What would happen if the descendants of Daram Os were interrupted? Would the gnome ghosts be released from the walls?
-*There are other wall-dwelling gnomes even in the present day. What do they think about the walls of Shuttered?
-*Why did the gnomes break their contract?
-Category:Creatures
-Category:The Shuttered City
-Category:Gnomes
-Category:Dwarves
-Category:Giants
+* What was the gift given to the giants? Is it still around (i.e. stealable)?
+* Who made war on the giants in those ancient days?
+* We know that Blackhorn's Maze was an outpost for the [minotaur](/wiki/minotaurs/) army, but who was Blackhorn himself? (Herself?)
+* Who was the Soiled Champion and how did he repel the minotaurs?
+* What is built on the dwarven quarter of the City now?
+* What would happen if the descendants of Daram Os were interrupted? Would the gnome ghosts be released from the walls?
+* There are other wall-dwelling gnomes even in the present day. What do they think about the walls of Shuttered?
+* Why did the gnomes break their contract?
+
+
+
+
+

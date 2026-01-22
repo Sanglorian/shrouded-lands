@@ -47,16 +47,16 @@ lake and that he will rise again one day with the
 Seal of the One King in his hand and bend all
 mankind to his will.
 ### Connection:
-*A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([39.12](/wiki/39-12/)).
-*For hints about the ancient religion of the Prince of Men, see ([19.31](/wiki/19-31/).03).
+* A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([39.12](/wiki/39-12/)).
+* For hints about the ancient religion of the Prince of Men, see ([19.31](/wiki/19-31/).03).
 ### Hooks:
-*What did Sabrek get wrong?
-*Where is [Ungolath](/wiki/ungolath/)?
-*What happened to the Imperium Undying?
-*Where are the remnants of an ancient Imperial colony?
-*Are the local humans the descendants of these colonists? Did they build Shuttered or are the separate from the local humans?
-*What are the Prismatic Storms and why would wood from Kingswood trees keep your boat safe from them?
-*What else do the Seelie Accords specify?
-Category:Characters
-Category:Humans
-Category:Elves
+* What did Sabrek get wrong?
+* Where is [Ungolath](/wiki/ungolath/)?
+* What happened to the Imperium Undying?
+* Where are the remnants of an ancient Imperial colony?
+* Are the local humans the descendants of these colonists? Did they build Shuttered or are the separate from the local humans?
+* What are the Prismatic Storms and why would wood from Kingswood trees keep your boat safe from them?
+* What else do the Seelie Accords specify?
+
+
+

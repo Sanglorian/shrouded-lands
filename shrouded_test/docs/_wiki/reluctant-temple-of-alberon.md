@@ -25,10 +25,10 @@ When Alberon mustered his forces, he led the march down the [Street of Small God
 He was the god of the City of Many Windows, and could not pass beyond its walls. His plans for domination were frustrated. Now, he plots the expansion of Shuttered and hopes one day it will cover the world.
 
 ### Hooks
-*What about Shuttered’s embassies in other nations? Can Alberon manifest within them?
-*And how about the embassies in Shuttered?
-*How could Alberon slay Tiamat if he is confined to the City?
-*How does Alberon’s orthodox priesthood envisage the god’s link to the City?
-Category:Religious groups
-Category:Alberon
-Category:The Shuttered City
+* What about Shuttered’s embassies in other nations? Can Alberon manifest within them?
+* And how about the embassies in Shuttered?
+* How could Alberon slay Tiamat if he is confined to the City?
+* How does Alberon’s orthodox priesthood envisage the god’s link to the City?
+
+
+

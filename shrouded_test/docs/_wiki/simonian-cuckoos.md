@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ![Itō Jakuchū](/media/'Nandina_and_Rooster'_from_the_'Colorful_Realm_of_Living_Beings'_by_Ito_Jakuchu.jpg)Simonian Cuckoos are [chickens](/wiki/chickens/) descended from [Simone the Fowl](/wiki/simone-the-fowl/). Despite the name, they are not related to [cuckoos](/wiki/cuckoos/). Simone the Fowl was also a cuckoo chicken, so there may be other cuckoo chicken breeds.
-Category:The Shuttered City
-Category:Animals
-Category:Birds
-Category:Chickens
+
+
+
+

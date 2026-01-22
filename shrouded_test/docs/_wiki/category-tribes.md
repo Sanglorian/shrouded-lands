@@ -8,7 +8,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-Below :Category:Peoples and :Category:Nations
+Below :
 
-Above :Category:Families
-Category:Peoples
+Above :
+

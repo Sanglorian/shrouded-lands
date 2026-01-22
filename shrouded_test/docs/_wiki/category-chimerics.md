@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 [Chimerics](/wiki/chimerics/)
-Category:Creatures
-Category:Chimalia
+
+

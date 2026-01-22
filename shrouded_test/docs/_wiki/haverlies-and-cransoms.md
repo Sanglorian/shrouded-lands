@@ -18,8 +18,8 @@ But one day a band of Haverlies plucked up their courage and snuck in at night i
 
 However, the Haverlies have had great difficulties with their plans and now the territory that they have staked out is covered by trees that wave greyish-white tentacles at the sky, mountains of shining gold, geysers of blood and floating mountaintops that spell out insults in the clouds, with things growing stranger by the day. Even worse, these illusions persist until touched by a sentient being and even killing the Cransoms responsible does not dispel them. The Haverlies have found themselves trapped in a small mountain valley, far too afraid to leave it because each hazard and cliff is obscured by images of anything from undulating waves of flesh to yard-long dragon teeth and they are growing desperate...
 #### Hooks
-*Did any of the adult Cransoms escape the massacre?
-*Now that the Haverlies are growing desperate and trapped, what will they do?
-Category:Witch Clans
-Category:Families
-Category:The Barrier Range
+* Did any of the adult Cransoms escape the massacre?
+* Now that the Haverlies are growing desperate and trapped, what will they do?
+
+
+

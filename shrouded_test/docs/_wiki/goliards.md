@@ -13,7 +13,7 @@ media: []
 ![](/media/Aubrey_Beardsley_-_Pierrot_4.jpg)When drunk on holy beer, the [Keepers of the Sainted Foot](/wiki/keepers-of-the-sainted-foot/) become **goliards**, or holy jesters.
 
 ### Connections
-*One of the [eleven recognised forms](/wiki/eleven-recognised-forms/) of Alberon is the goliard.
-Category:Professions
-Category:Priests
-Category:Alberon
+* One of the [eleven recognised forms](/wiki/eleven-recognised-forms/) of Alberon is the goliard.
+
+
+

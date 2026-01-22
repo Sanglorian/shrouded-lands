@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 Lady Naideen is the heir of Castle Dinivar ([17.11](/wiki/17-11/)). See that hex for more details.
-Category:The Duchy of Thring
-Category:Nobles
-Category:Characters
+
+
+

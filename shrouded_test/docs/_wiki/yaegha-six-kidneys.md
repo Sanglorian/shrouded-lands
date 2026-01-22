@@ -17,8 +17,8 @@ Yaegha returned to the Shrouded Lands leading a skeleton legion more grotesque t
 She arrived at her husband's castle with a still-formidable remnant of her skeletons. The Collector was aghast and sullen when he learned she had returned without a Tarrasque skull, and brushed off her ambitions without a second thought. She left the Collector after shedding a single tear, and spent the rest of her life wandering the Shrouded Lands, gathering lore and followers.
 
 ### Hooks
-*How did Yaegha end up marrying the Collector? Did they have any children? Who else has married the Collector?
-*Do any of Yaegha's most hellish creations still roam the lands? Do any have remarkable abilities?
-*Any tragic stories about Yaegha's march through the south of Thring?
-Category:Characters
-Category:Necromancers
+* How did Yaegha end up marrying the Collector? Did they have any children? Who else has married the Collector?
+* Do any of Yaegha's most hellish creations still roam the lands? Do any have remarkable abilities?
+* Any tragic stories about Yaegha's march through the south of Thring?
+
+

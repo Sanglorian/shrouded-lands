@@ -10,4 +10,4 @@ media: []
 ---
 The category is for pages relating to the [Forum](/wiki/forumindex/).
 
-Category:Organization
+

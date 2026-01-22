@@ -18,12 +18,12 @@ Mud dragons are native to lands far to the south of the Shrouded Lands. But cent
 
 The halflings, who were avenging the cannibalization of an innkeeper and his wife, slaughtered every lizardman and looted anything deemed valuable from the caravan. However, they did not understand the value of their [snake books](/wiki/snake-books/). The descendants slither through the valleys, waiting to be claimed by daring adventurers.
 ### Hooks
-*How do the mud dragons hold their own against the local lions?
-*Do the domesticated mounts also inflict plague with their bites? That doesn't seem very chivalrous.
-*Are all halflings as vengeful as those inhabiting Jar Town?
-*The Foolish Sages ([20.18](/wiki/20-18/)) have reason to believe that the lauded lizardman historian [Kashikik](/wiki/kashikik/) was killed in the battle, and that his lost works can be caught among the rocks and scrub.
-Category:Creatures
-Category:Dragons
-Category:Reptiles
-Category:Lizardmen
-Category:Animals
+* How do the mud dragons hold their own against the local lions?
+* Do the domesticated mounts also inflict plague with their bites? That doesn't seem very chivalrous.
+* Are all halflings as vengeful as those inhabiting Jar Town?
+* The Foolish Sages ([20.18](/wiki/20-18/)) have reason to believe that the lauded lizardman historian [Kashikik](/wiki/kashikik/) was killed in the battle, and that his lost works can be caught among the rocks and scrub.
+
+
+
+
+

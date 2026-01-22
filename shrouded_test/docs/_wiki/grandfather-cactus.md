@@ -17,13 +17,13 @@ Last year, after an age of companionship, the nymph has left him for [Huw](/wiki
 
 Grandfather Cactus now roams his canyon ([18.28](/wiki/18-28/)) in fits of jealous rage, flinging stones and breaking anything in his path with his dozen great arms. His anger has been so great that he has begun pursuing gnolls deep into the wastes, bellowing and impaling those who fall behind on his great body. He was asleep during his nymph's courtship, and is convinced that a gnoll kidnapped her. In his rampages, arrows, spears, axes and even fire do not seem to slow him. Many gnolls of Abbalah-doon fear that he will crash into their village one day and massacre them.
 ## Connection
-*Sir Hew and the nymph now live at the Nameless Mountain ([13.24](/wiki/13-24/)).
+* Sir Hew and the nymph now live at the Nameless Mountain ([13.24](/wiki/13-24/)).
 ## Hooks
-*Why did the Bloodied King grant reparation, wasn’t it the Queen Sinister who banished the rains?
-*Do any other great cacti still exist?
-*What other reparations has the Bloodied King granted?
-*Will Grandfather Cactus settle for anything less than the return of his beloved?
-Category:Characters
-Category:Ogres
-Category:Plants
-Category:Creatures
+* Why did the Bloodied King grant reparation, wasn’t it the Queen Sinister who banished the rains?
+* Do any other great cacti still exist?
+* What other reparations has the Bloodied King granted?
+* Will Grandfather Cactus settle for anything less than the return of his beloved?
+
+
+
+

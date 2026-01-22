@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Asrigh
 ---
 #REDIRECT[Asrigh](/wiki/asrigh/)
-Category:Synonyms
+

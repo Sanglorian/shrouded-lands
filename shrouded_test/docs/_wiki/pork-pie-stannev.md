@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: '25.04'
 ---
 #REDIRECT[25.04](/wiki/25-04/)
-Category:Characters
-Category:Stannevs
+
+

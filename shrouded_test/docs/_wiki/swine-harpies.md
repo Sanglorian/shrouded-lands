@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: '12.22'
 ---
 #REDIRECT[12.22](/wiki/12-22/)
-Category:Creatures
-Category:Harpies
-Category:The Lands of Gore
+
+
+

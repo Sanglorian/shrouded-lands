@@ -18,8 +18,8 @@ The proprietor, [Jarvis](/wiki/jarvis/), provides rumors that are fresher than h
 
 One of the human regulars here is employed carting night soil out of the city. On her nightly trek she has run into [Armand of the Axe](/wiki/armand-of-the-axe/) ([29.13](/wiki/29-13/).01) in his spider-monkey form and, taking him for an angel of [Alberon](/wiki/alberon/), has taken to leaving carved charms for him. She will happily tell anyone about her "visions" if they are willing to stand her pungent presence.
 ### Hooks:
-*Who are some of the other regulars?
-*What are some other dishes of these lands?
-*What has Jarvis heard from the hobs recently?
-Category:The Shuttered City
-Category:Buildings
+* Who are some of the other regulars?
+* What are some other dishes of these lands?
+* What has Jarvis heard from the hobs recently?
+
+

@@ -15,7 +15,7 @@ The [dwarves](/wiki/dwarves/) native to the [Tantalus Mountains](/wiki/tantalus-
 They are obsessed with rubies. Some duergar seized the Dismal Mine ([21.27](/wiki/21-27/)) in the [War of the Six-Fingered Hand](/wiki/war-of-the-six-fingered-hand/) to mine them. They hoard the rubies, rather than cutting them or using them for magic.
 
 ## See also
-*[Deep dwarves](/wiki/deep-dwarves/)
-Category:Dwarves
-Category:Peoples
-Category:The Tantalus Mountains
+* [Deep dwarves](/wiki/deep-dwarves/)
+
+
+

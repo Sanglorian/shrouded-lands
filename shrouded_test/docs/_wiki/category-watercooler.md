@@ -11,5 +11,5 @@ media: []
 ---
 This is a list of topics from the [Watercooler](/wiki/forumwatercooler/).
 
-Category:Forums
-Category:community
+
+

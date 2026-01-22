@@ -21,12 +21,12 @@ The local authorities, both legal and otherwise have little love for the Dead Fi
 During nights of the new moon the bar grows even more rowdy than normal and octoid
 [Lashers](/wiki/lashers/) hidden beneath [moon elephant leather](/wiki/moon-elephants/) slither across the damp and salty floor working their magic.
 ### Connection:
-*The proprietor gained his signature smile during a disasterous expedition to the Bone Heap ([50.03](/wiki/50-03/)).
+* The proprietor gained his signature smile during a disasterous expedition to the Bone Heap ([50.03](/wiki/50-03/)).
 ### Hooks:
-*Why is there a large dried shark hanging over the door?
-*Why do actors and actresses hang out here?
-*What‘s the Lonely Crag?
-*Anything else interesting about the proprietor? Who is he? Did he bring back any treasure from the Bone Heap?
-*What are the octoids trying to do here? Why are their agents called 'Lashers'?
-Category:Buildings
-Category:Jahur
+* Why is there a large dried shark hanging over the door?
+* Why do actors and actresses hang out here?
+* What‘s the Lonely Crag?
+* Anything else interesting about the proprietor? Who is he? Did he bring back any treasure from the Bone Heap?
+* What are the octoids trying to do here? Why are their agents called 'Lashers'?
+
+

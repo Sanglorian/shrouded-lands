@@ -14,5 +14,5 @@ One of the two [elven](/wiki/elves/) peoples; the other being the [seelie elves]
 The term [drow](/wiki/drow/) may refer to the unseelie, in which case the [Drow's Tears](/wiki/drow's-tears/) would refer to the Queen Sinister's tears at her parting from the Bloodied King, and the [drow-ghosts](/wiki/drow-ghosts/) would be undead unseelie.
 
 The [Seelie Accords](/wiki/seelie-accords/) describe the dividing of elfish lands between [seelie](/wiki/seelie-elves/) and unseelie.
-Category:Peoples
-Category:Elves
+
+

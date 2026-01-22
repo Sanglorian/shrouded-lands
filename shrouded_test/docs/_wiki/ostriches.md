@@ -12,5 +12,5 @@ media: []
 They ride black ostriches at Castle Dinivar ([17.11](/wiki/17-11/))
 
 There is an ostrich lich called the [ostrlich](/wiki/ostrlich/)
-Category:Creatures
-Category:Birds
+
+

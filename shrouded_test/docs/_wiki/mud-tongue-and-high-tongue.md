@@ -21,12 +21,12 @@ Meanwhile, Baron Harenghast is pleased that most of his subordinates cannot spea
 
 But the Mud Tongue is not without its own merits. Outside of the City it has another name: the Common Tongue.
 ### Connections:
-*Deep in the Gnomish Quarter ([29.14.14](/wiki/29-14/)) there is an illegal academy where High Tongue verb declensions are spoken of in whispers lest unkind ears hear them.
-*Occasionally the mockingbird ([25.07](/wiki/25-07/)) can be heard calling out spell formulae in the High Tongue.
+* Deep in the Gnomish Quarter ([29.14.14](/wiki/29-14/)) there is an illegal academy where High Tongue verb declensions are spoken of in whispers lest unkind ears hear them.
+* Occasionally the mockingbird ([25.07](/wiki/25-07/)) can be heard calling out spell formulae in the High Tongue.
 ### Hooks:
-*What other institutions run Shuttered?
-*What are the Thousand Spells and One?
-*Why does [Count Seutorian](/wiki/count-seutorian/)’s balloon look like Baron Harenghast’s mother ([30.12](/wiki/30-12/))?
-*Why is the language school illegal? Who is allowed to learn the High Tongue? How can you enforce that?
-Category:Languages
-Category:The Shuttered City
+* What other institutions run Shuttered?
+* What are the Thousand Spells and One?
+* Why does [Count Seutorian](/wiki/count-seutorian/)’s balloon look like Baron Harenghast’s mother ([30.12](/wiki/30-12/))?
+* Why is the language school illegal? Who is allowed to learn the High Tongue? How can you enforce that?
+
+

@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 An ocean preserved from a previous era. See [02.24](/wiki/02-24/) for more.
-Category:Bodies of water
-Category:The Lands of Gore
+
+

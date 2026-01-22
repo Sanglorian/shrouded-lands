@@ -16,7 +16,7 @@ The Wrannows travelled about somewhat, moving their village of ropes regularly i
 
 Though the power of the rope trick generally dissipates quite quickly, the Wrannows had trained their power to make it more durable, enough so that it continued long after they were dead. Rumor has it that the Wrannows also developed ways of travelling from one hidden house to another without ever climbing down.
 #### Hooks
-*Who slaughtered the Wrannows? Another Witch Clan, or someone else?
-Category:Families
-Category:The Barrier Range
-Category:Witch Clans
+* Who slaughtered the Wrannows? Another Witch Clan, or someone else?
+
+
+

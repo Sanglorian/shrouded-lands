@@ -21,21 +21,21 @@ The Lost Lighthouse was once maintained by the "lion priests" of the King in Spl
 
 ### Connections:
 ![](/media/Sun2.png)
-*The hole that lets the noonlight in to the Sundial Inn was surely built by a devotee of the King in Splendour, possibly Pork Pie Stannev ([25.04#The King in Splendor](/wiki/25-04/))
-*Armand of the Axe is a current priest of the King in Splendor but he is somewhat inconvenienced with spider monkey [lycanthropism](/wiki/lycanthropes/) at the moment ([29.13](/wiki/29-13/)).
-*The lighthouse at Salt Point ([00.09](/wiki/00-09/)) is another former Lion Priest holding.
-*Disciples of this religion celebrate [the Lion‘s Day](/wiki/the-lions-day/) ([17.07](/wiki/17-07/).01).
-*For a [Lion Priest](/wiki/lion-priests/) prophesy of the end times see [06.03](/wiki/06-03/).
-*The [Golden Realm](/wiki/golden-realm/) is a center of worship of the King in Splendor ([29.14](/wiki/29-14/).47).
-*[Teodo](/wiki/teodo/), a great iron lion that has been looted from the Golden Realm by gnolls, is holy to the King in Splendor ([50.30](/wiki/50-30/)).
-*[Saklas](/wiki/saklas/)
-*The [Lion's Day](/wiki/lion's-day/) is particularly holy to his followers.
-*The [Testament of Weneslas Stannev](/wiki/testament-of-weneslas-stannev/) describes the King in his dual role as the Lion, leaving the sky during the night to face temptation.
-*The [Stannevs](/wiki/stannevs/) sing the [Chant of Morning](/wiki/chant-of-morning/) about the Lion's descent into the earth.
-*A snake in the [Traitors' Pit](/wiki/traitors'-pit/) has gems for eyes, which is how the King is sometimes depicted.
+* The hole that lets the noonlight in to the Sundial Inn was surely built by a devotee of the King in Splendour, possibly Pork Pie Stannev ([25.04#The King in Splendor](/wiki/25-04/))
+* Armand of the Axe is a current priest of the King in Splendor but he is somewhat inconvenienced with spider monkey [lycanthropism](/wiki/lycanthropes/) at the moment ([29.13](/wiki/29-13/)).
+* The lighthouse at Salt Point ([00.09](/wiki/00-09/)) is another former Lion Priest holding.
+* Disciples of this religion celebrate [the Lion‘s Day](/wiki/the-lions-day/) ([17.07](/wiki/17-07/).01).
+* For a [Lion Priest](/wiki/lion-priests/) prophesy of the end times see [06.03](/wiki/06-03/).
+* The [Golden Realm](/wiki/golden-realm/) is a center of worship of the King in Splendor ([29.14](/wiki/29-14/).47).
+* [Teodo](/wiki/teodo/), a great iron lion that has been looted from the Golden Realm by gnolls, is holy to the King in Splendor ([50.30](/wiki/50-30/)).
+* [Saklas](/wiki/saklas/)
+* The [Lion's Day](/wiki/lion's-day/) is particularly holy to his followers.
+* The [Testament of Weneslas Stannev](/wiki/testament-of-weneslas-stannev/) describes the King in his dual role as the Lion, leaving the sky during the night to face temptation.
+* The [Stannevs](/wiki/stannevs/) sing the [Chant of Morning](/wiki/chant-of-morning/) about the Lion's descent into the earth.
+* A snake in the [Traitors' Pit](/wiki/traitors'-pit/) has gems for eyes, which is how the King is sometimes depicted.
 
 ### Hooks:
-*What is the Threefold Rite?
-*Anything of interest about the cult of the King in Splendor?
-Category:Deities
-Category:The King in Splendour
+* What is the Threefold Rite?
+* Anything of interest about the cult of the King in Splendor?
+
+

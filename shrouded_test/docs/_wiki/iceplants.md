@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: '39.31'
 ---
 #REDIRECT[39.31](/wiki/39-31/)
-Category:Plants
-Category:The Burning Lands
+
+

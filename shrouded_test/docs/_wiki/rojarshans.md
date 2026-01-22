@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: '28.07'
 ---
 #REDIRECT[28.07](/wiki/28-07/)
-Category:Peoples
-Category:Humans
-Category:The Kingswood
+
+
+

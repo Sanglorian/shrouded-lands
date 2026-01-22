@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 The [Sanguine Lords](/wiki/sanguine-lords/) and the [lords of Thring](/wiki/lords-of-thring/) keep serfs. Other parts of the world may as well. The serfs of [Tarengael](/wiki/tarengael/) pray to the [Green Lady](/wiki/green-lady/), but approach the [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/) for darker jobs.
-Category:Professions
-Category:The Duchy of Thring
-Category:The Lands of Gore
+
+
+

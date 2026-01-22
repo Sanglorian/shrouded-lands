@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: '15.28'
 ---
 #REDIRECT[15.28](/wiki/15-28/)
-Category:Villages
-Category:Gnolls
+
+

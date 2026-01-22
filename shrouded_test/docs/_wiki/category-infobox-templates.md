@@ -12,4 +12,4 @@ A listing of wiki infobox templates.
 
 {{Templatecategory}}
 
-Category:Templates
+

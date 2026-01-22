@@ -21,11 +21,11 @@ Untended since those days, most of the canals remain – though all but one are 
 Mostly surviving is the canal that linked [Hyfalls](/wiki/hyfalls/) and Bergolast. In most parts, it is raised two metres off of the ground. Travellers that avoid the hyena packs by using the canal find they have only two directions to run when the rogue Nekh [One-Wing](/wiki/one-wing/) swoops down from the sky.
 
 ### Hooks
-*Where is the one canal where the water still flows?
-*Who wants the Nekh done away with?
-*Why are they called One-Wing if they can fly? What make them a rogue Nekh?
-*Who would want to travel between the ruins of Bergolast and Hyfalls these days?
-Category:Bergolast
-Category:Hyfalls
-Category:Buildings
-Category:The Burning Lands
+* Where is the one canal where the water still flows?
+* Who wants the Nekh done away with?
+* Why are they called One-Wing if they can fly? What make them a rogue Nekh?
+* Who would want to travel between the ruins of Bergolast and Hyfalls these days?
+
+
+
+

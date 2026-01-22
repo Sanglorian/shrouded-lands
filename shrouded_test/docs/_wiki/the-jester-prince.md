@@ -15,6 +15,6 @@ media: []
 A mule, blood brother to the Prince, lives on a plateau ([08.15](/wiki/08-15/))
 
 According to [Lady Natala](/wiki/lady-natala/)'s lady in waiting, the lady in waiting's child with the Jester Prince was passed by [stirge](/wiki/stirges/) to Lady Natala, who claims it is the illegitimate son of the [Duke of Thring](/wiki/duke-of-thring/).
-Category:Characters
-Category:The Lands of Gore
-Category:The Duchy of Thring
+
+
+

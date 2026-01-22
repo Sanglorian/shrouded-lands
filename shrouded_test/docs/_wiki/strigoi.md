@@ -18,13 +18,13 @@ The strigoi claim that their ancestors were shades who escaped the land of the d
 When one of their own number dies before his or her time, the strigoi ‘go a-striga’—they fly through the night screaming horribly in the hope that the scream will be heard in the land of the dead and the shade will be reminded to scheme to escape as the strigoi’s ancestors did.
 
 ## Connection
-*Some brave strigoi occasionally raid Greymere Vale for wine, braving numerous lightning bolts in order to do so ([20.00](/wiki/20-00/)).
-*They gather once a year at a copse of white-barked elms ([09.00](/wiki/09-00/)).
+* Some brave strigoi occasionally raid Greymere Vale for wine, braving numerous lightning bolts in order to do so ([20.00](/wiki/20-00/)).
+* They gather once a year at a copse of white-barked elms ([09.00](/wiki/09-00/)).
 
 ## Hooks
-*Why do the nordanbjorn loathe the strigoi?
-*Did they truly escape the land of the dead? Could anyone else escape? What is that land like?
-*Why were there giant owls in the land of the dead?
-*Do the strigoi have ulterior motives in being present at deaths?
-Category:Peoples
-Category:The Grey Mountains
+* Why do the nordanbjorn loathe the strigoi?
+* Did they truly escape the land of the dead? Could anyone else escape? What is that land like?
+* Why were there giant owls in the land of the dead?
+* Do the strigoi have ulterior motives in being present at deaths?
+
+

@@ -29,17 +29,17 @@ The Society maintains its headquarters and administrative heart in the Honor-Hal
 
 On a minor note, Engineers of the Society can be identified by the plain steel band worn on the middle finger of the right hand. Any person found wearing such a ring on this finger without being a recognized member is subject to [removal of the offending digit](/wiki/fingers-and-fingernails/).
 ### Connections:
-*The Master Mason of the Society is [Baron Harenghast](/wiki/baron-harenghast/), who is not popular with his subordinates ([29.14](/wiki/29-14/).52).
-*Some crack finders have contracted [lycanthropy](/wiki/lycanthropy/) in the Undercity ([36.11](/wiki/36-11/)).
-*The mud around Smuggler's Isle ([17.16](/wiki/17-16/)) is especially sought after by the Society of Engineers as an ingredient in their cement. This is not because it is especially strong but because it has a weak magical resonance that slowly fades with time, allowing the engineers to keep track of how old a certain piece of construction is. This is of especial use to the Department of Obscure Annexes as it allows them to detect suspicious new construction that may hide secret rooms.
-*Some maps drafted by Engineers are sold by [Lunfar](/wiki/lunfar/) in [Jahur](/wiki/jahur/).
+* The Master Mason of the Society is [Baron Harenghast](/wiki/baron-harenghast/), who is not popular with his subordinates ([29.14](/wiki/29-14/).52).
+* Some crack finders have contracted [lycanthropy](/wiki/lycanthropy/) in the Undercity ([36.11](/wiki/36-11/)).
+* The mud around Smuggler's Isle ([17.16](/wiki/17-16/)) is especially sought after by the Society of Engineers as an ingredient in their cement. This is not because it is especially strong but because it has a weak magical resonance that slowly fades with time, allowing the engineers to keep track of how old a certain piece of construction is. This is of especial use to the Department of Obscure Annexes as it allows them to detect suspicious new construction that may hide secret rooms.
+* Some maps drafted by Engineers are sold by [Lunfar](/wiki/lunfar/) in [Jahur](/wiki/jahur/).
 ### Hooks:
-*Who originally founded the Society, and why?
-*What dark secrets has the Society uncovered in their explorations of the Undercity?
-*What lies still buried in Vog's Folly?
-*How much of the Shuttered City's secrets does the Department of Obscure Annexes know?
-*What rumors (and bald-faced lies) have the Society been spreading to attract adventurers?
-*Are any of them true?
-Category:Organisations
-Category:The Shuttered City
-Category:Undercity
+* Who originally founded the Society, and why?
+* What dark secrets has the Society uncovered in their explorations of the Undercity?
+* What lies still buried in Vog's Folly?
+* How much of the Shuttered City's secrets does the Department of Obscure Annexes know?
+* What rumors (and bald-faced lies) have the Society been spreading to attract adventurers?
+* Are any of them true?
+
+
+

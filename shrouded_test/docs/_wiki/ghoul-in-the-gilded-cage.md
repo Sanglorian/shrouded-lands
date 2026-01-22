@@ -29,16 +29,16 @@ When Viceroy Rullaj summoned the Gnawer of Flame to perform for him and his cron
 
 It was not long before Helin and her lover fled into the trackless wastes to the west of the city. But in lands where men do no walk, ghouls are known to dance and howl. The strength of these foul creatures is greatest when their location is isolated. Even a small track will sap their power and being in a human city steals almost all of their strength. But despite this, they love the taste of human flesh and are known to use illusions to lure travelers away from roads and into the lands where they dwell. Perhaps this is what happened to Helin for she was not able to flee far from Jahar before ending up in the belly of the ghoul who now mimics her voice and form.
 ### Connection:
-*Helin and her lover were trying to reach the remote gnollish village of Abbalah-doon, where the gnoll still lives today ([15.28](/wiki/15-28/)).
+* Helin and her lover were trying to reach the remote gnollish village of Abbalah-doon, where the gnoll still lives today ([15.28](/wiki/15-28/)).
 ### Hooks:
-*What is the real reason for the strange site of the Sublime Divan?
-*What is the amber ichor and what effects does breathing in its mists (or falling into it) have?
-*Do any other gnolls possess the power of singing images into smoke?
-*Any other interesting ghouls about? Being able to take on the form of anyone you eat must be a useful power to have...
-Category:Creatures
-Category:Characters
-Category:Jahur
-Category:The Singing Wastes
-Category:Ghouls
-Category:Gnolls
-Category:Humans
+* What is the real reason for the strange site of the Sublime Divan?
+* What is the amber ichor and what effects does breathing in its mists (or falling into it) have?
+* Do any other gnolls possess the power of singing images into smoke?
+* Any other interesting ghouls about? Being able to take on the form of anyone you eat must be a useful power to have...
+
+
+
+
+
+
+

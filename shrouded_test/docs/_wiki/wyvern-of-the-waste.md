@@ -19,12 +19,12 @@ Despite the havoc she wreaks, both gnolls and dwarves honor the wyvern in their 
 
 A broken [Janissary](/wiki/janissaries/) of [Jahur](/wiki/jahur/) named [Jonah](/wiki/jonah/) lies among her hoard. He lost his legs when she ambushed their caravan, and his remaining limbs have not been oiled in years. His mind and soul, however, remain intact. He will be very grateful for any assistance in returning to his beloved Jahur.
 ### Hooks
-*Has the wyvern ever laid eggs? Where is her mate?
-*Why have all of these hardened dwarves and gnolls been unable to slay her after all these years?
-*Did gnolls, or anyone else, ever ride her?
-*Is she really the destined savior of the dwarves?
-*What can Jonah offer his rescuers?
-*What else lies in her hoard?
-Category:Dragons
-Category:Creatures
-Category:The Burning Lands
+* Has the wyvern ever laid eggs? Where is her mate?
+* Why have all of these hardened dwarves and gnolls been unable to slay her after all these years?
+* Did gnolls, or anyone else, ever ride her?
+* Is she really the destined savior of the dwarves?
+* What can Jonah offer his rescuers?
+* What else lies in her hoard?
+
+
+

@@ -31,7 +31,7 @@ The few who fled the dragon still dwell in the deep tunnels. Since the attack tw
 * How did the dwarves manage to trade with the Hoard? Their path is long and perilous.
 * Tell me about some interesting characters who live in the ruins.
 * How did the ghouls find their way into the tunnels? 
-Category:Hex
-Category:The Lands of Gore
-Category:Gnomes
-Category:Dwarves
+
+
+
+

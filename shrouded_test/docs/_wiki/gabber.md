@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 A language spoken by circus folk, travellers, sexual deviants and [Scarecrows](/wiki/scarecrows/).
-Category:Languages
+

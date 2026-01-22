@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 [Dogs](/wiki/dogs/)
-Category:Animals
+

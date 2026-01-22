@@ -12,9 +12,9 @@ categories:
 media: []
 ---
 A family of [halflings](/wiki/halflings/).
-*[Dugglet Bolger](/wiki/dugglet-bolger/)
+* [Dugglet Bolger](/wiki/dugglet-bolger/)
 Live in the Bolger Freehold ([11.08](/wiki/11-08/)).
-Category:Families
-Category:Halflings
-Category:Characters
-Category:Bolgers
+
+
+
+

@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Copperhairs
 ---
 #REDIRECT[Copperhairs](/wiki/copperhairs/)
-Category:Synonyms
+

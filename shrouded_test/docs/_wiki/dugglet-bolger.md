@@ -22,12 +22,12 @@ A slave, taking advantage of the confusion to escape, stumbled across Dugglet an
 Dugglet lives now in the Shuttered City, in the desperate hope that its hustle and bustle will drown out the relentless beating of the drums. They rhythms echo across one another, creating new compositions that he jots down feverishly. The escaped slave cares for Dugglet and - unbeknownst to him - has been performing the pieces to great acclaim in the city.
 
 ### Hooks:
-*If he was an organist, why was Dugglet rummaging around in the tunnels of Titan's Skull?
-*Do these pieces have the same power as the original dwarven beats?
-*Who is the escaped slave?
-*Does the escaped slave have a patron?
-*What will Dugglet do if he finds out that his pieces are performed?
-Category:Characters
-Category:The Shuttered City
-Category:Halflings
-Category:Bolgers
+* If he was an organist, why was Dugglet rummaging around in the tunnels of Titan's Skull?
+* Do these pieces have the same power as the original dwarven beats?
+* Who is the escaped slave?
+* Does the escaped slave have a patron?
+* What will Dugglet do if he finds out that his pieces are performed?
+
+
+
+

@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Elhanen
 ---
 #REDIRECT[Elharen the Silent](/wiki/elharen-the-silent/)
-Category:Synonyms
+

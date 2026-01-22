@@ -21,10 +21,10 @@ After each of his auguries he retreats to his tower in the northern edge of the 
 
 In any case, as the half-blooded prince grew to manhood he wished to see the stars that he had heard so much about. So he told the Bloodied King that as he had the blood of unseelie elves, he should be able to walk under the stars as his mother had done. The Bloodied King agreed and allowed him to walk under the stars as his mother and under the sun as his father, but forbade him from ever entering the Holt of the elves again. Since then he has kept away from other elves, his dreams growing ever stranger and grander.
 ### Connections
-*The Bastard Prince wears jewellry made by Toadvine ([30.09](/wiki/30-09/)) that alert him to nearby dangers.
+* The Bastard Prince wears jewellry made by Toadvine ([30.09](/wiki/30-09/)) that alert him to nearby dangers.
 ### Hooks:
-*What has the prince learned from the stars so far? What is he trying to do that he believes will unite the sundered courts under his rule?
-Category:Characters
-Category:Elves
-Category:Unseelie elves
-Category:The Kingswood
+* What has the prince learned from the stars so far? What is he trying to do that he believes will unite the sundered courts under his rule?
+
+
+
+

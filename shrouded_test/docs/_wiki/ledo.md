@@ -20,13 +20,13 @@ As part of that plan, he trained some of his [half-elf](/wiki/half-elves/) child
 
 If Ledo is ever killed, it will be no great loss. It will only take his father a few decades to sire and train another assassin and then the hunt will continue.
 ### Connection:
-*[Egil Longspear](/wiki/egil-longspear/) offended Cerelaine by rescuing a dozen human children that had been kidnapped by the elf.
-*Egil called Longspear when his signature weapon was a bastard sword because he was a son of [Hardrald Longspear](/wiki/hardrald-longspear/), who fought with a longspear.
+* [Egil Longspear](/wiki/egil-longspear/) offended Cerelaine by rescuing a dozen human children that had been kidnapped by the elf.
+* Egil called Longspear when his signature weapon was a bastard sword because he was a son of [Hardrald Longspear](/wiki/hardrald-longspear/), who fought with a longspear.
 ### Hooks:
-*Who is the avenging elf anyway? Why doesn't he kill people himself?
-*What sort of training does Ledo have? Who else has he killed?
-*Who is Ledo's current target?
-Category:Characters
-Category:Half-elves
-Category:Winds
-Category:Assassins
+* Who is the avenging elf anyway? Why doesn't he kill people himself?
+* What sort of training does Ledo have? Who else has he killed?
+* Who is Ledo's current target?
+
+
+
+

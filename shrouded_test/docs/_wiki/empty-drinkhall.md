@@ -21,11 +21,11 @@ One benefit of the experience is that the participant awakes the next day totall
 Illusionists treat the sophisticated phantasms that they apply as if they were cocktails, carefully blending different effects. Each one warns not to mix the ‘cocktail’ of one illusionist with that of another.
 
 ### Hooks
-*What happens if you mix cocktails?
-*Why does the Indigo Academy do this?
-*Why did the Hierophant ban revelry?
-*Are there any actual taverns in Ninbolm?
-Category:Ninbolm
-Category:Gnomes
-Category:Customs
-Category:Magic
+* What happens if you mix cocktails?
+* Why does the Indigo Academy do this?
+* Why did the Hierophant ban revelry?
+* Are there any actual taverns in Ninbolm?
+
+
+
+

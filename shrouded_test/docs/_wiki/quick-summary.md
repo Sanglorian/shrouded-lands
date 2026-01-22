@@ -9,7 +9,7 @@ categories:
 media: []
 ---
 ## Notable Regions
-**The Kingswood:** A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor.
+* *The Kingswood:** A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor.
 
 The City of Shuttered Windows: Largest city in the Lands, ancient and labyrinthine. It is very slowly sinking into the ground and is strongly religious. Feels like Vornheim crossed with Venice.
 

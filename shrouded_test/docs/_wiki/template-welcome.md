@@ -10,7 +10,7 @@ media: []
 ---
 <h2>Hi there!</h2>
 thumb|Welcome!
-**Welcome to our wiki, and thank you for your contributions! There's a lot to do around here, so I hope you'll stay with us and make many more improvements.**
+* *Welcome to our wiki, and thank you for your contributions! There's a lot to do around here, so I hope you'll stay with us and make many more improvements.**
 
 :**[Recent changes](/wiki/specialrecentchanges/)** is a great first stop, because you can see what pages other people have been editing, and where you can help.
 

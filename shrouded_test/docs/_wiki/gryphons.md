@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Griffins
 ---
 #REDIRECT[Griffins](/wiki/griffins/)
-Category:Synonyms
+

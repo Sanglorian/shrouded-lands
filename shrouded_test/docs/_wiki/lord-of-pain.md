@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Alberon
 ---
 #REDIRECT[Alberon](/wiki/alberon/)
-Category:Synonyms
+

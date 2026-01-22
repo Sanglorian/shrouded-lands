@@ -8,5 +8,5 @@ categories:
   []
 media: []
 ---
-*[Peacockatrices](/wiki/peacockatrices/)
-*The [Halloverian Shield](/wiki/halloverian-shield/) depicts a squawking chicken in full flight (the [Hallovers](/wiki/hallovers/) claim that it is a cockatrice)
+* [Peacockatrices](/wiki/peacockatrices/)
+* The [Halloverian Shield](/wiki/halloverian-shield/) depicts a squawking chicken in full flight (the [Hallovers](/wiki/hallovers/) claim that it is a cockatrice)

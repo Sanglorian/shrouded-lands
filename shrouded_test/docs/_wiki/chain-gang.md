@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 Could refer to the [Chain Gang (Azurnay)](/wiki/chain-gang-(azurnay)/) or the [Chain Gang (Thring)](/wiki/chain-gang-thring/)
-Category:Disambiguation
+

@@ -23,13 +23,13 @@ Long was the journey to return the body of that saint to his homeland. When he a
 
 The Tomb lies now at the very lowest depths of the Shuttered City, as it was built before the time of sinking began. The original streets are cold and silent, though some whisper that they are not entirely uninhabited...
 ### Hooks:
-*Wait a minute! Bergolast was in the land of eternal ice? What happened since then to make it into the Burning Lands?
-*Who were the Nine Immortals? Are any of them still alive? Is [Master Var](/wiki/master-var/) ([43.03](/wiki/43-03/)) one of them?
-*What happened to the Knife of Jarmond? Was it taken back to his tomb or left in Bergolast? And what exactly are its properties?
-*Who carried Jarmond's body back to the City, and how?
-*What are the other eight prophecies of Jarmond?
-*What else can be found on the lowest levels of the Shuttered City?
-Category:Characters
-Category:Alberon
-Category:Bergolast
-Category:The Shuttered City
+* Wait a minute! Bergolast was in the land of eternal ice? What happened since then to make it into the Burning Lands?
+* Who were the Nine Immortals? Are any of them still alive? Is [Master Var](/wiki/master-var/) ([43.03](/wiki/43-03/)) one of them?
+* What happened to the Knife of Jarmond? Was it taken back to his tomb or left in Bergolast? And what exactly are its properties?
+* Who carried Jarmond's body back to the City, and how?
+* What are the other eight prophecies of Jarmond?
+* What else can be found on the lowest levels of the Shuttered City?
+
+
+
+

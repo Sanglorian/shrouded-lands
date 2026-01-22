@@ -14,7 +14,7 @@ media: []
 A cabal of [machinists](/wiki/machinists/) operating in [Azurnay](/wiki/azurnay/).
 
 Not be be confused with the Duke of Thring's [Chain Gang](/wiki/chain-gang-thring/)
-Category:Organisations
-Category:Dwarves
-Category:Machinists
-Category:The Burning Lands
+
+
+
+

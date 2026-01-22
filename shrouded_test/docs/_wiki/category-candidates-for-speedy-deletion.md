@@ -12,6 +12,6 @@ There are a few, special cases that {{SITENAME}} speedily deletes articles or fi
 
 Deleted articles are automatically listed in the [deletion log](/wiki/speciallogdelete/). 
 
-See also :Category:Pages proposed for deletion.
+See also :
 
-Category:Site maintenance
+

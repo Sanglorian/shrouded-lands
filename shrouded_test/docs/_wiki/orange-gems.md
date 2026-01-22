@@ -14,5 +14,5 @@ media: []
 [03.04](/wiki/03-04/)
 
 [15.15](/wiki/15-15/)
-Category:Phenomena
-Category:Gems
+
+

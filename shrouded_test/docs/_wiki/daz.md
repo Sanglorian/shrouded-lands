@@ -18,13 +18,13 @@ Though it is rarely spoken of in Thring, the truth is that the Daz and other pre
 
 [Ulthar the Loved](/wiki/ulthar-the-loved/) took this savage tradition and turned it into the modern concept of the paladin; the grotesque union with Melgerez was replaced by the chaste marriage to the [Green Lady](/wiki/green-lady/). Nevertheless, today's paladins ultimately draw on the same source of ancient pagan power that is bound into the land of [Thring](/wiki/thring/).
 ### Hooks:
-*What's the connection between the manta-people and the Daz? Are they both different degenerations of the same antediluvian race?
-*What happens to the Daz when they disappear into the river? Is there an Innsmouth-style colony beneath the waters?
-*Where were the Daz temporarily resettled, and what's there now?
-*Are there any *palladhyu* still around today?
-*Who or what was Melgerez? Was she really a goddess or some sort of lake-dwelling abomination?
+* What's the connection between the manta-people and the Daz? Are they both different degenerations of the same antediluvian race?
+* What happens to the Daz when they disappear into the river? Is there an Innsmouth-style colony beneath the waters?
+* Where were the Daz temporarily resettled, and what's there now?
+* Are there any *palladhyu* still around today?
+* Who or what was Melgerez? Was she really a goddess or some sort of lake-dwelling abomination?
 ### Connections
-*The Daz scratched a chalk horse into the grass north of here ([18.13](/wiki/18-13/)).
-Category:Peoples
-Category:The Duchy of Thring
-Category:Paladins
+* The Daz scratched a chalk horse into the grass north of here ([18.13](/wiki/18-13/)).
+
+
+

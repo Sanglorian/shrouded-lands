@@ -24,11 +24,11 @@ which allows people to enter the City after curfew and is where priests of forei
 The Priests-Militant collaborate with the [Dead Men](/wiki/dead-men/), though the holy assassins ensure that the Dead Men die after the mission.
 
 ## Connections
-*When [Isane and Orsine](/wiki/isane-and-orsine/) were born conjoined twins, the Priests-Militant attempted to divide them.
-Category:Priests
-Category:Alberon
-Category:The Shuttered City
-Category:Warriors
-Category:Knights
-Category:Professions
-Category:Religious groups
+* When [Isane and Orsine](/wiki/isane-and-orsine/) were born conjoined twins, the Priests-Militant attempted to divide them.
+
+
+
+
+
+
+

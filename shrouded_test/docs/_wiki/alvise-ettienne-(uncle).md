@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 The original of the [Ettiennes](/wiki/ettiennes/). Not to be confused with his [nephew of the same name](/wiki/alvise-ettienne-(nephew)/).
-Category:Characters
-Category:The Shuttered City
-Category:Ettiennes
+
+
+

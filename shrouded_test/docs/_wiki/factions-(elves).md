@@ -16,10 +16,10 @@ The elves of the Court ([Vo Tume](/wiki/vo-tume/) in their own language) are all
 
 Elves are flighty creatures, and their whims change with seasons and sometimes day by day, and sometimes those whims put one elf at odds with another. However, on any given sunny day, an elf will fall into one of four factions.
 ## Factions
-*[The Simple](/wiki/the-simple/)
-*[The Loyal](/wiki/the-loyal/)
-*The [Bound Bargainers](/wiki/bound-bargainers/)
-*The [Raiders](/wiki/raiders/)
-Category:Organisations
-Category:Elves
-Category:The Kingswood
+* [The Simple](/wiki/the-simple/)
+* [The Loyal](/wiki/the-loyal/)
+* The [Bound Bargainers](/wiki/bound-bargainers/)
+* The [Raiders](/wiki/raiders/)
+
+
+

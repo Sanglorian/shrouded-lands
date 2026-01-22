@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: City of Shuttered Windows
 ---
 #REDIRECT[The City Itself](/wiki/the-city-itself/)
-Category:Synonyms
+

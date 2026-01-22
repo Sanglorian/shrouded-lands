@@ -16,25 +16,25 @@ The **Witchmen** or **Witch Clans**, suspicious of outsiders, tend to marry with
 With the exception of the Faustys, strength of blood in the witch clans determines whether a person manifests the family power.
 
 The Witch Clans live mostly in [The Barrier Range](/wiki/the-barrier-range/), but the Birls and the Maddlows have scattered while the Penderghasts live in [The Duchy of Thring](/wiki/the-duchy-of-thring/). The Serendips live in distant Jahur.
-*[Birls](/wiki/birls/) (*animate wood; *scattered throughout Thring)
-*[Cransoms](/wiki/cransoms/) (*hallucinatory terrain; *adults killed, children kidnapped)
-*[Dungers](/wiki/dungers/) (*stinking cloud; *enslaved the Hallovers, tribal war with the Osseries)
-*[Faustys](/wiki/faustys/) (*summon monster*)
-*[Hallovers](/wiki/hallovers/) (*feather fall; *enslaved by the Dungers)
-*[Haverlies](/wiki/haverlies/) (*floating disc; *trapped in a valley)
-*[Maddlows](/wiki/maddlows/) (*geas; geased* to travel to the far corners of the Shrouded Lands)
-*[Mirdenlows](/wiki/mirdenlows/) (*willow shape; *?)
-*[Osseries](/wiki/osseries/) (*burning hands; *tribal war with Dungers)
-*[Penderghasts](/wiki/penderghasts/) (*disintegrate; *mostly wiped out)
-*[Serendips](/wiki/serendips/) (*change emotions; *extant but of uncertain status as a Clan)
-*[Wrannows](/wiki/wrannows/) (*rope trick*; extinct)
-*[Yarbeens](/wiki/yarbeens/) (unknown spell; isolated in valley)
+* [Birls](/wiki/birls/) (*animate wood; *scattered throughout Thring)
+* [Cransoms](/wiki/cransoms/) (*hallucinatory terrain; *adults killed, children kidnapped)
+* [Dungers](/wiki/dungers/) (*stinking cloud; *enslaved the Hallovers, tribal war with the Osseries)
+* [Faustys](/wiki/faustys/) (*summon monster*)
+* [Hallovers](/wiki/hallovers/) (*feather fall; *enslaved by the Dungers)
+* [Haverlies](/wiki/haverlies/) (*floating disc; *trapped in a valley)
+* [Maddlows](/wiki/maddlows/) (*geas; geased* to travel to the far corners of the Shrouded Lands)
+* [Mirdenlows](/wiki/mirdenlows/) (*willow shape; *?)
+* [Osseries](/wiki/osseries/) (*burning hands; *tribal war with Dungers)
+* [Penderghasts](/wiki/penderghasts/) (*disintegrate; *mostly wiped out)
+* [Serendips](/wiki/serendips/) (*change emotions; *extant but of uncertain status as a Clan)
+* [Wrannows](/wiki/wrannows/) (*rope trick*; extinct)
+* [Yarbeens](/wiki/yarbeens/) (unknown spell; isolated in valley)
 ### Hooks
-*What do the Witch Clans call themselves?
-*What is the source of their magical bloodlines?
-*What other clans are there?
-*Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with *[27.09](/wiki/27-09/)*?
-*The Faustys and the Wrannows have a connection to other dimensions. Do the witch clans have a connection to the planes?
+* What do the Witch Clans call themselves?
+* What is the source of their magical bloodlines?
+* What other clans are there?
+* Why do all of the Witchmen have copper hair? Is it just the case of a gene pool that's too small or is there some connection with *[27.09](/wiki/27-09/)*?
+* The Faustys and the Wrannows have a connection to other dimensions. Do the witch clans have a connection to the planes?
 ### <span style="font-size:20px;">Random Witch Clan Table</span>
 The *colour ward *spell was inspired by [http://dndwithpornstars.blogspot.com.au/ D&D with Pornstars]
 
@@ -107,7 +107,7 @@ To create a new witch clan, roll once on each of these tables.
 #The Whumpids
 #The Charnies
 #The Dadiwhirls
-Category:Families
-Category:The Barrier Range
-Category:Witch Clans
-Category:Peoples
+
+
+
+

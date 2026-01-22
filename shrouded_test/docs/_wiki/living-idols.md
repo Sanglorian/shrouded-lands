@@ -11,4 +11,4 @@ media: []
 [14.14](/wiki/14-14/)
 
 [24.29](/wiki/24-29/)
-Category:Deities
+

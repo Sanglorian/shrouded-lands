@@ -25,11 +25,11 @@ The whole City turned out to watch the Black Balloon rise. Yilbar was on it, alo
 Nobody knows why the Balloon is not returning. However, a few hours after its ascent, a flaming body was seen to fall from it before bursting into ashes on the pavement. A distinctive silver ring identified the body as Yilbar the Illustrious.
 
 #### Connection:
-*Yilbar constructed a balloon for the fabulously wealthy [Count Seutorian](/wiki/count-seutorian/) ([30.12](/wiki/30-12/)) in the likeness of [Baron Horenghast](/wiki/baron-horenghast/)‘s mother.
+* Yilbar constructed a balloon for the fabulously wealthy [Count Seutorian](/wiki/count-seutorian/) ([30.12](/wiki/30-12/)) in the likeness of [Baron Horenghast](/wiki/baron-horenghast/)‘s mother.
 #### Hooks:
-*Where did the black gas come from?
-*What happened to Yilbar, and why hasn't the balloon come down?
-*Yilbar's son is offering a handsome reward to anyone who can get up to the balloon and rescue his sisters, if they still live. But how would anyone get up that high?
-Category:Buildings
-Category:The Shuttered City
-Category:Artifacts
+* Where did the black gas come from?
+* What happened to Yilbar, and why hasn't the balloon come down?
+* Yilbar's son is offering a handsome reward to anyone who can get up to the balloon and rescue his sisters, if they still live. But how would anyone get up that high?
+
+
+

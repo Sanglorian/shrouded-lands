@@ -9,10 +9,10 @@ categories:
   - "Category:Longspears"
 media: []
 ---
-**Family:** [Longspears](/wiki/longspears/). Jayla is the great-granddaughter of [Egil Longspear](/wiki/egil-longspear/) on her mother's side.
+* *Family:** [Longspears](/wiki/longspears/). Jayla is the great-granddaughter of [Egil Longspear](/wiki/egil-longspear/) on her mother's side.
 
 A fierce young woman rumored to be the disowned daughter of [Crossbow Henry](/wiki/crossbow-henry/). A regular at the [Sundial Inn](/wiki/sundial-inn/).
 ## Connection
-*[Ledo](/wiki/ledo/) is planning to kill all descendents of Egil Longspear.
-Category:Characters
-Category:Longspears
+* [Ledo](/wiki/ledo/) is planning to kill all descendents of Egil Longspear.
+
+

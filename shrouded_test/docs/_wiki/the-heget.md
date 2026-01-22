@@ -17,5 +17,5 @@ A small percentage of these sons (perhaps 10%) grow true, resembling their fathe
 ## Hooks
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">-Why does one of the Heget's sons look like the Doge? Is he the father? How could that be if the Heget eats each of her mates?</span></p>
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">-Who else has the Heget eaten?</p>
-Category:Characters
-Category:Creatures
+
+

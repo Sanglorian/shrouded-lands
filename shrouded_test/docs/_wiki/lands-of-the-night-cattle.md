@@ -49,8 +49,8 @@ From the western plains, past the edge of the Kingswood and up into the northern
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">-A strange tree has been eating cows while the herdmen blame each other for the disappearances ([27.03](/wiki/27-03/)).</span></p>
 
 ## Hooks
-*What cults value these albino cows for sacrifices?
-*Who are the individual lords who rule the various keeps of the night men?
-*Why do some elves want human infants?
-Category:Regions
-Category:The Lands of the Night Cattle
+* What cults value these albino cows for sacrifices?
+* Who are the individual lords who rule the various keeps of the night men?
+* Why do some elves want human infants?
+
+

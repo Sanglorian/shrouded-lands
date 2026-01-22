@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Flea
 ---
 #REDIRECT[Flea](/wiki/flea/)
-Category:Synonyms
+

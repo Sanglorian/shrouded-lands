@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 Spoken at least by the [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/)
-Category:Languages
-Category:Gnolls
-Category:The Burning Lands
+
+
+

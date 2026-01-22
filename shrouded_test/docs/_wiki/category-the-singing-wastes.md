@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 [The Singing Wastes](/wiki/the-singing-wastes/)
-Category:Regions
+

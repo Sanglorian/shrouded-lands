@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 Bullywugs who had lived in the slums of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/) have settled Yrump Marsh ([26.19](/wiki/26-19/))
-Category:Creatures
-Category:Peoples
-Category:Hinterlands of Blind Midshotgatepool
+
+
+

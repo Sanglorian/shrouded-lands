@@ -14,8 +14,7 @@ Although now retired, Sister Nadela is surely the most famous of the handful of 
 Her lion yet lives; thought it is old and toothless. The pair enjoys a quiet life looking after a herd of sheep (in [18.19](/wiki/18-19/)) that Nadela keeps penned not far from the Forked Castle ([17.18](/wiki/17-18/)). However, the lion (who, to the great annoyance of the Duke, Nadela named Cuddles) is very protective of the lambs that it allows to gambol around it and will leap arthritically at any who harass them. Nadela herself keeps herself spry by driving off overly persistent suitors from Lady Tyhon's halls.
 
 #### Hooks:
-*Is Nadela related to any Thringish Ladies or was her mother a commoner?
+* Is Nadela related to any Thringish Ladies or was her mother a commoner?
+* What adventures have she and Cuddles had?
 
-*What adventures have she and Cuddles had?
-Category:The Duchy of Thring
-Category:Characters
+

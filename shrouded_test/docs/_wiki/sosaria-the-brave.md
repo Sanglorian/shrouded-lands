@@ -10,7 +10,7 @@ categories:
   - "Category:Sosaria"
 media: []
 ---
-**Inspiration:** *The Invention of Scotland*
+* *Inspiration:** *The Invention of Scotland*
 ## Sosaria the Brave
 The civic anthem of [Sosaria](/wiki/sosaria/), *Sosaria the Brave*, is remarkable both for its content and the response that it provokes from Sosarians.
 
@@ -22,9 +22,9 @@ The song, the *kashik* robes and the *daggith* stance are products of the [Redis
 
 These days the conflict plays itself out in feast halls, theatres and operas across the city, where first or second generation Sosarians perform ‘millennium-old’ Sosarian cattle chants while families that go back to the days of Bergolast attend the latest play from Shuttered.
 ### Hooks
-*Tell us more about the Reformation. Does it survive today? Did it have much success? Who participated?
-*Was all the Rediscovery made up? Or was there some truth to it?
-*What sort of plays are being performed in Shuttered?
-Category:Songs
-Category:Sosaria
-Category:Bergolast
+* Tell us more about the Reformation. Does it survive today? Did it have much success? Who participated?
+* Was all the Rediscovery made up? Or was there some truth to it?
+* What sort of plays are being performed in Shuttered?
+
+
+

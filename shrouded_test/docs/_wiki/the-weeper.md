@@ -24,6 +24,6 @@ media: []
 
 ## Hook
 <li align="left" class="MsoNormal" style="margin-bottom:6pt;"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">What other secrets does the Weeper know?</span></li>
-Category:Characters
-Category:Elves
-Category:Wizards
+
+
+

@@ -4,12 +4,6 @@ import re
 ROOT = Path(__file__).resolve().parents[1]  # docs/
 WIKI_DIR = ROOT / "_wiki"
 
-# Match lines where:
-#   - optional leading spaces
-#   - a single * or -
-#   - immediately followed by a non-space character
-BULLET_RE = re.compile(r'^(\s*)([*-])(\S.*)$')
-
 def split_front_matter(text: str):
     """Return (front_matter_block, body_text)."""
     if not text.startswith("---"):
@@ -21,31 +15,32 @@ def split_front_matter(text: str):
     body = parts[2].lstrip("\n")
     return fm_block, body
 
-def fix_body(body: str):
-    lines = body.splitlines(keepends=True)
-    out = []
-    changed = False
+def fix_body(body: str) -> str:
+    # 1) Remove inline Category:... markers (we use front matter instead)
+    #    e.g. "...?Category:Hex" → "...?"
+    body = re.sub(r"Category:[^\n]+", "", body)
 
-    for line in lines:
-        m = BULLET_RE.match(line)
-        if m:
-            indent, bullet, rest = m.groups()
-            # Insert a space after the bullet
-            new_line = f"{indent}{bullet} {rest}"
-            out.append(new_line)
-            if new_line != line:
-                changed = True
-        else:
-            out.append(line)
+    # 2) Ensure bullets have a space after * or - when they start a line
+    #    (^ or \n) + optional indent + * or - + non-space → add space
+    body = re.sub(r"(^|\n)(\s*)([*-])(\S)", r"\1\2\3 \4", body)
 
-    return "".join(out), changed
+    # 3) Ensure each bullet starts on its own line.
+    #    If we see "?.* * " or "!. * * " or ".* * " etc, insert a newline
+    #    before the bullet marker.
+    #    This catches things like:
+    #      "* What ...?* Does ...?* Who ...?"
+    body = re.sub(r"([.?!])\s*(\* )", r"\1\n\2", body)
+    body = re.sub(r"([.?!])\s*(- )", r"\1\n\2", body)
+
+    return body
 
 def main():
     for md in WIKI_DIR.glob("*.md"):
         text = md.read_text(encoding="utf-8")
         fm_block, body = split_front_matter(text)
-        new_body, changed = fix_body(body)
-        if changed:
+        new_body = fix_body(body)
+
+        if new_body != body:
             md.write_text(fm_block + new_body, encoding="utf-8")
             print(f"Fixed bullets in {md.name}")
 

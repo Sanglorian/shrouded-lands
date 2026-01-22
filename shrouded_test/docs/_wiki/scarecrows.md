@@ -19,13 +19,13 @@ media: []
 
 <p style="margin-bottom:0in">There are Scarecrows’ nests even in the Kingswood. Each has a single entrance marked with a rod of hawthorn ([38.06](/wiki/38-06/)), past which the elves will not pass. However, if the elves realise that the nest is inhabited they will do what they can to cause strife to those inside—perhaps leaving a beehive poised above the threshold or leading a bear to the cave.</p>
 ### Connections
-*The Scarecrows are concerned about the Skinscratch Murders ([02.11.02](/wiki/02-11/)).
-*A Scarecrow named Anyissa has taken a golden egg from one of the treasure stashes of a dragon named Celadon ([10.12](/wiki/10-12/)).
+* The Scarecrows are concerned about the Skinscratch Murders ([02.11.02](/wiki/02-11/)).
+* A Scarecrow named Anyissa has taken a golden egg from one of the treasure stashes of a dragon named Celadon ([10.12](/wiki/10-12/)).
 ### Hooks
-*What other groups recognise travellers’ marks?
-*What are travellers’ marks like?
-*Why does the hawthorn rod repulse the elves?
-*Who are some famous Scarecrows?
-Category:Organisations
-Category:Scarecrows
-Category:Professions
+* What other groups recognise travellers’ marks?
+* What are travellers’ marks like?
+* Why does the hawthorn rod repulse the elves?
+* Who are some famous Scarecrows?
+
+
+

@@ -36,16 +36,16 @@ Simone the Fowl was embalmed, interred in a gold jewel-encrusted casket, and lai
 
 And that is why to this very day the people of Shuttered put roosters on their weathervanes.
 ### Hooks:
-*What other momentous events occurred during the glorious reign of Doge Simone the Fowl?
-*Does the ghost of Simone the Foul still haunt the foothills?
-*Is Geda the Fair known for anything else?
-*Who else might be descended from her?
-*Are Simonian Cuckoos really lucky? Does it even matter if they’re legitimate or bastards?
-*What kind of morons elect a chicken to high office?!
-Category:Characters
-Category:Creatures
-Category:Animals
-Category:Birds
-Category:Chickens
-Category:Doges
-Category:The Shuttered City
+* What other momentous events occurred during the glorious reign of Doge Simone the Fowl?
+* Does the ghost of Simone the Foul still haunt the foothills?
+* Is Geda the Fair known for anything else?
+* Who else might be descended from her?
+* Are Simonian Cuckoos really lucky? Does it even matter if they’re legitimate or bastards?
+* What kind of morons elect a chicken to high office?!
+
+
+
+
+
+
+

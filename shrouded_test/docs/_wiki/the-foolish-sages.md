@@ -20,20 +20,20 @@ The time-splintered sages can yet be seen at Border's Hill. They look like a col
 
 To make matters even more grotesque, it is possible for the two halves of one sage to come into contact with each other, and it is not uncommon to see one of the sages arguing vehemently with his past or future self. In fact, one sage who brought his pretty young wife with him from Tarengael ([16.16](/wiki/16-16/))* *is now constantly vying with his past self for her love.
 #### Connections:
-*The bastard daughter of one of the Sages is a hedge wizard who is poking around the Piss-and-Shit Castle ([13.12](/wiki/13-12/)).
-*The remnants of the Foolish Sages will pay to have the Inverted Temple ([20.20](/wiki/20-20/)) mapped so that it may be properly explored when they have recovered from the Black Ziggurat fiasco.
-*The foolish sages attempted to turn the Duke’s livestock into cowhorses ([16.16.05](/wiki/16-16/)) with unfortunate results.
-*The Sages have recently learned of the discovery of the misplaced obelisk *([46.01](/wiki/46-01/))*.
-*The Sages know the weakness of the witch-hounds ([22.16](/wiki/22-16/)).
-*The Sages have learned that the descendants of the lost books of the lizardman historian Kashikik now slither about the Haunt of the Mud Dragons *([16.23](/wiki/16-23/))*.
-*The Foolish Sages desire any scrolls that record dialogues between Moldenke the Aloof and the demons he conjured ([21.16](/wiki/21-16/)).
-*The Sages must now teach a crocodile to joust ([18.17](/wiki/18-17/)).
+* The bastard daughter of one of the Sages is a hedge wizard who is poking around the Piss-and-Shit Castle ([13.12](/wiki/13-12/)).
+* The remnants of the Foolish Sages will pay to have the Inverted Temple ([20.20](/wiki/20-20/)) mapped so that it may be properly explored when they have recovered from the Black Ziggurat fiasco.
+* The foolish sages attempted to turn the Duke’s livestock into cowhorses ([16.16.05](/wiki/16-16/)) with unfortunate results.
+* The Sages have recently learned of the discovery of the misplaced obelisk *([46.01](/wiki/46-01/))*.
+* The Sages know the weakness of the witch-hounds ([22.16](/wiki/22-16/)).
+* The Sages have learned that the descendants of the lost books of the lizardman historian Kashikik now slither about the Haunt of the Mud Dragons *([16.23](/wiki/16-23/))*.
+* The Foolish Sages desire any scrolls that record dialogues between Moldenke the Aloof and the demons he conjured ([21.16](/wiki/21-16/)).
+* The Sages must now teach a crocodile to joust ([18.17](/wiki/18-17/)).
 
 #### Hooks:
-*What were the 'incursions' that the tower on Border's Hill was set up to defend against? Why is defense no longer necessary?
-*What exactly was the experiment that got the Foolish Sages kicked out of **Thring**?
-*What other foolish experiments have the sages performed in their quest for knowledge?
-*Can a time-splintered sage be used to predict the future?
-Category:The Duchy of Thring
-Category:Organisations
-Category:Creatures
+* What were the 'incursions' that the tower on Border's Hill was set up to defend against? Why is defense no longer necessary?
+* What exactly was the experiment that got the Foolish Sages kicked out of **Thring**?
+* What other foolish experiments have the sages performed in their quest for knowledge?
+* Can a time-splintered sage be used to predict the future?
+
+
+

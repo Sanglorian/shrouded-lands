@@ -16,16 +16,16 @@ The people of Dogtur only ever remain in one place for a few weeks at a time, pi
 
 Few know why the [shamans](/wiki/shamans/) of the Dogtur choose to move their camp constantly around the plains. However, if they were ever to set up permanent residence in the area, they would soon learn. An evil curse was placed upon these plains, which takes the form of a massive sinkhole opening up suddenly beneath one's feet. Though it can appear anywhere, the sinkhole is most often drawn toward large concentrations of human activity, especially if they stay in one place for too long. None have settled for longer than a month in this place before they draw the attention of the terrible chasm.
 ## Connections
-*[05.07](/wiki/05-07/) is a prime hunting spot for the Dogtar
-*People and young Dogtar warriors are initiated by trekking through the Mocking Hills ([04.07](/wiki/04-07/)).
-*The Chant of Morning ([17.07](/wiki/17-07/).03) seems to refer to the ur-dog.
-*The [Houndishmen](/wiki/houndishmen/) are distant relatives of the Dogtur.
+* [05.07](/wiki/05-07/) is a prime hunting spot for the Dogtar
+* People and young Dogtar warriors are initiated by trekking through the Mocking Hills ([04.07](/wiki/04-07/)).
+* The Chant of Morning ([17.07](/wiki/17-07/).03) seems to refer to the ur-dog.
+* The [Houndishmen](/wiki/houndishmen/) are distant relatives of the Dogtur.
 ## Hooks
-*The people of Dogtur are welcoming you with open arms! This is a rare occasion...What could they possibly want?
-*What otherworldly treasures are to be found in the chasm?
-*Who placed the curse on the plains originally? Did it target the Dogtur, or are they just unfortunate bystanders?
-*What other types of dog-monsters dwell here?
-*Has anyone tried to settle these plains and been swallowed up by the pit?
-Category:Peoples
-Category:Humans
-Category:The Westmarches
+* The people of Dogtur are welcoming you with open arms! This is a rare occasion...What could they possibly want?
+* What otherworldly treasures are to be found in the chasm?
+* Who placed the curse on the plains originally? Did it target the Dogtur, or are they just unfortunate bystanders?
+* What other types of dog-monsters dwell here?
+* Has anyone tried to settle these plains and been swallowed up by the pit?
+
+
+

@@ -12,4 +12,4 @@ This area of the site is for articles regarding the subject of the wiki. Add you
 
 {{category}}
 
-Category:Browse
+

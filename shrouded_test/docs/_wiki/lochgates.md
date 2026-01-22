@@ -19,18 +19,18 @@ The Lochgates are a temperamental, quarrelsome lot. Damages done to the lodge ar
 
 Lochgates claim that the founder of their house, [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), was the legendary fifth [Duke of Thring](/wiki/duke-of-thring/) ([18.11](/wiki/18-11/) and [16.16](/wiki/16-16/).09). Their version of the myth was that [Deloc](/wiki/deloc/), the fourth duke, recruited a band of chivalrous werebears to battle [Gore](/wiki/gore/). Deloc named Sweitbor his heir after discovering that his son and daughter were plotting to take his throne and imprison him, and Sweitbor reluctantly accepted the mantle when Deloc died in a duel with Gore's [Swordsage](/wiki/swordsage/) ([11.20](/wiki/11-20/)). The rest of Thring insists that Sweitbor was a brutal usurper who took the throne by force, and that his short reign was justly ended by Deloc's children.
 ### Connections:
-*[Seven Paces](/wiki/seven-paces/), the fabled weapon of [Hardrald Longspear](/wiki/hardrald-longspear/) ([22.11](/wiki/22-11/)), rests above Marcila's mantle. It has been in the lodge since a Marcila's great-uncle returned from a quest to the Freeholds.
-*[Grondelgar](/wiki/grondelgar/) serves as captain of [rangers](/wiki/rangers/) in [Winds](/wiki/winds/), and he vows to return with Seven Paces on his next visit to his grandmother. He is more interested in being hailed as a hero than he is in fulfilling any duty to the town.
-*The Lodge has been built by peasants supplied by the old lord of the [Keep of Drenach](/wiki/keep-of-drenach/), but then his son in law killed a werebear and his daughter decided to marry herself and things got complicated ([15.11](/wiki/15-11/)). But [Lady Anghart](/wiki/lady-anghart/) now hopes to make peace with the bears and extend human settlement into their forest ([14.11](/wiki/14-11/)).
+* [Seven Paces](/wiki/seven-paces/), the fabled weapon of [Hardrald Longspear](/wiki/hardrald-longspear/) ([22.11](/wiki/22-11/)), rests above Marcila's mantle. It has been in the lodge since a Marcila's great-uncle returned from a quest to the Freeholds.
+* [Grondelgar](/wiki/grondelgar/) serves as captain of [rangers](/wiki/rangers/) in [Winds](/wiki/winds/), and he vows to return with Seven Paces on his next visit to his grandmother. He is more interested in being hailed as a hero than he is in fulfilling any duty to the town.
+* The Lodge has been built by peasants supplied by the old lord of the [Keep of Drenach](/wiki/keep-of-drenach/), but then his son in law killed a werebear and his daughter decided to marry herself and things got complicated ([15.11](/wiki/15-11/)). But [Lady Anghart](/wiki/lady-anghart/) now hopes to make peace with the bears and extend human settlement into their forest ([14.11](/wiki/14-11/)).
 ### Hooks:
-*Who are some other Lochgates?
-*Who helps the werebears build and rebuild the lodge?
-*What else lurks in Loch Sable?
-*Do werebears get any unusual benefits from the honey of giant bees?
-*What is the white stag? Why does everyone want to slay it?
-*Was Sweitbor the Roarer, the fifth Duke of Thring, a hero or villain?
-*When have the Lochgates become entangled in regional politics? Whom did they serve and how?
-Category:Families
-Category:Lycanthropes
-Category:The Duchy of Thring
-Category:Bears
+* Who are some other Lochgates?
+* Who helps the werebears build and rebuild the lodge?
+* What else lurks in Loch Sable?
+* Do werebears get any unusual benefits from the honey of giant bees?
+* What is the white stag? Why does everyone want to slay it?
+* Was Sweitbor the Roarer, the fifth Duke of Thring, a hero or villain?
+* When have the Lochgates become entangled in regional politics? Whom did they serve and how?
+
+
+
+

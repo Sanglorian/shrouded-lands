@@ -15,11 +15,11 @@ media: []
 
 The Nekh, despite their hideous appearance and appalling hygiene, are not cruel or arbitrary like elves or gnolls. They simply demand tribute from anyone who enters their territory. In their minds, they are scions of an empire that includes everything from the [Sea of Typhoons](/wiki/sea-of-typhoons/) to the [Devil's Fingers](/wiki/devil's-fingers/) and the [Tantalus Mountains](/wiki/tantalus-mountains/) to [the Cornfields](/wiki/the-cornfields/). Tribute could include [elephants](/wiki/elephants/), [night cattle](/wiki/night-cattle/) or magic items. Those who fail to pay are harried to death then eaten.
 ### Connections
-*The Nekh and gnolls congregate twice a year at a strange temple to perform rites that ensure that game comes to these dry lands ([14.27](/wiki/14-27/)).
-*The rookeries of the most powerful Nekh tribe are built atop sand-blasted spires near The Breath of the Earth ([12.28](/wiki/12-28/)).
+* The Nekh and gnolls congregate twice a year at a strange temple to perform rites that ensure that game comes to these dry lands ([14.27](/wiki/14-27/)).
+* The rookeries of the most powerful Nekh tribe are built atop sand-blasted spires near The Breath of the Earth ([12.28](/wiki/12-28/)).
 ### Hooks
-*What relationship do the Nekh have with the Singing Waste's ghouls and gnolls?
-Category:Creatures
-Category:Peoples
-Category:The Singing Wastes
-Category:Birds
+* What relationship do the Nekh have with the Singing Waste's ghouls and gnolls?
+
+
+
+

@@ -20,13 +20,13 @@ Nothing remains of this ur-city on the surface. But occasionally, if a family de
 
 The city sprawls in miles and miles of tunnels, dead ends, storerooms, crypts, mithraeums and stranger rooms besides. The frescoes that decorate the walls are geometric and abstract; there seems to be no depiction of the original inhabitants. Of course, the fact that the tunnels are ten feet wide and 15 feet tall should give a hint to any adventurer who cannot figure out why the door handles are level with her face.
 ### Connection:
-*The artwork that can be found here resembles that of the Vale of Tirandelle ([22.00](/wiki/22-00/)).
-*The Old City is part of the [Undercity](/wiki/undercity/).
+* The artwork that can be found here resembles that of the Vale of Tirandelle ([22.00](/wiki/22-00/)).
+* The Old City is part of the [Undercity](/wiki/undercity/).
 ### Hooks:
-*Was it [giants](/wiki/giants/) who lived here? What happened to them?
-*What other settlements has Shuttered engulfed?
-Category:Buildings
-Category:Lost civilisations
-Category:Giants
-Category:The Shuttered City
-Category:Undercity
+* Was it [giants](/wiki/giants/) who lived here? What happened to them?
+* What other settlements has Shuttered engulfed?
+
+
+
+
+

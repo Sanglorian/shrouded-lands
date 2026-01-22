@@ -25,16 +25,16 @@ Although the Duke is not a kind man, Natala fell in love in an instant and nurse
 But their love could not last, for the Duke could not abandon his wife and Dukedom for her, but Lady Natala claims that the young lad who run whooping through the halls of Castle Maratan is the Duke's son and she means to see him sit on the high seat in Castle Tarengael ([16.16](/wiki/16-16/)) and rule all of the lands of Thring.
 ![Lady Natala confronts the Tarrasque.](/media/Fantasy033.jpg)
 ### Connections
-*One of Lady Natala’s agents has captured some [dancer's bloom](/wiki/dancers-bloom/) which is famous for boosting agility ([15.18](/wiki/15-18/)).
+* One of Lady Natala’s agents has captured some [dancer's bloom](/wiki/dancers-bloom/) which is famous for boosting agility ([15.18](/wiki/15-18/)).
 ### Hooks
-*How does being mixed with hobgobling shroom wine affect the effects of Tarrasque blood?
-*How did a snake come to bite the old lord of Castle Maratan?
-*How does Lady Natala plan to win the Dukedom of Thring from her son? Surely she knows that inheritance in Thring runs solely in the female line?
-*Is the boy truly the Duke's son?
+* How does being mixed with hobgobling shroom wine affect the effects of Tarrasque blood?
+* How did a snake come to bite the old lord of Castle Maratan?
+* How does Lady Natala plan to win the Dukedom of Thring from her son? Surely she knows that inheritance in Thring runs solely in the female line?
+* Is the boy truly the Duke's son?
 
 ### Connections
-*Lady Natala ended up pregnant with her lady in waiting’s child in a stirge-related accident (see [royal family of Gore](/wiki/royal-family-of-gore/) for more).
-*Sheemie, a [Mirdenlow](/wiki/the-mirdenlows/), is spying on Sulgrim for Lady Natala. Natala hopes to drive Sulgrim from the keep and return it to a rightful Lord Sanguine.
-Category:The Lands of Gore
-Category:Lords Sanguine
-Category:Characters
+* Lady Natala ended up pregnant with her lady in waiting’s child in a stirge-related accident (see [royal family of Gore](/wiki/royal-family-of-gore/) for more).
+* Sheemie, a [Mirdenlow](/wiki/the-mirdenlows/), is spying on Sulgrim for Lady Natala. Natala hopes to drive Sulgrim from the keep and return it to a rightful Lord Sanguine.
+
+
+

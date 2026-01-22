@@ -15,9 +15,9 @@ But for Sir Codwise the Old, the current Spellknight of the [Knights of the Cudg
 
 Sir Codwise generally kills his creations in frustration but at least one has gotten free ([19.15](/wiki/19-15/)).
 #### Hooks:
-*What does the chicken dragon taste like?
-*Why does dragon blood poison other types of dragons?
-*Why are there no metallic dragons about? None have been mentioned so far.
-*Is it possible to harvest draconic blood and hide by polymorphing chickens into dragons or are Sir Codwise's experiments doomed?
-Category:Creatures
-Category:Dragons
+* What does the chicken dragon taste like?
+* Why does dragon blood poison other types of dragons?
+* Why are there no metallic dragons about? None have been mentioned so far.
+* Is it possible to harvest draconic blood and hide by polymorphing chickens into dragons or are Sir Codwise's experiments doomed?
+
+

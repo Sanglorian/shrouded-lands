@@ -8,11 +8,11 @@ categories:
   - "Category:Organization"
 media: []
 ---
-**For a full list of help pages, see [Help:Contents](/wiki/helpcontents/),** which includes non-local help pages, automatically transcluded from [Wikia Help](/wiki/wchelp/).
+* *For a full list of help pages, see [Help:Contents](/wiki/helpcontents/),** which includes non-local help pages, automatically transcluded from [Wikia Help](/wiki/wchelp/).
 
 
 ### About this category
-This category is intended to contain all the **local** "help" pages for this Wikia: pages that can help contributors and/or readers. If you find helpful pages that you think should be here, you may include them here just by typing <nowiki>Category:Help</nowiki> on them.
+This category is intended to contain all the **local** "help" pages for this Wikia: pages that can help contributors and/or readers. If you find helpful pages that you think should be here, you may include them here just by typing <nowiki>
 
 Most, but not all, have "Help:" at the beginning of their page names and are therefore in the "Help" namespace; an automatically-generated list of those can be found at [Special:AllPages](/wiki/specialallpages/) by running down the "Namespace" menu.
 
@@ -26,4 +26,4 @@ You can also:
 If you still need help, you may want to contact the [Wikia Community Team](/wiki/wcommunity-team/).
 
 
-Category:Organization
+

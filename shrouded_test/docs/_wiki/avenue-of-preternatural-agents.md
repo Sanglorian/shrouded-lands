@@ -8,5 +8,5 @@ categories:
   - "Category:Synonyms"
 media: []
 ---
-*REDIRECT[Street of Small Gods](/wiki/street-of-small-gods/)
-Category:Synonyms
+* REDIRECT[Street of Small Gods](/wiki/street-of-small-gods/)
+

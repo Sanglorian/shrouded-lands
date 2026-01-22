@@ -24,11 +24,11 @@ As for the adventuring parties she has sent delving, she will blame the undead a
 ### Connections
 * Anastasia uses a choker made by Toadvine ([30.09](/wiki/30-09/)) to communicate with the drow-ghosts.
 ### Hooks:
-*Who are the drow-ghosts that serve the Princess?
-*Is her art deviant or is it the true practice of the windseers?
-*Why did the windseers lose their position of influence in the first place?
-*What is in the treasure troves and burial grounds?
-Category:Characters
-Category:Windseers
-Category:Winds
-Category:Necromancers
+* Who are the drow-ghosts that serve the Princess?
+* Is her art deviant or is it the true practice of the windseers?
+* Why did the windseers lose their position of influence in the first place?
+* What is in the treasure troves and burial grounds?
+
+
+
+

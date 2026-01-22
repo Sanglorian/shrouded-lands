@@ -16,15 +16,15 @@ The Tarrasque of Bergolast ([38.28](/wiki/38-28/)) is the greatest of all beasts
 The [Lords Sanguine](/wiki/lords-sanguine/) have mastered the art of seeing visions.
 
 ### Hooks
-*Where was the Tarrasque born?
-*So, if trolls (the descendants of the people of Bergolast) regenerate because the meat of the Tarrasque has made them godlike, does that mean that you can kill gods with acid and fire? Why are trolls so ugly then?
+* Where was the Tarrasque born?
+* So, if trolls (the descendants of the people of Bergolast) regenerate because the meat of the Tarrasque has made them godlike, does that mean that you can kill gods with acid and fire? Why are trolls so ugly then?
 ## Grahakzahak
 The Prophet of Grahakzahak ([15.01](/wiki/15-01/)), a [troll](/wiki/trolls/), encourages all whom he encounters to pray to Grahakzahak and eat some of the Prophet's flesh. He does not realise that his god is the Tarrasque. The flesh-eating ritual he practices <span style="text-align:left;">is an echo of how the people of [Bergolast](/wiki/bergolast/) (the ancestors of the trolls) fed on the regenerating flesh of the Tarrasque before [Tiamat](/wiki/dead-tiamat/) fell and the Tarrasque broke free. </span>
 
 Grahakzahak means 'he of 99 heads' or, more figuratively, 'he who has grown a 99th head after the first 98 were chopped off'.
 
 #### Connection
-*It seems that the Tarrasque’s head was indeed cut off ninety nine times. One of these heads can be found sunk into the waters of the River Hyad ([45.24](/wiki/45-24/)).
+* It seems that the Tarrasque’s head was indeed cut off ninety nine times. One of these heads can be found sunk into the waters of the River Hyad ([45.24](/wiki/45-24/)).
 
 ## Connection to the Royal Family of Gore
 [Read more](/wiki/royal-family-of-gore/)
@@ -43,15 +43,15 @@ The Tarrasque is not as other beasts nor is its blood like other blood, as the [
 But for the Duke of Thring this is not enough and he seeks the true blood of the Tarrasque that will flow from its heart when dealt a mortal wound. It is said that is such blood is caught in a cup that cup will become the sangreal and all who drink from it will have the shadow of death lifted from them.
 
 #### Connection:
-*There are some [Lion Priests](/wiki/lion-priests/) who seek the sangreal as well ([06.03](/wiki/06-03/)).
-*[The Collector](/wiki/the-collector/) collects Tarrasque skulls from knights of [Thring](/wiki/the-duchy-of-thring/).
-*[Heirs of the High Kings of Gore](/wiki/royal-family-of-gore/) seem to have a connection with the Tarrasque.
+* There are some [Lion Priests](/wiki/lion-priests/) who seek the sangreal as well ([06.03](/wiki/06-03/)).
+* [The Collector](/wiki/the-collector/) collects Tarrasque skulls from knights of [Thring](/wiki/the-duchy-of-thring/).
+* [Heirs of the High Kings of Gore](/wiki/royal-family-of-gore/) seem to have a connection with the Tarrasque.
 
 #### Hooks:
-*Does the prince actually know the location of the Beast? If so, why?
-*Why is the Tarrasque so recalcitrant?
-*How could the Duke hope to slay it?
-*If the Tarrasque walks in the forest and no one is around to be afraid of it, is it big enough to make a sound?
-*Are the stories about the sangreal true?
-Category:Creatures
-Category:Characters
+* Does the prince actually know the location of the Beast? If so, why?
+* Why is the Tarrasque so recalcitrant?
+* How could the Duke hope to slay it?
+* If the Tarrasque walks in the forest and no one is around to be afraid of it, is it big enough to make a sound?
+* Are the stories about the sangreal true?
+
+

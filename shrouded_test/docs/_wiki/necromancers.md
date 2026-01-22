@@ -18,21 +18,20 @@ media: []
 * The [Princess of the Seers](/wiki/princess-of-the-seers/) conjures [drow-ghosts](/wiki/drow-ghosts/) from beneath the White Road.
 * The [windseers](/wiki/windseers/) of [Winds](/wiki/winds/) listen to the screams of those who make up the White Road, making them necromancers of a sort.
 * Exiled necromancer [Ranmore](/wiki/ranmore/) intends to raise the White Road.
+* Ranmore is a necromancer formerly of the Office.
+* Yaegha Six-Kidneys was a necromancer, enemy to Severard and scourge of Thring. She signed the Compact of Sorcery with Severard and turned her attention to research.
+* The Cult of Dead Tiamat have created undead.
+* The Princess of the Seers can summon drow-ghosts by name and they give her information. This power seems to come from an amulet rather than inherent magic.
+* Alceron, windseer of Winds, was a pupil of Severard.
+* Ulmo Targus, an alleged disciple of Yaegha, was burned at the stake by a mob led by Alceron.
+* Lady Anghart’s father was the body of Lord Poddred but the soul of a member of the Necromantic Office.
+* There are rogue necromancers plotting the downfall of the City with the Traxas.
+* Naros was famous for its necromancers.
+* Boys of Hostwick who develop the proper signs after eating strange caterpillars are sold to the Necromantic Office.
+* Hasta the Shunned leads a coven of necromancers in the Dungeons of the Iron Count. 
 
-*Ranmore is a necromancer formerly of the Office.  
-*Yaegha Six-Kidneys was a necromancer, enemy to Severard and scourge of Thring. She signed the Compact of Sorcery with Severard and turned her attention to research.
-*The Cult of Dead Tiamat have created undead. 
-*The Princess of the Seers can summon drow-ghosts by name and they give her information. This power seems to come from an amulet rather than inherent magic. 
-*Alceron, windseer of Winds, was a pupil of Severard.
-*Ulmo Targus, an alleged disciple of Yaegha, was burned at the stake by a mob led by Alceron. 
-*Lady Anghart’s father was the body of Lord Poddred but the soul of a member of the Necromantic Office.
-*There are rogue necromancers plotting the downfall of the City with the Traxas. 
-*Naros was famous for its necromancers. 
-*Boys of Hostwick who develop the proper signs after eating strange caterpillars are sold to the Necromantic Office. 
-*Hasta the Shunned leads a coven of necromancers in the Dungeons of the Iron Count. 
 
 
-Category:Necromancers
-Category:Magic
-Category:Spellcasters
-Category:Professions
+
+
+

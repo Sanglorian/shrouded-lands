@@ -23,14 +23,14 @@ The girl within the mass of snakes may speak cryptically, make extravagant threa
 
 This is rather painful for the new host.
 ### Connection:
-*The medusa was used by the blind Doge against the [centaurs](/wiki/centaurs/) of the [Burning Lands](/wiki/burning-lands/) ([40.20](/wiki/40-20/)).
+* The medusa was used by the blind Doge against the [centaurs](/wiki/centaurs/) of the [Burning Lands](/wiki/burning-lands/) ([40.20](/wiki/40-20/)).
 ### Hooks:
-*Where did the men of Shuttered get this parasitic medusa from? Are there more?
-*What happened when it got loose in the undercity?
-*Why is the Tower Savage (the Shuttered base inside of Blind Midshotgatepool) made out of petrified bodies?
-*How fresh do dead bodies have to be to be petrified? Why?![](/media/SL9.png)
-*Who was girl before she got the medusa parasite stuck on her head? How long is she likely to live?
-Category:Characters
-Category:Creatures
-Category:Blind Midshotgatepool
-Category:The Shuttered City
+* Where did the men of Shuttered get this parasitic medusa from? Are there more?
+* What happened when it got loose in the undercity?
+* Why is the Tower Savage (the Shuttered base inside of Blind Midshotgatepool) made out of petrified bodies?
+* How fresh do dead bodies have to be to be petrified? Why?![](/media/SL9.png)
+* Who was girl before she got the medusa parasite stuck on her head? How long is she likely to live?
+
+
+
+

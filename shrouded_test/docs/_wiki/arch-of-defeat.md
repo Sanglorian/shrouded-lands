@@ -20,10 +20,10 @@ Once a year, the citizens of Shuttered gather in the streets leading to the arch
 
 The day ends with bonfires on which citizens burn effigies of all those who defeated or stymied them or Shuttered itself.
 ### Hooks
-*What is a Doge in the time before there was a Doge?
-*Whose effigies do the people of Shuttered burn?
-*What terrible mistakes have been made during this festival?
-*When has Shuttered lost a battle for want of an iron nail?
-Category:Buildings
-Category:The Shuttered City
-Category:Conflicts
+* What is a Doge in the time before there was a Doge?
+* Whose effigies do the people of Shuttered burn?
+* What terrible mistakes have been made during this festival?
+* When has Shuttered lost a battle for want of an iron nail?
+
+
+

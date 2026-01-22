@@ -13,8 +13,8 @@ categories:
 media: []
 ---
 The song taught in the Fire Fang - see [32.32](/wiki/32-32/) for more details.
-Category:The Burning Lands
-Category:Gnolls
-Category:Magic
-Category:Music
-Category:Bards
+
+
+
+
+

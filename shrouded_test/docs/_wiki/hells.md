@@ -16,5 +16,5 @@ When the [Bell of Six Answers](/wiki/bell-of-six-answers/) in Castle Brucoloc ([
 May be related to [fiends](/wiki/fiends/).
 
 The [Forest of Abominations](/wiki/forest-of-abominations/) releases dust from a dying universe, including decaying hells.
-Category:Planes
-Category:Fiends
+
+

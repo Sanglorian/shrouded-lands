@@ -18,9 +18,9 @@ Founder of Pontgate ([26.20](/wiki/26-20/))
 As an [earth whisperer](/wiki/earth-whisperers/), she arranged the creation of what is now the Drowned Temple ([27.19](/wiki/27-19/))
 
 A companion of [Ban the Clever](/wiki/ban-the-clever/)
-Category:Characters
-Category:Blind Midshotgatepool
-Category:Priests
-Category:Witches
-Category:Earth Whisperers
-Category:Five Founders
+
+
+
+
+
+

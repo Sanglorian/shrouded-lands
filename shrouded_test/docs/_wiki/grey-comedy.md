@@ -20,12 +20,12 @@ The bugbears, embittered by their long service, will try to manufacture pranks t
 
 The Comedy also performs marriage ceremonies for those who fear official or parental retribution. The ceremony itself is a noisy and rambunctious party where members of the circus attempt to seduce the married couple, and delight in loudly retelling every sexual misdeed and peccadillo of the couple to the audience.
 ### Hooks:
-*Does the [Sack Man](/wiki/sack-man/) know that some of his bugbears are missing?
-*Who now has their pumpkin heads?
-*Who has been married by the Comedy?
-*What terrible ‘accidents’ have the bugbears arranged?
-*Are the dancers really firebirds restored from stone?
-*Why does the Grey Comedy need a ringmaster?
-*What does Bella think of her father?
-*Who did the Collector have a child with?
-Category:Organisations
+* Does the [Sack Man](/wiki/sack-man/) know that some of his bugbears are missing?
+* Who now has their pumpkin heads?
+* Who has been married by the Comedy?
+* What terrible ‘accidents’ have the bugbears arranged?
+* Are the dancers really firebirds restored from stone?
+* Why does the Grey Comedy need a ringmaster?
+* What does Bella think of her father?
+* Who did the Collector have a child with?
+

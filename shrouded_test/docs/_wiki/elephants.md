@@ -10,9 +10,9 @@ categories:
   - "Category:Elephants"
 media: []
 ---
-*[Hoarlephants](/wiki/hoarlephants/)![](/media/Afrikanischer_Elefant-painting.jpg)![](/media/Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg)
-*[Moon elephants](/wiki/moon-elephants/)
-*[Painted elephants](/wiki/painted-elephants/)
-Category:Creatures
-Category:Elephants
-Category:Animals
+* [Hoarlephants](/wiki/hoarlephants/)![](/media/Afrikanischer_Elefant-painting.jpg)![](/media/Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg)
+* [Moon elephants](/wiki/moon-elephants/)
+* [Painted elephants](/wiki/painted-elephants/)
+
+
+

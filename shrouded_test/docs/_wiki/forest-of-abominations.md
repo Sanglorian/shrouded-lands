@@ -19,14 +19,14 @@ The moisture that comes from the pit nourishes the growth of cacti, which grow i
 Strange creatures can be found here, many of which even the Nekh hesitate to eat. There are [pallid vipers](/wiki/pallid-vipers/) that burrow in the cacti and watch passerby with eyes of orange jewels that have neither pupils nor lids. There are [spider-limbed lizards](/wiki/spider-limbed-lizards/) the color of week-old corpses that give off a debilitating reek if killed. And there are miniature flightless birds whose eggs (if unfertilized and baked) are difficult to distinguish from pearls.
 
 ### Connections:
-*[Rugose Pignose](/wiki/rugose-pignose/) ([17.07](/wiki/17-07/)) is being slowly digested by some cacti mold and begs passersby for death. Coming to close would not be wise.
-*The prophesies of [Jarmond of the Knife](/wiki/jarmond-of-the-knife/) ([29.14](/wiki/29-14/).18) discuss the alignments of stars that are not of this world but which can be seen through the hole known as the Breath of the Earth.
+* [Rugose Pignose](/wiki/rugose-pignose/) ([17.07](/wiki/17-07/)) is being slowly digested by some cacti mold and begs passersby for death. Coming to close would not be wise.
+* The prophesies of [Jarmond of the Knife](/wiki/jarmond-of-the-knife/) ([29.14](/wiki/29-14/).18) discuss the alignments of stars that are not of this world but which can be seen through the hole known as the Breath of the Earth.
 
 ### Hooks:
-*What could an astrologer learn by looking at these alien stars?
-*Aside from the pearl-like eggs, is there anything of value here?
-*Do the Nekh stand guard over this hole in the world or allow alien intelligences to pass?
-*What was Rugose Pignose doing here?
-Category:Regions
-Category:The Singing Wastes
-Category:The Forest of Abominations
+* What could an astrologer learn by looking at these alien stars?
+* Aside from the pearl-like eggs, is there anything of value here?
+* Do the Nekh stand guard over this hole in the world or allow alien intelligences to pass?
+* What was Rugose Pignose doing here?
+
+
+

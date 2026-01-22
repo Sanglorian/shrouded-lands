@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: '08.01'
 ---
 #REDIRECT[08.01](/wiki/08-01/)
-Category:Characters
-Category:Browncloaks
-Category:Snickersnees
+
+
+

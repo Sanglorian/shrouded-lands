@@ -18,10 +18,10 @@ Recently, a pocket watch bought for the Doge by [Count Seutorian](/wiki/count-se
 
 The Doge is a heavy sleeper and seems unaffected by the watch, but not so his two wives. Eliana has developed a sudden and curious interest in statecraft - particularly labour regulations for clockwork manufacturers. Celine is convinced that the whispers come from the [Whispering Sisters](/wiki/whispering-sisters/).
 ### Hooks
-*Will Eliana enter politics at the behest of a talking watch?
-*What will Celine do if she finds out that the watch is the source of the whispers?
-*How can the jermalaine survive without food or water?
-*Will the Doge ever hear the voice himself?
-Category:Characters
-Category:The Shuttered City
-Category:Doges
+* Will Eliana enter politics at the behest of a talking watch?
+* What will Celine do if she finds out that the watch is the source of the whispers?
+* How can the jermalaine survive without food or water?
+* Will the Doge ever hear the voice himself?
+
+
+

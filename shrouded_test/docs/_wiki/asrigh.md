@@ -14,8 +14,8 @@ The priesthood of Alberon was diligent in destroying or confiscating whatever re
 ## Practices
 The faithful, at least those under the influence of [Thoth](/wiki/thoth/), keep at least eight perches outside their homes for birds, do not keep feathered creatures in bondage, nor eat their meat or eggs. They are encouraged to strike down and devour reptiles in honor of the ibises.
 ## Places
-*Asrigh's Portal ([49.11](/wiki/49-11/)) is a ruin that depicts [birds of paradise](/wiki/birds-of-paradise/) transforming into [harpies](/wiki/harpies/) as they touch the ground. There are also hints that this ruin is of significance to the [Codex Othonoi](/wiki/codex-othonoi/).
+* Asrigh's Portal ([49.11](/wiki/49-11/)) is a ruin that depicts [birds of paradise](/wiki/birds-of-paradise/) transforming into [harpies](/wiki/harpies/) as they touch the ground. There are also hints that this ruin is of significance to the [Codex Othonoi](/wiki/codex-othonoi/).
 ## Followers
-*[The Last Prophet of Asrigh](/wiki/the-last-prophet-of-asrigh/) (Thoth)
-*Farmers along the Fanged Cliffs ([27.18](/wiki/27-18/))
-Category:Deities
+* [The Last Prophet of Asrigh](/wiki/the-last-prophet-of-asrigh/) (Thoth)
+* Farmers along the Fanged Cliffs ([27.18](/wiki/27-18/))
+

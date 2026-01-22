@@ -19,12 +19,12 @@ Somewhere in the accordion-haunted [Alleys of the Woman in Red](/wiki/alleys-of-
 
 Many of Lunfar's illegal maps are charts of shipping lanes in the [Sea of Typhoons](/wiki/sea-of-typhoons/), caravan routes through the [Burning Lands](/wiki/burning-lands/) and mining complexes in the [Tantalus Mountains](/wiki/tantalus-mountains/). But a surprising number are of secret, far-off places, including the [Society of Engineers'](/wiki/honorable-society-of-engineers/) maps of Shuttered's [Undercity](/wiki/undercity/), elvish maps of the [Kingswood](/wiki/kingswood/) and the dungeons below Hyfalls ([40.20](/wiki/40-20/)). He prefers to trade a map for a map, but certainly accepts coins and gems.
 ### Connections:
-*Lunfar has family in Shuttered who help him acquire maps.
-*He is interested in acquiring a map of the Black Ziggurat ([18.26](/wiki/18-26/))
+* Lunfar has family in Shuttered who help him acquire maps.
+* He is interested in acquiring a map of the Black Ziggurat ([18.26](/wiki/18-26/))
 ### Hooks
-*Many maps Lunfar sells are contraband, of course. But what kind of maps do the Jahuri elite want to keep out of public eye?
-*Who else is a Barking Dog? What other titles do the Holy Fools have?
-*Which map is his most prized?
-Category:Gnomes
-Category:Characters
-Category:Jahur
+* Many maps Lunfar sells are contraband, of course. But what kind of maps do the Jahuri elite want to keep out of public eye?
+* Who else is a Barking Dog? What other titles do the Holy Fools have?
+* Which map is his most prized?
+
+
+

@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Twelve Nations
 ---
 #REDIRECT[Twelve Nations](/wiki/twelve-nations/)
-Category:Synonyms
+

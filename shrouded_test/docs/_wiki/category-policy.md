@@ -8,6 +8,6 @@ categories:
   - "Category:Organization"
 media: []
 ---
-This is a list of policy pages for this Wikia.  Please also see :Category:Help, and the policy pages on the [Central Wikia](/wiki/wikiacategorypolicy/).
+This is a list of policy pages for this Wikia.  Please also see :
 
-Category:Organization
+

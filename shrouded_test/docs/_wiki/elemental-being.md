@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Elemental beings
 ---
 #REDIRECT[Elemental beings](/wiki/elemental-beings/)
-Category:Synonyms
+

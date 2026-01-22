@@ -19,15 +19,11 @@ Like all [paladins](/wiki/paladins/) of **Thring**, Sir Waine swore to touch no 
 
 The dedication of the paladins of **Thring** brings hope to these lands where men seem to swing wildly between the evils of cynicism and fanaticism, forgetting the purity of chivalry. Many sons of the lords of **Thring** seek desperately to be taken on by a paladin as squire but few succeed. Sir Waine himself turned away many highborn and plucked a graceful lad from among a travelling band of troubadours to serve as his squire and none now can fault the wisdom of his choice.
 #### Hooks:
-*Do the chips of tombstone do anything concrete?
+* Do the chips of tombstone do anything concrete?
+* If Sir Waine floated down on the Whispering Sisters with a talisman that granted him feather fall, how did he get up in the sky in the first place?
+* How did Sir Waine get his hands on alchemical materials?
+* How did Sir Waine get Caledbrand out of the sepulchre ([15.15](/wiki/15-15/)), even if it was only for a day?
+* Presumably the marriage between the paladins and the Green Lady was symbolic, but was it real in the case of Duke Ulthar? Is she his children's mother?
 
-*If Sir Waine floated down on the Whispering Sisters with a talisman that granted him feather fall, how did he get up in the sky in the first place?
 
-*How did Sir Waine get his hands on alchemical materials?
 
-*How did Sir Waine get Caledbrand out of the sepulchre ([15.15](/wiki/15-15/)), even if it was only for a day?
-
-*Presumably the marriage between the paladins and the Green Lady was symbolic, but was it real in the case of Duke Ulthar? Is she his children's mother?
-Category:Characters
-Category:The Duchy of Thring
-Category:Paladins

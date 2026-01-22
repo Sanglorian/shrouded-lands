@@ -21,7 +21,7 @@ media: []
 <h2 class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">About the region</h2>
 <p style="margin-bottom:0in">All sailors know that it is foolish to drink sea water. This is nowhere the case as much as with the Sea of Bitter Regrets for even a small sip of the water immediately brings to mind one's most bitter memories. Strong warriors have been known to collapse in tears after drinking from the ocean, an effect that persists even in the evaporated residue of the ocean (i.e. sea salt).</p>
 #### Hooks:
-*-Why does this effect happen?
+* -Why does this effect happen?
 
 ## Hex Summary
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">[00.02](/wiki/00-02/) (The Pirate Kings): are giants on cloud-top fortresses. </span></p>
@@ -54,5 +54,5 @@ media: []
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">[02.11](/wiki/02-11/) (The Cross): this pirate haven is a fractious and tearful place.</span></p>
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">[02.18](/wiki/02-18/) (Nasili’s Arch): this natural arch was once the home of nereid. </span></p>
-Category:Regions
-Category:The Bitter Coast
+
+

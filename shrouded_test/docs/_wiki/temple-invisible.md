@@ -26,13 +26,13 @@ For centuries the agents of the Brotherhood did battle with the [Whispering Sist
 
 Today in some dark vault beneath the [Great Temple of Alberon](/wiki/great-temple-of-alberon/), there is stored the [Book of Heresies](/wiki/book-of-heresies/), in which all the heresies from the Time of Schisms are recorded. Last of all come the heresies of the Brothers of the Spear, and the Final Heresy is that they renounced their god and chose another. It is the last and most secret of the Heresies, for, to the undying shame of the Temple Indivisible, it is a heresy that continues to this day.
 ### Connection:
-*Hints about how a god can be killed are contained in the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/).
+* Hints about how a god can be killed are contained in the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/).
 ### Hooks:
-*Is the Tome of the Forbidden still extant? What other knowledge is written in it?
-*What was the true name of She Who Waits, and why was she banished to the underworld?
-*How can the sun-god help the Temple Invisible to carry out their ancient mission?
-*What else is written in the Book of Heresies? Who would have an interest in its secrets being revealed?
-*What will the laity think if they find out that the Temple Indivisible is tolerating a secret heretical sect within their midst?
+* Is the Tome of the Forbidden still extant? What other knowledge is written in it?
+* What was the true name of She Who Waits, and why was she banished to the underworld?
+* How can the sun-god help the Temple Invisible to carry out their ancient mission?
+* What else is written in the Book of Heresies? Who would have an interest in its secrets being revealed?
+* What will the laity think if they find out that the Temple Indivisible is tolerating a secret heretical sect within their midst?
 
 ## The Temple School and the Extreme Oath of the Temple Invisible
 The priests of [The Temple Invisible](/wiki/the-temple-invisible/) go about the Shrouded City and abroad, teaching the virtue of [Alberon](/wiki/alberon/) and spreading the faith. None disclose - some do not even know - that their dark mission is the destruction of a god and their true allegiance lies with [The King in Splendour](/wiki/the-king-in-splendour/).
@@ -52,20 +52,20 @@ In the City ([29.14](/wiki/29-14/)), there is a Temple School for orphans and po
 In fact, the most talented and dogmatic children are picked out to rise through the order with the eventual hope of recruiting them with the Extreme Oath.
 
 ### Hooks:
-*Who has graduated from the Temple School?
-*Is anyone wise to the Temple's ulterior motives?
-*Give me some details about the theocratic city-states run on other continents.
+* Who has graduated from the Temple School?
+* Is anyone wise to the Temple's ulterior motives?
+* Give me some details about the theocratic city-states run on other continents.
 ## Connections
-*The Brothers sometimes cooperate with the [Dead Men](/wiki/dead-men/), which usually ends with the Dead Men living up to their name.
-*The [Temple of Alberon](/wiki/temple-of-alberon/) is another small breakaway sect that emerged in the Time of Schisms.
-*The Temple Invisible also fueds with the [Smiling Men](/wiki/smiling-men/).
-*This monastery contains a redacted version of the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/).
+* The Brothers sometimes cooperate with the [Dead Men](/wiki/dead-men/), which usually ends with the Dead Men living up to their name.
+* The [Temple of Alberon](/wiki/temple-of-alberon/) is another small breakaway sect that emerged in the Time of Schisms.
+* The Temple Invisible also fueds with the [Smiling Men](/wiki/smiling-men/).
+* This monastery contains a redacted version of the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/).
 
 ## Hooks
-*What are the Invisibles doing to catch the Whispering Sisters? So far they don't seem to have done a great job of it.
-*How does the Temple Invisible 'guide' the City along the correct path?
-Category:Alberon
-Category:The King in Splendour
-Category:Religious groups
-Category:Assassins
-Category:Sorcerers
+* What are the Invisibles doing to catch the Whispering Sisters? So far they don't seem to have done a great job of it.
+* How does the Temple Invisible 'guide' the City along the correct path?
+
+
+
+
+

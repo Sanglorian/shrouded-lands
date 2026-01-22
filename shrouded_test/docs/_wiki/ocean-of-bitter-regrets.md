@@ -17,8 +17,8 @@ With [00.06](/wiki/00-06/) begins the Ocean of Bitter Regrets, which stretches f
 * The [King of Salt and Brine](/wiki/king-of-salt-and-brine/)
 * [Whales](/wiki/whales/) (who sing the [Dreamsong](/wiki/dreamsong/))
 ## Phenomena
-*The [Dreamsong](/wiki/dreamsong/): The singing of whales creates the Dreamsong, the plane of dreams.
-Category:Regions
-Category:The Bitter Coast
-Category:The Ocean of Bitter Regrets
-Category:Bodies of water
+* The [Dreamsong](/wiki/dreamsong/): The singing of whales creates the Dreamsong, the plane of dreams.
+
+
+
+

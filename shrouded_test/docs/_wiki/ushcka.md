@@ -16,11 +16,11 @@ Ushcka builds her "family" by waylaying travelers and stuffing them into sacks f
 
 Rumors have spread that Ushcka is growing more cunning, and has somehow mastered the art of imitating voices. The surrounding manors are on edge. Calls from unseen people are heeded only after engaging in long dialogues quizzing each other about interpersonal matters. This causes great delight among local gossips. Children have been assigned dogs in hopes that the animals will be able to recognize deceptions.
 #### Hooks
-*Why was Ushcka banished?
-*Which unfortunate victims comprise her current family?
-*What traps and/or guardians does Ushcka have in the surrounding forest?
-*Can she really imitate voices? How did this rumor start?
-*What treasures has she accumulated over the course of her kidnappings?
-Category:Characters
-Category:Ogres
-Category:The Barrier Range
+* Why was Ushcka banished?
+* Which unfortunate victims comprise her current family?
+* What traps and/or guardians does Ushcka have in the surrounding forest?
+* Can she really imitate voices? How did this rumor start?
+* What treasures has she accumulated over the course of her kidnappings?
+
+
+

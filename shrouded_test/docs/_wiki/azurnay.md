@@ -20,16 +20,16 @@ A cabal of machinists known as the [Chain Gang](/wiki/chain-gang-(azurnay)/) pul
 
 The Ring of Fire, a tavern owned by [Hairy Jack](/wiki/hairy-jack/)'s ([37.21](/wiki/37-21/)) nephew [Bloody Vincent](/wiki/bloody-vincent/), is popular for its nightly insect fights. Vermin wranglers, mostly adventurers who have fallen on hard times, are paid good money to capture the Burning Lands’ most vicious giant bugs. The captured wasteland horrors duel to the death within a burning circle. [Tamilda Kondransdotter](/wiki/tamilda-kondransdotter/), another scion of [Koldran](/wiki/koldran/) ([20.03](/wiki/20-03/)), is Azurnay's best vermin wrangler thanks to owning a ring that charms the unpleasant creatures. When Bloody Vincent's vermin stocks become low, he persuades desperate adventurers to fight the beasts. The dwarves call these bouts [imoku](/wiki/imoku/). They attend the Ring of Fire, which they normally shun, in large numbers to watch them.
 ### Connections:
-*The city watch trains blunt-toothed [pigdogs](/wiki/pigdogs/) ([27.27](/wiki/27-27/)) to catch troublemakers they can't keep up with.
-*Some [Backbiter gnomes](/wiki/backbiters/) ([27.16](/wiki/27-16/)) have settled here.
+* The city watch trains blunt-toothed [pigdogs](/wiki/pigdogs/) ([27.27](/wiki/27-27/)) to catch troublemakers they can't keep up with.
+* Some [Backbiter gnomes](/wiki/backbiters/) ([27.16](/wiki/27-16/)) have settled here.
 ### Hooks:
-*Who built Azurney's waterworks?
-*Who or what is the Chain Gang's biggest rival?
-*What kind of favors does the Chain Gang demand?
-*How did Bloody Vincent come to own the most popular drinking establishment in a dwarf city?
-*Which bug gladiators are crowd favorites?
-*Has anyone made a living fighting bugs in the Ring of Fire?
-*Why do the dwarves flock to see man versus bug bouts? Why do they call them imoku?
-Category:Cities
-Category:The Burning Lands
-Category:Dwarves
+* Who built Azurney's waterworks?
+* Who or what is the Chain Gang's biggest rival?
+* What kind of favors does the Chain Gang demand?
+* How did Bloody Vincent come to own the most popular drinking establishment in a dwarf city?
+* Which bug gladiators are crowd favorites?
+* Has anyone made a living fighting bugs in the Ring of Fire?
+* Why do the dwarves flock to see man versus bug bouts? Why do they call them imoku?
+
+
+

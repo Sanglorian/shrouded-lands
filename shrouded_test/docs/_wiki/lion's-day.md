@@ -18,8 +18,8 @@ The occasion is named for the [King in Splendor](/wiki/king-in-splendor/), often
 
 Traditions of the King in Splendor's cult hold that this day is opposed to the unholy time of the Long Night, and it is said that one day the King will return to slay the Night once and for all, bathing the world in eternal summer. Many outside the cult are somewhat disturbed by this prophecy. The [night men](/wiki/night-men/) in particular have a long-standing feud with the Stannevs and other such houses. As a result, the Stannevs tend to speak little about this particular aspect of their faith.
 ### Connection:
-*The gates of the City of Shuttered Windows are closed during the Lion’s Day ([29.14.01](/wiki/29-14/)).
-*The light that falls on Lion’s Day creates a strange steps and ladder of light in the Vale of Tirandelle ([22.00](/wiki/22-00/)).
-Category:Phenomena
-Category:Astronomy
-Category:The King in Splendour
+* The gates of the City of Shuttered Windows are closed during the Lion’s Day ([29.14.01](/wiki/29-14/)).
+* The light that falls on Lion’s Day creates a strange steps and ladder of light in the Vale of Tirandelle ([22.00](/wiki/22-00/)).
+
+
+

@@ -11,8 +11,8 @@ categories:
   - "Category:Undead"
 media: []
 ---
-*A [Dead Tiamat](/wiki/dead-tiamat/) cult in the nameless dwarf fortress ([14.02](/wiki/14-02/)) are interested in necromantic lore and dragon parts; if no one stops them, they may eventually create a dracolich.
-Category:Creatures
-Category:Dragons
-Category:Undead
-Category:Dead Tiamat
+* A [Dead Tiamat](/wiki/dead-tiamat/) cult in the nameless dwarf fortress ([14.02](/wiki/14-02/)) are interested in necromantic lore and dragon parts; if no one stops them, they may eventually create a dracolich.
+
+
+
+

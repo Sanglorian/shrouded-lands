@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Elhanen
 ---
 #REDIRECT[Elhanen](/wiki/elhanen/)
-Category:Synonyms
+

@@ -9,7 +9,7 @@ categories:
 media: []
 ---
 May refer to:
-*[Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/), the original of the [Ettiennes](/wiki/ettiennes/)
-*[Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/), the nephew of the original; currently involved in the [silk wars](/wiki/silk-wars/)
-*Or others of the [Ettiennes](/wiki/ettiennes/)
-Category:Disambiguation
+* [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/), the original of the [Ettiennes](/wiki/ettiennes/)
+* [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/), the nephew of the original; currently involved in the [silk wars](/wiki/silk-wars/)
+* Or others of the [Ettiennes](/wiki/ettiennes/)
+

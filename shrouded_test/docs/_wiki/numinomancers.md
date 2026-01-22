@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 [The Hoard](/wiki/the-hoard/) have identified five practitioners of [numinomancy](/wiki/numinomancy/) since the magic was discovered two decades ago.
-Category:Magic
-Category:Professions
-Category:Dwarves
+
+
+

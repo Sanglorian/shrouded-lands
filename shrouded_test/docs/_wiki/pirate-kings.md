@@ -22,19 +22,19 @@ The treasure hordes of the five Pirate Kingdoms are known to be vast beyond beli
 
 In the distant past, trade and diplomatic missions have been attempted, but the giants simply take what they want and crush the envoys. To the Pirate Kings, men are insects, not worth talking to and barely worth enslaving. They do make trade with the civilization of [dragons](/wiki/dragons/) that roost far beyond World's Edge, as well as [elemental envoys](/wiki/elementals/), and even [gods](/wiki/deities/) - but such things are practically unknown in the mortal world.
 ## Pirate Kings
-*[The King of Salt and Brine](/wiki/the-king-of-salt-and-brine/), a great wereshark.
-*Udenyr, the king of [Skullreach](/wiki/skullreach/).
+* [The King of Salt and Brine](/wiki/the-king-of-salt-and-brine/), a great wereshark.
+* Udenyr, the king of [Skullreach](/wiki/skullreach/).
 ## Features of the Pirate Kings
-*[Skullreach](/wiki/skullreach/) is the most dreaded Thunderhead.
+* [Skullreach](/wiki/skullreach/) is the most dreaded Thunderhead.
 
 ### Subhexes:
-*[00.02.01](/wiki/00-02/) (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
-*[00.02.02](/wiki/00-02/) (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
-*[00.02.03](/wiki/00-02/) (The Traveller’s Journal): tells of a journey through this hex.
+* [00.02.01](/wiki/00-02/) (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
+* [00.02.02](/wiki/00-02/) (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
+* [00.02.03](/wiki/00-02/) (The Traveller’s Journal): tells of a journey through this hex.
 ### Connections:
-*A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants ([01.04](/wiki/01-04/)).
-*One of the Pirate Kings attempted to raid the nests of the Kagu ([04.00](/wiki/04-00/)) and instead lost his castle.
-*The stone giants claim that the pirate kings once looted tw![Sergey Malyutin](/media/Sea_tsar_by_Sergey_Malyutin.jpg)o great rubies from the Long Table ([06.03](/wiki/06-03/)).
+* A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants ([01.04](/wiki/01-04/)).
+* One of the Pirate Kings attempted to raid the nests of the Kagu ([04.00](/wiki/04-00/)) and instead lost his castle.
+* The stone giants claim that the pirate kings once looted tw![Sergey Malyutin](/media/Sea_tsar_by_Sergey_Malyutin.jpg)o great rubies from the Long Table ([06.03](/wiki/06-03/)).
 
 ## The Traveller’s Journal
 Hex [00.02.03](/wiki/00-02/)
@@ -61,7 +61,7 @@ She looked like a woman, though she was a child's size. She called in a strange,
 
 Tomorrow I shall try to reach the summit of the mountain.
 ### Hook:
-*Who is the narrator of this piece?
+* Who is the narrator of this piece?
 
 ### The Stormhead
 Why do the Pirate Kings so restlessly patrol the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/)? By now, their coffers must overflow with spices, gemstones and all other riches of the world. Indeed, the Pirate Kings have been seen to jettison treasures just minutes after looting them.
@@ -72,13 +72,13 @@ When a cloud giant is ignited in this way, he or she must craft a wooden ship an
 
 The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [King of Salt and Brine](/wiki/king-of-salt-and-brine/)—before his infection—swam straight back to the Shrouded Lands ([00.06](/wiki/00-06/)).
 ### Hooks
-*Is there anything within the Stormhead? What causes it?
-*What causes the perpetual storm?
-*What were the sparks for other storm giants?
-*What are the [Islands of Bitter Regret](/wiki/islands-of-bitter-regret/) like?
-*Who makes perfume now that Naros ([29.14.12](/wiki/29-14/)) has fallen?
-Category:The Bitter Coast
-Category:The Ocean of Bitter Regrets
-Category:Creatures
-Category:Pirate Kings
-Category:Peoples
+* Is there anything within the Stormhead? What causes it?
+* What causes the perpetual storm?
+* What were the sparks for other storm giants?
+* What are the [Islands of Bitter Regret](/wiki/islands-of-bitter-regret/) like?
+* Who makes perfume now that Naros ([29.14.12](/wiki/29-14/)) has fallen?
+
+
+
+
+

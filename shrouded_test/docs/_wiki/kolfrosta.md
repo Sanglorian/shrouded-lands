@@ -14,7 +14,7 @@ is_redirect: true
 redirect_to: '03.13'
 ---
 #REDIRECT[03.13](/wiki/03-13/)
-Category:Dead Tiamat
-Category:Characters
-Category:Priests
-Category:Witches
+
+
+
+

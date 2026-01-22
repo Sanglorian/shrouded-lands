@@ -12,4 +12,4 @@ Templates used on category pages.
 
 {{Templatecategory}}
 
-Category:Templates
+

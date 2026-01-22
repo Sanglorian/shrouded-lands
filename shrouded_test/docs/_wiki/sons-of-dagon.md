@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: Abyss Diamonds
 ---
 #REDIRECT[Abyss Diamonds](/wiki/abyss-diamonds/)
-Category:Deities
-Category:Religious groups
+
+

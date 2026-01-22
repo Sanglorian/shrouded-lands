@@ -16,9 +16,9 @@ As to the whereabouts of the halves of the Stein, some claims that the derro of 
 
 Maybe one day the Stein will be welded together again by the lava of the Drinker's Mouth ([04.02](/wiki/04-02/)) and molten mithril (or perhaps truly excellent wheat bear) will flow out of it again as in ancient days.
 ### Hooks:
-*Some legends say that the Stein is a decanter of endless beer. Other legends say that those drinking from the stein will feel molten mithril flow down their throats. Which is true? Both? Neither?
-*Who has the two halves of the Stein these days?
-*What role does the Stein play in dwarven religion?
-Category:Artifacts
-Category:Dwarves
-Category:Deities
+* Some legends say that the Stein is a decanter of endless beer. Other legends say that those drinking from the stein will feel molten mithril flow down their throats. Which is true? Both? Neither?
+* Who has the two halves of the Stein these days?
+* What role does the Stein play in dwarven religion?
+
+
+

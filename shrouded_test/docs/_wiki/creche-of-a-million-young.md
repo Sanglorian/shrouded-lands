@@ -24,11 +24,11 @@ Whoever the High Priest is, he has certainly been active. The Creche now throngs
 
 To his most dedicated followers, the High Priest speaks of the final researches of [Severard](/wiki/severard/) of the Seven Circles ([13.08](/wiki/13-08/)) and how his final and greatest work was never completed...
 ### Connection:
-*Lady Alevari bought some hungry silkworms from the Crech ([29.14.37](/wiki/29-14/)).
+* Lady Alevari bought some hungry silkworms from the Crech ([29.14.37](/wiki/29-14/)).
 #### Hooks:
-*Shaved cave bears? What?
-*Just what were Severard's final researches? What is the High Priest of the Creche of a Million Young planning to do?
-*Who is the High Priest anyway? Dormond? Ogwyn? Severard's lich? Someone else?
-*What other practices does this strange bug cult have?
-Category:Religious groups
-Category:The Shuttered City
+* Shaved cave bears? What?
+* Just what were Severard's final researches? What is the High Priest of the Creche of a Million Young planning to do?
+* Who is the High Priest anyway? Dormond? Ogwyn? Severard's lich? Someone else?
+* What other practices does this strange bug cult have?
+
+

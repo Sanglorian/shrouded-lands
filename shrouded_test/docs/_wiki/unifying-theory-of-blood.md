@@ -16,7 +16,7 @@ categories:
   - "Category:Vampires"
 media: []
 ---
-*Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]
+* Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]
 
 ## The Unifying Theory of Blood
 [Professor Westwright](/wiki/professor-westwright/) is surprisingly young - perhaps 17 or 18 years old - and his appointment to the [Universities Two and One](/wiki/universities-two-and-one/) in [Jahur](/wiki/jahur/) is controversial. Some say it is a deliberate snub to the [Sanguine Lords](/wiki/sanguine-lords/); others that his findings are genuinely original and startling.
@@ -28,15 +28,15 @@ The Bergolasti became [trolls](/wiki/trolls/). Infected by [elemental air](/wiki
 Westwright assumes that there exist people or animals infected by elemental earth and fire, that would turn to air and water respectively in the sun. He supposes that the Medusa or Basilisk may have been infected, but is yet to test his theory.
 
 ### Hooks
-*Two universities? Does this have anything to do with [Iano](/wiki/iano/), the two-faced god?
-*Where’s Westwright from? The name doesn’t sound Jahuri.
-*Does Westwright consider the Sanguine Lords to be vampires? Surely they go about in the sun!
-Category:Books
-Category:Lords Sanguine
-Category:Jahur
-Category:Vampires
-Category:Bergolast
-Category:Trolls
-Category:Tarrasque
-Category:Inspired by
-Category:Sanglorian
+* Two universities? Does this have anything to do with [Iano](/wiki/iano/), the two-faced god?
+* Where’s Westwright from? The name doesn’t sound Jahuri.
+* Does Westwright consider the Sanguine Lords to be vampires? Surely they go about in the sun!
+
+
+
+
+
+
+
+
+

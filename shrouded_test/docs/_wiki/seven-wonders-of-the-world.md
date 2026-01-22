@@ -34,15 +34,15 @@ Taran's list is a revision of a list compiled over a thousand years ago by the f
 # The [Mausoleum of Khaldi](/wiki/mausoleum-of-khaldi/). Khaldi existed in both [Zamorqy](/wiki/zamorqy/) and [Zhuriman](/wiki/zhuriman/). 
 
 ### Hooks
-*Are there other wonders worthy of mention?
-*How did the Great Oak become the stump of Ninbolm?
-*What is a temple of elemental good like?
-*How could Khaldi exist in both Zamorqy and Zhuriman?
-*What happened to the ancient wonders that no longer exist?
-*What else has Taran done?
-*What else did Caprondes do?
-*Many of the ancient wonders are from lost or rarely mentioned nations. What happened to them?
-*Have rival lists of wonders been made? What's on them?
-Category:The Shuttered City
-Category:Books
-Category:Taran Prenderghast
+* Are there other wonders worthy of mention?
+* How did the Great Oak become the stump of Ninbolm?
+* What is a temple of elemental good like?
+* How could Khaldi exist in both Zamorqy and Zhuriman?
+* What happened to the ancient wonders that no longer exist?
+* What else has Taran done?
+* What else did Caprondes do?
+* Many of the ancient wonders are from lost or rarely mentioned nations. What happened to them?
+* Have rival lists of wonders been made? What's on them?
+
+
+

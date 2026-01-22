@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## Corian
-**Inspired by:** Designed to place the 5E adventure The Wizard’s Amulet in the Shrouded Lands.
+* *Inspired by:** Designed to place the 5E adventure The Wizard’s Amulet in the Shrouded Lands.
 
 Corian is a troubled apprentice in the [Necromantic Office](/wiki/necromantic-office/) of the [Shuttered City](/wiki/shuttered-city/), the greatest city in the Shrouded Lands. Despite his training, flame and heat come more naturally to him than the animation of the dead or the touch of the grave. Only the absent-mindedness of his master has kept him from being expelled or reassigned elsewhere.
 
@@ -33,5 +33,5 @@ Corian is currently in [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/)
 * Marren is a wizard of [Jahur](/wiki/jahur/). Her familiar, seemingly a raven, is actually an ifrit trapped in animal form.
 * Phelps is a thief who has stolen something from the [Doge](/wiki/doge/) and needs to get out of town while the goods are hot.
 * Warrid is a citizen of [Ninbolm](/wiki/ninbolm/) and a practicing illusionist.
-Category:The Shuttered City
-Category:Osseries
+
+

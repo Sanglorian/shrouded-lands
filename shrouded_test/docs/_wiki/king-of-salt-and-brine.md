@@ -20,15 +20,15 @@ The queen of fairy complied and the Pirate King felt his flesh twist and warp it
 
 Now he lives only to share his wrath with all he meets, tearing out the hulls of countless ships and tainting the blood of those few who survive his bite with his curse and they become lesser (and non-infectious) weresharks as well. One such unfortunate is [Zuc](/wiki/zuc/) the ogre ([01.07](/wiki/01-07/)) who now picks through many of the King’s wrecks on the coast of the Ocean of Bitter Regrets.
 ### Connections:
-*The grave of the lost wife of the King lies far to the east ([31.07](/wiki/31-07/)) and each year he tries to reach it and each year he fails.
-*The King has acquired a taste for [selkies](/wiki/selkies/) ([01.05](/wiki/01-05/)) and is a great annoyance to nearby pirates ([02.11](/wiki/02-11/)).
-*A were-shark (presumably infected by the King) is now stranded in the Freeholds ([11.05](/wiki/11-05/)).
+* The grave of the lost wife of the King lies far to the east ([31.07](/wiki/31-07/)) and each year he tries to reach it and each year he fails.
+* The King has acquired a taste for [selkies](/wiki/selkies/) ([01.05](/wiki/01-05/)) and is a great annoyance to nearby pirates ([02.11](/wiki/02-11/)).
+* A were-shark (presumably infected by the King) is now stranded in the Freeholds ([11.05](/wiki/11-05/)).
 ### Hooks:
-*Any other interesting victims (either new weresharks or sunken ships) of the King of Salt and Brine?
-*Would killing the King cure his victims of lycanthropy? Is there any way to cure the King himself?
-*After the King became a wereshark what happened to his floating cloud palace (the one with all the treasure in it)?
-Category:Characters
-Category:Lycanthropes
-Category:Giants
-Category:The Bitter Coast
-Category:The Ocean of Bitter Regrets
+* Any other interesting victims (either new weresharks or sunken ships) of the King of Salt and Brine?
+* Would killing the King cure his victims of lycanthropy? Is there any way to cure the King himself?
+* After the King became a wereshark what happened to his floating cloud palace (the one with all the treasure in it)?
+
+
+
+
+

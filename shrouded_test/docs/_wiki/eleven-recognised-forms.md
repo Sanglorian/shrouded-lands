@@ -22,11 +22,11 @@ In fact, the itinerant is one of eleven recognised forms in which Alberon appear
 
 The similarity of these forms to the twelve gods of the [Undying Cycle](/wiki/undying-cycle/) has not gone unnoticed, but the conclusions vary - is Alberon coopting the cycle, or paying homage to it, or somehow influenced by it outside of his control?
 ### Connections
-*The goliards of the Sacred Foot are heterodox adherents of Alberon unloved by the Temple Indivisible ([20.04](/wiki/20-04/)).
-*Alberon appeared to [Jarmond of the Knife](/wiki/jarmond-of-the-knife/) eleven times, including once as a blacksmith (which does not appear to be among the recognised forms)
+* The goliards of the Sacred Foot are heterodox adherents of Alberon unloved by the Temple Indivisible ([20.04](/wiki/20-04/)).
+* Alberon appeared to [Jarmond of the Knife](/wiki/jarmond-of-the-knife/) eleven times, including once as a blacksmith (which does not appear to be among the recognised forms)
 
 ### Hooks
-*How could Alberon study with the Pacharia if he cannot leave the city?
-*Who are the Pacharia?
-Category:Deities
-Category:The Shuttered City
+* How could Alberon study with the Pacharia if he cannot leave the city?
+* Who are the Pacharia?
+
+

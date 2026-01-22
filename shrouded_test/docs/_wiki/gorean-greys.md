@@ -12,8 +12,8 @@ media: []
 ---
 The Gorean Grey is a fierce breed of war cat popular in Gore. They are ferocious and agile and skilled at clinging to the faces of their victims. According to lore, they all descend from the cat Perudien ([11.16](/wiki/11-16/)).
 #### Hooks
-*What are the other breeds of war cats?
-*Who owns a Gorean Grey?
-Category:Creatures
-Category:The Lands of Gore
-Category:Cats
+* What are the other breeds of war cats?
+* Who owns a Gorean Grey?
+
+
+

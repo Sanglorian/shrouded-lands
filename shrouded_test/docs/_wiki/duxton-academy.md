@@ -19,10 +19,10 @@ The indefatiguable orphans have not allowed yet another misfortune to bring them
 
 They are touring the theatres and music halls of Jahur and are hoping to one day perform in the Shuttered City. Favoured songs include ‘Like a Sturgeon’ and ‘Crazy Frog-folk’.
 ### Hooks
-*Where does the name Duxton come from? It doesn’t sound Jahuri.
-*What was the ritual intended to achieve?
-*Why are the teachers worse for wear? Did the ritual affect them differently?
-*Why did the Sons of Dagon open an orphanage?
-Category:Bards
-Category:Religious groups
-Category:Jahur
+* Where does the name Duxton come from? It doesn’t sound Jahuri.
+* What was the ritual intended to achieve?
+* Why are the teachers worse for wear? Did the ritual affect them differently?
+* Why did the Sons of Dagon open an orphanage?
+
+
+

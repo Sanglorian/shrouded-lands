@@ -27,12 +27,12 @@ The elf lord‘s troupe seized her and, in revenge, left her tied to a post in T
 
 As for the elf lord, I am told that his specter walks the land still, spreading lies about his lover Lisbet in the hope that one day his betrayal of the sacred bonds of love will be forgotten.
 ### Connections:
-*The child of Lisbet seems to be the author of the [Journal in Green](/wiki/journal-in-green/)
+* The child of Lisbet seems to be the author of the [Journal in Green](/wiki/journal-in-green/)
 
 ### Hooks:
-*The story Elfard tells does not accord with the one told in Treebrush. What is the true story?
-*What do those lines mean?
-*Did Lisbet‘s daughter become the Lady ([40.06](/wiki/40-06/))?
+* The story Elfard tells does not accord with the one told in Treebrush. What is the true story?
+* What do those lines mean?
+* Did Lisbet‘s daughter become the Lady ([40.06](/wiki/40-06/))?
 ## Lisbet's Lament (Treebrush)
 The farmers who inhabit the surrounding area avoid the village of Treebrush ([20.08](/wiki/20-08/)), but travelers who approach it for the first time see a peaceful and prosperous community with a large inn at the heart of the town.
 
@@ -42,11 +42,11 @@ As the fair youth finishes the song of Lisbet's Lament he takes a bow and doffs 
 
 And the wind that blows through the branches of the trees that now claim the village seems to cry out the tune of Lisbet's Lament.
 ### Connections:
-*At the Sundial Inn, [Elfard Gollen](/wiki/elfard-gollen/) tells a quite different tale about Lisbet ([25.04](/wiki/25-04/)).
-*The elf is the [hollow-hearted elf](/wiki/hollow-hearted-elf/) ([31.07](/wiki/31-07/))
+* At the Sundial Inn, [Elfard Gollen](/wiki/elfard-gollen/) tells a quite different tale about Lisbet ([25.04](/wiki/25-04/)).
+* The elf is the [hollow-hearted elf](/wiki/hollow-hearted-elf/) ([31.07](/wiki/31-07/))
 ### Hooks:
-*What happened to Lisbet? The elves didn't kill her nor did they make any special effort to kill the inhabitants of Treebrush (aside from, of course, burning all of their homes down).
-*What are the words of her song?
+* What happened to Lisbet? The elves didn't kill her nor did they make any special effort to kill the inhabitants of Treebrush (aside from, of course, burning all of their homes down).
+* What are the words of her song?
 ## Lisbet's Lament (song)
 Oh Lisbet was a lass as fair as the moon
 
@@ -91,6 +91,6 @@ and with it all she had loved in her life.
 Oh fair Lisbet died not, but all the town burned
 
 and with it all she had loved in her life.
-Category:Characters
-Category:The Freeholds
-Category:The Kingswood
+
+
+

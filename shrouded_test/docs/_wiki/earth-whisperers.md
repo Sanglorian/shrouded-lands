@@ -27,19 +27,19 @@ Nearly two hundred years ago, the other four towns hired a coven of earth whispe
 When the temple Shara built sunk during the Shuttered City's attack on Blind Midshotgatepool ([27.19](/wiki/27-19/)), it did more damage to Shuttered's armada than the five lords managed. Neither the sailors nor the earth whisperers were seen again.
 
 ## Connections
-*The earth whisperers are responsible for several seemingly-bottomless pits at the outskirts of the city ([26.20.02](/wiki/26-20/)).
-*Henry Yaboon ([26.20.08](/wiki/26-20/)), a man of power in Blind Midshotgatepool has taken over the possessions of the priesthood of the Pacharia as his own.
-*Some of the old ways of Thring are still kept in the Fourth Castle in Thring's far north ([18.11](/wiki/18-11/)).
+* The earth whisperers are responsible for several seemingly-bottomless pits at the outskirts of the city ([26.20.02](/wiki/26-20/)).
+* Henry Yaboon ([26.20.08](/wiki/26-20/)), a man of power in Blind Midshotgatepool has taken over the possessions of the priesthood of the Pacharia as his own.
+* Some of the old ways of Thring are still kept in the Fourth Castle in Thring's far north ([18.11](/wiki/18-11/)).
 
 ## Hooks
-*What is the Pacharia anyway?
-*How did worship of the Pacharia transform its/his/her/their(?) priestesses?
-*What did it mean for the king to be the land and the land to be the king?
-*Where did the priestesses go after they sank it beneath the waves?
-Category:Priests
-Category:The Pacharia
-Category:Witches
-Category:Hinterlands of Blind Midshotgatepool
-Category:Blind Midshotgatepool
-Category:The Duchy of Thring
-Category:Professions
+* What is the Pacharia anyway?
+* How did worship of the Pacharia transform its/his/her/their(?) priestesses?
+* What did it mean for the king to be the land and the land to be the king?
+* Where did the priestesses go after they sank it beneath the waves?
+
+
+
+
+
+
+

@@ -19,21 +19,21 @@ It is hard to believe that the octoids ruled [Jahur](/wiki/jahur/) for twelve ye
 
 In memorium of the strange, dark years, the reinstated [Viceroys](/wiki/viceroys/) built a chain of twelve black obelisks, one for each year under the octoids. One was plundered in the [War of the Six-Fingered Hand](/wiki/war-of-the-six-fingered-hand/) ([46.01](/wiki/46-01/)). The remaining eleven stand as a reminder for citizens to remain vigilant, and to never forget the [Cephalopedic Empire](/wiki/cephalopedic-empire/). They have also inspired generations of adventurers to attempt to retrieve the Moon's Daughter and other relics from the octoids. Those who returned did so empty-handed. Many of Jahur's citizens are resigned to never seeing the Moon's Daughter again. 
 ## Connections
-*In fact, the Moon’s Daughter was not stolen by the octoids at all but by the rogue janissary ([02.11](/wiki/02-11/).03).
-*[Selene](/wiki/selene/), one of the twin wives of the [Doge](/wiki/doge/) of the City of Shuttered Windows ([29.14](/wiki/29-14/).28) is aiding the octoids in exchange for their help in cornering the pearl market.
-*The [Dead Fish](/wiki/dead-fish/) is a front for octoid agents in Jahur ([19.31](/wiki/19-31/).04).
-*The octoids harvest a narcotic form of kelp ([26.33](/wiki/26-33/)).
-*[Lars](/wiki/lars/) the Chimera has octoid tentacles growing from his back ([29.14](/wiki/29-14/).41).
+* In fact, the Moon’s Daughter was not stolen by the octoids at all but by the rogue janissary ([02.11](/wiki/02-11/).03).
+* [Selene](/wiki/selene/), one of the twin wives of the [Doge](/wiki/doge/) of the City of Shuttered Windows ([29.14](/wiki/29-14/).28) is aiding the octoids in exchange for their help in cornering the pearl market.
+* The [Dead Fish](/wiki/dead-fish/) is a front for octoid agents in Jahur ([19.31](/wiki/19-31/).04).
+* The octoids harvest a narcotic form of kelp ([26.33](/wiki/26-33/)).
+* [Lars](/wiki/lars/) the Chimera has octoid tentacles growing from his back ([29.14](/wiki/29-14/).41).
 ## Hooks
-*Tell me about some of the weirdos who trade with the octoids.
-*What can adventurers discover in the octoid caves?
-*Do octoids live elsewhere?
-*Why were the Janissaries released from service? 
-*Where is the Moon's Daughter?
-*Tell me about the War of the Six-Fingered Hand.
-*Why do octoids care about stellar and planetary motions? 
-*Does any of the Cephalopedic Empire remain?
-Category:Creatures
-Category:Peoples
-Category:Octoids
-Category:Jahur
+* Tell me about some of the weirdos who trade with the octoids.
+* What can adventurers discover in the octoid caves?
+* Do octoids live elsewhere?
+* Why were the Janissaries released from service?
+* Where is the Moon's Daughter?
+* Tell me about the War of the Six-Fingered Hand.
+* Why do octoids care about stellar and planetary motions?
+* Does any of the Cephalopedic Empire remain?
+
+
+
+

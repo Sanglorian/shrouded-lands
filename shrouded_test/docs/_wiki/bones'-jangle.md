@@ -16,11 +16,11 @@ The clientele varies from night to night, and includes all walks of Sosarian lif
 
 Attu Sharku has been unnerved by the occasional corpse left behind after nightly revels. Most have dramatically twisted necks along with extensive bruises and shattered bones. Both cattle baron factions denounce the violence, and insist that there is no obvious pattern in the murders that can damn them. Attu suspects that his cabaret is haunted, and spends most of his profits paying various temples to perform exorcisms. The Bones' Jangle is in fact haunted, but not by any restless spirits. An [invisible stalker](/wiki/invisible-stalkers/) controlled by Imorcar the Many resides in one of the cabaret's brass hookahs. He releases it when he needs to eliminate a perceived threat. His perception is rarely clear, however, and many of the victims have nothing to do with the city's politics.
 ### Hooks:
-*Attu Sharku is believed to a barbarian prince from the eastern steppes. How did he end up here?
-*Does the Bones' Jangle feature any exotic skeletons?
-*What kind of performances do the gnolls and steppe people give?
-*Who have been some of the invisible stalker's victims?
-*What temples in Sosaria provide the exorcisms?
-Category:Buildings
-Category:Sosaria
-Category:Businesses
+* Attu Sharku is believed to a barbarian prince from the eastern steppes. How did he end up here?
+* Does the Bones' Jangle feature any exotic skeletons?
+* What kind of performances do the gnolls and steppe people give?
+* Who have been some of the invisible stalker's victims?
+* What temples in Sosaria provide the exorcisms?
+
+
+

@@ -9,6 +9,6 @@ categories:
 media: []
 ---
 <div class="boilerplate" id="c-fairuse" style="width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;">
-***This file was uploaded by the photographer or author.***
+* **This file was uploaded by the photographer or author.***
 </div><noinclude>
 {{documentation}}</noinclude>

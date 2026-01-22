@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Features
-*Naros has [an embassy](/wiki/embassies-(shuttered)/) in the [Shuttered City](/wiki/shuttered-city/), itself twisted like Naros was.
+* Naros has [an embassy](/wiki/embassies-(shuttered)/) in the [Shuttered City](/wiki/shuttered-city/), itself twisted like Naros was.
 ## Supendar and the Dryads
 <p style="margin-bottom:0in">![The dryads after Supendar's magic](/media/JuliusvonKlever.jpg)What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast ([38.28](/wiki/38-28/)). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.</p>
 
@@ -25,12 +25,12 @@ media: []
 
 <p style="margin-bottom:0in">It is unknown what happened to the men of Naros, though some claim that their voices can be heard in The Dryad Grove.</p>
 #### Hooks
-*How did the time stop magic work exactly? The moon stopped, people were unable to wake up, but they were able to walk around and do things and even fight a war. How?
-*Where did any of the other dryads who got separated from the main lot during the march through fairy end up?
-*What happened during the journey of the men and dryads of Naros across the land of fairy?
-*What happened to the people of Naros? Supendar’s magic sent them into the land of fairy and the dryads came out again and were successfully transplanted. In order to do this it seems that the humans must have hauled the trees of the dryads, what became of them?
-*So now Naros is full of undeath and nightmares, has any of this corruption leaked through into the land of fairy?
-*What sort of metaphysics does the land of fairy have?  
-Category:Nations
-Category:The Twelve Nations
-Category:Destroyed nations and places
+* How did the time stop magic work exactly? The moon stopped, people were unable to wake up, but they were able to walk around and do things and even fight a war. How?
+* Where did any of the other dryads who got separated from the main lot during the march through fairy end up?
+* What happened during the journey of the men and dryads of Naros across the land of fairy?
+* What happened to the people of Naros? Supendar’s magic sent them into the land of fairy and the dryads came out again and were successfully transplanted. In order to do this it seems that the humans must have hauled the trees of the dryads, what became of them?
+* So now Naros is full of undeath and nightmares, has any of this corruption leaked through into the land of fairy?
+* What sort of metaphysics does the land of fairy have?  
+
+
+

@@ -23,11 +23,11 @@ The best ways to survive an encounter with Tehaar is to use an elf as a hostage,
 
 Although Tehaar ranges widely across the Kingswood in search of intruders, where she can be found most often is at the far southern border of the Kingswood where the forest approaches the City of Shuttered Windows ([29.10](/wiki/29-10/)). Here is where humanity swarms the thickest and where it must be watched the most closely.
 ### Connections:
-*Tehaar’s nemesis is [Brigadier Kalas Montra-brey](/wiki/brigadier-kalas-montra-brey/) ([30.12](/wiki/30-12/).01).
-*A stag that she once rode ran away and can now be found far to the southwest ([11.15](/wiki/11-15/)).
+* Tehaar’s nemesis is [Brigadier Kalas Montra-brey](/wiki/brigadier-kalas-montra-brey/) ([30.12](/wiki/30-12/).01).
+* A stag that she once rode ran away and can now be found far to the southwest ([11.15](/wiki/11-15/)).
 ### Hook:
-*Who else has run into Tehaar? Did they live?
-Category:Characters
-Category:Elves
-Category:The Kingswood
-Category:Daztur
+* Who else has run into Tehaar? Did they live?
+
+
+
+

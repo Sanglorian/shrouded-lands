@@ -22,18 +22,18 @@ Her lofty thousand-corniced tower (the **Suitor's Tower**), which is always shro
 
 Iraine the Suitor has not yet won the hand of a god but she is confident that her research is nearing its conclusion and soon she will ascend.
 ### Connections:
-*Iraine is the elder sister of [Uriza](/wiki/uriza/) the Solemn ([15.24](/wiki/15-24/)).
-*One of Iraine’s creations is a chimera named [Lars](/wiki/lars/) ([29.14.41](/wiki/29-14/)).
-*The wooden gargoyles are carved by [Jassetta Birl](/wiki/jassetta-birl/), a scion of an ancient [Witch Clan](/wiki/the-birls/).
+* Iraine is the elder sister of [Uriza](/wiki/uriza/) the Solemn ([15.24](/wiki/15-24/)).
+* One of Iraine’s creations is a chimera named [Lars](/wiki/lars/) ([29.14.41](/wiki/29-14/)).
+* The wooden gargoyles are carved by [Jassetta Birl](/wiki/jassetta-birl/), a scion of an ancient [Witch Clan](/wiki/the-birls/).
 ### Hooks:
-*Does marrying a god really turn you into one? Has anyone done this?
-*Why is it important that Iraine's tower never cast a shadow?
-*What interesting secrets does Iraine the Suitor know?
-*What exactly is she trying to do to win Alberon's hand?
-*What interesting stuff in her tower?
-*What are those spider-legged thingies?
-Category:Buildings
-Category:The Shuttered City
-Category:Characters
-Category:Mages
-Category:Alberon
+* Does marrying a god really turn you into one? Has anyone done this?
+* Why is it important that Iraine's tower never cast a shadow?
+* What interesting secrets does Iraine the Suitor know?
+* What exactly is she trying to do to win Alberon's hand?
+* What interesting stuff in her tower?
+* What are those spider-legged thingies?
+
+
+
+
+

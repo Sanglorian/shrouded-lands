@@ -19,7 +19,7 @@ The walls are broken by [North Gate and South Gate](/wiki/north-gate-and-south-g
 
 The illusion that the walls are not sinking is created by the [gnome ghosts](/wiki/gnome-ghosts/) trapped in the walls.
 ### Connections:
-*Embassies of the Twelve Nations are built into the south wall of the City ([29.14.11](/wiki/29-14/)).
-*An ancient prophesy says that if any of the gods in the Prison of the Nine ([29.14.54](/wiki/29-14/)) are freed the walls of the City will sink forever.
-Category:Buildings
-Category:The Shuttered City
+* Embassies of the Twelve Nations are built into the south wall of the City ([29.14.11](/wiki/29-14/)).
+* An ancient prophesy says that if any of the gods in the Prison of the Nine ([29.14.54](/wiki/29-14/)) are freed the walls of the City will sink forever.
+
+

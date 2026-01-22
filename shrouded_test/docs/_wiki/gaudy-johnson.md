@@ -20,10 +20,10 @@ While useful for the busy and the illiterate, it is the blindness of the Doge th
 
 Meanwhile, Shuttered’s established Great Families are not keen to witness the rise of an outsider and are making plans to ensure that the first member of the Johnson family is also its last.
 ### Hooks
-*Can the Doge announce new Great Families whenever he likes?
-*What are the benefits of belonging to or heading a Great Family?
-*How does Gaudy extract the oil? Do the lizardmen know of this technique? Does it destroy the snake?
-*Is there potential for mistranslations, errors or even deliberate tampering with the text?
-*What do the Great Families have planned?
-Category:Merchants
-Category:The Shuttered City
+* Can the Doge announce new Great Families whenever he likes?
+* What are the benefits of belonging to or heading a Great Family?
+* How does Gaudy extract the oil? Do the lizardmen know of this technique? Does it destroy the snake?
+* Is there potential for mistranslations, errors or even deliberate tampering with the text?
+* What do the Great Families have planned?
+
+

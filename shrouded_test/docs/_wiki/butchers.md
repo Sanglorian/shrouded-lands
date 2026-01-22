@@ -15,6 +15,6 @@ media: []
 The original [Lords Sanguine](/wiki/lords-sanguine/) were twelve butchers. Their name comes from their bloody work, and was a pejorative, although they now harvest blood from the Tarrasque which may have encouraged the name to stick. 
 
 The [butcher bird](/wiki/butcher-birds/) is named after this profession.
-Category:Professions
-Category:Sosaria
-Category:The Lands of Gore
+
+
+

@@ -15,6 +15,6 @@ media: []
 However, su-giraffes never start stop growing as they age and eventually their massive legs become so large that they plant themselves in the dirt and are difficult to distinguish from the trunks of great trees. Older su-giraffes also sprout additional heads and necks and begin to indulge in more ecumenical diets in order to sustain their great bulk.
 
 One of the greatest of all su-giraffes, a twenty-header, lives in [49.04](/wiki/49-04/).
-Category:Creatures
-Category:The World's Edge and Beyond
-Category:Giraffes
+
+
+

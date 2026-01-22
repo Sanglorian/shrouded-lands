@@ -18,5 +18,5 @@ The Zhuriman Empire created the [Janissaries](/wiki/janissaries/) and they remai
 [Jahur](/wiki/jahur/) was established as an overseas gem-mining colony long centuries ago. The [Viceroys](/wiki/viceroys/) style themselves as Zhurimani aristocrats. [Iano](/wiki/iano/) is not a god indigenous to Zhuriman.
 
 Alexandrine ([19.34](/wiki/19-34/)) was presumably part of the Zhuriman Empire since it was the lore of Zhuriman that was used in the creation of the Janissaries
-Category:Nations
-Category:Destroyed nations and places
+
+

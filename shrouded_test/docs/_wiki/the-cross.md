@@ -9,8 +9,8 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-**![](/media/SL_18.png)Region:** [Bitter Coast](/wiki/bitter-coast/)
-**Hex: **[02.11](/wiki/02-11/)
+* *![](/media/SL_18.png)Region:** [Bitter Coast](/wiki/bitter-coast/)
+* *Hex: **[02.11](/wiki/02-11/)
 
 Sailing on the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
 
@@ -21,16 +21,16 @@ Do not make the mistake of thinking that misery makes this city safe. Many sailo
 The Skull, a floating city of moored ships, used to sit in the bay of the Cross. One day, the [King of Salt and Brine](/wiki/king-of-salt-and-brine/) was caught in one of its ropes and pulled the whole armada out to sea before freeing himself. Where it floats now, no
 one knows.
 ## Subhexes:
-*[02.11.01](/wiki/02-11/) (The Pits of the Cross): this serves as the jail of the Cross.
-*[02.11.02](/wiki/02-11/) (The Skinscratch Murders): people are being murdered and left without their most precious possession and with strange marks carved into their skin.
-*[02.11.03](/wiki/02-11/) (The Rogue Janissary): a golem captains one of the local pirate ships.
+* [02.11.01](/wiki/02-11/) (The Pits of the Cross): this serves as the jail of the Cross.
+* [02.11.02](/wiki/02-11/) (The Skinscratch Murders): people are being murdered and left without their most precious possession and with strange marks carved into their skin.
+* [02.11.03](/wiki/02-11/) (The Rogue Janissary): a golem captains one of the local pirate ships.
 ## Connection:
-*An old sailor and the ghosts of some pirates who once frequented the Cross can be found not so far from here ([01.10](/wiki/01-10/)).
+* An old sailor and the ghosts of some pirates who once frequented the Cross can be found not so far from here ([01.10](/wiki/01-10/)).
 ## Hooks:
-*Where is the Skull now?
-*Are the Matrons as motherly as they seem?
-*On whom do the Pirate Kings prey?
-*Why are the Pirate Kings gathering their forces and cloud castles?
+* Where is the Skull now?
+* Are the Matrons as motherly as they seem?
+* On whom do the Pirate Kings prey?
+* Why are the Pirate Kings gathering their forces and cloud castles?
 ## The Pits of the Cross
 ![](/media/SL_19.png)Connects to: [29.14.15](/wiki/29-14/).
 
@@ -40,10 +40,10 @@ An informal community has arisen in the Pits. They barter and feud among themsel
 
 There are a few people who have sneaked into the Pits to escape scrutiny, including a [Smiling Man](/wiki/smiling-men/) biding his time until a particular target is thrown into the pits.
 ### Hooks:
-*Who is the Smiling Man's target? How can he be sure that the target will be thrown in the Pits?
-*Who else is lying low here?
-*What beast is trapped in one of the cave-vaults?
-*Who are the bosses of the Cross?
+* Who is the Smiling Man's target? How can he be sure that the target will be thrown in the Pits?
+* Who else is lying low here?
+* What beast is trapped in one of the cave-vaults?
+* Who are the bosses of the Cross?
 ## The Skinscratch Murders
 ![](/media/SL_20.png)Hex [02.11.02](/wiki/02-11/)
 
@@ -60,13 +60,13 @@ responsible. [One-Eyed Kristof](/wiki/one-eyed-kristof/)—a known fantasist—c
 
 The Scarecrows have shown particular interest in the killings, with one saying darkly that they have to be stopped before 'the forbidden sign' is used.
 ### Connections
-*The murderer is the daughter of a pirate of the Cross. The [hollow-hearted elf](/wiki/hollow-hearted-elf/) wilfully misinterpretted the pirate's request, much to the pirate's horror
+* The murderer is the daughter of a pirate of the Cross. The [hollow-hearted elf](/wiki/hollow-hearted-elf/) wilfully misinterpretted the pirate's request, much to the pirate's horror
 ### Hooks
-*What is the forbidden sign?
-*Are the crowfolk involved?
-*Where does One-Eyed Kristof get his information?
-*What is the meaning of the Gabber marks?
-*What‘s happened to the valuable items?
+* What is the forbidden sign?
+* Are the crowfolk involved?
+* Where does One-Eyed Kristof get his information?
+* What is the meaning of the Gabber marks?
+* What‘s happened to the valuable items?
 
 !["Captain Hook" © 2012 Brian Patterson, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/](/media/PRISMATIC_ADAM.jpg)
 
@@ -80,10 +80,10 @@ who remain in that city is that the octoids did not take the Daughter. It was st
 
 With the pearl in one fist and a map in the other, the Janissary made its way across the Shrouded Lands until it came to the Cross. It fell in with pirates and now serves as captain of its own ship under the name of [Ironsides](/wiki/ironsides/).
 ### Connection:
-*Ironsides has captured a nereid and forces her to serve him ([02.18](/wiki/02-18/)).
+* Ironsides has captured a nereid and forces her to serve him ([02.18](/wiki/02-18/)).
 ### Hooks:
-*Just what trade passes through the Ocean of Bitter Regrets?
-*How does the Rogue Janissary disguise itself? Does it need to?
+* Just what trade passes through the Ocean of Bitter Regrets?
+* How does the Rogue Janissary disguise itself? Does it need to?
 
 ## A Being of Pollen and Milk
 Some years ago the proprietor of this restaurant was a bitter chef serving bad food. One day, she drove all her staff from the building, claiming they were sabotaging her cooking and she would bring in new workers.
@@ -93,11 +93,11 @@ They seem to have done the trick: her food is now heralded as the finest in [the
 In fact, she enslaved [a being of pollen and milk](/wiki/elemental-beings/) and forces it to prepare all the meals her guests order. The being tries occasionally to seek help - leaving symbols in the drizzled sauce or marbling ‘Save me’ in the meat.
 
 ### Hooks
-*How do you enslave a being?
-*This is the second being associated with food (Chelind's Buns, [16.16](/wiki/16-16/)). Why is there a connection?
-*What is the name of the restaurant?
-*What is the name of the proprietor?
-*What will the being do to be freed?
-*How do others respond to the messages?
-Category:Cities
-Category:The Bitter Coast
+* How do you enslave a being?
+* This is the second being associated with food (Chelind's Buns, [16.16](/wiki/16-16/)). Why is there a connection?
+* What is the name of the restaurant?
+* What is the name of the proprietor?
+* What will the being do to be freed?
+* How do others respond to the messages?
+
+

@@ -26,16 +26,16 @@ Each night Armand fights off the coming of sleep, chanting prayers to the god wh
 
 The next day, Armand awakens later remembering all that he did the previous night and until night comes again he either tries to make reparations for what he did or lies sobbing in the tomb where he now lives. His attempts to return to Shuttered have met in failure for the priests turn him away at the gate.
 ### Connection:
-*One of the regular at [the Mud Platter](/wiki/the-mud-platter/) thinks that Armand is an angel of [Alberon](/wiki/alberon/).
+* One of the regular at [the Mud Platter](/wiki/the-mud-platter/) thinks that Armand is an angel of [Alberon](/wiki/alberon/).
 ### Hooks:
-*What is heart fruit?
-*How did Bogarus Bolger get the infected monkey?
-*Will Armand ever be able to cast clerical spells again?
-*Why does he crave offerings in spider monkey form? What does he do with them? What else is the spider monkey up to?
-*Is there any way to cure Armand?
-Category:Characters
-Category:Shuttered and Surrounds
-Category:The King in Splendour
-Category:Priests
-Category:Warriors
-Category:Lycanthropes
+* What is heart fruit?
+* How did Bogarus Bolger get the infected monkey?
+* Will Armand ever be able to cast clerical spells again?
+* Why does he crave offerings in spider monkey form? What does he do with them? What else is the spider monkey up to?
+* Is there any way to cure Armand?
+
+
+
+
+
+

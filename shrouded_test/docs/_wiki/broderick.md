@@ -16,17 +16,16 @@ Young Broderick, for he was still young, set out alone on an open boat to the Bo
 And the heart's blood of the dragon entered his mouth and unstopped his ears so that he could hear what men should not and the rage of a dragon entered his heart and he swiftly sailed into the east and made landfall at what is now called Broderick's Estuary *([01.08](/wiki/01-08/))*. There, filled with rage, he smote the earth where the river that now bears his name flows and swore that he would slay his father and rule the **Duchy of Thring** himself.
 
 The traveled swiftly to Castle Tarengael *([16.16](/wiki/16-16/))* and cut down his father, but his father's blood washed away that of the dragon and he regretted what he had done and set the sword upon himself. His sister mourned them both and in the long years of her life spent much time overseeing the construction of a tomb so that the Duke and his son could be united in death as they had not in life.
-
-**The Sepulchre of the Sword *'is the fruit of her labours; it also contains the animated sword Caledbrand.
+* *The Sepulchre of the Sword *'is the fruit of her labours; it also contains the animated sword Caledbrand.
 #### Connections:
-*In the dwarven monastery *([03.04](/wiki/03-04/))'' there are also orange gems related to fire. Is there a connection?
-*The paladin Sir Waine wielded Caledbrand for a day.
-*There is a grove of sequoias presumably named after Broderick ([02.07](/wiki/02-07/))
+* In the dwarven monastery *([03.04](/wiki/03-04/))'' there are also orange gems related to fire. Is there a connection?
+* The paladin Sir Waine wielded Caledbrand for a day.
+* There is a grove of sequoias presumably named after Broderick ([02.07](/wiki/02-07/))
 
 #### Hooks:
-*If he's buried in the Sepulchre and seems to be able to animate his sword from beyond the grave, then why has Broderick's ghost been sighted at his Estuary?
-*What magical properties does the sword have?
-*Did the dragon that Broderick killed have any young?
-*What did Broderick hear that men are not meant to?
-Category:Characters
-Category:The Duchy of Thring
+* If he's buried in the Sepulchre and seems to be able to animate his sword from beyond the grave, then why has Broderick's ghost been sighted at his Estuary?
+* What magical properties does the sword have?
+* Did the dragon that Broderick killed have any young?
+* What did Broderick hear that men are not meant to?
+
+

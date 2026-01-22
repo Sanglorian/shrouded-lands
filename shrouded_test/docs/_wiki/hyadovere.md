@@ -13,8 +13,8 @@ categories:
 media: []
 ---
 [Hyfalls](/wiki/hyfalls/) ([40.20](/wiki/40-20/)) was built on the ruins of Hyadovere, a colony of [Bergolast](/wiki/bergolast/). It was presumably named for the [River Hyad](/wiki/river-hyad/).
-Category:Bergolast
-Category:Lost civilisations
-Category:The Burning Lands
-Category:Settlements
-Category:Colonies
+
+
+
+
+

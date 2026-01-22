@@ -18,11 +18,11 @@ Within the stone halls of the dwarven inhabitants of the [City of Shuttered Wind
 
 The work that he is engaged in now is a simple golden wire, one suitable to be worn as a necklace around a slender neck. However, as with much of what comes from the workshop of Hazad Kaldun, subtle enchantments have been woven into the gold. This one is especially potent and allows the simple necklace to grow ever finer. For when someone places their fingers around the golden filament they will be transformed into a jewel bead with the wire of gold running through it. What sort of jewel depends on the nature of the person who has been transformed.
 ### Connection:
-*A thief named [Uriza](/wiki/uriza/) once stole the [Third Eye](/wiki/third-eye/), a piece of jewelry intended for a priest of the City that reveals the greatest sin of whoevers blood it is dipped into ([15.24](/wiki/15-24/)).
+* A thief named [Uriza](/wiki/uriza/) once stole the [Third Eye](/wiki/third-eye/), a piece of jewelry intended for a priest of the City that reveals the greatest sin of whoevers blood it is dipped into ([15.24](/wiki/15-24/)).
 ### Hooks:
-*Who has commissioned this necklace? What use do they have in mind for it?
-*What else has Hazad Kaldun made?
-Category:Characters
-Category:Dwarves
-Category:Smiths
-Category:The Shuttered City
+* Who has commissioned this necklace? What use do they have in mind for it?
+* What else has Hazad Kaldun made?
+
+
+
+

@@ -13,5 +13,5 @@ media: []
 Spoken in the lower levels of [Shuttered](/wiki/shuttered/); the [wild men](/wiki/wild-men/) speak a particularly degenerate dialect.
 
 Outside of Shuttered, it is known as the **Common Tongue**. It is spoken by [the Spawn](/wiki/the-spawn/). 
-Category:Languages
-Category:The Shuttered City
+
+

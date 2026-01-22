@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Elves
 ---
 #REDIRECT[Elves](/wiki/elves/)
-Category:Synonyms
+

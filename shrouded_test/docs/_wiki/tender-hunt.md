@@ -15,8 +15,8 @@ Once each year the husbands and wives of the [Lords Sanguine](/wiki/lords-sangui
 
 The Tender Hunt has its origins in the Collector’s cunning attempts to capture [The Unicorn](/wiki/the-unicorn/) ([29.07.02](/wiki/29-07/)) for his collection. He thought if he gathered innocent lords and ladies he might be able to lure it from hiding. Now, the event is an excuse for the nobility to meet and the hunt for the Tarrasque to pause for a few weeks. No one takes the hunt itself very seriously, with some nobles arranging joke captures like their husband in chains or a topiary shrub sculpted like a dragon.
 #### Hooks
-*What happened on the original Hunt?
-*What sort of political machinations occur during the Hunt?
-*Can an innocent soul really capture the Unicorn?
-Category:The Lands of Gore
-Category:Customs
+* What happened on the original Hunt?
+* What sort of political machinations occur during the Hunt?
+* Can an innocent soul really capture the Unicorn?
+
+

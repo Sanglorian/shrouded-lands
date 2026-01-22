@@ -18,10 +18,10 @@ Most of the creatures that lurk beyond the [World's Edge](/wiki/world's-edge/) a
 
 Their curious name comes from the bats' habit of carrying objects, not in their weak forepaws but in their strong lower legs. These objects are usually parcels wrapped in paper or cloth, and may contain any number of items - useful, valuable or simply bizarre. Where these items originate from is a mystery. However, it is known to certain well-travelled men that the roses from the Garden of Amelar ([36.04](/wiki/36-04/)), when burned, attract the attention of the courier bats. The [kobolds](/wiki/kobolds/) of the Broken Spear take advantage of this, setting ambushes atop the tower to kill the bats and steal the objects they are carrying.
 ### Hooks:
-*Where do the courier bats come from? Is someone sending them?
-*Where do the courier bats go, and why do they never return?
-Category:Bats
-Category:Creatures
-Category:Animals
-Category:The Kingswood
-Category:The World's Edge and Beyond
+* Where do the courier bats come from? Is someone sending them?
+* Where do the courier bats go, and why do they never return?
+
+
+
+
+

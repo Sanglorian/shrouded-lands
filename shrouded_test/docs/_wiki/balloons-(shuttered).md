@@ -19,13 +19,13 @@ pulled by carts or winched across a network of ropes that crisscross the sky.
 
 The richest of the [Great Families](/wiki/great-families/) and [the Doge himself](/wiki/blind-doge/) can afford magical means of propulsion for their balloons and their great painted blimps are wonders to behold. The Doge himself owns a number of [aarakocra](/wiki/aarakocra/) slaves that serve as bodyguards, servants and dancers. They can often be seen wheeling above the city‘s spires.
 ### Connections:
-*Local notables Ilace and Jerrod were blown far to the west while in one of these balloons ([03.08](/wiki/03-08/).01).
-*An attempt was made to import giant [flying fish](/wiki/flying-fish/) to pull the balloons of the City. It went badly but some are still stabled by the docks ([09.22](/wiki/09-22/)).
-*The [Black Balloon](/wiki/black-balloon/) was balloon-artisan [Yilbar the Illustrious](/wiki/yilbar-the-illustrious/)' greatest work.
+* Local notables Ilace and Jerrod were blown far to the west while in one of these balloons ([03.08](/wiki/03-08/).01).
+* An attempt was made to import giant [flying fish](/wiki/flying-fish/) to pull the balloons of the City. It went badly but some are still stabled by the docks ([09.22](/wiki/09-22/)).
+* The [Black Balloon](/wiki/black-balloon/) was balloon-artisan [Yilbar the Illustrious](/wiki/yilbar-the-illustrious/)' greatest work.
 
 ### Hooks:
-*Who is in the market for aarakocra slaves or eggs? There ![](/media/Shutt-ball.png)must be someone in the City who wants to match the Doge.
-*How do you keep slaves that can fly from running away?
-Category:The Shuttered City
-Category:Buildings
-Category:Artifacts
+* Who is in the market for aarakocra slaves or eggs? There ![](/media/Shutt-ball.png)must be someone in the City who wants to match the Doge.
+* How do you keep slaves that can fly from running away?
+
+
+

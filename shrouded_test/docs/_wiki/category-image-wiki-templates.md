@@ -12,4 +12,4 @@ Wiki templates used for image-related purposes.
 
 {{Templatecategory}}
 
-Category:Templates
+

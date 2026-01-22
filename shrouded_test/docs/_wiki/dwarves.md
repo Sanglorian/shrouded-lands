@@ -42,13 +42,13 @@ Made of red birch and covered with elfskin (elfskin makes the best drums, see al
 The greatest dwarven drum still lies deep beneath Titan's Skull ([33.00](/wiki/33-00/). It is said that that when Hoth Achaar ([26.01](/wiki/26-01/)) fell to the [orcs](/wiki/orcs/) it guided the steps of refugees who marched all the way from there to safety without rest, food or sleep. They all collapsed dead at the end of the march, but no matter, they kept some of the greatest treasures of dwarfkind from falling into orcish hands.
 
 ### Hooks:
-*-What can you tell me of elven bards?
-*-Why does elfskin make the best drums?
-*-Do dwarven drummers really steal human children?
-*-Can dwarf drums make the dead dance?
-*-Any other stories about the great drum? What is it called?
-*-What treasure was taken out of Hoth Achaar?
-*-Do the dwarves have any really really stupidly big drums? Why would they need a drum so large and awesome?
+* -What can you tell me of elven bards?
+* -Why does elfskin make the best drums?
+* -Do dwarven drummers really steal human children?
+* -Can dwarf drums make the dead dance?
+* -Any other stories about the great drum? What is it called?
+* -What treasure was taken out of Hoth Achaar?
+* -Do the dwarves have any really really stupidly big drums? Why would they need a drum so large and awesome?
 
 ## Types
 * [Deep dwarves](/wiki/deep-dwarves/)
@@ -60,5 +60,5 @@ The greatest dwarven drum still lies deep beneath Titan's Skull ([33.00](/wiki/3
 * [Darknesses](/wiki/darknesses/)
 * [Drinker of Iron](/wiki/drinker-of-iron/)
 * [Speaker to Bronze](/wiki/speaker-to-bronze/)
-Category:Peoples
-Category:Dwarves
+
+

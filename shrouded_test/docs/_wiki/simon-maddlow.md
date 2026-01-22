@@ -17,9 +17,9 @@ Humanoid races entering the gates of the [City of Shuttered Windows](/wiki/city-
 
 Today, Simon Maddlow sits in an office at the gates of the City, placing *geasa* on all the goblins and kobolds who pass by his desk.
 ### Hooks:
-*Did any of the other Maddlows survive their *geased* journeys and settle elsewhere in the world?
-*How did the Shuttered City Maddlows hang on to their powers without becoming impossibly inbred?
-*Does Simon Maddlow hold any dreams of reclaiming his ancestor's throne? Would the other [Witch Clans](/wiki/witch-clans/) of the [Barrier Range](/wiki/barrier-range/) recognize his claim?
-Category:Characters
-Category:The Shuttered City
-Category:Maddlows
+* Did any of the other Maddlows survive their *geased* journeys and settle elsewhere in the world?
+* How did the Shuttered City Maddlows hang on to their powers without becoming impossibly inbred?
+* Does Simon Maddlow hold any dreams of reclaiming his ancestor's throne? Would the other [Witch Clans](/wiki/witch-clans/) of the [Barrier Range](/wiki/barrier-range/) recognize his claim?
+
+
+

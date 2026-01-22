@@ -19,10 +19,10 @@ The fortress takes its name from a strange formation of stone around the castle'
 ![](/media/SL_13.png)
 While most Thunderhead fortresses reside in the mountains ([00.02](/wiki/00-02/)) when they are not hunting, Skullreach spends almost all of its time in the air. Apparently, the other giants dislike Udenyr's presence in their halls, and not just due to the incessant rainstorms that he brings with him. For his part, Udenyr often seems careless of the other giants, and on occasion has been sighted travelling further inland than any other Thunderhead in recent history. Four years ago, Skullreach travelled all the way to the edge of [the Freeholds](/wiki/the-freeholds/) region after stealing an entire tower from the dwarven monastery ([03.04](/wiki/03-04/)), prompting a mass panic in the [Shuttered City](/wiki/shuttered-city/) and beyond, but as quickly as he arrived, Udenyr turned around and went back to the coast.
 ### Hooks:
-*If Skullreach is really made out of a dragon skull, where did it come from?
-*Why don't the other giants like Udenyr?
-*Why can't the Thunderheads travel inland, and why is Skullreach the exception to this rule?
-*Why did Udenyr come to the Freeholds, and why did he leave?
+* If Skullreach is really made out of a dragon skull, where did it come from?
+* Why don't the other giants like Udenyr?
+* Why can't the Thunderheads travel inland, and why is Skullreach the exception to this rule?
+* Why did Udenyr come to the Freeholds, and why did he leave?
 ## The Mage Slaves of Udenyr
 ![](/media/SL_14.png)The Thunderhead of Skullreach is rightly feared along the Bitter Coast. People talk in hushed tones of the powerful mages Udenyr keeps enslaved to his will.
 
@@ -34,11 +34,11 @@ When the druid was young, he fell in love with the [dryad](/wiki/dryads/) who te
 
 The rest of Udenyr’s collection of ‘mages’ is made up of musicians and bards that Udenyr hoped could use the didgeridoo to summon [Old Leviathan](/wiki/old-leviathan/). The most recent arrival is a miserable young man who pretended to be the poet [Trimueil](/wiki/trimueil/) ([30.15](/wiki/30-15/).01) to woo a lady and is thoroughly regretting his decision.
 ### Hooks:
-*Is Broderick’s Grove coping without its dryad?
-*Is anyone searching for the captives?
-*How can a dryad give up his or her tree’s heart without dying?
-*Why does Udenyr want to summon Old Leviathan?
-Category:Dead Tiamat
-Category:The Ocean of Bitter Regrets
-Category:The Bitter Coast
-Category:Pirate Kings
+* Is Broderick’s Grove coping without its dryad?
+* Is anyone searching for the captives?
+* How can a dryad give up his or her tree’s heart without dying?
+* Why does Udenyr want to summon Old Leviathan?
+
+
+
+

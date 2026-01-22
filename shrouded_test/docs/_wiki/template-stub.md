@@ -8,5 +8,5 @@ categories:
   - "Category:Article management templates"
 media: []
 ---
-:<div class="notice metadata plainlinks" id="stub">*This article is a stub. You can help {{SITENAME}} by  [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it].*</div><includeonly>Category:Article stubs</includeonly><noinclude>
+:<div class="notice metadata plainlinks" id="stub">*This article is a stub. You can help {{SITENAME}} by  [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it].*</div><includeonly>
 {{documentation}}</noinclude>

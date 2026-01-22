@@ -24,16 +24,16 @@ The dwarves of the Burning Lands think them strange and have great difficulty de
 
 As far as the other races, gnomes have their eyes gouged out, lizardmen ([41.24](/wiki/41-24/)) are killed on sight, most others are turned away. All but citizens of the City of Shuttered Windows, who are welcomed with open arms and eager talk about the reopening of the shuttered windows themselves. They will also ask if the faithless gnomes who lead them astray were ever caught.
 ### Connection:
-*Trade caravans guided by gnollish bards singing the Song of Dust and Flame ([32.32](/wiki/32-32/)) occasionally pass by here.
+* Trade caravans guided by gnollish bards singing the Song of Dust and Flame ([32.32](/wiki/32-32/)) occasionally pass by here.
 ### Hooks:
-*Why do they hate the sun so much?
-*The ancestors of the dwarves of Nororak seem to have disappeared from the City (where they were presumably working on the walls, for a party of deep dwarves come to the city each year to inspect the city’s walls which seems to be the only time they leave their halls deep below the Titan’s Skull) at the end of the Chimerical Siege and then popped up many years later in the middle of the Burning Lands. How did that happen? How does anyone get so lost?
-*How did the faithless gnomes lead them astray? Why the eye gouging?
-*Why do they hate lizardmen so much?
-*What do these dwarves know about the windows of the City of Shuttered Windows?
-*Who was Dazak Ashtongued and why did he decree cave lichen as a means of exchange? Who the hell wants cave lichen?
-*How do the dwarves of the Burning Lands get their hands on cave lichen to pay the dwarves of Nororak with?
-*Tell me about some of the septs of the Burning Lands dwarves.
-Category:Dwarves
-Category:Peoples
-Category:The Burning Lands
+* Why do they hate the sun so much?
+* The ancestors of the dwarves of Nororak seem to have disappeared from the City (where they were presumably working on the walls, for a party of deep dwarves come to the city each year to inspect the city’s walls which seems to be the only time they leave their halls deep below the Titan’s Skull) at the end of the Chimerical Siege and then popped up many years later in the middle of the Burning Lands. How did that happen? How does anyone get so lost?
+* How did the faithless gnomes lead them astray? Why the eye gouging?
+* Why do they hate lizardmen so much?
+* What do these dwarves know about the windows of the City of Shuttered Windows?
+* Who was Dazak Ashtongued and why did he decree cave lichen as a means of exchange? Who the hell wants cave lichen?
+* How do the dwarves of the Burning Lands get their hands on cave lichen to pay the dwarves of Nororak with?
+* Tell me about some of the septs of the Burning Lands dwarves.
+
+
+

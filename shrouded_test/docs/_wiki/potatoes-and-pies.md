@@ -16,8 +16,8 @@ The orcs preserve them by freezing them in the cold night air and then heating t
 
 These pies are great round cornmeal pastries stuffed with boiled potatoes, meat scraps and gravy, chunks of boiled egg and pungent spices. The demand for them is great enough that they are also baked in the Sundial Inn ([25.04](/wiki/25-04/)) and elsewhere, although [Regulus Verlime](/wiki/regulus-verlime/) grumbles that they are the only bit of orcish culture that has any merit.
 ### Hooks
-*Where else is orcish pie sold?
-*What meat does the pies contain?
-Category:Orcs
-Category:The Grey Mountains
-Category:Victuals
+* Where else is orcish pie sold?
+* What meat does the pies contain?
+
+
+

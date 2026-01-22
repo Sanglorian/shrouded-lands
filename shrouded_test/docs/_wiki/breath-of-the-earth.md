@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: '12.28'
 ---
 #REDIRECT[12.28](/wiki/12-28/)
-Category:Phenomena
+

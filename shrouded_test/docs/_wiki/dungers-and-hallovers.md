@@ -22,11 +22,11 @@ The Dungers themselves lord over the Hallovers and set them to herding their goa
 
 The Dungers themselves do little work aside from bullying the Hallovers and setting off on an occasional raid in which they set their stench upon their enemies and then incapacitate them with nets and bolas.
 #### Connections
-*A Dunger killed the last man to proclaim himself king of the Witch Clans ([23.19](/wiki/23-19/)).
-*The Ossorys have been fueding with the Dungers and have been gaining the upper hand thanks to their hired necromancer ([24.18](/wiki/24-18/)).
-*Dungers have been harassing those whose boats have run aground since the levee broke *([22.18](/wiki/22-18/)).*
+* A Dunger killed the last man to proclaim himself king of the Witch Clans ([23.19](/wiki/23-19/)).
+* The Ossorys have been fueding with the Dungers and have been gaining the upper hand thanks to their hired necromancer ([24.18](/wiki/24-18/)).
+* Dungers have been harassing those whose boats have run aground since the levee broke *([22.18](/wiki/22-18/)).*
 ## Hallovers
-*[Maris Hallover](/wiki/maris-hallover/)
-Category:The Barrier Range
-Category:Witch Clans
-Category:Families
+* [Maris Hallover](/wiki/maris-hallover/)
+
+
+

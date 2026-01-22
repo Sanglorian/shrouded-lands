@@ -14,7 +14,7 @@ Dictated by the [Temple Indivisible](/wiki/temple-indivisible/) of the [Shuttere
 #Attaching a fish or other sea-dwelling creature to the posterior by means of string or cord (see the [Keepers of the Sainted Foot](/wiki/keepers-of-the-sainted-foot/))
 #Suggesting that [Shuttered's walls](/wiki/city-walls-(shuttered)/) are stable for any reason other than the fervent prayers of the priesthood
 ## Connections
-*Along the [Street of Small Gods](/wiki/street-of-small-gods/), [handmaidens and princes of Alberon](/wiki/handmaidens-and-princes-of-alberon/) offer 'services' that cleverly avoid violating the Heresies.
-Category:Alberon
-Category:The Shuttered City
-Category:Customs
+* Along the [Street of Small Gods](/wiki/street-of-small-gods/), [handmaidens and princes of Alberon](/wiki/handmaidens-and-princes-of-alberon/) offer 'services' that cleverly avoid violating the Heresies.
+
+
+

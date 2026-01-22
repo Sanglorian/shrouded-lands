@@ -17,10 +17,10 @@ media: []
 :See also [Hierophant](/wiki/hierophant/)
 
 Leader of the [Temple Invisible](/wiki/temple-invisible/)
-Category:Characters
-Category:Temple Invisible
-Category:The Shuttered City
-Category:Priests
-Category:Assassins
-Category:Alberon
-Category:The King in Splendour
+
+
+
+
+
+
+

@@ -17,5 +17,5 @@ media: []
 [Viceroy Rullaj](/wiki/viceroy-rullaj/) has a daughter, [Helin il-Helan](/wiki/helin-il-helan/), whom Jahuris believe to be caged in the [Sublime Divan](/wiki/sublime-divan/).
 
 The Viceroys meet in the [Sublime Divan](/wiki/sublime-divan/).
-Category:Characters
-Category:Jahur
+
+

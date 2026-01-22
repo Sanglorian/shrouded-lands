@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: '03.07'
 ---
 #REDIRECT [03.07](/wiki/03-07/)
-Category:Characters
-Category:Dwarves
-Category:The Westmarches
+
+
+

@@ -23,11 +23,11 @@ Watchtowers stationed at the dam farthest upstream mark the limits of beaver con
 
 Beavers keep mute but clever [muskrats](/wiki/muskrats/) as pets.
 ### Hooks:
-*Why have the elves permitted this intrusion? Do they have a choice?
-*Why are some animals able to talk?
-*What urgent messages might be sent by beaver relay?
-*What would one trade with a beaver?
-Category:Cities
-Category:Beavers
-Category:The Kingswood
-Category:The Witchwater
+* Why have the elves permitted this intrusion? Do they have a choice?
+* Why are some animals able to talk?
+* What urgent messages might be sent by beaver relay?
+* What would one trade with a beaver?
+
+
+
+

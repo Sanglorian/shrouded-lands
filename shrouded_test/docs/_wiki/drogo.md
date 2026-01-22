@@ -19,14 +19,14 @@ That wasn't enough for Drogo, so in the manner of successful thieves everywhere,
 
 Despite the proximity of the Guildhall to the meadows where the Night Cattle graze, no Rustler is permitted to take cattle from anywhere but the Welt Road. Whether this is simply to direct attention away from Drogo's sanctuary, or if there is a deeper reason, is a matter of speculation for guild members, but no one has ever had any interest in discovering what will happen if they disobey Drogo's instructions in this. It's as inconceivable as not paying your full dues, or staying to dine at Drogo's expense for a fourth night.
 ## Connections
-*It is rumored that Drogo once raided the Great Vault of the Hoard ([33.00](/wiki/33-00/)) but if that is true, why is he still alive?
-*It seems that Drogo supplies the [Whispering Sisters](/wiki/whispering-sisters/) with their sacrificial night cattle.
-*Drogo has stolen some moon-horned cattle from Monatheron which has caused him nothing but trouble ([43.12](/wiki/43-12/))
-*Drogo claims that the impetus to create the Guild came from a 15-foot tall demon ([36.05](/wiki/36-05/))
+* It is rumored that Drogo once raided the Great Vault of the Hoard ([33.00](/wiki/33-00/)) but if that is true, why is he still alive?
+* It seems that Drogo supplies the [Whispering Sisters](/wiki/whispering-sisters/) with their sacrificial night cattle.
+* Drogo has stolen some moon-horned cattle from Monatheron which has caused him nothing but trouble ([43.12](/wiki/43-12/))
+* Drogo claims that the impetus to create the Guild came from a 15-foot tall demon ([36.05](/wiki/36-05/))
 
 ## Hooks
-*Is Guild membership worth it? Surely it's more than a bed in a drafty old castle and some venison. Why doesn't anyone turn Drogo down? The best way to find out is to get to pilfering cows!
-*Why are the Guild members so obedient to Drogo? They are thieves after all, often the worst scum and murderers. Is it fear, some sort of compulsion, or genuine loyalty?
-*What's Drogo's background? How does he steal so many cattle? Does he just have contacts - with the most unsavory religious groups, or has he figured out a way to remove brands and even arcane marks?
-Category:Characters
-Category:The Lands of the Night Cattle
+* Is Guild membership worth it? Surely it's more than a bed in a drafty old castle and some venison. Why doesn't anyone turn Drogo down? The best way to find out is to get to pilfering cows!
+* Why are the Guild members so obedient to Drogo? They are thieves after all, often the worst scum and murderers. Is it fear, some sort of compulsion, or genuine loyalty?
+* What's Drogo's background? How does he steal so many cattle? Does he just have contacts - with the most unsavory religious groups, or has he figured out a way to remove brands and even arcane marks?
+
+

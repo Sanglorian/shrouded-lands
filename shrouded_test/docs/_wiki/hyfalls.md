@@ -21,19 +21,19 @@ Hyfalls is a rude village and most travelers do not tarry here long and most onl
 
 Being mostly a trade depot, there is little industry in Hyfalls except for mining. No, not minerals, there are few enough of them here but rather the depths of the ruins of Hyadovere and the even more ancient city it was built atop. This work is generally done by the inhabitants of Goblin Town, a small community of [hobgoblins](/wiki/hobgoblins/) ([16.04](/wiki/16-04/)) that lives below Hyfall. Goblin Town was accidentally founded by the current Duke of Thring ([16.16](/wiki/16-16/)) before he married the [Lady of Thring](/wiki/lady-of-thring/) and gained his title, when he travelled the length and breadth of the Burning Lands seeking Tarrasque lore. At that time he had hired a band of hobgoblins as expert spelunkers but they broke their contract and remained behind below Hyfall. The hobgoblins stay away from the more dangerous sections of the subterranean ruins but will happily point treasure hunters in their direction in return for a cut of the loot. The hobgoblins claim that they deal fairly with all such, but the hobgoblins emerged from the ground to sell some fine loot suspiciously soon after the disappearance of the [Company of the Silver Flame](/wiki/company-of-the-silver-flame/)…![](/media/4020.png)
 ### Subhexes:
-*[40.20.01](/wiki/40-20/) (The Dust Men): a mystical brotherhood or just colorful thieves?
-*[40.20.02](/wiki/40-20/) (The Two Alders): up for a friendly game of pot of death?
+* [40.20.01](/wiki/40-20/) (The Dust Men): a mystical brotherhood or just colorful thieves?
+* [40.20.02](/wiki/40-20/) (The Two Alders): up for a friendly game of pot of death?
 ### Connections:
-*The caravans that come here from out of the Burning Lands are generally lead by a gnollish bard who knows the Song of Dust and Flame ([32.32](/wiki/32-32/)).
-*A band of jackalweres lurks in the ruins beneath Hyfalls. Their diet of hobgoblin flesh mutates them in unusual ways ([51.17](/wiki/51-17/)).
-*Some maps of the caves beneath the city can be bought in far-off Jahur ([19.31.10](/wiki/19-31/)).
+* The caravans that come here from out of the Burning Lands are generally lead by a gnollish bard who knows the Song of Dust and Flame ([32.32](/wiki/32-32/)).
+* A band of jackalweres lurks in the ruins beneath Hyfalls. Their diet of hobgoblin flesh mutates them in unusual ways ([51.17](/wiki/51-17/)).
+* Some maps of the caves beneath the city can be bought in far-off Jahur ([19.31.10](/wiki/19-31/)).
 Hook:
-*Why are the gnolls afraid of being injured by relics of the tarrasque?
-*Why did the Doge betray the centaurs? Are there any communities of centaurs still about?
-*Did the Duke of Thring learn any secrets about the tarrasque?
-*Why did the Duke-to-be have a falling out with his hobgoblins hirelings?
-*What sorts of things do the hobgoblins mine from the ruins and sell to the town above?
-*Who was the Company of the Silver Flame? What happened to them?
+* Why are the gnolls afraid of being injured by relics of the tarrasque?
+* Why did the Doge betray the centaurs? Are there any communities of centaurs still about?
+* Did the Duke of Thring learn any secrets about the tarrasque?
+* Why did the Duke-to-be have a falling out with his hobgoblins hirelings?
+* What sorts of things do the hobgoblins mine from the ruins and sell to the town above?
+* Who was the Company of the Silver Flame? What happened to them?
 
 ## The Dust Men
 ![](/media/402001.jpg)Hex [40.20.01](/wiki/40-20/)
@@ -55,10 +55,10 @@ Jaustina helps the hobgoblins beneath the city smuggle artifacts out of Hyfalls.
 
 The talisman is known as [Tiamat's Nurse](/wiki/tiamats-nurse/). A woman who wears it during her pregnancy will give birth to a [dragonblooded](/wiki/dragonblooded/) child (also mentioned in [15.18](/wiki/15-18/)). First-generation dragonblooded children are magical prodigies, and are inclined towards evil. Tiamat's Nurse, locked in its chest beneath the inn, sends intense dreams to the pregnant women of Hyfalls. Some of these women have been awakened while sleepwalking through the Two Adders with great urgency. The women all awaken violently, going as far to wield stray mugs or knives. Jaustina knows the talisman is behind the disturbances, but she fears casting it into the Keening Sea.
 ### Hooks:
-*What remains of the August City's fleet?
-*Are deaths common in pot of death? How do the authorities view the game?
-*Who buys the smuggled artifacts?
-*Tell me about the history of Tiamat's Nurse. When was it created? Who has worn it in the past? How did it end up in Hyfalls?
-Category:The Burning Lands
-Category:River Hyad
-Category:Towns
+* What remains of the August City's fleet?
+* Are deaths common in pot of death? How do the authorities view the game?
+* Who buys the smuggled artifacts?
+* Tell me about the history of Tiamat's Nurse. When was it created? Who has worn it in the past? How did it end up in Hyfalls?
+
+
+

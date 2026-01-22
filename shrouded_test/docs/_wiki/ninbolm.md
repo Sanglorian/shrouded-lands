@@ -13,7 +13,7 @@ media: []
 ![](/media/0524.png) 
 [05.24](/wiki/05-24/)
 
-**Region:** [The Lands of Gore](/wiki/the-lands-of-gore/)
+* *Region:** [The Lands of Gore](/wiki/the-lands-of-gore/)
 ## Ninbolm
 Hex [05.24](/wiki/05-24/)
 ![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs35.jpg)
@@ -28,13 +28,13 @@ For as long as any gnome can remember, the city has been ruled by the [Hierophan
 
 The [Indigo Academy](/wiki/indigo-academy/) is based in Ninbolm. It runs the [Empty Drinkhall](/wiki/empty-drinkhall/), an illusory revelry.
 ### Connections
-*Some gnomish refugees moved out to avoid the Hierophant’s tyranny only to squabble with dwaves and get eaten by a dragon ([09.24](/wiki/09-24/))
+* Some gnomish refugees moved out to avoid the Hierophant’s tyranny only to squabble with dwaves and get eaten by a dragon ([09.24](/wiki/09-24/))
 ### Hooks
-*How much of the legend of Nilbog is true?
-*Where is the rest of the petrified tree?
-*What are some of the Hierophant's decrees?
-*In addition to the giant snails, what other strange creatures dwell in the city?
-*Most important - where can a traveler get a drink in this crazy place?
-Category:Gnomes
-Category:Cities
-Category:The Lands of Gore
+* How much of the legend of Nilbog is true?
+* Where is the rest of the petrified tree?
+* What are some of the Hierophant's decrees?
+* In addition to the giant snails, what other strange creatures dwell in the city?
+* Most important - where can a traveler get a drink in this crazy place?
+
+
+

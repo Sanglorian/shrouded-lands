@@ -14,7 +14,7 @@ is_redirect: true
 redirect_to: '08.21'
 ---
 #REDIRECT[08.21](/wiki/08-21/)
-Category:Characters
-Category:Trolls
-Category:Lords Sanguine
-Category:The Lands of Gore
+
+
+
+

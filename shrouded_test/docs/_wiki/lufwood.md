@@ -15,9 +15,9 @@ Lufwood trees and seeds are lighter than air. They sometimes stay rooted in the 
 Because lufwood seeds also float, their lifecycle depends on shalebats, large scaly animals that glide through the forest. They eat lufwood fruit, and excrete the seeds as part of their dense droppings. In this way, the seeds take root without simply floating away.
 
 ### Hooks
-*Who has made skyships of lufwood?
-*Does eating the fruit of the lufwood have any effects?
-*Are shalebats dangerous?
-*What else has been built of lufwood?
-*Who practices lufwood burials?
-Category:Plants
+* Who has made skyships of lufwood?
+* Does eating the fruit of the lufwood have any effects?
+* Are shalebats dangerous?
+* What else has been built of lufwood?
+* Who practices lufwood burials?
+

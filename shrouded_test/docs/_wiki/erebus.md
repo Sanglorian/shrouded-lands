@@ -46,13 +46,13 @@ who was badly damaged in a battle with an
 [ogre](/wiki/ogres/). He hopes the Jahuri have the skills to repair
 him.
 ### Hooks:
-*Did the ogre survive?
-*What is the blue quarter?
-*Tell me more about The Gushing Ruby.
-*Where are the lost fiendish grafts?
-*What fiendish grafts does Erebus have?
-*Who is his Janissary comrade?
-*Are there any Jahuri keen to join Erebus?
-Category:Characters
-Category:Jahur
-Category:Fiendslayers
+* Did the ogre survive?
+* What is the blue quarter?
+* Tell me more about The Gushing Ruby.
+* Where are the lost fiendish grafts?
+* What fiendish grafts does Erebus have?
+* Who is his Janissary comrade?
+* Are there any Jahuri keen to join Erebus?
+
+
+

@@ -19,10 +19,10 @@ The Revival is still unpopular among Tiamat’s faithful, but it is growing in p
 
 At the end of the [Street of Small Gods](/wiki/street-of-small-gods/) in the [Shuttered City](/wiki/shuttered-city/) is a brave preacher who talks of Tiamat as the Empty God and spreads word of the revival. Because he has avoided violating [Temple](/wiki/temple-indivisible/) doctrine (how can it be sin to say Tiamat is dead and will not return?) the Temple is yet to deal with him.
 ### Connection:
-*A member of the Revival has failed to retrieve a charm known as [Tiamat’s Nurse](/wiki/tiamats-nurse/) ([40.20](/wiki/40-20/).02).
+* A member of the Revival has failed to retrieve a charm known as [Tiamat’s Nurse](/wiki/tiamats-nurse/) ([40.20](/wiki/40-20/).02).
 ### Hooks:
-*Where are there still faithful of Tiamat?
-*What does the established Temple Indivisible think of the Revival?
-*Is the Revival as innocent as they appear?
-Category:Dead Tiamat
-Category:Religious groups
+* Where are there still faithful of Tiamat?
+* What does the established Temple Indivisible think of the Revival?
+* Is the Revival as innocent as they appear?
+
+

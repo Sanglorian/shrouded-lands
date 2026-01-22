@@ -23,17 +23,17 @@ The reason that the Great Mother is wary of certain Gigglings is that they can k
 
 This is done with the aid of a pointing bone, a length of sharpened bone cut from an appropriate animal, wrapped in feathers or hair and soaked in blood. A gnollish bard bent on murder will then point this bone at their victim and cry out with a giggling that lays bare the target's greatest flaws. If the giggling rings true then a great curse will be laid that can result in death or worse...
 ### Connections:
-*The farthest campus of the Howling College is located at the Fire Fang ([32.32](/wiki/32-32/)).
-*The [western gnolls](/wiki/western-gnolls/) of Abbalah-doon have their own musical traditions ([15.28](/wiki/15-28/)).
-*The gnolls of the Howling College collect whistling reeds to be heard by [lizardmen](/wiki/lizardmen/) ([50.26](/wiki/50-26/)).
+* The farthest campus of the Howling College is located at the Fire Fang ([32.32](/wiki/32-32/)).
+* The [western gnolls](/wiki/western-gnolls/) of Abbalah-doon have their own musical traditions ([15.28](/wiki/15-28/)).
+* The gnolls of the Howling College collect whistling reeds to be heard by [lizardmen](/wiki/lizardmen/) ([50.26](/wiki/50-26/)).
 * Viceroy Orhan used a gnoll of the college to sing souls into his vat-born wives.
 ### Hooks:
-*Why was the kharghaha abandoned in the first place?
-*Tell me about a famous gnollish song-tale. Is it a Lowing, a Whooping or a Giggling?
-*What is "an appropriate animal?"
-*"Or worse"? What could be worse than having a bard laughing you to death?
-Category:Gnolls
-Category:Bards
-Category:The Burning Lands
-Category:Organisations
-Category:City of Smoke
+* Why was the kharghaha abandoned in the first place?
+* Tell me about a famous gnollish song-tale. Is it a Lowing, a Whooping or a Giggling?
+* What is "an appropriate animal?"
+* "Or worse"? What could be worse than having a bard laughing you to death?
+
+
+
+
+

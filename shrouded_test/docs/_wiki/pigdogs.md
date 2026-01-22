@@ -12,7 +12,7 @@ media: []
 ---
 Pigdogs are stout, short-legged dogs with barrel chests and heavy jaws with long tusk-like teeth and snouts that seem almost pig-like. They are not favoured because they are such voracious eaters, except at the Pigdog Sept ([27.27](/wiki/27-27/)) which has no trouble feeding them.
 ### Connections:
-*[Azurnay](/wiki/azurnay/)’s city watch maintains pigdogs to help them apprehend fleeing criminals ([24.26](/wiki/24-26/)).
-Category:Creatures
-Category:Animals
-Category:Dogs
+* [Azurnay](/wiki/azurnay/)’s city watch maintains pigdogs to help them apprehend fleeing criminals ([24.26](/wiki/24-26/)).
+
+
+

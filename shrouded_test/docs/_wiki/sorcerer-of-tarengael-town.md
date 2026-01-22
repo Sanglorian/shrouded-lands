@@ -21,10 +21,10 @@ The Sorcerer of Tarengael Town has specialized in featherstitch, an embroidery t
 
 He follows [Baron Autumn](/wiki/baron-autumn/).
 #### Hooks:
-*Who was the sorcerer's rival?
-*What great spells can be done by featherstitch?
-Category:Characters
-Category:Sorcerers
-Category:The Duchy of Thring
-Category:Priests
-Category:Baron Autumn
+* Who was the sorcerer's rival?
+* What great spells can be done by featherstitch?
+
+
+
+
+

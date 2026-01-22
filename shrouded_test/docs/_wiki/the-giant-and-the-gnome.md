@@ -21,12 +21,12 @@ Inside, the tavern is a den of strictly regulated vices. Only drinks bought at t
 
 The tavern is considered the finest place to celebrate, seal a business deal, meet a lover or arrange an adventure. The bartenders look almost identical, with dark blue skin and white hair: they claim to be the sons of the fertile and adulterous founder of the tavern, though none can find a record of any time before there was The Giant and the Gnome.
 ### Hooks:
-*What is the story behind the bartenders?
-*How do they manage to employ crowfolk?
-*Did the gnome and the giant ever exist?
-*Why did the stone giants demolish their buildings?
-*How does the Temple feel about the tavern’s stature?
-*What will happen to you if you’re caught on the Cathedral’s roof?
-*What sort of trouble could you get into in The Giant and the Gnome?
-Category:Buildings
-Category:The Shuttered City
+* What is the story behind the bartenders?
+* How do they manage to employ crowfolk?
+* Did the gnome and the giant ever exist?
+* Why did the stone giants demolish their buildings?
+* How does the Temple feel about the tavern’s stature?
+* What will happen to you if you’re caught on the Cathedral’s roof?
+* What sort of trouble could you get into in The Giant and the Gnome?
+
+

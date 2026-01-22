@@ -20,7 +20,7 @@ An ancient kingdom which was situated in the lands beyond the [World's Edge](/wi
 : Look to me when [the Hammer of Bronze](/wiki/the-hammer-of-bronze/) is forged anew. Look to me on the twelfth night when the sea boils. Look upon me, ye of Serpantia, and despair.
 
 There are three-headed [tigers](/wiki/tigers/) in Serpantia.
-Category:Nations
-Category:Lost civilisations
-Category:The World's Edge and Beyond
-Category:The Keening Sea
+
+
+
+

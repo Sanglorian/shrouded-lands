@@ -8,20 +8,20 @@ categories:
   - "Category:Professions"
 media: []
 ---
-*[Astrologers](/wiki/astrologers/)
-*[Bannermen](/wiki/bannermen/)
-*[Drummers](/wiki/drummers/) (dwarf)
-*[Eelmistresses](/wiki/eelmistresses/)
-*[Electors](/wiki/electors/) (of the Doge)
-*[Hedge-Wizards](/wiki/hedge-wizards/)
-*[Hexers](/wiki/hexers/)
-*[Lamplighters](/wiki/lamplighters/)
-*[Lashers](/wiki/lashers/) (servants of the octoids)
-*[Mead-Guards](/wiki/mead-guards/), Halfling
-*[Nobles](/wiki/nobles/) of a Great Family
-*[Pathfinder-Mages](/wiki/pathfinder-mages/)
-*[Rangers](/wiki/rangers/) (Marsh)
-*[Sorcerers](/wiki/sorcerers/) of Thring
-*[Stylites](/wiki/stylites/)
-*[Priest-Kings](/wiki/priest-kings/) (Othonoi)
-Category:Professions
+* [Astrologers](/wiki/astrologers/)
+* [Bannermen](/wiki/bannermen/)
+* [Drummers](/wiki/drummers/) (dwarf)
+* [Eelmistresses](/wiki/eelmistresses/)
+* [Electors](/wiki/electors/) (of the Doge)
+* [Hedge-Wizards](/wiki/hedge-wizards/)
+* [Hexers](/wiki/hexers/)
+* [Lamplighters](/wiki/lamplighters/)
+* [Lashers](/wiki/lashers/) (servants of the octoids)
+* [Mead-Guards](/wiki/mead-guards/), Halfling
+* [Nobles](/wiki/nobles/) of a Great Family
+* [Pathfinder-Mages](/wiki/pathfinder-mages/)
+* [Rangers](/wiki/rangers/) (Marsh)
+* [Sorcerers](/wiki/sorcerers/) of Thring
+* [Stylites](/wiki/stylites/)
+* [Priest-Kings](/wiki/priest-kings/) (Othonoi)
+

@@ -16,12 +16,12 @@ This slight, fetching girl is the sorceress [Noor the Asp](/wiki/noor-the-asp/)'
 
 Melda's most notable spell is the [Unstoppable Thrust](/wiki/unstoppable-thrust/). When she contorts herself into this shape, she propels herself and a single person holding her forward at extreme speeds. Very few barriers or obstacles can stop Melda while under the effect of this spell. The only limitation lies in how physically gruelling it is to maintain the necessary position. The contortion is so demanding and complicated that she can usually do it for no longer than several moments.
 ### Hooks
-*Who else uses unorthodox magic?
-*Who is Noor the Asp? Where does she dwell?
-*What other duties to the priests of Iano have? Are they all blind, or just certain ones?
-*Who killed Melda's parents? Why? Where are her siblings?
-*What can stop the Unstoppable Thrust?
-Category:Characters
-Category:Jahuri
-Category:Jahur
-Category:Sorcerers
+* Who else uses unorthodox magic?
+* Who is Noor the Asp? Where does she dwell?
+* What other duties to the priests of Iano have? Are they all blind, or just certain ones?
+* Who killed Melda's parents? Why? Where are her siblings?
+* What can stop the Unstoppable Thrust?
+
+
+
+

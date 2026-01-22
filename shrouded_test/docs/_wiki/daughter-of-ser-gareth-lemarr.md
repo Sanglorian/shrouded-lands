@@ -16,10 +16,10 @@ Gareth’s shield was entirely red (see [Snickersnees](/wiki/snickersnees/)), bu
 
 The circumstances of Ser Gareth’s death are unclear, but include a brutish Thringish knight called [Sir Mimslet](/wiki/sir-mimslet/). He is known by his harlequin chequer and kite shield. The daughter of Gareth plans to become the man’s squire and discover more about the death of her father.
 #### Connections
-*The girl was the childhood friend of [Princess Elandra](/wiki/princess-elandra/) and has a story to tell her
+* The girl was the childhood friend of [Princess Elandra](/wiki/princess-elandra/) and has a story to tell her
 
 #### Hooks:
-*What happened to Ser Gareth and what did Sir Mimslet have to do with it?
-*Are the Lemarrs related to Lorenzo DiMarr? ([09.22](/wiki/09-22/))
-Category:Characters
-Category:The Lands of Gore
+* What happened to Ser Gareth and what did Sir Mimslet have to do with it?
+* Are the Lemarrs related to Lorenzo DiMarr? ([09.22](/wiki/09-22/))
+
+

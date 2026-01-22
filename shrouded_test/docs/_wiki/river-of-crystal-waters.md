@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 Runs through these hexes.
-Category:Bodies of water
-Category:The Duchy of Thring
+
+

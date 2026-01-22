@@ -13,14 +13,14 @@ Every time [the Duke](/wiki/ducal-family-of-thring/) must replace a member the B
 
 The knight with the greatest prowess receives the lion he subdued as well as the coveted Brother of the Lion title. The lion remains loyal to its death. On the other hand, if any lion manages to defeat a candidate, the losing knight must spend the rest of his life among the prides of the **Devil's Fingers**. The latter happens less often than would be expected. Still, any decent Thringish bard can sing at least a dozen laments over knights doomed to wander with lions.
 #### Connections:
-*[Sister Nadela](/wiki/sister-nadela/) ([18.19](/wiki/18-19/)) is the most famous woman who have won a lion as her own.
-*A Thringman named [Sir Huw](/wiki/sir-huw/) was one of those who lost his contest with a lion. He now roams with the lion prides with a nymph at his side *([13.24](/wiki/13-24/) *and* [18.28](/wiki/18-28/))*.
-*One of the Brothers of the Lion has been killed for the crimes of his grandfather *([23.11.03](/wiki/23-11/)).*
+* [Sister Nadela](/wiki/sister-nadela/) ([18.19](/wiki/18-19/)) is the most famous woman who have won a lion as her own.
+* A Thringman named [Sir Huw](/wiki/sir-huw/) was one of those who lost his contest with a lion. He now roams with the lion prides with a nymph at his side *([13.24](/wiki/13-24/) *and* [18.28](/wiki/18-28/))*.
+* One of the Brothers of the Lion has been killed for the crimes of his grandfather *([23.11.03](/wiki/23-11/)).*
 #### Hooks
-*How did the **Dukes of Thring** make a pact with the lion prides?
-*What are some effective lion-wrestling techniques? Who teaches them?
-*Who are some current Brothers of the Lion?
-*How do the lions get along with other mounts?
-*When did the last death in this long tradition occur? What happened?
-Category:The Duchy of Thring
-Category:Organisations
+* How did the **Dukes of Thring** make a pact with the lion prides?
+* What are some effective lion-wrestling techniques? Who teaches them?
+* Who are some current Brothers of the Lion?
+* How do the lions get along with other mounts?
+* When did the last death in this long tradition occur? What happened?
+
+

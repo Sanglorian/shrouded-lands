@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: Fiends
 ---
 #REDIRECT[Fiends](/wiki/fiends/)
-Category:Creatures
-Category:Fiends
+
+

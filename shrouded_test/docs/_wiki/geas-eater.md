@@ -21,9 +21,9 @@ Since then, there have been scattered reports of the creature from the denizens 
 
 [Burrin Olmstead](/wiki/burrin-olmstead/), a minor member of the family ([31.04](/wiki/31-04/)), was seen visiting Arnea the halfling shortly after the geas-eater's escape. Rumor has it that he was there as an emissary of the Bloodied King of the elves himself. As the creature grew, it gained the ability to devour progressively stronger and more complex geases. The question that this Olmstead had for Arnea was, purportedly: how big would the creature have to grow before it was ready to devour a geas laid down by the Prince of Men ([29.07.03](/wiki/29-07/)) himself?
 ### Hooks:
-*Who's Jiffon Soon and where is his laboratory?
-*What's the deal with Arnea? Does she have some interesting history?
-*What's the geas that the Bloodied King is trying to break, and what will happen if he succeeds?
-*Is Burrin Olmstead representing the entire Olmstead clan, or just the Bloodied King?
-Category:Creatures
-Category:The Shuttered City
+* Who's Jiffon Soon and where is his laboratory?
+* What's the deal with Arnea? Does she have some interesting history?
+* What's the geas that the Bloodied King is trying to break, and what will happen if he succeeds?
+* Is Burrin Olmstead representing the entire Olmstead clan, or just the Bloodied King?
+
+

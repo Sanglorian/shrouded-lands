@@ -18,8 +18,8 @@ But of course these currencies must be backed by real exchanges, and the Goblin 
 
 Stalls – most but not all of them run by [goblins](/wiki/goblins/) – pop up somewhere in the North every new moon. Where the market is changes with the months, but the market comes to a series of glades in the Kingswood ([33.04](/wiki/33-04/)) at least once a year. And it is here that those who truck with spirits exchange intangibles, impossibilities and organs (their own or those of others) for bone shards, orichalcum coins, dinosaur feathers, pixie dust and other ritual currencies. See [Goblin Markets](/wiki/goblin-markets/) for more.
 ### Hooks:
-*Where do warlocks lecture about pactmaking? Is it really as safe as they say?
-*Who, if anyone, was responsible for the standardisation of pactmaking?
+* Where do warlocks lecture about pactmaking? Is it really as safe as they say?
+* Who, if anyone, was responsible for the standardisation of pactmaking?
 
-Category:Customs
-Category:Magic
+
+

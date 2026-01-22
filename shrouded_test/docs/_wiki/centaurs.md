@@ -12,7 +12,7 @@ media: []
 ---
 !['Last Centaur', Boris Artzybasheff](/media/Last_Centaur.jpg)
 
-*The [Paion tribe](/wiki/paion-tribe/) gather in the Paionian Glade ([04.17](/wiki/04-17/))
-Category:Centaurs
-Category:Peoples
-Category:Creatures
+* The [Paion tribe](/wiki/paion-tribe/) gather in the Paionian Glade ([04.17](/wiki/04-17/))
+
+
+

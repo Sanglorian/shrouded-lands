@@ -18,9 +18,9 @@ Two decades ago, a dwarf was born with strange power over coins: he-she could sp
 
 Such a skill is of course of tremendous value to the Hoard, but they have so far found only five dwarves with the talent.
 ### Hooks:
-*Who are the five dwarves?
-*What has caused the recent development (or at least discovery) of this skill?
-*To what uses has the skill been put?
-Category:Phenomena
-Category:Dwarves
-Category:Magic
+* Who are the five dwarves?
+* What has caused the recent development (or at least discovery) of this skill?
+* To what uses has the skill been put?
+
+
+

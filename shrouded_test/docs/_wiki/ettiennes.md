@@ -29,20 +29,20 @@ At Ettin Castle ([13.06](/wiki/13-06/)), the Alvises have learned several things
 
 The elder Alvise had already commissioned a crown and plans to proclaim himself King of the Giants when the time is ripe. There are just a few more preparations left…
 ### Connections:
-*The ettins take giant bee mead from the nearby halflings ([11.08](/wiki/11-08/)), often without payment.
-*Alvise Ettienne, the nephew of the Alvise Ettienne who became an ettin, manages the family’s old silk business in the City ([29.14.46](/wiki/29-14/)).
+* The ettins take giant bee mead from the nearby halflings ([11.08](/wiki/11-08/)), often without payment.
+* Alvise Ettienne, the nephew of the Alvise Ettienne who became an ettin, manages the family’s old silk business in the City ([29.14.46](/wiki/29-14/)).
 ### Hooks:
-*What “extreme measures” did Dovan Vantisse take?
-*How much power do Irabella and Georj have over the body that they share with Alvise (and various new heads).
-*What about the nine younger Alvises? What heads have they collected? What are their relationships like with their new heads? Do any of them have children of their own? Did any of them try to graft a chicken head to their elbow? What happened?
-*Except for the ettins, who else lives at Ettin Castle? Are any of the family members of the three heads still about?
-*Who did Alvise commission a crown from? That sounds like a hard job.
-*What preparations is Alvise making before he crowns himself king and tries to carve out a kingdom?
+* What “extreme measures” did Dovan Vantisse take?
+* How much power do Irabella and Georj have over the body that they share with Alvise (and various new heads).
+* What about the nine younger Alvises? What heads have they collected? What are their relationships like with their new heads? Do any of them have children of their own? Did any of them try to graft a chicken head to their elbow? What happened?
+* Except for the ettins, who else lives at Ettin Castle? Are any of the family members of the three heads still about?
+* Who did Alvise commission a crown from? That sounds like a hard job.
+* What preparations is Alvise making before he crowns himself king and tries to carve out a kingdom?
 ## Members
-*[Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
-*[Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)
-Category:Creatures
-Category:Peoples
-Category:The Shuttered City
-Category:The Freeholds
-Category:Families
+* [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
+* [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)
+
+
+
+
+

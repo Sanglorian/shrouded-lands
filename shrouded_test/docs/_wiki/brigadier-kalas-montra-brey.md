@@ -27,11 +27,11 @@ Naturally, Kalas (and all those associated with the embassy) are subject an Unen
 
 Kalas is massive, even by orc standards, nearly as large and as strong as an [ogre](/wiki/ogres/). When hunting, he dons the soot-blackened plate mail typical of Grumludi officers. He is never seen in public without his [minotaur-horn](/wiki/minotaurs/) helmet and black sash displaying various military decorations. Non-elves find him extremely personable -- charming (for an orc) and even-tempered, proud to tell stories of his various exploits. Elves, on the other hand, can only expect the most dedicated and savagely hateful of enemies.
 ### Connections:
-*Kalas’ grandfather ([22.04](/wiki/22-04/)) was also a famous orc raider before his disappearance.
+* Kalas’ grandfather ([22.04](/wiki/22-04/)) was also a famous orc raider before his disappearance.
 ### Hooks:
-*Why does the Count want an elf slave? What are his "specifications?"
-*Why is Kalas so unrelenting in his hunt for elves?
-*Has Kalas caught any especially notable elves?
-Category:Orcs
-Category:Characters
-Category:Shuttered and Surrounds
+* Why does the Count want an elf slave? What are his "specifications?"
+* Why is Kalas so unrelenting in his hunt for elves?
+* Has Kalas caught any especially notable elves?
+
+
+

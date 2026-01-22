@@ -14,12 +14,12 @@ Although the [aarakocra](/wiki/aarakocra/) tribe known as the Kagu nests in [04.
 
 High in their mountain nests, the Aarakocra possess a single enormous [ruby](/wiki/rubies/). They claim that if it is ever removed from its place in their shrine a great evil will come over the world, but perhaps they are merely trying to scare away treasure hunters. Several decades ago, one of the storm giant [Pirate Kings](/wiki/pirate-kings/) was not so dissuaded and unwisely sailed his cloud castle away from the coast and into the mountains where it was shattered.
 ## Connections
-*The Doge of the City of Shuttered Windows keeps a band of aarakocra as slaves and other notables of that city might be interested in procuring some aarakocra slaves of their own ([29.14](/wiki/29-14/).02)
-*They steal lambs from mountain shepherds ([02.04](/wiki/02-04/)).
+* The Doge of the City of Shuttered Windows keeps a band of aarakocra as slaves and other notables of that city might be interested in procuring some aarakocra slaves of their own ([29.14](/wiki/29-14/).02)
+* They steal lambs from mountain shepherds ([02.04](/wiki/02-04/)).
 ## Hooks
-*What will really happen if the aarakocras' ruby is taken?
-*How did the aarakocra defeat a storm giant?
-*What god do the aarakocra worship at their shrine? Or is the object of their veneration just some powerful creature that claims to be a god?
-Category:Aarakocra
-Category:Peoples
-Category:The Grey Mountains
+* What will really happen if the aarakocras' ruby is taken?
+* How did the aarakocra defeat a storm giant?
+* What god do the aarakocra worship at their shrine? Or is the object of their veneration just some powerful creature that claims to be a god?
+
+
+

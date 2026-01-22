@@ -20,11 +20,11 @@ At Castle Tarengael, due to the somewhat unusual predilections of the first duke
 
 Poor folk hang about in this swamp when a duel is taking place, hoping for a chance to strip the loser of his valuable armor. Meanwhile, kinsmen of the two combatants hang around waiting to see off the looters and eyeing each other off. The law states that the disgraced loser of the trial cannot be moved from the swamp for three days after their death, during which time their kinsmen hold vigil to protect the corpse from desecration. This vigil is especially onerous in the summer months when the swamp becomes humid and the body begins to decompose inside its armor.
 #### Connections:
-*The [Sparrow Knight](/wiki/sparrow-knight/) once lost a Battle of the Hand but survived thanks to his feather token ([16.16.10](/wiki/16-16/)).
+* The [Sparrow Knight](/wiki/sparrow-knight/) once lost a Battle of the Hand but survived thanks to his feather token ([16.16.10](/wiki/16-16/)).
 #### Hooks:
-*What are the terms of the duel at other castles in Thring?
-*What exactly where the strange predilections of the first Duke?
-*What have the poor folk of the swamp scavenged off corpses? Any family heirlooms of special importance?
-*Who has fought in the Battle of the Hand? Did they win, or lose?
-Category:Customs
-Category:The Duchy of Thring
+* What are the terms of the duel at other castles in Thring?
+* What exactly where the strange predilections of the first Duke?
+* What have the poor folk of the swamp scavenged off corpses? Any family heirlooms of special importance?
+* Who has fought in the Battle of the Hand? Did they win, or lose?
+
+

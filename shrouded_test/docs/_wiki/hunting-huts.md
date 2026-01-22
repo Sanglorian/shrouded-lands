@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: '10.14'
 ---
 #REDIRECT [10.14](/wiki/10-14/)
-Category:Creatures
-Category:The Lands of Gore
+
+

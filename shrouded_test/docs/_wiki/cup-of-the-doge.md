@@ -15,8 +15,8 @@ The [Doge](/wiki/blind-doge/) of the [City of the Shuttered Windows](/wiki/city-
 
 Many in the City seek to ape the Doge's fashion and secure gold dragon scales of their own or better yet the breath of a silver dragon that is said to be able to dissolve curses and banish sorceries.
 ### Hooks:
-*What is bloodied wine? Is it sangria?
-Category:Artifacts
-Category:Doges
-Category:The Shuttered City
-Category:Dragons
+* What is bloodied wine? Is it sangria?
+
+
+
+

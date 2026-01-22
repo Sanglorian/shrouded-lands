@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 The last dregs of a great ocean. See [12.29](/wiki/12-29/) for more.
-Category:Bodies of water
-Category:The Singing Wastes
-Category:The Forest of Abominations
+
+
+

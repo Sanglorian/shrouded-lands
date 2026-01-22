@@ -20,20 +20,20 @@ Although great riches can be won by those who know it well and travel it often, 
 
 Elven [Raiders](/wiki/raiders/) wait above the Welt Road to prey on travellers. 
 ## Places along the way
-*The Sundial Inn ([25.04](/wiki/25-04/))
-*Titan's Rest ([33.01](/wiki/33-01/)) is the final stretch of the road before it ends at Titan's Skull
-*The Market Pits ([28.04](/wiki/28-04/))
-*Olmsted Keep is the destination for many travelling the Welt Road ([31.04](/wiki/31-04/))
-*[Winds](/wiki/winds/)
-*The Order of the Broken Chain has its headquarters in a secret lair somewhere along the road ([27.04](/wiki/27-04/))
+* The Sundial Inn ([25.04](/wiki/25-04/))
+* Titan's Rest ([33.01](/wiki/33-01/)) is the final stretch of the road before it ends at Titan's Skull
+* The Market Pits ([28.04](/wiki/28-04/))
+* Olmsted Keep is the destination for many travelling the Welt Road ([31.04](/wiki/31-04/))
+* [Winds](/wiki/winds/)
+* The Order of the Broken Chain has its headquarters in a secret lair somewhere along the road ([27.04](/wiki/27-04/))
 ## Connections
-*During the [Lion's Day](/wiki/lion's-day/), the road's stuffy air becomes almost unbreathable. 
-*[Drogo](/wiki/drogo/)'s thieves are permitted only to raid caravans travelling the Welt Road.
-*Gnolls were brought in cages along the road for [the Lady](/wiki/the-lady/) ([40.06](/wiki/40-06/))
+* During the [Lion's Day](/wiki/lion's-day/), the road's stuffy air becomes almost unbreathable.
+* [Drogo](/wiki/drogo/)'s thieves are permitted only to raid caravans travelling the Welt Road.
+* Gnolls were brought in cages along the road for [the Lady](/wiki/the-lady/) ([40.06](/wiki/40-06/))
 ## Hooks
-*What are the sounds that come from below?
-*Who are some of the characters who frequent the Welt Road?
-*What happened to the caravans that disappeared? Why was Henry so successful? What happened to all of his money?
-Category:Roads
-Category:Buildings
-Category:Welt Road
+* What are the sounds that come from below?
+* Who are some of the characters who frequent the Welt Road?
+* What happened to the caravans that disappeared? Why was Henry so successful? What happened to all of his money?
+
+
+

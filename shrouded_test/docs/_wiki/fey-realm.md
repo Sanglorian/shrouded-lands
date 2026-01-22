@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Land of Fairy
 ---
 #REDIRECT[Land of Fairy](/wiki/land-of-fairy/)
-Category:Synonyms
+

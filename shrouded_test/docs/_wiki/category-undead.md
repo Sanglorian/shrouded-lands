@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 [Undead](/wiki/undead/)
-Category:Creatures
+

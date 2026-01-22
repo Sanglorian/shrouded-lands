@@ -21,16 +21,16 @@ While the azimyth are inquisitive and friendly creatures by nature, they will no
 
 However, a fringe group among the bats are not so friendly. Led by Torn Wing, a powerful enchanter of his kind, these azimyth believe they were originally human spellcasters apprenticed to Severard who submitted to his experiments in good faith and were betrayed. Torn Wing and his followers intend to take back the village at the Tangled Web ([13.08](/wiki/13-08/)) from the spiders and unearth Severard’s secrets. 
 ### Connections:
-*Occasionally the azimyth will fly as far afield as the [Kingswood](/wiki/kingswood/) to pollinate the wildflowers it is famous for, or even the Castle of Dances ([15.18](/wiki/15-18/)) to pollinate the dancer’s blooms. 
-*At least one azimyth bat, affectionately nicknamed “Hiccup”, sometimes sneaks into the honey meadery of the Bolger halflings ([11.08](/wiki/11-08/)) and is found piss-faced by halfling mead-guards. Some of the mead-guards report “Hiccup” going on about aspiring to be a [wizard’s](/wiki/wizards/) familiar, though the halflings just laughed it off.
+* Occasionally the azimyth will fly as far afield as the [Kingswood](/wiki/kingswood/) to pollinate the wildflowers it is famous for, or even the Castle of Dances ([15.18](/wiki/15-18/)) to pollinate the dancer’s blooms.
+* At least one azimyth bat, affectionately nicknamed “Hiccup”, sometimes sneaks into the honey meadery of the Bolger halflings ([11.08](/wiki/11-08/)) and is found piss-faced by halfling mead-guards. Some of the mead-guards report “Hiccup” going on about aspiring to be a [wizard’s](/wiki/wizards/) familiar, though the halflings just laughed it off.
 ### Hooks:
-*If a PC wizard comes to the canopy, they might be approached by Hiccup. Are they interested in taking on drunken giant bat as a familiar?
-*Is it possible the giant bat mount of the goblin warlord [Najir Dum](/wiki/najir-dum/) of Hoth Akhbir ([02.05](/wiki/02-05/)) was actually an azimyth bat? Was it enslaved or turned to evil? Or are the beliefs of the azimyth true, that if they are away from their home for too long they lose their intelligence?
-*Recently Torn Wing has discovered the Tasty Tomb of the Thaumaturge ([13.09](/wiki/13-09/)), and under the pretense of securing honey for the azimyth, plans to finance adventurers to explore the honey-soaked catacombs. What is Torn Wing hoping to find in the tomb?
-*The azimyth and the [courier bats](/wiki/courier-bats/) sometimes mingle in the Kingswood. What is the nature of these meetings? Are the azimyth giving packages to the courier bats or receiving packages from them? Might the courier bats and azymith be distant relatives?
-Category:Hex
-Category:Region unknown
-Category:Creatures
-Category:Bats
-Category:Giant animals
-Category:Severard
+* If a PC wizard comes to the canopy, they might be approached by Hiccup. Are they interested in taking on drunken giant bat as a familiar?
+* Is it possible the giant bat mount of the goblin warlord [Najir Dum](/wiki/najir-dum/) of Hoth Akhbir ([02.05](/wiki/02-05/)) was actually an azimyth bat? Was it enslaved or turned to evil? Or are the beliefs of the azimyth true, that if they are away from their home for too long they lose their intelligence?
+* Recently Torn Wing has discovered the Tasty Tomb of the Thaumaturge ([13.09](/wiki/13-09/)), and under the pretense of securing honey for the azimyth, plans to finance adventurers to explore the honey-soaked catacombs. What is Torn Wing hoping to find in the tomb?
+* The azimyth and the [courier bats](/wiki/courier-bats/) sometimes mingle in the Kingswood. What is the nature of these meetings? Are the azimyth giving packages to the courier bats or receiving packages from them? Might the courier bats and azymith be distant relatives?
+
+
+
+
+
+

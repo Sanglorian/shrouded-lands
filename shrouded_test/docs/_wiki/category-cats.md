@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 ![](/media/Friedrich_Justin_Bertuch,_Vierf._Thiere._V_(um_1800).jpg)
-Category:Animals
+

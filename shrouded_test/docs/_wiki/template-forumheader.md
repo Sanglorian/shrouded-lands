@@ -11,7 +11,7 @@ media: []
 ---
 <div class="forumheader">**Forums:** [Index](/wiki/forumindex/) > [{{{1}}}](/wiki/forum1/) > {{PAGENAME}}</div><br />
 
-Category:{{{1}}}
+
 <noinclude>
-Category:Forums
+
 {{documentation}}</noinclude>

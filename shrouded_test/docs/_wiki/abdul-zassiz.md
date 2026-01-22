@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: '05.04'
 ---
 #REDIRECT[Abdul](/wiki/abdul/)
-Category:Synonyms
+

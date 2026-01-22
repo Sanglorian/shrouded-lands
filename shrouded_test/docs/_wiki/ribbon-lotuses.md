@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: Wild men
 ---
 #REDIRECT[Wild men](/wiki/wild-men/)
-Category:Plants
-Category:The Kingswood
+
+

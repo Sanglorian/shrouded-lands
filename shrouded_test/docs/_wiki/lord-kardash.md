@@ -17,9 +17,9 @@ Few Lords Sanguine are as good at teasing out useful information from [Tarrasque
 
 Now however, Lord Kardash never ventures from The Hill of the Swordsage ([11.20](/wiki/11-20/)), where he teaches his apprentices in silence and spends long hours staring at the movements of the stars that circle above his hill. Many come to his hill to seek out his teachings but few are chosen as apprentices.
 ### Hooks
-*If his mouth and nostrils are sewn up, how does Lord Kardash eat, drink and breathe?
-*Tell me more about the Sunless Sea!
-*Why does Lord Kardash gaze so intently at the stars? What does he see there?
-Category:Characters
-Category:Lords Sanguine
-Category:The Lands of Gore
+* If his mouth and nostrils are sewn up, how does Lord Kardash eat, drink and breathe?
+* Tell me more about the Sunless Sea!
+* Why does Lord Kardash gaze so intently at the stars? What does he see there?
+
+
+

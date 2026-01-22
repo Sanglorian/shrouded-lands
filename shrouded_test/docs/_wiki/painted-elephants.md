@@ -19,13 +19,13 @@ The [gnolls](/wiki/gnolls/) of the Burning Lands hold the elephants in high este
 
 The [Great Mother](/wiki/great-mother/) herself has a great ambition to eat an elephant heart.
 ### Connections:
-*There are other [elephants](/wiki/elephants/)
-*The gnolls believe that the tusks of painted elephants were used to construct [Sosaria](/wiki/sosaria/)'s walls; in fact, [moon elephant](/wiki/moon-elephants/) tusks were used.
+* There are other [elephants](/wiki/elephants/)
+* The gnolls believe that the tusks of painted elephants were used to construct [Sosaria](/wiki/sosaria/)'s walls; in fact, [moon elephant](/wiki/moon-elephants/) tusks were used.
 ### Hooks:
-*Why does she want to eat the heart of an elephant?
-*Who wants their afterlife ensured? What causes an elephant to bury someone as if they were an elephant?
-*Who will pay for painted ivory?
-Category:Creatures
-Category:Elephants
-Category:Animals
-Category:The Burning Lands
+* Why does she want to eat the heart of an elephant?
+* Who wants their afterlife ensured? What causes an elephant to bury someone as if they were an elephant?
+* Who will pay for painted ivory?
+
+
+
+

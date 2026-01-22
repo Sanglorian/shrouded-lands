@@ -9,5 +9,5 @@ categories:
   - "Category:The Westmarches"
 media: []
 ---
-Category:Mountain ranges
-Category:The Westmarches
+
+

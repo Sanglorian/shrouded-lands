@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Pirate Kings
 ---
 #REDIRECT[Pirate Kings](/wiki/pirate-kings/)
-Category:Synonyms
+

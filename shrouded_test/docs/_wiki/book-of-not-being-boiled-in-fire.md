@@ -18,10 +18,10 @@ The book, which was quickly locked away, sets forth methods and rituals to purif
 
 Recently several pages have been discovered to have been torn from The Book of Not Being Boiled in Fire and it is suspected that they are now in possession of the man who claims himself to be [Tiamat Reborn](/wiki/tiamat-reborn/) ([26.16](/wiki/26-16/)).
 ### Hooks:
-*What happened to John Luciferous?
-*Who were the Pure Ones? Were they inquisitors of the Temple of Pure Light? What happened to that splinter sect?
-*Draco-lions?
-*Are there four other such books? Where are they?
-Category:Books
-Category:The Shuttered City
-Category:Dead Tiamat
+* What happened to John Luciferous?
+* Who were the Pure Ones? Were they inquisitors of the Temple of Pure Light? What happened to that splinter sect?
+* Draco-lions?
+* Are there four other such books? Where are they?
+
+
+

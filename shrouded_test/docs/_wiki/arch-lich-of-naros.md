@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Supendar
 ---
 #REDIRECT[Supendar](/wiki/supendar/)
-Category:Synonyms
+

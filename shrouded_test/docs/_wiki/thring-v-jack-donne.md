@@ -22,12 +22,12 @@ But it is not with the Duke that Birl has quarrel - in fact, he is broadly suppo
 
 Birl wants the Collector apprehended and the skulls returned.
 ### Hooks
-*Are the findings of the court enforced in any way?
-*Is the allegation true? Does it matter?
-*Does the Collector care?
-*Who else can sue and be sued under Shuttered’s universal jurisdiction?
-Category:The Duchy of Thring
-Category:Lords Sanguine
-Category:The Shuttered City
-Category:Witch Clans
-Category:Birls
+* Are the findings of the court enforced in any way?
+* Is the allegation true? Does it matter?
+* Does the Collector care?
+* Who else can sue and be sued under Shuttered’s universal jurisdiction?
+
+
+
+
+

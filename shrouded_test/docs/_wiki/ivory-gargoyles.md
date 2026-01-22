@@ -17,12 +17,12 @@ The gargoyles are small and their limbs are not especially strong but [Imorcar](
 
 Once, centuries ago, Imorcar was able to command his legion of gargoyles but no longer. Now he must live under the rules of the city or be attacked like any other. These days he always keeps an ivory-headed club near at hand and the grounds of the Palace of All Time are littered with broken ivory.
 ### Connection:
-*[Olga Gruel](/wiki/olga-gruel/) ([29.14](/wiki/29-14/).38) knows all about these gargoyles.
+* [Olga Gruel](/wiki/olga-gruel/) ([29.14](/wiki/29-14/).38) knows all about these gargoyles.
 ### Hooks:
-*What sort of rules do the gargoyles enforce?
-*What sorts of shapes have the tusks been carved into?
-*Who has had their memories stolen by the gargoyles?
-*What forms have the creatures born of memory taken? Are any still around?
-Category:Creatures
-Category:Sosaria
-Category:Constructs
+* What sort of rules do the gargoyles enforce?
+* What sorts of shapes have the tusks been carved into?
+* Who has had their memories stolen by the gargoyles?
+* What forms have the creatures born of memory taken? Are any still around?
+
+
+

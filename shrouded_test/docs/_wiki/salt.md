@@ -16,5 +16,5 @@ Salt from The Least Ocean robs people of their passions ([12.29](/wiki/12-29/)).
 Salt from [The Bitter Coast](/wiki/the-bitter-coast/) makes people melancholy.
 
 Drinking from a fountain in the Forgotten City-State reminds people of their faults and failings ([22.25](/wiki/22-25/))
-Category:Phenomena
-Category:Victuals
+
+

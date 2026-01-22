@@ -75,7 +75,7 @@ The **Lords of Thring** are the feudal lords of the [Duchy of Thring](/wiki/duch
 | 
 | 
 |}
-Category:The Duchy of Thring
-Category:Nobles
-Category:Characters
-Category:Professions
+
+
+
+

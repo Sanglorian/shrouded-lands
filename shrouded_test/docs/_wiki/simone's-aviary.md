@@ -23,13 +23,13 @@ It is a superstition in the [Barrier Range](/wiki/barrier-range/) that the first
 
 Like any migrants in a big city, these Barrier Range families are keen to preserve some of their traditions and the aviary has become a key part of their culture. They pay to have the lowest levels cleaned, but the upper ones remain knee-high in guano.
 ### Hooks:
-*What other sub-cultures still exist in Shuttered?
-*Are these migrants well integrated?
-*What does the [Temple](/wiki/temple-indivisible/) think of same-sex marriage?
-*What strange birds can be found in the aviary?
-*Where would you see a penguin?
-Category:Buildings
-Category:The Shuttered City
-Category:The Barrier Range
-Category:Customs
-Category:The Moon
+* What other sub-cultures still exist in Shuttered?
+* Are these migrants well integrated?
+* What does the [Temple](/wiki/temple-indivisible/) think of same-sex marriage?
+* What strange birds can be found in the aviary?
+* Where would you see a penguin?
+
+
+
+
+

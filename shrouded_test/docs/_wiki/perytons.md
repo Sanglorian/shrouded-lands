@@ -14,5 +14,5 @@ media: []
 A peryton is a great purple-blue eagle with the head and breast of a stag. Its voice and shadow are that of the last man (not woman) that it has killed.
 
 Though it has two antlers, they have twisted and fused into one mass.
-Category:Creatures
-Category:The Duchy of Thring
+
+

@@ -12,5 +12,5 @@ is_redirect: true
 redirect_to: '04.17'
 ---
 #REDIRECT[04.17](/wiki/04-17/)
-Category:Peoples
-Category:Centaurs
+
+

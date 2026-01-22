@@ -45,9 +45,9 @@ Not a drop of blood was spilled, but her sisters convinced Cosimo to give up the
 And when Tunath next showed her face in the area, her sword had been melted down to make [Teodo](/wiki/teodo/), and she was sent packing with the flat of a sword not made from meteoric iron, but from good old orcish steel.
 
 ### Hooks
-*What caused the fall of Zhuriman?
-*Where else did refugees of its fall travel to?
-*What happened to the child of the lion priestess?
+* What caused the fall of Zhuriman?
+* Where else did refugees of its fall travel to?
+* What happened to the child of the lion priestess?
 
-Category:Families
-Category:Verlimes
+
+

@@ -19,9 +19,9 @@ Cattle counterfeiting is anathema, as bad as conjuring demons, worshipping She W
 
 Finally, any elf who wishes to enter the City must use this Gate, so that they may pay the ear-geld and utter the ritual apology for the dishonor the Green Lady brought upon the God of the City during their Great Divorce.
 ### Connections:
-*Goblins and kobolds that attempt to defy their geases often find themselves in the seedier parts of the Gnomish Quarter ([29.14.14](/wiki/29-14/)).
+* Goblins and kobolds that attempt to defy their geases often find themselves in the seedier parts of the Gnomish Quarter ([29.14.14](/wiki/29-14/)).
 #### Hooks:
-*What happens if regular cows are used in a ritual that requires Night Cattle?
-*What precipitated the Great Divorce?
-Category:Buildings
-Category:The Shuttered City
+* What happens if regular cows are used in a ritual that requires Night Cattle?
+* What precipitated the Great Divorce?
+
+

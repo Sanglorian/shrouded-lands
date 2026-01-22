@@ -26,15 +26,15 @@ Behind the altar sits High Priestess, a gnome so bent with age that she is as tw
 
 Supplicants may sit in the pews and wait for her to address them, and those she notices are allowed approach her to ask one whispered question, and receive one whispered answer. It is said that those who get up before she acknowledges them will never be answered. Most give up after a few hours, but some are desperate enough to wait days before they have to leave out of thirst or hunger (this would explain the stench). A few die sitting in the pews waiting for an answer that will never come, including the last Doge. [Zeem Olmsted](/wiki/zeem-olmsted/) ([31.04](/wiki/31-04/)) endured the humiliation of the [ear-geld](/wiki/ear-geld/) and then waited two days for an answer. The last time [Drogo the Baldfaced](/wiki/drogo-the-baldfaced/) was bold enough to show himself in the City, he visited the Temple, and needed to wait only a few minutes for his answer. It is said that when he left the City, he was pale as a [Night Cow](/wiki/night-cattle/), and weeping openly.
 ### Connections:
-*A strange and terrible monster stalks the streets of the Gnomish Quarter: the [Geas Eater](/wiki/geas-eater/).
-*The High Priestesses of this temple are drawn from a line of gnomes who live in Mazy Hollow ([25.14](/wiki/25-14/)).
-*One of the stores in this quarter is the best place in the City to buy pearls ([29.14.38](/wiki/29-14/)).
-*Deep in the Gnomish Quarter there is an illegal academy where [High Tongue](/wiki/high-tongue/) ([29.14.52](/wiki/29-14/)) verb declensions are spoken of in whispers lest unkind ears hear them.
+* A strange and terrible monster stalks the streets of the Gnomish Quarter: the [Geas Eater](/wiki/geas-eater/).
+* The High Priestesses of this temple are drawn from a line of gnomes who live in Mazy Hollow ([25.14](/wiki/25-14/)).
+* One of the stores in this quarter is the best place in the City to buy pearls ([29.14.38](/wiki/29-14/)).
+* Deep in the Gnomish Quarter there is an illegal academy where [High Tongue](/wiki/high-tongue/) ([29.14.52](/wiki/29-14/)) verb declensions are spoken of in whispers lest unkind ears hear them.
 ### Hooks:
-*What did the last Doge want to know? How about Zeem and Drogo?
-*Why was the Church willing to tolerate the presence of the Temple?
-*Why is the Temple of the Labyrinth so impoverished? Are there any other priests of Chimalia out there?
-Category:The Shuttered City
-Category:Religious groups
-Category:Chimalia
-Category:Gnomes
+* What did the last Doge want to know? How about Zeem and Drogo?
+* Why was the Church willing to tolerate the presence of the Temple?
+* Why is the Temple of the Labyrinth so impoverished? Are there any other priests of Chimalia out there?
+
+
+
+

@@ -26,16 +26,16 @@ On the final day, the role of announcer is claimed by one of the [Viceroys](/wik
 The [Ibraheen](/wiki/ibraheen/) sponsor the race. Rather than a noble family, or even one of the rising merchant families, the Ibraheen is a trade guild of street vendors, publicans and newspaper printers. Their ambition is sneered at by the greats of the city, but none can deny that a camel race is precisely their bailiwick. 
 
 ### Hooks
-*Who is the knight? Why does he or she hide his or her identity?
-*What is the prize for winners of the race?
-*Why do people risk life and limb to compete?
-*What is the origin of the tradition?
-*What are the other three most populous cities of the Shrouded Lands?
-*Is Samwiss Ghanjees of human stock?
-*Was it just a coincidence that a month after an assassination attempt on the viceroy, he is due to announce a race?
-*So there's newspapers in Jahur? What sort of broadsheets and tabloids do they have? *Does that use old [Zhuriman](/wiki/zhuriman/) technology, or is it a recent innovation?
-Category:Customs
-Category:Sports
-Category:Jahur
-Category:The Burning Lands
-Category:Camels
+* Who is the knight? Why does he or she hide his or her identity?
+* What is the prize for winners of the race?
+* Why do people risk life and limb to compete?
+* What is the origin of the tradition?
+* What are the other three most populous cities of the Shrouded Lands?
+* Is Samwiss Ghanjees of human stock?
+* Was it just a coincidence that a month after an assassination attempt on the viceroy, he is due to announce a race?
+* So there's newspapers in Jahur? What sort of broadsheets and tabloids do they have? *Does that use old [Zhuriman](/wiki/zhuriman/) technology, or is it a recent innovation?
+
+
+
+
+

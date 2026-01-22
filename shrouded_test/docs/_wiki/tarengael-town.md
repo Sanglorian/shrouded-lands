@@ -9,12 +9,12 @@ categories:
 media: []
 ---
 #### Townships
-*The [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/), a practitioner of the strange magic of Baron Autumn.
+* The [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/), a practitioner of the strange magic of Baron Autumn.
 
 ### Features
-*The Bridges East and West ([16.16.03](/wiki/16-16/)): information on the towns on either side of the river from Castle Tarengael.
-*[The Last Horses](/wiki/horse-market-(tarengael)/): the only horse market in the land is held here.
-*Chelind’s Buns ([16.16.06](/wiki/16-16/)): a baker and her demon lover.
+* The Bridges East and West ([16.16.03](/wiki/16-16/)): information on the towns on either side of the river from Castle Tarengael.
+* [The Last Horses](/wiki/horse-market-(tarengael)/): the only horse market in the land is held here.
+* Chelind’s Buns ([16.16.06](/wiki/16-16/)): a baker and her demon lover.
 
 ### The Bridges East and West
 ![](/media/161603.png)Hex [16.16.03](/wiki/16-16/)
@@ -33,13 +33,13 @@ Meanwhile, Eastbridge is a different place altogether. Many merchants come here 
 
 Strangely enough, the streets of Eastbridge are actually paved, at least some of them. The paving stones that are used have been transported here all the way from the **Bitter Coast **([17.18](/wiki/17-18/)).
 #### Connection:
-*Someone in Westbridge has been supplying sacrificial victims to Shotwick ([14.14](/wiki/14-14/)).
+* Someone in Westbridge has been supplying sacrificial victims to Shotwick ([14.14](/wiki/14-14/)).
 #### Hooks:
-*Why is there an entire bridge made out of glassteel here?
-*How heavy are the tolls here?
-*Why does it mater that Eastbridge and Westbridge aren't legally holdings?
-*What is the weaver up to?
-*Any interesting inns in Eastbridge? What sort of entertainment can be had there?
+* Why is there an entire bridge made out of glassteel here?
+* How heavy are the tolls here?
+* Why does it mater that Eastbridge and Westbridge aren't legally holdings?
+* What is the weaver up to?
+* Any interesting inns in Eastbridge? What sort of entertainment can be had there?
 
 ### Chelind’s Buns
 ![](/media/161606.png)Hex [16.16.06](/wiki/16-16/)
@@ -54,7 +54,7 @@ Under the stone, Chelind found a strange silvery skull in perfect condition and 
 
 Recently she has begun stewing mule meat to serve over her buns at a very reasonable price which ensures that her customers eat them hot and that the vapor within them does not dissipate before they are eaten. However, the chance of Chelind's secret getting out is growing. Only a few days ago a local urchin peered through her window at night and saw the baker lying stark naked on a table atop a vast mound of dough crying out and writhing in her sleep. Such a sight he has never seen since he snooped on Tarent the ironmonger.
 #### Hooks:
-*Do the Skullcrusher orcs know about what happened to their dead tribesman?
-*What exactly is the being of dew and vapor and how is it connected to the silvery skull?
-*What effect does eating Chelind's buns have? What happened to her husband?
-*What's the deal with Tarent the ironmonger?
+* Do the Skullcrusher orcs know about what happened to their dead tribesman?
+* What exactly is the being of dew and vapor and how is it connected to the silvery skull?
+* What effect does eating Chelind's buns have? What happened to her husband?
+* What's the deal with Tarent the ironmonger?

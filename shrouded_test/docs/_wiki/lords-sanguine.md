@@ -10,13 +10,13 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-*[The Collector](/wiki/the-collector/) (The Castle of the Collector)
-*[Lady Natala](/wiki/lady-natala/) (Castle Maratan)
-*[The Sack Man](/wiki/the-sack-man/) (debatable; The Castle of the Sack Man, [09.19](/wiki/09-19/))
-*[Lord Kardash](/wiki/lord-kardash/), the Swordsage (The Hill of the Swordsage)
-*[Lady Belal](/wiki/lady-belal/) of the Nets (Castle Ravenscraig)
-*[Anselm Brucoloc](/wiki/anselm-brucoloc/) (Castle Brucoloc, former)
-*[Sulgrim](/wiki/sulgrim/) (Castle Brucoloc, current)
+* [The Collector](/wiki/the-collector/) (The Castle of the Collector)
+* [Lady Natala](/wiki/lady-natala/) (Castle Maratan)
+* [The Sack Man](/wiki/the-sack-man/) (debatable; The Castle of the Sack Man, [09.19](/wiki/09-19/))
+* [Lord Kardash](/wiki/lord-kardash/), the Swordsage (The Hill of the Swordsage)
+* [Lady Belal](/wiki/lady-belal/) of the Nets (Castle Ravenscraig)
+* [Anselm Brucoloc](/wiki/anselm-brucoloc/) (Castle Brucoloc, former)
+* [Sulgrim](/wiki/sulgrim/) (Castle Brucoloc, current)
 The rulers of [The Lands of Gore](/wiki/the-lands-of-gore/)
 The Lords Sanguine cannot bear to look upon running water.
 
@@ -66,10 +66,10 @@ But one law goes unbroken:<br />
 Speak nothing of blood.<br />
 
 ### Hooks
-*What genius could write a terrific poem like this?
-*What effect do these superstitutions have on the Lords’ behaviour?
-*What encourages the Lords to follow these suiperstitutions?
-*Why would drinking the Tarrasque of Bergolast’s blood transmit Bergo superstitions?
-Category:Characters
-Category:The Lands of Gore
-Category:Lords Sanguine
+* What genius could write a terrific poem like this?
+* What effect do these superstitutions have on the Lords’ behaviour?
+* What encourages the Lords to follow these suiperstitutions?
+* Why would drinking the Tarrasque of Bergolast’s blood transmit Bergo superstitions?
+
+
+

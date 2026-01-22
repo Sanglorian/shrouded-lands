@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: Marche of the Winterjarl
 ---
 #REDIRECT [The Marche of the Winterjarl](/wiki/the-marche-of-the-winterjarl/)
-Category:Peoples
-Category:Nordanbjorn
-Category:The Marche of the Winterjarl
+
+
+

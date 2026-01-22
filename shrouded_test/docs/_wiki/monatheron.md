@@ -26,16 +26,16 @@ Currently, one of the primary concerns of the lords of Monatheron is outdoing ea
 
 The current fashion is for the cyclopses of the city to smear their hair with nutritive unguents that attract luminescent beetles that crawl over their bodies in dazzling ever-moving patterns (sometimes beetle-eating snakes are added to keep things more lively). This fashion has some admirers in Shuttered and one can tell much about the courtesans of that city by what beetles cling to their hair. However the from that this has taken in the grimier brothels of the Undercity can be a bit disconcerting.
 ### Connections:
-*Drogo the Baldfaced ([29.01](/wiki/29-01/)) was able to rustle some moon-horned cattle under cover of night, only to find that all of the cows he had stolen were female or steers. His attempts to get his hands on a bull or crossbreed them with other cattle have not gone well.
-*Thorek Ironhide is served by an exiled cyclops who has assassinated several elder members of the council that stood in the Winterjarl's way, thanks to his knowledge of secrets forgotten by the younger races ([14.01](/wiki/14-01/)).
+* Drogo the Baldfaced ([29.01](/wiki/29-01/)) was able to rustle some moon-horned cattle under cover of night, only to find that all of the cows he had stolen were female or steers. His attempts to get his hands on a bull or crossbreed them with other cattle have not gone well.
+* Thorek Ironhide is served by an exiled cyclops who has assassinated several elder members of the council that stood in the Winterjarl's way, thanks to his knowledge of secrets forgotten by the younger races ([14.01](/wiki/14-01/)).
 ### Hooks:
-*Is there anything to tell about old Andara that now lies under the waves of the Keening Sea? How did it spread "ecstasy and terror?"
-*What are the engines of wonder?
-*What sort of people serve the cyclopses? What sort of jobs do they have? If each has exactly the same job as his/her parent there must be some strange or obsolete jobs.
-*What are the six sacred breeds of cattle? What's so special about them?
-*Cat pits?
-*Any other bizarre living fashions?
-*I'm not sure I want to hear what the Undercity brothels have been up to with the beetles...
-*What secrets does Thorek's cyclops assassin know?
-Category:Hex
-Category:Shuttered and Surrounds
+* Is there anything to tell about old Andara that now lies under the waves of the Keening Sea? How did it spread "ecstasy and terror?"
+* What are the engines of wonder?
+* What sort of people serve the cyclopses? What sort of jobs do they have? If each has exactly the same job as his/her parent there must be some strange or obsolete jobs.
+* What are the six sacred breeds of cattle? What's so special about them?
+* Cat pits?
+* Any other bizarre living fashions?
+* I'm not sure I want to hear what the Undercity brothels have been up to with the beetles...
+* What secrets does Thorek's cyclops assassin know?
+
+

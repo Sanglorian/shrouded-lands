@@ -12,4 +12,4 @@ Templates to aid in **article management**.
 
 {{Templatecategory}}
 
-Category:Templates
+

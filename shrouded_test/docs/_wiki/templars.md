@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Canes Sanguis
 ---
 #REDIRECT[Canes Sanguis](/wiki/canes-sanguis/)
-Category:Synonyms
+

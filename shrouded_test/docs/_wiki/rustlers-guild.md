@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 See [Drogo](/wiki/drogo/) and [29.01](/wiki/29-01/)
-Category:Organisations
-Category:The Lands of the Night Cattle
+
+

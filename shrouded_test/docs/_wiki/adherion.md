@@ -9,6 +9,6 @@ categories:
 media: []
 ---
 Little is known of **Adherion, **except that
-*The Spear-in-the-Stone of Adherion was one of the old [Seven Wonders of the World](/wiki/seven-wonders-of-the-world/)
-*The lady of Blackhorn Keep ([30.03](/wiki/30-03/)) was originally a lady of "far" Adherion.
-Category:Nations
+* The Spear-in-the-Stone of Adherion was one of the old [Seven Wonders of the World](/wiki/seven-wonders-of-the-world/)
+* The lady of Blackhorn Keep ([30.03](/wiki/30-03/)) was originally a lady of "far" Adherion.
+

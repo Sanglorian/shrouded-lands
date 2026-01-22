@@ -12,7 +12,7 @@ media: []
 ---
 The [duergar](/wiki/duergar/) seized the Dismal Mine ([21.27](/wiki/21-27/)) from [Jahur](/wiki/jahur/) during the **War of the Six-Fingered Hand**. 
 ## See also
-*[Fingers and fingernails](/wiki/fingers-and-fingernails/)
-Category:Jahur
-Category:Dwarves
-Category:Conflicts
+* [Fingers and fingernails](/wiki/fingers-and-fingernails/)
+
+
+

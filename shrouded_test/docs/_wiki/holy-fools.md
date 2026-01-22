@@ -21,9 +21,9 @@ The [Idjits](/wiki/idjits/) suspect the Holy Fools of sabotaging the [tempest](/
 
 Holy Fools take advantage of the dead ends and irrational turns of the [Alleys of the Woman in Red](/wiki/alleys-of-the-woman-in-red/). They use isolated courtyards as open-air meeting places.
 ## Holy Fools
-*Some Viceroys suspect [Isane the Beauty](/wiki/isane-the-beauty/) of being a Holy Fool.
-*[Lunfar](/wiki/lunfar/) the grocer and illicit mapseller is a Barking Dog.
-Category:Organisations
-Category:Religious groups
-Category:Jahur
-Category:Iano
+* Some Viceroys suspect [Isane the Beauty](/wiki/isane-the-beauty/) of being a Holy Fool.
+* [Lunfar](/wiki/lunfar/) the grocer and illicit mapseller is a Barking Dog.
+
+
+
+

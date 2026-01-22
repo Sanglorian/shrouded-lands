@@ -21,9 +21,9 @@ The main competition is not from outside, but within. Kari Serendip established 
 
 Kari believes that the Serendips’ main business is corrupt and corrupting, and is leading a morality campaign to shut it down.
 ### Hooks
-*How did a Witch Clan - if that’s what the Serendips are - arise in Jahur?
-*Which other famous Serendips are there?
-*Who else would like to see the Serendips’ business come to an end?
-Category:Jahur
-Category:Families
-Category:Witch Clans
+* How did a Witch Clan - if that’s what the Serendips are - arise in Jahur?
+* Which other famous Serendips are there?
+* Who else would like to see the Serendips’ business come to an end?
+
+
+

@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: '48.13'
 ---
 #REDIRECT[48.13](/wiki/48-13/)
-Category:Peoples
-Category:Humans
-Category:The Lost Colony
+
+
+

@@ -25,7 +25,7 @@ Terise lives on the shore of [The Keening Sea](/wiki/the-keening-sea/) ([28.21](
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">-Is there any way that Terise can be helped?</span></p>
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">-What happened to the slavers? </span></p>
-Category:The Keening Sea
-Category:Hinterlands of Blind Midshotgatepool
-Category:Steadfasts
-Category:Mermaids
+
+
+
+

@@ -34,6 +34,6 @@ When you see a gnome staring at your toes trying to puzzle out their shape, they
 However, all of this may also explain a lot of the distrust that gnomes have for those who hide their toes, have feet too big to exchange sandals with and who don’t like gnomes grabbing at their faces whenever they meet.
 
 ### Hooks
-*Who have some famous gnomish Pointers been?
-*Halflings don’t wear any shoes at all. What do gnomes feel about that? What about gnolls? Do they wear shoes?
-*Do all gnomes care about sandals or just these desert ones?
+* Who have some famous gnomish Pointers been?
+* Halflings don’t wear any shoes at all. What do gnomes feel about that? What about gnolls? Do they wear shoes?
+* Do all gnomes care about sandals or just these desert ones?

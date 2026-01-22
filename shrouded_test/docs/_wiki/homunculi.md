@@ -18,11 +18,11 @@ media: []
 
 The beetle-men will fight to defend the mansion and their master.
 ### Connections
-*[Beetlefolk](/wiki/beetlefolk/) similar to these homunculi live far to the east ([49.03](/wiki/49-03/)).
-Category:Beetlefolk
-Category:Homunculi
-Category:Delasars
-Category:The Westmarches
-Category:Insects
-Category:Creatures
-Category:Humans
+* [Beetlefolk](/wiki/beetlefolk/) similar to these homunculi live far to the east ([49.03](/wiki/49-03/)).
+
+
+
+
+
+
+

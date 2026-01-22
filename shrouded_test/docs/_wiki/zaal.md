@@ -11,8 +11,7 @@ categories:
 media: []
 ---
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
-
-**Region:** [The Singing Wastes](/wiki/the-singing-wastes/)
+* *Region:** [The Singing Wastes](/wiki/the-singing-wastes/)
 ## Zaal, the Sleeping City
 ![](/media/Sing2.jpg)Connects to: [03.31.01](/wiki/03-31/), [29.07](/wiki/29-07/) and [29.14.36](/wiki/29-14/).
 
@@ -28,13 +27,13 @@ But any men with pleasing faces who are able to reach the city’s walls are wel
 ### Subhex:
 [08.27.01](/wiki/08-27/) (Hypno, Lord of Sleep): he slumbers beneath the city.
 ### Connection:
-*The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([03.31](/wiki/03-31/).01).
+* The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([03.31](/wiki/03-31/).01).
 ### Hooks:
-*Why did these seelie elves leave with the unseelie elves when the courts were sundered? Why did the unseelie elves leave them behind?
-*How did a small handful of elves build such a city? Why are they called white elves? What’s inside the city?
-*What causes (most of) those who approach this city to fall into a magical sleep? Why don’t the ghouls all fall asleep?
-*Whose hair is it?
-*Why do the white elves welcome (handsome male) travellers? Why have none (seemingly) ever left? Do the elves ever leave their city? The ghouls never see them go out…
+* Why did these seelie elves leave with the unseelie elves when the courts were sundered? Why did the unseelie elves leave them behind?
+* How did a small handful of elves build such a city? Why are they called white elves? What’s inside the city?
+* What causes (most of) those who approach this city to fall into a magical sleep? Why don’t the ghouls all fall asleep?
+* Whose hair is it?
+* Why do the white elves welcome (handsome male) travellers? Why have none (seemingly) ever left? Do the elves ever leave their city? The ghouls never see them go out…
 ## Hypno, Lord of Sleep
 ![](/media/Sing3.jpg)Hex [08.27.01](/wiki/08-27/)
 
@@ -47,13 +46,13 @@ Hypno uses his powers to steal dreams that could inflict mental harm or inspire 
 The Lord of Sleep is not perfect, however. Many subversive or terrible dreams slip through his mental net. Some of these dreams impact mortals profoundly. Elves often blame mankind's weaknesses, follies and hubris on such renegade dreams.
 
 ### Connects to:
-*Viceroy Duygu’s recent behavior is a good example of the sort of thing Hypno is trying to prevent ([19.31.08](/wiki/19-31/)).
+* Viceroy Duygu’s recent behavior is a good example of the sort of thing Hypno is trying to prevent ([19.31.08](/wiki/19-31/)).
 ### Hooks:
-*Is Hypno the only shepherd of dreams?
-*What kind of dreams do elves fear mortals will have? Can dreams grant sleepers any powers or earth-shattering ideas?
-*Where do dreams come from, anyway? The depths of dreamers' minds? Above? Below?
-*Is there any way to dodge Hypno's dream censorship?
-*What would happen if Hypno awoke? How could such a thing happen?
-Category:Cities
-Category:The Singing Wastes
-Category:Elves
+* Is Hypno the only shepherd of dreams?
+* What kind of dreams do elves fear mortals will have? Can dreams grant sleepers any powers or earth-shattering ideas?
+* Where do dreams come from, anyway? The depths of dreamers' minds? Above? Below?
+* Is there any way to dodge Hypno's dream censorship?
+* What would happen if Hypno awoke? How could such a thing happen?
+
+
+

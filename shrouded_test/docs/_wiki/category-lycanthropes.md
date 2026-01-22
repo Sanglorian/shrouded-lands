@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 [Lycanthropes](/wiki/lycanthropes/)
-Category:Creatures
+

@@ -21,8 +21,8 @@ Three of the embassies are empty and bricked up, two because the associated nati
 
 The liveliest and most visited embassy by far is that of [Grumluda](/wiki/grumluda/), Domain of the Eternal-King-of-All-Orcs. The fighting schools (and gambling parlors) that have grown around that embassy are popular with travelers and citizens of the City alike. Ambassadors from Grumluda tend to be half-human and are given special dispensation to enter the city without taking on a geas. The Grumluda orcs are great patrons of the Wedding Band ([30.15](/wiki/30-15/)) and pay well for odd creatures to spice up the blood sport. The Grumludi are always happy to purchase creatures brought in from beyond [World's Edge](/wiki/world's-edge/) -- the most exotic of which are exported back to the Orc lands after being bloodied in the Band.
 ### Connections:
-*Due to a technicality, the temple of the [Creche of a Million Young](/wiki/creche-of-a-million-young/) ([29.14.05](/wiki/29-14/)) is part of the grounds of the embassy of Grumlada.
-*Captured elves sometimes are displayed (and killed horribly) in the fighting pits within the grounds of the Grumlada embassy ([30.12.01](/wiki/30-12/)).
+* Due to a technicality, the temple of the [Creche of a Million Young](/wiki/creche-of-a-million-young/) ([29.14.05](/wiki/29-14/)) is part of the grounds of the embassy of Grumlada.
+* Captured elves sometimes are displayed (and killed horribly) in the fighting pits within the grounds of the Grumlada embassy ([30.12.01](/wiki/30-12/)).
 
 ## The Sealed Embassy of Naros
 ![](/media/Shutt-naro.png)Some fifteen years ago, the small but prosperous nation of [Naros](/wiki/naros/) was placed under a devastating curse by the arch-lich [Supendar](/wiki/supendar/). It was his last act of spite before falling beneath the blades of party of brave adventurers. The people of Naros vanished instantly, their animals were transformed into terrible beasts, and their lands became shrouded in perpetual twilight.
@@ -33,12 +33,12 @@ Today, the embassy remains dormant and forbidden. On dark nights, one can someti
 
 There is one other reason to break into the embassy. Recently in the central district of the Shuttered City, a priest of an obscure cult has come forth, claiming that he will pay good money for sacrificial cattle afflicted with vampirism...
 ### Connections:
-*The Seal Library ([29.14](/wiki/29-14/).50) contains the spell book of the Arch-Lich.
-*[Jiffon Soon](/wiki/jiffon-soon/), an exile from Naros who wished to remove from himself an unfortunate curse created the [Geas Eater](/wiki/geas-eater/) ([29.14.16](/wiki/29-14/)).
+* The Seal Library ([29.14](/wiki/29-14/).50) contains the spell book of the Arch-Lich.
+* [Jiffon Soon](/wiki/jiffon-soon/), an exile from Naros who wished to remove from himself an unfortunate curse created the [Geas Eater](/wiki/geas-eater/) ([29.14.16](/wiki/29-14/)).
 ### Hooks:
-*What happened to these adventurers who slew Supendar? Are they still around?
-*What became of the people of Naros? Did they simply die, or was their fate more subtle?
-*Who on earth would want vampire cows for their sacred rituals? I mean, that's just silly, right?
-Category:Buildings
-Category:The Shuttered City
-Category:The Twelve Nations
+* What happened to these adventurers who slew Supendar? Are they still around?
+* What became of the people of Naros? Did they simply die, or was their fate more subtle?
+* Who on earth would want vampire cows for their sacred rituals? I mean, that's just silly, right?
+
+
+

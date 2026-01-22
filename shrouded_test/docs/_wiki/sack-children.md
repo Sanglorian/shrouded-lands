@@ -14,15 +14,15 @@ These sack children are, like the [cauldronborn](/wiki/cauldronborn/) ([23.16](/
 
 While black magic is required to slay the subject of the ritual, the actual creation of a zombie is not considered black magic. Some white wizards take great pleasure in animating the victims of sorcerers and assisting the victim in slaying their murderer.
 ### Connections
-*[Lord Alevari](/wiki/lord-alevari/) is a zombie. [His wife](/wiki/lady-alevari/) is trying to do something about that.
-*The Skinsack Shed ([16.18](/wiki/16-18/)) contains bags of skin for creating sack children.
+* [Lord Alevari](/wiki/lord-alevari/) is a zombie. [His wife](/wiki/lady-alevari/) is trying to do something about that.
+* The Skinsack Shed ([16.18](/wiki/16-18/)) contains bags of skin for creating sack children.
 
 ### Hooks
-*Who in the Shrouded Lands is a zombie?
-*Does the process work on non-humans?
-*What does Baron Autumn ask in return?
-*How aware and intelligent are the zombies?
-*Are the zombies truly undead? If so, are the horses?
-*What is the connection between this process and that of the cauldronborn?
-*What happens to most people after death?
-Category:Creatures
+* Who in the Shrouded Lands is a zombie?
+* Does the process work on non-humans?
+* What does Baron Autumn ask in return?
+* How aware and intelligent are the zombies?
+* Are the zombies truly undead? If so, are the horses?
+* What is the connection between this process and that of the cauldronborn?
+* What happens to most people after death?
+

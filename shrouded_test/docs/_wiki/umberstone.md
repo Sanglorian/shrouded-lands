@@ -29,6 +29,6 @@ Umberstone
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">-How is umberstone refined? </span></p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">-Do the Ziggurat's windows open to other times? Which ones? </span></p>
--Are the weird creatures around the Ziggurat in league with the moon elementals, or did they arrive by other means?
-Category:Materials
-Category:The Moon
+- Are the weird creatures around the Ziggurat in league with the moon elementals, or did they arrive by other means?
+
+

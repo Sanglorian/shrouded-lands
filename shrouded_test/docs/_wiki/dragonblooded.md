@@ -16,16 +16,16 @@ When [Tiamat](/wiki/tiamat/) was slain and [Alberon](/wiki/alberon/) scattered h
 
 The essence of a deity is not strictly hereditary, but even today some are born with Tiamat in the blood. When their powers are tightly controlled, they can be channelled to cast spells and create magnificent effects. As their willpower is sapped, however, their control over their forms falter and they grow more beastly and draconic.
 #### Connections
-*In The Castle with Five Gates ([26.16](/wiki/26-16/)), a dragonblooded man named [Tiamat Reborn](/wiki/tiamat-reborn/) attempts to achieve apotheosis.
-*In the Stolen Hills ([24.11](/wiki/24-11/)), the trees were corrupted by blood from Tiamat's black head.
+* In The Castle with Five Gates ([26.16](/wiki/26-16/)), a dragonblooded man named [Tiamat Reborn](/wiki/tiamat-reborn/) attempts to achieve apotheosis.
+* In the Stolen Hills ([24.11](/wiki/24-11/)), the trees were corrupted by blood from Tiamat's black head.
 
 #### Hooks
-*Which families have Tiamat’s blood coursing in their veins?
-*What toll does this magic have?
-*What does the Cult of Tiamat ([03.13](/wiki/03-13/)) make of the dragonblooded?
-*Where can Tiamat’s blood still be found?
-Category:Creatures
-Category:Peoples
-Category:Dead Tiamat
-Category:Phenomena
-Category:Plants
+* Which families have Tiamat’s blood coursing in their veins?
+* What toll does this magic have?
+* What does the Cult of Tiamat ([03.13](/wiki/03-13/)) make of the dragonblooded?
+* Where can Tiamat’s blood still be found?
+
+
+
+
+

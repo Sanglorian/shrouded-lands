@@ -49,9 +49,9 @@ By ancient gnollish custom, if you defeat the Keeper of the Gate you have gnolli
 The [flindbar](/wiki/flindbar/) is a spiked nunchuku developed by the gnolls.
 
 ## Connections
-*Like the position of Grand Chieftan, the [Champion of Thring](/wiki/champion-of-thring/) is also decided by one-on-one combat
-Category:Creatures
-Category:Peoples
-Category:Gnolls
-Category:The Burning Lands
-Category:The Singing Wastes
+* Like the position of Grand Chieftan, the [Champion of Thring](/wiki/champion-of-thring/) is also decided by one-on-one combat
+
+
+
+
+

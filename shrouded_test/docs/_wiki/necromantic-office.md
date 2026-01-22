@@ -27,20 +27,20 @@ In return for their valuable services they receive everything that people have o
 
 The Office itself is very secure. If any intruders enter, one of the thousands of ghosts will certainly sound the alarm and the ghosts themselves can easily enter the minds of those nearby and wreck all sorts of havoc.
 ### Connections:
-*The Office is not pleased with [Lady Alevari](/wiki/lady-alevari/) ([29.14.37](/wiki/29-14/)).
-*[Lars](/wiki/lars/) the chimera is an ally of the Necromantic Office ([Suitor's Tower](/wiki/suitor's-tower/)).
-*Sir [Codwise](/wiki/codwise/) the Old, the Spellknight of the [Knights of the Cudgel](/wiki/knights-of-the-cudgel/), has important contacts with the Necromantic Office ([21.14](/wiki/21-14/)).
-*[Ranmore](/wiki/ranmore/) is an exiled necromancer who is currently working for [the Ossory witchclan](/wiki/the-osseries/), if the Office knew of his more extravagant ambitions they would be very concerned ([24.18](/wiki/24-18/)).
-*Silk merchants squabbling over bodies has drawn the attention of the Office ([29.14.46](/wiki/29-14/)).
-*One of the old lords of the Keep of Dreanach was a renegade member of the Office ([15.11](/wiki/15-11/)).
+* The Office is not pleased with [Lady Alevari](/wiki/lady-alevari/) ([29.14.37](/wiki/29-14/)).
+* [Lars](/wiki/lars/) the chimera is an ally of the Necromantic Office ([Suitor's Tower](/wiki/suitor's-tower/)).
+* Sir [Codwise](/wiki/codwise/) the Old, the Spellknight of the [Knights of the Cudgel](/wiki/knights-of-the-cudgel/), has important contacts with the Necromantic Office ([21.14](/wiki/21-14/)).
+* [Ranmore](/wiki/ranmore/) is an exiled necromancer who is currently working for [the Ossory witchclan](/wiki/the-osseries/), if the Office knew of his more extravagant ambitions they would be very concerned ([24.18](/wiki/24-18/)).
+* Silk merchants squabbling over bodies has drawn the attention of the Office ([29.14.46](/wiki/29-14/)).
+* One of the old lords of the Keep of Dreanach was a renegade member of the Office ([15.11](/wiki/15-11/)).
 ### Hooks:
-*Why are most (all?) members of the Necromantic Office eunuchs?
-*What secrets do the ghosts know? Any nifty signature spells?
-*Are there any duties have the Office has been shirking?
-*What happens to novices who are driven crazy by the ghosts?
-*What sorts of crimes have members of the Office gotten away with? Don’t they police their own?
-*Who would be crazy to try to raid a necromancer guildhall?
-Category:Organisations
-Category:Wizards
-Category:Mages
-Category:The Shuttered City
+* Why are most (all?) members of the Necromantic Office eunuchs?
+* What secrets do the ghosts know? Any nifty signature spells?
+* Are there any duties have the Office has been shirking?
+* What happens to novices who are driven crazy by the ghosts?
+* What sorts of crimes have members of the Office gotten away with? Don’t they police their own?
+* Who would be crazy to try to raid a necromancer guildhall?
+
+
+
+

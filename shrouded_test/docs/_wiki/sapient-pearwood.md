@@ -10,5 +10,5 @@ categories:
 media: []
 ---
 Sapient pearwood is a tree with self-awareness and an abiding love of home. The figureheads of Prow's Beach ([00.03](/wiki/00-03/)) are made of this wood. They came from the [Imperium Undying](/wiki/imperium-undying/).
-Category:Plants
-Category:Imperium Undying
+
+

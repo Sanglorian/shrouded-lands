@@ -11,4 +11,4 @@ is_redirect: true
 redirect_to: Hills of Gore
 ---
 #REDIRECT[The Lands of Gore](/wiki/the-lands-of-gore/)
-Category:Synonyms
+

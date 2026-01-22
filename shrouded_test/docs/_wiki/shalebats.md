@@ -13,6 +13,6 @@ is_redirect: true
 redirect_to: Lufwood
 ---
 #REDIRECT [Lufwood](/wiki/lufwood/)
-Category:Creatures
-Category:The World's Edge and Beyond
-Category:Bats
+
+
+

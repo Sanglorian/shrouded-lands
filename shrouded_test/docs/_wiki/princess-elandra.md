@@ -9,10 +9,10 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-**Affiliation:** Heir of [Thring](/wiki/thring/)<br />
-**Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
-**Home:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
-**Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (mother), [Duke of Thring](/wiki/duke-of-thring/) (father), [Sir Boros](/wiki/sir-boros/) (uncle), half-brother (with [Lady Natala](/wiki/lady-natala/), disputed)
+* *Affiliation:** Heir of [Thring](/wiki/thring/)<br />
+* *Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
+* *Home:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
+* *Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (mother), [Duke of Thring](/wiki/duke-of-thring/) (father), [Sir Boros](/wiki/sir-boros/) (uncle), half-brother (with [Lady Natala](/wiki/lady-natala/), disputed)
 
 When Princess Elandra, the heir to [The Duchy of Thring](/wiki/the-duchy-of-thring/), was born [The Green Lady](/wiki/the-green-lady/) gave her a gift: she cries nothing but gems. When she skinned her knee she cried quartz, when her sister died she cried topaz and when her father screamed at her that he’d skin her new kitten if she stopped crying because he needed more gems to fund the ongoing repairs of Castle Tarengael she wept fat rubies.
 
@@ -20,17 +20,17 @@ Princess Elandra has heard every tragedy from **Thring** to the ends of the eart
 
 So her father, the Duke of Thring, has decreed that when each day passes and the night closes in suitors may approach and tell her tales of woe and bitter sadness in hopes that they will be able to make her cry again. Her father has promised that whoever is able to make her cry will marry poor Elandra and be the next Duke of the Thring provided that, of course, he let him have enough gems to hire a mercenary army to drive the [Lords Sanguine](/wiki/lords-sanguine/) from [Gore](/wiki/the-lands-of-gore/) once and for all.
 #### Connection:
-*A man whose nine sisters were strung up in trees so that mushrooms would grow on them hopes to make Elandra cry *([34.10](/wiki/34-10/)).*
+* A man whose nine sisters were strung up in trees so that mushrooms would grow on them hopes to make Elandra cry *([34.10](/wiki/34-10/)).*
 #### Subhexes:
-*Suitors have gathered from across the land to try to win the princess’s hand by making her cry.
+* Suitors have gathered from across the land to try to win the princess’s hand by making her cry.
 
 #### Hooks:
-*Wait a second, Princess Elandra is the daughter of a Duke not a King, why’s she a princess?
-*Why did the Green Lady hand out that gift? Does she usually give this kind of gifts?
-*Is there anyone in all of these lands who’s a worse father than the Duke of Thring?
-*What did the Duke spend all of the gems on besides tower repair?
-*What’s brandyfruit?
-*Who’s flocking to Castle Tarengael to tell tear-jerking stories?
+* Wait a second, Princess Elandra is the daughter of a Duke not a King, why’s she a princess?
+* Why did the Green Lady hand out that gift? Does she usually give this kind of gifts?
+* Is there anyone in all of these lands who’s a worse father than the Duke of Thring?
+* What did the Duke spend all of the gems on besides tower repair?
+* What’s brandyfruit?
+* Who’s flocking to Castle Tarengael to tell tear-jerking stories?
 ## Two Suitors of Princess Elandra
 Hex [16.16.10](/wiki/16-16/)
 
@@ -50,9 +50,9 @@ The connection runs deeper than this: he claims to know Sir Waine's secrets and 
 
 The Sparrow Knight claims to have answered the mystery of the Haunted Statue ([10.09](/wiki/10-09/)) – a tale of woe so acute that the princess will have no choice but to fall to weeping ([09.09](/wiki/09-09/)).
 ### Hooks:
-*Is the woman Lemarr's only motive love, or is she cognisant of the Duke's plan to invade Gore?
-*What is the woman Lemarr's first name?
-*Where do the feather tokens come from? Is the Sparrow Knight truly associated with Sir Waine?
-*Does the Sparrow Knight truly have an explanation for the Haunted Statue?
-Category:Characters
-Category:The Duchy of Thring
+* Is the woman Lemarr's only motive love, or is she cognisant of the Duke's plan to invade Gore?
+* What is the woman Lemarr's first name?
+* Where do the feather tokens come from? Is the Sparrow Knight truly associated with Sir Waine?
+* Does the Sparrow Knight truly have an explanation for the Haunted Statue?
+
+

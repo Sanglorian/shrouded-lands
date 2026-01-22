@@ -22,16 +22,16 @@ All that came to an end during the [Chimerical Siege](/wiki/chimerical-siege/). 
 
 Nobody has ever been able to open the Shuttered Windows since that day. However, it is said that the magic of the confluence still lingers within the city walls. One night you may find yourself walking down a dark alley, only to glimpse at the far end an open field, a dirt road, and a skyline obscured by fog. Follow that trail, and you may emerge anywhere in the Shrouded Lands or beyond. Or you may never emerge at all...
 ### Connections:
-*The [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) is dedicated to Chimalia ([29.14.14](/wiki/29-14/)).
-*In these days Alberon was a not yet a god ([29.14.26](/wiki/29-14/)).
-*The [araneas](/wiki/araneas/) came through one of these windows before they were shuttered ([23.08](/wiki/23-08/)).
-*[Lars](/wiki/lars/) the chimera was sculted so as to resemble Alberon’s original human form ([29.14.41](/wiki/29-14/)).
-*The dwarves of Nororak want to reopen the closed windows ([29.24](/wiki/29-24/)).
-*When the Windows slammed shut the face of [Ghar Zaghoan](/wiki/ghar-zaghoan/) was caught ([29.14.43](/wiki/29-14/)).
-*When the windows closed a brotherhood of fiendslayers was stranded in Shuttered ([Erebus](/wiki/erebus/)).
+* The [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) is dedicated to Chimalia ([29.14.14](/wiki/29-14/)).
+* In these days Alberon was a not yet a god ([29.14.26](/wiki/29-14/)).
+* The [araneas](/wiki/araneas/) came through one of these windows before they were shuttered ([23.08](/wiki/23-08/)).
+* [Lars](/wiki/lars/) the chimera was sculted so as to resemble Alberon’s original human form ([29.14.41](/wiki/29-14/)).
+* The dwarves of Nororak want to reopen the closed windows ([29.24](/wiki/29-24/)).
+* When the Windows slammed shut the face of [Ghar Zaghoan](/wiki/ghar-zaghoan/) was caught ([29.14.43](/wiki/29-14/)).
+* When the windows closed a brotherhood of fiendslayers was stranded in Shuttered ([Erebus](/wiki/erebus/)).
 ### Hooks:
-*The strange roads can lead you places if you know the way. What happens if you don't know the way, or you get lost?
-*Is there a reliable way to access the strange roads anymore? Are there any other places besides the Shuttered City where you can get onto the roads?
+* The strange roads can lead you places if you know the way. What happens if you don't know the way, or you get lost?
+* Is there a reliable way to access the strange roads anymore? Are there any other places besides the Shuttered City where you can get onto the roads?
 ## A Vision of the Distant Past
 ![](/media/Shutt-wind.png)Connects to: [13.08](/wiki/13-08/), [17.17.05](/wiki/17-17/), [19.01](/wiki/19-01/), [27.12](/wiki/27-12/), [29.14.13](/wiki/29-14/) and [29.14.20](/wiki/29-14/).
 
@@ -43,14 +43,14 @@ In the heyday of the City of Many Windows, the peace was kept by a strange being
 
 By the time the war was over and the Shutters were closed, the people of the city were already beginning to forget that golden era. In time it drifted out of memory that the name 'City of Many Windows' was originally only an epithet, and that the first and true name of the city was Sigil.
 ### Connection:
-*In these days Alberon convinced the giants to build the [great walls of his City](/wiki/city-walls-(shuttered)/).
-*The Lord of Pain enjoyed throwing his enemies in extradimensional prisons from which things occasionally emerge ([27.12](/wiki/27-12/)). This might be where kobolds come from.
-*The Lord of Pain exiled Heartwright to the north so that she could attempt to prove her claims to be able to rule the City better than him on a somewhat smaller scale ([19.01](/wiki/19-01/)).
-*A heretical document claims that Alberon will be born in this age and travel back in time to rule ([17.17](/wiki/17-17/).05).
+* In these days Alberon convinced the giants to build the [great walls of his City](/wiki/city-walls-(shuttered)/).
+* The Lord of Pain enjoyed throwing his enemies in extradimensional prisons from which things occasionally emerge ([27.12](/wiki/27-12/)). This might be where kobolds come from.
+* The Lord of Pain exiled Heartwright to the north so that she could attempt to prove her claims to be able to rule the City better than him on a somewhat smaller scale ([19.01](/wiki/19-01/)).
+* A heretical document claims that Alberon will be born in this age and travel back in time to rule ([17.17](/wiki/17-17/).05).
 ### Hooks:
-*Are there any leftovers from that time? Descendants of Zamorqy, trapped planar travellers, that sort of thing?
-*Why was it inevitable that Alberon would go to war once he became a god?
-*Did Severard really escape to a different plane?
+* Are there any leftovers from that time? Descendants of Zamorqy, trapped planar travellers, that sort of thing?
+* Why was it inevitable that Alberon would go to war once he became a god?
+* Did Severard really escape to a different plane?
 
 ## The Last Window
 ![](/media/Shutt-last.png)Hex [29.14.33](/wiki/29-14/)
@@ -65,12 +65,12 @@ From this last window strange unnatural beings have come. They are a mass of lin
 
 Those few who have ventured down into the levels near the Last Window report that something is being built down there, something strange and alien in its geometries. One adventurer who was able to return from an expedition of the Window lived out her days drawing circles upon the dirt of the [White Road](/wiki/white-road/) and screaming at them while another refused to set foot out of windowless rooms and soothing dark tunnels because of what he had learned about the shapes of the clouds.
 ### Hooks:
-*Is the Weeper right that this is the only operational window or is there another? Why is it still open?
-*Did anyone venture through this Last Window and live to tell the tale?
-*What is it about the creatures that have come through this window and their works that is to dangerous to human sanity?
-*What is the purpose of the machine they are building?
-*What's wrong with the clouds?
-Category:Buildings
-Category:Planes
-Category:The Shuttered City
-Category:Undercity
+* Is the Weeper right that this is the only operational window or is there another? Why is it still open?
+* Did anyone venture through this Last Window and live to tell the tale?
+* What is it about the creatures that have come through this window and their works that is to dangerous to human sanity?
+* What is the purpose of the machine they are building?
+* What's wrong with the clouds?
+
+
+
+

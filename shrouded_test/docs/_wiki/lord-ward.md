@@ -27,16 +27,16 @@ There he may have remained, but for the return of his father. The sorcerer bore 
 The Prince solemnly accepted the body, and released Mikhal into his father’s arms. A few days later, the cries of a child could be heard from the tower.
 
 ## Connections
-*Lord Ward keeps watch at night for falling stars so that he can recover them before they hatch ([22.10](/wiki/22-10/)).
+* Lord Ward keeps watch at night for falling stars so that he can recover them before they hatch ([22.10](/wiki/22-10/)).
 ## Hooks
-*What did Lord Ward do with his sword when he was young that won him fame?
-*Tell me more about the beautiful daughters!
-*What adventures did Mikhal have in the Prince’s tower?
-*Who was the cataphract, why was she imprisoned and who was keeping her?
-*Was the dead child truly the sorcerer’s? And did the Prince bring it back to life? It must be an adult now, if so.
-*What does Lord Ward think of the Prince now?
-*Is the sorcerer still alive? Did he ever free the cataphract?
-*Wait, is Lord Ward the great-grandson of a lord of the night people, or the child of a Thringish sorcerer and a Golden Realm cataphract?
-Category:Characters
-Category:The Freeholds
-Category:Nobles
+* What did Lord Ward do with his sword when he was young that won him fame?
+* Tell me more about the beautiful daughters!
+* What adventures did Mikhal have in the Prince’s tower?
+* Who was the cataphract, why was she imprisoned and who was keeping her?
+* Was the dead child truly the sorcerer’s? And did the Prince bring it back to life? It must be an adult now, if so.
+* What does Lord Ward think of the Prince now?
+* Is the sorcerer still alive? Did he ever free the cataphract?
+* Wait, is Lord Ward the great-grandson of a lord of the night people, or the child of a Thringish sorcerer and a Golden Realm cataphract?
+
+
+

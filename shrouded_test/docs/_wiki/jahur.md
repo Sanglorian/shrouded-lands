@@ -106,15 +106,15 @@ marriage, mostly due to a having cruel or greedy
 father, may flee their families to become
 adventurers or concubines.
 ## Features
-*[Duxton Academy](/wiki/duxton-academy/) is an orphanage that sunk below the waves but continues to operate.
-*The [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/) is suspended above the ichor of the Sublime Divan
-*The [Undying Cycles of Creation](/wiki/undying-cycles-of-creation/) is the calendar used by local diviners - it also reflects the old faith of Jahur.
-*[Lunfar](/wiki/lunfar/) sells the best illegal maps in Jahur.
-*[Isane the Beauty](/wiki/isane-the-beauty/) is a concubine who maintains an extensive snake library.
-*[Bloodwretches](/wiki/bloodwretches/) are used in Jahur's army and manufacturies.
-*The [Serendips](/wiki/serendips/) are a prominent family here, running casinos and the Botanical Gardens.
-*The [Inconsolable](/wiki/inconsolable/)
-*The [Dead Fish](/wiki/dead-fish/)
+* [Duxton Academy](/wiki/duxton-academy/) is an orphanage that sunk below the waves but continues to operate.
+* The [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/) is suspended above the ichor of the Sublime Divan
+* The [Undying Cycles of Creation](/wiki/undying-cycles-of-creation/) is the calendar used by local diviners - it also reflects the old faith of Jahur.
+* [Lunfar](/wiki/lunfar/) sells the best illegal maps in Jahur.
+* [Isane the Beauty](/wiki/isane-the-beauty/) is a concubine who maintains an extensive snake library.
+* [Bloodwretches](/wiki/bloodwretches/) are used in Jahur's army and manufacturies.
+* The [Serendips](/wiki/serendips/) are a prominent family here, running casinos and the Botanical Gardens.
+* The [Inconsolable](/wiki/inconsolable/)
+* The [Dead Fish](/wiki/dead-fish/)
 
 ## Subhexes:
 [19.31.01](/wiki/19-31/) (Viceroy Orhan‘s Madness): the city‘s treasurer has not been himself since a botched assassination attempt.
@@ -129,28 +129,28 @@ adventurers or concubines.
 
 [19.31.09](/wiki/19-31/) (The Last Fiendslayer): after the windows of Shuttered closed this ancient order withered away.
 ## Connections:
-*There is a ring of ancient obelisks in the city but one is missing and has been uncovered far to the northeast ([46.01](/wiki/46-01/)).
-*Jahur was ruled for twelve years by the octoids ([23.32](/wiki/23-32/)).
-*The rulers of Jahur have access to the feared fire centipedes ([17.30](/wiki/17-30/)).
-*This location is mentioned in a strange journal which discusses why it rains but once a year ([29.14.36](/wiki/29-14/)).
-*Jahur is defended by the Scent Barrier ([21.29](/wiki/21-29/)).
-*Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still ([21.27](/wiki/21-27/)).
-*Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss ([19.31](/wiki/19-31/)). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
-*The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning ([19.30](/wiki/19-30/)).
+* There is a ring of ancient obelisks in the city but one is missing and has been uncovered far to the northeast ([46.01](/wiki/46-01/)).
+* Jahur was ruled for twelve years by the octoids ([23.32](/wiki/23-32/)).
+* The rulers of Jahur have access to the feared fire centipedes ([17.30](/wiki/17-30/)).
+* This location is mentioned in a strange journal which discusses why it rains but once a year ([29.14.36](/wiki/29-14/)).
+* Jahur is defended by the Scent Barrier ([21.29](/wiki/21-29/)).
+* Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still ([21.27](/wiki/21-27/)).
+* Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss ([19.31](/wiki/19-31/)). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
+* The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning ([19.30](/wiki/19-30/)).
 ## Hooks:
-*What now dwells in the city's immaculate ruins?
-*Do any Janissaries live abroad? Why did their leave their posts?
-*What famous jewels are in Jahur?
-*Tell me about Jahur's thriving thieves' guild. Is it connected to Blind Midshotgatepool's organizations ([26.20.01](/wiki/26-20/))?
-*Is Iano for real? Is he part of the moon's scheming, or something else?
-*What dives do adventurers haunt?
+* What now dwells in the city's immaculate ruins?
+* Do any Janissaries live abroad? Why did their leave their posts?
+* What famous jewels are in Jahur?
+* Tell me about Jahur's thriving thieves' guild. Is it connected to Blind Midshotgatepool's organizations ([26.20.01](/wiki/26-20/))?
+* Is Iano for real? Is he part of the moon's scheming, or something else?
+* What dives do adventurers haunt?
 
 ## People
 [Viceroy Orhan](/wiki/viceroy-orhan/): Jahur has been on edge since [Viceroy Orhan](/wiki/viceroy-orhan/), the city's treasurer, was attacked in his bedchamber last month.
 
 [Erebus](/wiki/erebus/): The Last Fiendslayer is staying at The Gushing Ruby, a tavern in the blue quarter.
 ## Execution in Jahur ('Death in the Old Way')
-*Inspired by:* Goblin Punch ([http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire'])
+* Inspired by:* Goblin Punch ([http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire'])
 
 In Jahur, they reserve an ancient punishment for the worst criminals: murderers, kidnappers and vendors of [quicksilver](/wiki/quicksilver/). It is to be hung from the walls of the city by the hands, with the feet weighed down by a chunk of lead in the shape of a giant sword.
 
@@ -162,10 +162,10 @@ One criminal hangs to this day. He is a [vampire](/wiki/vampires/), unkillable b
 
 A [Viceroy](/wiki/viceroys/) will sometimes drag the vampire up to the wall’s upper edge for questioning about supernatural events in the city. His answers are always rewarded with a full meal.
 ### Hooks
-*Why are these swords so effective?
-*Who else has such a weapon?
-*Why is this a rarely used form of punishment? Are the alternatives even worse?
-*What crime did the vampire commit? Is anyone tempted to cut him down?
+* Why are these swords so effective?
+* Who else has such a weapon?
+* Why is this a rarely used form of punishment? Are the alternatives even worse?
+* What crime did the vampire commit? Is anyone tempted to cut him down?
 
 ## Alleys of the Woman in Red
 ![](/media/Jahur9.png)Connects to: [08.27.01](/wiki/08-27/), [19.31.07](/wiki/19-31/), [19.31.10](/wiki/19-31/) and
@@ -203,17 +203,17 @@ The Holy Fools use isolated courtyards as open-air
 meeting places.
 
 ### Connections
-*These alleys are rife with bucket kelp ([26.33](/wiki/26-33/)) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
-*Hypno ([08.27.01](/wiki/08-27/)) tries to prevent mortals from having recurring dreams.
-*Lunfar sells illicit maps within the alleyways ([19.31.10](/wiki/19-31/)).
+* These alleys are rife with bucket kelp ([26.33](/wiki/26-33/)) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
+* Hypno ([08.27.01](/wiki/08-27/)) tries to prevent mortals from having recurring dreams.
+* Lunfar sells illicit maps within the alleyways ([19.31.10](/wiki/19-31/)).
 ### Hooks:
-*Were Duygu's dreams sent to him by someone with an agenda?
-*How much influence does Isane the Beauty have over the Viceroys who seek her counsel?
-*Do Viceroys often pose as commoners? What shenanigans do they get into while trying to pass as porters, beggars or wallahs?
-*Who are the major players in Jahur's thieves' guild?
+* Were Duygu's dreams sent to him by someone with an agenda?
+* How much influence does Isane the Beauty have over the Viceroys who seek her counsel?
+* Do Viceroys often pose as commoners? What shenanigans do they get into while trying to pass as porters, beggars or wallahs?
+* Who are the major players in Jahur's thieves' guild?
 
 ## The Sandmines Neath Jahur
-**Inspiration:** The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
+* *Inspiration:** The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
 
 As houses and temples crumbled in Jahur, they were built on top of, slowly compressing the sand, brick and stone together into what masons call ‘city brick’. It carries some memory of the buildings that it once was - city brick will always stay in place, even if its supports collapse. Only the scrubbing out of the mason’s mark placed on each block causes gravity to reassert itself.
 
@@ -226,9 +226,9 @@ The mining - both authorised and illicit - of this distinctive stone has left va
 From the ceilings of some of the caves hang archaes, which look like stalactites but feel like mucus to the touch and are powerfully acidic. Giant red worms ooze through these tunnels, suckling on the archaes as if they were teats.
 
 ### Hooks
-*What is the component of the Scent Barrier?
-*What other tricks have people used citybrick for?
-*What power do the masons wield in the city?
+* What is the component of the Scent Barrier?
+* What other tricks have people used citybrick for?
+* What power do the masons wield in the city?
 
 ## The Lampbearing Octoid
 An [octoid](/wiki/octoids/) will approach strangers and then lead them on a path through Jahur. The path is never to their intended destination, but the octoid always leads people to a serendipitous meeting, usually in a part of town that they’ve never visited. Perhaps they meet a former lover by the quayside or a man idle comes across a party reading themselves for adventure.
@@ -236,11 +236,11 @@ An [octoid](/wiki/octoids/) will approach strangers and then lead them on a path
 The octoid takes advantage of the lucky encounter to scurry off, its lamp trailing in one tentacle behind it.
 
 ### Hooks
-*What are the octoid’s motives?
-*How does it know to arrange these encounters?
-*Who owes their marriage to the octoid’s guidance?
-*Is there a reliable way of finding or summoning the octoid?
-Category:Jahur
-Category:Cities
-Category:Sea of Typhoons
-Category:Inspired by
+* What are the octoid’s motives?
+* How does it know to arrange these encounters?
+* Who owes their marriage to the octoid’s guidance?
+* Is there a reliable way of finding or summoning the octoid?
+
+
+
+

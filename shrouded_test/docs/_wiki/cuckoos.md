@@ -8,7 +8,7 @@ categories:
   []
 media: []
 ---
-**Cuckoos **refers to:
+* *Cuckoos **refers to:
 
 [Simonian Cuckoos](/wiki/simonian-cuckoos/), the descendents of [Simone the Fowl](/wiki/simone-the-fowl/), or other cuckoo chickens (of which Simone was one).
 

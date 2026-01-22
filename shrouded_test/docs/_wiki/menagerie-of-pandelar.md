@@ -18,10 +18,10 @@ There are collectors in the upper city who would pay handsome prices for the rar
 
 Another rumoured creature is the [xortoise](/wiki/xortoises/), an enormous creature from beyond the World's Edge that was subdued by Pandelar in a hunt lasting three days.
 ### Hooks:
-*What other weird creatures dwell in the menagerie?
-*What and where are the other seven firstborn of Chimalia?
-*What was the favor that the Doge did for Pandelar?
-*Why did Pandelar eventually abandon the zoo? Was it something to do with the death of his daughter?
-Category:Buildings
-Category:The Shuttered City
-Category:Undercity
+* What other weird creatures dwell in the menagerie?
+* What and where are the other seven firstborn of Chimalia?
+* What was the favor that the Doge did for Pandelar?
+* Why did Pandelar eventually abandon the zoo? Was it something to do with the death of his daughter?
+
+
+

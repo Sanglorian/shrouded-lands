@@ -20,8 +20,8 @@ As a result of the drop bears' novel migration behavior they can end up just abo
 They are particularly common in The Forest of Falling Bears ([49.09](/wiki/49-09/)).
 
 ## Hooks
-*Who's in the market for drop bear poison?
-*What sort of animals do drop bears most commonly drop on?
-*Is there any way to keep a drop bear from attacking? Pickelhauben?
-Category:Creatures
-Category:The World's Edge and Beyond
+* Who's in the market for drop bear poison?
+* What sort of animals do drop bears most commonly drop on?
+* Is there any way to keep a drop bear from attacking? Pickelhauben?
+
+

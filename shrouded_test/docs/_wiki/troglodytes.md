@@ -11,6 +11,6 @@ categories:
 media: []
 ---
 The [Temple of Alberon](/wiki/temple-of-alberon/) turned into troglodytes.
-Category:Creatures
-Category:Peoples
-Category:The Shuttered City
+
+
+
