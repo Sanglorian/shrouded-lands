@@ -84,16 +84,17 @@ def make_svg(code: str, has_page: bool, fill_color: str) -> str:
     x_str, y_str = code.split(".")
     slug = f"{x_str}-{y_str}"
 
-    # Hex geometry
-    r = 40
+    # --- Hex geometry: side length / radius = 30, no padding ---
+    r = 30.0
     h = (math.sqrt(3) * r) / 2.0
 
-    pad = 10
-    width = int(2 * r + 2 * pad)
-    height = int(2 * h + 2 * pad)
+    # Tight bounding box: hex touches all edges
+    width = 2.0 * r
+    height = 2.0 * h
 
-    cx = width / 2.0
-    cy = height / 2.0
+    # Center of hex
+    cx = r
+    cy = h
     points = flat_hex_points(cx, cy, r)
 
     stroke = "#333333"
@@ -107,10 +108,10 @@ def make_svg(code: str, has_page: bool, fill_color: str) -> str:
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="{width}" height="{height}" viewBox="0 0 {width} {height}">
+     width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
     <polygon points="{points}" fill="{fill_color}" stroke="{stroke}" stroke-width="2"/>
-    <text x="{cx}" y="{cy}" text-anchor="middle" dominant-baseline="middle"
+    <text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" dominant-baseline="middle"
           font-size="14" font-family="system-ui, sans-serif">{code}</text>
   {link_close}
 </svg>
