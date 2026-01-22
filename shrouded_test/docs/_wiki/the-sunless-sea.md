@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sunless Sea
 ---
-
-#REDIRECT [[Sunless Sea]]
+#REDIRECT [Sunless Sea](/wiki/sunless-sea/)

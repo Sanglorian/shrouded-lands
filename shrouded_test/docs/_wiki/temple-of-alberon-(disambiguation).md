@@ -8,12 +8,11 @@ categories:
   - "Category:Disambiguation"
 media: []
 ---
-
 May refer to:
 
-*The [[Temple of Alberon]], cursed heterodox worshippers of Alberon.
+*The [Temple of Alberon](/wiki/temple-of-alberon/), cursed heterodox worshippers of Alberon.
 
-*The [[Great Temple of Alberon]]
+*The [Great Temple of Alberon](/wiki/great-temple-of-alberon/)
 
-*The [[Reluctant Temple of Alberon]]
-[[Category:Disambiguation]]
+*The [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/)
+Category:Disambiguation

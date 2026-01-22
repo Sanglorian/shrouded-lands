@@ -14,9 +14,9 @@ media: []
 ## The Undying Cycles of Creation
 ![](/media/Jahur4.png)Connects to: [02.03](/wiki/02-03/), [05.18](/wiki/05-18/), [19.31](/wiki/19-31/), [25.31](/wiki/25-31/), [29.07.03](/wiki/29-07/), [37.01](/wiki/37-01/) and the City of Shuttered Windows.
 
-Long ago the gilded fleet of the [[Imperium Undying]] set out from the utter west to colonize these Shrouded Lands. Little remains of it now but rumors of [[the Prince of Men]] ([29.07.03](/wiki/29-07/)) sleeping beneath the waters of Mirror Lake ([[37.01]]) and the pact that the [[elves]] of the [[Kingswood]] entered into with the Prince that they honor yet though all men have forgotten its terms.
+Long ago the gilded fleet of the [Imperium Undying](/wiki/imperium-undying/) set out from the utter west to colonize these Shrouded Lands. Little remains of it now but rumors of [the Prince of Men](/wiki/the-prince-of-men/) ([29.07.03](/wiki/29-07/)) sleeping beneath the waters of Mirror Lake ([37.01](/wiki/37-01/)) and the pact that the [elves](/wiki/elves/) of the [Kingswood](/wiki/kingswood/) entered into with the Prince that they honor yet though all men have forgotten its terms.
 
-However the calendar that is still used by diviners and astrologers across these lands has been handed down since the days of the Prince of Men and the [[Jahur]]i two-faced god [[Iano]] seems to be a revival of the ancient gods knows as the Fools that were worshiped by the ancients. And the lesser gods are still paid homage to in every gambling pit in Shuttered where the grim face of the Father still glares at gamers as the King of Winter along with all of the rest of the twelve Dreamers. And even the greatest fool can see the shapes of the old gods when they look up into the sky.
+However the calendar that is still used by diviners and astrologers across these lands has been handed down since the days of the Prince of Men and the [Jahur](/wiki/jahur/)i two-faced god [Iano](/wiki/iano/) seems to be a revival of the ancient gods knows as the Fools that were worshiped by the ancients. And the lesser gods are still paid homage to in every gambling pit in Shuttered where the grim face of the Father still glares at gamers as the King of Winter along with all of the rest of the twelve Dreamers. And even the greatest fool can see the shapes of the old gods when they look up into the sky.
 
 **The Fools:** The creators of everything in existence and in dream, and progeny of their own creation. The Fools think only with their hearts. They are two, yet one; fourteen, yet none. They are associated with the inexplicable, the unavoidable, the undesirable, and the unspeakable. They are generally portrayed as a single two-faced god or a pair of youths of uncertain gender; one dressed in red the other in black.
 
@@ -57,15 +57,15 @@ In order to distinguish one year from the next, many are given nicknames such as
 
 Astrologers take careful note of the movements of the stars and the day of a child‘s birth to discern the future. In ancient days, the Priests in Red would tattoo a child‘s guiding sign across his or her forehead at birth so that all could know the child‘s true nature. Many wizards also use to calendar to select the day of important rituals. For example if it is the Day of Rising Black during the Black Month of a Black Year, necromantic rituals are said to be especially potent.
 ### Connections:
-*The old coronation ceremonies of Gore seem linked to this ancient religion ([[05.18]]).
-*[[Isane the Beauty]]) is skilled at interpreting the Cycles.
-*The Pilgrim's Spire is holy to the Pilgrim ([[24.31]]).
+*The old coronation ceremonies of Gore seem linked to this ancient religion ([05.18](/wiki/05-18/)).
+*[Isane the Beauty](/wiki/isane-the-beauty/)) is skilled at interpreting the Cycles.
+*The Pilgrim's Spire is holy to the Pilgrim ([24.31](/wiki/24-31/)).
 ### Hooks:
 *Are any of these days still celebrated in these lands?
 *How much of the old religion has been revivd in Jahur?
 *Is there any other presence of these ancient gods in these lands?
 *The four suits correspond to the seasons with the various Dreamers being represented in the face cards while the jokers are the Fools. What card games are played in Shuttered with these cards?
-[[Category:Phenomena]]
-[[Category:Deities]]
-[[Category:Jahur]]
-[[Category:Imperium Undying]]
+Category:Phenomena
+Category:Deities
+Category:Jahur
+Category:Imperium Undying

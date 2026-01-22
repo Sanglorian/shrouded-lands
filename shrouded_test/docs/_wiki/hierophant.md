@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Hierophants
 ---
-
-#REDIRECT [[Hierophants]]
+#REDIRECT [Hierophants](/wiki/hierophants/)

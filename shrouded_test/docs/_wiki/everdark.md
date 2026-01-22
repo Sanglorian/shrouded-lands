@@ -32,18 +32,18 @@ Region: the Bitter Coast
 <span lang="EN-US" style="font-size:9.0pt;font-family: "CenturyGothic","sans-serif";mso-fareast-font-family:"맑은고딕";mso-fareast-theme-font: minor-fareast;mso-bidi-font-family:"TimesNewRoman";mso-bidi-theme-font:minor-bidi; color:black;mso-themecolor:text1;background:#FAFAFA;mso-ansi-language:EN-US; mso-fareast-language:KO;mso-bidi-language:AR-SA;mso-bidi-font-style:italic">-Why do the dead guard the Giant’s Bane Wall?<br />-Where did the perpetual cloud cover come from?<br />-Blood mosses?<br />-Mandrakes?!<br />-How did the folk of Everdark come to live with orc eyes and orc blood?<br />-From whence comes the red stone of the Borough?<br />-How in the world did a Borough of the Shuttered City end up on the Bitter Coast?<br />-Earless Hounds?<br />-Surely there’s more to Vilenius Arkhaus. And why do they call him Lord-Elect?</span>
 
 ## The Black Robes of the Everdark
-Like so much else about the people of the borough of Everdark their clothes are not like those of other men. They wear black robes woven from the long vanes of the feathers of great [[rocs]] ([[01.01]]) which are not only waterproof but quite warm and comfortable.
+Like so much else about the people of the borough of Everdark their clothes are not like those of other men. They wear black robes woven from the long vanes of the feathers of great [rocs](/wiki/rocs/) ([01.01](/wiki/01-01/)) which are not only waterproof but quite warm and comfortable.
 
 ### Hooks:
 *-Any living rocs about?
 *-Do roc robes have another other useful properties?
 
 ## Shrine of the Hilt
-The [[Jarmond of the Knife|Knife of Jarmond's]] hilt lies in a small shrine atop Mount Lorca, one of the clouded mountains surrounding Everdark. [[Alberon]], in the form of a squire, commanded the archmage [[Vilenius Arkhouse]] to keep the hilt of the prophet's knife in a place shrouded by perpetual clouds. After extensive research, he found Everdark's current location to be the cloudiest place in the Shrouded Lands, and built a shrine to house the hilt. It is said that when sunlight touches the hilt again, it must be reunited with the blade and given to Alberon's new prophet.
+The [Knife of Jarmond's](/wiki/jarmond-of-the-knife/) hilt lies in a small shrine atop Mount Lorca, one of the clouded mountains surrounding Everdark. [Alberon](/wiki/alberon/), in the form of a squire, commanded the archmage [Vilenius Arkhouse](/wiki/vilenius-arkhouse/) to keep the hilt of the prophet's knife in a place shrouded by perpetual clouds. After extensive research, he found Everdark's current location to be the cloudiest place in the Shrouded Lands, and built a shrine to house the hilt. It is said that when sunlight touches the hilt again, it must be reunited with the blade and given to Alberon's new prophet.
 
-The [[Temple Indivisible]] has made a plausible claim that the Knife of Jarmond contains some of Alberon's life. Therefore, it is a pseudo-form of Alberon. Since Alberon cannot leave the Shuttered City, they have declared Everdark to be a distant borough of Shuttered.
+The [Temple Indivisible](/wiki/temple-indivisible/) has made a plausible claim that the Knife of Jarmond contains some of Alberon's life. Therefore, it is a pseudo-form of Alberon. Since Alberon cannot leave the Shuttered City, they have declared Everdark to be a distant borough of Shuttered.
 
-Every year on [[The Youth's Day]], four young men from Everdark place the hilt in a ceremonial ark and carry it down Mount Lorca's treacherous paths to the town square. When it arrives, a festival begins. The King of Dogs is crowned at the end of the festival, and the four young men are sent off to find wives. After the farewell, four silent, cloaked figures appear and carry the ark back to the shrine.
+Every year on [The Youth's Day](/wiki/the-youths-day/), four young men from Everdark place the hilt in a ceremonial ark and carry it down Mount Lorca's treacherous paths to the town square. When it arrives, a festival begins. The King of Dogs is crowned at the end of the festival, and the four young men are sent off to find wives. After the farewell, four silent, cloaked figures appear and carry the ark back to the shrine.
 ### Hooks
 *Why was the Knife separated? Where is the blade?
 *What will happen when Alberon has a new prophet?
@@ -52,7 +52,7 @@ Every year on [[The Youth's Day]], four young men from Everdark place the hilt i
 *What duties and privileges does the King of Dogs have?
 *How often do the young men in the ceremony return to Everdark?
 *Who are the cloaked figures that carry the ark back to shrine?
-[[Category:Hex]]
-[[Category:The Bitter Coast]]
-[[Category:The Shuttered City]]
-[[Category:Electric Wizard]]
+Category:Hex
+Category:The Bitter Coast
+Category:The Shuttered City
+Category:Electric Wizard

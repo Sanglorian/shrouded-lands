@@ -11,10 +11,10 @@ categories:
   - "Category:Unseelie elves"
 media: []
 ---
-:**The Drow** redirects here. See [[drow]] for other uses of that term.
+:**The Drow** redirects here. See [drow](/wiki/drow/) for other uses of that term.
 
-The Drow of Olmsted Keep manages barter between the Olmsteds and the outside world ([[31.04]]) and the elves of the [[Kingswood]]. She calls herself **the Faceless**.
-[[Category:Characters]]
-[[Category:Elves]]
-[[Category:Unseelie elves]]
-[[Category:The Lands of the Night Cattle]]
+The Drow of Olmsted Keep manages barter between the Olmsteds and the outside world ([31.04](/wiki/31-04/)) and the elves of the [Kingswood](/wiki/kingswood/). She calls herself **the Faceless**.
+Category:Characters
+Category:Elves
+Category:Unseelie elves
+Category:The Lands of the Night Cattle

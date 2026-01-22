@@ -10,10 +10,9 @@ categories:
   - "Category:The Lands of the Night Cattle"
 media: []
 ---
+Those who live in the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)
 
-Those who live in the [[Lands of the Night Cattle]]
-
-Also referred to as [[Night People]]
-[[Category:Humans]]
-[[Category:Peoples]]
-[[Category:The Lands of the Night Cattle]]
+Also referred to as [Night People](/wiki/night-people/)
+Category:Humans
+Category:Peoples
+Category:The Lands of the Night Cattle

@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Drogo
 ---
-
-#REDIRECT[[Drogo]]
-[[Category:Synonyms]]
+#REDIRECT[Drogo](/wiki/drogo/)
+Category:Synonyms

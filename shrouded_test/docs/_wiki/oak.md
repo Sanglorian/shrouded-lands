@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Oaks
 ---
-
-#REDIRECT[[Oaks]]
+#REDIRECT[Oaks](/wiki/oaks/)

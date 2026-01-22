@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Ducal family of Thring
 ---
-
-#REDIRECT[[Ulthar the Loved]]
+#REDIRECT[Ulthar the Loved](/wiki/ulthar-the-loved/)

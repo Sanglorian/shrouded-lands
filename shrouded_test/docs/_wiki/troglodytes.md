@@ -10,8 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-The [[Temple of Alberon]] turned into troglodytes.
-[[Category:Creatures]]
-[[Category:Peoples]]
-[[Category:The Shuttered City]]
+The [Temple of Alberon](/wiki/temple-of-alberon/) turned into troglodytes.
+Category:Creatures
+Category:Peoples
+Category:The Shuttered City

@@ -12,11 +12,11 @@ media: []
 ---
 Also known as the **Shadowed Ballet**.
 
-There are seven dancers of the Shadow Ballet in the [[Grey Comedy]]; [[Rosetta]] claims that they were once [[firebirds]] turned to stone.
+There are seven dancers of the Shadow Ballet in the [Grey Comedy](/wiki/grey-comedy/); [Rosetta](/wiki/rosetta/) claims that they were once [firebirds](/wiki/firebirds/) turned to stone.
 
-[[Birds of paradise]] are as artful and ritualistic as these dancers.
+[Birds of paradise](/wiki/birds-of-paradise/) are as artful and ritualistic as these dancers.
 
-The [[Dust Men]] hired a troupe of Shadowed Ballet dancers to dance naked through the streets of [[Shuttered]].
-[[Category:Customs]]
-[[Category:Professions]]
-[[Category:Philosophies]]
+The [Dust Men](/wiki/dust-men/) hired a troupe of Shadowed Ballet dancers to dance naked through the streets of [Shuttered](/wiki/shuttered/).
+Category:Customs
+Category:Professions
+Category:Philosophies

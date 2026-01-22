@@ -8,7 +8,6 @@ categories:
   []
 media: []
 ---
-
-[[Plants]]
+[Plants](/wiki/plants/)
 
 Includes fungi, you pedants.

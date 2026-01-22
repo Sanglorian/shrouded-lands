@@ -9,7 +9,6 @@ categories:
   - "Category:The Lands of the Night Cattle"
 media: []
 ---
-
-See [[Drogo]] and [[29.01]]
-[[Category:Organisations]]
-[[Category:The Lands of the Night Cattle]]
+See [Drogo](/wiki/drogo/) and [29.01](/wiki/29-01/)
+Category:Organisations
+Category:The Lands of the Night Cattle

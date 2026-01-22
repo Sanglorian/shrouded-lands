@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Shuttered and surrounds
 ---
-
-#REDIRECT [[Shuttered and surrounds]]
+#REDIRECT [Shuttered and surrounds](/wiki/shuttered-and-surrounds-2785/)

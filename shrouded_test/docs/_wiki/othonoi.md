@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: '44.17'
 ---
-
-#REDIRECT[[44.17]]
+#REDIRECT[44.17](/wiki/44-17/)

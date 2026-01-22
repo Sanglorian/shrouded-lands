@@ -12,10 +12,9 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-
-A [[weresharks|wereshark]] [[ogres|ogre]] who was infected by the [[King of Salt and Brine]]. He makes his home in a cabin in the Saltwood ([[01.07]]), swimming up to it via a river that leads to the Ocean of Bitter Regrets.
-[[Category:Lycanthropes]]
-[[Category:Ogres]]
-[[Category:Characters]]
-[[Category:Creatures]]
-[[Category:The Bitter Coast]]
+A [wereshark](/wiki/weresharks/) [ogre](/wiki/ogres/) who was infected by the [King of Salt and Brine](/wiki/king-of-salt-and-brine/). He makes his home in a cabin in the Saltwood ([01.07](/wiki/01-07/)), swimming up to it via a river that leads to the Ocean of Bitter Regrets.
+Category:Lycanthropes
+Category:Ogres
+Category:Characters
+Category:Creatures
+Category:The Bitter Coast

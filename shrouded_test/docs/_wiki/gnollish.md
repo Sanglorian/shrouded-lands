@@ -10,8 +10,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
-Spoken at least by the [[Ghoul in the Gilded Cage]]
-[[Category:Languages]]
-[[Category:Gnolls]]
-[[Category:The Burning Lands]]
+Spoken at least by the [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/)
+Category:Languages
+Category:Gnolls
+Category:The Burning Lands

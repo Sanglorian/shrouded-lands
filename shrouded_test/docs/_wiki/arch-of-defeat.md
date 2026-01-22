@@ -10,7 +10,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Shutt-arch.png)The Doge in the time before there was a [[Doges|Doge]] ordered the construction of an enormous monument to [[Shuttered]]’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’
+![](/media/Shutt-arch.png)The Doge in the time before there was a [Doge](/wiki/doges/) ordered the construction of an enormous monument to [Shuttered](/wiki/shuttered/)’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’
 
 Upon the arch is etched the location of every military defeat Shuttered has suffered. Around the arch stand statues of the many foreign leaders and heroes who have handed Shuttered defeat. Under the keystone of the arch is the tomb of the sleepy soldier, commemorating all the guards who slept at their posts, armorers who skimped on steel and generals who relaxed in their chateaus far from battle.
 
@@ -24,6 +24,6 @@ The day ends with bonfires on which citizens burn effigies of all those who defe
 *Whose effigies do the people of Shuttered burn?
 *What terrible mistakes have been made during this festival?
 *When has Shuttered lost a battle for want of an iron nail?
-[[Category:Buildings]]
-[[Category:The Shuttered City]]
-[[Category:Conflicts]]
+Category:Buildings
+Category:The Shuttered City
+Category:Conflicts

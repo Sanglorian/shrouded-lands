@@ -18,14 +18,14 @@ The most popular are her *lightening coins*. Such a coin halves the weight of an
 
 The trick is repeatable, so two such coins reduce the weight to a quarter of the original. Cowlard is always keen to sell the coins in bulk.
 
-However, keen consumers will notice that Cowlard always packages her coins separately, each to its own velvet bag. [[Dormond of the Crooked Oak]] suspected that the Sphere of Annihilation ([[04.31]]) was created when a misguided client of Cowlard’s placed one too many of her coins in a container.
+However, keen consumers will notice that Cowlard always packages her coins separately, each to its own velvet bag. [Dormond of the Crooked Oak](/wiki/dormond-of-the-crooked-oak/) suspected that the Sphere of Annihilation ([04.31](/wiki/04-31/)) was created when a misguided client of Cowlard’s placed one too many of her coins in a container.
 ### Connections
-*Cowlard is currently in [[Winds]]
+*Cowlard is currently in [Winds](/wiki/winds/)
 ### Hooks
 *Does a critical mass of coins truly create a hole in the fabric of reality? Does Cowlard know this?
 *How does she create the coins?
 *What other knickknacks does she sell?
-[[Category:Characters]]
-[[Category:Winds]]
-[[Category:Humans]]
-[[Category:Merchants]]
+Category:Characters
+Category:Winds
+Category:Humans
+Category:Merchants

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Queen Sinister
 ---
-
-#REDIRECT [[Queen Sinister]]
+#REDIRECT [Queen Sinister](/wiki/queen-sinister/)

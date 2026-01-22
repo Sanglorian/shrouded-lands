@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Other planes
 ---
-
-#REDIRECT[[:Category:Planes]]
-[[Category:Synonyms]]
+#REDIRECT:Category:Planes
+Category:Synonyms

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Brothers of the Lion
 ---
-
-#REDIRECT [[Brothers of the Lion]]
+#REDIRECT [Brothers of the Lion](/wiki/brothers-of-the-lion/)

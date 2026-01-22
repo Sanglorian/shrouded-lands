@@ -11,7 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Fiends
 ---
-
-#REDIRECT[[Fiends]]
-[[Category:Creatures]]
-[[Category:Fiends]]
+#REDIRECT[Fiends](/wiki/fiends/)
+Category:Creatures
+Category:Fiends

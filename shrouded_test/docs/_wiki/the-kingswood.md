@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Kingswood
 ---
-
-#REDIRECT [[Kingswood]]
+#REDIRECT [Kingswood](/wiki/kingswood/)

@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Keening Sea
 ---
-
-#REDIRECT[[Keening Sea]]
-[[Category:Synonyms]]
+#REDIRECT[Keening Sea](/wiki/keening-sea/)
+Category:Synonyms

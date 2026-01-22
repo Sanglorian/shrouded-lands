@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Witch Clans
 ---
-
-#REDIRECT[[Witch Clans]]
+#REDIRECT[Witch Clans](/wiki/witch-clans/)

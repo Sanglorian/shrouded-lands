@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Scarecrows
 ---
-
-#REDIRECT [[Scarecrows]]
+#REDIRECT [Scarecrows](/wiki/scarecrows/)

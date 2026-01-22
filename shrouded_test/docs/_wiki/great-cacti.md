@@ -10,8 +10,7 @@ categories:
   - "Category:Plants"
 media: []
 ---
-
-The only known great cactus is [[Grandfather Cactus]], also known as the Cactogre.
-[[Category:Creatures]]
-[[Category:Plants]]
-[[Category:Characters]]
+The only known great cactus is [Grandfather Cactus](/wiki/grandfather-cactus/), also known as the Cactogre.
+Category:Creatures
+Category:Plants
+Category:Characters

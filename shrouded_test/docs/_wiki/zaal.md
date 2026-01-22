@@ -12,23 +12,23 @@ media: []
 ---
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
 
-**Region:** [[The Singing Wastes]]
+**Region:** [The Singing Wastes](/wiki/the-singing-wastes/)
 ## Zaal, the Sleeping City
 ![](/media/Sing2.jpg)Connects to: [03.31.01](/wiki/03-31/), [29.07](/wiki/29-07/) and [29.14.36](/wiki/29-14/).
 
-When the elven courts sundered ([[29.07]]) some few of the [[unseelie elves|unseelie court]] remained behind ([[28.07]] and [[31.04]]) and some few of the [[seelie elves|seelie court]] went into exile. The [[Bloodied King]] watched them leave with a stony face and they walked away south under the night stars with the elves of the unseelie court.
+When the elven courts sundered ([29.07](/wiki/29-07/)) some few of the [unseelie court](/wiki/unseelie-elves/) remained behind ([28.07](/wiki/28-07/) and [31.04](/wiki/31-04/)) and some few of the [seelie court](/wiki/seelie-elves/) went into exile. The [Bloodied King](/wiki/bloodied-king/) watched them leave with a stony face and they walked away south under the night stars with the elves of the unseelie court.
 
-But during the long miles of their exile these renegade elves fell to quarrelling with the [[Queen Sinister]] ([29.14.36](/wiki/29-14/)) and the unseelie elves abandoned them as they lay sleeping in this stretch of desert.
+But during the long miles of their exile these renegade elves fell to quarrelling with the [Queen Sinister](/wiki/queen-sinister/) ([29.14.36](/wiki/29-14/)) and the unseelie elves abandoned them as they lay sleeping in this stretch of desert.
 
-Now, at that very spot rise strangely pale basalt pillars that form the city walls of Zaal, the sleeping city of the [[white elves]]. Within this small city rise tall terraces, bright and beautiful with green verdure unseen elsewhere in the Singing Wastes and that tree-studded avenues wind between gleaming white roofs and strange temples. It is said that here lie all dreams of beauty that men forget when they awake.
+Now, at that very spot rise strangely pale basalt pillars that form the city walls of Zaal, the sleeping city of the [white elves](/wiki/white-elves/). Within this small city rise tall terraces, bright and beautiful with green verdure unseen elsewhere in the Singing Wastes and that tree-studded avenues wind between gleaming white roofs and strange temples. It is said that here lie all dreams of beauty that men forget when they awake.
 
-However, those that approach the basalt pillars of Zaal are more likely to see [[ghouls]] than temples for the creatures lurk and howl about the city’s walls hoping to eat those who fall into magical sleep as they approach the city.
+However, those that approach the basalt pillars of Zaal are more likely to see [ghouls](/wiki/ghouls/) than temples for the creatures lurk and howl about the city’s walls hoping to eat those who fall into magical sleep as they approach the city.
 
 But any men with pleasing faces who are able to reach the city’s walls are welcomed warmly and a rope of elven hair is thrown down to them. No one, not even the ghouls, has seen anyone leave the white-walled city.
 ### Subhex:
 [08.27.01](/wiki/08-27/) (Hypno, Lord of Sleep): he slumbers beneath the city.
 ### Connection:
-*The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([[03.31]].01).
+*The half-elven descendants of a renegade elf of Zaal rule a petty kingdom to the west ([03.31](/wiki/03-31/).01).
 ### Hooks:
 *Why did these seelie elves leave with the unseelie elves when the courts were sundered? Why did the unseelie elves leave them behind?
 *How did a small handful of elves build such a city? Why are they called white elves? What’s inside the city?
@@ -54,6 +54,6 @@ The Lord of Sleep is not perfect, however. Many subversive or terrible dreams sl
 *Where do dreams come from, anyway? The depths of dreamers' minds? Above? Below?
 *Is there any way to dodge Hypno's dream censorship?
 *What would happen if Hypno awoke? How could such a thing happen?
-[[Category:Cities]]
-[[Category:The Singing Wastes]]
-[[Category:Elves]]
+Category:Cities
+Category:The Singing Wastes
+Category:Elves

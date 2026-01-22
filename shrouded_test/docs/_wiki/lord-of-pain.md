@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Alberon
 ---
-
-#REDIRECT[[Alberon]]
-[[Category:Synonyms]]
+#REDIRECT[Alberon](/wiki/alberon/)
+Category:Synonyms

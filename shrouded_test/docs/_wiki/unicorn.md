@@ -11,9 +11,8 @@ categories:
   - "Category:Equines"
 media: []
 ---
-
-*[[29.07]]![](/media/Bertuch-Unicorn.png)
-[[Category:Creatures]]
-[[Category:Characters]]
-[[Category:Elves]]
-[[Category:Equines]]
+*[29.07](/wiki/29-07/)![](/media/Bertuch-Unicorn.png)
+Category:Creatures
+Category:Characters
+Category:Elves
+Category:Equines

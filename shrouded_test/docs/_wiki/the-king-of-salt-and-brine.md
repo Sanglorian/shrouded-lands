@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: King of Salt and Brine
 ---
-
-#REDIRECT[[King of Salt and Brine]]
+#REDIRECT[King of Salt and Brine](/wiki/king-of-salt-and-brine/)

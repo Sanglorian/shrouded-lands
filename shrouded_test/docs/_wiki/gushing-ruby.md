@@ -9,10 +9,10 @@ categories:
   - "Category:Jahur"
 media: []
 ---
-A tavern in the blue quarter of [[Jahur]]. 
+A tavern in the blue quarter of [Jahur](/wiki/jahur/). 
 ### Currently in the tavern
-*[[Erebus]]
-*A man who carries a fresh [[tigers|tiger]] skin and therefore may be cursed.
-*[[Valderama Bolger]]![A tiger lays a curse upon its slayer.](/media/TigerSkinning.jpg)
-[[Category:Buildings]]
-[[Category:Jahur]]
+*[Erebus](/wiki/erebus/)
+*A man who carries a fresh [tiger](/wiki/tigers/) skin and therefore may be cursed.
+*[Valderama Bolger](/wiki/valderama-bolger/)![A tiger lays a curse upon its slayer.](/media/TigerSkinning.jpg)
+Category:Buildings
+Category:Jahur

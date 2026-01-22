@@ -10,12 +10,11 @@ categories:
   - "Category:Fish"
 media: []
 ---
+A type of [eel](/wiki/eels/).
 
-A type of [[eels|eel]].
+* There are electric eels in Dragon Lake ([25.16](/wiki/25-16/))
 
-* There are electric eels in Dragon Lake ([[25.16]])
-
-*Electric eels are a key part of [[Winds]] governance system, as an [[eelmistresses|eelmistress]] uses trained electric eels to zap councillors if they lie or are hostile.
-[[Category:Eels]]
-[[Category:Fish]]
-[[Category:Animals]]
+*Electric eels are a key part of [Winds](/wiki/winds/) governance system, as an [eelmistress](/wiki/eelmistresses/) uses trained electric eels to zap councillors if they lie or are hostile.
+Category:Eels
+Category:Fish
+Category:Animals

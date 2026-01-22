@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Tarrasque
 ---
-
-#REDIRECT [[Tarrasque]]
+#REDIRECT [Tarrasque](/wiki/tarrasque/)

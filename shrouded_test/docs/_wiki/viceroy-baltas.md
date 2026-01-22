@@ -10,10 +10,9 @@ categories:
   - "Category:Viceroys"
 media: []
 ---
+[Isane the Beauty](/wiki/isane-the-beauty/) is his concubine. He overlooks her indiscretions because of her charms.
 
-[[Isane the Beauty]] is his concubine. He overlooks her indiscretions because of her charms.
-
-He is one of the [[Viceroys]] of Jahur.
-[[Category:Characters]]
-[[Category:Jahur]]
-[[Category:Viceroys]]
+He is one of the [Viceroys](/wiki/viceroys/) of Jahur.
+Category:Characters
+Category:Jahur
+Category:Viceroys

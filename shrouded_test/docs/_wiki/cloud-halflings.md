@@ -12,8 +12,7 @@ media: []
 is_redirect: true
 redirect_to: Halflings#Cloud halflings
 ---
-
-#REDIRECT [[Halflings#Cloud halflings]]
-[[Category:Tribes]]
-[[Category:Halflings]]
-[[Category:Peoples]]
+#REDIRECT [Halflings#Cloud halflings](/wiki/halflings/)
+Category:Tribes
+Category:Halflings
+Category:Peoples

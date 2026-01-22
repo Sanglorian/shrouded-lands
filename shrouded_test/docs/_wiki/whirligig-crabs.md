@@ -13,9 +13,8 @@ media: []
 is_redirect: true
 redirect_to: '44.19'
 ---
-
-#REDIRECT[[44.19]]
-[[Category:Creatures]]
-[[Category:Crabs]]
-[[Category:The Burning Lands]]
-[[Category:The Keening Sea]]
+#REDIRECT[44.19](/wiki/44-19/)
+Category:Creatures
+Category:Crabs
+Category:The Burning Lands
+Category:The Keening Sea

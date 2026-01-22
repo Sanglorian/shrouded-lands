@@ -9,7 +9,6 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
-[[Chimerics]]
-[[Category:Creatures]]
-[[Category:Chimalia]]
+[Chimerics](/wiki/chimerics/)
+Category:Creatures
+Category:Chimalia

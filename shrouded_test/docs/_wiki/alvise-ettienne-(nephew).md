@@ -11,9 +11,8 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-The nephew of [[Alvise Ettienne (uncle)|Alvise Ettienne]], the original of the [[Ettiennes]]. Alvise is involved in the [[silk wars]].
-[[Category:Characters]]
-[[Category:Ettiennes]]
-[[Category:The Shuttered City]]
-[[Category:The Freeholds]]
+The nephew of [Alvise Ettienne](/wiki/alvise-ettienne-(uncle)/), the original of the [Ettiennes](/wiki/ettiennes/). Alvise is involved in the [silk wars](/wiki/silk-wars/).
+Category:Characters
+Category:Ettiennes
+Category:The Shuttered City
+Category:The Freeholds

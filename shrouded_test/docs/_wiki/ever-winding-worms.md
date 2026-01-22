@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Ever-winding worm
 ---
-
-#REDIRECT[[Ever-winding worm]]
+#REDIRECT[Ever-winding worm](/wiki/ever-winding-worm/)

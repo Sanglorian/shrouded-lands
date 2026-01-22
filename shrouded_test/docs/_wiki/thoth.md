@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Last Prophet of Asrigh
 ---
-
-#REDIRECT[[Last Prophet of Asrigh]]
-[[Category:Synonyms]]
+#REDIRECT[Last Prophet of Asrigh](/wiki/last-prophet-of-asrigh/)
+Category:Synonyms

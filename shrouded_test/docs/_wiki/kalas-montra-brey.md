@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Brigadier Kalas Montra-brey
 ---
-
-#REDIRECT[[Brigadier Kalas Montra-brey]]
+#REDIRECT[Brigadier Kalas Montra-brey](/wiki/brigadier-kalas-montra-brey/)

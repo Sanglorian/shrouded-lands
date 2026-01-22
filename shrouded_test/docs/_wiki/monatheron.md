@@ -37,5 +37,5 @@ The current fashion is for the cyclopses of the city to smear their hair with nu
 *Any other bizarre living fashions?
 *I'm not sure I want to hear what the Undercity brothels have been up to with the beetles...
 *What secrets does Thorek's cyclops assassin know?
-[[Category:Hex]]
-[[Category:Shuttered and Surrounds]]
+Category:Hex
+Category:Shuttered and Surrounds

@@ -8,6 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 | style="width:50%; padding:.5em; border:1px solid #b9ffb9; color:#000; background-color:#f3fff3;" |<noinclude>
 {{documentation}}</noinclude>

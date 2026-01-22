@@ -8,9 +8,8 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
 Templates used on category pages.
 
 {{Templatecategory}}
 
-[[Category:Templates]]
+Category:Templates

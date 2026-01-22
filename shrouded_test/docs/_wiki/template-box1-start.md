@@ -8,7 +8,6 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 {|width="100%" cellpadding="0px" cellspacing="0px" 
 |- valign="top"
 | style="width:50%; padding:.5em; border:1px solid #c9c9ff; color:#000; background-color:#f3f3ff;" |<noinclude>

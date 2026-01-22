@@ -8,6 +8,4 @@ categories:
   []
 media: []
 ---
-
-
-[[Bards]]
+[Bards](/wiki/bards/)

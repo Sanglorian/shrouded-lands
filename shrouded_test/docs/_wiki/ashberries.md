@@ -11,7 +11,6 @@ media: []
 is_redirect: true
 redirect_to: The Osseries#Ashberries and Ossery Fire
 ---
-
-#REDIRECT [[The Osseries#Ashberries and Ossery Fire]]
-[[Category:Plants]]
-[[Category:Osseries]]
+#REDIRECT [The Osseries#Ashberries and Ossery Fire](/wiki/the-osseries/)
+Category:Plants
+Category:Osseries

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: The Witchwater
 ---
-
-#REDIRECT[[The Witchwater]]
+#REDIRECT[The Witchwater](/wiki/the-witchwater/)

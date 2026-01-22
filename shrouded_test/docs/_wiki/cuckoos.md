@@ -10,8 +10,8 @@ media: []
 ---
 **Cuckoos **refers to:
 
-[[Simonian Cuckoos]], the descendents of [[Simone the Fowl]], or other cuckoo chickens (of which Simone was one).
+[Simonian Cuckoos](/wiki/simonian-cuckoos/), the descendents of [Simone the Fowl](/wiki/simone-the-fowl/), or other cuckoo chickens (of which Simone was one).
 
-The Cuckoo Count, also known as Charles the Cuckold, who cuckolded the original Lord Steadfast and took his place ([[20.13]]).
+The Cuckoo Count, also known as Charles the Cuckold, who cuckolded the original Lord Steadfast and took his place ([20.13](/wiki/20-13/)).
 
-A cuckoo features in the Rhyme of the [[Sanguine Lords]].
+A cuckoo features in the Rhyme of the [Sanguine Lords](/wiki/sanguine-lords/).

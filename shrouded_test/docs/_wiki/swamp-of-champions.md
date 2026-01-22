@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Battle of the Hand
 ---
-
-#REDIRECT [[Battle of the Hand]]
+#REDIRECT [Battle of the Hand](/wiki/battle-of-the-hand/)

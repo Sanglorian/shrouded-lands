@@ -12,8 +12,7 @@ media: []
 is_redirect: true
 redirect_to: '05.04'
 ---
-
-#REDIRECT[[05.04]]
-[[Category:Characters]]
-[[Category:Tieflings]]
-[[Category:The Westmarches]]
+#REDIRECT[05.04](/wiki/05-04/)
+Category:Characters
+Category:Tieflings
+Category:The Westmarches

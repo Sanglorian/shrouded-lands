@@ -8,12 +8,11 @@ categories:
   - "Category:Template documentation"
 media: []
 ---
-
 ;Description
-:This template is used for creating two pipes, in [[Help:Table|wikitables]] contained in [[Help:Parser functions|Parser functions]].
+:This template is used for creating two pipes, in [wikitables](/wiki/helptable/) contained in [Parser functions](/wiki/helpparser-functions/).
 ;Syntax
 :Insert this template using <code>{{t|!!}}</code>
 ;See also
-:[[m:Template:!!|Template:!!]] on Meta-Wiki.
+:[Template:!!](/wiki/mtemplate/) on Meta-Wiki.
 
-<includeonly>[[Category:General wiki templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
+<includeonly>{{PAGENAME}}</includeonly><noinclude>{{PAGENAME}}</noinclude>

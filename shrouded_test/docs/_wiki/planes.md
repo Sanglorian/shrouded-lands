@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Other planes
 ---
-
-#REDIRECT[[Other planes]]
+#REDIRECT[Other planes](/wiki/other-planes-2421/)

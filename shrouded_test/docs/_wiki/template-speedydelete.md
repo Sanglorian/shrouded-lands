@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Template:Delete
 ---
-
-#REDIRECT [[Template:Delete]]
+#REDIRECT [Template:Delete](/wiki/template-delete/)

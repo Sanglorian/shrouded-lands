@@ -8,6 +8,4 @@ categories:
   []
 media: []
 ---
-
-
-[[Creatures]]
+[Creatures](/wiki/creatures/)

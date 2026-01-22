@@ -9,4 +9,4 @@ categories:
 media: []
 ---
 **Images** on {{SITENAME}}.
-[[Category:Files]]
+Category:Files

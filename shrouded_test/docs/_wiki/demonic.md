@@ -8,7 +8,7 @@ categories:
   - "Category:Languages"
 media: []
 ---
-Presumably spoken by [[demons]].
+Presumably spoken by [demons](/wiki/demons/).
 ## Connections
-Someone is singing in Demonic in [[05.05]]
-[[Category:Languages]]
+Someone is singing in Demonic in [05.05](/wiki/05-05/)
+Category:Languages

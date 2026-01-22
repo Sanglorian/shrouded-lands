@@ -34,16 +34,16 @@ as well as the beings of the lower planes. Over
 the years, many fiendslayers have died before 
 passing on their knowledge and grafts.
 
-The last fiendslayer drinks in [[The Gushing Ruby]], a 
-tavern in [[Jahur]]'s blue quarter. His name is Erebus, 
+The last fiendslayer drinks in [The Gushing Ruby](/wiki/the-gushing-ruby/), a 
+tavern in [Jahur](/wiki/jahur/)'s blue quarter. His name is Erebus, 
 one passed down from master to apprentice 
-since the Shuttering. He has heard of the Temple of the Dead God ([[03.13]]) and wishes to gather a 
+since the Shuttering. He has heard of the Temple of the Dead God ([03.13](/wiki/03-13/)) and wishes to gather a 
 group to sack it and frustrate the aims of its high 
 priestess.
 
-He is in Jahur because his comrade is a [[Janissaries|Janissary]]
+He is in Jahur because his comrade is a [Janissary](/wiki/janissaries/)
 who was badly damaged in a battle with an
-[[ogres|ogre]]. He hopes the Jahuri have the skills to repair
+[ogre](/wiki/ogres/). He hopes the Jahuri have the skills to repair
 him.
 ### Hooks:
 *Did the ogre survive?
@@ -53,6 +53,6 @@ him.
 *What fiendish grafts does Erebus have?
 *Who is his Janissary comrade?
 *Are there any Jahuri keen to join Erebus?
-[[Category:Characters]]
-[[Category:Jahur]]
-[[Category:Fiendslayers]]
+Category:Characters
+Category:Jahur
+Category:Fiendslayers

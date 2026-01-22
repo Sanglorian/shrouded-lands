@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: The Shrouded Lands Wiki
 ---
-
-#REDIRECT [[The Shrouded Lands Wiki]]
+#REDIRECT [The Shrouded Lands Wiki](/wiki/the-shrouded-lands-wiki/)

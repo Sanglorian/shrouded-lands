@@ -11,21 +11,20 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-
-Beggars are mentioned in the [[Rhyme of the Sanguine Lords]]:
+Beggars are mentioned in the [Rhyme of the Sanguine Lords](/wiki/rhyme-of-the-sanguine-lords/):
 : "Kiss the feet of beggars," the Bergo crones shrieked
 : "When you live by the sword, you die by the meek"
 
-A female beggar is one of the [[eleven recognised forms]] of Alberon.
+A female beggar is one of the [eleven recognised forms](/wiki/eleven-recognised-forms/) of Alberon.
 
-[[Drogo]] may have been a beggar in the [[Gnomish Quarter]] of [[Shuttered]].
+[Drogo](/wiki/drogo/) may have been a beggar in the [Gnomish Quarter](/wiki/gnomish-quarter/) of [Shuttered](/wiki/shuttered/).
 
-A pompous beggar named the [[Squatter King]] holds court in the [[Undercity]]. 
+A pompous beggar named the [Squatter King](/wiki/squatter-king/) holds court in the [Undercity](/wiki/undercity/). 
 
-Beggars live in a swamp near [[Castle Tarengael]] to loot the bodies of the losers of the [[Challenge of the Hand]].
+Beggars live in a swamp near [Castle Tarengael](/wiki/castle-tarengael/) to loot the bodies of the losers of the [Challenge of the Hand](/wiki/challenge-of-the-hand/).
 
 The most wretched beggars are at the Piss-and-Shit Castle.
-[[Category:Professions]]
-[[Category:The Shuttered City]]
-[[Category:The Duchy of Thring]]
-[[Category:Bergolast]]
+Category:Professions
+Category:The Shuttered City
+Category:The Duchy of Thring
+Category:Bergolast

@@ -11,9 +11,8 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-
-Come in several colours. Each has different effects when prepared as [[shroom wine]].
-[[Category:Plants]]
-[[Category:Fungi]]
-[[Category:Hobgoblins]]
-[[Category:The Freeholds]]
+Come in several colours. Each has different effects when prepared as [shroom wine](/wiki/shroom-wine/).
+Category:Plants
+Category:Fungi
+Category:Hobgoblins
+Category:The Freeholds

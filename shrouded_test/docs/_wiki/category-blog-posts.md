@@ -8,5 +8,4 @@ categories:
   - "Category:Community"
 media: []
 ---
-
-[[Category:Community]]
+Category:Community

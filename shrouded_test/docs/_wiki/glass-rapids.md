@@ -10,8 +10,7 @@ categories:
   - "Category:The Freeholds"
 media: []
 ---
-
-A waterway. The Pool of the Firebirds ([[04.05]]) is the river's source; it runs through [[05.05]] where it pours into a gaping hole. It continues at least to the Caves of the Destroying Angel ([[07.06]]).
-[[Category:Bodies of water]]
-[[Category:The Freeholds]]
-[[Category:Glass Rapids]]
+A waterway. The Pool of the Firebirds ([04.05](/wiki/04-05/)) is the river's source; it runs through [05.05](/wiki/05-05/) where it pours into a gaping hole. It continues at least to the Caves of the Destroying Angel ([07.06](/wiki/07-06/)).
+Category:Bodies of water
+Category:The Freeholds
+Category:Glass Rapids

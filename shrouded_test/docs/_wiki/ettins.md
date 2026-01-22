@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Ettiennes
 ---
-
-#REDIRECT[[Ettiennes]]
+#REDIRECT[Ettiennes](/wiki/ettiennes/)

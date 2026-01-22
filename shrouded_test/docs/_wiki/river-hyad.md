@@ -10,9 +10,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-
-
 ![](/media/Schiele_-_Wildbach_-_1918.jpg)
-[[Category:Bodies of water]]
-[[Category:River Hyad]]
-[[Category:The Burning Lands]]
+Category:Bodies of water
+Category:River Hyad
+Category:The Burning Lands

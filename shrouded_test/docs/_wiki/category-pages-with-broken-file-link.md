@@ -8,5 +8,4 @@ categories:
   - "Category:Hidden categories"
 media: []
 ---
-
 __HIDDENCAT__

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Bitter Coast
 ---
-
-#REDIRECT [[Bitter Coast]]
+#REDIRECT [Bitter Coast](/wiki/bitter-coast/)

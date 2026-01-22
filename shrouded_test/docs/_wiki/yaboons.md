@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Blind Midshotgatepool
 ---
-
-#REDIRECT[[26.20]]
+#REDIRECT[26.20](/wiki/26-20/)

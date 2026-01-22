@@ -8,19 +8,19 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-[[:Category:Creatures|Wiki entries on creatures]]
+Wiki entries on creatures
 ## Index
 This index does not state whether a hex is relevant because a single one of the creature can be found there, because multiple of the creature can be found there or because the creature is mentioned in the hex description. This data is still available in the Google Doc.
 
-*[[Aarokocra]] ([04.00](/wiki/04-00/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
+*[Aarokocra](/wiki/aarokocra/) ([04.00](/wiki/04-00/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
 
-*[[Aboleths]] ([11.20](/wiki/11-20/), [12.29](/wiki/12-29/), [22.25](/wiki/22-25/), Down to a Sunless Sea)
+*[Aboleths](/wiki/aboleths/) ([11.20](/wiki/11-20/), [12.29](/wiki/12-29/), [22.25](/wiki/22-25/), Down to a Sunless Sea)
 
-*[[Alkalions]] ([14.27](/wiki/14-27/))
+*[Alkalions](/wiki/alkalions/) ([14.27](/wiki/14-27/))
 
-*[[Alligators]] ([40.20](/wiki/40-20/))
+*[Alligators](/wiki/alligators/) ([40.20](/wiki/40-20/))
 
-*[[Amphibians]] ([20.16](/wiki/20-16/)), see also Bullywugs
+*[Amphibians](/wiki/amphibians/) ([20.16](/wiki/20-16/)), see also Bullywugs
 
 *Amphibians (desert toads) ([03.26](/wiki/03-26/))
 
@@ -36,31 +36,31 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Amphibians (toads) ([21.16](/wiki/21-16/))
 
-*[[Angels]] ([02.03](/wiki/02-03/))
+*[Angels](/wiki/angels/) ([02.03](/wiki/02-03/))
 
 *Angels, destroying ([07.06](/wiki/07-06/), [08.06](/wiki/08-06/), [37.01](/wiki/37-01/))
 
 *Animals, talking ([29.13](/wiki/29-13/))
 
-*[[Animated swords]] ([15.15](/wiki/15-15/))
+*[Animated swords](/wiki/animated-swords/) ([15.15](/wiki/15-15/))
 
-*[[Ankhegs]] ([15.04](/wiki/15-04/))
+*[Ankhegs](/wiki/ankhegs/) ([15.04](/wiki/15-04/))
 
-*[[Antelope]] ([13.24](/wiki/13-24/))
+*[Antelope](/wiki/antelope/) ([13.24](/wiki/13-24/))
 
-*[[Apes]], carnivorous ([15.11](/wiki/15-11/))
+*[Apes](/wiki/apes/), carnivorous ([15.11](/wiki/15-11/))
 
 *Apes, ghost ([51.29](/wiki/51-29/))
 
-*[[Araneas]] ([23.08](/wiki/23-08/))
+*[Araneas](/wiki/araneas/) ([23.08](/wiki/23-08/))
 
-*[[Archaes]] ([Jahur])
+*[Archaes](/wiki/archaes/) ([Jahur])
 
-*[[Azimyth]], see Bats (azimyth)
+*[Azimyth](/wiki/azimyth/), see Bats (azimyth)
 
-*[[Basilisks]] ([24.12](/wiki/24-12/), [25.31](/wiki/25-31/))
+*[Basilisks](/wiki/basilisks/) ([24.12](/wiki/24-12/), [25.31](/wiki/25-31/))
 
-*[[Bats]] (azimyth) ([12.09](/wiki/12-09/))
+*[Bats](/wiki/bats/) (azimyth) ([12.09](/wiki/12-09/))
 
 *Bats, fire ([21.16](/wiki/21-16/))
 
@@ -70,7 +70,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Bats, vampire (Kingswood Random Encounters)
 
-*[[Bears]] ([08.16](/wiki/08-16/))
+*[Bears](/wiki/bears/) ([08.16](/wiki/08-16/))
 
 *Bears, drop, see Drop bears
 
@@ -80,9 +80,9 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Bears, riding ([13.17](/wiki/13-17/))
 
-*[[Beavers]], talking ([39.08](/wiki/39-08/))
+*[Beavers](/wiki/beavers/), talking ([39.08](/wiki/39-08/))
 
-*[[Beetlefolk]] ([49.03](/wiki/49-03/))
+*[Beetlefolk](/wiki/beetlefolk/) ([49.03](/wiki/49-03/))
 
 *Beings of chalk and salt ([09.09](/wiki/09-09/), [33.04](/wiki/33-04/))
 
@@ -100,7 +100,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Beings of vine and feather ([33.04](/wiki/33-04/))
 
-*[[Birds]] (blood falcons) ([36.04](/wiki/36-04/), The Lady of the Vale)
+*[Birds](/wiki/birds/) (blood falcons) ([36.04](/wiki/36-04/), The Lady of the Vale)
 
 *Birds (bluejay) ([29.14](/wiki/29-14/))
 
@@ -158,29 +158,29 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Birds (white ravens) ([01.06](/wiki/01-06/)), see also Birds (ravens)
 
-*[[Boar]] ([03.08](/wiki/03-08/), [12.22](/wiki/12-22/), [16.16](/wiki/16-16/), [20.16](/wiki/20-16/), The Mounts of Thring)
+*[Boar](/wiki/boar/) ([03.08](/wiki/03-08/), [12.22](/wiki/12-22/), [16.16](/wiki/16-16/), [20.16](/wiki/20-16/), The Mounts of Thring)
 
-*[[Bodaks]] ([21.12](/wiki/21-12/))
+*[Bodaks](/wiki/bodaks/) ([21.12](/wiki/21-12/))
 
-*[[Bogswines]] ([17.16](/wiki/17-16/))
+*[Bogswines](/wiki/bogswines/) ([17.16](/wiki/17-16/))
 
-*[[Buffalo]], see Cattle (ghost buffalo)
+*[Buffalo](/wiki/buffalo/), see Cattle (ghost buffalo)
 
-*[[Bugbears]], see Goblins (bugbears)
+*[Bugbears](/wiki/bugbears/), see Goblins (bugbears)
 
 *Bull, the iron (of She Who Waits) (The Chant of Morning), see also Cattle
 
-*[[Bullywugs]] ([26.19](/wiki/26-19/))
+*[Bullywugs](/wiki/bullywugs/) ([26.19](/wiki/26-19/))
 
-*[[Butterflies]], gilded ([23.10](/wiki/23-10/))
+*[Butterflies](/wiki/butterflies/), gilded ([23.10](/wiki/23-10/))
 
 *Cacti, great, see Cactogres
 
-*[[Catoblepas]] ([18.11](/wiki/18-11/))
+*[Catoblepas](/wiki/catoblepas/) ([18.11](/wiki/18-11/))
 
-*[[Cactogres]] ([18.28](/wiki/18-28/))
+*[Cactogres](/wiki/cactogres/) ([18.28](/wiki/18-28/))
 
-*[[Cats]] (Kingswood Random Encounters, [15.13](/wiki/15-13/), [29.14](/wiki/29-14/), [43.12](/wiki/43-12/))
+*[Cats](/wiki/cats/) (Kingswood Random Encounters, [15.13](/wiki/15-13/), [29.14](/wiki/29-14/), [43.12](/wiki/43-12/))
 
 *Cats, feathered, see Cats, flying
 
@@ -194,7 +194,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Cats, razor ([29.14](/wiki/29-14/))
 
-*[[Cattle]] ([09.01](/wiki/09-01/), [18.17](/wiki/18-17/), [20.18](/wiki/20-18/), [22.03](/wiki/22-03/), [24.02](/wiki/24-02/), [31.27](/wiki/31-27/), [37.21](/wiki/37-21/), [44.03](/wiki/44-03/), [48.18](/wiki/48-18/)), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
+*[Cattle](/wiki/cattle/) ([09.01](/wiki/09-01/), [18.17](/wiki/18-17/), [20.18](/wiki/20-18/), [22.03](/wiki/22-03/), [24.02](/wiki/24-02/), [31.27](/wiki/31-27/), [37.21](/wiki/37-21/), [44.03](/wiki/44-03/), [48.18](/wiki/48-18/)), see also Bull, the iron (of She Who Waits), Cowhorses; Plants (death of cows)
 
 *Cattle, Andaran ([43.12](/wiki/43-12/)) (includes moon-horned cattle)
 
@@ -210,41 +210,41 @@ This index does not state whether a hex is relevant because a single one of the 
 
 *Cattle, vampire ([29.14](/wiki/29-14/))
 
-*[[Cauldronborn]] ([23.16](/wiki/23-16/))
+*[Cauldronborn](/wiki/cauldronborn/) ([23.16](/wiki/23-16/))
 
-*[[Centaurs]] ([04.17](/wiki/04-17/), [05.18](/wiki/05-18/), [40.20](/wiki/40-20/))
+*[Centaurs](/wiki/centaurs/) ([04.17](/wiki/04-17/), [05.18](/wiki/05-18/), [40.20](/wiki/40-20/))
 
-*[[Changelings]], see Orcs
+*[Changelings](/wiki/changelings/), see Orcs
 
-*[[Chickens]] ([26.16](/wiki/26-16/))
+*[Chickens](/wiki/chickens/) ([26.16](/wiki/26-16/))
 
 *Child, The, see Earth-children
 
-*[[Chimeras]] (The Chimera of the Suitor’s Tower)
+*[Chimeras](/wiki/chimeras/) (The Chimera of the Suitor’s Tower)
 
-*[[Chimerics]], see Minotaurs, Manticores, Mermaids, Owlbears, Gryphons, Goatscorpions, Chimeras, Manscorpions, etc.
+*[Chimerics](/wiki/chimerics/), see Minotaurs, Manticores, Mermaids, Owlbears, Gryphons, Goatscorpions, Chimeras, Manscorpions, etc.
 
-*[[Cloakers]] ([26.20](/wiki/26-20/))
+*[Cloakers](/wiki/cloakers/) ([26.20](/wiki/26-20/))
 
-*[[Clockwork eyes]] ([26.16](/wiki/26-16/))
+*[Clockwork eyes](/wiki/clockwork-eyes/) ([26.16](/wiki/26-16/))
 
-*[[Cockatrices]] (peacockatrice) ([25.16](/wiki/25-16/))
+*[Cockatrices](/wiki/cockatrices/) (peacockatrice) ([25.16](/wiki/25-16/))
 
-*[[Constructs]], see Golems; Janissaries
+*[Constructs](/wiki/constructs/), see Golems; Janissaries
 
-*[[Corpse trees]] ([11.11](/wiki/11-11/))
+*[Corpse trees](/wiki/corpse-trees/) ([11.11](/wiki/11-11/))
 
-*[[Cowhorses]] (The Mounts of Thring)
+*[Cowhorses](/wiki/cowhorses/) (The Mounts of Thring)
 
-*[[Coyotes]] (The Undying Cycles of Creation)
+*[Coyotes](/wiki/coyotes/) (The Undying Cycles of Creation)
 
-*[[Crabs]] ([31.19](/wiki/31-19/))
+*[Crabs](/wiki/crabs/) ([31.19](/wiki/31-19/))
 
 *Crabs, prism ([20.32](/wiki/20-32/))
 
 *Crabs, whirligig ([44.19](/wiki/44-19/))
 
-*[[Crayfish]], giant ([13.10](/wiki/13-10/), [48.13](/wiki/48-13/), [48.14](/wiki/48-14/))
+*[Crayfish](/wiki/crayfish/), giant ([13.10](/wiki/13-10/), [48.13](/wiki/48-13/), [48.14](/wiki/48-14/))
 
 *Creatures through the window ([29.14](/wiki/29-14/))
 
@@ -1017,4 +1017,4 @@ This index does not state whether a hex is relevant because a single one of the 
 *Zombies, hive ([13.09](/wiki/13-09/))
 
 *Zor, see Golems, flesh
-[[Category:Creatures|Creature entries on this wiki]]
+Creature entries on this wiki

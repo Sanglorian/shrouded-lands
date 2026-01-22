@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Tamilda Koldransdotter
 ---
-
-#REDIRECT[[Tamilda Koldransdotter]]
+#REDIRECT[Tamilda Koldransdotter](/wiki/tamilda-koldransdotter/)

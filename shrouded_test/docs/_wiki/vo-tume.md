@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Elves
 ---
-
-#REDIRECT[[Elves]]
-[[Category:Synonyms]]
+#REDIRECT[Elves](/wiki/elves/)
+Category:Synonyms

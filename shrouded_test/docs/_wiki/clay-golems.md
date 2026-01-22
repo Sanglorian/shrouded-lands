@@ -9,7 +9,6 @@ categories:
   - "Category:Golems"
 media: []
 ---
-
 !['Golem', Philippe Semeria (CC BY 3.0 Unported)](/media/Golem_by_Philippe_Semeria.jpg)
-[[Category:Golems]]
-[[Category:Creatures]]
+Category:Golems
+Category:Creatures

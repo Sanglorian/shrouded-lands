@@ -9,9 +9,8 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
+: See also [Plague doctors](/wiki/plague-doctors/)
 
-: See also [[Plague doctors]]
-
-[[Geda the Fair]] served as [[Simone the Fowl]]'s doctor throughout his reign.
-[[Category:Professions]]
-[[Category:The Shuttered City]]
+[Geda the Fair](/wiki/geda-the-fair/) served as [Simone the Fowl](/wiki/simone-the-fowl/)'s doctor throughout his reign.
+Category:Professions
+Category:The Shuttered City

@@ -9,7 +9,7 @@ categories:
   - "Category:Organisations"
 media: []
 ---
-**![](/media/SL4.jpg)Region: **[[Blind Midshotgatepool]]
+**![](/media/SL4.jpg)Region: **[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)
 ## The Thieves Guild of Blind Midshotgatepool
 Connects to: [15.24](/wiki/15-24/), [16.16](/wiki/16-16/), [19.30](/wiki/19-30/), [26.19](/wiki/26-19/), [26.20.03](/wiki/26-20/),
 [26.20.04](/wiki/26-20/), [26.20.05](/wiki/26-20/), [27.18.01](/wiki/27-18/) and [37.06](/wiki/37-06/).
@@ -122,17 +122,17 @@ victim. Wortimer hopes that that would provide
 enough of a distraction to let him escape and
 rally his guild.
 ### Connections:
-*[[Uriza]] ([15.24](/wiki/15-24/)) was a power in the thieves guild, thanks to the magic item she had stolen, until Mousey brought her low.
-*The thieves guild takes advantage of the Hall of the Five Gates ([26.20.03](/wiki/26-20/)) and cooperates with the [[Yaboons|Yaboon family]] ([26.20.04](/wiki/26-20/)).
+*[Uriza](/wiki/uriza/) ([15.24](/wiki/15-24/)) was a power in the thieves guild, thanks to the magic item she had stolen, until Mousey brought her low.
+*The thieves guild takes advantage of the Hall of the Five Gates ([26.20.03](/wiki/26-20/)) and cooperates with the [Yaboon family](/wiki/yaboons/) ([26.20.04](/wiki/26-20/)).
 *The guild‘s power is greatest among the houseboats of the city ([26.20.05](/wiki/26-20/)).
-*Wortimer is served by a wild man who is able to sniff out magic ([[37.06]]).
-*Wortimer is quietly supporting a banned wind cult in hopes that it weakens the hold of the state church of the City of Shuttered Windows ([[27.18]].01).
-*The thieves of the August City uses memory-stealing [[birds of paradise]] ([[19.30]]) on guild members who know too much but are too important to be killed.
-*Wortimer has offered a reward to anyone who drives the bullywogs out of Yrump Marsh ([[26.19]]).
+*Wortimer is served by a wild man who is able to sniff out magic ([37.06](/wiki/37-06/)).
+*Wortimer is quietly supporting a banned wind cult in hopes that it weakens the hold of the state church of the City of Shuttered Windows ([27.18](/wiki/27-18/).01).
+*The thieves of the August City uses memory-stealing [birds of paradise](/wiki/birds-of-paradise/) ([19.30](/wiki/19-30/)) on guild members who know too much but are too important to be killed.
+*Wortimer has offered a reward to anyone who drives the bullywogs out of Yrump Marsh ([26.19](/wiki/26-19/)).
 ### Hooks:
 *Who is Mabalaquain's elven parent?
 *Wait, gnomes live between the walls of the homes of giants?
 *Who have some of the victims of the thieves guild been?
 *Where did Wortimer get the cloaker and the clasp?
-[[Category:Organisations]]
-[[Category:Blind Midshotgatepool]]
+Category:Organisations
+Category:Blind Midshotgatepool

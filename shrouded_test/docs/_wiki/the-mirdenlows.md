@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Mirdenlows
 ---
-
-#REDIRECT [[Mirdenlows]]
+#REDIRECT [Mirdenlows](/wiki/mirdenlows/)

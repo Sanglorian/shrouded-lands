@@ -14,14 +14,13 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
+:See also [Hierophant](/wiki/hierophant/)
 
-:See also [[Hierophant]]
-
-Leader of the [[Temple Invisible]]
-[[Category:Characters]]
-[[Category:Temple Invisible]]
-[[Category:The Shuttered City]]
-[[Category:Priests]]
-[[Category:Assassins]]
-[[Category:Alberon]]
-[[Category:The King in Splendour]]
+Leader of the [Temple Invisible](/wiki/temple-invisible/)
+Category:Characters
+Category:Temple Invisible
+Category:The Shuttered City
+Category:Priests
+Category:Assassins
+Category:Alberon
+Category:The King in Splendour

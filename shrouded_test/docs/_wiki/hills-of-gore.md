@@ -10,7 +10,7 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-![](/media/SL_25.png)Includes hexes: [[02.22]], [[03.13]], [[03.19]], [[03.26]], [[04.17]], [[04.18]] [[05.14]], [[05.18]], [[05.20]], [[05.24]], [[06.14]], [[07.17]], [[07.18]], [[07.21]], [[08.16]], [[09.19]], [[09.22]], [[10.12]], [[10.14]], [[11.20]] and [[12.22]].
+![](/media/SL_25.png)Includes hexes: [02.22](/wiki/02-22/), [03.13](/wiki/03-13/), [03.19](/wiki/03-19/), [03.26](/wiki/03-26/), [04.17](/wiki/04-17/), [04.18](/wiki/04-18/) [05.14](/wiki/05-14/), [05.18](/wiki/05-18/), [05.20](/wiki/05-20/), [05.24](/wiki/05-24/), [06.14](/wiki/06-14/), [07.17](/wiki/07-17/), [07.18](/wiki/07-18/), [07.21](/wiki/07-21/), [08.16](/wiki/08-16/), [09.19](/wiki/09-19/), [09.22](/wiki/09-22/), [10.12](/wiki/10-12/), [10.14](/wiki/10-14/), [11.20](/wiki/11-20/) and [12.22](/wiki/12-22/).
 
 Connects to: [11.16](/wiki/11-16/).
 
@@ -35,7 +35,7 @@ Now year by year the wilderness encroaches on what has become a land of lurking 
 ***The Glade of Womanhood ([07.18](/wiki/07-18/)): **here the brave and ruthless snickersnees enter Lady Natala’s service.
 ***The Conclave of Mules ([07.21](/wiki/07-21/)): **the mules of these lands are uncommonly clever and fertile.
 ***The Eyrie (8.16): **a nests of the Scarecrows, a brotherhood that gives help to the poor and mischief to those in power.
-*[[08.21]] (Castle Brucoloc): this land is ruled by a troll in its lord’s absence.
+*[08.21](/wiki/08-21/) (Castle Brucoloc): this land is ruled by a troll in its lord’s absence.
 ***The Castle of the Sack Man (9.19): **the sobbing of the children who are kept captive by the Sack Man, an emaciated figure in a red cloak trimmed with white, can be heard on the wind.
 ***The Lake of the Flying Fish (9.22): **where fish can swim as easily through air as through water.
 ***Celadon the Shrewd ([10.12](/wiki/10-12/)): **a cunning dragon who hides his treasure in a series of secret stashes.
@@ -44,8 +44,8 @@ Now year by year the wilderness encroaches on what has become a land of lurking 
 ***Swine Ravine ([12.22](/wiki/12-22/)): **the swine harpies that live in this ravine are a constant plague to any trapped within its walls.
 
 ## Regional features
-*[[Lords Sanguine]]
-*[[Indigo Academy]]
-[[Category:Nations]]
-[[Category:Regions]]
-[[Category:The Lands of Gore]]
+*[Lords Sanguine](/wiki/lords-sanguine/)
+*[Indigo Academy](/wiki/indigo-academy/)
+Category:Nations
+Category:Regions
+Category:The Lands of Gore

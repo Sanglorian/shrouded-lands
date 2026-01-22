@@ -9,7 +9,6 @@ categories:
   - "Category:Dwarves"
 media: []
 ---
-
-A monastery ([[03.05]]) dyes doves orange in this god's honour, then watches their flight in flocks of white doves as an augury.
-[[Category:Deities]]
-[[Category:Dwarves]]
+A monastery ([03.05](/wiki/03-05/)) dyes doves orange in this god's honour, then watches their flight in flocks of white doves as an augury.
+Category:Deities
+Category:Dwarves

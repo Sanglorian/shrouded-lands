@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: The Weeper
 ---
-
-#REDIRECT[[The Weeper]]
-[[Category:Synonyms]]
+#REDIRECT[The Weeper](/wiki/the-weeper/)
+Category:Synonyms

@@ -8,6 +8,5 @@ categories:
   - "Category:Regions"
 media: []
 ---
-
-[[The Singing Wastes]]
-[[Category:Regions]]
+[The Singing Wastes](/wiki/the-singing-wastes/)
+Category:Regions

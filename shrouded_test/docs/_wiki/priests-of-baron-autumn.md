@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sorcerers
 ---
-
-#REDIRECT [[Sorcerers]]
+#REDIRECT [Sorcerers](/wiki/sorcerers/)

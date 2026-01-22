@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Mud Tongue and High Tongue
 ---
-
-#REDIRECT[[Mud Tongue and High Tongue]]
-[[Category:Languages]]
+#REDIRECT[Mud Tongue and High Tongue](/wiki/mud-tongue-and-high-tongue/)
+Category:Languages

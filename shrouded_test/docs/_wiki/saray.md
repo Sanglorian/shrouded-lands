@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Asrigh
 ---
-
-#REDIRECT[[Asrigh]]
-[[Category:Synonyms]]
+#REDIRECT[Asrigh](/wiki/asrigh/)
+Category:Synonyms

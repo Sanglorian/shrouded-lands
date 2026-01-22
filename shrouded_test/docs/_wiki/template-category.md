@@ -8,5 +8,5 @@ categories:
   - "Category:Category templates"
 media: []
 ---
-To add an article, image, or category to this category, append **<code><nowiki>[[</nowiki>Category:{{PAGENAME}}]]</code>** to the end of its page.<noinclude>
+To add an article, image, or category to this category, append **<code><nowiki>[</nowiki>Category:{{PAGENAME}}](/wiki/nowikicategorypagename/)</code>** to the end of its page.<noinclude>
 {{documentation}}</noinclude>

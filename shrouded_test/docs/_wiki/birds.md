@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: :Category:Birds
 ---
-
-#REDIRECT[[:Category:Birds]]
+#REDIRECT:Category:Birds

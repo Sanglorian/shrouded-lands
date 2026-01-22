@@ -9,7 +9,6 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
-Manticores ([[16.16]], [[39.32]])![Jonstonus, Joannes](/media/Martigora_engraving.jpg)
-[[Category:Creatures]]
-[[Category:Chimerics]]
+Manticores ([16.16](/wiki/16-16/), [39.32](/wiki/39-32/))![Jonstonus, Joannes](/media/Martigora_engraving.jpg)
+Category:Creatures
+Category:Chimerics

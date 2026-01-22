@@ -8,6 +8,4 @@ categories:
   - "Category:Animals"
 media: []
 ---
-
-
-[[Category:Animals]]
+Category:Animals

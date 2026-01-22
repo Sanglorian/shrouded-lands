@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Imperium Undying
 ---
-
-#REDIRECT [[Imperium Undying]]
+#REDIRECT [Imperium Undying](/wiki/imperium-undying/)

@@ -12,10 +12,9 @@ categories:
   - "Category:Music"
 media: []
 ---
-
-[[39.14]] has an elfskin drum, as do the [[dwarves]].
-[[Category:Artifacts]]
-[[Category:Dwarves]]
-[[Category:Elves]]
-[[Category:Music]]
-[[Category:Body parts]]
+[39.14](/wiki/39-14/) has an elfskin drum, as do the [dwarves](/wiki/dwarves/).
+Category:Artifacts
+Category:Dwarves
+Category:Elves
+Category:Music
+Category:Body parts

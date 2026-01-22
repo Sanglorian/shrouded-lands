@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Tender Hunt
 ---
-
-#REDIRECT [[Tender Hunt]]
+#REDIRECT [Tender Hunt](/wiki/tender-hunt/)

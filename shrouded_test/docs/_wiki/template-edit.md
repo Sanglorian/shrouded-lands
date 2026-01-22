@@ -8,6 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 &#x5b;[{{fullurl:{{{1|{{FULLPAGENAME}}}}}|action=edit}} {{{2|edit}}}]&#x5d;<noinclude>
 {{documentation}}</noinclude>

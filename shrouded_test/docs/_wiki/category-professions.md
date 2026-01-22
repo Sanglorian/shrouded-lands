@@ -8,5 +8,4 @@ categories:
   []
 media: []
 ---
-
-[[Professions]]
+[Professions](/wiki/professions/)

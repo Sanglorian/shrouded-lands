@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lords Sanguine
 ---
-
-#REDIRECT[[Lords Sanguine]]
+#REDIRECT[Lords Sanguine](/wiki/lords-sanguine/)

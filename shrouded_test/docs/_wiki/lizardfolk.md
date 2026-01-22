@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Lizardmen
 ---
-
-#REDIRECT[[Lizardmen]]
-[[Category:Synonyms]]
+#REDIRECT[Lizardmen](/wiki/lizardmen/)
+Category:Synonyms

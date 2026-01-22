@@ -9,16 +9,16 @@ categories:
   - "Category:The Bitter Coast"
 media: []
 ---
-**![](/media/SL_18.png)Region:** [[Bitter Coast]]
+**![](/media/SL_18.png)Region:** [Bitter Coast](/wiki/bitter-coast/)
 **Hex: **[02.11](/wiki/02-11/)
 
-Sailing on the [[Ocean of Bitter Regrets]] takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
+Sailing on the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
 
-The Cross‘ taverns fill each night, but drinkers are more likely to cry into their cups than start a bar fight. There are gaudy prostitutes, but the women who do the briskest trade are the [[Matrons]], large and comfortable ladies who dole out hugs and head pats to any who will pay for them.
+The Cross‘ taverns fill each night, but drinkers are more likely to cry into their cups than start a bar fight. There are gaudy prostitutes, but the women who do the briskest trade are the [Matrons](/wiki/matrons/), large and comfortable ladies who dole out hugs and head pats to any who will pay for them.
 
-Do not make the mistake of thinking that misery makes this city safe. Many sailors are paranoid, sure that others wish them ill. A maudlin pirate is a pirate nonetheless, who may call out for his lost [[Lisbet]] but will still relieve you of your gold. Upon reaching the shore, many sailors become fiercely keen on righting the wrongs of the past. And of course the [[Pirate Kings]] send out their press gangs with electrified mancatchers to collect crews for their cloud castles.
+Do not make the mistake of thinking that misery makes this city safe. Many sailors are paranoid, sure that others wish them ill. A maudlin pirate is a pirate nonetheless, who may call out for his lost [Lisbet](/wiki/lisbet/) but will still relieve you of your gold. Upon reaching the shore, many sailors become fiercely keen on righting the wrongs of the past. And of course the [Pirate Kings](/wiki/pirate-kings/) send out their press gangs with electrified mancatchers to collect crews for their cloud castles.
 
-The Skull, a floating city of moored ships, used to sit in the bay of the Cross. One day, the [[King of Salt and Brine]] was caught in one of its ropes and pulled the whole armada out to sea before freeing himself. Where it floats now, no
+The Skull, a floating city of moored ships, used to sit in the bay of the Cross. One day, the [King of Salt and Brine](/wiki/king-of-salt-and-brine/) was caught in one of its ropes and pulled the whole armada out to sea before freeing himself. Where it floats now, no
 one knows.
 ## Subhexes:
 *[02.11.01](/wiki/02-11/) (The Pits of the Cross): this serves as the jail of the Cross.
@@ -38,7 +38,7 @@ A crevasse on the outskirts of the Cross serves as a jail for the city. Those wh
 
 An informal community has arisen in the Pits. They barter and feud among themselves and will transport food or even tools for escape to those in the cave-vaults. Most of the bosses come around to the Pits once a week or month and free those who have stayed for a sufficient amount of time, allies who were imprisoned by other bosses and those prepared to strike a deal with the one of the bosses.
 
-There are a few people who have sneaked into the Pits to escape scrutiny, including a [[Smiling Men|Smiling Man]] biding his time until a particular target is thrown into the pits.
+There are a few people who have sneaked into the Pits to escape scrutiny, including a [Smiling Man](/wiki/smiling-men/) biding his time until a particular target is thrown into the pits.
 ### Hooks:
 *Who is the Smiling Man's target? How can he be sure that the target will be thrown in the Pits?
 *Who else is lying low here?
@@ -51,16 +51,16 @@ Connects to: [08.16](/wiki/08-16/) and [26.20.07](/wiki/26-20/).
 
 People walking early in the morning along the decks of the Cross have stumbled across butchered bodies, each one marked with a sign scratched in its forehead.
 
-Any [[Scarecrows|Scarecrow]] or homeless person could identify the signs—they are [[Gabber]], the language of circus folk, travellers and sexual 'deviants'. Perhaps in context they would mean something; each one taken alone is impossible to decipher.
+Any [Scarecrow](/wiki/scarecrows/) or homeless person could identify the signs—they are [Gabber](/wiki/gabber/), the language of circus folk, travellers and sexual 'deviants'. Perhaps in context they would mean something; each one taken alone is impossible to decipher.
 
 There is also no clear motive, although each corpse has been found missing an item that they held precious: wedding rings, holy books, lucky charms, and so on.
 
-Street preachers have not been shy to accuse the [[crowfolk]] of somehow being
-responsible. [[One-Eyed Kristof]]—a known fantasist—claims that the crowfolk have realised that their obsession with shiny things leads them to value worthless trash: so they have devised magic that identifies the most valuable item a person is carrying, without realising that this is almost as arbitrary as their own love of 'shinies'. He cannot explain the Gabber marks, however.
+Street preachers have not been shy to accuse the [crowfolk](/wiki/crowfolk/) of somehow being
+responsible. [One-Eyed Kristof](/wiki/one-eyed-kristof/)—a known fantasist—claims that the crowfolk have realised that their obsession with shiny things leads them to value worthless trash: so they have devised magic that identifies the most valuable item a person is carrying, without realising that this is almost as arbitrary as their own love of 'shinies'. He cannot explain the Gabber marks, however.
 
 The Scarecrows have shown particular interest in the killings, with one saying darkly that they have to be stopped before 'the forbidden sign' is used.
 ### Connections
-*The murderer is the daughter of a pirate of the Cross. The [[hollow-hearted elf]] wilfully misinterpretted the pirate's request, much to the pirate's horror
+*The murderer is the daughter of a pirate of the Cross. The [hollow-hearted elf](/wiki/hollow-hearted-elf/) wilfully misinterpretted the pirate's request, much to the pirate's horror
 ### Hooks
 *What is the forbidden sign?
 *Are the crowfolk involved?
@@ -75,10 +75,10 @@ Hex [02.11.03](/wiki/02-11/)
 
 Connects to: [19.31](/wiki/19-31/) and [23.32](/wiki/23-32/).
 
-[[The Moon's Daughter]]—a [[pearls|pearl]] of tremendous pride ([23.32](/wiki/23-32/)) to [[Jahur]] which grants its bearer control over the tides—is the greatest loss that Jahur suffered during the reign of [[the Cephalopedic Emperor]]. What is unknown to all
-who remain in that city is that the octoids did not take the Daughter. It was stolen by a reanimated [[Janissaries|Janissary]] who had grown bored by centuries of service.
+[The Moon's Daughter](/wiki/the-moons-daughter/)—a [pearl](/wiki/pearls/) of tremendous pride ([23.32](/wiki/23-32/)) to [Jahur](/wiki/jahur/) which grants its bearer control over the tides—is the greatest loss that Jahur suffered during the reign of [the Cephalopedic Emperor](/wiki/the-cephalopedic-emperor/). What is unknown to all
+who remain in that city is that the octoids did not take the Daughter. It was stolen by a reanimated [Janissary](/wiki/janissaries/) who had grown bored by centuries of service.
 
-With the pearl in one fist and a map in the other, the Janissary made its way across the Shrouded Lands until it came to the Cross. It fell in with pirates and now serves as captain of its own ship under the name of [[Ironsides]].
+With the pearl in one fist and a map in the other, the Janissary made its way across the Shrouded Lands until it came to the Cross. It fell in with pirates and now serves as captain of its own ship under the name of [Ironsides](/wiki/ironsides/).
 ### Connection:
 *Ironsides has captured a nereid and forces her to serve him ([02.18](/wiki/02-18/)).
 ### Hooks:
@@ -88,16 +88,16 @@ With the pearl in one fist and a map in the other, the Janissary made its way ac
 ## A Being of Pollen and Milk
 Some years ago the proprietor of this restaurant was a bitter chef serving bad food. One day, she drove all her staff from the building, claiming they were sabotaging her cooking and she would bring in new workers.
 
-They seem to have done the trick: her food is now heralded as the finest in [[the Cross]].
+They seem to have done the trick: her food is now heralded as the finest in [the Cross](/wiki/the-cross/).
 
-In fact, she enslaved [[elemental beings|a being of pollen and milk]] and forces it to prepare all the meals her guests order. The being tries occasionally to seek help - leaving symbols in the drizzled sauce or marbling ‘Save me’ in the meat.
+In fact, she enslaved [a being of pollen and milk](/wiki/elemental-beings/) and forces it to prepare all the meals her guests order. The being tries occasionally to seek help - leaving symbols in the drizzled sauce or marbling ‘Save me’ in the meat.
 
 ### Hooks
 *How do you enslave a being?
-*This is the second being associated with food (Chelind's Buns, [[16.16]]). Why is there a connection?
+*This is the second being associated with food (Chelind's Buns, [16.16](/wiki/16-16/)). Why is there a connection?
 *What is the name of the restaurant?
 *What is the name of the proprietor?
 *What will the being do to be freed?
 *How do others respond to the messages?
-[[Category:Cities]]
-[[Category:The Bitter Coast]]
+Category:Cities
+Category:The Bitter Coast

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Organisations
 ---
-
-#REDIRECT [[Organisations]]
+#REDIRECT [Organisations](/wiki/organisations/)

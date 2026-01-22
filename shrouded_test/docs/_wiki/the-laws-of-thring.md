@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Laws of Thring
 ---
-
-#REDIRECT [[Laws of Thring]]
+#REDIRECT [Laws of Thring](/wiki/laws-of-thring/)

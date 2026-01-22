@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Bolgers
 ---
-
-#REDIRECT [[Bolgers]]
+#REDIRECT [Bolgers](/wiki/bolgers/)

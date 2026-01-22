@@ -8,10 +8,9 @@ categories:
   - "Category:Site administration"
 media: []
 ---
-
 __NOGALLERY__
 These pages have been proposed for deletion. Reasons for the deletion are shown on the pages below, or discussed on their talk pages. 
 
-See also [[:Category:Candidates for speedy deletion]].
+See also :Category:Candidates for speedy deletion.
 
-[[Category:Site administration]]
+Category:Site administration

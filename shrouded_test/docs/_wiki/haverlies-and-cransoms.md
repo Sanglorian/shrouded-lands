@@ -10,9 +10,9 @@ categories:
   - "Category:Witch Clans"
 media: []
 ---
-They live in The Land That Wasn’t There ([[23.18]])
+They live in The Land That Wasn’t There ([23.18](/wiki/23-18/))
 
-The Haverlies were once the last and the least of the [[Witch Clans]], the only power that their blood granted them was being able to transport large loads that would float behind them as they walked. This proved useful in the rough terrain of the Barrier Range, where the other Witch Clans often hired them as porters, as the Haverlies dared not try to set up a village of their own and leave themselves open to attack.
+The Haverlies were once the last and the least of the [Witch Clans](/wiki/witch-clans/), the only power that their blood granted them was being able to transport large loads that would float behind them as they walked. This proved useful in the rough terrain of the Barrier Range, where the other Witch Clans often hired them as porters, as the Haverlies dared not try to set up a village of their own and leave themselves open to attack.
 
 But one day a band of Haverlies plucked up their courage and snuck in at night into the homes of the Cransom clan, a group well-known for their mastery of illusions, butchering those adults that they found asleep before running off into the hills with the Cransom children. The Haverlies had high hopes for being able to dominate the young Cransoms before they came of age and their magic manifested. They hoped that they would be able to cover a swath of hill country in illusion-shrouded traps and be immune to attack and be able to prey on travelers.
 
@@ -20,6 +20,6 @@ However, the Haverlies have had great difficulties with their plans and now the 
 #### Hooks
 *Did any of the adult Cransoms escape the massacre?
 *Now that the Haverlies are growing desperate and trapped, what will they do?
-[[Category:Witch Clans]]
-[[Category:Families]]
-[[Category:The Barrier Range]]
+Category:Witch Clans
+Category:Families
+Category:The Barrier Range

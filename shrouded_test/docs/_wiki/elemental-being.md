@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Elemental beings
 ---
-
-#REDIRECT[[Elemental beings]]
-[[Category:Synonyms]]
+#REDIRECT[Elemental beings](/wiki/elemental-beings/)
+Category:Synonyms

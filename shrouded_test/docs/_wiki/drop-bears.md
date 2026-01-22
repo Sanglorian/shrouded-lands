@@ -17,11 +17,11 @@ Finally, after the passage of days in some cases, the drop bear's ride collapses
 
 As a result of the drop bears' novel migration behavior they can end up just about anywhere that the beasts they fall upon can carry them.
 
-They are particularly common in The Forest of Falling Bears ([[49.09]]).
+They are particularly common in The Forest of Falling Bears ([49.09](/wiki/49-09/)).
 
 ## Hooks
 *Who's in the market for drop bear poison?
 *What sort of animals do drop bears most commonly drop on?
 *Is there any way to keep a drop bear from attacking? Pickelhauben?
-[[Category:Creatures]]
-[[Category:The World's Edge and Beyond]]
+Category:Creatures
+Category:The World's Edge and Beyond

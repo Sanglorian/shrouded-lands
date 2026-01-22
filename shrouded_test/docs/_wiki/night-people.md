@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Night men
 ---
-
-#REDIRECT[[Night men]]
+#REDIRECT[Night men](/wiki/night-men/)

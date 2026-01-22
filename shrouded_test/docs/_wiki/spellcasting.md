@@ -36,7 +36,7 @@ The Yaboons are humorously known as the “wizards of bureaucracy”.
 
 There are a number of descriptions of clerics and wizards working together, which suggests that their magic is different, and Edrin was a priest who is now learning sorcery. *The whispered caress* is specifically identified as a divine spell. The lion priests placed a spell on the top floor of the lighthouse to sustain the people there almost indefinitely ([46.10](/wiki/46-10/)). For simplicity’s sake, priests, clerics and divine magic have been excluded from this article - where it is identified as divine magic. 
 
-Likewise, while the art of [[pactmaking]] is definitely magical, it is not clear that it involves spellcasting. [[Warlocks]] and [[shamans]] are thus not discussed in this article. 
+Likewise, while the art of [pactmaking](/wiki/pactmaking/) is definitely magical, it is not clear that it involves spellcasting. [Warlocks](/wiki/warlocks/) and [shamans](/wiki/shamans/) are thus not discussed in this article. 
 ## Wizardry and magecraft
 Wizards and mages are associated with a number of practices:
 ***The art:** Wizards describe their power as their art. 
@@ -88,13 +88,13 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 *The high priest of Alberon commanded sorcerer-assassins, the origin of the Temple Invisible. 
 ## Spellcasters
 ### Wizards and mages
-: See [[Wizards]] 
+: See [Wizards](/wiki/wizards/) 
 ### Necromancers
-: See [[Necromancers]]
+: See [Necromancers](/wiki/necromancers/)
 ### Illusionists
-: See [[Illusionists]]
+: See [Illusionists](/wiki/illusionists/)
 ### Sorcerers
-: See [[Sorcerers]]
+: See [Sorcerers](/wiki/sorcerers/)
 ### Unspecified spellcasters
 *Hleid is dragonblooded, but her indolent life means that she knows only cantrips. 
 *Tiamat Reborn performs dark rituals and sacrifices in an attempt at apotheosis. 
@@ -103,7 +103,7 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Mabalaquain of Midshotgatepool's thieves' guild is an enchanter of some minor skill. 
 ## Spells and magic
 ### Specific spells
-: See [[Spells]]
+: See [Spells](/wiki/spells/)
 ### Chimeras and other permanent body modification
 *The Suitor’s Tower is shrouded in storm clouds, with torture chambers where secrets as well as skin can be peeled off, labs, vats and creatures with spider limbs. Iraine created a chimera, Lars, from various body parts. 
 *Severard performed experiments on giant bees, including enchanting their magic-absorbing honey. The honey also reanimates corpses.
@@ -164,8 +164,8 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 *Shnutu knows the languages of every flying thing, and the many winds. 
 
 *Other possible categories: elementals or elementalism; binding (elementals and fiends); enchantment (of magic items or of people); language (High Tongue, Shnutu’s languages, sphere of annihilation)*
-[[Category:Magic]]
-[[Category:Mages]]
-[[Category:Wizards]]
-[[Category:Sorcerers]]
-[[Category:Elementalists]]
+Category:Magic
+Category:Mages
+Category:Wizards
+Category:Sorcerers
+Category:Elementalists

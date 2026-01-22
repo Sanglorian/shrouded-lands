@@ -8,6 +8,5 @@ categories:
   - "Category:Characters"
 media: []
 ---
-
-#REDIRECT([[25.04]])
-[[Category:Characters]]
+#REDIRECT([25.04](/wiki/25-04/))
+Category:Characters

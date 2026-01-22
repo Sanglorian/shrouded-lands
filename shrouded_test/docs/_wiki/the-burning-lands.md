@@ -9,13 +9,13 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-![](/media/Burning.jpg)Includes hexes: [[24.26]], [[27.23]], [[27.27]], [[29.24]], [[29.29]], [[31.27]], [[32.22]], [[32.32]], [[34.25]], [[37.21]], [[38.26]], [[38.27]], [[38.28]], [[39.31]], [[39.32]], [[40.20]], [[41.24]], [[43.22]], [[43.27]], [[44.17]], [[44.19]], [[44.22]], [[45.18]], [[45.24]], [[48.18]], [[48.24]], [[48.32]], [[48.33]], [[49.32]], [[50.20]], [[50.26]], [[50.29]], [[50.30]], [[51.17]] and [[51.29]]
+![](/media/Burning.jpg)Includes hexes: [24.26](/wiki/24-26/), [27.23](/wiki/27-23/), [27.27](/wiki/27-27/), [29.24](/wiki/29-24/), [29.29](/wiki/29-29/), [31.27](/wiki/31-27/), [32.22](/wiki/32-22/), [32.32](/wiki/32-32/), [34.25](/wiki/34-25/), [37.21](/wiki/37-21/), [38.26](/wiki/38-26/), [38.27](/wiki/38-27/), [38.28](/wiki/38-28/), [39.31](/wiki/39-31/), [39.32](/wiki/39-32/), [40.20](/wiki/40-20/), [41.24](/wiki/41-24/), [43.22](/wiki/43-22/), [43.27](/wiki/43-27/), [44.17](/wiki/44-17/), [44.19](/wiki/44-19/), [44.22](/wiki/44-22/), [45.18](/wiki/45-18/), [45.24](/wiki/45-24/), [48.18](/wiki/48-18/), [48.24](/wiki/48-24/), [48.32](/wiki/48-32/), [48.33](/wiki/48-33/), [49.32](/wiki/49-32/), [50.20](/wiki/50-20/), [50.26](/wiki/50-26/), [50.29](/wiki/50-29/), [50.30](/wiki/50-30/), [51.17](/wiki/51-17/) and [51.29](/wiki/51-29/)
 
 Connects to: [29.14.09](/wiki/29-14/), [40.06](/wiki/40-06/) and the City of Shuttered Windows
 
-One of the reasons that the City of Shuttered Windows has never been conquered by any of the [[Twelve Nations]] ([29.14.11](/wiki/29-14/)) of the south is the land that lies between them. It has been called [[Bergolast]] ([38.28](/wiki/38-28/)) and the men of the City insist on calling it the South Marches still, but most call it the Burning Lands because of the fierce firestorms that rage over the plains in the high summer. Some say they are started by the red skull of Tiamat, others by a curse of the last Princes of Bergolast and others merely by the heat of the season, but they burn without fail every summer.
+One of the reasons that the City of Shuttered Windows has never been conquered by any of the [Twelve Nations](/wiki/twelve-nations/) ([29.14.11](/wiki/29-14/)) of the south is the land that lies between them. It has been called [Bergolast](/wiki/bergolast/) ([38.28](/wiki/38-28/)) and the men of the City insist on calling it the South Marches still, but most call it the Burning Lands because of the fierce firestorms that rage over the plains in the high summer. Some say they are started by the red skull of Tiamat, others by a curse of the last Princes of Bergolast and others merely by the heat of the season, but they burn without fail every summer.
 
-After the fall of Bergolast, the "Southern Marches" were claimed by the [[City of Shuttered Windows]] and cattlemen from the city ranged over much of the plains that lie south of the Keening Sea. But then came the gnoll clans and the Gnawbone Wars. The men of the City were slowly driven out of the South Marches and only the drowning of an entire gnollish army at the hands of the men of the Waterworks ([29.14.09](/wiki/29-14/)) saved the City itself from siege. Since then, only a bare handful of humans dare graze their cattle south of the Keening Sea and those that do are careful to pay the proper tribute to the gnollish matriarchs.
+After the fall of Bergolast, the "Southern Marches" were claimed by the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) and cattlemen from the city ranged over much of the plains that lie south of the Keening Sea. But then came the gnoll clans and the Gnawbone Wars. The men of the City were slowly driven out of the South Marches and only the drowning of an entire gnollish army at the hands of the men of the Waterworks ([29.14.09](/wiki/29-14/)) saved the City itself from siege. Since then, only a bare handful of humans dare graze their cattle south of the Keening Sea and those that do are careful to pay the proper tribute to the gnollish matriarchs.
 
 In the course of the wars, the gnolls learned the value of having a ready source of food and began herding beasts that are a crossbreed of the blackhorn aurochs and the City's own cows. These cows are great shaggy beasts and gnoll jerked beef will last longer than nearly any other kind of food although that could be because, as men joke, the flies won't eat it.
 
@@ -58,5 +58,5 @@ Some of the bravest of these gnoll youths slaughter beasts and consume their hea
 *[50.30](/wiki/50-30/) (Teodo, the Iron Lion): certainly the largest prize that Great Mother of the gnolls has won.
 *[51.17](/wiki/51-17/) (The Haunt of Jackalweres): these strange beasts take on aspects of what they eat.
 *[51.29](/wiki/51-29/) (The City of Smoke): the gnollish capital ruled by the tyrannical Great Mother.
-[[Category:Regions]]
-[[Category:The Burning Lands]]
+Category:Regions
+Category:The Burning Lands

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Royal family of Gore
 ---
-
-#REDIRECT[[Royal family of Gore]]
+#REDIRECT[Royal family of Gore](/wiki/royal-family-of-gore/)

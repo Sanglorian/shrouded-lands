@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sorcerer of Tarengael Town
 ---
-
-#REDIRECT [[Sorcerer of Tarengael Town]]
+#REDIRECT [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/)

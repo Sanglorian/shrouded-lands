@@ -11,7 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Tenzerlins and Ghostas
 ---
-
-#REDIRECT[[Tenzerlins and Ghostas]]
-[[Category:Families]]
-[[Category:The Shuttered City]]
+#REDIRECT[Tenzerlins and Ghostas](/wiki/tenzerlins-and-ghostas/)
+Category:Families
+Category:The Shuttered City

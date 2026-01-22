@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: One-Eyed Kevanjr
 ---
-
-#REDIRECT [[One-Eyed Kevanjr]]
+#REDIRECT [One-Eyed Kevanjr](/wiki/one-eyed-kevanjr/)

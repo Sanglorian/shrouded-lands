@@ -31,16 +31,16 @@ See https://community.fandom.com/wiki/Help:Structured_Quotes for extra informati
 ## Samples
 {{StructuredQuote
 |text=Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. (...)
-|speaker=[[w:c:en.starwars:Yoda|Yoda]]
-|receiver=[[w:c:en.starwars:Luke_Skywalker|Luke Skywalker]]
-|source=[[w:c:en.starwars:Star_Wars:_Episode_V_The_Empire_Strikes_Back|Star Wars: Episode V The Empire Strikes Back]]
+|speaker=[Yoda](/wiki/wcenstarwarsyoda/)
+|receiver=[Luke Skywalker](/wiki/wcenstarwarsluke_skywalker/)
+|source=[Star Wars: Episode V The Empire Strikes Back](/wiki/wcenstarwarsstar_wars_episode_v_the_empire_strikes_back/)
 }}
 <pre>
 {{StructuredQuote
 |text=Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not. (...)
-|speaker=[[Yoda]]
-|receiver=[[Luke Skywalker]]
-|source=[[Star Wars: Episode V The Empire Strikes Back]]
+|speaker=[Yoda](/wiki/yoda/)
+|receiver=[Luke Skywalker](/wiki/luke-skywalker/)
+|source=[Star Wars: Episode V The Empire Strikes Back](/wiki/star-wars-episode-v-the-empire-strikes-back/)
 }}
 </pre>
 

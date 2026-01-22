@@ -10,29 +10,29 @@ categories:
   - "Category:The Lands of Gore"
 media: []
 ---
-*[[The Collector]] (The Castle of the Collector)
-*[[Lady Natala]] (Castle Maratan)
-*[[The Sack Man]] (debatable; The Castle of the Sack Man, [[09.19]])
-*[[Lord Kardash]], the Swordsage (The Hill of the Swordsage)
-*[[Lady Belal]] of the Nets (Castle Ravenscraig)
-*[[Anselm Brucoloc]] (Castle Brucoloc, former)
-*[[Sulgrim]] (Castle Brucoloc, current)
-The rulers of [[The Lands of Gore]]
+*[The Collector](/wiki/the-collector/) (The Castle of the Collector)
+*[Lady Natala](/wiki/lady-natala/) (Castle Maratan)
+*[The Sack Man](/wiki/the-sack-man/) (debatable; The Castle of the Sack Man, [09.19](/wiki/09-19/))
+*[Lord Kardash](/wiki/lord-kardash/), the Swordsage (The Hill of the Swordsage)
+*[Lady Belal](/wiki/lady-belal/) of the Nets (Castle Ravenscraig)
+*[Anselm Brucoloc](/wiki/anselm-brucoloc/) (Castle Brucoloc, former)
+*[Sulgrim](/wiki/sulgrim/) (Castle Brucoloc, current)
+The rulers of [The Lands of Gore](/wiki/the-lands-of-gore/)
 The Lords Sanguine cannot bear to look upon running water.
 
-The Lords Sanguine have mastered the art of teasing out useful information from the visions imparted by drinking the blood of [[The Tarrasque]].
+The Lords Sanguine have mastered the art of teasing out useful information from the visions imparted by drinking the blood of [The Tarrasque](/wiki/the-tarrasque/).
 
-The Lords Sanguine took their position from the [[royal family of Gore]]
+The Lords Sanguine took their position from the [royal family of Gore](/wiki/royal-family-of-gore/)
 
 ## The Rhyme of the Sanguine Lords
-From the blood of the [[Tarrasque]],<br />
+From the blood of the [Tarrasque](/wiki/tarrasque/),<br />
 Antic and old,<br />
 Sipped twelve humble butchers,<br />
 Clever and cold.<br />
 
 These butchers adopted,<br />
 Though from afar,<br />
-Superstitions of [[Bergolast]], <br />
+Superstitions of [Bergolast](/wiki/bergolast/), <br />
 Rich and bizarre.<br />
 
 “Kiss the feet of beggars,”<br />
@@ -42,7 +42,7 @@ The Bergo crones shrieked.<br />
 
 If it steals from your treasure,<br />
 A magpie is luck;<br />
-If a [[Cuckoos|cuckoo]] crows by you,<br />
+If a [cuckoo](/wiki/cuckoos/) crows by you,<br />
 Your wife shall not ----.<br />
 
 You must count every penny,<br />
@@ -70,6 +70,6 @@ Speak nothing of blood.<br />
 *What effect do these superstitutions have on the Lords’ behaviour?
 *What encourages the Lords to follow these suiperstitutions?
 *Why would drinking the Tarrasque of Bergolast’s blood transmit Bergo superstitions?
-[[Category:Characters]]
-[[Category:The Lands of Gore]]
-[[Category:Lords Sanguine]]
+Category:Characters
+Category:The Lands of Gore
+Category:Lords Sanguine

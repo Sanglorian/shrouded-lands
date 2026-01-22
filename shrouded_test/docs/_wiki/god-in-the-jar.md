@@ -12,8 +12,7 @@ media: []
 is_redirect: true
 redirect_to: '44.19'
 ---
-
-#REDIRECT[[44.19]]
-[[Category:Deities]]
-[[Category:The Keening Sea]]
-[[Category:The Burning Lands]]
+#REDIRECT[44.19](/wiki/44-19/)
+Category:Deities
+Category:The Keening Sea
+Category:The Burning Lands

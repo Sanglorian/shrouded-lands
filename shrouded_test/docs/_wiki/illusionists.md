@@ -11,11 +11,10 @@ categories:
   - "Category:Professions"
 media: []
 ---
+The [Indigo Academy](/wiki/indigo-academy/) are illusionists.
 
-The [[Indigo Academy]] are illusionists.
-
-The [[Dust Walkers]] are expert illusionists. A posse of Dust Walker illusionsts and assassins was sent to Blind Midshotgatepool.
-[[Category:Professions]]
-[[Category:Magic]]
-[[Category:Gnomes]]
-[[Category:Illusionists]]
+The [Dust Walkers](/wiki/dust-walkers/) are expert illusionists. A posse of Dust Walker illusionsts and assassins was sent to Blind Midshotgatepool.
+Category:Professions
+Category:Magic
+Category:Gnomes
+Category:Illusionists

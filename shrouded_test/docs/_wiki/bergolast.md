@@ -11,7 +11,7 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
-[[The Burning Lands]] are still called Bergolast to this day.
+[The Burning Lands](/wiki/the-burning-lands/) are still called Bergolast to this day.
 
 ## The Doom That Was in Bergolast
 ![](/media/3828.png)Hex [38.28](/wiki/38-28/)
@@ -46,7 +46,7 @@ Today the remnants of the Bergolasti people are the trolls of the Shrouded Lands
 *What happened to all of the treasure of Bergolast, especially the adamanium? Why does the Great Mother of the gnolls ([51.29](/wiki/51-29/)) think she can get it?
 *How much does the Prophet of Grahakzahak ([15.01](/wiki/15-01/)) know of his ancestors? It appears that by feeding his flesh to others he is trying to play the role of the Tarrasque in his strange little cult.
 *Two trolls have been mentioned ([15.01](/wiki/15-01/) and [30.15](/wiki/30-15/)). Are there any others about?
-[[Category:Cities]]
-[[Category:Lost civilisations]]
-[[Category:Nations]]
-[[Category:The Burning Lands]]
+Category:Cities
+Category:Lost civilisations
+Category:Nations
+Category:The Burning Lands

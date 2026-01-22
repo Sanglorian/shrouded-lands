@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Princess of Seers
 ---
-
-#REDIRECT [[Princess of Seers]]
+#REDIRECT [Princess of Seers](/wiki/princess-of-seers/)

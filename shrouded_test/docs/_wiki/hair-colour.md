@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Hair
 ---
-
-#REDIRECT [[Hair]]
+#REDIRECT [Hair](/wiki/hair/)

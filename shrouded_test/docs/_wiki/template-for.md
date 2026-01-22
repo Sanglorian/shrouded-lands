@@ -8,5 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-:<span class="dablink">*For {{{1|other uses}}}, see [[{{{2|{{PAGENAME}} (disambiguation)}}}]]{{#if:{{{3|}}}|&#32;and [[{{{3}}}]]}}.*</span><noinclude>
+:<span class="dablink">*For {{{1|other uses}}}, see [{{PAGENAME}} (disambiguation)}}}](/wiki/2/){{#if:{{{3|}}}|&#32;and [{{{3}}}](/wiki/3/)}}.*</span><noinclude>
 {{documentation}}</noinclude>

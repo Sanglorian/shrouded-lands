@@ -14,15 +14,15 @@ media: []
 :Are dead--revive their withered roots with blood*
 ::War Song, *The Poetry of various Glees, Songs. and Company, London, 1798*
 
-They call it *quercus*. All [[goblins]] – and only goblins – are born with it, but it can be learned and lost; just like all [[humans]] – and only humans – are born with implicit belief in gods, or all [[dwarves]] – and only dwarves – are born stonecunning.
+They call it *quercus*. All [goblins](/wiki/goblins/) – and only goblins – are born with it, but it can be learned and lost; just like all [humans](/wiki/humans/) – and only humans – are born with implicit belief in gods, or all [dwarves](/wiki/dwarves/) – and only dwarves – are born stonecunning.
 
-It means a goblin's tie to a particular [[oaks|oak]], their heartwood. It means goblinkind's tie to oaks, and forests of oak, and the animals, plants and fungi of oak forests. It means the soul's tie to the world tree. It means the spirit's quality of oakenness. It means the goblin manufacture and trade of all sorts of ingenious galls. It means mastery of “lightning”, by which the goblins call their magic.
+It means a goblin's tie to a particular [oak](/wiki/oaks/), their heartwood. It means goblinkind's tie to oaks, and forests of oak, and the animals, plants and fungi of oak forests. It means the soul's tie to the world tree. It means the spirit's quality of oakenness. It means the goblin manufacture and trade of all sorts of ingenious galls. It means mastery of “lightning”, by which the goblins call their magic.
 
-Of course, it does not mean all of these things at once. Sometimes, when a goblin walks among the Ten Thousand Stumps, it barely means one of them. But when the blood of a sacrifice gurgles over the roots of a thirsty oak, and a storm brews behind the [[Grey Mountains]], and the martens and magpies are chattering, *quercus *is strong in the air.
+Of course, it does not mean all of these things at once. Sometimes, when a goblin walks among the Ten Thousand Stumps, it barely means one of them. But when the blood of a sacrifice gurgles over the roots of a thirsty oak, and a storm brews behind the [Grey Mountains](/wiki/grey-mountains/), and the martens and magpies are chattering, *quercus *is strong in the air.
 
-But the goblins' deep ties to oaks are not timeless as they may seem. Many students of history are surprised to learn that the concept of *quercus *arose after the fall of the [[goblin empire]] and the logging of the great goblin oak forests that produced the Ten Thousand Stumps. The [[dwarves]] and [[orcs]] toppled the trees because of the shelter that they provided goblin guerillas, because of the magic the goblins worked through them and because the goblin economy depended on oak products.
+But the goblins' deep ties to oaks are not timeless as they may seem. Many students of history are surprised to learn that the concept of *quercus *arose after the fall of the [goblin empire](/wiki/goblin-empire/) and the logging of the great goblin oak forests that produced the Ten Thousand Stumps. The [dwarves](/wiki/dwarves/) and [orcs](/wiki/orcs/) toppled the trees because of the shelter that they provided goblin guerillas, because of the magic the goblins worked through them and because the goblin economy depended on oak products.
 
-But for their part in this massacre, the orcs and dwarves alienated themselves from oaks. [[druids|Druidic traditions]] for those races withered and died. Neither orc nor dwarf ever made it that far into the Kingswood again.
+But for their part in this massacre, the orcs and dwarves alienated themselves from oaks. [Druidic traditions](/wiki/druids/) for those races withered and died. Neither orc nor dwarf ever made it that far into the Kingswood again.
 
 Meanwhile, the oak loomed large in the goblin imagination as the symbol of their defeated empire. More and more, to be goblin was to be oak. Crafts that worked with oak grew in prestige; oak-based magic proved destructive against orcs and dwarves; and the feeding of oaks with the blood of dissidents and cowards kept the goblins focused on revenge.
 
@@ -33,6 +33,6 @@ Meanwhile, the oak loomed large in the goblin imagination as the symbol of their
 *What is dwarvish stonecunning?
 *What are some of the ingenious galls manufactured by goblins?
 *How does goblin “lightning” work?
-[[Category:Goblins]]
-[[Category:Magic]]
-[[Category:Sanglorian]]
+Category:Goblins
+Category:Magic
+Category:Sanglorian

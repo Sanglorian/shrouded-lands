@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Copperhairs
 ---
-
-#REDIRECT[[Copperhairs]]
-[[Category:Synonyms]]
+#REDIRECT[Copperhairs](/wiki/copperhairs/)
+Category:Synonyms

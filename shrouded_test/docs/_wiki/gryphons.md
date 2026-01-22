@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Griffins
 ---
-
-#REDIRECT[[Griffins]]
-[[Category:Synonyms]]
+#REDIRECT[Griffins](/wiki/griffins/)
+Category:Synonyms

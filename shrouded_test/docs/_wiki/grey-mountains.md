@@ -11,7 +11,7 @@ media: []
 ---
 !['High Pass in Misty Mountains', Neral (CC BY 3.0 Unported)](/media/Cirith_forn_en_andrath.jpg)
 
-Includes hexes: [[09.00]], [[09.01]], [[10.01]], [[11.01]], [[12.00]], [[13.01]], [[14.00]], [[14.01]], [[14.02]], [[15.00]], [[15.01]], [[16.01]], [[18.01]], [[19.01]], [[20.00]], [[21.02]], [[22.00]], [[24.02]], [[26.01]], [[26.02]], [[33.00]], [[33.01]], [[34.00]], [[34.01]], [[37.01]], [[39.00]] and [[46.00]].![](/media/Grey1.png)
+Includes hexes: [09.00](/wiki/09-00/), [09.01](/wiki/09-01/), [10.01](/wiki/10-01/), [11.01](/wiki/11-01/), [12.00](/wiki/12-00/), [13.01](/wiki/13-01/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [14.02](/wiki/14-02/), [15.00](/wiki/15-00/), [15.01](/wiki/15-01/), [16.01](/wiki/16-01/), [18.01](/wiki/18-01/), [19.01](/wiki/19-01/), [20.00](/wiki/20-00/), [21.02](/wiki/21-02/), [22.00](/wiki/22-00/), [24.02](/wiki/24-02/), [26.01](/wiki/26-01/), [26.02](/wiki/26-02/), [33.00](/wiki/33-00/), [33.01](/wiki/33-01/), [34.00](/wiki/34-00/), [34.01](/wiki/34-01/), [37.01](/wiki/37-01/), [39.00](/wiki/39-00/) and [46.00](/wiki/46-00/).![](/media/Grey1.png)
 
 The Grey Mountains form the northern border of the Shrouded Lands. Few humans make their homes here and they are instead dominated by giants in the west, dwarves in the east and orcs and great bears in the central peaks.
 
@@ -44,5 +44,5 @@ Due to ancient magic, in the Shrouded Lands it rains but once a year ([29.14.36]
 *[37.01](/wiki/37-01/) (Mirror Lake): the temple-girded lake where the Prince of Men sleeps.
 *[39.00](/wiki/39-00/) (The Long Prayer): The priests have prophesized that their god will be reborn as a dwarf-child to parents who have never touched iron.
 *[46.00](/wiki/46-00/) (The Maw): a great canyon in which winds from beyond the World’s Edge howl.
-[[Category:The Grey Mountains]]
-[[Category:Regions]]
+Category:The Grey Mountains
+Category:Regions

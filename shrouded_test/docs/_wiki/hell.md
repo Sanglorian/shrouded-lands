@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Hells
 ---
-
-#REDIRECT[[Hells]]
+#REDIRECT[Hells](/wiki/hells/)

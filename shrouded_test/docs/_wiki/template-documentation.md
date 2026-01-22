@@ -15,8 +15,8 @@ media: []
 |-
 | *Note: the template above may sometimes be partially or fully invisible.*
 |-
-| Visit [[Template:{{PAGENAMEE}}/doc]] to edit this documentation. ([[Template:Documentation|How does this work?]])
+| Visit [Template:{{PAGENAMEE}}/doc](/wiki/templatepagenameedoc/) to edit this documentation. ([How does this work?](/wiki/template-documentation/))
 |}
 <div style="margin:0 1em;">
 {{tocright}}
-{{{{PAGENAME}}/doc}}</div></includeonly><noinclude>{{documentation}}[[Category:Template documentation| ]]</noinclude>
+{{{{PAGENAME}}/doc}}</div></includeonly><noinclude>{{documentation}}</noinclude>

@@ -8,6 +8,5 @@ categories:
   - "Category:Animals"
 media: []
 ---
-
-[[Dogs]]
-[[Category:Animals]]
+[Dogs](/wiki/dogs/)
+Category:Animals

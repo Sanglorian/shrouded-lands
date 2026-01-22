@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: The Drow of Olmsted Keep
 ---
-
-#REDIRECT[[The Drow of Olmsted Keep]]
+#REDIRECT[The Drow of Olmsted Keep](/wiki/the-drow-of-olmsted-keep/)

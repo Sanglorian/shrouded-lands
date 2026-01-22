@@ -11,9 +11,8 @@ categories:
   - "Category:Twelve Nations"
 media: []
 ---
-
-![](/media/Alacoda.jpg)Empire of the [[high elves]] and favoured of the [[Green Lady]]. One of the Twelve Nations. Its [[embassies (Shuttered)|embassy in Shuttered]] is bricked up.
-[[Category:Nations]]
-[[Category:Twelve Nations]]
-[[Category:Elves]]
-[[Category:Green Lady]]
+![](/media/Alacoda.jpg)Empire of the [high elves](/wiki/high-elves/) and favoured of the [Green Lady](/wiki/green-lady/). One of the Twelve Nations. Its [embassy in Shuttered](/wiki/embassies-shuttered/) is bricked up.
+Category:Nations
+Category:Twelve Nations
+Category:Elves
+Category:Green Lady

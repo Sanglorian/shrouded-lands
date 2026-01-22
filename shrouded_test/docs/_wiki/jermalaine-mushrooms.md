@@ -8,6 +8,5 @@ categories:
   - "Category:Plants"
 media: []
 ---
-
-Mushrooms grown by the jermalaines of Hearthwright Green ([[19.01]]) shrink those who eat them to jermalaine-size, though only in the city in which the shrooms were prepared.
-[[Category:Plants]]
+Mushrooms grown by the jermalaines of Hearthwright Green ([19.01](/wiki/19-01/)) shrink those who eat them to jermalaine-size, though only in the city in which the shrooms were prepared.
+Category:Plants

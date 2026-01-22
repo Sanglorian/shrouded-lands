@@ -12,8 +12,7 @@ media: []
 is_redirect: true
 redirect_to: Marche of the Winterjarl
 ---
-
-#REDIRECT [[The Marche of the Winterjarl]]
-[[Category:Characters]]
-[[Category:Nordanbjorn]]
-[[Category:The Marche of the Winterjarl]]
+#REDIRECT [The Marche of the Winterjarl](/wiki/the-marche-of-the-winterjarl/)
+Category:Characters
+Category:Nordanbjorn
+Category:The Marche of the Winterjarl

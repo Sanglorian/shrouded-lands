@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: North Gate and South Gate
 ---
-
-#REDIRECT[[North Gate and South Gate]]
+#REDIRECT[North Gate and South Gate](/wiki/north-gate-and-south-gate/)

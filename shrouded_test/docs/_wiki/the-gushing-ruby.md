@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Gushing Ruby
 ---
-
-#REDIRECT [[Gushing Ruby]]
+#REDIRECT [Gushing Ruby](/wiki/gushing-ruby/)

@@ -10,8 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
-[[Elves]] and citizens of [[Alacoda]], one of the [[Twelve Nations]]. No more has been disclosed about them.![](/media/High.jpg)
-[[Category:Elves]]
-[[Category:Alacoda]]
-[[Category:Peoples]]
+[Elves](/wiki/elves/) and citizens of [Alacoda](/wiki/alacoda/), one of the [Twelve Nations](/wiki/twelve-nations/). No more has been disclosed about them.![](/media/High.jpg)
+Category:Elves
+Category:Alacoda
+Category:Peoples

@@ -10,10 +10,9 @@ categories:
   - "Category:Witch Clans"
 media: []
 ---
-
-Live in The Lacuna ([[24.15]])
+Live in The Lacuna ([24.15](/wiki/24-15/))
 
 Not much is known about Clan Yarbeen.
-[[Category:Families]]
-[[Category:Witch Clans]]
-[[Category:The Barrier Range]]
+Category:Families
+Category:Witch Clans
+Category:The Barrier Range

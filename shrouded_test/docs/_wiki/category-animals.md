@@ -24,4 +24,4 @@ I point this out not to limit you, but to inspire! I think it's cool to imagine 
 
 **Americas:** Mocking birds, pumas, hummingbirds, electric eels, blind salamanders, lemurs, spider monkeys, musk rats, coyotes, crayfish, voles, snapping turtles
 
-[[Category:Creatures]]
+Category:Creatures

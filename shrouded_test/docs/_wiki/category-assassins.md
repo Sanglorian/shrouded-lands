@@ -8,5 +8,4 @@ categories:
   []
 media: []
 ---
-
-[[Assassins]]
+[Assassins](/wiki/assassins/)

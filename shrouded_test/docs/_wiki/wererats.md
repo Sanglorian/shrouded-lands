@@ -9,7 +9,6 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
-*A coven of wererats lives in Shotwick ([[14.14]])
-[[Category:Peoples]]
-[[Category:Lycanthropes]]
+*A coven of wererats lives in Shotwick ([14.14](/wiki/14-14/))
+Category:Peoples
+Category:Lycanthropes

@@ -8,9 +8,8 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
 Wiki templates used for image-related purposes.
 
 {{Templatecategory}}
 
-[[Category:Templates]]
+Category:Templates

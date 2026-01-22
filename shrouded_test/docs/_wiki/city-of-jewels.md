@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Jahur
 ---
-
-#REDIRECT[[Jahur]]
-[[Category:Synonyms]]
+#REDIRECT[Jahur](/wiki/jahur/)
+Category:Synonyms

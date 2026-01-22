@@ -9,8 +9,7 @@ categories:
   - "Category:Forums"
 media: []
 ---
+This is a list of topics from the [Watercooler](/wiki/forumwatercooler/).
 
-This is a list of topics from the [[Forum:Watercooler|Watercooler]].
-
-[[Category:Forums]]
-[[Category:community]]
+Category:Forums
+Category:community

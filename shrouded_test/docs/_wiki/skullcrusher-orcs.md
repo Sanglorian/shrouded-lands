@@ -10,9 +10,9 @@ categories:
   - "Category:Tribes"
 media: []
 ---
-Long ago [[The Weeper]]'s daughter was part of a raid that wiped out the warriors of an orcish encampment west of the Titan's Skull ([[33.00]]). In the battle's aftermath the orcish children remained and she faced down a fanatic who sought to put them to the sword and a cutthroat who sought to sell them to the dwarven mines.
+Long ago [The Weeper](/wiki/the-weeper/)'s daughter was part of a raid that wiped out the warriors of an orcish encampment west of the Titan's Skull ([33.00](/wiki/33-00/)). In the battle's aftermath the orcish children remained and she faced down a fanatic who sought to put them to the sword and a cutthroat who sought to sell them to the dwarven mines.
 
-She arranged instead for them to be cared for in a secluded mountain valley ([[13.01]]) within the Winterjarl's marche ([[14.00]]).
+She arranged instead for them to be cared for in a secluded mountain valley ([13.01](/wiki/13-01/)) within the Winterjarl's marche ([14.00](/wiki/14-00/)).
 
 The generations of orcs, and some half-orcs, who have lived there have now become the Skullcrusher Orcs. Although their benefactor has now disappeared, they still remember her and what she has taught them. These orcs do not attack intelligent creatures, although they will defend themselves if attacked. But even then they attempt to smash the limbs of their attackers with the hammers that they customarily carry rather than kill and do not kill children. But orcs (or at least half-orcs) they remain and those who are unable to calm to heat of their blood and commit murder are exiled forever.
 
@@ -28,6 +28,6 @@ These orcs have no gift for farming and are mediocre hunters, but the Weeper's d
 *Have any of the orcs adopted any interesting non-orc orphans?
 *Who would pay the Skullcrusher orcs for their carpentry?
 *What happened to the Weeper's daughter anyway? Who was she? See [46.10](/wiki/46-10/) for a story that might be about her.
-[[Category:Tribes]]
-[[Category:Orcs]]
-[[Category:Half-orcs]]
+Category:Tribes
+Category:Orcs
+Category:Half-orcs

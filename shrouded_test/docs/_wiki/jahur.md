@@ -21,8 +21,8 @@ Shuttered Windows.
 
 Every merchant and romantic in the Shrouded
 Lands longs to set foot in Jahur. Jahur is an
-ancient, exotic city along the [[Sea of Typhoons]].
-The [[Zhuriman Empire]] established it as an
+ancient, exotic city along the [Sea of Typhoons](/wiki/sea-of-typhoons/).
+The [Zhuriman Empire](/wiki/zhuriman-empire/) established it as an
 overseas gem mining colony long centuries ago.
 When the empire collapsed, the city became
 one of the few gateways between the Shrouded
@@ -37,7 +37,7 @@ Many
 are
 practically
 abandoned, but they remain well-maintained by
-mechanical custodians known as the [[Janissaries]].
+mechanical custodians known as the [Janissaries](/wiki/janissaries/).
 The Janissaries are animated metallic constructs
 painted in a mockery of humanity. Each
 Janissary contains the soul of a worthy servant or
@@ -57,7 +57,7 @@ their wills.
 Despite keeping trappings of the old empire,
 Jahur adopted a strange deity known as Iano.
 He is depicted as a man with a single head, but
-two faces ([[19.31]].03). As god who allegedly sees
+two faces ([19.31](/wiki/19-31/).03). As god who allegedly sees
 all that was and all that will come, he is popular
 among merchants. The prophet of Iano is said to
 have the same deformity of his god, and that he
@@ -65,7 +65,7 @@ descended from the moon. Some believe he still
 dwells deep within the Temple of All Time.
 
 Jahur maintains relations with Shuttered and the
-City of Smoke ([[51.29]]), which is called the Burning
+City of Smoke ([51.29](/wiki/51-29/)), which is called the Burning
 City in these parts. Their jewel-laden caravans
 are protected by columns of Janissaries as well
 as more conventional guards.
@@ -77,7 +77,7 @@ Shrouded Lands are popular. But they don't go in
 for the north's naturalistic paintings. Too much
 brown and gray, they mutter. Accordion music is
 popular among working class Jahuri because it
-enhances bucket kelp hallucinations ([[19.31]].04).
+enhances bucket kelp hallucinations ([19.31](/wiki/19-31/).04).
 
 A Jahuri man's vitality is measured by his beard
 and mustache. Thin-haired men may spend
@@ -106,15 +106,15 @@ marriage, mostly due to a having cruel or greedy
 father, may flee their families to become
 adventurers or concubines.
 ## Features
-*[[Duxton Academy]] is an orphanage that sunk below the waves but continues to operate.
-*The [[Ghoul in the Gilded Cage]] is suspended above the ichor of the Sublime Divan
-*The [[Undying Cycles of Creation]] is the calendar used by local diviners - it also reflects the old faith of Jahur.
-*[[Lunfar]] sells the best illegal maps in Jahur.
-*[[Isane the Beauty]] is a concubine who maintains an extensive snake library.
-*[[Bloodwretches]] are used in Jahur's army and manufacturies.
-*The [[Serendips]] are a prominent family here, running casinos and the Botanical Gardens.
-*The [[Inconsolable]]
-*The [[Dead Fish]]
+*[Duxton Academy](/wiki/duxton-academy/) is an orphanage that sunk below the waves but continues to operate.
+*The [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/) is suspended above the ichor of the Sublime Divan
+*The [Undying Cycles of Creation](/wiki/undying-cycles-of-creation/) is the calendar used by local diviners - it also reflects the old faith of Jahur.
+*[Lunfar](/wiki/lunfar/) sells the best illegal maps in Jahur.
+*[Isane the Beauty](/wiki/isane-the-beauty/) is a concubine who maintains an extensive snake library.
+*[Bloodwretches](/wiki/bloodwretches/) are used in Jahur's army and manufacturies.
+*The [Serendips](/wiki/serendips/) are a prominent family here, running casinos and the Botanical Gardens.
+*The [Inconsolable](/wiki/inconsolable/)
+*The [Dead Fish](/wiki/dead-fish/)
 
 ## Subhexes:
 [19.31.01](/wiki/19-31/) (Viceroy Orhan‘s Madness): the city‘s treasurer has not been himself since a botched assassination attempt.
@@ -146,21 +146,21 @@ adventurers or concubines.
 *What dives do adventurers haunt?
 
 ## People
-[[Viceroy Orhan]]: Jahur has been on edge since [[Viceroy Orhan]], the city's treasurer, was attacked in his bedchamber last month.
+[Viceroy Orhan](/wiki/viceroy-orhan/): Jahur has been on edge since [Viceroy Orhan](/wiki/viceroy-orhan/), the city's treasurer, was attacked in his bedchamber last month.
 
-[[Erebus]]: The Last Fiendslayer is staying at The Gushing Ruby, a tavern in the blue quarter.
+[Erebus](/wiki/erebus/): The Last Fiendslayer is staying at The Gushing Ruby, a tavern in the blue quarter.
 ## Execution in Jahur ('Death in the Old Way')
 *Inspired by:* Goblin Punch ([http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire'])
 
-In Jahur, they reserve an ancient punishment for the worst criminals: murderers, kidnappers and vendors of [[quicksilver]]. It is to be hung from the walls of the city by the hands, with the feet weighed down by a chunk of lead in the shape of a giant sword.
+In Jahur, they reserve an ancient punishment for the worst criminals: murderers, kidnappers and vendors of [quicksilver](/wiki/quicksilver/). It is to be hung from the walls of the city by the hands, with the feet weighed down by a chunk of lead in the shape of a giant sword.
 
-The practice is rare these days, a disappointment to Jahur’s swordsmen and women. A sword forged from metal that once hanged a murderer (an ‘[[executor blades|executor blade]]’) is considered one of the most formiddable weapons in the Shrouded Lands.
+The practice is rare these days, a disappointment to Jahur’s swordsmen and women. A sword forged from metal that once hanged a murderer (an ‘[executor blade](/wiki/executor-blades/)’) is considered one of the most formiddable weapons in the Shrouded Lands.
 
-The [[Duke of Thring|Duke]] fights with such a sword, an heirloom used ever since [[Broderick]]’s sword [[Caledbrand]] became animated by that unfortunate ghost.
+The [Duke](/wiki/duke-of-thring/) fights with such a sword, an heirloom used ever since [Broderick](/wiki/broderick/)’s sword [Caledbrand](/wiki/caledbrand/) became animated by that unfortunate ghost.
 
-One criminal hangs to this day. He is a [[vampires|vampire]], unkillable by this method. He was fortunately - or unfortunately - positioned in a nook in the wall so direct sunlight never touches his flesh. Even the ambient light is enough to blister and warp his skin.
+One criminal hangs to this day. He is a [vampire](/wiki/vampires/), unkillable by this method. He was fortunately - or unfortunately - positioned in a nook in the wall so direct sunlight never touches his flesh. Even the ambient light is enough to blister and warp his skin.
 
-A [[Viceroys|Viceroy]] will sometimes drag the vampire up to the wall’s upper edge for questioning about supernatural events in the city. His answers are always rewarded with a full meal.
+A [Viceroy](/wiki/viceroys/) will sometimes drag the vampire up to the wall’s upper edge for questioning about supernatural events in the city. His answers are always rewarded with a full meal.
 ### Hooks
 *Why are these swords so effective?
 *Who else has such a weapon?
@@ -231,7 +231,7 @@ From the ceilings of some of the caves hang archaes, which look like stalactites
 *What power do the masons wield in the city?
 
 ## The Lampbearing Octoid
-An [[octoids|octoid]] will approach strangers and then lead them on a path through Jahur. The path is never to their intended destination, but the octoid always leads people to a serendipitous meeting, usually in a part of town that they’ve never visited. Perhaps they meet a former lover by the quayside or a man idle comes across a party reading themselves for adventure.
+An [octoid](/wiki/octoids/) will approach strangers and then lead them on a path through Jahur. The path is never to their intended destination, but the octoid always leads people to a serendipitous meeting, usually in a part of town that they’ve never visited. Perhaps they meet a former lover by the quayside or a man idle comes across a party reading themselves for adventure.
 
 The octoid takes advantage of the lucky encounter to scurry off, its lamp trailing in one tentacle behind it.
 
@@ -240,7 +240,7 @@ The octoid takes advantage of the lucky encounter to scurry off, its lamp traili
 *How does it know to arrange these encounters?
 *Who owes their marriage to the octoid’s guidance?
 *Is there a reliable way of finding or summoning the octoid?
-[[Category:Jahur]]
-[[Category:Cities]]
-[[Category:Sea of Typhoons]]
-[[Category:Inspired by]]
+Category:Jahur
+Category:Cities
+Category:Sea of Typhoons
+Category:Inspired by

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Death's Lovelies
 ---
-
-#REDIRECT [[Death's Lovelies]]
+#REDIRECT [Death's Lovelies](/wiki/death's-lovelies/)

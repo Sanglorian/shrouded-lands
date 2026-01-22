@@ -8,7 +8,6 @@ categories:
   - "Category:Organization"
 media: []
 ---
+The category is for pages relating to the [Forum](/wiki/forumindex/).
 
-The category is for pages relating to the [[Forum:Index|Forum]].
-
-[[Category:Organization]]
+Category:Organization

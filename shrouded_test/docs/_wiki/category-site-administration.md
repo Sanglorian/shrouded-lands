@@ -8,7 +8,6 @@ categories:
   - "Category:Organization"
 media: []
 ---
-
 Content regarding the administration of this site.
 
-[[Category:Organization|Administration]]
+Administration

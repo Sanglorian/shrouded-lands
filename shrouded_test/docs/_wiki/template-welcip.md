@@ -9,7 +9,6 @@ media: []
 is_redirect: true
 redirect_to: template:welcomeIP
 ---
-
-#REDIRECT [[template:welcomeIP]]
+#REDIRECT [template:welcomeIP](/wiki/templatewelcomeip/)
 
 <!-- this shorter version is for people in a hurry -->

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lost Colony
 ---
-
-#REDIRECT [[Lost Colony]]
+#REDIRECT [Lost Colony](/wiki/lost-colony/)

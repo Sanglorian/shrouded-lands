@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Galeb duhr
 ---
-
-#REDIRECT [[Galeb duhr]]
+#REDIRECT [Galeb duhr](/wiki/galeb-duhr/)

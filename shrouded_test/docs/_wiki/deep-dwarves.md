@@ -14,7 +14,7 @@ Connects to: [29.14.13](/wiki/29-14/), [33.00](/wiki/33-00/), [31.27](/wiki/31-2
 
 The deep dwarves are creatures whose bodies are thin and twisted when compared to the stout forms of other dwarves. All of these ultra-traditionalist dwarves live deep under the Titan Skull ([33.00](/wiki/33-00/)) and rarely emerge, only doing so veiled and cloaked to ward off the hated rays of the sun.
 
-Well, all of them except for those of Nororak who dwell under the ash and grass of the Burning Lands (in [[29.24]]). Some years ago, they stumbled out of a tunnel-less hill one moonless night, shrieking that they must be brought belowground before the hated rays of the sun could strike their faces.
+Well, all of them except for those of Nororak who dwell under the ash and grass of the Burning Lands (in [29.24](/wiki/29-24/)). Some years ago, they stumbled out of a tunnel-less hill one moonless night, shrieking that they must be brought belowground before the hated rays of the sun could strike their faces.
 
 The perplexed herdsmen of a local sept of Burning Lands dwarves ([31.27](/wiki/31-27/)) took them to a nearby gully where they began digging furiously. Over the years, the small pit that they dug has deepened into the holding of Nororak, a dismal place.
 
@@ -34,6 +34,6 @@ As far as the other races, gnomes have their eyes gouged out, lizardmen ([41.24]
 *Who was Dazak Ashtongued and why did he decree cave lichen as a means of exchange? Who the hell wants cave lichen?
 *How do the dwarves of the Burning Lands get their hands on cave lichen to pay the dwarves of Nororak with?
 *Tell me about some of the septs of the Burning Lands dwarves.
-[[Category:Dwarves]]
-[[Category:Peoples]]
-[[Category:The Burning Lands]]
+Category:Dwarves
+Category:Peoples
+Category:The Burning Lands

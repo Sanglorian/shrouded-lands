@@ -9,7 +9,7 @@ categories:
 media: []
 ---
 ![JesicaLR (CC BY-SA 3.0 Unported)](/media/Gandalf.png)
-: **Mages** and **Thaumaturges** redirect here. For the nomenclature of spellcasters, see [[Spellcasting]].
+: **Mages** and **Thaumaturges** redirect here. For the nomenclature of spellcasters, see [Spellcasting](/wiki/spellcasting/).
 *Melnir was a heroic mage of old who struck the earth with his staff to summon a stream of magma that became a volcano ([51.12](/wiki/51-12/)). 
 *The Witch-Queen of Cragsend was a mage. 
 *Vilenius Arkhaus is an arch-mage and Wizard-Architect (also described as a magic-mason). It is unclear if other wizard-architects or magic-masons exist. 
@@ -22,4 +22,4 @@ media: []
 *Unwerth the Immense appears to be a wizard bachelor. 
 *Taliah Bartleby is a hedge-wizardess. 
 *Sala Olmsted is resident wizard of Olmsted Keep ([31.04](/wiki/31-04/)). 
-[[Category:Professions]]
+Category:Professions

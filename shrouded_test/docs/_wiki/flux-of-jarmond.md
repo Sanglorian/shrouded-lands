@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Jarmond's flux
 ---
-
-#REDIRECT[[Jarmond's flux]]
+#REDIRECT[Jarmond's flux](/wiki/jarmond's-flux/)

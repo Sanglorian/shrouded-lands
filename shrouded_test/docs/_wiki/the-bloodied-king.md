@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Bloodied King
 ---
-
-#REDIRECT [[Bloodied King]]
+#REDIRECT [Bloodied King](/wiki/bloodied-king/)

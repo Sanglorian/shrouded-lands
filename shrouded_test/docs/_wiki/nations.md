@@ -12,24 +12,24 @@ media: []
 ### Other nations
 *![](/media/Nations.png)Possibly among the Twelve Nations*
 
-*[[Adherion]]
+*[Adherion](/wiki/adherion/)
 *Zamorqy
-*[[Zhuriman Empire|Zhuriman]]
-### The [[Twelve Nations]]
-*[[Alacoda]], empire of the [[high elves]] and favoured of the [[Green Lady]]
-*[[Golden Realm]]
-*[[Grumluda]], domain of the Eternal-King-of-All-Orcs and importer of ferocious beasts
-*[[Naros]] (fallen)
+*[Zhuriman](/wiki/zhuriman-empire/)
+### The [Twelve Nations](/wiki/twelve-nations/)
+*[Alacoda](/wiki/alacoda/), empire of the [high elves](/wiki/high-elves/) and favoured of the [Green Lady](/wiki/green-lady/)
+*[Golden Realm](/wiki/golden-realm/)
+*[Grumluda](/wiki/grumluda/), domain of the Eternal-King-of-All-Orcs and importer of ferocious beasts
+*[Naros](/wiki/naros/) (fallen)
 *[Minotaur nation] (conquered by orcs)
 
 ### The Sunset Lands
-*[[Imperium Undying]]
-### [[Lost nations]]
-*[[Naros]] [one of the Twelve Nations] (nation)
-*[[The Lands of Gore#High Kings of Gore|The High Kingdom of Gore]] (nation)
-*[[Andara]] (nation)
-*[[Serpantia]] (nation)
+*[Imperium Undying](/wiki/imperium-undying/)
+### [Lost nations](/wiki/lost-nations/)
+*[Naros](/wiki/naros/) [one of the Twelve Nations] (nation)
+*[The High Kingdom of Gore](/wiki/the-lands-of-gore/) (nation)
+*[Andara](/wiki/andara/) (nation)
+*[Serpantia](/wiki/serpantia/) (nation)
 *Hyadovere (colony)
 *Bergolast (city)
 *Othonoi (island civilisation)
-[[Category:Nations]]
+Category:Nations

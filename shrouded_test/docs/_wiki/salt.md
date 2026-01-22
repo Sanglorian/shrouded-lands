@@ -9,13 +9,12 @@ categories:
   - "Category:Victuals"
 media: []
 ---
+Salt from [beyond the World's Edge](/wiki/the-world's-edge-and-beyond/) makes people more docile and obedient ([44.03](/wiki/44-03/)), which Cleramon has taken advantage of ([46.02](/wiki/46-02/))
 
-Salt from [[The World's Edge and Beyond|beyond the World's Edge]] makes people more docile and obedient ([[44.03]]), which Cleramon has taken advantage of ([[46.02]])
+Salt from The Least Ocean robs people of their passions ([12.29](/wiki/12-29/)).
 
-Salt from The Least Ocean robs people of their passions ([[12.29]]).
+Salt from [The Bitter Coast](/wiki/the-bitter-coast/) makes people melancholy.
 
-Salt from [[The Bitter Coast]] makes people melancholy.
-
-Drinking from a fountain in the Forgotten City-State reminds people of their faults and failings ([[22.25]])
-[[Category:Phenomena]]
-[[Category:Victuals]]
+Drinking from a fountain in the Forgotten City-State reminds people of their faults and failings ([22.25](/wiki/22-25/))
+Category:Phenomena
+Category:Victuals

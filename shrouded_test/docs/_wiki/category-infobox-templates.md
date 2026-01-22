@@ -8,9 +8,8 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
 A listing of wiki infobox templates.
 
 {{Templatecategory}}
 
-[[Category:Templates]]
+Category:Templates

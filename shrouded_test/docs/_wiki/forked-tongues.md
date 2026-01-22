@@ -8,6 +8,5 @@ categories:
   - "Category:Phenomena"
 media: []
 ---
-
-By Archet ([[15.13]]) is buried a hatchet. When one's tongue is sliced lengthsways by the hatchet, one's lies are undetectable except by those who know of the hatchet, who suspect the forked tongued person of always lying.
-[[Category:Phenomena]]
+By Archet ([15.13](/wiki/15-13/)) is buried a hatchet. When one's tongue is sliced lengthsways by the hatchet, one's lies are undetectable except by those who know of the hatchet, who suspect the forked tongued person of always lying.
+Category:Phenomena

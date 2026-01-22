@@ -8,7 +8,6 @@ categories:
   - "Category:Watercooler"
 media: []
 ---
-
 {{Forumheader|Watercooler}}
 
 <!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes ~~~~ -->

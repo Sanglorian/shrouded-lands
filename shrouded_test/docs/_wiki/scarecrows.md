@@ -26,6 +26,6 @@ media: []
 *What are travellers’ marks like?
 *Why does the hawthorn rod repulse the elves?
 *Who are some famous Scarecrows?
-[[Category:Organisations]]
-[[Category:Scarecrows]]
-[[Category:Professions]]
+Category:Organisations
+Category:Scarecrows
+Category:Professions

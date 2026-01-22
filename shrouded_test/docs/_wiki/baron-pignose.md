@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Horvath Pignose
 ---
-
-#REDIRECT [[Horvath Pignose]]
+#REDIRECT [Horvath Pignose](/wiki/horvath-pignose/)

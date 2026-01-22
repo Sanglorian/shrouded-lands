@@ -11,8 +11,8 @@ media: []
 <div name="Deletion notice" class="boilerplate metadata" id="delete" style="background-color:#fee; margin:1em; padding:0 10px; border:1px solid #aaa;">
 **This page is a candidate for deletion.**
 
-If you disagree with its deletion, please explain why at [[Category talk:Candidates for deletion]] or improve the page and remove the <code>{{t|delete}}</code> tag.
+If you disagree with its deletion, please explain why at [Category talk:Candidates for deletion](/wiki/category-talkcandidates-for-deletion/) or improve the page and remove the <code>{{t|delete}}</code> tag.
 
-Remember to check [[Special:Whatlinkshere/{{FULLPAGENAME}}|what links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deleting.
-</div><includeonly>[[Category:Candidates for deletion]]</includeonly><noinclude>
+Remember to check [what links here](/wiki/specialwhatlinksherefullpagename/) and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] before deleting.
+</div><includeonly>Category:Candidates for deletion</includeonly><noinclude>
 {{documentation}}</noinclude>

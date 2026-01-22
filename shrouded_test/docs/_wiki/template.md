@@ -8,6 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 <onlyinclude>|</onlyinclude>
 {{documentation}}

@@ -9,7 +9,7 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-What surer way to win favour with [[Alberon]] than to aid his church in this realm? Such was the logic of the citizens of Shuttered, who flooded the holy places to labour for Heaven. These unskilled workers resulted in shoddy construction and a builders' union strike.
+What surer way to win favour with [Alberon](/wiki/alberon/) than to aid his church in this realm? Such was the logic of the citizens of Shuttered, who flooded the holy places to labour for Heaven. These unskilled workers resulted in shoddy construction and a builders' union strike.
 
 The Temple reformed. No longer can people work for Alberon whenever they wish. They must present coins that entitle them to donate their time.
 
@@ -21,5 +21,5 @@ Of course, there is no way to stop people from on-selling the alms to others. Ho
 *Who has been pressed by the Temple? Can they press anyone?
 *What projects is the Temple using the labour on?
 *There is - or was - a builders' union? What are its relations with the authorities?
-[[Category:The Shuttered City]]
-[[Category:Alberon]]
+Category:The Shuttered City
+Category:Alberon

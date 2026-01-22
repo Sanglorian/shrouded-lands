@@ -8,7 +8,6 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 {| class="{{{class|}}}" style="background-color:{{{bgColor|transparent}}}; color:{{{fontColor|inherit}}}; width:{{{width|100%}}};"
 |-
 |<noinclude>

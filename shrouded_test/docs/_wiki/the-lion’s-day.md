@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Lion's Day
 ---
-
-#REDIRECT[[Lion's Day]]
-[[Category:Synonyms]]
+#REDIRECT[Lion's Day](/wiki/lion's-day/)
+Category:Synonyms

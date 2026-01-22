@@ -8,8 +8,7 @@ categories:
   - "Category:Disambiguation"
 media: []
 ---
+Isane most commonly refers to [Isane the Beauty](/wiki/isane-the-beauty/), a concubine in [Jahur](/wiki/jahur/).
 
-Isane most commonly refers to [[Isane the Beauty]], a concubine in [[Jahur]].
-
-[[Isane and Orsine]] are conjoined twins and sorceresses that rule Sladder ([[44.17]]).
-[[Category:Disambiguation]]
+[Isane and Orsine](/wiki/isane-and-orsine/) are conjoined twins and sorceresses that rule Sladder ([44.17](/wiki/44-17/)).
+Category:Disambiguation

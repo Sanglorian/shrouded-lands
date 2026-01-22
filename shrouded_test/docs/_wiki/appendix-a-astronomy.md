@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Phenomena
 ---
-
-#REDIRECT [[Phenomena]]
+#REDIRECT [Phenomena](/wiki/phenomena/)

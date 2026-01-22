@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: The Hoard
 ---
-
-#REDIRECT[[The Hoard]]
+#REDIRECT[The Hoard](/wiki/the-hoard/)

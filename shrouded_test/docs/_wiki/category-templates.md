@@ -10,6 +10,6 @@ media: []
 ---
 This is the base category for **templates**. Templates should be placed in appropriate subcategories.
 
-See [[Project:Templates]] for collated information on templates.
+See [Project:Templates](/wiki/projecttemplates/) for collated information on templates.
 
-[[Category:Organization]]
+Category:Organization

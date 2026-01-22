@@ -8,8 +8,7 @@ categories:
   - "Category:Disambiguation"
 media: []
 ---
-
 You may be looking for:
-*The [[blind Doge]], the current Doge of the [[Shuttered City]]
-*[[Doges]] of the Shuttered City
-[[Category:Disambiguation]]
+*The [blind Doge](/wiki/blind-doge/), the current Doge of the [Shuttered City](/wiki/shuttered-city/)
+*[Doges](/wiki/doges/) of the Shuttered City
+Category:Disambiguation

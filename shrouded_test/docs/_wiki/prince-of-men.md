@@ -12,28 +12,28 @@ media: []
 ---
 ![](/media/290703.png)Connects to: [19.31.03](/wiki/19-31/), [37.01](/wiki/37-01/) and [39.12](/wiki/39-12/).
 
-The [[elves]] of [[the Kingswood]] refuse to say much of
+The [elves](/wiki/elves/) of [the Kingswood](/wiki/the-kingswood/) refuse to say much of
 him and some say they have forgotten nearly all,
-but the famed historian [[Sabrek of Ungolath]] 
+but the famed historian [Sabrek of Ungolath](/wiki/sabrek-of-ungolath/) 
 makes the following conjectures: long centuries
-past the Prince was the heir to the [[Imperium Undying]], which once lay across [[the Ocean of Bitter Regrets]] ([00.06](/wiki/00-06/)) and claimed imperium over
+past the Prince was the heir to the [Imperium Undying](/wiki/imperium-undying/), which once lay across [the Ocean of Bitter Regrets](/wiki/the-ocean-of-bitter-regrets/) ([00.06](/wiki/00-06/)) and claimed imperium over
 all men. However, before he could he could
-claim the [[Sun Throne]] he was betrayed by his
+claim the [Sun Throne](/wiki/sun-throne/) he was betrayed by his
 beloved sister and his bastard half-brother. He
 fled in exile to the Shrouded Lands around the
 Kingswood in order to raise an army in the
 Imperium's colonies across the ocean.
 
 However, the colonists lacked the timber to
-create a fleet capable of weathering the [[Prismatic Storms]] that wrack much of the Sea of
+create a fleet capable of weathering the [Prismatic Storms](/wiki/prismatic-storms/) that wrack much of the Sea of
 Bitter Regrets and the Prince of Men cast his
 covetous eyes upon the proud trees of the
 Kingswood. The elves promised him all of the
 timber his men could haul and much other help
-besides if he became a signatory of the ancient [[Seelie Accords]] that shared out elfish lands
+besides if he became a signatory of the ancient [Seelie Accords](/wiki/seelie-accords/) that shared out elfish lands
 between the Seelie and Unseelie elves and
-returned to the elves the precious [[Seal of the One King]] that had been lost beneath the waters
-of the Mirror Lake ([[37.01]]).
+returned to the elves the precious [Seal of the One King](/wiki/seal-of-the-one-king/) that had been lost beneath the waters
+of the Mirror Lake ([37.01](/wiki/37-01/)).
 
 The Prince was a brave and powerful man and
 with all of the sorcery of the Sunset Lands to aid
@@ -47,16 +47,16 @@ lake and that he will rise again one day with the
 Seal of the One King in his hand and bend all
 mankind to his will.
 ### Connection:
-*A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([[39.12]]).
-*For hints about the ancient religion of the Prince of Men, see ([[19.31]].03).
+*A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([39.12](/wiki/39-12/)).
+*For hints about the ancient religion of the Prince of Men, see ([19.31](/wiki/19-31/).03).
 ### Hooks:
 *What did Sabrek get wrong?
-*Where is [[Ungolath]]?
+*Where is [Ungolath](/wiki/ungolath/)?
 *What happened to the Imperium Undying?
 *Where are the remnants of an ancient Imperial colony?
 *Are the local humans the descendants of these colonists? Did they build Shuttered or are the separate from the local humans?
 *What are the Prismatic Storms and why would wood from Kingswood trees keep your boat safe from them?
 *What else do the Seelie Accords specify?
-[[Category:Characters]]
-[[Category:Humans]]
-[[Category:Elves]]
+Category:Characters
+Category:Humans
+Category:Elves

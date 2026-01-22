@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Supendar
 ---
-
-#REDIRECT[[Supendar]]
-[[Category:Synonyms]]
+#REDIRECT[Supendar](/wiki/supendar/)
+Category:Synonyms

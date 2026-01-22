@@ -11,13 +11,13 @@ categories:
   - "Category:The Keening Sea"
 media: []
 ---
-Eels are found in the shallows of the [[Keening Sea]], where [[Rogdag]] eats them.
+Eels are found in the shallows of the [Keening Sea](/wiki/keening-sea/), where [Rogdag](/wiki/rogdag/) eats them.
 
-[[Severard]]'s eel chowder was not well received by his apprentices.
+[Severard](/wiki/severard/)'s eel chowder was not well received by his apprentices.
 
 ## See also
-*[[Electric eels]]
-[[Category:Eels]]
-[[Category:Animals]]
-[[Category:Fish]]
-[[Category:The Keening Sea]]
+*[Electric eels](/wiki/electric-eels/)
+Category:Eels
+Category:Animals
+Category:Fish
+Category:The Keening Sea

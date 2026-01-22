@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Creatures
 ---
-
-#REDIRECT [[Creatures]]
+#REDIRECT [Creatures](/wiki/creatures/)

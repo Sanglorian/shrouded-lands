@@ -9,9 +9,8 @@ categories:
   - "Category:Help"
 media: []
 ---
+This is a list of topics from [Forum:Help desk](/wiki/forumhelp-desk/).  
 
-This is a list of topics from [[Forum:Help desk]].  
+For other sources of help, please see :Category:Help.
 
-For other sources of help, please see [[:Category:Help]].
-
-[[Category:Forums]] [[category:help]]
+Category:Forums [category:help](/wiki/categoryhelp/)

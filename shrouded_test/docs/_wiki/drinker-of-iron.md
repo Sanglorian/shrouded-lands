@@ -9,8 +9,7 @@ categories:
   - "Category:Dwarves"
 media: []
 ---
-
-*The namesake of the [[Drinker's Stein]].
-*The Drinker's Mouth ([[04.02]]) is holy to his-her followers.
-[[Category:Dwarves]]
-[[Category:Deities]]
+*The namesake of the [Drinker's Stein](/wiki/drinker's-stein/).
+*The Drinker's Mouth ([04.02](/wiki/04-02/)) is holy to his-her followers.
+Category:Dwarves
+Category:Deities

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lars
 ---
-
-#REDIRECT[[Lars]]
+#REDIRECT[Lars](/wiki/lars/)

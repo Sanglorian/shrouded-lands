@@ -8,7 +8,7 @@ categories:
   - "Category:Plants"
 media: []
 ---
-![](/media/Egon_Schiele_034.jpg)The wood for skyships grows in the deep woods beyond the World’s Edge ([[48.02]]).
+![](/media/Egon_Schiele_034.jpg)The wood for skyships grows in the deep woods beyond the World’s Edge ([48.02](/wiki/48-02/)).
 
 Lufwood trees and seeds are lighter than air. They sometimes stay rooted in the ground, but if freed float and either get tangled in the foliage of other trees or shoot off into the sky. A burial practice is to tie the corpse to a lufwood tree and shake it loose, so the body can explore the cosmos.
 
@@ -20,4 +20,4 @@ Because lufwood seeds also float, their lifecycle depends on shalebats, large sc
 *Are shalebats dangerous?
 *What else has been built of lufwood?
 *Who practices lufwood burials?
-[[Category:Plants]]
+Category:Plants

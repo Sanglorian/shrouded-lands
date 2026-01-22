@@ -8,9 +8,8 @@ categories:
   - "Category:Templates"
 media: []
 ---
-
-General wiki templates. Templates in this category will likely have a description on the [[Project:Templates|templates project page]]. If not, they probably deserve one.
+General wiki templates. Templates in this category will likely have a description on the [templates project page](/wiki/projecttemplates/). If not, they probably deserve one.
 
 {{Templatecategory}}
 
-[[Category:Templates]]
+Category:Templates

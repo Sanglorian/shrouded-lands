@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Leylines
 ---
-
-#REDIRECT [[Leylines]]
+#REDIRECT [Leylines](/wiki/leylines/)

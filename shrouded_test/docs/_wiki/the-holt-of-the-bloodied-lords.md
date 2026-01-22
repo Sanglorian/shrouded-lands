@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: '03.31'
 ---
-
-#REDIRECT[[03.31]]
+#REDIRECT[03.31](/wiki/03-31/)

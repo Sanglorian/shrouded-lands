@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Forest of Abominations
 ---
-
-#REDIRECT [[Forest of Abominations]]
+#REDIRECT [Forest of Abominations](/wiki/forest-of-abominations/)

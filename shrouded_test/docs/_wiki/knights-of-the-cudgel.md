@@ -15,7 +15,7 @@ The leader of their order is known as the Spellknight. He alone can conjure the 
 
 Before the band of landless knights that would become the Cudgels seized this forest (**Birlwood Hold**), it was home to the **Birls**, a witch clan. As the wooden gargoyles the Birls breathed life into resisted steel but were vulnerable to wood, the first Spellknight Sir Eclan the Lame and his knights fashioned cudgels and used them to destroy the gargoyles.
 
-Sir Codwise has bred the [[chicken dragons]].
+Sir Codwise has bred the [chicken dragons](/wiki/chicken-dragons/).
 #### Connection:
 *The Spellknight has been polymorphing chickens into dragons in an attempt to harvest dragon blood, at least one of these chicken dragons has escaped ([19.15](/wiki/19-15/)).
 #### Hooks:
@@ -23,5 +23,5 @@ Sir Codwise has bred the [[chicken dragons]].
 *What properties do their enchanted cudgels hold?
 *Is the Phantom Steed a demon, or something else?
 *What is Sir Codwise the Old up to in his dealings with the Necromantic Office? Who are some pretenders to his leadership?
-[[Category:The Duchy of Thring]]
-[[Category:Organisations]]
+Category:The Duchy of Thring
+Category:Organisations

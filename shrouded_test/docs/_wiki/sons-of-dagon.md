@@ -11,7 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Abyss Diamonds
 ---
-
-#REDIRECT[[Abyss Diamonds]]
-[[Category:Deities]]
-[[Category:Religious groups]]
+#REDIRECT[Abyss Diamonds](/wiki/abyss-diamonds/)
+Category:Deities
+Category:Religious groups

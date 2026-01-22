@@ -8,5 +8,5 @@ categories:
   - "Category:Languages"
 media: []
 ---
-A language spoken by circus folk, travellers, sexual deviants and [[Scarecrows]].
-[[Category:Languages]]
+A language spoken by circus folk, travellers, sexual deviants and [Scarecrows](/wiki/scarecrows/).
+Category:Languages

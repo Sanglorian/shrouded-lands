@@ -12,15 +12,15 @@ This category includes matters that should be examined from time to time by cont
 
 Whenever there is nothing more to attend to in subcategories or articles below, such contributors are urged to look at:
 
-***[[Forum:Help desk]]**
-*[[Project:Community Portal|The community portal]]
-*[[Special:Log/protect]]
-*[[Special:BrokenRedirects]]
-*[[Special:DoubleRedirects]]
-*[[Special:Uncategorizedcategories]]
-*[[Special:Uncategorizedimages]]
-*[[Special:Uncategorizedpages]]
-*[[Special:Wantedcategories]]
+***[Forum:Help desk](/wiki/forumhelp-desk/)**
+*[The community portal](/wiki/projectcommunity-portal/)
+*[Special:Log/protect](/wiki/speciallogprotect/)
+*[Special:BrokenRedirects](/wiki/specialbrokenredirects/)
+*[Special:DoubleRedirects](/wiki/specialdoubleredirects/)
+*[Special:Uncategorizedcategories](/wiki/specialuncategorizedcategories/)
+*[Special:Uncategorizedimages](/wiki/specialuncategorizedimages/)
+*[Special:Uncategorizedpages](/wiki/specialuncategorizedpages/)
+*[Special:Wantedcategories](/wiki/specialwantedcategories/)
 
 
-[[Category:Organization|Maintenance]]
+Maintenance

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Haverlies and Cransoms
 ---
-
-#REDIRECT[[Haverlies and Cransoms]]
+#REDIRECT[Haverlies and Cransoms](/wiki/haverlies-and-cransoms/)

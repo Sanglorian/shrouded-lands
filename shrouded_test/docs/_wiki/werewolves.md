@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lycanthropes
 ---
-
-#REDIRECT[[Lycanthropes]]
+#REDIRECT[Lycanthropes](/wiki/lycanthropes/)

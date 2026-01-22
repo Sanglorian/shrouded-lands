@@ -10,9 +10,9 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-:See also [[Temple of Alberon (disambiguation)]]
+:See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
 
-According to the Reluctant Temple of Alberon, the [[Time of Schisms]] broke out because a quiet rural preacher revealled to the high priests of [[Alberon]] that the God of [[Shuttered]] is a slave to that city.
+According to the Reluctant Temple of Alberon, the [Time of Schisms](/wiki/time-of-schisms/) broke out because a quiet rural preacher revealled to the high priests of [Alberon](/wiki/alberon/) that the God of [Shuttered](/wiki/shuttered/) is a slave to that city.
 
 According to this heterodox teaching, Alberon is a hideous entity from outside this dimension who ruled the City of Many Windows before it was a part of the Shrouded Lands. When the City merged with the Lands, he made plans to conquer the world and subject it to the rule of the Lord of Pain.
 
@@ -20,7 +20,7 @@ But first he demanded total obedience from his citizenry. He made himself a god.
 
 Whether through deliberate sabotage by some of his freshly-minted priesthood, or the subconscious civic pride of the citizenry, the god-king’s worshippers strongly associated him with the City.
 
-When Alberon mustered his forces, he led the march down the [[Street of Small Gods]] on a fiery chariot pulled by [[burning eagles]]. But he fell off his chariot as it passed the [[North Gate]].
+When Alberon mustered his forces, he led the march down the [Street of Small Gods](/wiki/street-of-small-gods/) on a fiery chariot pulled by [burning eagles](/wiki/burning-eagles/). But he fell off his chariot as it passed the [North Gate](/wiki/north-gate/).
 
 He was the god of the City of Many Windows, and could not pass beyond its walls. His plans for domination were frustrated. Now, he plots the expansion of Shuttered and hopes one day it will cover the world.
 
@@ -29,6 +29,6 @@ He was the god of the City of Many Windows, and could not pass beyond its walls.
 *And how about the embassies in Shuttered?
 *How could Alberon slay Tiamat if he is confined to the City?
 *How does Alberon’s orthodox priesthood envisage the god’s link to the City?
-[[Category:Religious groups]]
-[[Category:Alberon]]
-[[Category:The Shuttered City]]
+Category:Religious groups
+Category:Alberon
+Category:The Shuttered City

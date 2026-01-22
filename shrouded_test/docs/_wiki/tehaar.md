@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Tehaar the Huntress
 ---
-
-#REDIRECT[[Tehaar the Huntress]]
-[[Category:Synonyms]]
+#REDIRECT[Tehaar the Huntress](/wiki/tehaar-the-huntress/)
+Category:Synonyms

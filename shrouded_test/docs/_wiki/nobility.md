@@ -121,5 +121,5 @@ Lord Olmsted rules Olmsted keep. He is said to be distantly related to the Blood
 Lord Ward of the Freeholds is descended from a lord of the night men.
 
 Lord Tristifer Bartley’s wife was (or still is) a lady of far Adherion. Tristifer is one of the greatest lords of the night men. Tristifer killed his first wife, who was also a lady. Tristifer and the lady of Adherion’s daughters are the wives of the Doge of Shuttered.
-[[Category:Nobles]]
-[[Category:Professions]]
+Category:Nobles
+Category:Professions

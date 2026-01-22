@@ -10,8 +10,7 @@ categories:
   - "Category:Peoples"
 media: []
 ---
-
-[[28.21]]
-[[Category:Creatures]]
-[[Category:Chimerics]]
-[[Category:Peoples]]
+[28.21](/wiki/28-21/)
+Category:Creatures
+Category:Chimerics
+Category:Peoples

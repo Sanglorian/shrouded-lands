@@ -12,8 +12,7 @@ media: []
 is_redirect: true
 redirect_to: Penderghasts
 ---
-
-#REDIRECT [[The Penderghasts]]
-[[Category:Characters]]
-[[Category:Witch Clans]]
-[[Category:Penderghasts]]
+#REDIRECT [The Penderghasts](/wiki/the-penderghasts/)
+Category:Characters
+Category:Witch Clans
+Category:Penderghasts

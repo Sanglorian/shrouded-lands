@@ -13,7 +13,7 @@ media: []
 
 
 ## The Lands of the Night Cattle
-<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [[27.04]], [[28.04]], [[29.01]], [[30.03]] and [[31.04]].</span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [27.04](/wiki/27-04/), [28.04](/wiki/28-04/), [29.01](/wiki/29-01/), [30.03](/wiki/30-03/) and [31.04](/wiki/31-04/).</span></p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-fareast-font-family:"TimesNewRoman";mso-bidi-font-family:"TimesNewRoman"; color:black;mso-themecolor:text1">Connects to: </span><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif";mso-bidi-font-family: "TimesNewRoman";color:black;mso-themecolor:text1">[27.03](/wiki/27-03/), [29.07](/wiki/29-07/), [29.14.01](/wiki/29-14/), [29.14.07](/wiki/29-14/), [33.00](/wiki/33-00/), [33.16](/wiki/33-16/), [34.05](/wiki/34-05/), [41.02](/wiki/41-02/) and the Kingswood.</span></p>
 
@@ -21,7 +21,7 @@ On the chalk hills that ride up from the Kingswood live humans, not in towns or 
 
 All of these keeps are well away from the woods, except the one inhabited by Lord Olmsted ([31.04](/wiki/31-04/)) and his daughters. Although the perils of the Kingswood lie between here and the lands of men and dwarves, trade still passes through the Lands of the Night Cattle along a curious road.
 
-From the western plains, past the edge of the Kingswood and up into the northern mountains to the Titan’s Skull ([33.00](/wiki/33-00/)) lies the [[Welt Road]]. It was built by the men who herd the night cattle, who dig deep trenches at night, raise support beams and then cover the road with dirt and sod. These men, who cringe at the sight of the sun, can then scuttle between their keeps during the day, which also makes it easier for caravans to travel east into their lands. (See [[Welt Road]] for more).
+From the western plains, past the edge of the Kingswood and up into the northern mountains to the Titan’s Skull ([33.00](/wiki/33-00/)) lies the [Welt Road](/wiki/welt-road/). It was built by the men who herd the night cattle, who dig deep trenches at night, raise support beams and then cover the road with dirt and sod. These men, who cringe at the sight of the sun, can then scuttle between their keeps during the day, which also makes it easier for caravans to travel east into their lands. (See [Welt Road](/wiki/welt-road/) for more).
 
 ## Hex Summary
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">[27.04](/wiki/27-04/) (The Order of the Broken Chain): becoming the leader of a growing slave rebellion was never part of his plans.
@@ -52,5 +52,5 @@ From the western plains, past the edge of the Kingswood and up into the northern
 *What cults value these albino cows for sacrifices?
 *Who are the individual lords who rule the various keeps of the night men?
 *Why do some elves want human infants?
-[[Category:Regions]]
-[[Category:The Lands of the Night Cattle]]
+Category:Regions
+Category:The Lands of the Night Cattle

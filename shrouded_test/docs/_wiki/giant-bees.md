@@ -10,10 +10,9 @@ categories:
   - "Category:Insects"
 media: []
 ---
+[10.09](/wiki/10-09/), [10.10](/wiki/10-10/), [13.08](/wiki/13-08/), [13.10](/wiki/13-10/), [17.11](/wiki/17-11/), [27.03](/wiki/27-03/)
 
-[[10.09]], [[10.10]], [[13.08]], [[13.10]], [[17.11]], [[27.03]]
-
-A golem has been made of giant beeswax ([[17.11]])
-[[Category:Creatures]]
-[[Category:Insects]]
-[[Category:Animals]]
+A golem has been made of giant beeswax ([17.11](/wiki/17-11/))
+Category:Creatures
+Category:Insects
+Category:Animals

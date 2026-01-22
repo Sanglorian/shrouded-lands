@@ -8,5 +8,4 @@ categories:
   []
 media: []
 ---
-
 ![Mattimage, CC BY-SA 3.0 Unported, http://commons.wikimedia.org/wiki/File:BearSmall.jpg](/media/BearSmall.jpg)

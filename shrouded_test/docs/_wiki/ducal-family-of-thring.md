@@ -11,12 +11,12 @@ categories:
 media: []
 ---
 ## Members
-*[[Duke Ulthar]] the Loved, founder of the [[Duchy of Thring]]
-*[[Broderick]], son of Duke Ulthar
-*[[Duke Theloc]] or Deloc, the fourth Duke
-*[[Sweitbor the Roarer]], the fifth Duke
-*[[Duke of Thring (incumbent)]]
-*[[Princess Elandra]], daughter of the incumbent Duke of Thring and heir to the throne
-[[Category:The Duchy of Thring]]
-[[Category:Families]]
-[[Category:Characters]]
+*[Duke Ulthar](/wiki/duke-ulthar/) the Loved, founder of the [Duchy of Thring](/wiki/duchy-of-thring/)
+*[Broderick](/wiki/broderick/), son of Duke Ulthar
+*[Duke Theloc](/wiki/duke-theloc/) or Deloc, the fourth Duke
+*[Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), the fifth Duke
+*[Duke of Thring (incumbent)](/wiki/duke-of-thring-(incumbent)/)
+*[Princess Elandra](/wiki/princess-elandra/), daughter of the incumbent Duke of Thring and heir to the throne
+Category:The Duchy of Thring
+Category:Families
+Category:Characters

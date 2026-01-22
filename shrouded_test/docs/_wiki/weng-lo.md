@@ -10,8 +10,7 @@ categories:
   - "Category:Wengs"
 media: []
 ---
-
-The father of [[Weng Xiao]].
-[[Category:Characters]]
-[[Category:Wengs]]
-[[Category:The Shuttered City]]
+The father of [Weng Xiao](/wiki/weng-xiao/).
+Category:Characters
+Category:Wengs
+Category:The Shuttered City

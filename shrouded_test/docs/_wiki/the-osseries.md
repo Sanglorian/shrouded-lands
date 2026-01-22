@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Osseries
 ---
-
-#REDIRECT [[Osseries]]
+#REDIRECT [Osseries](/wiki/osseries/)

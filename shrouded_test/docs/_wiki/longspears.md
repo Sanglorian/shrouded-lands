@@ -9,15 +9,15 @@ categories:
   - "Category:Longspears"
 media: []
 ---
-*[[Hardrald Longspear]], after whose longspear the family takes its surname
+*[Hardrald Longspear](/wiki/hardrald-longspear/), after whose longspear the family takes its surname
 
-*[[Egil Longspear]], his youngest son and enemy of [[Cerelaine]]
+*[Egil Longspear](/wiki/egil-longspear/), his youngest son and enemy of [Cerelaine](/wiki/cerelaine/)
 
-*[[Jayla Mullard]], great-granddaughter of Egil on her mother's side
+*[Jayla Mullard](/wiki/jayla-mullard/), great-granddaughter of Egil on her mother's side
 
 ## Connections
-*Longspear Bridge ([[22.11]]) is named after Hardrald.
+*Longspear Bridge ([22.11](/wiki/22-11/)) is named after Hardrald.
 
-*[[Ledo]] is tasked with killing all descendents of Egil Longspear by his father, [[Cerelaine]].
-[[Category:Longspears]]
-[[Category:Families]]
+*[Ledo](/wiki/ledo/) is tasked with killing all descendents of Egil Longspear by his father, [Cerelaine](/wiki/cerelaine/).
+Category:Longspears
+Category:Families

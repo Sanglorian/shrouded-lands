@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Shroom wine
 ---
-
-#REDIRECT[[Shroom wine]]
+#REDIRECT[Shroom wine](/wiki/shroom-wine/)

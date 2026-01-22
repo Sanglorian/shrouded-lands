@@ -105,4 +105,4 @@ Unfertilised flit eggs are a luxury along the Shallow Sea.
 Most of this vast ocean is a metre deep, or even shallower. Hundreds of luminous jellyfish swim in the currents. If observed from above, the schools of jellyfish seem to spell out words in an alien language.
 
 The enormous grey trees by the shore drop seedpods twice the size of a man. If these fall on the giant clams along the beach they crack open and could be used as coracles.
-[[Category:Other]]
+Category:Other

@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Great cacti
 ---
-
-#REDIRECT[[Great cacti]]
-[[Category:Synonyms]]
+#REDIRECT[Great cacti](/wiki/great-cacti/)
+Category:Synonyms

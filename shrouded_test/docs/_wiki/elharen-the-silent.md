@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Elhanen
 ---
-
-#REDIRECT[[Elhanen]]
-[[Category:Synonyms]]
+#REDIRECT[Elhanen](/wiki/elhanen/)
+Category:Synonyms

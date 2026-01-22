@@ -8,5 +8,5 @@ categories:
   - "Category:Knights"
 media: []
 ---
-:[[Amelar the Immaculate]] is also known as the **Hierophant of Constant Sorrow**
-[[Category:Knights]]
+:[Amelar the Immaculate](/wiki/amelar-the-immaculate/) is also known as the **Hierophant of Constant Sorrow**
+Category:Knights

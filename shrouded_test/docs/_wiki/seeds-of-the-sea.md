@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Six Seas' Seeds
 ---
-
-#REDIRECT[[Six Seas' Seeds]]
+#REDIRECT[Six Seas' Seeds](/wiki/six-seas'-seeds/)

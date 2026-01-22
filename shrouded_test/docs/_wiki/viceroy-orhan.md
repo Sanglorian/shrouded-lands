@@ -15,7 +15,7 @@ media: []
 ## Viceroy Orhan's Madness
 Connects to: [17.11](/wiki/17-11/) and [19.31.05](/wiki/19-31/).
 
-[[Jahur]] has been on edge since Viceroy Orhan,
+[Jahur](/wiki/jahur/) has been on edge since Viceroy Orhan,
 the city's treasurer, was attacked in his
 bedchamber last month. He escaped by
 throwing himself into the pool beneath his
@@ -32,8 +32,8 @@ the city's wealth. For his own safety, Orhan is
 confined in a comfortable dungeon usually
 reserved for captured dignitaries.
 
-Orhan was attacked by a [[wax golems|wax golem]] similar to
-[[Lady Naideen]]'s ([[17.11]]). This particular construct is
+Orhan was attacked by a [wax golem](/wiki/wax-golems/) similar to
+[Lady Naideen](/wiki/lady-naideen/)'s ([17.11](/wiki/17-11/)). This particular construct is
 designed to drain Orhan's memory and identity
 and take his place. Had its attack been
 successful, the golem would have stolen Orhan's
@@ -84,7 +84,7 @@ has not forgotten Ronais and constantly rants
 and beats his fists screaming that he must be let
 out to build her a new body before it is too late.
 ### Connection:
-*The Lady grew similar people in vats ([[37.07]]). Maybe that‘s why she kept the gnolls around in her tower...
+*The Lady grew similar people in vats ([37.07](/wiki/37-07/)). Maybe that‘s why she kept the gnolls around in her tower...
 ### Hooks:
 *What material components are needed to turn lead into gold? Why other alchemy does (did?) Orhan know?
 *How did Orhan build his own palace?
@@ -93,7 +93,7 @@ out to build her a new body before it is too late.
 *Why did Orhan need gnolls to sing souls into his wives? What‘s special about gnollish singing?
 *Too late? Too late for what? In his current state what sort of body would Orhan create?
 *Is there anything else to tell about the love of Orhan and Ronais?
-[[Category:Characters]]
-[[Category:Jahur]]
-[[Category:Alchemists]]
-[[Category:Viceroys]]
+Category:Characters
+Category:Jahur
+Category:Alchemists
+Category:Viceroys

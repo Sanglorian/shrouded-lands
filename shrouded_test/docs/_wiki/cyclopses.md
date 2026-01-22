@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Cyclopes
 ---
-
-#REDIRECT[[Cyclopes]]
+#REDIRECT[Cyclopes](/wiki/cyclopes/)

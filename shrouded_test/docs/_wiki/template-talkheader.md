@@ -12,15 +12,15 @@ media: []
 |-
 ! colspan="2" style="text-align:center; font-size:120%; background-color:#3366CC; color:#ffffff;" |
 {{#ifeq:{{NAMESPACE}}|User talk|
-This is [[{{SUBJECTPAGENAME}}|{{PAGENAME}}]]'s talk page, where you can leave messages and comments for {{PAGENAME}}. 
+This is [{{PAGENAME}}](/wiki/subjectpagename/)'s talk page, where you can leave messages and comments for {{PAGENAME}}. 
 |
-This is the talk page for discussing {{{1|improvements to the [[:{{SUBJECTPAGENAME}}]] article}}}.
+This is the talk page for discussing {{{1|improvements to the :{{SUBJECTPAGENAME}} article}}}.
 }}
 |-
 | 
-* **[[Help:Signature|Please sign and date your posts]]** by typing four tildes  (<tt><nowiki>~~~~</nowiki></tt>).
+* **[Please sign and date your posts](/wiki/helpsignature/)** by typing four tildes  (<tt><nowiki>~~~~</nowiki></tt>).
 * **Put new text under old text.** [{{fullurl:{{TALKPAGENAMEE}}|action=edit&section=new}} Click here to start a new topic].
-* If you're new to the wiki, please take a look at the **[[Help:Talk page|talk page help]]**.
+* If you're new to the wiki, please take a look at the **[talk page help](/wiki/helptalk-page/)**.
 | class="title" style="text-align:left;" |
 *Be polite
 *Assume good faith

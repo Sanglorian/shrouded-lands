@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Cornfields
 ---
-
-#REDIRECT[[The Cornfields]]
+#REDIRECT[The Cornfields](/wiki/the-cornfields/)

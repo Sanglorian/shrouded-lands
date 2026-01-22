@@ -11,23 +11,23 @@ categories:
   - "Category:Witches"
 media: []
 ---
-​:Not to be confused with the **Witch Queen** who ruled Cragsend ([[04.06]])
+​:Not to be confused with the **Witch Queen** who ruled Cragsend ([04.06](/wiki/04-06/))
 
-She lives in the Haunt of the Witch-Queen ([[23.16]])
+She lives in the Haunt of the Witch-Queen ([23.16](/wiki/23-16/))
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">For three generations, the finest knights of **Thring** have quested to destroy the Witch Queen. Whether she belongs to one of the witch clan is not known, but it is said that it was she who roused the [[Witch Clans|clans]] to bar Thring from riding to the aid of **Blind Midshotgatepool** when it was besieged by the forces of the **City of Shuttered Windows**.</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">For three generations, the finest knights of **Thring** have quested to destroy the Witch Queen. Whether she belongs to one of the witch clan is not known, but it is said that it was she who roused the [clans](/wiki/witch-clans/) to bar Thring from riding to the aid of **Blind Midshotgatepool** when it was besieged by the forces of the **City of Shuttered Windows**.</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">By some accounts, the Witch Queen is a beautiful sorceress who lives in five towers of bone that sink and rise from the swamp like a grasping hand. According to others, she is a wizened hag who lives in a thatched house ringed by bluebells and daffodils, wearing the flayed skins of young men in the naïve belief that this lends her their beauty. All tales agree that she has a black cauldron that she uses to create [[cauldronborn]].</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">By some accounts, the Witch Queen is a beautiful sorceress who lives in five towers of bone that sink and rise from the swamp like a grasping hand. According to others, she is a wizened hag who lives in a thatched house ringed by bluebells and daffodils, wearing the flayed skins of young men in the naïve belief that this lends her their beauty. All tales agree that she has a black cauldron that she uses to create [cauldronborn](/wiki/cauldronborn/).</p>
 #### Connections
-*One knight who returned ashen-faced from an encounter with the Witch Queen was exiled after he hacked to pieces the statue of the [[Green Lady]] in the [[Duke of Thring|Duke]]’s private chapel, screaming all the while that it depicted not Her, but the Witch Queen instead.
-*The [[witch-hounds]] number among the Witch Queen’s servants, as do the [[cauldronborn]].
+*One knight who returned ashen-faced from an encounter with the Witch Queen was exiled after he hacked to pieces the statue of the [Green Lady](/wiki/green-lady/) in the [Duke](/wiki/duke-of-thring/)’s private chapel, screaming all the while that it depicted not Her, but the Witch Queen instead.
+*The [witch-hounds](/wiki/witch-hounds/) number among the Witch Queen’s servants, as do the [cauldronborn](/wiki/cauldronborn/).
 #### Hooks
 *Why did the Witch Queen rouse the clans?
 *Does she belong to one of the clans?
 *Which of the tales about her appearance are true?
 *Where do the human skins come from?
 *What is her connection to the Green Lady?
-[[Category:Characters]]
-[[Category:The Barrier Range]]
-[[Category:Witches]]
-[[Category:Nobles]]
+Category:Characters
+Category:The Barrier Range
+Category:Witches
+Category:Nobles

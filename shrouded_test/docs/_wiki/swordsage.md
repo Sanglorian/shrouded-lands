@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lord Kardash
 ---
-
-#REDIRECT[[Lord Kardash]]
+#REDIRECT[Lord Kardash](/wiki/lord-kardash/)

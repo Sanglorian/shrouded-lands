@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Singing Wastes
 ---
-
-#REDIRECT [[Singing Wastes]]
+#REDIRECT [Singing Wastes](/wiki/singing-wastes/)

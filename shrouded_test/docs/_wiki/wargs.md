@@ -10,8 +10,7 @@ categories:
   - "Category:Wolves"
 media: []
 ---
-
 ![David Revoy/Blender Foundation (CC BY 3.0 Unported)](/media/Creature_hyena.png)
-[[Category:Creatures]]
-[[Category:The Grey Mountains]]
-[[Category:Wolves]]
+Category:Creatures
+Category:The Grey Mountains
+Category:Wolves

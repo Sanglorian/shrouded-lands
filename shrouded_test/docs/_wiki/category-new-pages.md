@@ -8,6 +8,5 @@ categories:
   - "Category:Site maintenance"
 media: []
 ---
-
 New pages on the wiki.
-[[Category:Site maintenance]]
+Category:Site maintenance

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Koldran
 ---
-
-#REDIRECT[[Koldran]]
+#REDIRECT[Koldran](/wiki/koldran/)

@@ -12,19 +12,19 @@ media: []
 ---
 ![Peter Paul Reubens](/media/Rubens-Chasse_au_tigre-1617-18-Rennes,_musée_beaux-arts.jpg)
 ## Big cats
-*[[Tigers]]
-*[[Lions]], including lion-like creatures
-*[[Displacer leopards]]
+*[Tigers](/wiki/tigers/)
+*[Lions](/wiki/lions/), including lion-like creatures
+*[Displacer leopards](/wiki/displacer-leopards/)
 
 ## Small cats
-*[[Gorean Greys]], including the famed Perudien
-*[[Winged cats]], including cat-feather pillows
-*[[Albus Flidge]] keeps cats
-*The house cats of the [[Embassies (Shuttered)|embassy of Naros]] were turned into razor cats.
-* In [[Monatheron]] ([[43.12]]) they throw criminals into cat pits and wear cloaks of mewling cats.
+*[Gorean Greys](/wiki/gorean-greys/), including the famed Perudien
+*[Winged cats](/wiki/winged-cats/), including cat-feather pillows
+*[Albus Flidge](/wiki/albus-flidge/) keeps cats
+*The house cats of the [embassy of Naros](/wiki/embassies-(shuttered)/) were turned into razor cats.
+* In [Monatheron](/wiki/monatheron/) ([43.12](/wiki/43-12/)) they throw criminals into cat pits and wear cloaks of mewling cats.
 
 ## Other
-The village militia of [[Archet]] ([[15.13]]) call themselves the Cats.
-[[Category:Animals]]
-[[Category:Creatures]]
-[[Category:Cats]]
+The village militia of [Archet](/wiki/archet/) ([15.13](/wiki/15-13/)) call themselves the Cats.
+Category:Animals
+Category:Creatures
+Category:Cats

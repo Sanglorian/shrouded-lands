@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Faustys
 ---
-
-#REDIRECT [[Faustys]]
+#REDIRECT [Faustys](/wiki/faustys/)

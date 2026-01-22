@@ -8,6 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
-<small>—Preceding unsigned comment added by [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]] • [[Special:Contributions/{{{1}}}|contribs]]) {{{2|}}}</small><noinclude>
+<small>—Preceding unsigned comment added by [{{{1}}}](/wiki/user1/) ([talk](/wiki/user-talk1/) • [contribs](/wiki/specialcontributions1/)) {{{2|}}}</small><noinclude>
 {{documentation}}</noinclude>

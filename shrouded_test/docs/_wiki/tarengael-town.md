@@ -9,11 +9,11 @@ categories:
 media: []
 ---
 #### Townships
-*The [[Sorcerer of Tarengael Town]], a practitioner of the strange magic of Baron Autumn.
+*The [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/), a practitioner of the strange magic of Baron Autumn.
 
 ### Features
 *The Bridges East and West ([16.16.03](/wiki/16-16/)): information on the towns on either side of the river from Castle Tarengael.
-*[[Horse market (Tarengael)|The Last Horses]]: the only horse market in the land is held here.
+*[The Last Horses](/wiki/horse-market-(tarengael)/): the only horse market in the land is held here.
 *Chelind’s Buns ([16.16.06](/wiki/16-16/)): a baker and her demon lover.
 
 ### The Bridges East and West
@@ -48,7 +48,7 @@ Connects to: *[13.01](/wiki/13-01/)* and [16.16.03](/wiki/16-16/).
 
 A great deal of trade is carried out in Eastbridge ([16.16.03](/wiki/16-16/)) and many small traders find it more congenial to carry out trade with the townsfolk than with the court of the Duke. However, like just about anywhere else in the Shrouded Lands, there exists danger that can snare the unwary.
 
-Some time ago a young baker named Chelind had dreams about being held in the passionate embrace of [[elemental beings|a being of dew and vapor]]. These dreams lead her to a large boulder embedded in the bank of [[The River of Crystal Waters]]. She hired a [[Skullcrusher orc]] *([13.01](/wiki/13-01/))* to pry loose the boulder and as it came free, the orc was pitched into the river along with the stone and never surfaced.
+Some time ago a young baker named Chelind had dreams about being held in the passionate embrace of [a being of dew and vapor](/wiki/elemental-beings/). These dreams lead her to a large boulder embedded in the bank of [The River of Crystal Waters](/wiki/the-river-of-crystal-waters/). She hired a [Skullcrusher orc](/wiki/skullcrusher-orc/) *([13.01](/wiki/13-01/))* to pry loose the boulder and as it came free, the orc was pitched into the river along with the stone and never surfaced.
 
 Under the stone, Chelind found a strange silvery skull in perfect condition and carried it back to her bakery. Ever since, her buns have been laced wtih strange enchantments and, if eaten fresh (for the magic lies in the vapor) can have curious effects on those who eat them. One of the first such victims was Chelind's husband, who she misses not at all.
 

@@ -8,7 +8,6 @@ categories:
   - "Category:Browse"
 media: []
 ---
-
 The area of the site for subcategories and other pages about the wiki's organization, administration, and maintenance. 
 
-[[Category:Browse]]
+Category:Browse

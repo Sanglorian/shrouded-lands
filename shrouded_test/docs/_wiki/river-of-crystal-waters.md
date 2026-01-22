@@ -9,7 +9,6 @@ categories:
   - "Category:The Duchy of Thring"
 media: []
 ---
-
-Runs through [[:Category:River of Crystal Waters|these hexes]].
-[[Category:Bodies of water]]
-[[Category:The Duchy of Thring]]
+Runs through these hexes.
+Category:Bodies of water
+Category:The Duchy of Thring

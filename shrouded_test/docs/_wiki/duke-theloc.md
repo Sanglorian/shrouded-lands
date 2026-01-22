@@ -12,7 +12,7 @@ media: []
 ---
 Also known as **Duke Deloc**.
 
-The fourth [[Duke of Thring]]. Followed by [[Sweitbor the Roarer]] rather than his own children - for reasons the [[Lochgates]] and the rest of Thring disagree upon.
-[[Category:The Duchy of Thring]]
-[[Category:Characters]]
-[[Category:Dukes of Thring]]
+The fourth [Duke of Thring](/wiki/duke-of-thring/). Followed by [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/) rather than his own children - for reasons the [Lochgates](/wiki/lochgates/) and the rest of Thring disagree upon.
+Category:The Duchy of Thring
+Category:Characters
+Category:Dukes of Thring

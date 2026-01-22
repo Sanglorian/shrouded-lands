@@ -10,7 +10,7 @@ categories:
   - "Category:The Barrier Range"
 media: []
 ---
-Ushcka dwells in a disarmingly cozy cave in the middle of a dark forest ([[21.15]]). She possesses an unusually strong maternal instinct for being an ogress. However, she will never become a mother because of her banishment from Hoth Achaar *([26.01.03](/wiki/26-01/))*. Her inability to have children tormented her, then drove her insane. After a long journey, she settled in this grove and gathered a surrogate family.
+Ushcka dwells in a disarmingly cozy cave in the middle of a dark forest ([21.15](/wiki/21-15/)). She possesses an unusually strong maternal instinct for being an ogress. However, she will never become a mother because of her banishment from Hoth Achaar *([26.01.03](/wiki/26-01/))*. Her inability to have children tormented her, then drove her insane. After a long journey, she settled in this grove and gathered a surrogate family.
 
 Ushcka builds her "family" by waylaying travelers and stuffing them into sacks filled with narcotic herbs. The victims awaken in her cave, which is cluttered with mockeries of domestic comfort, and find themselves forced to play the role of husband or child depending on Ushcka's whims. She is a cruel and arbitrary governess, and resorts to cannibalism when food is scarce.
 
@@ -21,6 +21,6 @@ Rumors have spread that Ushcka is growing more cunning, and has somehow mastered
 *What traps and/or guardians does Ushcka have in the surrounding forest?
 *Can she really imitate voices? How did this rumor start?
 *What treasures has she accumulated over the course of her kidnappings?
-[[Category:Characters]]
-[[Category:Ogres]]
-[[Category:The Barrier Range]]
+Category:Characters
+Category:Ogres
+Category:The Barrier Range

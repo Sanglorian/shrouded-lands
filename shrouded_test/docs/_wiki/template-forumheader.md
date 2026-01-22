@@ -9,9 +9,9 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-<div class="forumheader">**Forums:** [[Forum:Index|Index]] > [[Forum:{{{1}}}|{{{1}}}]] > {{PAGENAME}}</div><br />
+<div class="forumheader">**Forums:** [Index](/wiki/forumindex/) > [{{{1}}}](/wiki/forum1/) > {{PAGENAME}}</div><br />
 
-[[Category:{{{1}}}]]
+Category:{{{1}}}
 <noinclude>
-[[Category:Forums]]
+Category:Forums
 {{documentation}}</noinclude>

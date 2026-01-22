@@ -26,7 +26,7 @@ The Dungers themselves do little work aside from bullying the Hallovers and sett
 *The Ossorys have been fueding with the Dungers and have been gaining the upper hand thanks to their hired necromancer ([24.18](/wiki/24-18/)).
 *Dungers have been harassing those whose boats have run aground since the levee broke *([22.18](/wiki/22-18/)).*
 ## Hallovers
-*[[Maris Hallover]]
-[[Category:The Barrier Range]]
-[[Category:Witch Clans]]
-[[Category:Families]]
+*[Maris Hallover](/wiki/maris-hallover/)
+Category:The Barrier Range
+Category:Witch Clans
+Category:Families

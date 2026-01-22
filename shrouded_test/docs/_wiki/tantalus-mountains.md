@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: :Category:The Tantalus Mountains
 ---
-
-#REDIRECT[[:Category:The Tantalus Mountains]]
-[[Category:Synonyms]]
+#REDIRECT:Category:The Tantalus Mountains
+Category:Synonyms

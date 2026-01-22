@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Duke Theloc
 ---
-
-#REDIRECT[[Duke Theloc]]
+#REDIRECT[Duke Theloc](/wiki/duke-theloc/)

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: The moon
 ---
-
-#REDIRECT[[The moon]]
+#REDIRECT[The moon](/wiki/the-moon-2688/)

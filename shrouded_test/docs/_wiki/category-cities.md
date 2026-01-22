@@ -8,6 +8,5 @@ categories:
   - "Category:Settlements"
 media: []
 ---
-
-[[Cities]]
-[[Category:Settlements]]
+[Cities](/wiki/cities/)
+Category:Settlements

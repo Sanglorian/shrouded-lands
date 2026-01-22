@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Devil's Bible
 ---
-
-#REDIRECT[[Devil's Bible]]
+#REDIRECT[Devil's Bible](/wiki/devil's-bible/)

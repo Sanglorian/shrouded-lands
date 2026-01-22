@@ -28,9 +28,9 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *Magister is a position in the Thringish clergy - there is one for Castle Steadfast who made a ruling regarding the Laws of Thring.
 
 ## Priesthoods
-*The [[Keepers of the Sacred Foot]], heterodox monks of Alberon, have an abbot. They were once led by the Archpoet when they were driven from the City in the Time of Schisms. They are brewers and goliards (part cleric, part jester).
-* The monastery of St Dulaine had an abbot ([[21.16]]). The theological texts from the monastery remain among the few scholarly works devoted to the Green Lady, although it is not clear if the monks worshipped her, or worshipped her exclusively.
-*The [[Last Prophet of Asrigh]] was a disgruntled bishop of Alberon who took up the worship of the imprisoned god Asrigh.
+*The [Keepers of the Sacred Foot](/wiki/keepers-of-the-sacred-foot/), heterodox monks of Alberon, have an abbot. They were once led by the Archpoet when they were driven from the City in the Time of Schisms. They are brewers and goliards (part cleric, part jester).
+* The monastery of St Dulaine had an abbot ([21.16](/wiki/21-16/)). The theological texts from the monastery remain among the few scholarly works devoted to the Green Lady, although it is not clear if the monks worshipped her, or worshipped her exclusively.
+*The [Last Prophet of Asrigh](/wiki/last-prophet-of-asrigh/) was a disgruntled bishop of Alberon who took up the worship of the imprisoned god Asrigh.
 *The priests of the Speaker of Bronze ([39.00](/wiki/39-00/)).
 *Lion priests are in the service of the King in Splendour. There was a schism between the lion priests of the two different lighthouses. The Lost Lighthouse had a single Keeper at a time, who served a two-year term.
 *Thringish sorcerers are priests of Baron Autumn.
@@ -57,7 +57,7 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 *Orc priests carry out ritual torture on willing participants.
 *Armand of the Axe was a warrior-priest of the King in Splendour.
 *Henry Yaboon is a priest without a god, as the legal inheritor of the lands and treasures of the Pacharia’s clergy.
-* The [[nuns of St. Birgit]] are nuns or sisters who live in an abbey, but are infected with lycanthropy.
+* The [nuns of St. Birgit](/wiki/nuns-of-st-birgit/) are nuns or sisters who live in an abbey, but are infected with lycanthropy.
 
 ## Powers
 *Priests of the Stern Way can learn the husbandry and nurture of hills and mountains. One rogue student can grow a hill in a day or open a gorge in an hour - but this strain the earth, increasing the chances of volcanoes and earthquakes.
@@ -82,6 +82,6 @@ Religious terminology seems loose. The faiths of Alberon and the King in Splendo
 
 ## Other
 *Gharsang are sometimes carved in the likeness of orcish priests.
-[[Category:Priests]]
-[[Category:Religious groups]]
-[[Category:Professions]]
+Category:Priests
+Category:Religious groups
+Category:Professions

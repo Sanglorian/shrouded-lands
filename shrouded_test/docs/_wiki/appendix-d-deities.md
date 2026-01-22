@@ -8,6 +8,5 @@ categories:
   - "Category:Synonyms"
 media: []
 ---
-
 #REDIRECT
-[[Category:Synonyms]]
+Category:Synonyms

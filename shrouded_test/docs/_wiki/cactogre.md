@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Grandfather Cactus
 ---
-
-#REDIRECT[[Grandfather Cactus]]
-[[Category:Synonyms]]
+#REDIRECT[Grandfather Cactus](/wiki/grandfather-cactus/)
+Category:Synonyms

@@ -10,7 +10,7 @@ categories:
   - "Category:The Cornfields"
 media: []
 ---
-*The [[God in the Stone]] is a **galeb duhr** worshipped by the people of the [[Cornfields]]. Galeb duhr can herd rocks.
-[[Category:Creatures]]
-[[Category:Elementals]]
-[[Category:The Cornfields]]
+*The [God in the Stone](/wiki/god-in-the-stone/) is a **galeb duhr** worshipped by the people of the [Cornfields](/wiki/cornfields/). Galeb duhr can herd rocks.
+Category:Creatures
+Category:Elementals
+Category:The Cornfields

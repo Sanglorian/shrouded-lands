@@ -23,6 +23,6 @@ For a time the Witch Clans were cowed for those who opposed the Penderghasts wer
 *Does anyone know that the Penderghast heir has no power to disintegrate anyone? Does the heir know? How does he feel about his father blindfolding him?
 *Who is Honorius planning on marrying his son to? The pickings are pretty slim... How does he son feel about his marital prospects?
 *Are there any Witch Clans who live under the protection of the Penderghasts?
-[[Category:Families]]
-[[Category:Witch Clans]]
-[[Category:Penderghasts]]
+Category:Families
+Category:Witch Clans
+Category:Penderghasts

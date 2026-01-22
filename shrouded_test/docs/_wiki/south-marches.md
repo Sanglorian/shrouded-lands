@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: The Burning Lands
 ---
-
-#REDIRECT[[The Burning Lands]]
-[[Category:Synonyms]]
+#REDIRECT[The Burning Lands](/wiki/the-burning-lands/)
+Category:Synonyms

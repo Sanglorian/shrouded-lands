@@ -8,7 +8,6 @@ categories:
   - "Category:Organization"
 media: []
 ---
+This category may include pages and subcategories related to the active contributors to the site, as seen on [Special:ListUsers](/wiki/speciallistusers/).
 
-This category may include pages and subcategories related to the active contributors to the site, as seen on [[Special:ListUsers]].
-
-[[Category:Organization]]
+Category:Organization

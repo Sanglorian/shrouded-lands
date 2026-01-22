@@ -12,20 +12,20 @@ categories:
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
-![http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I0081.jpg)On the shores of the [[Ocean of Bitter Regrets]] are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([[00.02]]. Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.
+![http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I0081.jpg)On the shores of the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([00.02](/wiki/00-02/). Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.
 
-Periodically, floating cloud fortresses break from the mist of the mountains and head southward. The sight of one of these crimson Thunderheads elicits panic from any seagoing vessel that spots one. The cloud fortresses sink down and simply scoop up entire frigates. The ships are then dismantled by [[ogres]], valuables and slave-worthy men captured, and everything not taken is rained back down.
+Periodically, floating cloud fortresses break from the mist of the mountains and head southward. The sight of one of these crimson Thunderheads elicits panic from any seagoing vessel that spots one. The cloud fortresses sink down and simply scoop up entire frigates. The ships are then dismantled by [ogres](/wiki/ogres/), valuables and slave-worthy men captured, and everything not taken is rained back down.
 
-From time to time a Pirate Thunderhead will raid a coastal village or even an overland caravan, but they generally remain over the sea. The Pirate Kings are a persistent, albeit rarely encountered, nuisance for the shipping lanes of the [[Twelve Nations]] (and the distant lands of the western continent). The Thunderheads can't move too far inland, sparing vast swaths of the Twelve from cloud giant raids. In addition, [[The Freeholds|The Freeholders]], the Court at [[Kingswood]], the [[City of Shuttered Windows]], and the [[Burning Lands]] are all too far inland to be subjected to a raid. The coastal areas of the [[Westmarches]] are not, but their people are too scattered and poor to be worth raiding, with the exception of the Cross ([[02.11]]).
+From time to time a Pirate Thunderhead will raid a coastal village or even an overland caravan, but they generally remain over the sea. The Pirate Kings are a persistent, albeit rarely encountered, nuisance for the shipping lanes of the [Twelve Nations](/wiki/twelve-nations/) (and the distant lands of the western continent). The Thunderheads can't move too far inland, sparing vast swaths of the Twelve from cloud giant raids. In addition, [The Freeholders](/wiki/the-freeholds/), the Court at [Kingswood](/wiki/kingswood/), the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/), and the [Burning Lands](/wiki/burning-lands/) are all too far inland to be subjected to a raid. The coastal areas of the [Westmarches](/wiki/westmarches/) are not, but their people are too scattered and poor to be worth raiding, with the exception of the Cross ([02.11](/wiki/02-11/)).
 
 The treasure hordes of the five Pirate Kingdoms are known to be vast beyond belief, and there are always would-be treasure seekers plotting to steal their share. These plots rarely go past the stage of wistful dreaming, because really...? Who's crazy enough to anger an entire clan of giants?
 
-In the distant past, trade and diplomatic missions have been attempted, but the giants simply take what they want and crush the envoys. To the Pirate Kings, men are insects, not worth talking to and barely worth enslaving. They do make trade with the civilization of [[dragons]] that roost far beyond World's Edge, as well as [[elementals|elemental envoys]], and even [[deities|gods]] - but such things are practically unknown in the mortal world.
+In the distant past, trade and diplomatic missions have been attempted, but the giants simply take what they want and crush the envoys. To the Pirate Kings, men are insects, not worth talking to and barely worth enslaving. They do make trade with the civilization of [dragons](/wiki/dragons/) that roost far beyond World's Edge, as well as [elemental envoys](/wiki/elementals/), and even [gods](/wiki/deities/) - but such things are practically unknown in the mortal world.
 ## Pirate Kings
-*[[The King of Salt and Brine]], a great wereshark.
-*Udenyr, the king of [[Skullreach]].
+*[The King of Salt and Brine](/wiki/the-king-of-salt-and-brine/), a great wereshark.
+*Udenyr, the king of [Skullreach](/wiki/skullreach/).
 ## Features of the Pirate Kings
-*[[Skullreach]] is the most dreaded Thunderhead.
+*[Skullreach](/wiki/skullreach/) is the most dreaded Thunderhead.
 
 ### Subhexes:
 *[00.02.01](/wiki/00-02/) (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
@@ -64,21 +64,21 @@ Tomorrow I shall try to reach the summit of the mountain.
 *Who is the narrator of this piece?
 
 ### The Stormhead
-Why do the Pirate Kings so restlessly patrol the [[Ocean of Bitter Regrets]]? By now, their coffers must overflow with spices, gemstones and all other riches of the world. Indeed, the Pirate Kings have been seen to jettison treasures just minutes after looting them.
+Why do the Pirate Kings so restlessly patrol the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/)? By now, their coffers must overflow with spices, gemstones and all other riches of the world. Indeed, the Pirate Kings have been seen to jettison treasures just minutes after looting them.
 
-While it is true that the Pirate Kings are madly covetous, their raiding serves another purpose. Each cloud giant searches for their ‘spark’, something that reveals to them the tremendous beauty of the world. One King wept over an altar of the [[Green Lady]], another sniffed deeply from a bottle of [[Naros]]i perfume resting on the tip of his finger.
+While it is true that the Pirate Kings are madly covetous, their raiding serves another purpose. Each cloud giant searches for their ‘spark’, something that reveals to them the tremendous beauty of the world. One King wept over an altar of the [Green Lady](/wiki/green-lady/), another sniffed deeply from a bottle of [Naros](/wiki/naros/)i perfume resting on the tip of his finger.
 
-When a cloud giant is ignited in this way, he or she must craft a wooden ship and sail or row it to the Stormhead ([[01.04]]), a perpetual storm that rages at the edge of the Ocean of Bitter Regrets. As soon as he or she casts the spark into the sea, he or she is struck by a single bolt of lightning that transforms the cloud giant into a storm giant.
+When a cloud giant is ignited in this way, he or she must craft a wooden ship and sail or row it to the Stormhead ([01.04](/wiki/01-04/)), a perpetual storm that rages at the edge of the Ocean of Bitter Regrets. As soon as he or she casts the spark into the sea, he or she is struck by a single bolt of lightning that transforms the cloud giant into a storm giant.
 
-The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [[King of Salt and Brine]]—before his infection—swam straight back to the Shrouded Lands ([00.06](/wiki/00-06/)).
+The boat then burns beneath the giant and he or she must swim away from the storm. Most will stop at the islands that lie off the coast west of here, some staying for good, although it is said that the [King of Salt and Brine](/wiki/king-of-salt-and-brine/)—before his infection—swam straight back to the Shrouded Lands ([00.06](/wiki/00-06/)).
 ### Hooks
 *Is there anything within the Stormhead? What causes it?
 *What causes the perpetual storm?
 *What were the sparks for other storm giants?
-*What are the [[Islands of Bitter Regret]] like?
+*What are the [Islands of Bitter Regret](/wiki/islands-of-bitter-regret/) like?
 *Who makes perfume now that Naros ([29.14.12](/wiki/29-14/)) has fallen?
-[[Category:The Bitter Coast]]
-[[Category:The Ocean of Bitter Regrets]]
-[[Category:Creatures]]
-[[Category:Pirate Kings]]
-[[Category:Peoples]]
+Category:The Bitter Coast
+Category:The Ocean of Bitter Regrets
+Category:Creatures
+Category:Pirate Kings
+Category:Peoples

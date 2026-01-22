@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Aboleth
 ---
-
-#REDIRECT[[Aboleth]]
+#REDIRECT[Aboleth](/wiki/aboleth/)

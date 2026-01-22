@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Mounts
 ---
-
-#REDIRECT [[Mounts]]
+#REDIRECT [Mounts](/wiki/mounts/)

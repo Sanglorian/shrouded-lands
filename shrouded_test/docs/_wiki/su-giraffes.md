@@ -10,11 +10,11 @@ categories:
   - "Category:The World's Edge and Beyond"
 media: []
 ---
-![Niko Pirosmani](/media/Pirosmani._Giraffe.jpg)Of all of the strange beasts that live in the jungles beyond the World’s Edge one of the most famous is the [[su-giraffes|su-giraffe]]. Juveniles of this breed appear much like those giraffes found in other lands except of darker color and with even longer limbs.
+![Niko Pirosmani](/media/Pirosmani._Giraffe.jpg)Of all of the strange beasts that live in the jungles beyond the World’s Edge one of the most famous is the [su-giraffe](/wiki/su-giraffes/). Juveniles of this breed appear much like those giraffes found in other lands except of darker color and with even longer limbs.
 
 However, su-giraffes never start stop growing as they age and eventually their massive legs become so large that they plant themselves in the dirt and are difficult to distinguish from the trunks of great trees. Older su-giraffes also sprout additional heads and necks and begin to indulge in more ecumenical diets in order to sustain their great bulk.
 
-One of the greatest of all su-giraffes, a twenty-header, lives in [[49.04]].
-[[Category:Creatures]]
-[[Category:The World's Edge and Beyond]]
-[[Category:Giraffes]]
+One of the greatest of all su-giraffes, a twenty-header, lives in [49.04](/wiki/49-04/).
+Category:Creatures
+Category:The World's Edge and Beyond
+Category:Giraffes

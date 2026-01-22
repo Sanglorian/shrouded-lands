@@ -10,8 +10,7 @@ categories:
   - "Category:Equines"
 media: []
 ---
-
-A famed [[horses|horse]]. More than a hundred years ago, Garendar and his Thringish paladin rider Sir Hyfres, were eaten by a [[hoarlephants|hoarlephant]] and his bones are now believed to be in the Bone Heap ([[50.03]]).
-[[Category:Characters]]
-[[Category:Creatures]]
-[[Category:Equines]]
+A famed [horse](/wiki/horses/). More than a hundred years ago, Garendar and his Thringish paladin rider Sir Hyfres, were eaten by a [hoarlephant](/wiki/hoarlephants/) and his bones are now believed to be in the Bone Heap ([50.03](/wiki/50-03/)).
+Category:Characters
+Category:Creatures
+Category:Equines

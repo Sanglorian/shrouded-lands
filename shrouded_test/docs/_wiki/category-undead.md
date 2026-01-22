@@ -8,6 +8,5 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
-[[Undead]]
-[[Category:Creatures]]
+[Undead](/wiki/undead/)
+Category:Creatures

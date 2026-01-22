@@ -8,7 +8,6 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-
 {<noinclude>
 {{documentation}}
 </noinclude>

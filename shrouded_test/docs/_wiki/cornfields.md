@@ -11,7 +11,7 @@ media: []
 ---
 ![](/media/Corn.png)
 
-Includes hexes: [[03.29]], [[03.30]], [[03.31]], [[04.30]] and [[04.31]].
+Includes hexes: [03.29](/wiki/03-29/), [03.30](/wiki/03-30/), [03.31](/wiki/03-31/), [04.30](/wiki/04-30/) and [04.31](/wiki/04-31/).
 
 The Cornfields is a remote region that lies beyond the Duchy of Thring. Little is known about it and the insular people who live there who extract teeth from strangers to fertilize their fields. In order to avoid attracting bandits and worse, any treasure they find on their victims is dumped into a cave that is slowly being expanded by a sentient sphere of annihilation.
 ## Hex summary:
@@ -20,5 +20,5 @@ The Cornfields is a remote region that lies beyond the Duchy of Thring. Little i
 *[03.31](/wiki/03-31/) (The Old Mill): what appear to be regurgitated souls haunt this abandoned mill.
 *[04.30](/wiki/04-30/) (Thorny Gulch): you’ve got to throw people somewhere after you’ve taken all of their teeth.
 *[04.31](/wiki/04-31/) (The Nothing): a cave that is slowly being enlarged by a sentient sphere of annihilation.
-[[Category:Regions]]
-[[Category:The Cornfields]]
+Category:Regions
+Category:The Cornfields

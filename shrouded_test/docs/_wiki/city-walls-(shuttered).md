@@ -9,17 +9,17 @@ categories:
   - "Category:The Shuttered City"
 media: []
 ---
-![](/media/Egon_Schiele_019.jpg)The [[City of Shuttered Windows]] is girded by walls of stone built by the [[dwarves]] in an age past. The walls are made of stone so skillfully fitted that only a dwarf can see the seams between the great blocks without the aid of a hand lens. A lone [[Deep dwarves|Deep Dwarf]] makes the trek from Titan's Skull ([[33.00]]) each year to inspect the walls, and for as long as anyone can remember, none of these visitors have said or done anything after their surveys. Some believe that the inspections are carried out by the same dwarf each year, and because the Deep Dwarves never venture above ground without their heavy blue cloaks and veils, none can say for sure that this is false.
+![](/media/Egon_Schiele_019.jpg)The [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) is girded by walls of stone built by the [dwarves](/wiki/dwarves/) in an age past. The walls are made of stone so skillfully fitted that only a dwarf can see the seams between the great blocks without the aid of a hand lens. A lone [Deep Dwarf](/wiki/deep-dwarves/) makes the trek from Titan's Skull ([33.00](/wiki/33-00/)) each year to inspect the walls, and for as long as anyone can remember, none of these visitors have said or done anything after their surveys. Some believe that the inspections are carried out by the same dwarf each year, and because the Deep Dwarves never venture above ground without their heavy blue cloaks and veils, none can say for sure that this is false.
 
-It's a matter of speculation whether even the Deep Dwarves still recall the art used to craft the wall, but the other dwarves of Titan's Skull certainly do not. Neither the Priests of the [[Temple Indivisible]] nor the skalds of Titan's Skull have any recollection of why, precisely, the dwarves built the walls of a human city, but the City's gratitude is commemorated by an ancient tradition of beard-right, which grants dwarves all the rights and privileges of citizenship while they are within the City's walls.
+It's a matter of speculation whether even the Deep Dwarves still recall the art used to craft the wall, but the other dwarves of Titan's Skull certainly do not. Neither the Priests of the [Temple Indivisible](/wiki/temple-indivisible/) nor the skalds of Titan's Skull have any recollection of why, precisely, the dwarves built the walls of a human city, but the City's gratitude is commemorated by an ancient tradition of beard-right, which grants dwarves all the rights and privileges of citizenship while they are within the City's walls.
 
 The walls, unlike the City inside them, are not sinking. It is one of the Hundred Heresies to suggest that the walls' stability is a result of anything but the fervent prayers of the Priesthood, but most scholars outside of the City insist this is either a simple quirk of geology or proof of the dwarves' ancient cunning. Scholars within the City, of course, are reluctant to make arguments that might end with them having their tongues cut out before they are exiled and geased ([29.14.17](/wiki/29-14/)) never to return.
 
-The walls are broken by [[North Gate and South Gate]].![](/media/Shutwalls.png)
+The walls are broken by [North Gate and South Gate](/wiki/north-gate-and-south-gate/).![](/media/Shutwalls.png)
 
-The illusion that the walls are not sinking is created by the [[gnome ghosts]] trapped in the walls.
+The illusion that the walls are not sinking is created by the [gnome ghosts](/wiki/gnome-ghosts/) trapped in the walls.
 ### Connections:
 *Embassies of the Twelve Nations are built into the south wall of the City ([29.14.11](/wiki/29-14/)).
 *An ancient prophesy says that if any of the gods in the Prison of the Nine ([29.14.54](/wiki/29-14/)) are freed the walls of the City will sink forever.
-[[Category:Buildings]]
-[[Category:The Shuttered City]]
+Category:Buildings
+Category:The Shuttered City

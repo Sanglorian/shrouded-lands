@@ -8,5 +8,4 @@ categories:
   []
 media: []
 ---
-
-# REDIRECT [[Sweitbor the Roarer]]
+# REDIRECT [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/)

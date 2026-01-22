@@ -8,5 +8,5 @@ categories:
   - "Category:General wiki templates"
 media: []
 ---
-<sup>*&#91;citation&nbsp;needed&#93;*</sup><includeonly>[[Category:Citations needed]]</includeonly><noinclude>
+<sup>*&#91;citation&nbsp;needed&#93;*</sup><includeonly>Category:Citations needed</includeonly><noinclude>
 {{documentation}}</noinclude>

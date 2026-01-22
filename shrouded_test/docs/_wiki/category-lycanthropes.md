@@ -8,6 +8,5 @@ categories:
   - "Category:Creatures"
 media: []
 ---
-
-[[Lycanthropes]]
-[[Category:Creatures]]
+[Lycanthropes](/wiki/lycanthropes/)
+Category:Creatures

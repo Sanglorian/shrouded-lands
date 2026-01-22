@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Shadow Ballet
 ---
-
-#REDIRECT[[Shadow Ballet]]
-[[Category:Synonyms]]
+#REDIRECT[Shadow Ballet](/wiki/shadow-ballet/)
+Category:Synonyms

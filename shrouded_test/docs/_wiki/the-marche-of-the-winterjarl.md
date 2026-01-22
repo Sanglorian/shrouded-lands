@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Marche of the Winterjarl
 ---
-
-#REDIRECT [[Marche of the Winterjarl]]
+#REDIRECT [Marche of the Winterjarl](/wiki/marche-of-the-winterjarl/)

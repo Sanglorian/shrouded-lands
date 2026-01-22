@@ -13,7 +13,7 @@ media: []
 
 
 ## The Bitter Coast
-<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [[00.02]], [[00.06]], [[00.09]], [[01.03]], [[01.04]], [[01.05]], [[01.06]], [[01.07]], [[01.08]], [[01.09]], [[01.10]], [[02.06]], [[02.07]], [[02.10]], [[02.11]] and [[02.18]].</span></p>
+<p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">Includes hexes: [00.02](/wiki/00-02/), [00.06](/wiki/00-06/), [00.09](/wiki/00-09/), [01.03](/wiki/01-03/), [01.04](/wiki/01-04/), [01.05](/wiki/01-05/), [01.06](/wiki/01-06/), [01.07](/wiki/01-07/), [01.08](/wiki/01-08/), [01.09](/wiki/01-09/), [01.10](/wiki/01-10/), [02.06](/wiki/02-06/), [02.07](/wiki/02-07/), [02.10](/wiki/02-10/), [02.11](/wiki/02-11/) and [02.18](/wiki/02-18/).</span></p>
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; color:black;mso-themecolor:text1">The lands on the edge of the Ocean of Bitter Regrets are a wet, bleak and empty land. The Ocean itself is as salty as the tears of the few men who make their home here. They are not many, for the giant Pirate Kings often fly their cloud castles out of their mountains to harry the coast and raid shipping. Those that remain serve the giants or are driven here by madness, curses or religion.</span></p>
 
@@ -54,5 +54,5 @@ media: []
 
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">[02.11](/wiki/02-11/) (The Cross): this pirate haven is a fractious and tearful place.</span></p>
 <p class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd"><span lang="EN-US" style="font-size:9.0pt;font-family:"CenturyGothic","sans-serif"; mso-bidi-font-family:"TimesNewRoman";color:black;mso-themecolor:text1">[02.18](/wiki/02-18/) (Nasili’s Arch): this natural arch was once the home of nereid. </span></p>
-[[Category:Regions]]
-[[Category:The Bitter Coast]]
+Category:Regions
+Category:The Bitter Coast

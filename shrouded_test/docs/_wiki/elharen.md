@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Elhanen
 ---
-
-#REDIRECT[[Elharen the Silent]]
-[[Category:Synonyms]]
+#REDIRECT[Elharen the Silent](/wiki/elharen-the-silent/)
+Category:Synonyms

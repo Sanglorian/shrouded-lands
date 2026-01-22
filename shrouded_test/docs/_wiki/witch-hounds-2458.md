@@ -9,15 +9,15 @@ categories:
   - "Category:The Barrier Range"
 media: []
 ---
-They spawn in The Fen of the Witch-Hounds ([[22.16]])![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)
+They spawn in The Fen of the Witch-Hounds ([22.16](/wiki/22-16/))![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">They skulk around **Mazy Hollow **([25.14](/wiki/25-14/))</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">They were created by **[[The Witch Queen]]**</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">They were created by **[The Witch Queen](/wiki/the-witch-queen/)**</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">They harass those whose boats have run aground since the levee broke ([[22.18]])</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">They harass those whose boats have run aground since the levee broke ([22.18](/wiki/22-18/))</p>
 
-<p class="western" lang="en-US" style="margin-bottom:0.14in">The hounds do not chase those who flee into the Catacombs of St. Dulaine ([[21.16]]).</p>
+<p class="western" lang="en-US" style="margin-bottom:0.14in">The hounds do not chase those who flee into the Catacombs of St. Dulaine ([21.16](/wiki/21-16/)).</p>
 
 <p class="western" lang="en-US" style="margin-bottom:0.14in">The witch-hounds are shaped like great wolves, and their bodies consist of reeking globs of mud and straw. They are swift in any terrain, and can cover leagues in a single night. Knights who face them and survive are unnerved by the pitch black sockets where their eyes should be. Every night, the pack rises from the fen to do the Witch Queen's bidding. They have ended the quests of many knights hoping to slay their mistress.</p>
 
@@ -29,5 +29,5 @@ They spawn in The Fen of the Witch-Hounds ([[22.16]])![https://commons.wikimedia
 *<p lang="en-US" style="margin-bottom:0.14in">How did Laughing Milo discover the hounds' secret? How did he die?</p>
 *<p lang="en-US" style="margin-bottom:0.14in">What defenses do locals have against the hounds?</p>
 *<p lang="en-US" style="margin-bottom:0.14in">How could a witch-hound be exposed to sunlight? Does it have to be true sunlight, or can an adventurer "cheat"?</p>
-[[Category:Creatures]]
-[[Category:The Barrier Range]]
+Category:Creatures
+Category:The Barrier Range

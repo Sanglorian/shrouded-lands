@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Withered Moors
 ---
-
-#REDIRECT [[Withered Moors]]
+#REDIRECT [Withered Moors](/wiki/withered-moors/)

@@ -9,11 +9,10 @@ categories:
   - "Category:Peoples"
 media: []
 ---
+One of the two [elven](/wiki/elves/) peoples; the other being the [seelie elves](/wiki/seelie-elves/). When the court in the [Kingswood](/wiki/kingswood/) split, most unseelie and some seelie elves (the [white elves](/wiki/white-elves/)) were exiled with the [Queen Sinister](/wiki/queen-sinister/). At least two unseelie remained: [The Drow](/wiki/the-drow/), who calls herself the Faceless; and the Chief Librarian of the Library without a Floor ([28.07](/wiki/28-07/)). As both seelie and unseelie, the [Bastard Prince](/wiki/bastard-prince/) claims certain privileges.
 
-One of the two [[elves|elven]] peoples; the other being the [[seelie elves]]. When the court in the [[Kingswood]] split, most unseelie and some seelie elves (the [[white elves]]) were exiled with the [[Queen Sinister]]. At least two unseelie remained: [[The Drow]], who calls herself the Faceless; and the Chief Librarian of the Library without a Floor ([[28.07]]). As both seelie and unseelie, the [[Bastard Prince]] claims certain privileges.
+The term [drow](/wiki/drow/) may refer to the unseelie, in which case the [Drow's Tears](/wiki/drow's-tears/) would refer to the Queen Sinister's tears at her parting from the Bloodied King, and the [drow-ghosts](/wiki/drow-ghosts/) would be undead unseelie.
 
-The term [[drow]] may refer to the unseelie, in which case the [[Drow's Tears]] would refer to the Queen Sinister's tears at her parting from the Bloodied King, and the [[drow-ghosts]] would be undead unseelie.
-
-The [[Seelie Accords]] describe the dividing of elfish lands between [[seelie elves|seelie]] and unseelie.
-[[Category:Peoples]]
-[[Category:Elves]]
+The [Seelie Accords](/wiki/seelie-accords/) describe the dividing of elfish lands between [seelie](/wiki/seelie-elves/) and unseelie.
+Category:Peoples
+Category:Elves

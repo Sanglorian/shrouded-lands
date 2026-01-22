@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Simone's Aviary
 ---
-
-#REDIRECT[[Simone's Aviary]]
+#REDIRECT[Simone's Aviary](/wiki/simone's-aviary/)

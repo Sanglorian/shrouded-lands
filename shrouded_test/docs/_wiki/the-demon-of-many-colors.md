@@ -12,7 +12,7 @@ media: []
 ---
 **Inspiration:** 'Rainbow Demon' by Uriah Heep
 
-All along [[The World's Edge and Beyond|the World's Edge]], from misty morning and on through night and day, rides a [[demons|demon]] on his [[horses|horse]] of crimson fire. His body is difficult to make out, all twisted angles and a shifting miasma of colors and behind him stretches a great shadow that is so dark that it blinds those who fall under it.
+All along [the World's Edge](/wiki/the-world's-edge-and-beyond/), from misty morning and on through night and day, rides a [demon](/wiki/demons/) on his [horse](/wiki/horses/) of crimson fire. His body is difficult to make out, all twisted angles and a shifting miasma of colors and behind him stretches a great shadow that is so dark that it blinds those who fall under it.
 
 He rides along the entire Edge every day on a perfectly predictable schedule, cutting down any who stand in his way with his prism sword, but does not harass anyone who stays well clear of him.
 
@@ -20,6 +20,6 @@ He rides along the entire Edge every day on a perfectly predictable schedule, cu
 *Why is the demon doing this?
 
 *Where does the demon come from? Why does he look like that?
-[[Category:Characters]]
-[[Category:Creatures]]
-[[Category:The World's Edge and Beyond]]
+Category:Characters
+Category:Creatures
+Category:The World's Edge and Beyond

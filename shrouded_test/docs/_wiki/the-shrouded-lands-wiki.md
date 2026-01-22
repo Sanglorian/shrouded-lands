@@ -42,56 +42,56 @@ These are the great sites of the Shrouded Lands – unless you have others that 
 ## Index placeholder
 As more content is converted over into this wiki, an index will be added to help readers to navigate to the various pages.
 
-[[Resources]]
+[Resources](/wiki/resources/)
 
 ### Regions:
-*[[The Bitter Coast]]
-*[[The Corn Fields]]
-*[[The Devil's Fingers]]
-*[[The Lands of the Night Cattle]]
-*[[The Lost Colony]]
-*[[The Withered Moors]]
-*[[The World's Edge and Beyond]]
-*[[The Lands of Gore]]
-*[[The Duchy of Thring]]
-*[[The Barrier Range]]
-*[[The Kingswood]]
-*[[The Burning Lands]]
+*[The Bitter Coast](/wiki/the-bitter-coast/)
+*[The Corn Fields](/wiki/the-corn-fields/)
+*[The Devil's Fingers](/wiki/the-devil's-fingers/)
+*[The Lands of the Night Cattle](/wiki/the-lands-of-the-night-cattle/)
+*[The Lost Colony](/wiki/the-lost-colony/)
+*[The Withered Moors](/wiki/the-withered-moors/)
+*[The World's Edge and Beyond](/wiki/the-world's-edge-and-beyond/)
+*[The Lands of Gore](/wiki/the-lands-of-gore/)
+*[The Duchy of Thring](/wiki/the-duchy-of-thring/)
+*[The Barrier Range](/wiki/the-barrier-range/)
+*[The Kingswood](/wiki/the-kingswood/)
+*[The Burning Lands](/wiki/the-burning-lands/)
 ### Cities:
-*[[City of Shuttered Windows]] ([[Shuttered and Surrounds]])
-*[[Jahur]]
-*[[Blind Midshotgatepool]] ([[Hinterlands of Blind Midshotgatepool]])
-*[[Winds]]
-*[[City of Smoke]]
-*[[Ninbolm]]
-*[[Azurnay]]
-*[[Sosaria]]
-*[[The Cross]]
+*[City of Shuttered Windows](/wiki/city-of-shuttered-windows/) ([Shuttered and Surrounds](/wiki/shuttered-and-surrounds/))
+*[Jahur](/wiki/jahur/)
+*[Blind Midshotgatepool](/wiki/blind-midshotgatepool/) ([Hinterlands of Blind Midshotgatepool](/wiki/hinterlands-of-blind-midshotgatepool/))
+*[Winds](/wiki/winds/)
+*[City of Smoke](/wiki/city-of-smoke/)
+*[Ninbolm](/wiki/ninbolm/)
+*[Azurnay](/wiki/azurnay/)
+*[Sosaria](/wiki/sosaria/)
+*[The Cross](/wiki/the-cross/)
 
 ![](/media/Shroud3.png)
 
 ## Useful Resources
 *[http://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/ Hexcrawl resources]
-*[[Quick summary]]
+*[Quick summary](/wiki/quick-summary/)
 
 ## Appendices
-[[Phenomena]]
+[Phenomena](/wiki/phenomena/)
 
-[[Plants]]
+[Plants](/wiki/plants/)
 
-[[Nations]]
+[Nations](/wiki/nations/)
 
-[[Appendix N: Inspirations]]
+[Appendix N: Inspirations](/wiki/appendix-n-inspirations/)
 
-[[Organisations]]
+[Organisations](/wiki/organisations/)
 
-[[Other Planes]]
+[Other Planes](/wiki/other-planes/)
 
-[[Professions]]
+[Professions](/wiki/professions/)
 
-[[Spells]]
+[Spells](/wiki/spells/)
 
 ## Latest activity
 <activityfeed></activityfeed>
 
-[[Category:Browse]]
+Category:Browse

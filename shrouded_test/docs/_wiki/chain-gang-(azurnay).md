@@ -11,11 +11,10 @@ categories:
   - "Category:The Burning Lands"
 media: []
 ---
+A cabal of [machinists](/wiki/machinists/) operating in [Azurnay](/wiki/azurnay/).
 
-A cabal of [[machinists]] operating in [[Azurnay]].
-
-Not be be confused with the Duke of Thring's [[Chain Gang (Thring)|Chain Gang]]
-[[Category:Organisations]]
-[[Category:Dwarves]]
-[[Category:Machinists]]
-[[Category:The Burning Lands]]
+Not be be confused with the Duke of Thring's [Chain Gang](/wiki/chain-gang-thring/)
+Category:Organisations
+Category:Dwarves
+Category:Machinists
+Category:The Burning Lands

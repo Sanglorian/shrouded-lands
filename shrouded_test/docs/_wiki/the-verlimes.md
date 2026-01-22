@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Verlimes
 ---
-
-#REDIRECT [[Verlimes]]
+#REDIRECT [Verlimes](/wiki/verlimes/)

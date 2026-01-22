@@ -8,6 +8,5 @@ categories:
   - "Category:Maladies"
 media: []
 ---
-
-Associated in some way with [[Jarmond of the Knife]]. The priests of [[the Azru]] infect children with the [[yellow flux]] because they say it innoculates them against the more severe Jarmond's flux.
-[[Category:Maladies]]
+Associated in some way with [Jarmond of the Knife](/wiki/jarmond-of-the-knife/). The priests of [the Azru](/wiki/the-azru/) infect children with the [yellow flux](/wiki/yellow-flux/) because they say it innoculates them against the more severe Jarmond's flux.
+Category:Maladies

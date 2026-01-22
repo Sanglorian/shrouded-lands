@@ -10,6 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Flea
 ---
-
-#REDIRECT[[Flea]]
-[[Category:Synonyms]]
+#REDIRECT[Flea](/wiki/flea/)
+Category:Synonyms

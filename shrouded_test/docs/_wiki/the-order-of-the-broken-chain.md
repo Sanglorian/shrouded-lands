@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: '27.04'
 ---
-
-#REDIRECT [[27.04]]
+#REDIRECT [27.04](/wiki/27-04/)

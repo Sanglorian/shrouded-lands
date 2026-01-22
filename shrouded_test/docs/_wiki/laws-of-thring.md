@@ -20,5 +20,5 @@ It is not clear if these four other laws complete the Seven Laws, or are lesser 
 ***The Law of the Lake: **Do not desecrate the Lady’s waters. Act swiftly and vengefully upon those who wish her ill.
 ***The Law of Splintered Steel:** When your opponents have been defeated, act both with justice and mercy. Slay not a maimed foe, slay not the unarmed and weak, and in bouts of honor, yield you’re your opponent is broken and defeated.
 ***The Law of Bread and Salt:** After a man has eaten bread and salt at your table he shall enjoy guestright and you may not raise you hand against him.
-[[Category:The Duchy of Thring]]
-[[Category:Customs]]
+Category:The Duchy of Thring
+Category:Customs

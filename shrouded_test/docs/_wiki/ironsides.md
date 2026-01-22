@@ -13,9 +13,8 @@ media: []
 is_redirect: true
 redirect_to: The Cross
 ---
-
-#REDIRECT[[02.11]]
-[[Category:Characters]]
-[[Category:Janissaries]]
-[[Category:The Cross]]
-[[Category:Jahur]]
+#REDIRECT[02.11](/wiki/02-11/)
+Category:Characters
+Category:Janissaries
+Category:The Cross
+Category:Jahur

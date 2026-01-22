@@ -9,7 +9,5 @@ categories:
   - "Category:Organisations"
 media: []
 ---
-
-
-[[Category:Organisations]]
-[[Category:Deities]]
+Category:Organisations
+Category:Deities

@@ -8,12 +8,11 @@ categories:
   - "Category:Nations"
 media: []
 ---
-
-*[[Naros]] [one of the Twelve Nations] (nation)
-*[[The Lands of Gore#High Kings of Gore|The High Kingdom of Gore]] (nation)
-*[[Andara]] (nation)
-*[[Serpantia]] (nation)
-*[[Hyadovere]] (colony)
-*[[Bergolast]] (city)
-*[[Othonoi]] (island civilisation)
-[[Category:Nations]]
+*[Naros](/wiki/naros/) [one of the Twelve Nations] (nation)
+*[The High Kingdom of Gore](/wiki/the-lands-of-gore/) (nation)
+*[Andara](/wiki/andara/) (nation)
+*[Serpantia](/wiki/serpantia/) (nation)
+*[Hyadovere](/wiki/hyadovere/) (colony)
+*[Bergolast](/wiki/bergolast/) (city)
+*[Othonoi](/wiki/othonoi/) (island civilisation)
+Category:Nations

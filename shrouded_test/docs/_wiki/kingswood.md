@@ -9,13 +9,13 @@ categories:
   - "Category:The Kingswood"
 media: []
 ---
-!['Chetwood in the Bree-Land', Neral (CC BY 3.0 Unported)](/media/Chetwood.jpg)Includes hexes: [[22.04]], [[22.06]], [[23.08]], [[23.10]], [[24.05]], [[24.07]], [[25.04]], [[25.07]], [[27.03]], [[27.09]], [[28.07]], [[29.07]], [[29.10]], [[31.07]], [[32.05]], [[33.04]], [[33.08]], [[34.04]], [[34.05]], [[34.10]], [[35.04]], [[35.06]], [[36.04]], [[36.09]], [[37.06]], [[37.07]], [[38.05]], [[38.06]], [[39.08]], [[39.09]], [[40.06]], [[40.09]] and [[41.09]].
+!['Chetwood in the Bree-Land', Neral (CC BY 3.0 Unported)](/media/Chetwood.jpg)Includes hexes: [22.04](/wiki/22-04/), [22.06](/wiki/22-06/), [23.08](/wiki/23-08/), [23.10](/wiki/23-10/), [24.05](/wiki/24-05/), [24.07](/wiki/24-07/), [25.04](/wiki/25-04/), [25.07](/wiki/25-07/), [27.03](/wiki/27-03/), [27.09](/wiki/27-09/), [28.07](/wiki/28-07/), [29.07](/wiki/29-07/), [29.10](/wiki/29-10/), [31.07](/wiki/31-07/), [32.05](/wiki/32-05/), [33.04](/wiki/33-04/), [33.08](/wiki/33-08/), [34.04](/wiki/34-04/), [34.05](/wiki/34-05/), [34.10](/wiki/34-10/), [35.04](/wiki/35-04/), [35.06](/wiki/35-06/), [36.04](/wiki/36-04/), [36.09](/wiki/36-09/), [37.06](/wiki/37-06/), [37.07](/wiki/37-07/), [38.05](/wiki/38-05/), [38.06](/wiki/38-06/), [39.08](/wiki/39-08/), [39.09](/wiki/39-09/), [40.06](/wiki/40-06/), [40.09](/wiki/40-09/) and [41.09](/wiki/41-09/).
 
 Connects to: [08.16](/wiki/08-16/), [18.06](/wiki/18-06/), [18.07.01](/wiki/18-07/), [30.12.01](/wiki/30-12/) [50.11](/wiki/50-11/).
 
-Ancient beyond the reckoning of any of the lesser-lived peoples, the court of the [[Bloodied King]] claims domain over Kingswood, living just as they have for a thousand-thousand years. The Court at Kingswood refuses all diplomatic ties and even the curtest of communication.
+Ancient beyond the reckoning of any of the lesser-lived peoples, the court of the [Bloodied King](/wiki/bloodied-king/) claims domain over Kingswood, living just as they have for a thousand-thousand years. The Court at Kingswood refuses all diplomatic ties and even the curtest of communication.
 
-The [[elves]] of Kingswood kill anyone found within or near their lands during the daylight hours. They cannot be swayed into allowing human traffic through their forest, citing the terms of an ancient covenant with a long forgotten Prince of Men ([[29.07]].03).
+The [elves](/wiki/elves/) of Kingswood kill anyone found within or near their lands during the daylight hours. They cannot be swayed into allowing human traffic through their forest, citing the terms of an ancient covenant with a long forgotten Prince of Men ([29.07](/wiki/29-07/).03).
 
 Those who dare to walk beneath the trees of the wild wood long enough to see the light of the sun filter through the leaves can see much wonder and terror that the elves would prefer to keep away from mortal eyes.![David Revoy/Blender Foundation (CC BY 3.0 Unported)](/media/2010-1-meeting-under-the-tree.jpg)
 ## Hex Summary:
@@ -73,5 +73,5 @@ Those who dare to walk beneath the trees of the wild wood long enough to see the
 # A band of travelling performers have made a camp and invite the party to join them. They say that they are on the road to Lanford-on-the-Zann and have never heard of the City of Shuttered Windows or any other location in the Shrouded Lands.
 # A ragged human with clothes made of freebark grins at the party through bloodstained lips. He holds meat of some sort in his black-nailed hands.
 # A beautiful youth or maiden runs heedless through the woods, already covered with bramble scratches. In the distance a hunting horn sounds…
-[[Category:Regions]]
-[[Category:The Kingswood]]
+Category:Regions
+Category:The Kingswood

@@ -9,5 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Cat trees
 ---
-
-#REDIRECT [[Cat trees]]
+#REDIRECT [Cat trees](/wiki/cat-trees/)
