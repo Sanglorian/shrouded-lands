@@ -4,54 +4,65 @@
   height: auto;
   margin: 0 0 1rem 1rem;
 }
-
 .hexmap {
+  /* Choose the rendered width of one hex tile */
+  --hex-w: 80px;
+  /* Keep SVG aspect ratio: 260x200 -> h = w * 200/260 */
+  --hex-h: calc(var(--hex-w) * 200 / 260);
+
   position: relative;
-  width: 260px;    /* adjust to match your SVG size */
-  height: 230px;   /* enough to fit all 7 tiles */
-  margin: 1rem auto;
+  width: calc(var(--hex-w) * 2.75);   /* enough to fit the cluster */
+  height: calc(var(--hex-h) * 3);     /* 3 rows tall (N, C, S) */
+  margin: 1rem 0;
 }
 
 .hex-tile {
   position: absolute;
-  width: 80px;     /* should match the width of each hex SVG */
-  height: 90px;    /* (or let height auto) */
+  width: var(--hex-w);
+  height: var(--hex-h);
 }
 
-/* Center hex */
+.hex-tile img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Center hex at (1 * W, 1 * H) */
 .hex--center {
-  left: 90px;
-  top: 70px;
+  left: calc(1 * var(--hex-w));
+  top:  calc(1 * var(--hex-h));
 }
 
-/* Straight neighbors */
+/* N is one hex height above centre */
 .hex--N {
-  left: 90px;
-  top: 10px;
+  left: calc(1 * var(--hex-w));
+  top:  0;
 }
 
+/* S is one hex height below centre */
 .hex--S {
-  left: 90px;
-  top: 130px;
+  left: calc(1 * var(--hex-w));
+  top:  calc(2 * var(--hex-h));
 }
 
-/* Diagonals — tune until edges actually touch nicely */
+/* NE / NW / SE / SW: offsets are (±0.75W, ±0.5H) from centre */
 .hex--NE {
-  left: 150px;
-  top: 40px;
+  left: calc(1.75 * var(--hex-w));    /* 1 + 0.75 */
+  top:  calc(0.5  * var(--hex-h));    /* 1 - 0.5  */
 }
 
 .hex--SE {
-  left: 150px;
-  top: 100px;
+  left: calc(1.75 * var(--hex-w));
+  top:  calc(1.5  * var(--hex-h));    /* 1 + 0.5  */
 }
 
 .hex--NW {
-  left: 30px;
-  top: 40px;
+  left: calc(0.25 * var(--hex-w));    /* 1 - 0.75 */
+  top:  calc(0.5  * var(--hex-h));
 }
 
 .hex--SW {
-  left: 30px;
-  top: 100px;
+  left: calc(0.25 * var(--hex-w));
+  top:  calc(1.5  * var(--hex-h));
 }

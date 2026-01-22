@@ -13,89 +13,97 @@ layout: default
   <a href="{{ page.original_url }}">{{ page.original_url }}</a>
 </p>
 
-{% if page.title contains '.' %}
-  {% include hex_ring.html code=page.title %}
-{% endif %}
+<div class="hexmap">
+  {%- comment -%}
+    Parse the hex code from the page title, e.g. "17.06"
+  {%- endcomment -%}
+  {%- assign hex = page.title -%}
+  {%- assign col = hex | slice: 0, 2 | plus: 0 -%}
+  {%- assign row = hex | slice: 3, 2 | plus: 0 -%}
 
-{% if page.image %}
-  <figure class="hex-image" style="float:right; max-width:300px; margin:0 0 1rem 1rem;">
-    <img src="{{ '/media/' | append: page.image | relative_url }}"
-         alt="{{ page.image }}">
-  </figure>
-{% endif %}
+  {%- comment -%}
+    Tiny helper to zero-pad a number to 2 digits
+  {%- endcomment -%}
+  {%- assign col_code = col -%}
+  {%- if col < 10 -%}{%- assign col_code = "0" | append: col -%}{%- endif -%}
+  {%- assign row_code = row -%}
+  {%- if row < 10 -%}{%- assign row_code = "0" | append: row -%}{%- endif -%}
 
-{%- comment -%}
-  Build reciprocal connections:
-  - include page.neighbors
-  - include any page whose neighbors list includes this page (by canonical code)
-{%- endcomment -%}
+  {%- capture center_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
 
-{%- assign neighbors_all = "" | split: "" -%}
+  <!-- Center -->
+  <div class="hex-tile hex--center">
+    <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
+         alt="{{ center_code }}">
+  </div>
 
-{%- comment -%}Canonical code for THIS page (first two segments){%- endcomment -%}
-{%- assign current_parts = page.title | split: '.' -%}
-{%- if current_parts.size >= 2 -%}
-  {%- assign current_canonical = current_parts[0] | append: '.' | append: current_parts[1] -%}
-{%- else -%}
-  {%- assign current_canonical = page.title -%}
-{%- endif -%}
+  {%- comment -%} N neighbour {%- endcomment -%}
+  {%- assign n_row = row | minus: 1 -%}
+  {%- assign n_col = col -%}
+  {%- assign n_col_code = n_col -%}{%- if n_col < 10 -%}{%- assign n_col_code = "0" | append: n_col -%}{%- endif -%}
+  {%- assign n_row_code = n_row -%}{%- if n_row < 10 -%}{%- assign n_row_code = "0" | append: n_row -%}{%- endif -%}
+  {%- capture n_code -%}{{ n_col_code }}-{{ n_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--N">
+    <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
+         alt="{{ n_code }}">
+  </div>
 
-{%- comment -%}1) Forward neighbors from this page{%- endcomment -%}
-{%- if page.neighbors -%}
-  {%- for nb in page.neighbors -%}
-    {%- unless neighbors_all contains nb -%}
-      {%- assign neighbors_all = neighbors_all | push: nb -%}
-    {%- endunless -%}
-  {%- endfor -%}
-{%- endif -%}
+  {%- comment -%} NE neighbour {%- endcomment -%}
+  {%- assign ne_col = col | plus: 1 -%}
+  {%- assign ne_row = row | minus: 1 -%}
+  {%- assign ne_col_code = ne_col -%}{%- if ne_col < 10 -%}{%- assign ne_col_code = "0" | append: ne_col -%}{%- endif -%}
+  {%- assign ne_row_code = ne_row -%}{%- if ne_row < 10 -%}{%- assign ne_row_code = "0" | append: ne_row -%}{%- endif -%}
+  {%- capture ne_code -%}{{ ne_col_code }}-{{ ne_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--NE">
+    <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
+         alt="{{ ne_code }}">
+  </div>
 
-{%- comment -%}
-  2) Reverse neighbors:
-     Any other wiki page whose neighbors list contains this page’s canonical code
-{%- endcomment -%}
-{%- for other in site.wiki -%}
-  {%- unless other.url == page.url -%}
-    {%- if other.neighbors -%}
-      {%- for nb in other.neighbors -%}
-        {%- assign nb_parts = nb | split: '.' -%}
-        {%- if nb_parts.size >= 2 -%}
-          {%- assign nb_canonical = nb_parts[0] | append: '.' | append: nb_parts[1] -%}
-        {%- else -%}
-          {%- assign nb_canonical = nb -%}
-        {%- endif -%}
+  {%- comment -%} SE neighbour {%- endcomment -%}
+  {%- assign se_col = col | plus: 1 -%}
+  {%- assign se_row = row -%}
+  {%- assign se_col_code = se_col -%}{%- if se_col < 10 -%}{%- assign se_col_code = "0" | append: se_col -%}{%- endif -%}
+  {%- assign se_row_code = se_row -%}{%- if se_row < 10 -%}{%- assign se_row_code = "0" | append: se_row -%}{%- endif -%}
+  {%- capture se_code -%}{{ se_col_code }}-{{ se_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--SE">
+    <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
+         alt="{{ se_code }}">
+  </div>
 
-        {%- if nb_canonical == current_canonical -%}
-          {%- comment -%}
-            Use the OTHER page's title as the code to display,
-            so if its title is a full sub-hex like 25.04.01, we show that.
-          {%- endcomment -%}
-          {%- unless neighbors_all contains other.title -%}
-            {%- assign neighbors_all = neighbors_all | push: other.title -%}
-          {%- endunless -%}
-        {%- endif -%}
-      {%- endfor -%}
-    {%- endif -%}
-  {%- endunless -%}
-{%- endfor -%}
+  {%- comment -%} S neighbour {%- endcomment -%}
+  {%- assign s_row = row | plus: 1 -%}
+  {%- assign s_col = col -%}
+  {%- assign s_col_code = s_col -%}{%- if s_col < 10 -%}{%- assign s_col_code = "0" | append: s_col -%}{%- endif -%}
+  {%- assign s_row_code = s_row -%}{%- if s_row < 10 -%}{%- assign s_row_code = "0" | append: s_row -%}{%- endif -%}
+  {%- capture s_code -%}{{ s_col_code }}-{{ s_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--S">
+    <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
+         alt="{{ s_code }}">
+  </div>
 
-{%- comment -%}
-  3) Render neighbors_all.
-     Links always go to the parent hex (first two segments), i.e. /wiki/XX-YY/
-{%- endcomment -%}
-{%- if neighbors_all.size > 0 -%}
-  <p class="hex-neighbors">
-    <strong>Connects to: </strong>
-    {%- for nb in neighbors_all -%}
-      {%- assign nb_parts = nb | split: '.' -%}
-      {%- if nb_parts.size >= 2 -%}
-        {%- assign nb_link_code = nb_parts[0] | append: '-' | append: nb_parts[1] -%}
-      {%- else -%}
-        {%- assign nb_link_code = nb | replace: '.', '-' -%}
-      {%- endif -%}
-      <a href="{{ '/wiki/' | append: nb_link_code | append: '/' | relative_url }}">{{ nb }}</a>{% unless forloop.last %}, {% endunless %}
-    {%- endfor -%}
-  </p>
-{%- endif -%}
+  {%- comment -%} SW neighbour {%- endcomment -%}
+  {%- assign sw_col = col | minus: 1 -%}
+  {%- assign sw_row = row -%}
+  {%- assign sw_col_code = sw_col -%}{%- if sw_col < 10 -%}{%- assign sw_col_code = "0" | append: sw_col -%}{%- endif -%}
+  {%- assign sw_row_code = sw_row -%}{%- if sw_row < 10 -%}{%- assign sw_row_code = "0" | append: sw_row -%}{%- endif -%}
+  {%- capture sw_code -%}{{ sw_col_code }}-{{ sw_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--SW">
+    <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
+         alt="{{ sw_code }}">
+  </div>
+
+  {%- comment -%} NW neighbour {%- endcomment -%}
+  {%- assign nw_col = col | minus: 1 -%}
+  {%- assign nw_row = row | minus: 1 -%}
+  {%- assign nw_col_code = nw_col -%}{%- if nw_col < 10 -%}{%- assign nw_col_code = "0" | append: nw_col -%}{%- endif -%}
+  {%- assign nw_row_code = nw_row -%}{%- if nw_row < 10 -%}{%- assign nw_row_code = "0" | append: nw_row -%}{%- endif -%}
+  {%- capture nw_code -%}{{ nw_col_code }}-{{ nw_row_code }}{%- endcapture -%}
+  <div class="hex-tile hex--NW">
+    <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
+         alt="{{ nw_code }}">
+  </div>
+</div>
+
 
 
 <hr>
