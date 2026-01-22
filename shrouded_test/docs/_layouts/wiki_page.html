@@ -31,7 +31,7 @@ layout: default
 
   {%- capture center_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
 
-  <!-- Center -->
+  <!-- Center (no link, we’re already on this page) -->
   <div class="hex-tile hex--center">
     <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
          alt="{{ center_code }}">
@@ -44,8 +44,10 @@ layout: default
   {%- assign n_row_code = n_row -%}{%- if n_row < 10 -%}{%- assign n_row_code = "0" | append: n_row -%}{%- endif -%}
   {%- capture n_code -%}{{ n_col_code }}-{{ n_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--N">
-    <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
-         alt="{{ n_code }}">
+    <a href="{{ '/wiki/' | append: n_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
+           alt="{{ n_code }}">
+    </a>
   </div>
 
   {%- comment -%} NE neighbour {%- endcomment -%}
@@ -55,8 +57,10 @@ layout: default
   {%- assign ne_row_code = ne_row -%}{%- if ne_row < 10 -%}{%- assign ne_row_code = "0" | append: ne_row -%}{%- endif -%}
   {%- capture ne_code -%}{{ ne_col_code }}-{{ ne_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--NE">
-    <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
-         alt="{{ ne_code }}">
+    <a href="{{ '/wiki/' | append: ne_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
+           alt="{{ ne_code }}">
+    </a>
   </div>
 
   {%- comment -%} SE neighbour {%- endcomment -%}
@@ -66,8 +70,10 @@ layout: default
   {%- assign se_row_code = se_row -%}{%- if se_row < 10 -%}{%- assign se_row_code = "0" | append: se_row -%}{%- endif -%}
   {%- capture se_code -%}{{ se_col_code }}-{{ se_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--SE">
-    <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
-         alt="{{ se_code }}">
+    <a href="{{ '/wiki/' | append: se_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
+           alt="{{ se_code }}">
+    </a>
   </div>
 
   {%- comment -%} S neighbour {%- endcomment -%}
@@ -77,8 +83,10 @@ layout: default
   {%- assign s_row_code = s_row -%}{%- if s_row < 10 -%}{%- assign s_row_code = "0" | append: s_row -%}{%- endif -%}
   {%- capture s_code -%}{{ s_col_code }}-{{ s_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--S">
-    <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
-         alt="{{ s_code }}">
+    <a href="{{ '/wiki/' | append: s_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
+           alt="{{ s_code }}">
+    </a>
   </div>
 
   {%- comment -%} SW neighbour {%- endcomment -%}
@@ -88,8 +96,10 @@ layout: default
   {%- assign sw_row_code = sw_row -%}{%- if sw_row < 10 -%}{%- assign sw_row_code = "0" | append: sw_row -%}{%- endif -%}
   {%- capture sw_code -%}{{ sw_col_code }}-{{ sw_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--SW">
-    <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
-         alt="{{ sw_code }}">
+    <a href="{{ '/wiki/' | append: sw_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
+           alt="{{ sw_code }}">
+    </a>
   </div>
 
   {%- comment -%} NW neighbour {%- endcomment -%}
@@ -99,10 +109,13 @@ layout: default
   {%- assign nw_row_code = nw_row -%}{%- if nw_row < 10 -%}{%- assign nw_row_code = "0" | append: nw_row -%}{%- endif -%}
   {%- capture nw_code -%}{{ nw_col_code }}-{{ nw_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--NW">
-    <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
-         alt="{{ nw_code }}">
+    <a href="{{ '/wiki/' | append: nw_code | append: '/' | relative_url }}">
+      <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
+           alt="{{ nw_code }}">
+    </a>
   </div>
 </div>
+
 
 
 

@@ -6,15 +6,15 @@
 }
 
 .hexmap {
-  /* Width of a single hex image (scale this to taste) */
+  /* Width of a single hex image (scale this for size) */
   --hex-w: 110px;
 
-  /* SVG aspect ratio: adjust if your one-hex SVGs use a different ratio */
+  /* SVG aspect ratio (match your one-hex SVGs) */
   --hex-h: calc(var(--hex-w) * 200 / 260);
 
-  /* How much vertical step between rows (fraction of hex height).
-     < 1 means rows overlap a bit so the drawn hexes touch exactly. */
-  --row-factor: 0.8; /* bump up / down a little if you want finer tuning */
+  /* How far each row is vertically from the next.
+     Tweak this if they aren’t *quite* touching. */
+  --row-factor: 0.80;
   --row-step: calc(var(--hex-h) * var(--row-factor));
 
   position: relative;
@@ -23,14 +23,12 @@
   margin: 1rem 0;
 }
 
-/* every hex is an absolutely-positioned tile */
 .hex-tile {
   position: absolute;
   width: var(--hex-w);
   height: var(--hex-h);
 }
 
-/* when a tile is a link, make the whole hex clickable */
 .hex-tile a {
   display: block;
   width: 100%;
@@ -43,14 +41,12 @@
   display: block;
 }
 
-/* -------- positions (centers) ---------- */
-/* Center at row 1, column 1 */
+/* Positions (flat-top hex layout) */
 .hex--center {
   left: calc(1 * var(--hex-w));
   top:  calc(1 * var(--row-step));
 }
 
-/* N / S are one row-step above/below center */
 .hex--N {
   left: calc(1 * var(--hex-w));
   top:  0;
@@ -61,23 +57,23 @@
   top:  calc(2 * var(--row-step));
 }
 
-/* NE / SE / NW / SW: ±0.75 hex width horizontally, ±0.5 row-step vertically */
 .hex--NE {
-  left: calc(1.75 * var(--hex-w));          /* 1 + 0.75 */
-  top:  calc(0.5  * var(--row-step));       /* 1 - 0.5 */
+  left: calc(1.75 * var(--hex-w));
+  top:  calc(0.5 * var(--row-step));
 }
 
 .hex--SE {
   left: calc(1.75 * var(--hex-w));
-  top:  calc(1.5  * var(--row-step));       /* 1 + 0.5 */
+  top:  calc(1.5 * var(--row-step));
 }
 
 .hex--NW {
-  left: calc(0.25 * var(--hex-w));          /* 1 - 0.75 */
-  top:  calc(0.5  * var(--row-step));
+  left: calc(0.25 * var(--hex-w));
+  top:  calc(0.5 * var(--row-step));
 }
 
 .hex--SW {
   left: calc(0.25 * var(--hex-w));
-  top:  calc(1.5  * var(--row-step));
+  top:  calc(1.5 * var(--row-step));
 }
+
