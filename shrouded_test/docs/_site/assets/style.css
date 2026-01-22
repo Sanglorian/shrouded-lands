@@ -5,75 +5,53 @@
   margin: 0 0 1rem 1rem;
 }
 
-.hex-image img {
-  float: right;
-  max-width: 300px;
-  height: auto;
-  margin: 0 0 1rem 1rem;
-}
-
-.hex-mini-map {
-  display: inline-block;
-  margin: 1rem 0;
-}
-
-.hex-mini-map .hex-row {
-  display: flex;
-  justify-content: center;
-  gap: 0.25rem;
-}
-
-.hex-mini-map img.hex {
-  width: 60px;
-  height: 60px;
-}
-
-.hex-mini-map .hex-empty {
-  width: 60px;
-  height: 60px;
-  display: inline-block;
-}
-
-.hex-ring {
-  --hex-w: 100px;   /* match your single-hex SVG width */
-  --hex-h: 86px;    /* match the SVG height (tweak if needed) */
-
-  display: inline-block;
+.hexmap {
   position: relative;
-  margin: 1rem 0;
+  width: 260px;    /* adjust to match your SVG size */
+  height: 230px;   /* enough to fit all 7 tiles */
+  margin: 1rem auto;
 }
 
-.hex-row {
-  display: flex;
+.hex-tile {
+  position: absolute;
+  width: 80px;     /* should match the width of each hex SVG */
+  height: 90px;    /* (or let height auto) */
 }
 
-.hex-cell {
-  width: var(--hex-w);
-  height: var(--hex-h);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+/* Center hex */
+.hex--center {
+  left: 90px;
+  top: 70px;
 }
 
-.hex-icon {
-  width: 100%;
-  height: auto;
+/* Straight neighbors */
+.hex--N {
+  left: 90px;
+  top: 10px;
 }
 
-/* stagger rows so edges touch */
-.hex-row-top {
-  margin-left: calc(var(--hex-w) * 0.5);
+.hex--S {
+  left: 90px;
+  top: 130px;
 }
 
-.hex-row-mid {
-  margin-top: calc(-0.25 * var(--hex-h));
+/* Diagonals — tune until edges actually touch nicely */
+.hex--NE {
+  left: 150px;
+  top: 40px;
 }
 
-.hex-row-bot {
-  margin-top: calc(-0.25 * var(--hex-h));
-  margin-left: calc(var(--hex-w));
+.hex--SE {
+  left: 150px;
+  top: 100px;
 }
 
-.hex-row-bot .spacer {
-  visibility: hidden;
+.hex--NW {
+  left: 30px;
+  top: 40px;
+}
+
+.hex--SW {
+  left: 30px;
+  top: 100px;
 }

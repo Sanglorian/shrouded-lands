@@ -1,27 +1,59 @@
-{%- assign parts = include.code | split: '.' -%}
-{%- assign cx = parts[0] | plus: 0 -%}
-{%- assign cy = parts[1] | plus: 0 -%}
+<div class="hexmap">
+  {%- assign hex = page.title -%}
+  {%- assign col = hex | slice: 0, 2 | plus: 0 -%}
+  {%- assign row = hex | slice: 3, 2 | plus: 0 -%}
 
-{%- assign cx_m1 = cx | minus: 1 -%}
-{%- assign cx_p1 = cx | plus: 1 -%}
-{%- assign cy_m1 = cy | minus: 1 -%}
-{%- assign cy_p1 = cy | plus: 1 -%}
+  {%- comment %}
+    Utility to build a hex filename "XX-YY" from col/row with zero padding.
+  {% endcomment -%}
+  {% capture center_code %}{{ "%02d" | format: col }}-{{ "%02d" | format: row }}{% endcapture %}
 
-<div class="hex-ring">
-  <div class="hex-row hex-row-top">
-    <div class="hex-cell">{% include hex_icon.html x=cx_m1 y=cy     %}</div>  {# NW #}
-    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy_m1 %}</div>  {# N  #}
-    <div class="hex-cell">{% include hex_icon.html x=cx_p1 y=cy_m1 %}</div>  {# NE #}
+  <div class="hex-tile hex--center">
+    <img src="{{ "/assets/hexmaps/hex-" | append: center_code | append: ".svg" | relative_url }}" alt="{{ hex }}">
   </div>
 
-  <div class="hex-row hex-row-mid">
-    <div class="hex-cell">{% include hex_icon.html x=cx_m1 y=cy_p1 %}</div>  {# SW #}
-    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy    %}</div>  {# Center #}
-    <div class="hex-cell">{% include hex_icon.html x=cx_p1 y=cy    %}</div>  {# SE #}
+  {%- comment %}
+    For each neighbor, compute col/row math and then build the code.
+    (Adjust these according to your axial/offset system if needed.)
+  {% endcomment -%}
+
+  {%- assign n_row = row | minus: 1 -%}
+  {% capture n_code %}{{ "%02d" | format: col }}-{{ "%02d" | format: n_row }}{% endcapture %}
+  <div class="hex-tile hex--N">
+    <img src="{{ "/assets/hexmaps/hex-" | append: n_code | append: ".svg" | relative_url }}" alt="{{ n_code }}">
   </div>
 
-  <div class="hex-row hex-row-bot">
-    <div class="hex-cell spacer"></div>
-    <div class="hex-cell">{% include hex_icon.html x=cx     y=cy_p1 %}</div>  {# S #}
+  {%- assign ne_col = col | plus: 1 -%}
+  {%- assign ne_row = row | minus: 1 -%}
+  {% capture ne_code %}{{ "%02d" | format: ne_col }}-{{ "%02d" | format: ne_row }}{% endcapture %}
+  <div class="hex-tile hex--NE">
+    <img src="{{ "/assets/hexmaps/hex-" | append: ne_code | append: ".svg" | relative_url }}" alt="{{ ne_code }}">
+  </div>
+
+  {%- assign se_col = col | plus: 1 -%}
+  {%- assign se_row = row | plus: 0 -%}
+  {% capture se_code %}{{ "%02d" | format: se_col }}-{{ "%02d" | format: se_row }}{% endcapture %}
+  <div class="hex-tile hex--SE">
+    <img src="{{ "/assets/hexmaps/hex-" | append: se_code | append: ".svg" | relative_url }}" alt="{{ se_code }}">
+  </div>
+
+  {%- assign s_row = row | plus: 1 -%}
+  {% capture s_code %}{{ "%02d" | format: col }}-{{ "%02d" | format: s_row }}{% endcapture %}
+  <div class="hex-tile hex--S">
+    <img src="{{ "/assets/hexmaps/hex-" | append: s_code | append: ".svg" | relative_url }}" alt="{{ s_code }}">
+  </div>
+
+  {%- assign sw_col = col | minus: 1 -%}
+  {%- assign sw_row = row | plus: 0 -%}
+  {% capture sw_code %}{{ "%02d" | format: sw_col }}-{{ "%02d" | format: sw_row }}{% endcapture %}
+  <div class="hex-tile hex--SW">
+    <img src="{{ "/assets/hexmaps/hex-" | append: sw_code | append: ".svg" | relative_url }}" alt="{{ sw_code }}">
+  </div>
+
+  {%- assign nw_col = col | minus: 1 -%}
+  {%- assign nw_row = row | minus: 1 -%}
+  {% capture nw_code %}{{ "%02d" | format: nw_col }}-{{ "%02d" | format: nw_row }}{% endcapture %}
+  <div class="hex-tile hex--NW">
+    <img src="{{ "/assets/hexmaps/hex-" | append: nw_code | append: ".svg" | relative_url }}" alt="{{ nw_code }}">
   </div>
 </div>
