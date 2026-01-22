@@ -1,5 +1,6 @@
 import re
 from pathlib import Path
+import unicodedata
 
 import yaml  # pip install pyyaml
 
@@ -57,6 +58,19 @@ def load_alias_map():
     return data
 
 
+def slugify_title(s: str) -> str:
+    """
+    Fallback slug for unresolved targets.
+    Example: 'Green Lady (Myth)' -> 'green-lady-myth'
+    """
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = s.strip()
+    s = re.sub(r"[^\w\s-]", "", s)
+    s = re.sub(r"\s+", "-", s)
+    return s.lower()
+
+
 # Matches [[Target]] or [[Target|Text]]
 WIKI_LINK_RE = re.compile(r"\[\[([^|\]]+)(\|([^]]+))?\]\]")
 
@@ -78,8 +92,10 @@ def build_title_to_slug_map():
         slug = md.stem  # because permalink is /wiki/:name/
 
         if title in title_to_slug and title_to_slug[title] != slug:
-            print(f"Warning: title '{title}' used for multiple slugs: "
-                  f"{title_to_slug[title]} and {slug}")
+            print(
+                f"Warning: title '{title}' used for multiple slugs: "
+                f"{title_to_slug[title]} and {slug}"
+            )
         title_to_slug.setdefault(title, slug)
 
     return title_to_slug
@@ -119,12 +135,14 @@ def make_link_replacer(alias_map, title_to_slug, current_file):
             slug = title_to_slug.get(canonical_base)
 
         if not slug:
-            # Can't resolve – maybe category, typo, or missing page.
+            # Can't resolve – maybe typo or genuinely missing page.
+            # Keep it as a *broken* link instead of dropping it.
             print(
                 f"Unresolved link target '{raw_target}' "
-                f"(canonical '{canonical_base}') in {current_file}"
+                f"(canonical '{canonical_base}') in {current_file}; "
+                f"keeping as broken link."
             )
-            return text  # fallback: show plain text
+            slug = slugify_title(canonical_base)
 
         url = f"/wiki/{slug}/"
         return f"[{text}]({url})"
@@ -153,6 +171,7 @@ def process_files():
         print(f"Processed {md.name}")
 
     print("Done replacing wiki links.")
+
 
 if __name__ == "__main__":
     process_files()

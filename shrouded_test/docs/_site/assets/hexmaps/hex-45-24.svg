@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="200" viewBox="0 0 260 200">
 <polygon points="130,100 170,130 170,160 130,190 90,160 90,130" fill="#ffeecc" stroke="#222" stroke-width="2"/>
 <text x="130" y="145" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="sans-serif">45.24</text>
-<a xlink:href="/wiki/02-22/"><polygon points="130,10 170,40 170,70 130,100 90,70 90,40" fill="#ddeeff" stroke="#444" stroke-width="2"/></a>
-<a xlink:href="/wiki/15-01/"><polygon points="220,55 260,85 260,115 220,145 180,115 180,85" fill="#ddeeff" stroke="#444" stroke-width="2"/></a>
-<a xlink:href="/wiki/38-28/"><polygon points="220,145 260,175 260,205 220,235 180,205 180,175" fill="#ddeeff" stroke="#444" stroke-width="2"/></a>
+<polygon points="130,10 170,40 170,70 130,100 90,70 90,40" fill="#eeeeee" stroke="#888" stroke-width="2"/>
+<polygon points="220,55 260,85 260,115 220,145 180,115 180,85" fill="#eeeeee" stroke="#888" stroke-width="2"/>
+<polygon points="220,145 260,175 260,205 220,235 180,205 180,175" fill="#eeeeee" stroke="#888" stroke-width="2"/>
 <polygon points="130,190 170,220 170,250 130,280 90,250 90,220" fill="#eeeeee" stroke="#888" stroke-width="2"/>
 <polygon points="50,145 90,175 90,205 50,235 10,205 10,175" fill="#eeeeee" stroke="#888" stroke-width="2"/>
 <polygon points="50,55 90,85 90,115 50,145 10,115 10,85" fill="#eeeeee" stroke="#888" stroke-width="2"/>
