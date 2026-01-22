@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
+{% include hexmap.html %}
 
 <p class="meta">
   {% if page.region %}
@@ -12,114 +13,6 @@ layout: default
 <strong>Original:</strong>
   <a href="{{ page.original_url }}">{{ page.original_url }}</a>
 </p>
-
-<div class="hexmap">
-  {%- comment -%}
-    Parse the hex code from the page title, e.g. "17.06"
-  {%- endcomment -%}
-  {%- assign hex = page.title -%}
-  {%- assign col = hex | slice: 0, 2 | plus: 0 -%}
-  {%- assign row = hex | slice: 3, 2 | plus: 0 -%}
-
-  {%- comment -%}
-    Tiny helper to zero-pad a number to 2 digits
-  {%- endcomment -%}
-  {%- assign col_code = col -%}
-  {%- if col < 10 -%}{%- assign col_code = "0" | append: col -%}{%- endif -%}
-  {%- assign row_code = row -%}
-  {%- if row < 10 -%}{%- assign row_code = "0" | append: row -%}{%- endif -%}
-
-  {%- capture center_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
-
-  <!-- Center (no link, we’re already on this page) -->
-  <div class="hex-tile hex--center">
-    <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
-         alt="{{ center_code }}">
-  </div>
-
-  {%- comment -%} N neighbour {%- endcomment -%}
-  {%- assign n_row = row | minus: 1 -%}
-  {%- assign n_col = col -%}
-  {%- assign n_col_code = n_col -%}{%- if n_col < 10 -%}{%- assign n_col_code = "0" | append: n_col -%}{%- endif -%}
-  {%- assign n_row_code = n_row -%}{%- if n_row < 10 -%}{%- assign n_row_code = "0" | append: n_row -%}{%- endif -%}
-  {%- capture n_code -%}{{ n_col_code }}-{{ n_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--N">
-    <a href="{{ '/wiki/' | append: n_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
-           alt="{{ n_code }}">
-    </a>
-  </div>
-
-  {%- comment -%} NE neighbour {%- endcomment -%}
-  {%- assign ne_col = col | plus: 1 -%}
-  {%- assign ne_row = row | minus: 1 -%}
-  {%- assign ne_col_code = ne_col -%}{%- if ne_col < 10 -%}{%- assign ne_col_code = "0" | append: ne_col -%}{%- endif -%}
-  {%- assign ne_row_code = ne_row -%}{%- if ne_row < 10 -%}{%- assign ne_row_code = "0" | append: ne_row -%}{%- endif -%}
-  {%- capture ne_code -%}{{ ne_col_code }}-{{ ne_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--NE">
-    <a href="{{ '/wiki/' | append: ne_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
-           alt="{{ ne_code }}">
-    </a>
-  </div>
-
-  {%- comment -%} SE neighbour {%- endcomment -%}
-  {%- assign se_col = col | plus: 1 -%}
-  {%- assign se_row = row -%}
-  {%- assign se_col_code = se_col -%}{%- if se_col < 10 -%}{%- assign se_col_code = "0" | append: se_col -%}{%- endif -%}
-  {%- assign se_row_code = se_row -%}{%- if se_row < 10 -%}{%- assign se_row_code = "0" | append: se_row -%}{%- endif -%}
-  {%- capture se_code -%}{{ se_col_code }}-{{ se_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--SE">
-    <a href="{{ '/wiki/' | append: se_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
-           alt="{{ se_code }}">
-    </a>
-  </div>
-
-  {%- comment -%} S neighbour {%- endcomment -%}
-  {%- assign s_row = row | plus: 1 -%}
-  {%- assign s_col = col -%}
-  {%- assign s_col_code = s_col -%}{%- if s_col < 10 -%}{%- assign s_col_code = "0" | append: s_col -%}{%- endif -%}
-  {%- assign s_row_code = s_row -%}{%- if s_row < 10 -%}{%- assign s_row_code = "0" | append: s_row -%}{%- endif -%}
-  {%- capture s_code -%}{{ s_col_code }}-{{ s_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--S">
-    <a href="{{ '/wiki/' | append: s_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
-           alt="{{ s_code }}">
-    </a>
-  </div>
-
-  {%- comment -%} SW neighbour {%- endcomment -%}
-  {%- assign sw_col = col | minus: 1 -%}
-  {%- assign sw_row = row -%}
-  {%- assign sw_col_code = sw_col -%}{%- if sw_col < 10 -%}{%- assign sw_col_code = "0" | append: sw_col -%}{%- endif -%}
-  {%- assign sw_row_code = sw_row -%}{%- if sw_row < 10 -%}{%- assign sw_row_code = "0" | append: sw_row -%}{%- endif -%}
-  {%- capture sw_code -%}{{ sw_col_code }}-{{ sw_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--SW">
-    <a href="{{ '/wiki/' | append: sw_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
-           alt="{{ sw_code }}">
-    </a>
-  </div>
-
-  {%- comment -%} NW neighbour {%- endcomment -%}
-  {%- assign nw_col = col | minus: 1 -%}
-  {%- assign nw_row = row | minus: 1 -%}
-  {%- assign nw_col_code = nw_col -%}{%- if nw_col < 10 -%}{%- assign nw_col_code = "0" | append: nw_col -%}{%- endif -%}
-  {%- assign nw_row_code = nw_row -%}{%- if nw_row < 10 -%}{%- assign nw_row_code = "0" | append: nw_row -%}{%- endif -%}
-  {%- capture nw_code -%}{{ nw_col_code }}-{{ nw_row_code }}{%- endcapture -%}
-  <div class="hex-tile hex--NW">
-    <a href="{{ '/wiki/' | append: nw_code | append: '/' | relative_url }}">
-      <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
-           alt="{{ nw_code }}">
-    </a>
-  </div>
-</div>
-
-
-
-
-<hr>
 
 <article class="wiki-content">
   {{ content }}

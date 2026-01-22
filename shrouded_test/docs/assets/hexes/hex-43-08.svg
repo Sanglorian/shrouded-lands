@@ -2,7 +2,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="100" height="89" viewBox="0 0 100 89">
   <a xlink:href="/wiki/43-08/">
-    <polygon points="30.0,9.9 70.0,9.9 90.0,44.5 70.0,79.1 30.0,79.1 10.0,44.5" fill="#ffdca8" stroke="#333333" stroke-width="2"/>
+    <polygon points="30.0,9.9 70.0,9.9 90.0,44.5 70.0,79.1 30.0,79.1 10.0,44.5" fill="#C99400" stroke="#333333" stroke-width="2"/>
     <text x="50.0" y="44.5" text-anchor="middle" dominant-baseline="middle"
           font-size="14" font-family="system-ui, sans-serif">43.08</text>
   </a>

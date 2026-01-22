@@ -1,0 +1,89 @@
+<div class="hexmap">
+  {%- comment -%}
+    Parse the hex code from the page title, e.g. "19.05"
+  {%- endcomment -%}
+  {%- assign hex = page.title -%}
+  {%- assign col = hex | slice: 0, 2 | plus: 0 -%}
+  {%- assign row = hex | slice: 3, 2 | plus: 0 -%}
+
+  {%- comment -%}
+    Zero-pad helpers: 3 -> "03"
+  {%- endcomment -%}
+  {%- assign col_code = col -%}
+  {%- if col < 10 -%}{%- assign col_code = "0" | append: col -%}{%- endif -%}
+  {%- assign row_code = row -%}
+  {%- if row < 10 -%}{%- assign row_code = "0" | append: row -%}{%- endif -%}
+
+  {%- capture center_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
+
+  <!-- CENTER (never a link, we’re already on this page) -->
+  <div class="hex-tile hex--center">
+    <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
+         alt="{{ center_code }}">
+  </div>
+
+  {%- comment -%}
+    Directions and axial offsets for flat-topped hex grid
+    N  = ( 0, -1)
+    NE = (+1, -1)
+    SE = (+1,  0)
+    S  = ( 0, +1)
+    SW = (-1,  0)
+    NW = (-1, -1)
+  {%- endcomment -%}
+  {%- assign dirs     = "N,NE,SE,S,SW,NW" | split: "," -%}
+  {%- assign offsets  = "0,-1|1,-1|1,0|0,1|-1,0|-1,-1" | split: "|" -%}
+
+  {%- for raw in offsets -%}
+    {%- assign dir = dirs[forloop.index0] -%}
+
+    {%- assign parts = raw | split: "," -%}
+    {%- assign dx = parts[0] | plus: 0 -%}
+    {%- assign dy = parts[1] | plus: 0 -%}
+
+    {%- assign n_col = col | plus: dx -%}
+    {%- assign n_row = row | plus: dy -%}
+
+    {%- comment -%}
+      Bounds check: your world is 00–44 x 00–29
+    {%- endcomment -%}
+    {%- if n_col < 0 or n_col > 44 or n_row < 0 or n_row > 29 -%}
+      {%- continue -%}
+    {%- endif -%}
+
+    {%- assign n_col_code = n_col -%}
+    {%- if n_col < 10 -%}{%- assign n_col_code = "0" | append: n_col -%}{%- endif -%}
+    {%- assign n_row_code = n_row -%}
+    {%- if n_row < 10 -%}{%- assign n_row_code = "0" | append: n_row -%}{%- endif -%}
+
+    {%- capture n_code -%}{{ n_col_code }}-{{ n_row_code }}{%- endcapture -%}
+    {%- capture n_title -%}{{ n_col_code }}.{{ n_row_code }}{%- endcapture -%}
+
+    {%- comment -%}
+      Only link if a wiki page actually exists.
+
+      We treat the "real" hex page title as "XX.YY", so we look
+      for a document in site.wiki whose front matter title matches.
+    {%- endcomment -%}
+    {%- assign has_page = false -%}
+    {%- assign n_url = "" -%}
+    {%- for w in site.wiki -%}
+      {%- if w.title == n_title -%}
+        {%- assign has_page = true -%}
+        {%- assign n_url = w.url -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    <div class="hex-tile hex--{{ dir }}">
+      {%- if has_page -%}
+        <a href="{{ n_url | relative_url }}">
+      {%- endif -%}
+      <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
+           alt="{{ n_code }}">
+      {%- if has_page -%}
+        </a>
+      {%- endif -%}
+    </div>
+  {%- endfor -%}
+</div>
