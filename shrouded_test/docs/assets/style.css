@@ -6,11 +6,22 @@
 }
 
 .hexmap {
+  /* Same core geometry */
+  --hex-r: 30px;
+  --hex-h: calc(0.8660254 * var(--hex-r)); /* sqrt(3)/2 ≈ 0.8660 */
+
   position: relative;
-  width: 300px;   /* big enough to hold all 7 hexes */
-  height: 312px;
-  margin: 0 auto 1.5rem;
+
+  /* Add a bit of breathing room around the theoretical bounds */
+  width:  calc(4 * var(--hex-r) + 16px);   /* 4r + 16px padding */
+  height: calc(3 * var(--hex-h) + 16px);   /* 3h + 16px padding */
+
+  padding: 8px;              /* puts that 16px split as 8px on each side */
+  box-sizing: content-box;   /* padding extends outside the layout math */
+
+  margin: 1rem auto 1.5rem;
 }
+
 
 /* Each hex image is treated as a 120×104 box.
    120px ≈ 2 * side length (s = 30)
