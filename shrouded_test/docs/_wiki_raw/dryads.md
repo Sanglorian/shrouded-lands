@@ -18,9 +18,9 @@ media: []
 [[File:Apollo_and_Daphne_.jpg|thumb|400px|adel adili, Creative Commons BY-SA 3.0 Unported]]
 ==Connections==
 
-[http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 Dryads] killed by [http://shrouded-lands.wikia.com/wiki/Vampires vampires] become [http://shrouded-lands.wikia.com/wiki/Corpse_trees?action=edit&redlink=1 corpse trees] ([[11.11]]).
+Dryads killed by [[Vampires]] become [[corpse trees]] ([[11.11]]).
 
-Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?action=edit&redlink=1 hawthorn dryads] can chop down their shrub and fashion it into a still-living but functional item.
+Unique among the dryads, hawthorn dryads can chop down their shrub and fashion it into a still-living but functional item.
 
 [[Supendar]], a dryad planted before the fall of Bergolast, is responsible for the presence of the dryads in the Shrouded Lands - and for the fall of [[Naros]].
 
@@ -32,7 +32,7 @@ Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?a
 
 *The woman who ended the [[Seelie-Unseelie wars]] was a hawthorn dryad
 
-*A forest dell in Gore ([[051.14]]) is home to the largest grove of [http://shrouded-lands.wikia.com/wiki/Dryads?action=edit&redlink=1 dryads] on this side of the Keening Sea. Rather than growing here naturally, all of the trees of the dryads were transplanted here fifteen years ago when [http://shrouded-lands.wikia.com/wiki/Naros Naros] fell to the curse of the arch-lich [http://shrouded-lands.wikia.com/wiki/Supendar?action=edit&redlink=1 Supendar] (29.14.12).
+*A forest dell in Gore ([[051.14]]) is home to the largest grove of dryads on this side of the Keening Sea. Rather than growing here naturally, all of the trees of the dryads were transplanted here fifteen years ago when [[Naros]] fell to the curse of the arch-lich [[Supendar]] (29.14.12).
 
 *The near-death of her tree makes a dryad in the Kingswood ravenous ([[32.05]])
 
