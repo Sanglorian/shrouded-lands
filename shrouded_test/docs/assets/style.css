@@ -58,3 +58,32 @@
 .hex--NE { left: 180px; top:  52px; }
 .hex--SE { left: 180px; top: 156px; }
 
+.world-map-wrapper {
+  overflow: auto;
+  padding: 1rem 0;
+}
+
+.world-map {
+  --hex-width: 120px;
+  --hex-height: 104px;
+  --hex-x-step: 90px;
+  --hex-y-step: 104px;
+  --hex-y-offset: 52px;
+
+  position: relative;
+  width: calc(var(--hex-x-step) * 44 + var(--hex-width));
+  height: calc(var(--hex-y-step) * 29 + var(--hex-height) + var(--hex-y-offset));
+  margin: 0 auto;
+}
+
+.world-map__tile {
+  position: absolute;
+  width: var(--hex-width);
+  height: var(--hex-height);
+}
+
+.world-map__tile img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

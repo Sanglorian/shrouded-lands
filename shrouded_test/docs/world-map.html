@@ -1,0 +1,40 @@
+---
+layout: default
+title: "World Map"
+---
+
+<h1>World Map</h1>
+<p class="desc">
+  Every hex in the Shrouded Lands, rendered as a single map. Click a hex to open
+  its entry.
+</p>
+
+<div class="world-map-wrapper">
+  <div class="world-map">
+    {%- for col in (0..44) -%}
+      {%- assign col_mod = col | modulo: 2 -%}
+      {%- for row in (0..29) -%}
+        {%- assign left = col | times: 90 -%}
+        {%- assign top = row | times: 104 -%}
+        {%- if col_mod == 1 -%}
+          {%- assign top = top | plus: 52 -%}
+        {%- endif -%}
+        {%- assign col_code = col -%}
+        {%- if col < 10 -%}
+          {%- assign col_code = "0" | append: col -%}
+        {%- endif -%}
+        {%- assign row_code = row -%}
+        {%- if row < 10 -%}
+          {%- assign row_code = "0" | append: row -%}
+        {%- endif -%}
+        {%- capture hex_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
+        <a class="world-map__tile"
+           href="{{ '/wiki/' | append: hex_code | append: '/' | relative_url }}"
+           style="left: {{ left }}px; top: {{ top }}px;">
+          <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
+               alt="{{ hex_code }}">
+        </a>
+      {%- endfor -%}
+    {%- endfor -%}
+  </div>
+</div>
