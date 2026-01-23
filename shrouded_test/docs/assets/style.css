@@ -60,20 +60,22 @@
 
 .world-map-wrapper {
   overflow: auto;
-  padding: 1rem 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
 }
 
 .world-map {
-  --hex-width: 120px;
-  --hex-height: 104px;
-  --hex-x-step: 90px;
-  --hex-y-step: 104px;
-  --hex-y-offset: 52px;
+  --hex-width: 60px;
+  --hex-height: 52px;
+  --hex-x-step: 45px;
+  --hex-y-step: 52px;
+  --hex-y-offset: 26px;
 
   position: relative;
   width: calc(var(--hex-x-step) * 44 + var(--hex-width));
   height: calc(var(--hex-y-step) * 29 + var(--hex-height) + var(--hex-y-offset));
-  margin: 0 auto;
+  margin: 0;
 }
 
 .world-map__tile {
@@ -86,4 +88,19 @@
   display: block;
   width: 100%;
   height: auto;
+}
+
+.world-map__tile--static {
+  cursor: default;
+}
+
+.world-map-page {
+  margin: 0;
+  max-width: none;
+  padding: 0;
+}
+
+.world-map-page nav,
+.world-map-page footer {
+  display: none;
 }

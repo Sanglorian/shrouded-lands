@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "World Map"
+body_class: world-map-page
 ---
 
 <h1>World Map</h1>
@@ -14,10 +15,10 @@ title: "World Map"
     {%- for col in (0..44) -%}
       {%- assign col_mod = col | modulo: 2 -%}
       {%- for row in (0..29) -%}
-        {%- assign left = col | times: 90 -%}
-        {%- assign top = row | times: 104 -%}
+        {%- assign left = col | times: 45 -%}
+        {%- assign top = row | times: 52 -%}
         {%- if col_mod == 1 -%}
-          {%- assign top = top | plus: 52 -%}
+          {%- assign top = top | plus: 26 -%}
         {%- endif -%}
         {%- assign col_code = col -%}
         {%- if col < 10 -%}
@@ -28,12 +29,22 @@ title: "World Map"
           {%- assign row_code = "0" | append: row -%}
         {%- endif -%}
         {%- capture hex_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
-        <a class="world-map__tile"
-           href="{{ '/wiki/' | append: hex_code | append: '/' | relative_url }}"
-           style="left: {{ left }}px; top: {{ top }}px;">
-          <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
-               alt="{{ hex_code }}">
-        </a>
+        {%- assign hex_title = hex_code | replace: "-", "." -%}
+        {%- assign hex_page = site.wiki | where_exp: "item", "item.slug == hex_code or item.title == hex_title" | first -%}
+        {%- if hex_page -%}
+          <a class="world-map__tile"
+             href="{{ hex_page.url | relative_url }}"
+             style="left: {{ left }}px; top: {{ top }}px;">
+            <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
+                 alt="{{ hex_code }}">
+          </a>
+        {%- else -%}
+          <div class="world-map__tile world-map__tile--static"
+               style="left: {{ left }}px; top: {{ top }}px;">
+            <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
+                 alt="{{ hex_code }}">
+          </div>
+        {%- endif -%}
       {%- endfor -%}
     {%- endfor -%}
   </div>
