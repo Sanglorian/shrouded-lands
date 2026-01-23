@@ -1,5 +1,7 @@
 title: "Shrouded Lands Wiki Mirror"
 markdown: kramdown
+baseurl: ""
+url: ""
 
 collections:
   wiki:
@@ -16,4 +18,3 @@ defaults:
 
 exclude:
   - ignore_wiki_templates
-
