@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drop_bears"
 categories:
   - "Creatures"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![Frank E Beddard](/media/Cambridge_Natural_History_Mammalia_Fig_070.jpg)Although quite small and not especially fearsome looking, drop bears can be a real hazard as they fall on their victims from great heights, which often results in broken backs or crushed limbs.

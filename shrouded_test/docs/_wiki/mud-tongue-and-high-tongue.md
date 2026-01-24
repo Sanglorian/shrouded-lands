@@ -5,8 +5,8 @@ pageid: 3214
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Mud_Tongue_and_High_Tongue"
 categories:
-  - "Category:Languages"
-  - "Category:The Shuttered City"
+  - "Languages"
+  - "The Shuttered City"
 media: []
 ---
 ## With a Mouth Full of Mud

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Phoenix"
 categories:
   - "Birds"
   - "Creatures"
-  - "Category:Elementals"
+  - "Elementals"
   - "Category:Olmsteds"
 media: []
 ---

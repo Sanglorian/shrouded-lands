@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Asrigh"
 pageid: 2667
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Asrigh"
 categories:
   - "Category:Deities"

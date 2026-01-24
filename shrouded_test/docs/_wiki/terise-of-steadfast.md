@@ -5,10 +5,10 @@ pageid: 2614
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Terise_of_Steadfast"
 categories:
-  - "Category:Hinterlands of Blind Midshotgatepool"
-  - "Category:Mermaids"
-  - "Category:Steadfasts"
-  - "Category:The Keening Sea"
+  - "Hinterlands of Blind Midshotgatepool"
+  - "Mermaids"
+  - "Steadfasts"
+  - "The Keening Sea"
 media: []
 ---
 Terise lives on the shore of [The Keening Sea](/wiki/the-keening-sea/) ([28.21](/wiki/28-21/)) where she sets up a feast to lure travellers.

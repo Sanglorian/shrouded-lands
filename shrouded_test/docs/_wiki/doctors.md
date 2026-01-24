@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Doctors"
 categories:
   - "Professions"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 : See also [Plague doctors](/wiki/plague-doctors/)

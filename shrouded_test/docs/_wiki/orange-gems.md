@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Orange_gems"
 categories:
   - "Category:Gems"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 [Lady Naideen](/wiki/lady-naideen/) animated a wax golem using a stone shaped like a snake’s egg but covered in orange scales that shone like gems ([17.11](/wiki/17-11/)).

@@ -3,10 +3,11 @@ layout: wiki_page
 title: "The Burning Lands"
 pageid: 2784
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Burning_Lands"
 categories:
   - "Category:Regions"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 ![](/media/Burning.jpg)Includes hexes: [24.26](/wiki/24-26/), [27.23](/wiki/27-23/), [27.27](/wiki/27-27/), [29.24](/wiki/29-24/), [29.29](/wiki/29-29/), [31.27](/wiki/31-27/), [32.22](/wiki/32-22/), [32.32](/wiki/32-32/), [34.25](/wiki/34-25/), [37.21](/wiki/37-21/), [38.26](/wiki/38-26/), [38.27](/wiki/38-27/), [38.28](/wiki/38-28/), [39.31](/wiki/39-31/), [39.32](/wiki/39-32/), [40.20](/wiki/40-20/), [41.24](/wiki/41-24/), [43.22](/wiki/43-22/), [43.27](/wiki/43-27/), [44.17](/wiki/44-17/), [44.19](/wiki/44-19/), [44.22](/wiki/44-22/), [45.18](/wiki/45-18/), [45.24](/wiki/45-24/), [48.18](/wiki/48-18/), [48.24](/wiki/48-24/), [48.32](/wiki/48-32/), [48.33](/wiki/48-33/), [49.32](/wiki/49-32/), [50.20](/wiki/50-20/), [50.26](/wiki/50-26/), [50.29](/wiki/50-29/), [50.30](/wiki/50-30/), [51.17](/wiki/51-17/) and [51.29](/wiki/51-29/)

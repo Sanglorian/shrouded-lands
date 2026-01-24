@@ -5,11 +5,11 @@ pageid: 4085
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sorcerer_of_Tarengael_Town"
 categories:
-  - "Category:Baron Autumn"
+  - "Baron Autumn"
   - "Category:Characters"
-  - "Category:Priests"
-  - "Category:Sorcerers"
-  - "Category:The Duchy of Thring"
+  - "Priests"
+  - "Sorcerers"
+  - "The Duchy of Thring"
 media: []
 ---
 : See also [Sorcerers](/wiki/sorcerers/)

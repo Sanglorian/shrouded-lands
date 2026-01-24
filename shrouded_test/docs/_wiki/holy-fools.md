@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Holy_Fools"
 categories:
   - "Category:Iano"
-  - "Category:Jahur"
+  - "Jahur"
   - "Organisationss"
   - "Category:Religious groups"
 media: []

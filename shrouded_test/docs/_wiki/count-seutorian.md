@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Count_Seutorian"
 categories:
   - "Category:Nobles"
   - "Category:Seutorians"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 * *Family: **[Seutorians](/wiki/seutorians/). Count Seutorian is uncle of [Lucin Seutorian](/wiki/lucin-seutorian/) and [Cliffar Seutorian](/wiki/cliffar-seutorian/) ([11.03](/wiki/11-03/))

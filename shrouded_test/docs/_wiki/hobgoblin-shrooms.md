@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblin_shrooms"
 categories:
   - "Category:Fungi"
-  - "Category:Hobgoblins"
+  - "Hobgoblins"
   - "Plants"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 Come in several colours. Each has different effects when prepared as [shroom wine](/wiki/shroom-wine/).

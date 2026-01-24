@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hoarlephants"
 categories:
   - "Creatures"
-  - "Category:Elephants"
-  - "Category:The World's Edge and Beyond"
+  - "Elephants"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![Monks unwisely examine an albino hoarlephant.](/media/Blind_monks_examining_an_elephant.jpg)The hoarlephant resembles a mundane [elephant](/wiki/elephants/), but is much larger, with jet-black skin and a bloated belly. Though they are carnivores, their predations upon travellers in the jungle are often nothing short of malicious. They use their long trunks to pick up their victims and impale them on their tusks for later consumption. Though they do not speak, they seem to posess a great deal of animal cunning, and will sometimes cover themselves in rotting vegetation to lie in ambush.

@@ -5,9 +5,9 @@ pageid: 4112
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Daz"
 categories:
-  - "Category:Paladins"
+  - "Paladins"
   - "Category:Peoples"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 North of Castle Tarengael ([16.16](/wiki/16-16/)) is a somewhat swampy stretch of river ([18.14](/wiki/18-14/)) inhabited by a clan of degenerate villagers known as the [Daz](/wiki/daz/). They are among the last remnants of a race that dwelled in these lands before the formation of Thring. It is said that the older they grow, the more the Daz take on a curiously flat appearance. Their necks fuse into their shoulders, they grow gills, and a poisonous stinger emerges painfully from their tailbone. Those who live to a great age will eventually leap into the water and never be heard from again, having transformed into [river-mantas](/wiki/mantas/). To the most erudite of sages, it is clear that the Daz share some sort of connection to the manta-people of the Inverted Temple ([20.20](/wiki/20-20/)).

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Varao"
 categories:
   - "Category:Customs"
-  - "Category:Halflings"
+  - "Halflings"
   - "Category:Philosophies"
 media: []
 ---

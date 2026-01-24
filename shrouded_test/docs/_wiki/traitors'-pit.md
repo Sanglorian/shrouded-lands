@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Traitors%27_Pit"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## The Traitors' Pit

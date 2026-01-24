@@ -5,9 +5,9 @@ pageid: 3549
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ishin_Kaimanu"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Families"
-  - "Category:The Westmarches"
+  - "The Westmarches"
 media: []
 ---
 The desperate cannibalistic derro that now huddle in the Trench of the Battle Hills ([05.06](/wiki/05-06/)) are the descendants of an ancient dwarven clan, the Ishin Kaimanu (usually translated as "dead man's hair" or "battle beard"). After coming here in exile out of the east, carrying the blessed [Stein of the Drinker](/wiki/drinker's-stein/) (the [Drinker of Iron](/wiki/drinker-of-iron/) is a popular dwarven deity) they set about raising fortifications. Before the construction was completed, however, the lord of Clan Battle Beard died.

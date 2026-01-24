@@ -5,10 +5,10 @@ pageid: 3066
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Helged_Bolger"
 categories:
-  - "Category:Bolgers"
+  - "Bolgers"
   - "Category:Characters"
-  - "Category:The Shuttered City"
-  - "Category:Vampires"
+  - "The Shuttered City"
+  - "Vampires"
 media: []
 ---
 !['Krasue (Thai) or Ab (Khmer)', Xavier Romero-Frias (CC BY-SA 3.0 Unported)](/media/XRF-krasue.jpg)Connects to: [17.06](/wiki/17-06/) and [30.15](/wiki/30-15/).

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jayla_Mullard"
 categories:
   - "Category:Characters"
-  - "Category:Longspears"
+  - "Longspears"
 media: []
 ---
 * *Family:** [Longspears](/wiki/longspears/). Jayla is the great-granddaughter of [Egil Longspear](/wiki/egil-longspear/) on her mother's side.

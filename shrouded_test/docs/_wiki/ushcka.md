@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ushcka"
 categories:
   - "Category:Characters"
-  - "Category:Ogres"
-  - "Category:The Barrier Range"
+  - "Ogres"
+  - "The Barrier Range"
 media: []
 ---
 Ushcka dwells in a disarmingly cozy cave in the middle of a dark forest ([21.15](/wiki/21-15/)). She possesses an unusually strong maternal instinct for being an ogress. However, she will never become a mother because of her banishment from Hoth Achaar *([26.01.03](/wiki/26-01/))*. Her inability to have children tormented her, then drove her insane. After a long journey, she settled in this grove and gathered a surrogate family.

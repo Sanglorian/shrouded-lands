@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_Ulthar"
 categories:
   - "Category:Characters"
-  - "Category:Ducal family of Thring"
-  - "Category:The Duchy of Thring"
+  - "Ducal family of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 ## Duke Ulthar the Loved

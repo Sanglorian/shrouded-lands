@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Category:Conflicts"
   - "Category:Historical events"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 According to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/), the **Time of Schisms** broke out when a preacher revealled that [Alberon](/wiki/alberon/) has only avoided conquering the world because he is trapped in [Shuttered](/wiki/shuttered/)

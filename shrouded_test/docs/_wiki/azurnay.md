@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Azurnay"
 categories:
   - "Category:Cities"
-  - "Category:Dwarves"
-  - "Category:The Burning Lands"
+  - "Dwarves"
+  - "The Burning Lands"
 media: []
 ---
 ![](/media/2426.png)Hex [24.26](/wiki/24-26/)

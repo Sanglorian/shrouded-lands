@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Sosaria"
 pageid: 2988
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sosaria"
 categories:
   - "Category:Cities"
-  - "Category:The Burning Lands"
-  - "Category:The Keening Sea"
+  - "The Burning Lands"
+  - "The Keening Sea"
 media: []
 ---
 ## Sosaria, the Conjured City

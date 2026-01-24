@@ -3,16 +3,17 @@ layout: wiki_page
 title: "Cattle"
 pageid: 4065
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle"
 categories:
   - "Alberon"
   - "Category:Animals"
-  - "Category:Cattle"
+  - "Cattle"
   - "Creatures"
-  - "Category:Sosaria"
-  - "Category:The Burning Lands"
-  - "Category:The Lands of the Night Cattle"
-  - "Category:The Shuttered City"
+  - "Sosaria"
+  - "The Burning Lands"
+  - "The Lands of the Night Cattle"
+  - "The Shuttered City"
 media: []
 ---
 ## Industry

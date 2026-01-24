@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Withered_Moors"
 categories:
   - "Category:Regions"
-  - "Category:The Withered Moors"
+  - "The Withered Moors"
 media: []
 ---
 ![](/media/Withered.png)

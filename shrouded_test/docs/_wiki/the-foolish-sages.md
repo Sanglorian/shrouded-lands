@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Foolish_Sages"
 categories:
   - "Creatures"
   - "Organisationss"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 These eccentric sages were exiled to Border’s Hill ([20.18](/wiki/20-18/), on the borders of Thring) after an unfortunate accident involving a magical experiment on a herd of the Duke's cattle.![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs23.jpg)

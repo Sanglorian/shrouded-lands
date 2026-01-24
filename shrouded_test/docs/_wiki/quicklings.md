@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Quicklings"
 categories:
   - "Assassins"
   - "Creatures"
-  - "Category:Elves"
+  - "Elves"
   - "Category:Peoples"
 media: []
 ---

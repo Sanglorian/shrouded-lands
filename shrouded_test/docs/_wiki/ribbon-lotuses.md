@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ribbon_lotuses
 categories:
 - Plants
-- Category:The Kingswood
+- The Kingswood
 media: []
 is_redirect: true
 redirect_to: Wild men

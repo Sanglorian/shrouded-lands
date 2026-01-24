@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Monatheron"
 categories:
   - "Category:Hex"
-  - "Category:Shuttered and Surrounds"
+  - "Shuttered and Surrounds"
 media: []
 ---
 ## The Falling Walls of Monatheron

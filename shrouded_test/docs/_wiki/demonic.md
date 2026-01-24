@@ -5,7 +5,7 @@ pageid: 2957
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Demonic"
 categories:
-  - "Category:Languages"
+  - "Languages"
 media: []
 ---
 Presumably spoken by [demons](/wiki/demons/).

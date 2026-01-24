@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Droesh"
 categories:
   - "Category:Characters"
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Newhill"
 media: []
 ---

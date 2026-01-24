@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Ziggurat"
 categories:
   - "Category:Hex"
   - "Category:LostSoul"
-  - "Category:The Westmarches"
+  - "The Westmarches"
 media: []
 ---
 ![Frank C Pape](/media/FrankCPape10.jpg)

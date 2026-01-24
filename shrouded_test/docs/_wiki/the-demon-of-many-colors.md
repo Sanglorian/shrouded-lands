@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Demon_of_Many_Colors"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
 media: []
 ---
 * *Inspiration:** 'Rainbow Demon' by Uriah Heep

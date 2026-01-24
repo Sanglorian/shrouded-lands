@@ -5,11 +5,11 @@ pageid: 3484
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hawthorn"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Green Lady"
   - "Plants"
-  - "Category:Scarecrows"
-  - "Category:The Kingswood"
+  - "Scarecrows"
+  - "The Kingswood"
 media: []
 ---
 [Elves](/wiki/elves/) hate and fear hawthorn, and they hate and fear the dryads of that shrub even more. Unique among the [dryads](/wiki/dryads/), [hawthorn dryads](/wiki/hawthorn-dryads/) can chop down their shrub and fashion it into a still-living but functional item.

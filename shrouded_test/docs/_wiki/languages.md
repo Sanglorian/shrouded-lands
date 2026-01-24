@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Languages"
 pageid: 4126
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Languages"
 categories:
-  - "Category:Languages"
+  - "Languages"
 media: []
 ---
 * Most of the [aarakocra](/wiki/aarakocra/) clan the [Kagu](/wiki/kagu/) speak only their own language.

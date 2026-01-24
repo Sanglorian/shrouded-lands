@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Winds"
 pageid: 3104
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Winds"
 categories:
   - "Category:Cities"
-  - "Category:The Freeholds"
-  - "Category:Winds"
+  - "The Freeholds"
+  - "Winds"
 media: []
 ---
 Hex [23.11](/wiki/23-11/)

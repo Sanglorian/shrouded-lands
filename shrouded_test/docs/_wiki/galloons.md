@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Galloons"
 categories:
   - "Creatures"
-  - "Category:Faustys"
+  - "Faustys"
   - "Category:Inspired by"
   - "Planes"
 media: []

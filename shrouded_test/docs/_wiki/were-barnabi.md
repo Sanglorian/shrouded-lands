@@ -8,8 +8,8 @@ categories:
   - "Creatures"
   - "Lycanthropes"
   - "Category:Peoples"
-  - "Category:Severard"
-  - "Category:The Freeholds"
+  - "Severard"
+  - "The Freeholds"
 media: []
 ---
 Connects to: [13.08](/wiki/13-08/), [13.09](/wiki/13-09/), [18.11](/wiki/18-11/) and [31.04](/wiki/31-04/).

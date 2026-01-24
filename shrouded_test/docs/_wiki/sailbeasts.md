@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Sailbeasts"
 categories:
   - "Category:Animals"
   - "Creatures"
-  - "Category:Lizardmen"
+  - "Lizardmen"
   - "Category:Reptiles"
 media: []
 ---

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ocean_of_Bitter_Regrets"
 categories:
   - "Category:Bodies of water"
   - "Category:Regions"
-  - "Category:The Bitter Coast"
+  - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---

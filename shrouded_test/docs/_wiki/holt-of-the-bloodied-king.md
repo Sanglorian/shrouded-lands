@@ -7,10 +7,10 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Holt_of_the_Bloodied_King"
 categories:
   - "Category:Daztur"
   - "Category:Drek"
-  - "Category:Elves"
+  - "Elves"
   - "Category:Settlements"
-  - "Category:The Kingswood"
-  - "Category:The Witchwater"
+  - "The Kingswood"
+  - "The Witchwater"
 media: []
 ---
 ![August Malmström](/media/August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg)

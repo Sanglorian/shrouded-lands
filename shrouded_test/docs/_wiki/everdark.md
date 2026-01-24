@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Everdark"
 categories:
   - "Category:Electric Wizard"
   - "Category:Hex"
-  - "Category:The Bitter Coast"
-  - "Category:The Shuttered City"
+  - "The Bitter Coast"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/0103.png) 

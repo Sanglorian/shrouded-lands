@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Knights_of_the_Cudgel"
 categories:
   - "Organisationss"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 The Knights of the Cudget are an ascetic order that keeps peace along **Thring's** border. The Cudgels are few in number and almost unrecognizable as knights. The Witch Queen *([23.16](/wiki/23-16/)) *and the clans of the **Barrier Range** frustrate or outright destroy questing knights who charge into their lands with mount and blade. So for generations, the Cudgels have cast aside weapons, armor and mounts to study esoteric magic traditions. Many can barely swing a sword or walk in chain mail, but are formidable in whatever arcane discipline they devote themselves too. All initiated knights carry an enchanted cudgel that signifies their rank. When the border is quiet, many brothers venture into **Thring** and elsewhere to battle evil and seek arcane knowledge.

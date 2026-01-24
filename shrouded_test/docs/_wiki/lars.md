@@ -9,7 +9,7 @@ categories:
   - "Category:Characters"
   - "Chimerics"
   - "Creatures"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 :**Chimera** redirects here. For the creations of [Chimalia](/wiki/chimalia/) that combine the features of multiple animals or of humans and animals, see [Chimerics](/wiki/chimerics/).

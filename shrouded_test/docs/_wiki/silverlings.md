@@ -5,9 +5,9 @@ pageid: 2671
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Silverlings"
 categories:
-  - "Category:Jahur"
+  - "Jahur"
   - "Organisationss"
-  - "Category:Wizards"
+  - "Wizards"
 media: []
 ---
 Region: [Jahur](/wiki/jahur/)

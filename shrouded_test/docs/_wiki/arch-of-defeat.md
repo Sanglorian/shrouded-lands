@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Arch_of_Defeat"
 categories:
   - "Category:Buildings"
   - "Category:Conflicts"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-arch.png)The Doge in the time before there was a [Doge](/wiki/doges/) ordered the construction of an enormous monument to [Shuttered](/wiki/shuttered/)’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’

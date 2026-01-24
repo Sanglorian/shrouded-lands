@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wrannows"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 The Wrannows were gifted with the power to imbue ropes with magical properties. Each Wrannow had his own special rope, and on command they could send the rope floating into the air, and then climb up it into an extra-dimensional space. They would then draw up the rope and use the space as their home.

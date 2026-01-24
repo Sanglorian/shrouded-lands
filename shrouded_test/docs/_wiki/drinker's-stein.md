@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Drinker%27s_Stein"
 categories:
   - "Category:Artifacts"
   - "Category:Deities"
-  - "Category:Dwarves"
+  - "Dwarves"
 media: []
 ---
 ![](/media/Trench2.jpg)The **Stein of the Drinker** or **Drinker's Stein** (named after the [Drinker of Iron](/wiki/drinker-of-iron/)) is an artifact that was carried by [Clan Battle Beard](/wiki/clan-battle-beard/) when they settled in the Battle Hills ([05.06](/wiki/05-06/)). On his-her deathbed, the leader of Clan Battle Beard divided it between his-her two children. The heirs warred with one another over the Stein and the Clan degenerated.

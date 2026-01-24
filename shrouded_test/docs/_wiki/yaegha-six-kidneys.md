@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Yaegha_Six-Kidneys"
 categories:
   - "Category:Characters"
-  - "Category:Necromancers"
+  - "Necromancers"
 media: []
 ---
 ![](/media/EdmundJSullivan4.jpg)

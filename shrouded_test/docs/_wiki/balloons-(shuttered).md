@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Balloons_(Shuttered)"
 categories:
   - "Category:Artifacts"
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1725](/media/Unknownartist3.jpg)

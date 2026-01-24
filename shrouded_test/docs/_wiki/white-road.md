@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/White_Road"
 categories:
   - "Category:Roads"
-  - "Category:Shuttered and Surrounds"
+  - "Shuttered and Surrounds"
 media: []
 ---
 In accordance with ancient decree, the [Temple Indivisible](/wiki/temple-indivisible/) has wisely forbade that any bodies be buried within the walls of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/). Instead, the White Road that worms northwards from the [North Gate](/wiki/north-gate/) of the city through mire that quickly gives way to farmland is lined with thousands of tombs. They cluster close to the road, each one covered in carvings that beg travelers to stay a while and read about the citizen entombed there so that they might not be forgotten. As all of the more visible plots were built on centuries ago, newer tombs go to greater and greater lengths to attract attention, some rising high among their fellows, some marked with a riot of color and some imbued with strange glamours.

@@ -5,8 +5,8 @@ pageid: 3604
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fastnesses"
 categories:
-  - "Category:Dwarves"
-  - "Category:The Grey Mountains"
+  - "Dwarves"
+  - "The Grey Mountains"
 media: []
 ---
 One thousand years ago, when the race of [dwarves](/wiki/dwarves/) was at its zenith, the dictators of the dwarves ordered five great **dwarf fortresses** or **fastnesses** to be built across the [Grey Mountains](/wiki/grey-mountains/), to keep the passes from being overrun by invaders.

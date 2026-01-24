@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Journal_in_Green"
 categories:
   - "Category:Books"
-  - "Category:Lisbet"
-  - "Category:The Kingswood"
+  - "Lisbet"
+  - "The Kingswood"
 media: []
 ---
 In a disused room in one of the lower levels of the Broken Spear ([40.06](/wiki/40-06/)) lies a book bound in green leather within a pile of gnollish garbage. Time and gnolls have not treated it well so most pages are illegible but a few can be made out, such as these:

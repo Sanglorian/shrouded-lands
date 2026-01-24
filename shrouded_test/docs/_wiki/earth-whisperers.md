@@ -3,15 +3,16 @@ layout: wiki_page
 title: "Earth whisperers"
 pageid: 4082
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Earth_whisperers"
 categories:
-  - "Category:Blind Midshotgatepool"
-  - "Category:Hinterlands of Blind Midshotgatepool"
-  - "Category:Priests"
+  - "Blind Midshotgatepool"
+  - "Hinterlands of Blind Midshotgatepool"
+  - "Priests"
   - "Professions"
-  - "Category:The Duchy of Thring"
-  - "Category:The Pacharia"
-  - "Category:Witches"
+  - "The Duchy of Thring"
+  - "The Pacharia"
+  - "Witches"
 media: []
 ---
 : Not to be confused with the [Whispering Sisters](/wiki/whispering-sisters/), worshippers of [She Who Waits](/wiki/she-who-waits/)

@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Elfskin_drum"
 categories:
   - "Category:Artifacts"
   - "Category:Body parts"
-  - "Category:Dwarves"
-  - "Category:Elves"
+  - "Dwarves"
+  - "Elves"
   - "Category:Music"
 media: []
 ---

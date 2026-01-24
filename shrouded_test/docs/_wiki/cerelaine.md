@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cerelaine"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:Mages"
+  - "Elves"
+  - "Mages"
 media: []
 ---
 * *Family:** Father of [Ledo](/wiki/ledo/).

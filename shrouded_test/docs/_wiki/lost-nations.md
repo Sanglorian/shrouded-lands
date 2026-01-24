@@ -5,7 +5,7 @@ pageid: 2712
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_nations"
 categories:
-  - "Category:Nations"
+  - "Nations"
 media: []
 ---
 * [Naros](/wiki/naros/) [one of the Twelve Nations] (nation)

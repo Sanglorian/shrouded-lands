@@ -5,7 +5,7 @@ pageid: 2772
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seelie_elves"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Category:Peoples"
 media: []
 ---

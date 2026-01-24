@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devouring_art"
 categories:
   - "Category:Customs"
-  - "Category:Gnolls"
+  - "Gnolls"
   - "Category:Philosophies"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
   - "Category:Victuals"
 media: []
 ---

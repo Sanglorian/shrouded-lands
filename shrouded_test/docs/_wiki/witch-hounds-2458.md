@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Witch-hounds"
 categories:
   - "Creatures"
-  - "Category:The Barrier Range"
+  - "The Barrier Range"
 media: []
 ---
 They spawn in The Fen of the Witch-Hounds ([22.16](/wiki/22-16/))![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)

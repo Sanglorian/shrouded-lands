@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Street_of_Small_Gods"
 categories:
   - "Category:Buildings"
   - "Category:Deities"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Schiele_-_Waldandacht_-_1915.jpg)Connects to: [24.18](/wiki/24-18/), [29.14.09](/wiki/29-14/), [29.14.28](/wiki/29-14/) and [36.09](/wiki/36-09/).

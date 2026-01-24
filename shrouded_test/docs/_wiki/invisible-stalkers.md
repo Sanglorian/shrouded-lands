@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Invisible_stalkers"
 categories:
   - "Creatures"
-  - "Category:Elementals"
-  - "Category:Jahur"
+  - "Elementals"
+  - "Jahur"
   - "Category:Outsiders"
-  - "Category:The Cornfields"
+  - "The Cornfields"
   - "Undead"
 media: []
 ---

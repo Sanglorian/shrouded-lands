@@ -5,7 +5,7 @@ pageid: 2734
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sapient_pearwood"
 categories:
-  - "Category:Imperium Undying"
+  - "Imperium Undying"
   - "Plants"
 media: []
 ---

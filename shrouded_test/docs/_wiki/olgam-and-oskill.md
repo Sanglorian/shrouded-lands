@@ -5,10 +5,10 @@ pageid: 4171
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Olgam_and_Oskill"
 categories:
-  - "Category:Dwarves"
-  - "Category:Gnomes"
+  - "Dwarves"
+  - "Gnomes"
   - "Category:Hex"
-  - "Category:The Lands of Gore"
+  - "The Lands of Gore"
 media: []
 ---
 [09.24](/wiki/09-24/)

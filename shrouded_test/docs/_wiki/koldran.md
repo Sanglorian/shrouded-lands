@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Koldran"
 pageid: 3405
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Koldran"
 categories:
   - "Category:Characters"
   - "Category:Humans"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 * *Koldran the Mighty** was well-known in the north, particularly as the Holder of the [Immovable Rod](/wiki/immovable-rod/) of [Penultimate Thule](/wiki/penultimate-thule/) (the [North Pole](/wiki/north-pole/)) and as the father of many progeny (perhaps a hundred).

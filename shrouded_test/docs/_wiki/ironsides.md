@@ -6,9 +6,9 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ironsides
 categories:
 - Category:Characters
-- Category:Jahur
-- Category:Janissaries
-- Category:The Cross
+- Jahur
+- Janissaries
+- The Cross
 media: []
 is_redirect: true
 redirect_to: The Cross

@@ -7,7 +7,7 @@ category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Planes
 categories:
   - "Category:Magic"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 See also [Other planes](/wiki/other-planes-2421/).

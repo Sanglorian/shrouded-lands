@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Central_Cathedral"
 categories:
   - "Alberon"
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) is taller than, and casts a shadow upon, the Central Cathedral. 

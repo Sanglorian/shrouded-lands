@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Black_Balloon"
 categories:
   - "Category:Artifacts"
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-black.jpg)Hex [29.14.03](/wiki/29-14/)

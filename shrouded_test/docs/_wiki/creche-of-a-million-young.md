@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Creche_of_a_Million_Young"
 categories:
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-creche.jpg)Connects to: [04.31](/wiki/04-31/), [08.03](/wiki/08-03/), [13.08](/wiki/13-08/), [29.14.11](/wiki/29-14/) and [29.14.37](/wiki/29-14/).

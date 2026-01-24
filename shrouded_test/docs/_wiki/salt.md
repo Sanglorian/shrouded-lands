@@ -5,7 +5,7 @@ pageid: 2717
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Salt"
 categories:
-  - "Category:Phenomena"
+  - "Phenomena"
   - "Category:Victuals"
 media: []
 ---

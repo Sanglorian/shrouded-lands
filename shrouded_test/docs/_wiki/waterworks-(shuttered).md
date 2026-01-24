@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Waterworks_(Shuttered)"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-water.png)Connects to: [29.14.01](/wiki/29-14/), [29.14.35](/wiki/29-14/), [29.14.36](/wiki/29-14/), [29.15](/wiki/29-15/), [51.29.01](/wiki/51-29/) and the Burning Lands.

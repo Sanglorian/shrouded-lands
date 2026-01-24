@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Last_Light"
 categories:
   - "Category:Artifacts"
-  - "Category:Golden Realm"
+  - "Golden Realm"
   - "Category:Weapons"
 media: []
 ---

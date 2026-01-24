@@ -8,7 +8,7 @@ categories:
   - "Category:Characters"
   - "Creatures"
   - "Undead"
-  - "Category:Wizards"
+  - "Wizards"
 media: []
 ---
 * [Supendar](/wiki/supendar/) is described as the arch-lich of [Naros](/wiki/naros/), but was in fact a powerful [dryad](/wiki/dryads/).

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gharsang"
 categories:
   - "Category:Deities"
-  - "Category:Orcs"
+  - "Orcs"
 media: []
 ---
 The gharsang are the wooden idols depicting the lords of the sky and the lords of the underworld that are venerated by the [orcs](/wiki/orcs/). For two different takes on the lords of the sky, see [27.01](/wiki/27-01/) and [25.01](/wiki/25-01/).

@@ -5,9 +5,9 @@ pageid: 4067
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cure_light_wounds"
 categories:
-  - "Category:Cattle"
+  - "Cattle"
   - "Category:Magic"
-  - "Category:Spells"
+  - "Spells"
   - "Category:Victuals"
 media: []
 ---

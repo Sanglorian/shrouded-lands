@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/War_of_the_Six-Fingered_Hand"
 categories:
   - "Category:Conflicts"
-  - "Category:Dwarves"
-  - "Category:Jahur"
+  - "Dwarves"
+  - "Jahur"
 media: []
 ---
 The [duergar](/wiki/duergar/) seized the Dismal Mine ([21.27](/wiki/21-27/)) from [Jahur](/wiki/jahur/) during the **War of the Six-Fingered Hand**. 

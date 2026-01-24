@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Perytons"
 categories:
   - "Creatures"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 ![](/media/Furfur.jpg)One lives in **The Haunt of the Peryton **([11.15](/wiki/11-15/)).

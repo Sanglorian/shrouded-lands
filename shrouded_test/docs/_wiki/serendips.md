@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Serendips"
 categories:
   - "Category:Families"
-  - "Category:Jahur"
-  - "Category:Witch Clans"
+  - "Jahur"
+  - "Witch Clans"
 media: []
 ---
 ## The Witch Clan that Wasn’t

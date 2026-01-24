@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Spells"
 pageid: 2424
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Spells"
 categories:
   - "Category:Magic"
-  - "Category:Spells"
+  - "Spells"
 media: []
 ---
 : See also [Spellcasting](/wiki/spellcasting/)

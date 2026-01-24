@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Egil_Longspear"
 categories:
   - "Category:Characters"
-  - "Category:Longspears"
+  - "Longspears"
   - "Category:Mercenaries"
 media: []
 ---

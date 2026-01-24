@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Ward"
 categories:
   - "Category:Characters"
   - "Category:Nobles"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 ![](/media/Koschei_by_Sergey_Malyutin.jpg)The self-styled lord of Stargazer Keep ([19.04](/wiki/19-04/)). The grandson of one of the younger sons of one of the lords of the [night men](/wiki/night-men/). This younger son was driven out in disgrace and founded Stargazer Keep.

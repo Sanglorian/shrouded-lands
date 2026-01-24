@@ -3,15 +3,16 @@ layout: wiki_page
 title: "Sorcerers"
 pageid: 4086
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sorcerers"
 categories:
-  - "Category:Baron Autumn"
+  - "Baron Autumn"
   - "Category:Magic"
-  - "Category:Priests"
+  - "Priests"
   - "Professions"
-  - "Category:Sorcerers"
+  - "Sorcerers"
   - "Category:Spellcasters"
-  - "Category:Tieflings"
+  - "Tieflings"
 media: []
 ---
 : **Priests of Baron Autumn** redirects here. See also, [Priests](/wiki/priests/)

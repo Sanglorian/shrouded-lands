@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Eleven_recognised_forms"
 categories:
   - "Category:Deities"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## Blessed are the Meek

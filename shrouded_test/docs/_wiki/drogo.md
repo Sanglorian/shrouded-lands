@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drogo"
 categories:
   - "Category:Characters"
-  - "Category:The Lands of the Night Cattle"
+  - "The Lands of the Night Cattle"
 media: []
 ---
 If you learn one thing sitting by the fire of the Sundial Inn ([25.04](/wiki/25-04/)) late into the night, it's that there is no surer path into legend than thievery. Some of the tales are hard to argue with--the first [Pirate Kings](/wiki/pirate-kings/) were indeed both pirates and kings--and others are impossible to believe--even if the [Prince of Men](/wiki/prince-of-men/) ([29.07.03](/wiki/29-07/)) was a thief, how could he steal knowledge of Law and Chaos from the [Goddess of the Labyrinth](/wiki/goddess-of-the-labyrinth/) ([29.14](/wiki/29-14/).14)? One legendary thief, however, is not only undoubtedly real, but is still out there robbing his way to fortune and dubious glory.

@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Castle_Tarengael"
 categories:
   - "Category:Castles"
-  - "Category:Ducal family of Thring"
-  - "Category:River of Crystal Waters"
+  - "Ducal family of Thring"
+  - "River of Crystal Waters"
   - "Category:Tarengael"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 ![](/media/1616.png)The great [River of Crystal Waters](/wiki/river-of-crystal-waters/) nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [Ulthar the Loved](/wiki/ulthar-the-loved/) himself on a rocky island ([16.16](/wiki/16-16/)) so that the flowing waters would keep the [Lords Sanguine](/wiki/lords-sanguine/) at bay. Bridges connect it to the two halves of [Tarengael Town](/wiki/tarengael-town/): Eastbridge and Westbridge.

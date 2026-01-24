@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Zhuriman"
 categories:
   - "Category:Destroyed nations and places"
-  - "Category:Nations"
+  - "Nations"
 media: []
 ---
 The Zhuriman Empire collapsed some time ago.

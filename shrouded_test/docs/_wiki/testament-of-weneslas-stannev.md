@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Testament_of_Weneslas_Stannev"
 categories:
   - "Category:Books"
-  - "Category:She Who Waits"
-  - "Category:Stannevs"
-  - "Category:The King in Splendour"
+  - "She Who Waits"
+  - "Stannevs"
+  - "The King in Splendour"
 media: []
 ---
 ![](/media/170702.png)In the library at Newhill, in the [Sealed Library](/wiki/sealed-library/) and in one other place, this record of the words of the prophet [Weneslas Stannev](/wiki/weneslas-stannev/) (of the [Stannevs](/wiki/stannevs/)) is kept hidden. Weneslas spent his youth staring into the sun until he went blind, and thereafter spent twenty years in seclusion before he began to speak sooth. His Testament tells us that the Sun is God, and God is the Sun, and all the Shrouded Lands live and die in His glow. In distant eons, God lived always at the top of the sky, and the world burned with purifying flame; but evil came into the world due to the cruelty of the city-god, [Alberon](/wiki/alberon/), toward his first wife who is [now nameless](/wiki/she-who-waits/). In order to save the world from the goddess's wrath, the [Lion in Splendor](/wiki/lion-in-splendor/) was forced to marry her, and to promise that he would visit her each night and keep her company until morning.

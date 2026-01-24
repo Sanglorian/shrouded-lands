@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Undercity"
 pageid: 4124
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Undercity"
 categories:
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 : Castle Ravenscraig ([03.19](/wiki/03-19/)) is also described as having an undercity.

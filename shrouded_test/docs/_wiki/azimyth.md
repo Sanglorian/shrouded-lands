@@ -10,7 +10,7 @@ categories:
   - "Category:Giant animals"
   - "Category:Hex"
   - "Category:Region unknown"
-  - "Category:Severard"
+  - "Severard"
 media: []
 ---
 The broad-leaf forest grows dense in the Canopy of the Azimyth Bats ([12.09](/wiki/12-09/)), the ancient branches intertwining so that scarcely a ray of light shines through. Out of the corner of the eye, shapes seem to move in the dark canopy above, and only the keenest of eyes finds the giant bats hanging upside on perches. These are no ordinary [bats](/wiki/bats/), however. These are the **azimyth**. 

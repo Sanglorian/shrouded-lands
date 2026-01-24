@@ -5,10 +5,10 @@ pageid: 2561
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dugglet_Bolger"
 categories:
-  - "Category:Bolgers"
+  - "Bolgers"
   - "Category:Characters"
-  - "Category:Halflings"
-  - "Category:The Shuttered City"
+  - "Halflings"
+  - "The Shuttered City"
 media: []
 ---
 The [drums of the dwarves](/wiki/dwarves/) penetrated so deep that they still have not left the head of Dugglet Bolger (of [The Bolgers](/wiki/the-bolgers/), and occasionally they echo through his fingers and throat in the form of compositions.

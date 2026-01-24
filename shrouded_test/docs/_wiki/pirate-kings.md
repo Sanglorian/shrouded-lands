@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Pirate Kings"
 pageid: 3006
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Pirate_Kings"
 categories:
   - "Creatures"
   - "Category:Peoples"
-  - "Category:Pirate Kings"
-  - "Category:The Bitter Coast"
+  - "Pirate Kings"
+  - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---

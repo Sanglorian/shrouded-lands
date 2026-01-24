@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Edrin_Tain"
 categories:
   - "Category:Characters"
   - "Category:Clerics"
-  - "Category:Sorcerers"
-  - "Category:The Westmarches"
+  - "Sorcerers"
+  - "The Westmarches"
 media: []
 ---
 ![](/media/Alfons_Mucha_-_1896_-_Lorenzaccio.jpg)[04.06](/wiki/04-06/)

@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Warlocks"
 pageid: 4072
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Warlocks"
 categories:
   - "Category:Magic"

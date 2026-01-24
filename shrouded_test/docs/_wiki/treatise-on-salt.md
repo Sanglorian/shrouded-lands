@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Treatise_on_Salt"
 categories:
   - "Category:Books"
   - "Category:Electric Wizard"
-  - "Category:Jahur"
+  - "Jahur"
 media: []
 ---
 ## Isane the Beauty's Treatise on Salt

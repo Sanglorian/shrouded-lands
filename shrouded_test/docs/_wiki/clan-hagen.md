@@ -5,7 +5,7 @@ pageid: 2851
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Clan_Hagen
 categories:
-- Category:Dwarves
+- Dwarves
 - Category:Families
 media: []
 is_redirect: true

@@ -5,7 +5,7 @@ pageid: 2931
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dreams"
 categories:
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 * The [Dreamsong](/wiki/dreamsong/) preexisted the world.

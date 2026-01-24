@@ -8,8 +8,8 @@ categories:
   - "Alberon"
   - "Category:Buildings"
   - "Category:Characters"
-  - "Category:Mages"
-  - "Category:The Shuttered City"
+  - "Mages"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-suit.png)Hex [29.14.40](/wiki/29-14/)

@@ -5,7 +5,7 @@ pageid: 3383
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hells"
 categories:
-  - "Category:Fiends"
+  - "Fiends"
   - "Planes"
 media: []
 ---

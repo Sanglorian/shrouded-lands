@@ -8,8 +8,8 @@ categories:
   - "Alberon"
   - "Category:Buildings"
   - "Category:Deities"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 ![](/media/Shutt-prison.png)Connects to: [17.11](/wiki/17-11/), [27.18.01](/wiki/27-18/), [29.14.01](/wiki/29-14/), [29.14.49](/wiki/29-14/) and [49.11](/wiki/49-11/).

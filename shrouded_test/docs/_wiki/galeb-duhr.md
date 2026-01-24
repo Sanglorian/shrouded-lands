@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Galeb_duhr"
 categories:
   - "Creatures"
-  - "Category:Elementals"
-  - "Category:The Cornfields"
+  - "Elementals"
+  - "The Cornfields"
 media: []
 ---
 * The [God in the Stone](/wiki/god-in-the-stone/) is a **galeb duhr** worshipped by the people of the [Cornfields](/wiki/cornfields/). Galeb duhr can herd rocks.

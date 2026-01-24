@@ -5,10 +5,10 @@ pageid: 3508
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Battle_of_Blind_Midshotgatepool"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Conflicts"
   - "Category:Historical events"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 A battle between [Blind Midshotgatepool](/wiki/blind-midshotgatepool/) and the [Shuttered City](/wiki/shuttered-city/), after which Shuttered asserted its control over Blind Midshotgatepool. 

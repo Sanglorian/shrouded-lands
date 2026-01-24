@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Severard"
 pageid: 3520
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Severard"
 categories:
   - "Category:Humans"
-  - "Category:The Freeholds"
-  - "Category:Wizards"
+  - "The Freeholds"
+  - "Wizards"
 media: []
 ---
 * *Severard of the Seven Circles**, also known as **Severard of the Seven Chins**, is a wizard of the Shrouded Lands believed killed by a giant spider.

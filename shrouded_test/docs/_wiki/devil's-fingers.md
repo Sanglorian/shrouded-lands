@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devil%27s_Fingers"
 categories:
   - "Category:Regions"
-  - "Category:The Devil's Fingers"
+  - "The Devil's Fingers"
 media: []
 ---
 ![](/media/Devilf.png)

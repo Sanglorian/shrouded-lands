@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Pactmaking"
 pageid: 3312
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Pactmaking"
 categories:
   - "Category:Customs"

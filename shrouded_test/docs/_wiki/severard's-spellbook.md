@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Severard%27s_Spellbook"
 categories:
   - "Category:Books"
   - "Category:Magic"
-  - "Category:Severard"
-  - "Category:Spells"
+  - "Severard"
+  - "Spells"
 media: []
 ---
 ![](/media/130801.png)[Severard](/wiki/severard/)’s spellbook contains the fruits of decades of research into the arcane and includes some spells of his own invention that include the following:

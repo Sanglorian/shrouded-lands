@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Huu_Vo_Malkus"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:The Kingswood"
-  - "Category:Verlimes"
+  - "Elves"
+  - "The Kingswood"
+  - "Verlimes"
 media: []
 ---
 Rumors persist that [Tuma Yedaard](/wiki/tuma-yedaard/) himself is the legendary Huu Vo Malkus, a mysterious Raider ([factions (elves)](/wiki/factions-elves/)) who single-handily makes a big score once every decade or so, donating the entirety of his catch to the [Weeper](/wiki/weeper/) for distribution among the Simple.

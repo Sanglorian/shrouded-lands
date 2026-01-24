@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bloodwretches"
 categories:
   - "Creatures"
   - "Category:Inspired by"
-  - "Category:Jahur"
+  - "Jahur"
   - "Category:Sanglorian"
-  - "Category:Vampires"
+  - "Vampires"
 media: []
 ---
 * Inspired by:* Goblin Punch, [http://goblinpunch.blogspot.com.au/2013/11/postponing-empire.html ‘Post-Poning Empire’]

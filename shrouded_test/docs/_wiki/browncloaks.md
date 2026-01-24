@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Browncloaks"
 pageid: 2929
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Browncloaks"
 categories:
   - "Organisationss"

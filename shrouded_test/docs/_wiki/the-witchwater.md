@@ -3,13 +3,14 @@ layout: wiki_page
 title: "The Witchwater"
 pageid: 2658
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Witchwater"
 categories:
   - "Category:Bodies of water"
   - "Category:Places"
-  - "Category:The Kingswood"
-  - "Category:The Witchwater"
-  - "Category:The World's Edge and Beyond"
+  - "The Kingswood"
+  - "The Witchwater"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![Richard Westall](/media/RichardWestall.jpg)

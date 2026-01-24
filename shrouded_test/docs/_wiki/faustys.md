@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Faustys"
 pageid: 3241
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Faustys"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 ![](/media/SL_22.jpg)Live below the Towers of the Hallovers ([26.16](/wiki/26-16/))

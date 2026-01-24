@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alms_(Temple_Indivisible)"
 categories:
   - "Alberon"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 What surer way to win favour with [Alberon](/wiki/alberon/) than to aid his church in this realm? Such was the logic of the citizens of Shuttered, who flooded the holy places to labour for Heaven. These unskilled workers resulted in shoddy construction and a builders' union strike.

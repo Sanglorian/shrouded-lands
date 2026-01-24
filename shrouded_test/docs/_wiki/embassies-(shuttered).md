@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Embassies_(Shuttered)"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
-  - "Category:The Twelve Nations"
+  - "The Shuttered City"
+  - "The Twelve Nations"
 media: []
 ---
 ## The Embassies of the Southern Gate

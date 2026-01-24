@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Kobolds"
 categories:
   - "Creatures"
-  - "Category:Dragons"
+  - "Dragons"
   - "Category:Peoples"
 media: []
 ---

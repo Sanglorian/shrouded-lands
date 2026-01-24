@@ -6,11 +6,11 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Priests-Militant"
 categories:
   - "Alberon"
-  - "Category:Knights"
-  - "Category:Priests"
+  - "Knights"
+  - "Priests"
   - "Professions"
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
   - "Category:Warriors"
 media: []
 ---

@@ -5,11 +5,11 @@ pageid: 2966
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gibberlings"
 categories:
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Creatures"
   - "Category:Humans"
   - "Category:Peoples"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 In its last decades the cruel lords of fallen [Bergolast](/wiki/bergolast/) made many enemies but all feared to march upon the City of the Tarrasque for eating of the meat of the great beast had made its people fearless in battle. However, one brave hero volunteered to face its might alone.

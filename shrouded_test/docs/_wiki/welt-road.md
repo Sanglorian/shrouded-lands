@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Welt Road"
 pageid: 3546
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Welt_Road"
 categories:
   - "Category:Buildings"
   - "Category:Roads"
-  - "Category:Welt Road"
+  - "Welt Road"
 media: []
 ---
 Although the perils of the Kingswood lie between the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/) and the lands of men and dwarves, trade still passes through along a curious road.

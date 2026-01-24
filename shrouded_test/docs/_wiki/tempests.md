@@ -5,7 +5,7 @@ pageid: 3476
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tempests"
 categories:
-  - "Category:Elementals"
+  - "Elementals"
   - "The Singing Wastes"
 media: []
 ---

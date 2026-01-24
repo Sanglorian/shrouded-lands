@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Night_men"
 categories:
   - "Category:Humans"
   - "Category:Peoples"
-  - "Category:The Lands of the Night Cattle"
+  - "The Lands of the Night Cattle"
 media: []
 ---
 Those who live in the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)

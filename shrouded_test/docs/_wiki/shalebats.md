@@ -7,7 +7,7 @@ original_url: https://shrouded-lands.fandom.com/wiki/Shalebats
 categories:
 - Category:Bats
 - Creatures
-- Category:The World's Edge and Beyond
+- The World's Edge and Beyond
 media: []
 is_redirect: true
 redirect_to: Lufwood

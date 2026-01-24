@@ -5,8 +5,8 @@ pageid: 3534
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Corian"
 categories:
-  - "Category:Osseries"
-  - "Category:The Shuttered City"
+  - "Osseries"
+  - "The Shuttered City"
 media: []
 ---
 ## Corian

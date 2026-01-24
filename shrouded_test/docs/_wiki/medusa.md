@@ -5,10 +5,10 @@ pageid: 3201
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Medusa"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Characters"
   - "Creatures"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## The Medusa

@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bugbears"
 categories:
   - "Creatures"
-  - "Category:Goblins"
+  - "Goblins"
   - "Category:Peoples"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 Bugbears are scrawny, pot-bellied goblins bound not to oaks *([11.01](/wiki/11-01/))* but to pumpkins. When they pop headless out of a pumpkin patch, they carve themselves a face, light their eyes with candle stubs and fill their jaws with stones, sticks or broken glass. They wear whatever clothes they can find, seeming to prefer dresses. They speak with the voice of a small child; all bugbears sound the same.

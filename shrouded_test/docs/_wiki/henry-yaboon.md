@@ -5,9 +5,9 @@ pageid: 2791
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Henry_Yaboon"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Characters"
-  - "Category:Yaboons"
+  - "Yaboons"
 media: []
 ---
 ## The King without a Throne

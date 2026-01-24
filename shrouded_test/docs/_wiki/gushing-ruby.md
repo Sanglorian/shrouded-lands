@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gushing_Ruby"
 categories:
   - "Category:Buildings"
-  - "Category:Jahur"
+  - "Jahur"
 media: []
 ---
 A tavern in the blue quarter of [Jahur](/wiki/jahur/). 

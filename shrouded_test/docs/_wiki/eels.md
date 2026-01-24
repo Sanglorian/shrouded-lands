@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Eels"
 pageid: 3599
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Eels"
 categories:
   - "Category:Animals"
-  - "Category:Eels"
+  - "Eels"
   - "Category:Fish"
-  - "Category:The Keening Sea"
+  - "The Keening Sea"
 media: []
 ---
 Eels are found in the shallows of the [Keening Sea](/wiki/keening-sea/), where [Rogdag](/wiki/rogdag/) eats them.

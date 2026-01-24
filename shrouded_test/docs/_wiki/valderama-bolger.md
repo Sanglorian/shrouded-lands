@@ -5,9 +5,9 @@ pageid: 3253
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Valderama_Bolger"
 categories:
-  - "Category:Bolgers"
+  - "Bolgers"
   - "Category:Characters"
-  - "Category:Halflings"
+  - "Halflings"
 media: []
 ---
 Valderama Bolger has claimed publicly to be the living embodiment of [varao](/wiki/varao/) in the Shrouded Lands. He is spending some time in [The Gushing Ruby](/wiki/the-gushing-ruby/), hoping to form an enterprise that could retake Hurlstone Hill ([08.12](/wiki/08-12/)) for the halfling race.

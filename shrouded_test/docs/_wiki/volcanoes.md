@@ -5,7 +5,7 @@ pageid: 3430
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Volcanoes"
 categories:
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 The Drinker's Mouth ([04.02](/wiki/04-02/)) is a volcano that has not erupted for a long time, but the dwarves believe it will belch forth molten iron on the appointed day.![](/media/11307154523_a4fdface21_o.jpg)

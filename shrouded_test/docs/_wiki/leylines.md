@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Leylines"
 categories:
   - "Category:Magic"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 Leyline with blue crystalline deposits ([04.06](/wiki/04-06/) to [05.05](/wiki/05-05/))

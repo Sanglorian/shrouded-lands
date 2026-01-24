@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Jester_Prince"
 categories:
   - "Category:Characters"
-  - "Category:The Duchy of Thring"
-  - "Category:The Lands of Gore"
+  - "The Duchy of Thring"
+  - "The Lands of Gore"
 media: []
 ---
 ![Matejko Stańczyk](/media/Matejko_Stańczyk.jpg)A member (perhaps the only one) of the [royal family of Gore](/wiki/royal-family-of-gore/).

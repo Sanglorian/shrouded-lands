@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Cyclopes"
 pageid: 4134
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cyclopes"
 categories:
   - "Creatures"
-  - "Category:Cyclopes"
-  - "Category:Shuttered and Surrounds"
+  - "Cyclopes"
+  - "Shuttered and Surrounds"
 media: []
 ---
 * A half dozen cyclops lords, each more inbred and sickly than the last, vie for power at [Monatheron](/wiki/monatheron/).

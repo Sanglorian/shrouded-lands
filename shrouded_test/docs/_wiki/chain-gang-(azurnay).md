@@ -5,10 +5,10 @@ pageid: 3403
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chain_Gang_(Azurnay)"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Machinists"
   - "Organisationss"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 A cabal of [machinists](/wiki/machinists/) operating in [Azurnay](/wiki/azurnay/).

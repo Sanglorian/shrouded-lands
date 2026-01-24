@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Great_Temple_of_Alberon"
 categories:
   - "Alberon"
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 :See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)

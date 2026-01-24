@@ -6,12 +6,12 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sweitbor_the_Roarer"
 categories:
   - "Category:Characters"
-  - "Category:Ducal family of Thring"
-  - "Category:Dukes of Thring"
-  - "Category:Lochgates"
+  - "Ducal family of Thring"
+  - "Dukes of Thring"
+  - "Lochgates"
   - "Lycanthropes"
   - "Category:Nobles"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 * *Sweitbor the Roarer** was the **fifth Duke of Thring**, successor to [Duke Deloc](/wiki/duke-deloc/). See the [Lochgates](/wiki/lochgates/) entry for controversy over the succession.

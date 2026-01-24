@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Witch_Queen"
 categories:
   - "Category:Characters"
   - "Category:Nobles"
-  - "Category:The Barrier Range"
-  - "Category:Witches"
+  - "The Barrier Range"
+  - "Witches"
 media: []
 ---
 ​:Not to be confused with the **Witch Queen** who ruled Cragsend ([04.06](/wiki/04-06/))

@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Minotaurs"
 pageid: 3157
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Minotaurs"
 categories:
   - "Chimerics"

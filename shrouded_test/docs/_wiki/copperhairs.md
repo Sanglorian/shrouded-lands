@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Copperhairs"
 categories:
   - "Category:Body parts"
-  - "Category:Elves"
+  - "Elves"
 media: []
 ---
 :See also [Hair](/wiki/hair/)

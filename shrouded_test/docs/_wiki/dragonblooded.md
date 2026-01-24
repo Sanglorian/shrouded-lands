@@ -8,7 +8,7 @@ categories:
   - "Creatures"
   - "Dead Tiamat"
   - "Category:Peoples"
-  - "Category:Phenomena"
+  - "Phenomena"
   - "Plants"
 media: []
 ---

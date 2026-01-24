@@ -5,9 +5,9 @@ pageid: 2941
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Elwen
 categories:
-- Category:Browncloaks
+- Browncloaks
 - Category:Characters
-- Category:Snickersnees
+- Snickersnees
 media: []
 is_redirect: true
 redirect_to: '08.01'

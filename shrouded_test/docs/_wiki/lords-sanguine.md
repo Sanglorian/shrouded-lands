@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Lords Sanguine"
 pageid: 2444
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lords_Sanguine"
 categories:
   - "Category:Characters"
-  - "Category:Lords Sanguine"
-  - "Category:The Lands of Gore"
+  - "Lords Sanguine"
+  - "The Lands of Gore"
 media: []
 ---
 * [The Collector](/wiki/the-collector/) (The Castle of the Collector)

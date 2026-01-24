@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Wild_men"
 categories:
   - "Category:Humans"
   - "Category:Peoples"
-  - "Category:The Kingswood"
+  - "The Kingswood"
 media: []
 ---
 Connects to: [05.04](/wiki/05-04/), [26.20.01](/wiki/26-20/) and [40.06](/wiki/40-06/).

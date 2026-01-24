@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elhanen"
 categories:
   - "Category:Characters"
-  - "Category:Golden Realm"
-  - "Category:The King in Splendour"
-  - "Category:The Shuttered City"
+  - "Golden Realm"
+  - "The King in Splendour"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-elh.png)Connects to: [07.18](/wiki/07-18/), [11.08](/wiki/11-08/), [25.04.01](/wiki/25-04/), [29.14.11](/wiki/29-14/), [29.07](/wiki/29-07/), [33.00](/wiki/33-00/), [50.29](/wiki/50-29/), [50.30](/wiki/50-30/), [51.29](/wiki/51-29/) and the Duchy of Thring.

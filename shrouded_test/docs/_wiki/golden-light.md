@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Golden_Light"
 categories:
   - "Category:Settlements"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 ## Elharada, Grasthifal and Vivisophal

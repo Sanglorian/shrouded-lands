@@ -5,7 +5,7 @@ pageid: 3477
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Idjits"
 categories:
-  - "Category:Alchemists"
+  - "Alchemists"
   - "Category:Elementalists"
   - "Category:Magic"
   - "Organisationss"

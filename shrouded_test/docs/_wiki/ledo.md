@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ledo"
 categories:
   - "Assassins"
   - "Category:Characters"
-  - "Category:Half-elves"
-  - "Category:Winds"
+  - "Half-elves"
+  - "Winds"
 media: []
 ---
 ## Ledo's Hunt

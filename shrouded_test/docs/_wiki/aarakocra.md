@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Aarakocra"
 pageid: 3563
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Aarakocra"
 categories:
-  - "Category:Aarakocra"
+  - "Aarakocra"
   - "Birds"
   - "Creatures"
   - "Category:Peoples"

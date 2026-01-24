@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Silverhall"
 categories:
   - "Category:Hex"
-  - "Category:Lands of the Night Cattle"
-  - "Category:The Lands of the Night Cattle"
+  - "Lands of the Night Cattle"
+  - "The Lands of the Night Cattle"
 media: []
 ---
 ![](/media/Silver.png) 

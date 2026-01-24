@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Isane_the_Beauty"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:Jahur"
-  - "Category:The Lands of the Night Cattle"
+  - "Elves"
+  - "Jahur"
+  - "The Lands of the Night Cattle"
 media: []
 ---
 ![Isane meets with a lover](/media/ReneBull3.png)

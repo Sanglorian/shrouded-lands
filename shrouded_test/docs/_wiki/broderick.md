@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Broderick"
 categories:
   - "Category:Characters"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 The eldest son of [Duke Ulthar](/wiki/duke-ulthar/) the Loved ([16.16](/wiki/16-16/)) was named Broderick ([01.08](/wiki/01-08/) and [02.07](/wiki/02-07/)) who grew into a wild knight with all of the power and none of the gentleness of his father. When he grew to manhood he claimed his father's sword Caledbrand as his only patrimony and set off into the wilds of the west. The tales of his adventures have now faded from memory, all except the last. Even that has now faded into myth.**

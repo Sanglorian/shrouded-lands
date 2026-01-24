@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Undead"
 categories:
   - "Creatures"
-  - "Category:Necromancers"
+  - "Necromancers"
   - "Undead"
 media: []
 ---

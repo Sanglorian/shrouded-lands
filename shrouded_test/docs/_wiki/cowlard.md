@@ -8,7 +8,7 @@ categories:
   - "Category:Characters"
   - "Category:Humans"
   - "Category:Merchants"
-  - "Category:Winds"
+  - "Winds"
 media: []
 ---
 ## Cowlard’s Convenient Coins

@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Twelve Nations"
 pageid: 3030
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Twelve_Nations"
 categories:
-  - "Category:Nations"
-  - "Category:The Twelve Nations"
+  - "Nations"
+  - "The Twelve Nations"
 media: []
 ---
 The [Shuttered City](/wiki/shuttered-city/) embassies for three of these nations have been bricked up. One of those is Alacoda's; the other two have 'fallen to barbarism'. Naros' embassy is bricked up; it's unclear if it's counted among the two.

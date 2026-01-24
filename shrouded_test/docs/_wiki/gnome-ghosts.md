@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnome_ghosts"
 categories:
   - "Creatures"
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Giants"
-  - "Category:Gnomes"
-  - "Category:The Shuttered City"
+  - "Gnomes"
+  - "The Shuttered City"
 media: []
 ---
 ## The Gnomes in the Walls

@@ -5,9 +5,9 @@ pageid: 2779
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Raiders"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Organisationss"
-  - "Category:The Kingswood"
+  - "The Kingswood"
 media: []
 ---
 One of the [factions of the elves](/wiki/factions-elves/).

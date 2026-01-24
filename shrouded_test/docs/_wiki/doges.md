@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Doges"
 pageid: 3197
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Doges"
 categories:
   - "Category:Characters"
-  - "Category:Doges"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "The Shuttered City"
 media: []
 ---
 The Doges are the rulers of the [Shuttered City](/wiki/shuttered-city/). The current Doge is the [blind Doge](/wiki/blind-doge/).

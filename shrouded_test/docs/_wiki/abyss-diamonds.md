@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Abyss_Diamonds"
 categories:
   - "Category:Artifacts"
   - "Category:Gems"
-  - "Category:Jahur"
-  - "Category:Phenomena"
+  - "Jahur"
+  - "Phenomena"
 media: []
 ---
 Not all of Jahur's ([19.31](/wiki/19-31/)) gems are hauled from the depths of the Tantalus Mountains ([21.27](/wiki/21-27/)). The city's rarest stones are far more dangerous to extract. Fearless divers may wrench [Abyss Diamonds](/wiki/abyss-diamonds/) from the backs of crabs that dwell exclusively in a black sinkhole several miles offshore. Abyss Diamonds are cloudier and more flaw-prone than true diamonds, but their dust is nonetheless a key component in summoning many powerful [outsiders](/wiki/outsiders/).

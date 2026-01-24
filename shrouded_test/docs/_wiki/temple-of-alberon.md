@@ -8,8 +8,8 @@ categories:
   - "Alberon"
   - "Creatures"
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 :See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)

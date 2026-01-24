@@ -5,8 +5,8 @@ pageid: 3483
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/High_elves"
 categories:
-  - "Category:Alacoda"
-  - "Category:Elves"
+  - "Alacoda"
+  - "Elves"
   - "Category:Peoples"
 media: []
 ---

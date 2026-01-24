@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Grandfather_Cactus"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Ogres"
+  - "Ogres"
   - "Plants"
 media: []
 ---

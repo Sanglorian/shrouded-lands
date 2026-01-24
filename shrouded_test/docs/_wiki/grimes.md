@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grimes"
 categories:
   - "Category:Families"
-  - "Category:Half-orcs"
+  - "Half-orcs"
 media: []
 ---
 These [half-orcs](/wiki/half-orcs/) call themselves the [Grimes](/wiki/grimes/), and they do their best to live up to their names. They live in the woods of [05.10](/wiki/05-10/), named Grimeswood. They sleep alongside their goats and shun bathing. Those with keen noses can sense their presence from faraway. Clan elders proudly maintain bird's nests in their matted hair. The Grimes offer reasonable hospitality to anyone who can tolerate their stench and their shocking religious proclivities.

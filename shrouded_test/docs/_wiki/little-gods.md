@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Little_gods"
 categories:
   - "Category:Deities"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 Also known as **small gods** or, to the [Temple Indivisible](/wiki/temple-indivisible/), **preternatural agents**.

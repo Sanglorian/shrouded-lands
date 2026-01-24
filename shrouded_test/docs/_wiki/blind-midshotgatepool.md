@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Blind Midshotgatepool"
 pageid: 2841
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Midshotgatepool"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Cities"
-  - "Category:Hinterlands of Blind Midshotgatepool"
-  - "Category:River of Crystal Waters"
+  - "Hinterlands of Blind Midshotgatepool"
+  - "River of Crystal Waters"
 media: []
 ---
 * *Region:** [Hinterlands of Blindmidshotgatepool](/wiki/hinterlands-of-blindmidshotgatepool/)

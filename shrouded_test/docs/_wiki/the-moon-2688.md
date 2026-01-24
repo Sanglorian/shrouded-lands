@@ -3,11 +3,12 @@ layout: wiki_page
 title: "The moon"
 pageid: 2688
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_moon"
 categories:
   - "Category:Astronomy"
-  - "Category:Phenomena"
-  - "Category:The Moon"
+  - "Phenomena"
+  - "The Moon"
 media: []
 ---
 * [Umberstone](/wiki/umberstone/)

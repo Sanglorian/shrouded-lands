@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Geas-eater"
 categories:
   - "Creatures"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-geas.jpg)Connects to: [29.07.03](/wiki/29-07/), [29.14.12](/wiki/29-14/) , [29.14.14](/wiki/29-14/) and [34.01](/wiki/34-01/).

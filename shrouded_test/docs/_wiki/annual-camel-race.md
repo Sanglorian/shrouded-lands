@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Annual_Camel_Race"
 categories:
   - "Category:Camels"
   - "Category:Customs"
-  - "Category:Jahur"
+  - "Jahur"
   - "Category:Sports"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 ## The Annual Camel Race

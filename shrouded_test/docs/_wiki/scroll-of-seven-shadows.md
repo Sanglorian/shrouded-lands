@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Scroll_of_Seven_Shadows"
 categories:
   - "Alberon"
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Category:Books"
-  - "Category:The King in Splendour"
+  - "The King in Splendour"
 media: []
 ---
 ![](/media/Shutt-scroll.png)Connects to: [17.17.03](/wiki/17-17/), [25.15](/wiki/25-15/), [29.14.19](/wiki/29-14/), [29.14.50](/wiki/29-14/), [37.01](/wiki/37-01/), [38.28](/wiki/38-28/) and [40.06](/wiki/40-06/).

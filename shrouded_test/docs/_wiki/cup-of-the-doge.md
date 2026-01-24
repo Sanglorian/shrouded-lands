@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cup_of_the_Doge"
 categories:
   - "Category:Artifacts"
-  - "Category:Doges"
-  - "Category:Dragons"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "Dragons"
+  - "The Shuttered City"
 media: []
 ---
 The [Doge](/wiki/blind-doge/) of the [City of the Shuttered Windows](/wiki/city-of-the-shuttered-windows/) drinks his bloodied wine chilled from a cup fashioned from the scale of a [gold dragon](/wiki/gold-dragons/). These scales draw in heat.

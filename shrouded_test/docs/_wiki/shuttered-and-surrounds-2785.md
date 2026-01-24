@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Shuttered and surrounds"
 pageid: 2785
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered_and_surrounds"
 categories:
   - "Category:Regions"
-  - "Category:Shuttered and Surrounds"
-  - "Category:The Shuttered City"
+  - "Shuttered and Surrounds"
+  - "The Shuttered City"
 media: []
 ---
 Includes hexes: [26.13](/wiki/26-13/), [27.12](/wiki/27-12/), [28.11](/wiki/28-11/), [29.13](/wiki/29-13/), [29.14](/wiki/29-14/), [29.15](/wiki/29-15/), [30.12](/wiki/30-12/), [30.15](/wiki/30-15/), [31.15](/wiki/31-15/), [32.12](/wiki/32-12/), [33.16](/wiki/33-16/), [35.13](/wiki/35-13/), [36.11](/wiki/36-11/), [39.12](/wiki/39-12/), [39.14](/wiki/39-14/), [39.23](/wiki/39-23/) and [43.12](/wiki/43-12/).

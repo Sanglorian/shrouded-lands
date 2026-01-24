@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dreamsong"
 categories:
   - "Planes"
-  - "Category:The Bitter Coast"
+  - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---

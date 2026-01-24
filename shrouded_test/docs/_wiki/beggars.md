@@ -5,10 +5,10 @@ pageid: 4062
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Beggars"
 categories:
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Professions"
-  - "Category:The Duchy of Thring"
-  - "Category:The Shuttered City"
+  - "The Duchy of Thring"
+  - "The Shuttered City"
 media: []
 ---
 Beggars are mentioned in the [Rhyme of the Sanguine Lords](/wiki/rhyme-of-the-sanguine-lords/):

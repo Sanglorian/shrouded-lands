@@ -5,9 +5,9 @@ pageid: 3527
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sosaria_the_Brave"
 categories:
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Category:Songs"
-  - "Category:Sosaria"
+  - "Sosaria"
 media: []
 ---
 * *Inspiration:** *The Invention of Scotland*

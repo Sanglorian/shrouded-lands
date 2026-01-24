@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Peacockatrices"
 categories:
   - "Birds"
   - "Creatures"
-  - "Category:The Barrier Range"
+  - "The Barrier Range"
 media: []
 ---
 Peacockatrice eggs can fetch high prices in **Shuttered, **making the dangerous dive in Dragon Lake ([25.16](/wiki/25-16/)) worth it. After all, the prices are high enough to spark scuffles, murders and even a small war.

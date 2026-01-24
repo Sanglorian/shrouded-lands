@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Alchemists"
 pageid: 4078
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Alchemists"
 categories:
-  - "Category:Alchemists"
-  - "Category:Jahur"
+  - "Alchemists"
+  - "Jahur"
   - "Category:Magic"
   - "Professions"
 media: []

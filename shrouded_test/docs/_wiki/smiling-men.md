@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Smiling_Men"
 categories:
   - "Assassins"
-  - "Category:Doppelgangers"
+  - "Doppelgangers"
   - "Organisationss"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-smile.png)Connects to: [02.11.01](/wiki/02-11/), [18.10](/wiki/18-10/), [25.15](/wiki/25-15/), [39.14](/wiki/39-14/), [43.27](/wiki/43-27/), [46.15](/wiki/46-15/) and [47.00](/wiki/47-00/).

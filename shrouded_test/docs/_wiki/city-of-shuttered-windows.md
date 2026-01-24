@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/City_of_Shuttered_Windows"
 categories:
   - "Category:Cities"
-  - "Category:Shuttered and Surrounds"
-  - "Category:The Shuttered City"
+  - "Shuttered and Surrounds"
+  - "The Shuttered City"
 media: []
 ---
 :**City of Many Windows** redirects here. To learn why the name changed, see [Windows (Shuttered)](/wiki/windows-(shuttered)/) or [Chimerical Siege](/wiki/chimerical-siege/)![](/media/2914.jpg)

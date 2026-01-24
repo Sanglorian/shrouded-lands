@@ -3,13 +3,14 @@ layout: wiki_page
 title: "Lions"
 pageid: 3514
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lions"
 categories:
   - "Category:Animals"
   - "Cats"
   - "Creatures"
-  - "Category:Lions"
-  - "Category:The King in Splendour"
+  - "Lions"
+  - "The King in Splendour"
 media: []
 ---
 ![John Johnston](/media/Johnston_De_Quadrupedibus_Loewe.jpg)

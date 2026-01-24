@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Sunless Sea"
 pageid: 2663
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sunless_Sea"
 categories:
   - "Category:Bodies of water"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 ![http://commons.wikimedia.org/wiki/File:NC_Wyeth_the_Indian_in_His_Solitude_2.png](/media/NCWyeth19.png)

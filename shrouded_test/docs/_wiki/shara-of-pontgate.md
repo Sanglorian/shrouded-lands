@@ -5,12 +5,12 @@ pageid: 2843
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shara_of_Pontgate"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Characters"
-  - "Category:Earth Whisperers"
+  - "Earth Whisperers"
   - "Category:Five Founders"
-  - "Category:Priests"
-  - "Category:Witches"
+  - "Priests"
+  - "Witches"
 media: []
 ---
 Founder of Pontgate ([26.20](/wiki/26-20/))

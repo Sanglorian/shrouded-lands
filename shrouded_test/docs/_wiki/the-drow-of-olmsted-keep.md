@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Drow_of_Olmsted_Keep"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:The Lands of the Night Cattle"
-  - "Category:Unseelie elves"
+  - "Elves"
+  - "The Lands of the Night Cattle"
+  - "Unseelie elves"
 media: []
 ---
 :**The Drow** redirects here. See [drow](/wiki/drow/) for other uses of that term.

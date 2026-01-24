@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Phenomena"
 pageid: 2426
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Phenomena"
 categories:
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 ## Astronomy

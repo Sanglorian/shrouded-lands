@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dungers_and_Hallovers"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 Live in The Village of the Dungers ([25.17](/wiki/25-17/))

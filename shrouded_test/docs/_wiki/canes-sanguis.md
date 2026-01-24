@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Canes_Sanguis"
 categories:
   - "Alberon"
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 The ancient and much-feared Order of the Canes Sanguis is the greatest arm of the [Priests-Militant](/wiki/priests-militant/) of the [Temple Indivisible](/wiki/temple-indivisible/) in the [Shuttered Lands](/wiki/shuttered-and-surrounds/). Famed for their blood-red armor, fully enclosing hounds-head shaped helms, and impressive spears, these soldiers of faith, informally called the Templars, are the bloody face of the Temple Indivisible’s might. Though enrollment is open to any of the faithful of the Temple, the secret rites of initiation, the grueling training regimes, and intense religious instructions have been known to break average men and kill lesser ones.

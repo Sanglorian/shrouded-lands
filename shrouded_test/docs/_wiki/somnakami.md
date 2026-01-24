@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Somnakami"
 pageid: 2949
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Somnakami"
 categories:
   - "Category:Peoples"
-  - "Category:Somnakami"
-  - "Category:The Moon"
+  - "Somnakami"
+  - "The Moon"
 media: []
 ---
 * *Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg)

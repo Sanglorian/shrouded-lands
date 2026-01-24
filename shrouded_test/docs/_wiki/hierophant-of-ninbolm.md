@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hierophant_of_Ninbolm"
 categories:
   - "Category:Characters"
-  - "Category:Druids"
-  - "Category:Gnomes"
-  - "Category:Ninbolm"
+  - "Druids"
+  - "Gnomes"
+  - "Ninbolm"
 media: []
 ---
 ![](/media/Odilon_Redon_-_Caliban_-_Google_Art_Project.jpg)The ruler of [Ninbolm](/wiki/ninbolm/), more information on him can be found in that city's entry.

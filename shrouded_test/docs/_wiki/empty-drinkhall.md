@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Empty_Drinkhall"
 categories:
   - "Category:Customs"
-  - "Category:Gnomes"
+  - "Gnomes"
   - "Category:Magic"
-  - "Category:Ninbolm"
+  - "Ninbolm"
 media: []
 ---
 ## The Empty Drinkhall

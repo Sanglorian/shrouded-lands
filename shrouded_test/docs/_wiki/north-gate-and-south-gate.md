@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/North_Gate_and_South_Gate"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1513](/media/MauriceDay3.jpg)[The City's walls](/wiki/city-walls-(shuttered)/) are broken by the North or South Gates, which are massive stone doors which swing open and closed noiselessly with shocking ease. When closed, they are bolted with bars of iron as thick as a man's arm. The North Gate is opened only during the day, and is where the vast majority of traffic enters the City.

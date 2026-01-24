@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elemental_beings"
 categories:
   - "Creatures"
-  - "Category:Elementals"
+  - "Elementals"
 media: []
 ---
 * *![](/media/Bengs.jpg)Type:** [Elementals](/wiki/elementals/)

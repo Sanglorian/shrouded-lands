@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_of_Thring_(incumbent)"
 categories:
   - "Category:Characters"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 :**Duke of Thring** redirects here. For former dukes of Thring, see [ducal family of Thring](/wiki/ducal-family-of-thring/).![](/media/Lancelot_and_Hellawes.jpg)

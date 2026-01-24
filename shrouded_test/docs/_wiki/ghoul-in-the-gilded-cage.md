@@ -7,10 +7,10 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ghoul_in_the_Gilded_Cage"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Ghouls"
-  - "Category:Gnolls"
+  - "Ghouls"
+  - "Gnolls"
   - "Category:Humans"
-  - "Category:Jahur"
+  - "Jahur"
   - "The Singing Wastes"
 media: []
 ---

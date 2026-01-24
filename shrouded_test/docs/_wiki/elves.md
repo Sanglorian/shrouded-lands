@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Elves"
 pageid: 2571
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Elves"
 categories:
   - "Creatures"
-  - "Category:Elves"
+  - "Elves"
   - "Category:Peoples"
-  - "Category:The Kingswood"
+  - "The Kingswood"
 media: []
 ---
 ![An elf. David Revoy/The Blender Foundation (CC BY 3.0 Unported)](/media/2010-01-portrait_cendrea.png)

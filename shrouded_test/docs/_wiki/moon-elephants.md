@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Moon_elephants"
 categories:
   - "Category:Animals"
   - "Creatures"
-  - "Category:Elephants"
-  - "Category:Sosaria"
+  - "Elephants"
+  - "Sosaria"
 media: []
 ---
 ![Two different hues of moon elephant](/media/Elefanten_aus_Gottlieb_Tobias_Wilhelm_Unterhaltungen_aus_der_Naturgeschichte.jpg)The gnolls of the Burning Lands insist vehemently that the tusks on [Sosaria](/wiki/sosaria/)'s Elephant Wall were robbed from the Graveyard of Painted Elephants ([43.27](/wiki/43-27/).01). This is not true. The [djinn](/wiki/djinn/) servants who built the great wall harvested the tusks from the moon elephants that roamed the nearby plain. The construction of the wall drove the species to near-extinction. A few remnant bands of the elephants use a watering hole ([50.20](/wiki/50-20/)) as a base for their nightly foraging. They are one of the few beasts that the gnolls refuse to hunt because they believe that eating their flesh causes madness, and that their tusks are haunted by spirits.

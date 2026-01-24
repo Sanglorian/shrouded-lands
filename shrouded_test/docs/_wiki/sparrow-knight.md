@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sparrow_Knight"
 categories:
   - "Category:Characters"
-  - "Category:Knights"
-  - "Category:The Duchy of Thring"
+  - "Knights"
+  - "The Duchy of Thring"
 media: []
 ---
 The **Sparrow Knight** is an unconventional [knight of Thring](/wiki/knights-of-thring/). He claims to know Sir [Waine](/wiki/waine/)'s secrets and the source of that paladin's feather token. More traditional knights consider the Sparrow Knight's irreverent style an insult to Sir Waine, but the knight contends that Sir Waine was a radical in his day, creating the customs that are now considered timeless. 

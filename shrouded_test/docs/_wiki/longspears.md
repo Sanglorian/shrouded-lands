@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Longspears"
 pageid: 3558
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Longspears"
 categories:
   - "Category:Families"
-  - "Category:Longspears"
+  - "Longspears"
 media: []
 ---
 * [Hardrald Longspear](/wiki/hardrald-longspear/), after whose longspear the family takes its surname

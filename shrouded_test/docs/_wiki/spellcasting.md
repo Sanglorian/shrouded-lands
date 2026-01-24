@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spellcasting"
 categories:
   - "Category:Elementalists"
-  - "Category:Mages"
+  - "Mages"
   - "Category:Magic"
-  - "Category:Sorcerers"
-  - "Category:Wizards"
+  - "Sorcerers"
+  - "Wizards"
 media: []
 ---
 Spellcasters are well-known throughout the Shrouded Lands, and are the subject of much legend and intrigue. A variety of terms are used to describe them, and the precise meanings of those terms are not always clear. 

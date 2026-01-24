@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Viceroy_Rullaj"
 categories:
   - "Category:Characters"
   - "Category:Humans"
-  - "Category:Jahur"
+  - "Jahur"
   - "Viceroys"
 media: []
 ---

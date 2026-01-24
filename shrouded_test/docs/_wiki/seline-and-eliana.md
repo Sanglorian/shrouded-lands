@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seline_and_Eliana"
 categories:
   - "Category:Characters"
-  - "Category:Doges"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "The Shuttered City"
 media: []
 ---
 ## The Wives of the Doge

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Yarbeens"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 Live in The Lacuna ([24.15](/wiki/24-15/))

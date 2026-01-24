@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Hyfalls"
 pageid: 3648
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Hyfalls"
 categories:
-  - "Category:River Hyad"
-  - "Category:The Burning Lands"
+  - "River Hyad"
+  - "The Burning Lands"
   - "Category:Towns"
 media: []
 ---

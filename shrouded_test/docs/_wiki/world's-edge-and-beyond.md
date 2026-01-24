@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/World%27s_Edge_and_Beyond"
 categories:
   - "Category:Regions"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![](/media/Edge.png)

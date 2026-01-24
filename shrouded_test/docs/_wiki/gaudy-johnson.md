@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gaudy_Johnson"
 categories:
   - "Category:Merchants"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## Snake Oil

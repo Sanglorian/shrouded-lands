@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Gorean_Greys"
 categories:
   - "Cats"
   - "Creatures"
-  - "Category:The Lands of Gore"
+  - "The Lands of Gore"
 media: []
 ---
 The Gorean Grey is a fierce breed of war cat popular in Gore. They are ferocious and agile and skilled at clinging to the faces of their victims. According to lore, they all descend from the cat Perudien ([11.16](/wiki/11-16/)).

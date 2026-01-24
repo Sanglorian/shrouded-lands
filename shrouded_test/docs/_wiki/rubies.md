@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rubies"
 categories:
   - "Category:Gems"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 * The rubies in the eyes of the viper of the [Traitors' Pit](/wiki/traitors'-pit/) were prised from the eyes of an idol in the Black Ziggurat ([18.26](/wiki/18-26/))

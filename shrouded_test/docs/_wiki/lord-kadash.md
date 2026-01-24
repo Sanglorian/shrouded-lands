@@ -5,11 +5,11 @@ pageid: 4092
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Kadash"
 categories:
-  - "Category:Jahuri"
+  - "Jahuri"
   - "Lords of Thring"
   - "Category:Nobles"
-  - "Category:The Duchy of Thring"
-  - "Category:Thieves"
+  - "The Duchy of Thring"
+  - "Thieves"
 media: []
 ---
 : Not be be confused with [Lord Kardash](/wiki/lord-kardash/), a Sanguine Lord. 

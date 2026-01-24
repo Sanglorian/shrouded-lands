@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Su-giraffes"
 categories:
   - "Creatures"
   - "Category:Giraffes"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![Niko Pirosmani](/media/Pirosmani._Giraffe.jpg)Of all of the strange beasts that live in the jungles beyond the World’s Edge one of the most famous is the [su-giraffe](/wiki/su-giraffes/). Juveniles of this breed appear much like those giraffes found in other lands except of darker color and with even longer limbs.

@@ -5,7 +5,7 @@ pageid: 2602
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ashberries
 categories:
-- Category:Osseries
+- Osseries
 - Plants
 media: []
 is_redirect: true

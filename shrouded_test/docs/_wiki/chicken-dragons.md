@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chicken_dragons"
 categories:
   - "Creatures"
-  - "Category:Dragons"
+  - "Dragons"
 media: []
 ---
 As everyone knows, the blood of a chromatic dragon is lethal poison to a metallic dragon and vice versa. However, the current lack of metallic dragons in these lands makes this knowledge somewhat academic.

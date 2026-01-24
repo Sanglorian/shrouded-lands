@@ -5,10 +5,10 @@ pageid: 2842
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ban_the_Clever"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Characters"
   - "Category:Five Founders"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 * *Ban the Clever** was one of the five founders of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/). An adventurous Thringman, he and the other four founders arrived on the shores of the Shrouded Lands. It was he who figured out how to stop the [waker worms](/wiki/waker-worms/) from regenerating, allowing them to be dealt with and the five fishing villages to be founded. Ban's fishing village is Banshot. 

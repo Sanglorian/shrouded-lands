@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Bergolast"
 pageid: 2847
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bergolast"
 categories:
   - "Category:Cities"
   - "Category:Lost civilisations"
-  - "Category:Nations"
-  - "Category:The Burning Lands"
+  - "Nations"
+  - "The Burning Lands"
 media: []
 ---
 [The Burning Lands](/wiki/the-burning-lands/) are still called Bergolast to this day.

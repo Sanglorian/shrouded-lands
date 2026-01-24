@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ivory_gargoyles"
 categories:
   - "Category:Constructs"
   - "Creatures"
-  - "Category:Sosaria"
+  - "Sosaria"
 media: []
 ---
 ## The Gargoyles of the Conjured City

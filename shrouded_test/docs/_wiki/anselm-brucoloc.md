@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Anselm_Brucoloc
 categories:
 - Category:Characters
-- Category:Lords Sanguine
+- Lords Sanguine
 media: []
 is_redirect: true
 redirect_to: '08.21'

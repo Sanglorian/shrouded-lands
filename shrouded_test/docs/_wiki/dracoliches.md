@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dracoliches"
 categories:
   - "Creatures"
   - "Dead Tiamat"
-  - "Category:Dragons"
+  - "Dragons"
   - "Undead"
 media: []
 ---

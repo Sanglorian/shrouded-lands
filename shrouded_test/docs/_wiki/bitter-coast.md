@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bitter_Coast"
 categories:
   - "Category:Regions"
-  - "Category:The Bitter Coast"
+  - "The Bitter Coast"
 media: []
 ---
 ![](/media/Bitter.png)

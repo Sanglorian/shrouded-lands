@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Fish"
 categories:
   - "Category:Buildings"
-  - "Category:Jahur"
+  - "Jahur"
 media: []
 ---
 ## The Dead Fish

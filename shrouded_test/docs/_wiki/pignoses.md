@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pignoses"
 categories:
   - "Category:Families"
-  - "Category:Half-elves"
-  - "Category:Half-orcs"
+  - "Half-elves"
+  - "Half-orcs"
   - "Category:Humans"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 The Pignoses are a [Newhill](/wiki/newhill/) family that proudly claim some [orcish blood](/wiki/orcs/). They are physically brutish but fairly gentle. They are often in conflict with the [Verlimes](/wiki/verlimes/) but peaceful towards the [Stannevs](/wiki/stannevs/).

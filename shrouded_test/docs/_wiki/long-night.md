@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Long_Night"
 categories:
   - "Category:Astronomy"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 The world lies black and sunless for an entire week during this event in midwinter.

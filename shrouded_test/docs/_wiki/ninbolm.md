@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Ninbolm"
 pageid: 3333
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ninbolm"
 categories:
   - "Category:Cities"
-  - "Category:Gnomes"
-  - "Category:The Lands of Gore"
+  - "Gnomes"
+  - "The Lands of Gore"
 media: []
 ---
 ![](/media/0524.png) 

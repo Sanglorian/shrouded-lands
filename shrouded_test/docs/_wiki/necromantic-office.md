@@ -5,10 +5,10 @@ pageid: 3063
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Necromantic_Office"
 categories:
-  - "Category:Mages"
+  - "Mages"
   - "Organisationss"
-  - "Category:The Shuttered City"
-  - "Category:Wizards"
+  - "The Shuttered City"
+  - "Wizards"
 media: []
 ---
 ![](/media/Shutt-nec.png)Connects to: [14.23](/wiki/14-23/), [15.11](/wiki/15-11/), [21.14](/wiki/21-14/), [24.18](/wiki/24-18/), [26.13](/wiki/26-13/), [29.13](/wiki/29-13/), [29.14.09](/wiki/29-14/), [29.14.46](/wiki/29-14/) and [39.14](/wiki/39-14/).

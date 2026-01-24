@@ -5,7 +5,7 @@ pageid: 3460
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drow%27s_Tears"
 categories:
-  - "Category:Phenomena"
+  - "Phenomena"
   - "Category:Weather"
 media: []
 ---

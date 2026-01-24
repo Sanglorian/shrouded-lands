@@ -5,9 +5,9 @@ pageid: 3129
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Numinomancy"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Magic"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 ![](/media/Titan3.png)Twenty years ago, [the Hoard](/wiki/the-hoard/) longbeards introduced an ‘eons-old custom’: the gifting of each dwarven child with a coin from the vaults. The smoothchins are to speak to their coin each night before bed.

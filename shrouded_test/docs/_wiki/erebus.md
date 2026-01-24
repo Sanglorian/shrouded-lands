@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Erebus"
 categories:
   - "Category:Characters"
-  - "Category:Fiendslayers"
-  - "Category:Jahur"
+  - "Fiendslayers"
+  - "Jahur"
 media: []
 ---
 ## The Last Fiendslayer

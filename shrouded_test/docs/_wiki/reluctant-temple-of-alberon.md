@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Reluctant_Temple_of_Albero
 categories:
   - "Alberon"
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 :See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)

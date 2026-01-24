@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Krakens"
 categories:
   - "Creatures"
-  - "Category:The Bitter Coast"
-  - "Category:The Keening Sea"
+  - "The Bitter Coast"
+  - "The Keening Sea"
   - "Category:The Ocean of Bitter Regrets"
   - "The Singing Wastes"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tenzerlins_and_Ghostas"
 categories:
   - "Category:Families"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## The Houses of Tenzerlin and Ghosta

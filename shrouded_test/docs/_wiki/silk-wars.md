@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Silk_wars"
 categories:
   - "Category:Artifacts"
   - "Category:Conflicts"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## The Silk Wars

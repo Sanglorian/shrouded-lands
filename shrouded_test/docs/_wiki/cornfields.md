@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cornfields"
 categories:
   - "Category:Regions"
-  - "Category:The Cornfields"
+  - "The Cornfields"
 media: []
 ---
 ![](/media/Corn.png)

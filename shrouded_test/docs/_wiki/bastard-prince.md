@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bastard_Prince"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:The Kingswood"
-  - "Category:Unseelie elves"
+  - "Elves"
+  - "The Kingswood"
+  - "Unseelie elves"
 media: []
 ---
 Those who walk the paths of the Kingswood at night, for the most part, safe from the elves of the seelie court, who gather in the Holt of the Bloodied King ([29.07](/wiki/29-07/)) each night. But they are not safe from the bastard prince, a strange elf whose left half is of night black and whose right half is as white as cream.

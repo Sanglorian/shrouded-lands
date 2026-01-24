@@ -8,8 +8,8 @@ categories:
   - "Category:Characters"
   - "Category:Electors"
   - "Category:Nobles"
-  - "Category:The Freeholds"
-  - "Category:The Shuttered City"
+  - "The Freeholds"
+  - "The Shuttered City"
 media: []
 ---
 ## Ilace and Jerrod

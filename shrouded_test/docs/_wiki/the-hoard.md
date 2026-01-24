@@ -5,7 +5,7 @@ pageid: 3350
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Hoard"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Organisationss"
 media: []
 ---

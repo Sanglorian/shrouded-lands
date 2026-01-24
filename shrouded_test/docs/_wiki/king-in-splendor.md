@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/King_in_Splendor"
 categories:
   - "Category:Deities"
-  - "Category:The King in Splendour"
+  - "The King in Splendour"
 media: []
 ---
 ![Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)](/media/Aquaria_-_Energy_Temple_Concept.jpg)Connects to: [00.09](/wiki/00-09/), [06.03](/wiki/06-03/), [17.07](/wiki/17-07/), [17.07.01](/wiki/17-07/), [29.03](/wiki/29-03/),

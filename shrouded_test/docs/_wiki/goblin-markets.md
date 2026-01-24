@@ -5,9 +5,9 @@ pageid: 3121
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Goblin_Markets"
 categories:
-  - "Category:Goblins"
+  - "Goblins"
   - "Organisationss"
-  - "Category:Warlocks"
+  - "Warlocks"
 media: []
 ---
 Most [pactmaking](/wiki/pactmaking/) today uses standardised currencies and boons traded on the open market. 

@@ -5,7 +5,7 @@ pageid: 3507
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Death%27s_Lovelies"
 categories:
-  - "Category:Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
   - "Category:Brigands"
   - "Category:Maladies"
   - "Organisationss"

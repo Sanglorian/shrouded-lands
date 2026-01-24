@@ -3,15 +3,16 @@ layout: wiki_page
 title: "Dryads"
 pageid: 3658
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dryads"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Fey"
-  - "Category:Naros"
-  - "Category:The Bitter Coast"
-  - "Category:The Kingswood"
-  - "Category:The Lands of Gore"
+  - "Fey"
+  - "Naros"
+  - "The Bitter Coast"
+  - "The Kingswood"
+  - "The Lands of Gore"
 media: []
 ---
 ![adel adili, Creative Commons BY-SA 3.0 Unported](/media/Apollo_and_Daphne_.jpg)

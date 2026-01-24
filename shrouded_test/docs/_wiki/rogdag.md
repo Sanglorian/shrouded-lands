@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Rogdag"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Ogres"
-  - "Category:Shuttered and Surrounds"
-  - "Category:The Keening Sea"
+  - "Ogres"
+  - "Shuttered and Surrounds"
+  - "The Keening Sea"
 media: []
 ---
 An [ogre](/wiki/ogres/) named **Rogdag** dwells in the ruin of a lighthouse along the shores of the Keening Sea ([35.13](/wiki/35-13/)). He is unusually docile, almost to the point of timidity, and has never raided the nearby villages. He survives off of the eels and lungfish that lurk in the Keening Sea's shallows, but he sails his raft into deeper waters to spear [giant catfish](/wiki/giant-catfish/) and [bearded whales](/wiki/bearded-whales/) when he feels ambitious.

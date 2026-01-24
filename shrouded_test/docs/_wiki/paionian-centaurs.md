@@ -5,7 +5,7 @@ pageid: 2825
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Paionian_centaurs
 categories:
-- Category:Centaurs
+- Centaurs
 - Category:Peoples
 media: []
 is_redirect: true

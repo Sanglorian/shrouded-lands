@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simon_Maddlow"
 categories:
   - "Category:Characters"
-  - "Category:Maddlows"
-  - "Category:The Shuttered City"
+  - "Maddlows"
+  - "The Shuttered City"
 media: []
 ---
 ## The Bureaucrat Descended from a King

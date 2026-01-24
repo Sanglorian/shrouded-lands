@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Haverlies_and_Cransoms"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 They live in The Land That Wasn’t There ([23.18](/wiki/23-18/))

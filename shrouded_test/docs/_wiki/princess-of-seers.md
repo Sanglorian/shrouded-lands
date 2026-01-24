@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Princess_of_Seers"
 categories:
   - "Category:Characters"
-  - "Category:Necromancers"
-  - "Category:Winds"
-  - "Category:Windseers"
+  - "Necromancers"
+  - "Winds"
+  - "Windseers"
 media: []
 ---
 ![](/media/2311princess.jpg)Connects to: [23.11](/wiki/23-11/) and [26.13](/wiki/26-13/).

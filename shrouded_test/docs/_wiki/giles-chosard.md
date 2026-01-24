@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Giles_Chosard"
 categories:
   - "Category:Characters"
   - "Category:Humans"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 After committing crimes that the Priests of the [Temple Indivisible](/wiki/temple-indivisible/) will take a man's tongue out for speaking of, the father of Giles Chosard barely escaped the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) with his life for lands far to the south. There the man, who had once been a wealthy [Elector](/wiki/electors/), filled his young son's ears with tales of his lost home, the greatest and most beautiful city on the face of the world: the high towers ringed with walkways that seem to stretch to touch the bright balloons that sail through the sky, the ladies clad in bright feathers, the great beasts howling their death cries within the Wedding Band ([30.15](/wiki/30-15/)) and all the rest.

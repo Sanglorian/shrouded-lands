@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Election_of_the_Doges"
 categories:
   - "Category:Customs"
-  - "Category:Doges"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-elec.png)Connects to: [13.06](/wiki/13-06/), [29.14.51](/wiki/29-14/) and [33.16](/wiki/33-16/).

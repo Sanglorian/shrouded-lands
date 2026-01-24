@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hundred_Heresies"
 categories:
   - "Alberon"
   - "Category:Customs"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 Dictated by the [Temple Indivisible](/wiki/temple-indivisible/) of the [Shuttered City](/wiki/shuttered-city/), which worships [Alberon](/wiki/alberon/)

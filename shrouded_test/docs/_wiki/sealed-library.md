@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sealed_Library"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-seal.jpg)Connects to: [01.03](/wiki/01-03/), [17.07.02](/wiki/17-07/), [17.17.05](/wiki/17-17/), [27.18.01](/wiki/27-18/), [29.14.12](/wiki/29-14/), [29.14.14](/wiki/29-14/), [29.14.24](/wiki/29-14/), [29.14.29](/wiki/29-14/) and [29.14.48](/wiki/29-14/).

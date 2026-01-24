@@ -5,10 +5,10 @@ pageid: 3462
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drow-ghosts"
 categories:
-  - "Category:Elves"
-  - "Category:Ghosts"
+  - "Elves"
+  - "Ghosts"
   - "Undead"
-  - "Category:Winds"
+  - "Winds"
 media: []
 ---
 See also [drow](/wiki/drow/) and [ghosts](/wiki/ghosts/).

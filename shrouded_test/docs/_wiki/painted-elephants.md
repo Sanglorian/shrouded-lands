@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Painted_elephants"
 categories:
   - "Category:Animals"
   - "Creatures"
-  - "Category:Elephants"
-  - "Category:The Burning Lands"
+  - "Elephants"
+  - "The Burning Lands"
 media: []
 ---
 ![Amrita Sher-Gil](/media/Two_Elephants,_by_Amrita_Sher-Gil,_ca_1940.jpg)When the painted elephants of the [Burning Lands](/wiki/burning-lands/) feel their steps faltering and their eyesight blurring, they travel to the Elephant Graveyard ([43.27](/wiki/43-27/)) where they gracefully die.

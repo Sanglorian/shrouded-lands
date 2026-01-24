@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Saklas"
 categories:
   - "Creatures"
-  - "Category:The King in Splendour"
+  - "The King in Splendour"
 media: []
 ---
 These creatures resemble lions sketched in the air out of cords of bright fire. Human eyes that look upon them burn. Eyelids and blindfold do not help much as they burn away, leaving your eyes exposed. Averting your gaze will help but the saklas are swift, stalking and circling their victims until they are blinded.

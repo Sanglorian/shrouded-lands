@@ -5,9 +5,9 @@ pageid: 3453
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Factions_(elves)"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Organisationss"
-  - "Category:The Kingswood"
+  - "The Kingswood"
 media: []
 ---
 ![](/media/290701.png)Connects to: [17.07](/wiki/17-07/), [29.10](/wiki/29-10/), [31.04](/wiki/31-04/), [36.04.01](/wiki/36-04/), [37.01](/wiki/37-01/) and [43.08](/wiki/43-08/).

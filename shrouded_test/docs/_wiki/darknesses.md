@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Darknesses"
 categories:
   - "Category:Deities"
-  - "Category:Phenomena"
+  - "Phenomena"
 media: []
 ---
 The [darkness behind the moon](/wiki/darkness-behind-the-moon/) is the indirect source of [kobolds](/wiki/kobolds/). The [darkness behind the stars](/wiki/darkness-behind-the-stars/) is the source of the meteors that [Lord Ward](/wiki/lord-ward/) watches for (see [22.10](/wiki/22-10/) for more).

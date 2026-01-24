@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Mounts"
 pageid: 3575
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Mounts"
 categories:
   - "Category:Animals"
-  - "Category:Knights"
-  - "Category:Mounts"
-  - "Category:Thring"
+  - "Knights"
+  - "Mounts"
+  - "Thring"
 media: []
 ---
 Because there are no more fertile [horses](/wiki/horses/) in the Shrouded Lands, most knights of Thring ride a wide variety of other animals. 

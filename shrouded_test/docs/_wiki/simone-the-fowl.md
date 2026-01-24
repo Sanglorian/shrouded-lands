@@ -10,8 +10,8 @@ categories:
   - "Category:Characters"
   - "Category:Chickens"
   - "Creatures"
-  - "Category:Doges"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "The Shuttered City"
 media: []
 ---
 ## The Glorious Reign of Doge Simone the Fowl

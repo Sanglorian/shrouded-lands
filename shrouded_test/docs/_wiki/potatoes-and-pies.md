@@ -5,8 +5,8 @@ pageid: 3540
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Potatoes_and_pies"
 categories:
-  - "Category:Orcs"
-  - "Category:The Grey Mountains"
+  - "Orcs"
+  - "The Grey Mountains"
   - "Category:Victuals"
 media: []
 ---

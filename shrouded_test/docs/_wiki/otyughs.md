@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Otyughs"
 categories:
   - "Creatures"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 The Eater of Filth ([13.12](/wiki/13-12/)) is an otyugh.

@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_men%27s_tongues"
 categories:
   - "Creatures"
-  - "Category:She Who Waits"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "She Who Waits"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 ![](/media/Shutt-dead.png)Connects to: [29.14.07](/wiki/29-14/).

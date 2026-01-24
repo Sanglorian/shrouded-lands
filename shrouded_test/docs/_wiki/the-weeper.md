@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Weeper"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:Wizards"
+  - "Elves"
+  - "Wizards"
 media: []
 ---
 He lives in a tall ivory tower next to a great waterfall ([43.08](/wiki/43-08/)). He is an elven wizard named Palendar who is now known as The Weeper. Once he employed magical means to return to the Holt each night to pay his respects to the elven king but no longer. Since the disappearance of his daughter he has not set foot outside his tower and his sobs echo up and down the waterfall, their sound strangely amplified and intermingled with that of the fall.

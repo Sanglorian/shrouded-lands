@@ -5,7 +5,7 @@ pageid: 2603
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ossery_fire
 categories:
-- Category:Osseries
+- Osseries
 - Category:Victuals
 media: []
 is_redirect: true

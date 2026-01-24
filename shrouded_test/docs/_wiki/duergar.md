@@ -5,7 +5,7 @@ pageid: 3603
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duergar"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Peoples"
   - "Category:The Tantalus Mountains"
 media: []

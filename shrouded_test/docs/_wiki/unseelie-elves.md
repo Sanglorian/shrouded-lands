@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Unseelie elves"
 pageid: 2773
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Unseelie_elves"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Category:Peoples"
 media: []
 ---

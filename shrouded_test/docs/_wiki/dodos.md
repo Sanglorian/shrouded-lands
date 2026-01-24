@@ -8,7 +8,7 @@ categories:
   - "Category:Animals"
   - "Birds"
   - "Creatures"
-  - "Category:Sosaria"
+  - "Sosaria"
 media: []
 ---
 Dodos are farmed in [Sosaria](/wiki/sosaria/). [Jahur](/wiki/jahur/)i merchants take advantage of dodos' poor sense of smell by having them pull caravans past the Scent Barrier ([21.29](/wiki/21-29/))

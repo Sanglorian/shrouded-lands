@@ -3,14 +3,15 @@ layout: wiki_page
 title: "Paladins"
 pageid: 2962
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Paladins"
 categories:
   - "Category:Deities"
   - "Green Lady"
-  - "Category:Knights"
-  - "Category:Paladins"
+  - "Knights"
+  - "Paladins"
   - "Professions"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 The term paladin appears to be used both to describe those [Thringish knights](/wiki/knights-of-thring/) who are married to the [Green Lady](/wiki/green-lady/), and serve as a generic term for warrior-priests of a particular god (perhaps with divine power).

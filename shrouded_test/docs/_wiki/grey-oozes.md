@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Grey_oozes"
 categories:
   - "Creatures"
   - "Category:Oozes"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 ![Grey ooze](/media/Gs133.jpg)

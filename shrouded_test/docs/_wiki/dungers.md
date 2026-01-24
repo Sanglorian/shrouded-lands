@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Dungers
 categories:
 - Category:Families
-- Category:Witch Clans
+- Witch Clans
 media: []
 is_redirect: true
 redirect_to: Dungers and Hallovers

@@ -8,8 +8,8 @@ categories:
   - "Category:Animals"
   - "Category:Bats"
   - "Creatures"
-  - "Category:The Kingswood"
-  - "Category:The World's Edge and Beyond"
+  - "The Kingswood"
+  - "The World's Edge and Beyond"
 media: []
 ---
 Connects to: [36.04](/wiki/36-04/) and the World’s Edge and Beyond.

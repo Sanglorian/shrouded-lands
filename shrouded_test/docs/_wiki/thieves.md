@@ -3,13 +3,14 @@ layout: wiki_page
 title: "Thieves"
 pageid: 4075
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Thieves"
 categories:
-  - "Category:Blind Midshotgatepool"
-  - "Category:Jahur"
+  - "Blind Midshotgatepool"
+  - "Jahur"
   - "Professions"
-  - "Category:The Lands of the Night Cattle"
-  - "Category:Thieves"
+  - "The Lands of the Night Cattle"
+  - "Thieves"
 media: []
 ---
 : [Pirates](/wiki/pirates/) redirects here. For the cloud and storm giants, see [Pirate Kings](/wiki/pirate-kings/).

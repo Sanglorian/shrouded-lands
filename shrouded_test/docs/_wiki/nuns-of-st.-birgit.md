@@ -7,11 +7,11 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Nuns_of_St._Birgit"
 categories:
   - "Lycanthropes"
   - "Category:Monks"
-  - "Category:Priests"
+  - "Priests"
   - "Category:Religious groups"
-  - "Category:The Duchy of Thring"
-  - "Category:The Lands of Gore"
-  - "Category:Werewolves"
+  - "The Duchy of Thring"
+  - "The Lands of Gore"
+  - "Werewolves"
 media: []
 ---
 ## Werewolf Nuns of St. Birgit

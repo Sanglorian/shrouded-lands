@@ -5,11 +5,11 @@ pageid: 4119
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bogarus_Bolger"
 categories:
-  - "Category:Band bosses"
-  - "Category:Bolgers"
+  - "Band bosses"
+  - "Bolgers"
   - "Category:Characters"
-  - "Category:Halflings"
-  - "Category:Shuttered and Surrounds"
+  - "Halflings"
+  - "Shuttered and Surrounds"
 media: []
 ---
 A rising member of the bosses that run the Wedding Band ([30.15](/wiki/30-15/)), **Bogarus Bolger** is a [halfling](/wiki/halflings/). Once famous for capturing and supplying a number of strange beasts for the games, he has now settled down to run his [blink dog](/wiki/blink-dogs/) kennel and other business interests.

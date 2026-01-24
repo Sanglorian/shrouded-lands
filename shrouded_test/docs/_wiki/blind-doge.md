@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Doge"
 categories:
   - "Category:Characters"
-  - "Category:Doges"
-  - "Category:The Shuttered City"
+  - "Doges"
+  - "The Shuttered City"
 media: []
 ---
 The blind Doge is the current [doge](/wiki/doges/) of the [Shuttered City](/wiki/shuttered-city/). He is married to [Seline and Eliana](/wiki/seline-and-eliana/). 

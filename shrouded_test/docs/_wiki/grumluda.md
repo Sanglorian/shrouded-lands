@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Grumluda"
 pageid: 3516
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Grumluda"
 categories:
-  - "Category:Grumluda"
-  - "Category:Nations"
-  - "Category:Orcs"
-  - "Category:The Twelve Nations"
+  - "Grumluda"
+  - "Nations"
+  - "Orcs"
+  - "The Twelve Nations"
 media: []
 ---
 The domain of the [Eternal-King-of-All-Orcs](/wiki/eternal-king-of-all-orcs/) and importer of ferocious beasts.

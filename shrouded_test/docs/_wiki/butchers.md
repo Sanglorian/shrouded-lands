@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Butchers"
 categories:
   - "Professions"
-  - "Category:Sosaria"
-  - "Category:The Lands of Gore"
+  - "Sosaria"
+  - "The Lands of Gore"
 media: []
 ---
 [Sosaria](/wiki/sosaria/)n butchers - along with jerky makers, tanners, cleaners and [plague doctors](/wiki/plague-doctors/) - are employed by the [Trunk](/wiki/trunk/) and by the city's [cattle barons](/wiki/cattle-barons-sosaria/) as assassins, demogogues and agitators. 

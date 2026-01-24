@@ -5,9 +5,9 @@ pageid: 3049
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Kagu"
 categories:
-  - "Category:Aarakocra"
+  - "Aarakocra"
   - "Category:Peoples"
-  - "Category:The Grey Mountains"
+  - "The Grey Mountains"
 media: []
 ---
 Although the [aarakocra](/wiki/aarakocra/) tribe known as the Kagu nests in [04.00](/wiki/04-00/), they claim all of the land from the Giant's Lake ([07.01](/wiki/07-01/)) to the east, Mount Scorshia ([02.03](/wiki/02-03/)) to the south, the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) to the east ([00.06](/wiki/00-06/) and points west) and as far as they care to fly to the north, feeding on wild mountain sheep and the like. Luckily for travelers of these remote mountains, the Kagu can generally be bought off with "shinies." They know little and care less about what objects humans value and prefer objects that are shiny and that they haven't seen before. Especially shiny tribute can even secure one of the Kagu as a guide. However, most of the Kagu speak no language aside from their own and travelers who do not respond to their shrieks about "shinies!" with gifts will be attacked (generally by having rocks dropped on their heads from just beyond arrow range and similar tactics).

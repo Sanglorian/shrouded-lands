@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Burning_eagles"
 categories:
   - "Birds"
   - "Creatures"
-  - "Category:Elementals"
+  - "Elementals"
 media: []
 ---
 ![Friedrich Justin Bertuch](/media/Phoenix-Fabelwesen.jpg)

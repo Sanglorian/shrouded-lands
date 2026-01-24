@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Kardash"
 categories:
   - "Category:Characters"
-  - "Category:Lords Sanguine"
-  - "Category:The Lands of Gore"
+  - "Lords Sanguine"
+  - "The Lands of Gore"
 media: []
 ---
 : Not to be confused with [Lord Kadash](/wiki/lord-kadash/), a lord of Thring.

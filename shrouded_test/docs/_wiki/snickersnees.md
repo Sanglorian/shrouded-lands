@@ -3,13 +3,14 @@ layout: wiki_page
 title: "Snickersnees"
 pageid: 2541
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Snickersnees"
 categories:
-  - "Category:Knights"
-  - "Category:Lords Sanguine"
+  - "Knights"
+  - "Lords Sanguine"
   - "Organisationss"
   - "Professions"
-  - "Category:The Lands of Gore"
+  - "The Lands of Gore"
 media: []
 ---
 The knights of [Lady Natala](/wiki/lady-natala/) and Castle Maratan ([07.17](/wiki/07-17/)).

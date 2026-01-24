@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Stannevs"
 pageid: 3445
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Stannevs"
 categories:
   - "Category:Families"
-  - "Category:Stannevs"
-  - "Category:The Freeholds"
+  - "Stannevs"
+  - "The Freeholds"
 media: []
 ---
 :Note: It seems that the plural of Stannev is Stannev. The title of this entry was chosen to be consistent with the treatment of other family names.

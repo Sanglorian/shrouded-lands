@@ -5,8 +5,8 @@ pageid: 3567
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shroom_wine"
 categories:
-  - "Category:Hobgoblins"
-  - "Category:The Freeholds"
+  - "Hobgoblins"
+  - "The Freeholds"
   - "Category:Victuals"
 media: []
 ---

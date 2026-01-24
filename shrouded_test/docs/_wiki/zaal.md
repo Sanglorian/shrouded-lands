@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Zaal"
 pageid: 3474
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Zaal"
 categories:
   - "Category:Cities"
-  - "Category:Elves"
+  - "Elves"
   - "The Singing Wastes"
 media: []
 ---

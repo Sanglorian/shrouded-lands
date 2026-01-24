@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Baron Autumn"
 pageid: 2449
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Baron_Autumn"
 categories:
-  - "Category:Baron Autumn"
+  - "Baron Autumn"
   - "Category:Deities"
 media: []
 ---

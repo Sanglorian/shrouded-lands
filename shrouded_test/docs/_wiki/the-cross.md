@@ -3,10 +3,11 @@ layout: wiki_page
 title: "The Cross"
 pageid: 2786
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Cross"
 categories:
   - "Category:Cities"
-  - "Category:The Bitter Coast"
+  - "The Bitter Coast"
 media: []
 ---
 * *![](/media/SL_18.png)Region:** [Bitter Coast](/wiki/bitter-coast/)

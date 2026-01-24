@@ -5,7 +5,7 @@ pageid: 3617
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Quercus"
 categories:
-  - "Category:Goblins"
+  - "Goblins"
   - "Category:Magic"
   - "Category:Sanglorian"
 media: []

@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Necromancers"
 pageid: 3677
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Necromancers"
 categories:
   - "Category:Magic"
-  - "Category:Necromancers"
+  - "Necromancers"
   - "Professions"
   - "Category:Spellcasters"
 media: []

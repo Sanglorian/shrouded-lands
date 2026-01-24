@@ -5,8 +5,8 @@ pageid: 2583
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Skullcrusher_orcs"
 categories:
-  - "Category:Half-orcs"
-  - "Category:Orcs"
+  - "Half-orcs"
+  - "Orcs"
   - "Category:Tribes"
 media: []
 ---

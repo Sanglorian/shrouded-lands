@@ -6,12 +6,12 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tigers"
 categories:
   - "Category:Animals"
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Cats"
   - "Creatures"
-  - "Category:Imperium Undying"
-  - "Category:Jahur"
-  - "Category:The Devil's Fingers"
+  - "Imperium Undying"
+  - "Jahur"
+  - "The Devil's Fingers"
 media: []
 ---
 ![Edward Julius Detmold](/media/Edward_Julius_Detmold50.jpg)

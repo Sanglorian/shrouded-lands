@@ -3,10 +3,11 @@ layout: wiki_page
 title: Hallovers
 pageid: 3250
 namespace: 0
+category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Hallovers
 categories:
 - Category:Families
-- Category:Witch Clans
+- Witch Clans
 media: []
 is_redirect: true
 redirect_to: Dungers and Hallovers

@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Hobgoblins"
 pageid: 3568
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblins"
 categories:
-  - "Category:Goblins"
-  - "Category:Hobgoblins"
+  - "Goblins"
+  - "Hobgoblins"
   - "Category:Peoples"
-  - "Category:The Freeholds"
+  - "The Freeholds"
 media: []
 ---
 Hobgoblins or ‘’’hobs’’’ lack whatever it is that binds goblins to oak trees ([11.01](/wiki/11-01/)) and their affinity for magic along with it, and tend be to lanky and misshapen when compared to their cousins, but are fearsomely strong. 

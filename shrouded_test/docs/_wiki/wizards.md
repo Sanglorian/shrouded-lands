@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Wizards"
 pageid: 2815
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Wizards"
 categories:
   - "Professions"

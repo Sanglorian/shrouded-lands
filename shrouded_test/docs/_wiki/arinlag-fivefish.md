@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Arinlag_Fivefish"
 categories:
   - "Bards"
   - "Category:Characters"
-  - "Category:Nordanbjorn"
-  - "Category:The Kingswood"
+  - "Nordanbjorn"
+  - "The Kingswood"
 media: []
 ---
 Within the Kingswood lies the log cabin of the nordabjorn bard [Arinlag Fivefish](/wiki/arinlag-fivefish/) ([35.04](/wiki/35-04/)). As he is a bear and not a man, the elves tolerate his presence, if just barely. Although few travellers venture this deep into the Kingswood, Arinlag welcomes those who do, provided they pay him well with songs, stories and tales from [home](/wiki/the-marche-of-the-winterjarl/). Those who bore him are required to amuse him in other ways that they may not find so pleasant. If the elves notice that Arinlag has visitors, they will attempt to lure them out into the Kingswood where they may be freely killed or captured. The bear cares little if his visitors fall for elven wiles and lets any foolish enough to do so go to their fates.

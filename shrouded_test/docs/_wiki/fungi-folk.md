@@ -3,12 +3,13 @@ layout: wiki_page
 title: "Fungi folk"
 pageid: 4154
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Fungi_folk"
 categories:
   - "Creatures"
-  - "Category:Fungi folk"
+  - "Fungi folk"
   - "Plants"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 Inside the Shield of Alberon ([16.17](/wiki/16-17/)) are peculiar **fungus people** or **fungi folk** who work strange magic using blinking wands that shoot lightning or fire.

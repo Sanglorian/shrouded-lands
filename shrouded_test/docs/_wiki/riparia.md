@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Riparia"
 categories:
   - "Category:Beavers"
   - "Category:Cities"
-  - "Category:The Kingswood"
-  - "Category:The Witchwater"
+  - "The Kingswood"
+  - "The Witchwater"
 media: []
 ---
 ![](/media/390801.jpg)Hex [39.08](/wiki/39-08/) (shared with [the Spawn](/wiki/the-spawn/))

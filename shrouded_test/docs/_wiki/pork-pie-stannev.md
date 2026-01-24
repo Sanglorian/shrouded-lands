@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Pork_Pie_Stannev
 categories:
 - Category:Characters
-- Category:Stannevs
+- Stannevs
 media: []
 is_redirect: true
 redirect_to: '25.04'

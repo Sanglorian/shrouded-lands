@@ -7,7 +7,7 @@ original_url: https://shrouded-lands.fandom.com/wiki/People_of_the_Claw
 categories:
 - Category:Humans
 - Category:Peoples
-- Category:The Lost Colony
+- The Lost Colony
 media: []
 is_redirect: true
 redirect_to: '48.13'

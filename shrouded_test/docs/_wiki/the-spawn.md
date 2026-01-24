@@ -10,8 +10,8 @@ categories:
   - "Category:Characters"
   - "Creatures"
   - "Category:Frogs"
-  - "Category:The Kingswood"
-  - "Category:The Witchwater"
+  - "The Kingswood"
+  - "The Witchwater"
 media: []
 ---
 ![](/media/3908.png)Hex [39.08](/wiki/39-08/) (shared with [Riparia](/wiki/riparia/))

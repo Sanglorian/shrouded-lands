@@ -5,7 +5,7 @@ pageid: 2927
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Albus_Flidge"
 categories:
-  - "Category:Browncloaks"
+  - "Browncloaks"
   - "Category:Characters"
 media: []
 ---

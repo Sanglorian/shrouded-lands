@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Book_of_Not_Being_Boiled_i
 categories:
   - "Category:Books"
   - "Dead Tiamat"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Shutt-book-boil.jpg)Connects to: [03.13](/wiki/03-13/), [26.16](/wiki/26-16/) and [29.14.50](/wiki/29-14/).

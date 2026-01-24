@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lunfar"
 categories:
   - "Category:Characters"
-  - "Category:Gnomes"
-  - "Category:Jahur"
+  - "Gnomes"
+  - "Jahur"
 media: []
 ---
 ## Lunfar's Shop

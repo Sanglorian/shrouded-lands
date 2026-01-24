@@ -5,9 +5,9 @@ pageid: 2776
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Simple"
 categories:
-  - "Category:Elves"
+  - "Elves"
   - "Organisationss"
-  - "Category:The Kingswood"
+  - "The Kingswood"
 media: []
 ---
 One of the [factions of the elves](/wiki/factions-elves/).

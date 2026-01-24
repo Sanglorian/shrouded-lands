@@ -3,6 +3,7 @@ layout: wiki_page
 title: "Harpies"
 pageid: 2668
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Harpies"
 categories:
   - "Birds"

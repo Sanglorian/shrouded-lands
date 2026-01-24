@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Temple_Indivisible"
 categories:
   - "Alberon"
   - "Category:Religious groups"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 The cult of [Alberon](/wiki/alberon/), God of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/), is known to the public as the Temple Indivisible. This name refers to a [period of schisms](/wiki/time-of-schisms/) within Alberon's cult, when the city was torn apart by religious war. One sect was noted for their steadfast adherence to unified dogma while other groups were splitting off into yet smaller ub-heresies; unsurprisingly, this indivisible sect was the victor of the civil war and went on to become the Temple Indivisible that exists today.

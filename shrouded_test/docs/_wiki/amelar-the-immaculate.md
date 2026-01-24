@@ -5,9 +5,9 @@ pageid: 3580
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Amelar_the_Immaculate"
 categories:
-  - "Category:Elves"
-  - "Category:Hierophants"
-  - "Category:The Kingswood"
+  - "Elves"
+  - "Hierophants"
+  - "The Kingswood"
 media: []
 ---
 :Amelar is also known as the **Hierophant of Constant Sorrow**. There is also a figure known only as the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). There are a number of other [Hierophant](/wiki/hierophant/)s in the Shrouded Lands.

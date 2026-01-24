@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Alevari"
 categories:
   - "Category:Characters"
   - "Category:Nobles"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## Lady Alevari’s Lament

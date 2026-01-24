@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Goat_Onna_Stick"
 categories:
   - "Category:Buildings"
-  - "Category:Winds"
+  - "Winds"
 media: []
 ---
 ## Goat Onna Stick

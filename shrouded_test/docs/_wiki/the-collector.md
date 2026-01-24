@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Collector"
 categories:
   - "Category:Characters"
-  - "Category:Lords Sanguine"
-  - "Category:The Lands of Gore"
+  - "Lords Sanguine"
+  - "The Lands of Gore"
 media: []
 ---
 * *Affiliation: **One of the [Lords Sanguine](/wiki/lords-sanguine/)

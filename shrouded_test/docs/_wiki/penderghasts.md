@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Penderghasts"
 pageid: 2596
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Penderghasts"
 categories:
   - "Category:Families"
-  - "Category:Penderghasts"
-  - "Category:Witch Clans"
+  - "Penderghasts"
+  - "Witch Clans"
 media: []
 ---
 Though one of the Witch Clans they swear fealty to the **Duchy of Thring** and hold their mountain fortress in his name. And quite a fortress it is. The power that runs in their line allows them to disintegrate any object with a mere thought and they have used this to dig tunnels under their mountain ([24.13](/wiki/24-13/)).

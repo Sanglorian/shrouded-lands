@@ -7,7 +7,7 @@ category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Viceroys
 categories:
   - "Category:Characters"
-  - "Category:Jahur"
+  - "Jahur"
 media: []
 ---
 ![A Viceroy](/media/Gs74.jpg)

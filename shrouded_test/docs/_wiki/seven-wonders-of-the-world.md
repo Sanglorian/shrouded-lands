@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Seven_Wonders_of_the_World
 categories:
   - "Category:Books"
   - "Category:Taran Prenderghast"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## Seven Wonders of the World

@@ -6,11 +6,11 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Green_Lady"
 categories:
-  - "Category:Alacoda"
+  - "Alacoda"
   - "Category:Deities"
-  - "Category:Elves"
+  - "Elves"
   - "Green Lady"
-  - "Category:The Duchy of Thring"
+  - "The Duchy of Thring"
 media: []
 ---
 ## In the world

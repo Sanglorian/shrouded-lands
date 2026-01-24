@@ -8,7 +8,7 @@ categories:
   - "Category:Characters"
   - "Category:Giants"
   - "Lycanthropes"
-  - "Category:The Bitter Coast"
+  - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---

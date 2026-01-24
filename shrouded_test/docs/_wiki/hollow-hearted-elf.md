@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hollow-Hearted_Elf"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:The Kingswood"
+  - "Elves"
+  - "The Kingswood"
 media: []
 ---
 It is widely known that elves have no souls but the elf who performs [Lisbet's Lament](/wiki/lisbet/) in Treebrush ([20.08](/wiki/20-08/)) does not even have a spirit in his chest, only instinct and vicious cunning to drive him. He enjoys hunting as the Wild Hunt of old and has struck a bargain with [the King of Salt and Brine](/wiki/the-king-of-salt-and-brine/) ([00.06](/wiki/00-06/)) so that those who carry the annual jewel to the Rockery ([31.07](/wiki/31-07/)) are met atop the great cairn by the empty-hearted elf and told that he will hunt and kill anyone whose name they care to speak.

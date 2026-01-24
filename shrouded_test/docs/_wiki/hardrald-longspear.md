@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hardrald_Longspear"
 categories:
   - "Category:Characters"
-  - "Category:Longspears"
-  - "Category:The Westmarches"
-  - "Category:Winds"
+  - "Longspears"
+  - "The Westmarches"
+  - "Winds"
 media: []
 ---
 * *Family:** [Longspears](/wiki/longspears/). [Egil Longspear](/wiki/egil-longspear/) was his son.

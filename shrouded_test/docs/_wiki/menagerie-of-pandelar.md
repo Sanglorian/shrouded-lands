@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Menagerie_of_Pandelar"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 ![](/media/Shutt-pand.png)Connects to: [43.08](/wiki/43-08/) and the World’s Edge.

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Courting_Death"
 categories:
   - "Category:Maladies"
-  - "Category:Shuttered and Surrounds"
+  - "Shuttered and Surrounds"
 media: []
 ---
 It begins with a dream. A dream of a kiss from a figure with a face shrouded in shadow. The sufferer then awakes with lips red and pink. This is the beginning of a disease that sinks deep into the victim's lungs and brings up pink bloody phlegm for a full fortnight. In the young, aged or weak this is sometimes fatal but it rarely strikes down those in their prime. Soon enough, for all but a handful of unfortunates whose lungs have been permanently damaged, the phlegm clears up and the cough dies away.

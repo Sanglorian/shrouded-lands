@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Laughing_Sam"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Dryads"
-  - "Category:Naros"
-  - "Category:The Bitter Coast"
+  - "Dryads"
+  - "Naros"
+  - "The Bitter Coast"
 media: []
 ---
 A rocky peninsula ([01.05](/wiki/01-05/)) juts into the Ocean of Bitter Regrets ([00.06](/wiki/00-06/)). At its very end is a small and twisted willow leaning well over the Ocean. At its base rests a boy with a battered straw hat tugged over his eyes.

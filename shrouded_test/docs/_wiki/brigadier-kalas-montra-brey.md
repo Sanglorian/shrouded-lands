@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Brigadier_Kalas_Montra-brey"
 categories:
   - "Category:Characters"
-  - "Category:Orcs"
-  - "Category:Shuttered and Surrounds"
+  - "Orcs"
+  - "Shuttered and Surrounds"
 media: []
 ---
 ## The Elfcatcher

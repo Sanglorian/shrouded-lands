@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Ogres"
 pageid: 2964
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ogres"
 categories:
-  - "Category:Dwarves"
-  - "Category:Ogres"
-  - "Category:Orcs"
+  - "Dwarves"
+  - "Ogres"
+  - "Orcs"
   - "Category:Peoples"
 media: []
 ---

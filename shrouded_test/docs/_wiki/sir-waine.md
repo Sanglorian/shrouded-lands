@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sir_Waine"
 categories:
   - "Category:Characters"
-  - "Category:Paladins"
-  - "Category:The Duchy of Thring"
+  - "Paladins"
+  - "The Duchy of Thring"
 media: []
 ---
 ### Sir Waine and his squire Tycel

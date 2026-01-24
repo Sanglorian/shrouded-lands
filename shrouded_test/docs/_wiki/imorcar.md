@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Imorcar"
 categories:
   - "Category:Characters"
-  - "Category:Mages"
-  - "Category:Sosaria"
+  - "Mages"
+  - "Sosaria"
 media: []
 ---
 * *Imorcar the Many** is the founder and Eternal King of [Sosaria](/wiki/sosaria/).

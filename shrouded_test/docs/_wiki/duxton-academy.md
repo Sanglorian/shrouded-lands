@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duxton_Academy"
 categories:
   - "Bards"
-  - "Category:Jahur"
+  - "Jahur"
   - "Category:Religious groups"
 media: []
 ---

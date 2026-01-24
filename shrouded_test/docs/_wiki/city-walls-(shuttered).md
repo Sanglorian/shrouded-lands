@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/City_walls_(Shuttered)"
 categories:
   - "Category:Buildings"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Egon_Schiele_019.jpg)The [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) is girded by walls of stone built by the [dwarves](/wiki/dwarves/) in an age past. The walls are made of stone so skillfully fitted that only a dwarf can see the seams between the great blocks without the aid of a hand lens. A lone [Deep Dwarf](/wiki/deep-dwarves/) makes the trek from Titan's Skull ([33.00](/wiki/33-00/)) each year to inspect the walls, and for as long as anyone can remember, none of these visitors have said or done anything after their surveys. Some believe that the inspections are carried out by the same dwarf each year, and because the Deep Dwarves never venture above ground without their heavy blue cloaks and veils, none can say for sure that this is false.

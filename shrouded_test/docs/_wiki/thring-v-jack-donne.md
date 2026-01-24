@@ -5,11 +5,11 @@ pageid: 3528
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Thring_v_Jack_Donne"
 categories:
-  - "Category:Birls"
-  - "Category:Lords Sanguine"
-  - "Category:The Duchy of Thring"
-  - "Category:The Shuttered City"
-  - "Category:Witch Clans"
+  - "Birls"
+  - "Lords Sanguine"
+  - "The Duchy of Thring"
+  - "The Shuttered City"
+  - "Witch Clans"
 media: []
 ---
 This case making its way through [Shuttered](/wiki/shuttered/)’s courts has been brought by a pretender to the throne of the [Duchy of Thring](/wiki/duchy-of-thring/) against [the Collector](/wiki/the-collector/) - given a default name here since his own is famously unknown.

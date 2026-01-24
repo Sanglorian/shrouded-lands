@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_Mountains"
 categories:
   - "Category:Regions"
-  - "Category:The Grey Mountains"
+  - "The Grey Mountains"
 media: []
 ---
 !['High Pass in Misty Mountains', Neral (CC BY 3.0 Unported)](/media/Cirith_forn_en_andrath.jpg)

@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Imperium Undying"
 pageid: 2736
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Imperium_Undying"
 categories:
-  - "Category:Imperium Undying"
-  - "Category:Nations"
+  - "Imperium Undying"
+  - "Nations"
 media: []
 ---
 The **Imperium Undying** or **Empire Undying** is in the [Undying Lands](/wiki/undying-lands/) or [Sunset Lands](/wiki/sunset-lands/). It is to the west of the Shrouded Lands, across the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/).

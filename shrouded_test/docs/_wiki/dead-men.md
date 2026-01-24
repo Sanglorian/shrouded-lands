@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Category:Maladies"
   - "Organisationss"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Egon_Schiele_081.jpg)The Dead Men are people suffering from the [Courting Death](/wiki/courting-death/) who are sent on covert missions (often suicide missions) by the [Temple Indivisible](/wiki/temple-indivisible/). (See [Courting Death](/wiki/courting-death/) for more details).

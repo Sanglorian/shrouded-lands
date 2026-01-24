@@ -5,7 +5,7 @@ pageid: 4168
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Adherion"
 categories:
-  - "Category:Nations"
+  - "Nations"
 media: []
 ---
 Little is known of **Adherion, **except that

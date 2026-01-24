@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wyvern_of_the_Waste"
 categories:
   - "Creatures"
-  - "Category:Dragons"
-  - "Category:The Burning Lands"
+  - "Dragons"
+  - "The Burning Lands"
 media: []
 ---
 ## Wyvern of the Waste

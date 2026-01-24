@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wargs"
 categories:
   - "Creatures"
-  - "Category:The Grey Mountains"
+  - "The Grey Mountains"
   - "Category:Wolves"
 media: []
 ---

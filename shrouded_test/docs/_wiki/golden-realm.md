@@ -3,13 +3,14 @@ layout: wiki_page
 title: "Golden Realm"
 pageid: 3642
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Golden_Realm"
 categories:
-  - "Category:Golden Realm"
-  - "Category:Nations"
-  - "Category:The King in Splendour"
-  - "Category:The Twelve Nations"
-  - "Category:Unseelie elves"
+  - "Golden Realm"
+  - "Nations"
+  - "The King in Splendour"
+  - "The Twelve Nations"
+  - "Unseelie elves"
 media: []
 ---
 The people of the Golden Realm, as do many in the south, have dark skin. It is one of the [Twelve Nations](/wiki/twelve-nations/).

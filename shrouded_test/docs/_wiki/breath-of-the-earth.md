@@ -5,7 +5,7 @@ pageid: 2864
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Breath_of_the_Earth
 categories:
-- Category:Phenomena
+- Phenomena
 media: []
 is_redirect: true
 redirect_to: '12.28'

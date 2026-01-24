@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Hinterlands of Blind Midshotgatepool"
 pageid: 2866
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Hinterlands_of_Blind_Midshotgatepool"
 categories:
-  - "Category:Blind Midshotgatepool"
-  - "Category:Hinterlands of Blind Midshotgatepool"
+  - "Blind Midshotgatepool"
+  - "Hinterlands of Blind Midshotgatepool"
   - "Category:Regions"
 media: []
 ---

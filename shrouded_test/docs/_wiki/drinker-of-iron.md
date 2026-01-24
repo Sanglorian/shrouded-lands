@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drinker_of_Iron"
 categories:
   - "Category:Deities"
-  - "Category:Dwarves"
+  - "Dwarves"
 media: []
 ---
 * The namesake of the [Drinker's Stein](/wiki/drinker's-stein/).

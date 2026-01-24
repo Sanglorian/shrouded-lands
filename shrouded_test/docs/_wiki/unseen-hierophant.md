@@ -8,10 +8,10 @@ categories:
   - "Alberon"
   - "Assassins"
   - "Category:Characters"
-  - "Category:Priests"
-  - "Category:Temple Invisible"
-  - "Category:The King in Splendour"
-  - "Category:The Shuttered City"
+  - "Priests"
+  - "Temple Invisible"
+  - "The King in Splendour"
+  - "The Shuttered City"
 media: []
 ---
 :See also [Hierophant](/wiki/hierophant/)

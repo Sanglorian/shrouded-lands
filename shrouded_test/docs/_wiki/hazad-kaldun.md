@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hazad_Kaldun"
 categories:
   - "Category:Characters"
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Smiths"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 ## The Workshop of Hazad Kaldun

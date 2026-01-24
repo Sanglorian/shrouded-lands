@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Mud_dragons"
 categories:
   - "Category:Animals"
   - "Creatures"
-  - "Category:Dragons"
-  - "Category:Lizardmen"
+  - "Dragons"
+  - "Lizardmen"
   - "Category:Reptiles"
 media: []
 ---

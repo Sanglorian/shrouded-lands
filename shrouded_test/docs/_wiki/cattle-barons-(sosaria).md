@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Cattle_barons_(Sosaria)"
 categories:
   - "Organisationss"
   - "Professions"
-  - "Category:Sosaria"
+  - "Sosaria"
 media: []
 ---
 There are two major factions among [Sosaria](/wiki/sosaria/)'s cattle barons - the [Blood and Soil faction](/wiki/blood-and-soil-faction/) led by [Cessine](/wiki/cessine/) the Fair and the [White Hope](/wiki/white-hope/) faction by [Horvath Pignose](/wiki/horvath-pignose/), a wayward scion of Newhill's clan ([17.07](/wiki/17-07/)). Cessine's Blood and Soil faction ruthlessly favors local ranchers, while Horvath's White Sun faction wants to open the Trunk to foreign livestock, especially the [Night Cattle](/wiki/night-cattle/) (see the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)). Horvath asserts that his jerky makers can transform Night Cattle precious meat into a convenient and delicious holy sacrament that all faiths can appreciate. A covert war boils between the two factions. Butchers and plague doctors are wielded as assassins, demagogues and agitators. Human bones are turning up in the refuse piles. [Imorcar](/wiki/imorcar/) the Many's sycophants are sitting out the conflict for now, but someone may convince them to lend their spells to one side or the other.

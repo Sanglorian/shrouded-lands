@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Maddlows"
 pageid: 3242
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Maddlows"
 categories:
   - "Category:Families"
-  - "Category:The Barrier Range"
-  - "Category:Witch Clans"
+  - "The Barrier Range"
+  - "Witch Clans"
 media: []
 ---
 The Maddlows lived in The Ruins of Maddlow Castle ([23.19](/wiki/23-19/))

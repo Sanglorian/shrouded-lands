@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alvise_Ettienne_(nephew)"
 categories:
   - "Category:Characters"
-  - "Category:Ettiennes"
-  - "Category:The Freeholds"
-  - "Category:The Shuttered City"
+  - "Ettiennes"
+  - "The Freeholds"
+  - "The Shuttered City"
 media: []
 ---
 The nephew of [Alvise Ettienne](/wiki/alvise-ettienne-(uncle)/), the original of the [Ettiennes](/wiki/ettiennes/). Alvise is involved in the [silk wars](/wiki/silk-wars/).

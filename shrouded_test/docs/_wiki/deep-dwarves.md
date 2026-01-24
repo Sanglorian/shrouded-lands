@@ -5,9 +5,9 @@ pageid: 3125
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Deep_dwarves"
 categories:
-  - "Category:Dwarves"
+  - "Dwarves"
   - "Category:Peoples"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 Connects to: [29.14.13](/wiki/29-14/), [33.00](/wiki/33-00/), [31.27](/wiki/31-27/), [32.32](/wiki/32-32/), [41.24](/wiki/41-24/) and the City of Shuttered Windows.

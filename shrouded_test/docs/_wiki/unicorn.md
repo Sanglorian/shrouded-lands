@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Unicorn"
 categories:
   - "Category:Characters"
   - "Creatures"
-  - "Category:Elves"
+  - "Elves"
   - "Category:Equines"
 media: []
 ---

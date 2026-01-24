@@ -8,8 +8,8 @@ categories:
   - "Category:Buildings"
   - "Category:Giants"
   - "Category:Lost civilisations"
-  - "Category:The Shuttered City"
-  - "Category:Undercity"
+  - "The Shuttered City"
+  - "Undercity"
 media: []
 ---
 ![](/media/Shutt-old.jpg)Connects to: [22.00](/wiki/22-00/).

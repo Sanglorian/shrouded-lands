@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Strigoi"
 categories:
   - "Category:Peoples"
-  - "Category:The Grey Mountains"
+  - "The Grey Mountains"
 media: []
 ---
 The strigoi are a pale-skinned people who ride giant owls through the Grey Mountains. Thy are both respected and feared by the villagers, and wage war with the nordanbjorn ([14.00](/wiki/14-00/))—a conflict that allegedly has continued for centuries, but which has escalated recently.

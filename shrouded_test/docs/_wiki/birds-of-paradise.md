@@ -5,10 +5,10 @@ pageid: 2758
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Birds_of_paradise"
 categories:
-  - "Category:Asrigh"
+  - "Asrigh"
   - "Birds"
   - "Creatures"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
 media: []
 ---
 ![Richard Bowdler Sharpe](/media/Astrapia_nigra_by_Bowdler_Sharpe.jpg)Creatures of extraordinary beauty known as [birds of paradise](/wiki/birds-of-paradise/) flit through this stretch of jungle canopy in [50.11](/wiki/50-11/). Their plumage can be so bright and elaborate that it puts royal clothiers to shame. During mating season, birdwatchers can view their mating rituals from [the World's Edge](/wiki/the-world's-edge-and-beyond/). The rituals are sophisticated, and sometimes compared to Shuttered's [Shadow Ballet](/wiki/shadow-ballet/) and the [Two-Faced Dancers](/wiki/two-faced-dancers/) of Jahur in terms of artistry.

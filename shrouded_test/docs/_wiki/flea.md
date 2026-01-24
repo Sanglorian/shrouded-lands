@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Flea"
 categories:
   - "Category:Characters"
-  - "Category:Koldran"
-  - "Category:The Freeholds"
+  - "Koldran"
+  - "The Freeholds"
 media: []
 ---
 ## Flea of the Daggerfeet

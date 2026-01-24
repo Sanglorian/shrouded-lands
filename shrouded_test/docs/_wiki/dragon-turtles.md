@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dragon_turtles"
 categories:
   - "Creatures"
-  - "Category:Dragons"
+  - "Dragons"
   - "Category:Reptiles"
   - "Category:Turtles"
 media: []

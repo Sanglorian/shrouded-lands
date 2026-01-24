@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Devils
 categories:
 - Creatures
-- Category:Fiends
+- Fiends
 media: []
 is_redirect: true
 redirect_to: Fiends

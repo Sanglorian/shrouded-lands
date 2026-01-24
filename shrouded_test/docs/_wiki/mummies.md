@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Mummies"
 categories:
   - "Creatures"
   - "Category:Customs"
-  - "Category:Severard"
-  - "Category:The Westmarches"
+  - "Severard"
+  - "The Westmarches"
   - "Undead"
 media: []
 ---

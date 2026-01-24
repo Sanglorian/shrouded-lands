@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Half-orcs"
 pageid: 2765
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Half-orcs"
 categories:
-  - "Category:Half-orcs"
-  - "Category:Orcs"
+  - "Half-orcs"
+  - "Orcs"
   - "Category:Peoples"
 media: []
 ---

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pacharia"
 categories:
   - "Category:Deities"
-  - "Category:The Pacharia"
-  - "Category:Witches"
+  - "The Pacharia"
+  - "Witches"
 media: []
 ---
 Worship of the Pacharia is the old religion of Thring. 

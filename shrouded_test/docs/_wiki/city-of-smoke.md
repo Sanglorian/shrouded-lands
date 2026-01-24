@@ -3,12 +3,13 @@ layout: wiki_page
 title: "City of Smoke"
 pageid: 3000
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/City_of_Smoke"
 categories:
   - "Category:Cities"
-  - "Category:City of Smoke"
-  - "Category:Gnolls"
-  - "Category:The Burning Lands"
+  - "City of Smoke"
+  - "Gnolls"
+  - "The Burning Lands"
 media: []
 ---
 ## The City of Smoke

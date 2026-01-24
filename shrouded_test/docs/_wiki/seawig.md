@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Seawig"
 categories:
   - "Category:Daztur"
   - "Plants"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 The traditional duties of a wife in the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) are onerous indeed. Among these is the requirement to memorize the taboos set forth by the [Matriarch](/wiki/matriarch/) and ensure that their households are in compliance with them. The larger a household a woman maintains the more difficult this becomes, which is perhaps part of the reason why the [Doge](/wiki/blind-doge/) has two wives.

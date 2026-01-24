@@ -5,10 +5,10 @@ pageid: 3341
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wormroot"
 categories:
-  - "Category:Dragons"
+  - "Dragons"
   - "Plants"
-  - "Category:The Freeholds"
-  - "Category:The Grey Mountains"
+  - "The Freeholds"
+  - "The Grey Mountains"
 media: []
 ---
 Wormroot warms the blood.

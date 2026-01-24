@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chant_of_Morning"
 categories:
   - "Category:Songs"
-  - "Category:Stannevs"
-  - "Category:The King in Splendour"
+  - "Stannevs"
+  - "The King in Splendour"
 media: []
 ---
 ![](/media/170703.png)Connects to: [04.08](/wiki/04-08/), [05.12](/wiki/05-12/) and [29.14.19](/wiki/29-14/).

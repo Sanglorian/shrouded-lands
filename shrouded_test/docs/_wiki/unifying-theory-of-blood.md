@@ -5,15 +5,15 @@ pageid: 4113
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Unifying_Theory_of_Blood"
 categories:
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Category:Books"
   - "Category:Inspired by"
-  - "Category:Jahur"
-  - "Category:Lords Sanguine"
+  - "Jahur"
+  - "Lords Sanguine"
   - "Category:Sanglorian"
-  - "Category:Tarrasque"
-  - "Category:Trolls"
-  - "Category:Vampires"
+  - "Tarrasque"
+  - "Trolls"
+  - "Vampires"
 media: []
 ---
 * Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]

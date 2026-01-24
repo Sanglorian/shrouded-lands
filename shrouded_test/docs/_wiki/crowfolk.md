@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Crowfolk"
 pageid: 3200
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Crowfolk"
 categories:
   - "Birds"
   - "Creatures"
-  - "Category:Crowfolk"
+  - "Crowfolk"
   - "Category:Peoples"
 media: []
 ---

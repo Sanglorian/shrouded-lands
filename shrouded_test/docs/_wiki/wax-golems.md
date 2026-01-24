@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wax_golems"
 categories:
   - "Creatures"
-  - "Category:Golems"
+  - "Golems"
 media: []
 ---
 A wax golem that steals a person's memory and identity then takes their place attacked [Viceroy Orhan](/wiki/viceroy-orhan/). The golem is lurking in one of Jahur's abandoned palaces, plotting its next move. Orhan's amnesia will persist until the golem is slain.

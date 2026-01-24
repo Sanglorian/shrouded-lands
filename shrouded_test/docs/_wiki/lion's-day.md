@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lion%27s_Day"
 categories:
   - "Category:Astronomy"
-  - "Category:Phenomena"
-  - "Category:The King in Splendour"
+  - "Phenomena"
+  - "The King in Splendour"
 media: []
 ---
 ![](/media/170701.png)Connects to: [22.00](/wiki/22-00/), [28.04](/wiki/28-04/), [29.14.01](/wiki/29-14/) and the City of Shuttered Windows.

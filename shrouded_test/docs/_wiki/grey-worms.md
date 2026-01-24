@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_worms"
 categories:
   - "Creatures"
-  - "Category:The World's Edge and Beyond"
+  - "The World's Edge and Beyond"
   - "Category:Worms"
 media: []
 ---

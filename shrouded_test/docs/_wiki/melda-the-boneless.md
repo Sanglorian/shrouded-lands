@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Melda_the_Boneless"
 categories:
   - "Category:Characters"
-  - "Category:Jahur"
-  - "Category:Jahuri"
-  - "Category:Sorcerers"
+  - "Jahur"
+  - "Jahuri"
+  - "Sorcerers"
 media: []
 ---
 ## Melda the Boneless

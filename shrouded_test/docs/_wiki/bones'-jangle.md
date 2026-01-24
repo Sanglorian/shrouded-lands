@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bones%27_Jangle"
 categories:
   - "Category:Buildings"
   - "Category:Businesses"
-  - "Category:Sosaria"
+  - "Sosaria"
 media: []
 ---
 ![](/media/481803.png)Sosaria's artisans and entrepreneurs make extensive use of the bones of slaughtered beasts. [Attu Sharku](/wiki/attu-sharku/), proprietor of the Bones' Jangle, purchases entire skeletons and transforms them into musical puppets. The skeletons are rebuilt into whimsical forms and attached to wires that gnome puppeteers move with pedal mechanisms. The lurid shadows cast by the skeletons and the soft jangling of their bones provide a unique ambiance.

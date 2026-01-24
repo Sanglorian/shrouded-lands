@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_Colony"
 categories:
   - "Category:Regions"
-  - "Category:The Lost Colony"
+  - "The Lost Colony"
 media: []
 ---
 ![](/media/Lost_colony.png)

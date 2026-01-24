@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ulthar_the_Loved
 categories:
 - Category:Characters
-- Category:The Duchy of Thring
+- The Duchy of Thring
 media: []
 is_redirect: true
 redirect_to: Ducal family of Thring

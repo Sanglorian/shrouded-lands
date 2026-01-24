@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Mirdenlows"
 pageid: 2694
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Mirdenlows"
 categories:
   - "Category:Families"
-  - "Category:Mirdenlows"
-  - "Category:Witch Clans"
+  - "Mirdenlows"
+  - "Witch Clans"
 media: []
 ---
 ## Last of the Willow People

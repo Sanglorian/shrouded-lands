@@ -3,14 +3,15 @@ layout: wiki_page
 title: "Bears"
 pageid: 4099
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bears"
 categories:
   - "Category:Animals"
-  - "Category:Bears"
+  - "Bears"
   - "Lycanthropes"
-  - "Category:Nordanbjorn"
-  - "Category:The Duchy of Thring"
-  - "Category:The Grey Mountains"
+  - "Nordanbjorn"
+  - "The Duchy of Thring"
+  - "The Grey Mountains"
 media: []
 ---
 ## Types

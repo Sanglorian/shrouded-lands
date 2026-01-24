@@ -5,9 +5,9 @@ pageid: 4121
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Divinio_Ambersmyth"
 categories:
-  - "Category:Band bosses"
+  - "Band bosses"
   - "Category:Characters"
-  - "Category:Shuttered and Surrounds"
+  - "Shuttered and Surrounds"
 media: []
 ---
 ## Divinio Ambersmyth

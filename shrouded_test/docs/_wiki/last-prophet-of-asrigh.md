@@ -5,9 +5,9 @@ pageid: 2211
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Last_Prophet_of_Asrigh"
 categories:
-  - "Category:Asrigh"
+  - "Asrigh"
   - "Category:Characters"
-  - "Category:Priests"
+  - "Priests"
 media: []
 ---
 A revival of the worship of [Asrigh](/wiki/asrigh/) has begun among the farmers of [27.18](/wiki/27-18/), though they call him Saray. Giaccamo, a disgruntled bishop of Alberon, read a forbidden text of Asrigh while in the Sealed Library ([29.14](/wiki/29-14/).50). Shortly after, he received a vision in which Asrigh rose from his prison and brought rain back to the Shrouded Lands ([29.14](/wiki/29-14/).36). He denounced Alberon, faked his death and changed his face. The ex-bishop now calls himself [Thoth](/wiki/thoth/), and he evangelizes to farmers around the [Keening Sea](/wiki/keening-sea/), never staying in one place for more than a night. He works in hope that Asrigh will one day rise and make good on his vision.

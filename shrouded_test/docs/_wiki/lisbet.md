@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Lisbet"
 pageid: 3498
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lisbet"
 categories:
   - "Category:Characters"
-  - "Category:The Freeholds"
-  - "Category:The Kingswood"
+  - "The Freeholds"
+  - "The Kingswood"
 media: []
 ---
 The mockingbird of the Kingswood ([25.07](/wiki/25-07/)) occasionally calls out a sentence relating to Lisbet.

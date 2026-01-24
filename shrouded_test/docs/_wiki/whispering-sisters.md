@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Whispering_Sisters"
 categories:
   - "Category:Deities"
   - "Category:Religious groups"
-  - "Category:She Who Waits"
-  - "Category:The Shuttered City"
+  - "She Who Waits"
+  - "The Shuttered City"
 media: []
 ---
 ![](/media/Klimt_-_Die_feindlichen_Gewalten.jpeg)Connects to: [25.04.01](/wiki/25-04/), [25.15](/wiki/25-15/), [29.01](/wiki/29-01/), [29.14.08](/wiki/29-14/), [29.14.39](/wiki/29-14/), [29.14.40](/wiki/29-14/), [33.00](/wiki/33-00/), [32.22](/wiki/32-22/), [40.06](/wiki/40-06/) and the Lands of the Night Cattle.

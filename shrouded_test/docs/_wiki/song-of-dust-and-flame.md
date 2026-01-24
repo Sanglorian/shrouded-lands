@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Song_of_Dust_and_Flame"
 categories:
   - "Bards"
-  - "Category:Gnolls"
+  - "Gnolls"
   - "Category:Magic"
   - "Category:Music"
-  - "Category:The Burning Lands"
+  - "The Burning Lands"
 media: []
 ---
 The song taught in the Fire Fang - see [32.32](/wiki/32-32/) for more details.

@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Whales"
 pageid: 3600
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Whales"
 categories:
   - "Category:Animals"
   - "Category:The Ocean of Bitter Regrets"
-  - "Category:Whales"
+  - "Whales"
 media: []
 ---
 : **Leviathans** redirects here. For the leviathans of the earth, see [46.09](/wiki/46-09/).

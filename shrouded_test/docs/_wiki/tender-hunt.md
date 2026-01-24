@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tender_Hunt"
 categories:
   - "Category:Customs"
-  - "Category:The Lands of Gore"
+  - "The Lands of Gore"
 media: []
 ---
 ![](/media/Sl_gore2.png)Connects to: [29.07.02](/wiki/29-07/).

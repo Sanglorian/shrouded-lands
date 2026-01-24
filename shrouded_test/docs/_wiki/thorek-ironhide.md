@@ -6,8 +6,8 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Thorek_Ironhide
 categories:
 - Category:Characters
-- Category:Nordanbjorn
-- Category:The Marche of the Winterjarl
+- Nordanbjorn
+- The Marche of the Winterjarl
 media: []
 is_redirect: true
 redirect_to: Marche of the Winterjarl

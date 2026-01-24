@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Queen_Sinister"
 categories:
   - "Category:Characters"
-  - "Category:Elves"
-  - "Category:Unseelie elves"
+  - "Elves"
+  - "Unseelie elves"
 media: []
 ---
 ![](/media/Salomé-_a_tragedy_in_one_act_pg_29.jpg)When the elven court in the [Kingswood](/wiki/kingswood/) split, the exiled renegades (most of the [unseelie elves](/wiki/unseelie-elves/) and some [seelie elves](/wiki/seelie-elves/)) were led away by the Queen Sinister.

@@ -5,8 +5,8 @@ pageid: 3471
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Land_of_Fairy"
 categories:
-  - "Category:Elves"
-  - "Category:Fey"
+  - "Elves"
+  - "Fey"
   - "Planes"
 media: []
 ---

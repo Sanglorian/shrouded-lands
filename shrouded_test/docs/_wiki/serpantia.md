@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Serpantia"
 categories:
   - "Category:Lost civilisations"
-  - "Category:Nations"
-  - "Category:The Keening Sea"
-  - "Category:The World's Edge and Beyond"
+  - "Nations"
+  - "The Keening Sea"
+  - "The World's Edge and Beyond"
 media: []
 ---
 An ancient kingdom which was situated in the lands beyond the [World's Edge](/wiki/world's-edge/). It is referred to by the Wedge-Stone ([47.11](/wiki/47-11/)), which reads:

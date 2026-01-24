@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Undying_Cycles_of_Creation"
 categories:
   - "Category:Deities"
-  - "Category:Imperium Undying"
-  - "Category:Jahur"
-  - "Category:Phenomena"
+  - "Imperium Undying"
+  - "Jahur"
+  - "Phenomena"
 media: []
 ---
 ## The Undying Cycles of Creation

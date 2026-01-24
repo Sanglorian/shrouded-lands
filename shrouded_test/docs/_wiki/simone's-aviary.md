@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Simone%27s_Aviary"
 categories:
   - "Category:Buildings"
   - "Category:Customs"
-  - "Category:The Barrier Range"
-  - "Category:The Moon"
-  - "Category:The Shuttered City"
+  - "The Barrier Range"
+  - "The Moon"
+  - "The Shuttered City"
 media: []
 ---
 ## Simone’s Aviary

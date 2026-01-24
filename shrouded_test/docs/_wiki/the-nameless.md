@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Nameless"
 categories:
   - "Category:Characters"
-  - "Category:Orcs"
+  - "Orcs"
 media: []
 ---
 In the last days before the fall of Hoth Achaar ([26.01](/wiki/26-01/)), there was an orc who had no name, a slave owned by the King of the Mountains ([42.00](/wiki/42-00/)). When the Disciples of [Othonoi](/wiki/othonoi/) brought madness within the fortress walls, the King suspected that orcs were to blame, but could find no proof that would allow him to move against [Ram Roskinder](/wiki/ram-roskinder/) and his zealous followers ([26.01.02](/wiki/26-01/)). Instead, the King would beat and torture his nameless slave, and once even doused her in burning oil. At last, riven by paranoia, he commanded that she should be forced to enter the cave from whence the earth line issued ([26.01.01](/wiki/26-01/)), now known as the [Eye of Gruumsch](/wiki/eye-of-gruumsch/). No other had ever survived going into that place.

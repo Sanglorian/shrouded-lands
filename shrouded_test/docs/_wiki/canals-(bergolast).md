@@ -5,10 +5,10 @@ pageid: 4107
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Canals_(Bergolast)"
 categories:
-  - "Category:Bergolast"
+  - "Bergolast"
   - "Category:Buildings"
-  - "Category:Hyfalls"
-  - "Category:The Burning Lands"
+  - "Hyfalls"
+  - "The Burning Lands"
 media: []
 ---
 ## The Canals of Bergolast

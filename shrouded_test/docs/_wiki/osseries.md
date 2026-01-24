@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Osseries"
 pageid: 2597
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Osseries"
 categories:
   - "Category:Families"
-  - "Category:Osseries"
-  - "Category:Witch Clans"
+  - "Osseries"
+  - "Witch Clans"
 media: []
 ---
 ![An Ossery uses her gift against an ogre.](/media/Fantasy020.jpg)

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hound_of_the_Underworld"
 categories:
   - "Creatures"
   - "Dogs"
-  - "Category:The King in Splendour"
+  - "The King in Splendour"
 media: []
 ---
 According to the [Chant of Morning](/wiki/chant-of-morning/):

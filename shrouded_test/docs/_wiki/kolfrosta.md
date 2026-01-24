@@ -7,8 +7,8 @@ original_url: https://shrouded-lands.fandom.com/wiki/Kolfrosta
 categories:
 - Category:Characters
 - Dead Tiamat
-- Category:Priests
-- Category:Witches
+- Priests
+- Witches
 media: []
 is_redirect: true
 redirect_to: '03.13'

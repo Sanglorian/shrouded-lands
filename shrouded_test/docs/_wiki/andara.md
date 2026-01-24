@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Andara"
 categories:
   - "Category:Lost civilisations"
-  - "Category:Nations"
-  - "Category:The Keening Sea"
+  - "Nations"
+  - "The Keening Sea"
 media: []
 ---
 An ancient kingdom which was situated in the lands now covered by the [Keening Sea](/wiki/keening-sea/). It is referred to by the Wedge-Stone ([47.11](/wiki/47-11/)), which reads:

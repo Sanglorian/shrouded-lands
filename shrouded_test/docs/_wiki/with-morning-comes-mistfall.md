@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/With_Morning_Comes_Mistfall"
 categories:
   - "Category:Books"
-  - "Category:The Shuttered City"
+  - "The Shuttered City"
 media: []
 ---
 H![](/media/Shutt-with.png)ex [29.14.36](/wiki/29-14/)
