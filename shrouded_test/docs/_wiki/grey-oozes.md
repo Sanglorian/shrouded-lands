@@ -5,7 +5,7 @@ pageid: 3071
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_oozes"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Oozes"
   - "Category:The Shuttered City"
   - "Category:Undercity"

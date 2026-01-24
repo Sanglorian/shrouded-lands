@@ -8,7 +8,7 @@ categories:
   - "Category:Alchemists"
   - "Category:Characters"
   - "Category:Jahur"
-  - "Category:Viceroys"
+  - "Viceroys"
 media: []
 ---
 ![Viceroy Orhan, Rene Bull](/media/ReneBull.png)

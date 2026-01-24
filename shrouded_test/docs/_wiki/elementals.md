@@ -5,7 +5,7 @@ pageid: 3560
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elementals"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elementals"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Nobility"
 categories:
   - "Category:Nobles"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 ![](/media/Aubrey_Beardsley_-_Masquerade.jpg)The nobility - an upper class with specific rights and privileges - exists in a well-established form in the Duchy of Gore and the Shuttered City. These regions have hereditary titles and formal rules for acquiring and passing on titles. Duchy nobles are still likely to be identified only as lords and ladies, not barons, counts and so on.

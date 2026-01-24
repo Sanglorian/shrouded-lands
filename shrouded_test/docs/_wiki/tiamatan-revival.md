@@ -5,7 +5,7 @@ pageid: 3050
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tiamatan_Revival"
 categories:
-  - "Category:Dead Tiamat"
+  - "Dead Tiamat"
   - "Category:Religious groups"
 media: []
 ---

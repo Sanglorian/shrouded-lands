@@ -5,8 +5,8 @@ pageid: 2538
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gorean_Greys"
 categories:
-  - "Category:Cats"
-  - "Category:Creatures"
+  - "Cats"
+  - "Creatures"
   - "Category:The Lands of Gore"
 media: []
 ---

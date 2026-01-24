@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dune_Walker"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
-  - "Category:The Singing Wastes"
+  - "Creatures"
+  - "The Singing Wastes"
 media: []
 ---
 Anyone who sleeps in one part of [The Singing Wastes](/wiki/the-singing-wastes/) ([09.29](/wiki/09-29/)) finds their rest interrupted by a tall, lanky figure in a white cloak known as the Dune Walker. The Dune Walker seizes its victims and kisses them forcibly on the mouth. During the kiss, the victim will have a traumatic revelation of how either their most beloved friend or most despised enemy will die. All of its victims visibly age after the kiss.

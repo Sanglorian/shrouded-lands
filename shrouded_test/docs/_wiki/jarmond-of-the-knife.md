@@ -5,7 +5,7 @@ pageid: 3073
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jarmond_of_the_Knife"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Bergolast"
   - "Category:Characters"
   - "Category:The Shuttered City"

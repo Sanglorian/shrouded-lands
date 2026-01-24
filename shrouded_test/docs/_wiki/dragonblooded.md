@@ -5,11 +5,11 @@ pageid: 3118
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dragonblooded"
 categories:
-  - "Category:Creatures"
-  - "Category:Dead Tiamat"
+  - "Creatures"
+  - "Dead Tiamat"
   - "Category:Peoples"
   - "Category:Phenomena"
-  - "Category:Plants"
+  - "Plants"
 media: []
 ---
 When [Tiamat](/wiki/tiamat/) was slain and [Alberon](/wiki/alberon/) scattered her heads ([40.06](/wiki/40-06/)), her blood dripped across the Lands. Sometimes it fell upon groves and valleys, and the animals and plants in these places grew strange and monstrous. Sometimes it fell upon people. These men and women, basted in the blood of a goddess, grew fangs and scales. Their bellies filled with elemental power.

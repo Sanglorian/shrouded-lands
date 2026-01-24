@@ -5,7 +5,7 @@ pageid: 4134
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cyclopes"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Cyclopes"
   - "Category:Shuttered and Surrounds"
 media: []

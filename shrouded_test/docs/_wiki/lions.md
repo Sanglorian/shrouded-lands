@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lions"
 categories:
   - "Category:Animals"
-  - "Category:Cats"
-  - "Category:Creatures"
+  - "Cats"
+  - "Creatures"
   - "Category:Lions"
   - "Category:The King in Splendour"
 media: []

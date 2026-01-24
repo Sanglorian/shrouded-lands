@@ -5,7 +5,7 @@ pageid: 3038
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wererats"
 categories:
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Peoples"
 media: []
 ---

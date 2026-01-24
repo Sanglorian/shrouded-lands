@@ -5,7 +5,7 @@ pageid: 4061
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Butchers"
 categories:
-  - "Category:Professions"
+  - "Professions"
   - "Category:Sosaria"
   - "Category:The Lands of Gore"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rogdag"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Ogres"
   - "Category:Shuttered and Surrounds"
   - "Category:The Keening Sea"

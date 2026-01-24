@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Birds_of_paradise"
 categories:
   - "Category:Asrigh"
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
   - "Category:The World's Edge and Beyond"
 media: []
 ---

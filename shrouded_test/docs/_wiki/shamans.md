@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Shamans"
 categories:
   - "Category:Lizardmen"
   - "Category:Magic"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 Shamans are spiritual leaders of rural and nomadic peoples that are relied on for their knowledge. While [lizardmen](/wiki/lizardman/) shamans in ages past are described as [making pacts](/wiki/pactmaking/), the key responsibilities of a shaman seem to be related to knowledge and decision-making.

@@ -5,11 +5,11 @@ pageid: 3381
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnolls"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Gnolls"
   - "Category:Peoples"
   - "Category:The Burning Lands"
-  - "Category:The Singing Wastes"
+  - "The Singing Wastes"
 media: []
 ---
 Gnoll clans are matriarchal. 

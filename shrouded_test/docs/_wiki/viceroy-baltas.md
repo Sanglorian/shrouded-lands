@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Viceroy_Baltas"
 categories:
   - "Category:Characters"
   - "Category:Jahur"
-  - "Category:Viceroys"
+  - "Viceroys"
 media: []
 ---
 [Isane the Beauty](/wiki/isane-the-beauty/) is his concubine. He overlooks her indiscretions because of her charms.

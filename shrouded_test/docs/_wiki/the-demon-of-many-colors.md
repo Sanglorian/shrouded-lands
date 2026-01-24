@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Demon_of_Many_Colors"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The World's Edge and Beyond"
 media: []
 ---

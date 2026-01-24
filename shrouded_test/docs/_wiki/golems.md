@@ -5,7 +5,7 @@ pageid: 4129
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Golems"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Golems"
 media: []
 ---

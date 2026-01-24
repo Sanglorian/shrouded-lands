@@ -5,7 +5,7 @@ pageid: 3065
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_men%27s_tongues"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:She Who Waits"
   - "Category:The Shuttered City"
   - "Category:Undercity"

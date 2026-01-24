@@ -5,7 +5,7 @@ pageid: 4050
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Imps
 categories:
-- Category:Creatures
+- Creatures
 - Category:Fiends
 media: []
 is_redirect: true

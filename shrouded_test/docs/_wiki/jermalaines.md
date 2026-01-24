@@ -5,7 +5,7 @@ pageid: 2923
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jermalaines"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Peoples"
 media: []
 ---

@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Undead"
 pageid: 3531
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Undead"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Necromancers"
-  - "Category:Undead"
+  - "Undead"
 media: []
 ---
 :See also [Necromancers](/wiki/necromancers/)

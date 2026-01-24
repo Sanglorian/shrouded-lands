@@ -5,7 +5,7 @@ pageid: 3194
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ettiennes"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Families"
   - "Category:Peoples"
   - "Category:The Freeholds"

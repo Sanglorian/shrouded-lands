@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Drow-ghosts"
 categories:
   - "Category:Elves"
   - "Category:Ghosts"
-  - "Category:Undead"
+  - "Undead"
   - "Category:Winds"
 media: []
 ---

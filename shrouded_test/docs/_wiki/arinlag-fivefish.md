@@ -5,7 +5,7 @@ pageid: 2947
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Arinlag_Fivefish"
 categories:
-  - "Category:Bards"
+  - "Bards"
   - "Category:Characters"
   - "Category:Nordanbjorn"
   - "Category:The Kingswood"

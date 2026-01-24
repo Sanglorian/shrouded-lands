@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Taheesha"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Jackalweres"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Sosaria"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Azimyth"
 categories:
   - "Category:Bats"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Giant animals"
   - "Category:Hex"
   - "Category:Region unknown"

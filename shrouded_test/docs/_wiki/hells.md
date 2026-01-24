@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hells"
 categories:
   - "Category:Fiends"
-  - "Category:Planes"
+  - "Planes"
 media: []
 ---
 ![](/media/Demonic.jpg)A [Hell-born spirit](/wiki/hell-born-spirits/) infects the [Mirror Throne](/wiki/mirror-throne/) ([16.16](/wiki/16-16/)); it was summoned when the throne was used as a [sorcerous foci](/wiki/sorcerers/).

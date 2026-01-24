@@ -5,7 +5,7 @@ pageid: 2632
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Octoids"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Jahur"
   - "Category:Octoids"
   - "Category:Peoples"

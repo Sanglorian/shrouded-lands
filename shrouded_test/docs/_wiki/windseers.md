@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Windseers"
 categories:
   - "Category:Magic"
   - "Category:Necromancers"
-  - "Category:Professions"
+  - "Professions"
   - "Category:Winds"
   - "Category:Windseers"
 media: []

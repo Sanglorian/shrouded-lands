@@ -5,7 +5,7 @@ pageid: 3310
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Clay_golems"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Golems"
 media: []
 ---

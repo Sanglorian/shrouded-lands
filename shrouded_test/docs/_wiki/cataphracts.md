@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cataphracts"
 categories:
   - "Category:Golden Realm"
-  - "Category:Professions"
+  - "Professions"
   - "Category:Warriors"
 media: []
 ---

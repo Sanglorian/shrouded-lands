@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alacoda"
 categories:
   - "Category:Elves"
-  - "Category:Green Lady"
+  - "Green Lady"
   - "Category:Nations"
   - "Category:Twelve Nations"
 media: []

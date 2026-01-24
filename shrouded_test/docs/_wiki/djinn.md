@@ -5,7 +5,7 @@ pageid: 4141
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Djinn"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Genies"
   - "Category:Outsiders"
 media: []

@@ -5,7 +5,7 @@ pageid: 3337
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Violet_tea"
 categories:
-  - "Category:Plants"
+  - "Plants"
   - "Category:The Westmarches"
   - "Category:Victuals"
 media: []

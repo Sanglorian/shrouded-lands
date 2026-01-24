@@ -5,9 +5,9 @@ pageid: 3506
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Men"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Maladies"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Shuttered City"
 media: []
 ---

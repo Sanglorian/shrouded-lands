@@ -8,7 +8,7 @@ categories:
   - "Category:Blind Midshotgatepool"
   - "Category:Hinterlands of Blind Midshotgatepool"
   - "Category:Priests"
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Duchy of Thring"
   - "Category:The Pacharia"
   - "Category:Witches"

@@ -5,7 +5,7 @@ pageid: 3231
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Trimueil"
 categories:
-  - "Category:Bards"
+  - "Bards"
   - "Category:Characters"
   - "Category:Poets"
 media: []

@@ -5,7 +5,7 @@ pageid: 3517
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Great_Temple_of_Alberon"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Buildings"
   - "Category:The Shuttered City"
 media: []

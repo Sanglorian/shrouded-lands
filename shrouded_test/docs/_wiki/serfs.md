@@ -5,7 +5,7 @@ pageid: 4060
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Serfs"
 categories:
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Duchy of Thring"
   - "Category:The Lands of Gore"
 media: []

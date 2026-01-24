@@ -5,7 +5,7 @@ pageid: 2533
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Doppelgangers"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The Duchy of Thring"
 media: []
 ---

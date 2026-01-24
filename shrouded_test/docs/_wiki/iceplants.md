@@ -5,7 +5,7 @@ pageid: 2971
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Iceplants
 categories:
-- Category:Plants
+- Plants
 - Category:The Burning Lands
 media: []
 is_redirect: true

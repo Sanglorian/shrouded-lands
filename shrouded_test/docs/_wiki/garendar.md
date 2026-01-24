@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Garendar"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Equines"
 media: []
 ---

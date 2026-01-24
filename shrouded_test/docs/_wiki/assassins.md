@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Assassins"
 pageid: 4069
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Assassins"
 categories:
-  - "Category:Assassins"
-  - "Category:Professions"
+  - "Assassins"
+  - "Professions"
 media: []
 ---
 While the killing of a person is sometimes described as **assassination** regardless of who is doing the killing or the method that they use, the term **assassin** is in common use in the Shrouded Lands to describe a person with a particular skill set and approach to killing.

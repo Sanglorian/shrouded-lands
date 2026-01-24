@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Whirligig_crabs
 categories:
 - Category:Crabs
-- Category:Creatures
+- Creatures
 - Category:The Burning Lands
 - Category:The Keening Sea
 media: []

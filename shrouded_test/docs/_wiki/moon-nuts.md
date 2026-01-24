@@ -5,7 +5,7 @@ pageid: 2610
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Moon_nuts
 categories:
-- Category:Plants
+- Plants
 - Category:The Burning Lands
 - Category:The Moon
 media: []

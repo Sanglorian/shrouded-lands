@@ -5,8 +5,8 @@ pageid: 4157
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Phoenix"
 categories:
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
   - "Category:Elementals"
   - "Category:Olmsteds"
 media: []

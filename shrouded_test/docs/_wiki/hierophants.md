@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hierophants"
 categories:
   - "Category:Disambiguation"
   - "Category:Hierophants"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 The [Hierophant of Ninbolm](/wiki/hierophant-of-ninbolm/) governs [Ninbolm](/wiki/ninbolm/)

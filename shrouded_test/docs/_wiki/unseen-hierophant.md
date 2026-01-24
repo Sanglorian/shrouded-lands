@@ -5,8 +5,8 @@ pageid: 3513
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Unseen_Hierophant"
 categories:
-  - "Category:Alberon"
-  - "Category:Assassins"
+  - "Alberon"
+  - "Assassins"
   - "Category:Characters"
   - "Category:Priests"
   - "Category:Temple Invisible"

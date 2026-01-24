@@ -5,7 +5,7 @@ pageid: 2677
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Saklas"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The King in Splendour"
 media: []
 ---

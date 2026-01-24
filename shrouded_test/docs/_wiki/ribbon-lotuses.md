@@ -5,7 +5,7 @@ pageid: 2944
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ribbon_lotuses
 categories:
-- Category:Plants
+- Plants
 - Category:The Kingswood
 media: []
 is_redirect: true

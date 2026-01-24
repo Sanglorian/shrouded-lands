@@ -5,7 +5,7 @@ pageid: 2833
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wax_golems"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Golems"
 media: []
 ---

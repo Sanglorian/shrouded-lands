@@ -8,7 +8,7 @@ categories:
   - "Category:Baron Autumn"
   - "Category:Magic"
   - "Category:Priests"
-  - "Category:Professions"
+  - "Professions"
   - "Category:Sorcerers"
   - "Category:Spellcasters"
   - "Category:Tieflings"

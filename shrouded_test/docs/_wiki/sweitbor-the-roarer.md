@@ -9,7 +9,7 @@ categories:
   - "Category:Ducal family of Thring"
   - "Category:Dukes of Thring"
   - "Category:Lochgates"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Nobles"
   - "Category:The Duchy of Thring"
 media: []

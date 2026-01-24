@@ -5,8 +5,8 @@ pageid: 2457
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Peacockatrices"
 categories:
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
   - "Category:The Barrier Range"
 media: []
 ---

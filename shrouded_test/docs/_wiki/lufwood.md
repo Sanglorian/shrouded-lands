@@ -5,7 +5,7 @@ pageid: 2554
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lufwood"
 categories:
-  - "Category:Plants"
+  - "Plants"
 media: []
 ---
 ![](/media/Egon_Schiele_034.jpg)The wood for skyships grows in the deep woods beyond the World’s Edge ([48.02](/wiki/48-02/)).

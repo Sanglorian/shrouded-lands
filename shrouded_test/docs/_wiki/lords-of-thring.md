@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Lords of Thring"
 pageid: 2534
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lords_of_Thring"
 categories:
   - "Category:Characters"
   - "Category:Nobles"
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Duchy of Thring"
 media: []
 ---

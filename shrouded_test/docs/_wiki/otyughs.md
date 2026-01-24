@@ -5,7 +5,7 @@ pageid: 2536
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Otyughs"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The Duchy of Thring"
 media: []
 ---

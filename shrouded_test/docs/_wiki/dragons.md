@@ -5,7 +5,7 @@ pageid: 2738
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dragons"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Dragons"
 media: []
 ---

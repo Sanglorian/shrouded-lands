@@ -5,7 +5,7 @@ pageid: 3328
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Reluctant_Temple_of_Alberon"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Religious groups"
   - "Category:The Shuttered City"
 media: []

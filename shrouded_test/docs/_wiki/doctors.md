@@ -5,7 +5,7 @@ pageid: 4063
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Doctors"
 categories:
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Shuttered City"
 media: []
 ---

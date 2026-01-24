@@ -5,7 +5,7 @@ pageid: 3072
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Scroll_of_Seven_Shadows"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Bergolast"
   - "Category:Books"
   - "Category:The King in Splendour"

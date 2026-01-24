@@ -5,8 +5,8 @@ pageid: 2959
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cat_trees"
 categories:
-  - "Category:Cats"
-  - "Category:Plants"
+  - "Cats"
+  - "Plants"
   - "Category:The Kingswood"
 media: []
 ---

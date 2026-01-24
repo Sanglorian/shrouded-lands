@@ -3,12 +3,15 @@ layout: wiki_page
 title: "Plants"
 pageid: 2423
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Plants"
 categories:
-  - "Category:Plants"
+  - "Plants"
 media: []
 ---
 :
+Includes fungi, you pedants.
+
 [Barrier Range berries](/wiki/barrier-range-berries/)
 
 [Cloud Forest plants](/wiki/cloud-forest-plants/)
@@ -54,4 +57,3 @@ Cat Tree ([34.05](/wiki/34-05/))
 [Moldy cacti](/wiki/moldy-cacti/) ([12.28](/wiki/12-28/))
 
 [Sapient pearwood](/wiki/sapient-pearwood/) ([00.03](/wiki/00-03/))
-

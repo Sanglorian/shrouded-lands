@@ -5,7 +5,7 @@ pageid: 4106
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Matriarch"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Characters"
   - "Category:Matriarchs"
   - "Category:Priests"

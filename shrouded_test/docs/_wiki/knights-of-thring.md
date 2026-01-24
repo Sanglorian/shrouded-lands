@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Knights_of_Thring"
 categories:
   - "Category:Knights"
-  - "Category:Professions"
+  - "Professions"
   - "Category:Thring"
 media: []
 ---

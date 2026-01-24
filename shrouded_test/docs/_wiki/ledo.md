@@ -5,7 +5,7 @@ pageid: 3553
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ledo"
 categories:
-  - "Category:Assassins"
+  - "Assassins"
   - "Category:Characters"
   - "Category:Half-elves"
   - "Category:Winds"

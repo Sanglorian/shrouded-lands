@@ -5,7 +5,7 @@ pageid: 2723
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Algrael_the_Gelderer"
 categories:
-  - "Category:Bards"
+  - "Bards"
   - "Category:Characters"
   - "Category:Poets"
 media: []

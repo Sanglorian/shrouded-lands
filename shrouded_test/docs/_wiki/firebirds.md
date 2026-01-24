@@ -5,8 +5,8 @@ pageid: 2517
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Firebirds"
 categories:
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
 media: []
 ---
 ![David Revoy/Blender Foundation (CC BY 3.0)](/media/Creature_ishtar-bird.png)As long as a firebird lives, its feathers give off a warm glow as of a bonfire just past its peak and a single caged bird can easily light an entire feasting hall throughout the night. 

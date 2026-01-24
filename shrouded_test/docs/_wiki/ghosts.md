@@ -5,8 +5,8 @@ pageid: 4145
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ghosts"
 categories:
-  - "Category:Creatures"
-  - "Category:Undead"
+  - "Creatures"
+  - "Undead"
 media: []
 ---
 According to the [White Road](/wiki/white-road/) entry, all ghosts have a mystery associated with them. Undeath is a state brought on by anonymity, and so if every detail was known about a ghost they could be talked back into their grave by anyone who knew it.

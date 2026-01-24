@@ -5,7 +5,7 @@ pageid: 4144
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Efreet"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Genies"
   - "Category:Outsiders"
 media: []

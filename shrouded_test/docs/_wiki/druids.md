@@ -8,7 +8,7 @@ categories:
   - "Category:Druids"
   - "Category:Magic"
   - "Category:Priests"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=3232](/media/JamesMichaelGleeson.jpg)

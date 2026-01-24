@@ -5,7 +5,7 @@ pageid: 3070
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Prison_of_the_Nine"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Buildings"
   - "Category:Deities"
   - "Category:The Shuttered City"

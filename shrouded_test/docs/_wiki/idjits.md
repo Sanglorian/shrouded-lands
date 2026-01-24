@@ -8,8 +8,8 @@ categories:
   - "Category:Alchemists"
   - "Category:Elementalists"
   - "Category:Magic"
-  - "Category:Organisations"
-  - "Category:The Singing Wastes"
+  - "Organisationss"
+  - "The Singing Wastes"
 media: []
 ---
 The [Idjits](/wiki/idjits/), or the Disciples of the Spire, are a group of alchemists and elementalists who take advantage of the lightning produced by the [tempest](/wiki/tempests/) at the top of the Spire of Idjit ([19.30](/wiki/19-30/)) to aid in magical and alchemical research. The Idjits have managed to harness the electricity to create hybrid creatures, including [cloud mantas](/wiki/cloud-mantas/), [shock lizards](/wiki/shock-lizards/) and [birds of paradise](/wiki/birds-of-paradise/) with the ability to steal memories. The Viceroys tolerate these meddling sorcerers because they have managed to weaponize shock lizards, and their navy uses cloud mantas to propel their ships.

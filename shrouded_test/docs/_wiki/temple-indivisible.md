@@ -5,7 +5,7 @@ pageid: 2844
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_Indivisible"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Religious groups"
   - "Category:The Shuttered City"
 media: []

@@ -3,10 +3,11 @@ layout: wiki_page
 title: "Lycanthropes"
 pageid: 2549
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lycanthropes"
 categories:
-  - "Category:Creatures"
-  - "Category:Lycanthropes"
+  - "Creatures"
+  - "Lycanthropes"
 media: []
 ---
 ![Lucas Cranach the Elder](/media/Werwolf.png)Lycanthropes are not unusual.

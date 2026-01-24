@@ -5,11 +5,11 @@ pageid: 4150
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Krakens"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The Bitter Coast"
   - "Category:The Keening Sea"
   - "Category:The Ocean of Bitter Regrets"
-  - "Category:The Singing Wastes"
+  - "The Singing Wastes"
 media: []
 ---
 * The Stylites of the Keening Sea ([30.16](/wiki/30-16/)) are constantly harried by krakens.

@@ -5,7 +5,7 @@ pageid: 4116
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Nuns_of_St._Birgit"
 categories:
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Monks"
   - "Category:Priests"
   - "Category:Religious groups"

@@ -5,8 +5,8 @@ pageid: 2622
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ostriches"
 categories:
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
 media: []
 ---
 They ride black ostriches at Castle Dinivar ([17.11](/wiki/17-11/))

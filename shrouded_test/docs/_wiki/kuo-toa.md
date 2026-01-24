@@ -5,7 +5,7 @@ pageid: 2983
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Kuo-toa"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Kuo-toa"
   - "Category:Peoples"
   - "Category:The Burning Lands"

@@ -5,8 +5,8 @@ pageid: 2700
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Yends"
 categories:
-  - "Category:Creatures"
-  - "Category:The Forest of Abominations"
+  - "Creatures"
+  - "The Forest of Abominations"
 media: []
 ---
 These creatures at first appear to be men, however tall and thin, but closer inspection reveals eyeless faces as smooth and white eggs. What makes the Yends dangerous to cross is that whatever part of a creature their shadow falls on immediately putrefies and takes on the appearance of month-dead flesh.

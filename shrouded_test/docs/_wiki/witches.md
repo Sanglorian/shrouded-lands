@@ -5,7 +5,7 @@ pageid: 3422
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Witches"
 categories:
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Pacharia"
   - "Category:Witches"
 media: []

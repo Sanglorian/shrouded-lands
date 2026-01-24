@@ -5,8 +5,8 @@ pageid: 2574
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ostrlich"
 categories:
-  - "Category:Creatures"
-  - "Category:Undead"
+  - "Creatures"
+  - "Undead"
 media: []
 ---
 Certain records indicate that when the halfling cavalry fought in the Last Skirmish ([17.03](/wiki/17-03/)), they were carrying with them a prisoner - the records are damaged and do not state who the prisoner was. It is known that this prisoner carried with them a powerful spell intended to resurrect them after death. However, in the wild melee that ensued, the prisoner was slain and their spell instead passed to the [ostrich](/wiki/ostriches/) that had been carrying them. Thus did the strange case of the ostrlich come to be.

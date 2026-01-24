@@ -5,7 +5,7 @@ pageid: 3329
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Time_of_Schisms"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Conflicts"
   - "Category:Historical events"
   - "Category:The Shuttered City"

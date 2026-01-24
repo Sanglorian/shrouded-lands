@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Zuc"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
-  - "Category:Lycanthropes"
+  - "Creatures"
+  - "Lycanthropes"
   - "Category:Ogres"
   - "Category:The Bitter Coast"
 media: []

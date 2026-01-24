@@ -5,8 +5,8 @@ pageid: 3411
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ghouls"
 categories:
-  - "Category:Creatures"
-  - "Category:The Singing Wastes"
+  - "Creatures"
+  - "The Singing Wastes"
 media: []
 ---
 ![Arthur Rackham](/media/38_rackham_poe_msfoundinbottle.jpg)Ghouls lurk and howl around the walls of [Zaal](/wiki/zaal/) hoping to eat those who fall asleep approaching the city.

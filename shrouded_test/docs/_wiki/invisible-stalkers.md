@@ -5,12 +5,12 @@ pageid: 4149
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Invisible_stalkers"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elementals"
   - "Category:Jahur"
   - "Category:Outsiders"
   - "Category:The Cornfields"
-  - "Category:Undead"
+  - "Undead"
 media: []
 ---
 Strange invisible assailants with form and substance.

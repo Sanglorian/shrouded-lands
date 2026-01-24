@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simone_the_Fowl"
 categories:
   - "Category:Animals"
-  - "Category:Birds"
+  - "Birds"
   - "Category:Characters"
   - "Category:Chickens"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Doges"
   - "Category:The Shuttered City"
 media: []

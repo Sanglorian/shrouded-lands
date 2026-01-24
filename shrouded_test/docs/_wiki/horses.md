@@ -5,7 +5,7 @@ pageid: 2442
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Horses"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Equines"
 media: []
 ---

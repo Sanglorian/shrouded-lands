@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Shadow_Ballet"
 categories:
   - "Category:Customs"
   - "Category:Philosophies"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 Also known as the **Shadowed Ballet**.

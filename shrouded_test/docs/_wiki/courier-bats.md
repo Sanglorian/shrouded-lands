@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Courier_bats"
 categories:
   - "Category:Animals"
   - "Category:Bats"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The Kingswood"
   - "Category:The World's Edge and Beyond"
 media: []

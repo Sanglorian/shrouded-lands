@@ -5,10 +5,10 @@ pageid: 4065
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Animals"
   - "Category:Cattle"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Sosaria"
   - "Category:The Burning Lands"
   - "Category:The Lands of the Night Cattle"

@@ -5,7 +5,7 @@ pageid: 2757
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Swine-harpies
 categories:
-- Category:Creatures
+- Creatures
 - Category:Harpies
 - Category:The Lands of Gore
 media: []

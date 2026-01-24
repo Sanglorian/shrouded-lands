@@ -5,10 +5,10 @@ pageid: 3045
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Galloons"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Faustys"
   - "Category:Inspired by"
-  - "Category:Planes"
+  - "Planes"
 media: []
 ---
 * *Inspired by: **[http://monstermanualsewnfrompants.blogspot.com.au/2012/05/arborea-wow.html Galloons]

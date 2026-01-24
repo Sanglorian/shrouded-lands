@@ -5,7 +5,7 @@ pageid: 3511
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Keepers_of_the_Sainted_Foot"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Religious groups"
   - "Category:The Freeholds"
 media: []

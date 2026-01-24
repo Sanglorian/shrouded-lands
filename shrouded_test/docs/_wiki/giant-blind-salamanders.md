@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Giant_blind_salamanders"
 categories:
   - "Category:Amphibians"
   - "Category:Broderick's River"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Sunless Sea"
   - "Category:The Westmarches"
 media: []

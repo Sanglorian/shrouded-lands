@@ -5,8 +5,8 @@ pageid: 2960
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Winged_cats"
 categories:
-  - "Category:Cats"
-  - "Category:Creatures"
+  - "Cats"
+  - "Creatures"
   - "Category:The Kingswood"
 media: []
 ---

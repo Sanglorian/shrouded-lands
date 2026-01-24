@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bone_shards"
 categories:
   - "Category:Artifacts"
-  - "Category:Dead Tiamat"
+  - "Dead Tiamat"
   - "Category:Pactmaking"
   - "Category:Ritual currencies"
 media: []

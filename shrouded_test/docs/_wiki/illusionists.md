@@ -8,7 +8,7 @@ categories:
   - "Category:Gnomes"
   - "Category:Illusionists"
   - "Category:Magic"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 The [Indigo Academy](/wiki/indigo-academy/) are illusionists.

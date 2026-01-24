@@ -5,9 +5,9 @@ pageid: 3055
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Smiling_Men"
 categories:
-  - "Category:Assassins"
+  - "Assassins"
   - "Category:Doppelgangers"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Shuttered City"
 media: []
 ---

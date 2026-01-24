@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Priests"
 categories:
   - "Category:Priests"
-  - "Category:Professions"
+  - "Professions"
   - "Category:Religious groups"
 media: []
 ---

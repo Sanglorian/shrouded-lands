@@ -5,8 +5,8 @@ pageid: 2560
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_Invisible"
 categories:
-  - "Category:Alberon"
-  - "Category:Assassins"
+  - "Alberon"
+  - "Assassins"
   - "Category:Religious groups"
   - "Category:Sorcerers"
   - "Category:The King in Splendour"

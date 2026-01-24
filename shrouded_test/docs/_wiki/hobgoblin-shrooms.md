@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblin_shrooms"
 categories:
   - "Category:Fungi"
   - "Category:Hobgoblins"
-  - "Category:Plants"
+  - "Plants"
   - "Category:The Freeholds"
 media: []
 ---

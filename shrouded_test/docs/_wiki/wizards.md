@@ -5,7 +5,7 @@ pageid: 2815
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wizards"
 categories:
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 ![JesicaLR (CC BY-SA 3.0 Unported)](/media/Gandalf.png)

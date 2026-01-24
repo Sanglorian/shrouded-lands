@@ -5,8 +5,8 @@ pageid: 2668
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Harpies"
 categories:
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
 media: []
 ---
 ![https://commons.wikimedia.org/wiki/File:Gamaun.jpg](/media/Gamaun.jpg)

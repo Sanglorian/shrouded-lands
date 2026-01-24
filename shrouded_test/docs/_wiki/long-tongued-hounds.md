@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Long-tongued_hounds"
 categories:
   - "Category:Animals"
-  - "Category:Creatures"
-  - "Category:Dogs"
+  - "Creatures"
+  - "Dogs"
 media: []
 ---
 ![One of the dog breeds: http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I0271.jpg)

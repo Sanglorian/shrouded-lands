@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Centaurs"
 categories:
   - "Category:Centaurs"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Peoples"
 media: []
 ---

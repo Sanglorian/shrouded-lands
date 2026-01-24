@@ -5,10 +5,10 @@ pageid: 3467
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fey"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elves"
   - "Category:Fey"
-  - "Category:Planes"
+  - "Planes"
 media: []
 ---
 * *![](/media/Redon_spirit-forest.jpg)Fey**, **fairies** or **faeries**, dwell in the [Fey-Realm](/wiki/fey-realm/) and have a relationship with the [elves](/wiki/elves/). The [Bound Bargainers](/wiki/bound-bargainers/) ([a faction of the elves](/wiki/factions-elves/)) make gifts to and contracts with the fey; even the [Bloodied King](/wiki/bloodied-king/) has contracts he must keep (including an annual delivery of human babies).

@@ -5,7 +5,7 @@ pageid: 3219
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Metallic_dragons"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Dragons"
   - "Category:The World's Edge and Beyond"
 media: []

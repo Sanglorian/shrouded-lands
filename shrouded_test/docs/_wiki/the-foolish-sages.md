@@ -5,8 +5,8 @@ pageid: 2518
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Foolish_Sages"
 categories:
-  - "Category:Creatures"
-  - "Category:Organisations"
+  - "Creatures"
+  - "Organisationss"
   - "Category:The Duchy of Thring"
 media: []
 ---

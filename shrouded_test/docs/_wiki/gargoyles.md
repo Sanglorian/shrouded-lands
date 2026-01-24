@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gargoyles"
 categories:
   - "Category:Constructs"
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 * The [ivory gargoyles](/wiki/ivory-gargoyles/) of [Sosaria](/wiki/sosaria/) are carved into fanciful shapes and enchanted with a semblance of life. Whenever these ivory carvings see anyone committing any crime (littering for example) they come to life and attack them mercilessly. The gargoyles are small and their limbs are not especially strong but Imorcar the Many placed enchantments on them that protect them from most forms of harm. In addition, their touch draws memories from the minds of those they strike.

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lochgates"
 categories:
   - "Category:Bears"
   - "Category:Families"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:The Duchy of Thring"
 media: []
 ---

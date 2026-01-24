@@ -5,10 +5,10 @@ pageid: 3209
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Howling_College"
 categories:
-  - "Category:Bards"
+  - "Bards"
   - "Category:City of Smoke"
   - "Category:Gnolls"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Burning Lands"
 media: []
 ---

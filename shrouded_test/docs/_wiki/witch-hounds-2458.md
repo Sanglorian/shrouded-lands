@@ -5,7 +5,7 @@ pageid: 2458
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Witch-hounds"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The Barrier Range"
 media: []
 ---

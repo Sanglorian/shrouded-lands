@@ -5,7 +5,7 @@ pageid: 4130
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ankhegs"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Insects"
   - "Category:The Freeholds"
 media: []

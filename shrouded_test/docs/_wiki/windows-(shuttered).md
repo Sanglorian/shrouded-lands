@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Windows_(Shuttered)"
 categories:
   - "Category:Buildings"
-  - "Category:Planes"
+  - "Planes"
   - "Category:The Shuttered City"
   - "Category:Undercity"
 media: []

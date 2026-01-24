@@ -5,7 +5,7 @@ pageid: 2450
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sack_children"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 ![](/media/Egon_Schiele_050.jpg)It is not only [horses](/wiki/horses/) that can be brought back from the dead ([16.16.04](/wiki/16-16/)) by the secretive priests of [Baron Autumn](/wiki/baron-autumn/) (like [The Sorcerer of Tarengael Town](/wiki/the-duchy-of-thring/)). If the stripped bones of a man or woman killed by black magic are placed in a bag of human skin, a child crawls from the bag.

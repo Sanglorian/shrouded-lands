@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seawig"
 categories:
   - "Category:Daztur"
-  - "Category:Plants"
+  - "Plants"
   - "Category:The Shuttered City"
 media: []
 ---

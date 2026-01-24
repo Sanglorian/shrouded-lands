@@ -6,7 +6,7 @@ namespace: 14
 original_url: "https://shrouded-lands.fandom.com/wiki/Category:Religious_groups"
 categories:
   - "Category:Deities"
-  - "Category:Organisations"
+  - "Organisationss"
 media: []
 ---
 

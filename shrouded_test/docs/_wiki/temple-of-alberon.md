@@ -5,8 +5,8 @@ pageid: 3074
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_of_Alberon"
 categories:
-  - "Category:Alberon"
-  - "Category:Creatures"
+  - "Alberon"
+  - "Creatures"
   - "Category:Religious groups"
   - "Category:The Shuttered City"
   - "Category:Undercity"

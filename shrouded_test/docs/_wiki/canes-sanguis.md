@@ -5,7 +5,7 @@ pageid: 3211
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Canes_Sanguis"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Religious groups"
   - "Category:The Shuttered City"
 media: []

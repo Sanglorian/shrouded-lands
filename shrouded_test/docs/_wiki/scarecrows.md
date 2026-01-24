@@ -5,8 +5,8 @@ pageid: 2455
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Scarecrows"
 categories:
-  - "Category:Organisations"
-  - "Category:Professions"
+  - "Organisationss"
+  - "Professions"
   - "Category:Scarecrows"
 media: []
 ---

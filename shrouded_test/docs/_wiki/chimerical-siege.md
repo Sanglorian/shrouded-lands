@@ -5,8 +5,8 @@ pageid: 3302
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chimerical_Siege"
 categories:
-  - "Category:Alberon"
-  - "Category:Chimalia"
+  - "Alberon"
+  - "Chimalia"
   - "Category:Conflicts"
   - "Category:The Shuttered City"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Thieves_guild_(Blind_Midshotgatepool)"
 categories:
   - "Category:Blind Midshotgatepool"
-  - "Category:Organisations"
+  - "Organisationss"
 media: []
 ---
 * *![](/media/SL4.jpg)Region: **[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)

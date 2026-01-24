@@ -6,10 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Paladins"
 categories:
   - "Category:Deities"
-  - "Category:Green Lady"
+  - "Green Lady"
   - "Category:Knights"
   - "Category:Paladins"
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Duchy of Thring"
 media: []
 ---

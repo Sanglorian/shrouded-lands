@@ -5,8 +5,8 @@ pageid: 3583
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Were-Barnabi"
 categories:
-  - "Category:Creatures"
-  - "Category:Lycanthropes"
+  - "Creatures"
+  - "Lycanthropes"
   - "Category:Peoples"
   - "Category:Severard"
   - "Category:The Freeholds"

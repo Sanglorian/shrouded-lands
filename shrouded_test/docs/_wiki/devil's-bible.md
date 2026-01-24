@@ -5,7 +5,7 @@ pageid: 3069
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devil%27s_Bible"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Books"
   - "Category:The Shuttered City"
 media: []

@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grandfather_Cactus"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Ogres"
-  - "Category:Plants"
+  - "Plants"
 media: []
 ---
 ![](/media/Redon_cactus-man.jpg)Known in human tales as the Cactogre, Grandfather Cactus was old even when the rains were banished. When the rains stopped, he was one of the many petitioners to travel into the Kingswood to plead for a return of the rains. The Bloodied King ([29.07](/wiki/29-07/)) was moved by his account of the dying land and he granted reparation. Grandfather Cactus was provided with a nymph to accompany him for the rest of his days. The lovely creature placated him, and he was able to accept the invading desolation.

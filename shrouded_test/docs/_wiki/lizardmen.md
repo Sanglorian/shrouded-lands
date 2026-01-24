@@ -5,7 +5,7 @@ pageid: 2634
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lizardmen"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Lizardmen"
   - "Category:Peoples"
 media: []

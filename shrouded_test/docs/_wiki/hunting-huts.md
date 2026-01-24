@@ -5,7 +5,7 @@ pageid: 2608
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Hunting_huts
 categories:
-- Category:Creatures
+- Creatures
 - Category:The Lands of Gore
 media: []
 is_redirect: true

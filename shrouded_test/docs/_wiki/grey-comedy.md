@@ -5,7 +5,7 @@ pageid: 3115
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_Comedy"
 categories:
-  - "Category:Organisations"
+  - "Organisationss"
 media: []
 ---
 The Grey Comedy is a weird circus troupe that roams the country, picking up freaks and foundlings and performing strange, compelling shows wherever they stop over. It’s said that every lost soul finds the Grey Comedy, but perhaps it is fairer to say that the Comedy finds them.

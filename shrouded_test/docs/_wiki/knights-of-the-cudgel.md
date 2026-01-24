@@ -5,7 +5,7 @@ pageid: 2521
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Knights_of_the_Cudgel"
 categories:
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Duchy of Thring"
 media: []
 ---

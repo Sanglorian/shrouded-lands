@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Thieves"
 categories:
   - "Category:Blind Midshotgatepool"
   - "Category:Jahur"
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Lands of the Night Cattle"
   - "Category:Thieves"
 media: []

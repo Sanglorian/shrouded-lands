@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gibberlings"
 categories:
   - "Category:Bergolast"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Humans"
   - "Category:Peoples"
   - "Category:The Burning Lands"

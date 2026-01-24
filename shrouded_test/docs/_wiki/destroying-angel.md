@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Destroying_Angel
 categories:
 - Category:Characters
-- Category:Creatures
+- Creatures
 - Category:The Westmarches
 media: []
 is_redirect: true

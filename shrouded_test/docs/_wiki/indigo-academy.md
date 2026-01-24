@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Indigo_Academy"
 categories:
   - "Category:Gnomes"
   - "Category:Illusionists"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Lands of Gore"
 media: []
 ---

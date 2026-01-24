@@ -5,7 +5,7 @@ pageid: 3573
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Knights"
 categories:
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 Knights are often described questing, such as through the lands of the Hunting Huts ([10.14](/wiki/10-14/)) or into the mouth of [Celadon](/wiki/celadon/) the Shrewd ([10.12](/wiki/10-12/)).

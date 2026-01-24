@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Waker_worms"
 categories:
   - "Category:Blind Midshotgatepool"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Hinterlands of Blind Midshotgatepool"
   - "Category:Worms"
 media: []

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Blind_dogs"
 categories:
   - "Category:Animals"
-  - "Category:Creatures"
-  - "Category:Dogs"
+  - "Creatures"
+  - "Dogs"
   - "Category:The Freeholds"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 2532
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bugbears"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Goblins"
   - "Category:Peoples"
   - "Category:The Duchy of Thring"

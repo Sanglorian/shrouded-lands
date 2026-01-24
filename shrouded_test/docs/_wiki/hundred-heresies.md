@@ -5,7 +5,7 @@ pageid: 3031
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hundred_Heresies"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Customs"
   - "Category:The Shuttered City"
 media: []

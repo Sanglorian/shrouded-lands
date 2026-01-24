@@ -5,7 +5,7 @@ pageid: 2447
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Stone_giants"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Giants"
 media: []
 ---

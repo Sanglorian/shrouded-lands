@@ -5,7 +5,7 @@ pageid: 3169
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_of_the_Labyrinth"
 categories:
-  - "Category:Chimalia"
+  - "Chimalia"
   - "Category:Gnomes"
   - "Category:Religious groups"
   - "Category:The Shuttered City"

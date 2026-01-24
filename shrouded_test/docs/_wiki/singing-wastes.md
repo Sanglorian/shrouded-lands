@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Singing_Wastes"
 categories:
   - "Category:Regions"
-  - "Category:The Singing Wastes"
+  - "The Singing Wastes"
 media: []
 ---
 ![](/media/Sing1.png)Includes hexes: [08.27](/wiki/08-27/), [09.29](/wiki/09-29/), [11.27](/wiki/11-27/), [11.28](/wiki/11-28/), [11.32](/wiki/11-32/), [12.28](/wiki/12-28/), [12.29](/wiki/12-29/), [13.28](/wiki/13-28/), [13.30](/wiki/13-30/), [14.23](/wiki/14-23/), [14.27](/wiki/14-27/), [15.28](/wiki/15-28/), [17.30](/wiki/17-30/), [18.28](/wiki/18-28/), [19.30](/wiki/19-30/), [19.31](/wiki/19-31/), [20.32](/wiki/20-32/), [21.27](/wiki/21-27/), [21.29](/wiki/21-29/), [23.32](/wiki/23-32/), [25.31](/wiki/25-31/) and [26.33](/wiki/26-33/).

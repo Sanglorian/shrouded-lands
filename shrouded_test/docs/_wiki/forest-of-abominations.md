@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Forest_of_Abominations"
 categories:
   - "Category:Regions"
-  - "Category:The Forest of Abominations"
-  - "Category:The Singing Wastes"
+  - "The Forest of Abominations"
+  - "The Singing Wastes"
 media: []
 ---
 ![](/media/Follower_of_Jheronimus_Bosch_010.jpg)The Breath of the Earth ([12.28](/wiki/12-28/)) is far more than a mile deep and none has ever seen the bottom for no such bottom exists. Instead, those who peer over the edge of this vast sinkhole can see the perambulations of strange stars and the feeble gleams of a thousand dying earths.

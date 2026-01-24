@@ -5,7 +5,7 @@ pageid: 3022
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Skullreach"
 categories:
-  - "Category:Dead Tiamat"
+  - "Dead Tiamat"
   - "Category:Pirate Kings"
   - "Category:The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"

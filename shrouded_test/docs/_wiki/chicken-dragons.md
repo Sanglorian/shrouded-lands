@@ -5,7 +5,7 @@ pageid: 2522
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chicken_dragons"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Dragons"
 media: []
 ---

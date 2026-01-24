@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Zaal"
 categories:
   - "Category:Cities"
   - "Category:Elves"
-  - "Category:The Singing Wastes"
+  - "The Singing Wastes"
 media: []
 ---
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Aarakocra"
 categories:
   - "Category:Aarakocra"
-  - "Category:Birds"
-  - "Category:Creatures"
+  - "Birds"
+  - "Creatures"
   - "Category:Peoples"
 media: []
 ---

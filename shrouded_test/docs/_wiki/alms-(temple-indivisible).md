@@ -5,7 +5,7 @@ pageid: 4164
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alms_(Temple_Indivisible)"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:The Shuttered City"
 media: []
 ---

@@ -8,7 +8,7 @@ categories:
   - "Category:Alchemists"
   - "Category:Jahur"
   - "Category:Magic"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 * *Alchemy** is a craft. While many [wizards](/wiki/wizards/) are **alchemists**, alchemy does not require spellcasting. 

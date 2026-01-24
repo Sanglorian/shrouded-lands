@@ -5,7 +5,7 @@ pageid: 3273
 namespace: 14
 original_url: "https://shrouded-lands.fandom.com/wiki/Category:Animals"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 As you'd expect from a collaboration, ground-up fantasy setting, the Shrouded Lands don't seem to match the flora and fauna of any particular part of the world - and that's for the best, of course. I wouldn't sacrifice the Australasian drop bears and daggerfeet, Africna ostriches and hippos, or American beavers and mocking birds for the illusion of unity.

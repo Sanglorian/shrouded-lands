@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wormroot"
 categories:
   - "Category:Dragons"
-  - "Category:Plants"
+  - "Plants"
   - "Category:The Freeholds"
   - "Category:The Grey Mountains"
 media: []

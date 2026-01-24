@@ -5,7 +5,7 @@ pageid: 3216
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ever-winding_worm"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Spells"
   - "Category:The Shuttered City"
   - "Category:Worms"

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elephants"
 categories:
   - "Category:Animals"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elephants"
 media: []
 ---

@@ -3,9 +3,10 @@ layout: wiki_page
 title: "Creatures"
 pageid: 2415
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Creatures"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 Wiki entries on creatures

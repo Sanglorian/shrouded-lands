@@ -5,7 +5,7 @@ pageid: 2715
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Flowers_of_the_moon"
 categories:
-  - "Category:Plants"
+  - "Plants"
   - "Category:The Grey Mountains"
   - "Category:The Moon"
 media: []

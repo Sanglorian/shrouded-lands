@@ -5,7 +5,7 @@ pageid: 3026
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnome_ghosts"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Dwarves"
   - "Category:Giants"
   - "Category:Gnomes"

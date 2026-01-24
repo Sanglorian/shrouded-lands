@@ -5,9 +5,9 @@ pageid: 3017
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jackalweres"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Jackalweres"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Peoples"
 media: []
 ---

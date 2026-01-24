@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ja_of_the_Red"
 categories:
   - "Category:Characters"
-  - "Category:Chimalia"
+  - "Chimalia"
   - "Category:Minotaurs"
   - "Category:Paladins"
   - "Category:The Freeholds"

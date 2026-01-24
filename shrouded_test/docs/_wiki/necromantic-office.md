@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Necromantic_Office"
 categories:
   - "Category:Mages"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:The Shuttered City"
   - "Category:Wizards"
 media: []

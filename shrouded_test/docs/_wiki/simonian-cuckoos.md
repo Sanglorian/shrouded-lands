@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simonian_Cuckoos"
 categories:
   - "Category:Animals"
-  - "Category:Birds"
+  - "Birds"
   - "Category:Chickens"
   - "Category:The Shuttered City"
 media: []

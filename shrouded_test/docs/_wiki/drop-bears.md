@@ -5,7 +5,7 @@ pageid: 2546
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drop_bears"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:The World's Edge and Beyond"
 media: []
 ---

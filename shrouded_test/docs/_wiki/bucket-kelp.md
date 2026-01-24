@@ -8,7 +8,7 @@ categories:
   - "Category:Drugs"
   - "Category:Jahur"
   - "Category:Octoids"
-  - "Category:Plants"
+  - "Plants"
   - "Category:Sea of Typhoons"
   - "Category:Shuttered"
 media: []

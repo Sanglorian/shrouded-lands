@@ -5,7 +5,7 @@ pageid: 4083
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spies"
 categories:
-  - "Category:Professions"
+  - "Professions"
   - "Category:Spies"
 media: []
 ---

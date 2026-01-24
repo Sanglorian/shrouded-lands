@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bears"
 categories:
   - "Category:Animals"
   - "Category:Bears"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:Nordanbjorn"
   - "Category:The Duchy of Thring"
   - "Category:The Grey Mountains"

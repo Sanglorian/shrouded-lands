@@ -5,7 +5,7 @@ pageid: 2545
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hoarlephants"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elephants"
   - "Category:The World's Edge and Beyond"
 media: []

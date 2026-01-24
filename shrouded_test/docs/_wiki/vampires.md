@@ -5,8 +5,8 @@ pageid: 3135
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Vampires"
 categories:
-  - "Category:Creatures"
-  - "Category:Undead"
+  - "Creatures"
+  - "Undead"
   - "Category:Vampires"
 media: []
 ---

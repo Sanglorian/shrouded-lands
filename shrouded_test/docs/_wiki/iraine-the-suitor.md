@@ -5,7 +5,7 @@ pageid: 3059
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Iraine_the_Suitor"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Buildings"
   - "Category:Characters"
   - "Category:Mages"

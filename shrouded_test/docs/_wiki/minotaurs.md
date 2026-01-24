@@ -5,8 +5,8 @@ pageid: 3157
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Minotaurs"
 categories:
-  - "Category:Chimerics"
-  - "Category:Creatures"
+  - "Chimerics"
+  - "Creatures"
   - "Category:Peoples"
 media: []
 ---

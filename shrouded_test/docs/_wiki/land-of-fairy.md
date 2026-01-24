@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Land_of_Fairy"
 categories:
   - "Category:Elves"
   - "Category:Fey"
-  - "Category:Planes"
+  - "Planes"
 media: []
 ---
 Also known as the **Fey-Realm**.

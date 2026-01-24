@@ -5,7 +5,7 @@ pageid: 2571
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elves"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Elves"
   - "Category:Peoples"
   - "Category:The Kingswood"

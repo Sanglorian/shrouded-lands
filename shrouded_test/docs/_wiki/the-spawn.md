@@ -8,7 +8,7 @@ categories:
   - "Category:Amphibians"
   - "Category:Animals"
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Frogs"
   - "Category:The Kingswood"
   - "Category:The Witchwater"

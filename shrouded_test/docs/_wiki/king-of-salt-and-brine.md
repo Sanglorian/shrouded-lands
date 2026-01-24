@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/King_of_Salt_and_Brine"
 categories:
   - "Category:Characters"
   - "Category:Giants"
-  - "Category:Lycanthropes"
+  - "Lycanthropes"
   - "Category:The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []

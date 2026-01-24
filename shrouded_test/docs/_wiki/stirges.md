@@ -5,7 +5,7 @@ pageid: 3307
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Stirges"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 ![Stirge](/media/Gs89.jpg)

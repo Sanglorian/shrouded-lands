@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Book_of_Not_Being_Boiled_in_Fire"
 categories:
   - "Category:Books"
-  - "Category:Dead Tiamat"
+  - "Dead Tiamat"
   - "Category:The Shuttered City"
 media: []
 ---

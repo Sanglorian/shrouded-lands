@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hawthorn"
 categories:
   - "Category:Elves"
-  - "Category:Green Lady"
-  - "Category:Plants"
+  - "Green Lady"
+  - "Plants"
   - "Category:Scarecrows"
   - "Category:The Kingswood"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Beggars"
 categories:
   - "Category:Bergolast"
-  - "Category:Professions"
+  - "Professions"
   - "Category:The Duchy of Thring"
   - "Category:The Shuttered City"
 media: []

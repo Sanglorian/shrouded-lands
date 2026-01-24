@@ -3,11 +3,12 @@ layout: wiki_page
 title: "Dogs"
 pageid: 3440
 namespace: 0
+category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dogs"
 categories:
   - "Category:Animals"
-  - "Category:Creatures"
-  - "Category:Dogs"
+  - "Creatures"
+  - "Dogs"
 media: []
 ---
 * The [Dogtur](/wiki/dogtur/) tame wild dogs ([04.08](/wiki/04-08/)). They are apparently born of the [ur-dog](/wiki/ur-dog/), a hundred-teated bitch dog.

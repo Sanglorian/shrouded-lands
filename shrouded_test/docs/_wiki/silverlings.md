@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Silverlings"
 categories:
   - "Category:Jahur"
-  - "Category:Organisations"
+  - "Organisationss"
   - "Category:Wizards"
 media: []
 ---

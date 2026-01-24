@@ -5,7 +5,7 @@ pageid: 2741
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Su-giraffes"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Giraffes"
   - "Category:The World's Edge and Beyond"
 media: []

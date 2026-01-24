@@ -6,12 +6,12 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ghoul_in_the_Gilded_Cage"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Ghouls"
   - "Category:Gnolls"
   - "Category:Humans"
   - "Category:Jahur"
-  - "Category:The Singing Wastes"
+  - "The Singing Wastes"
 media: []
 ---
 ## The Ghoul in the Gilded Cage

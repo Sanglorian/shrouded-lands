@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tarrasque"
 categories:
   - "Category:Characters"
-  - "Category:Creatures"
+  - "Creatures"
 media: []
 ---
 !["Arthur and the Questing Beast", HJ Ford](/media/Arthur_and_the_Questing_Beast_(full).jpg)

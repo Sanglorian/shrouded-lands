@@ -5,7 +5,7 @@ pageid: 3165
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bullywugs"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Hinterlands of Blind Midshotgatepool"
   - "Category:Peoples"
 media: []

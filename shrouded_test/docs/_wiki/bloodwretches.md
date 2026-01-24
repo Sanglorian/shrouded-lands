@@ -5,7 +5,7 @@ pageid: 3435
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bloodwretches"
 categories:
-  - "Category:Creatures"
+  - "Creatures"
   - "Category:Inspired by"
   - "Category:Jahur"
   - "Category:Sanglorian"

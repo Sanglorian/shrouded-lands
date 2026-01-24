@@ -5,9 +5,9 @@ pageid: 3512
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Goliards"
 categories:
-  - "Category:Alberon"
+  - "Alberon"
   - "Category:Priests"
-  - "Category:Professions"
+  - "Professions"
 media: []
 ---
 ![](/media/Aubrey_Beardsley_-_Pierrot_4.jpg)When drunk on holy beer, the [Keepers of the Sainted Foot](/wiki/keepers-of-the-sainted-foot/) become **goliards**, or holy jesters.

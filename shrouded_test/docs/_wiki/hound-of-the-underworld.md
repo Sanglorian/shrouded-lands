@@ -5,8 +5,8 @@ pageid: 3443
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hound_of_the_Underworld"
 categories:
-  - "Category:Creatures"
-  - "Category:Dogs"
+  - "Creatures"
+  - "Dogs"
   - "Category:The King in Splendour"
 media: []
 ---
