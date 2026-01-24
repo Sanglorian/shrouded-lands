@@ -1,11 +1,14 @@
 from pathlib import Path
+import csv
 import re
 import math
+from typing import Optional
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexmaps"
+TERRAIN_CSV = ROOT / "terrain.csv"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -72,6 +75,28 @@ def clean_neighbors(fm: dict, title: str):
 
     return cleaned
 
+
+def load_terrain_overrides():
+    if not TERRAIN_CSV.exists():
+        return {}
+    with TERRAIN_CSV.open(newline="", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        overrides = {}
+        for row in reader:
+            terrain = (row.get("terrain") or "").strip()
+            if not terrain:
+                continue
+            overrides[terrain] = {
+                "hex_color": (row.get("hex-color") or "").strip(),
+                "symbol_color": (row.get("symbol-color") or "").strip(),
+                "symbol": (row.get("symbol") or "").strip(),
+            }
+        return overrides
+
+
+def normalize_symbol(symbol: str) -> str:
+    return symbol.replace("\ufe0f", "") + "\ufe0e"
+
 def hex_points(cx, cy, r):
     """
     Flat-top hexagon.
@@ -90,7 +115,13 @@ def hex_points(cx, cy, r):
     ]
     return " ".join(f"{x:.1f},{y:.1f}" for x, y in points)
 
-def make_svg(title: str, neighbor_codes) -> str:
+def make_svg(
+    title: str,
+    neighbor_codes,
+    center_fill: str,
+    symbol: Optional[str],
+    symbol_color: Optional[str],
+) -> str:
     """
     title: the hex code for the current page, e.g. "26.01"
     neighbor_codes: list of hex codes, e.g. ["26.01.01", "24.02", ...]
@@ -152,12 +183,21 @@ def make_svg(title: str, neighbor_codes) -> str:
     cx, cy = positions["C"]
     center_pts = hex_points(cx, cy)
     svg_parts.append(
-        f'<polygon points="{center_pts}" fill="#ffeecc" stroke="#222" stroke-width="2"/>'
+        f'<polygon points="{center_pts}" fill="{center_fill}" stroke="#222" stroke-width="2"/>'
     )
+    if symbol:
+        symbol = normalize_symbol(symbol)
+        svg_parts.append(
+            f'<text x="{cx + hex_w//2}" y="{cy + hex_h//2}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="27" font-family="sans-serif" '
+            f'fill="{symbol_color or "#333333"}">{symbol}</text>'
+        )
+    label_y = cy + hex_h - 10
     svg_parts.append(
-        f'<text x="{cx + hex_w//2}" y="{cy + hex_h//2}" '
-        f'text-anchor="middle" dominant-baseline="middle" '
-        f'font-size="14" font-family="sans-serif">{title}</text>'
+        f'<text x="{cx + hex_w//2}" y="{label_y}" '
+        f'text-anchor="middle" dominant-baseline="alphabetic" '
+        f'font-size="10" font-family="sans-serif">{title}</text>'
     )
 
     # ==========================================================
@@ -185,6 +225,7 @@ def make_svg(title: str, neighbor_codes) -> str:
 
 
 def main():
+    terrain_overrides = load_terrain_overrides()
     for md in WIKI_DIR.glob("*.md"):
         text = md.read_text(encoding="utf-8")
         fm_raw, fm, body = split_front_matter(text)
@@ -199,7 +240,18 @@ def main():
             continue
 
         neighbors = clean_neighbors(fm, title)
-        svg = make_svg(title, neighbors)
+        terrain = fm.get("terrain")
+        override = terrain_overrides.get(terrain)
+
+        center_fill = "#ffeecc"
+        if override and override.get("hex_color"):
+            center_fill = f"#{override['hex_color']}"
+        symbol = override.get("symbol") if override else None
+        symbol_color = (
+            f"#{override['symbol_color']}" if override and override.get("symbol_color") else None
+        )
+
+        svg = make_svg(title, neighbors, center_fill, symbol, symbol_color)
 
         fname = f"hex-{hex_slug_for_filename(title)}.svg"
         out_path = OUT_DIR / fname

@@ -1,6 +1,8 @@
 from pathlib import Path
+import csv
 import math
 import re
+from typing import Optional
 import yaml
 
 # === CONFIG ===
@@ -8,6 +10,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexes"
+TERRAIN_CSV = ROOT / "terrain.csv"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -56,8 +59,31 @@ def collect_hex_metadata():
         meta[code] = {
             "has_page": True,
             "color_hex": color_hex,
+            "terrain": fm.get("terrain"),
         }
     return meta
+
+
+def load_terrain_overrides():
+    if not TERRAIN_CSV.exists():
+        return {}
+    with TERRAIN_CSV.open(newline="", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        overrides = {}
+        for row in reader:
+            terrain = (row.get("terrain") or "").strip()
+            if not terrain:
+                continue
+            overrides[terrain] = {
+                "hex_color": (row.get("hex-color") or "").strip(),
+                "symbol_color": (row.get("symbol-color") or "").strip(),
+                "symbol": (row.get("symbol") or "").strip(),
+            }
+        return overrides
+
+
+def normalize_symbol(symbol: str) -> str:
+    return symbol.replace("\ufe0f", "") + "\ufe0e"
 
 
 # === HEX GEOMETRY ===
@@ -79,7 +105,13 @@ def flat_hex_points(cx, cy, r):
 
 # === SVG CREATION ===
 
-def make_svg(code: str, has_page: bool, fill_color: str) -> str:
+def make_svg(
+    code: str,
+    has_page: bool,
+    fill_color: str,
+    symbol: Optional[str],
+    symbol_color: Optional[str],
+) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
     slug = f"{x_str}-{y_str}"
@@ -106,13 +138,25 @@ def make_svg(code: str, has_page: bool, fill_color: str) -> str:
         link_open = ""
         link_close = ""
 
+    symbol_markup = ""
+    if symbol:
+        symbol = normalize_symbol(symbol)
+        symbol_markup = (
+            f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="24" '
+            f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+            f'{symbol}</text>'
+        )
+
+    label_y = height - 6.0
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
     <polygon points="{points}" fill="{fill_color}" stroke="{stroke}" stroke-width="2"/>
-    <text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" dominant-baseline="middle"
-          font-size="14" font-family="system-ui, sans-serif">{code}</text>
+    {symbol_markup}
+    <text x="{cx:.1f}" y="{label_y:.1f}" text-anchor="middle" dominant-baseline="alphabetic"
+          font-size="9" font-family="system-ui, sans-serif">{code}</text>
   {link_close}
 </svg>
 """
@@ -122,6 +166,7 @@ def make_svg(code: str, has_page: bool, fill_color: str) -> str:
 
 def main():
     hex_meta = collect_hex_metadata()
+    terrain_overrides = load_terrain_overrides()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
     for x in range(45):     # 00–44
@@ -132,11 +177,22 @@ def main():
             if meta:
                 has_page = True
                 fill_color = meta.get("color_hex") or "#ffdca8"
+                terrain = meta.get("terrain")
+                override = terrain_overrides.get(terrain)
             else:
                 has_page = False
                 fill_color = "#eeeeee"
+                override = None
 
-            svg = make_svg(code, has_page, fill_color)
+            if override:
+                fill_color = f"#{override['hex_color']}" if override["hex_color"] else fill_color
+                symbol = override.get("symbol")
+                symbol_color = f"#{override['symbol_color']}" if override["symbol_color"] else None
+            else:
+                symbol = None
+                symbol_color = None
+
+            svg = make_svg(code, has_page, fill_color, symbol, symbol_color)
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
 
