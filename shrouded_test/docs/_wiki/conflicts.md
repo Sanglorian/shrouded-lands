@@ -1,9 +1,10 @@
 ---
 layout: wiki_page
-title: "Category:Conflicts"
+title: "Conflicts"
 pageid: 3330
 namespace: 14
-original_url: "https://shrouded-lands.fandom.com/wiki/Category:Conflicts"
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Conflicts"
 categories:
   - "Category:Historical events"
 media: []

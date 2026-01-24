@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Tiamat"
 categories:
   - "Dead Tiamat"
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 ## History

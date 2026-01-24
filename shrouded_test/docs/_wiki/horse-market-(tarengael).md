@@ -5,7 +5,7 @@ pageid: 4090
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Horse_market_(Tarengael)"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Baron Autumn"
   - "Category:Equines"
   - "Knights"

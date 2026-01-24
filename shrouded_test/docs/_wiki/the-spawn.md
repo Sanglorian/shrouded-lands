@@ -5,8 +5,8 @@ pageid: 3488
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Spawn"
 categories:
-  - "Category:Amphibians"
-  - "Category:Animals"
+  - "Amphibians"
+  - "Animals"
   - "Category:Characters"
   - "Creatures"
   - "Category:Frogs"

@@ -5,7 +5,7 @@ pageid: 3254
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tigers"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Bergolast"
   - "Cats"
   - "Creatures"

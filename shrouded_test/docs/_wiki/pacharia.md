@@ -5,7 +5,7 @@ pageid: 3505
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pacharia"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "The Pacharia"
   - "Witches"
 media: []

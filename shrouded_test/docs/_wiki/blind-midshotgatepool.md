@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Midshotgatepool"
 categories:
   - "Blind Midshotgatepool"
-  - "Category:Cities"
+  - "Cities"
   - "Hinterlands of Blind Midshotgatepool"
   - "River of Crystal Waters"
 media: []

@@ -5,7 +5,7 @@ pageid: 3177
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simonian_Cuckoos"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Birds"
   - "Category:Chickens"
   - "The Shuttered City"

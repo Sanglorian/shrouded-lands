@@ -8,7 +8,7 @@ categories:
 - Goblins
 - The Grey Mountains
 - The Marche of the Winterjarl
-- Category:Tribes
+- Tribes
 media: []
 is_redirect: true
 redirect_to: '11.01'

@@ -5,7 +5,7 @@ pageid: 3438
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pigdogs"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Dogs"
 media: []

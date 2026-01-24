@@ -5,7 +5,7 @@ pageid: 2537
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_First_God"
 categories:
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 Brother Humphries, a priest of The First God who resides among abandoned shrines ([15.16](/wiki/15-16/)), keeps the Shrine of the First God with a collection of broken holy symbols. He is a capable divine caster.

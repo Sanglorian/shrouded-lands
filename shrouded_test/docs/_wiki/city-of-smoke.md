@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/City_of_Smoke"
 categories:
-  - "Category:Cities"
+  - "Cities"
   - "City of Smoke"
   - "Gnolls"
   - "The Burning Lands"

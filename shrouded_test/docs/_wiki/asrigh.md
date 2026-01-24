@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Asrigh"
 categories:
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 The ibis-headed god ([27.18](/wiki/27-18/)) to whom many farmers along the west coast of the Keeing Sea offer tribute is not a new deity. Though they call him [Saray](/wiki/saray/), he is in fact [Asrigh](/wiki/asrigh/) ([49.11](/wiki/49-11/)), the nearly-forgotten wind deity fighting in the Prison of the Nine.

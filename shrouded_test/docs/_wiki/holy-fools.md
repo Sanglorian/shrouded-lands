@@ -8,7 +8,7 @@ categories:
   - "Category:Iano"
   - "Jahur"
   - "Organisationss"
-  - "Category:Religious groups"
+  - "Religious groups"
 media: []
 ---
 A heretical sect of [Iano](/wiki/iano/) that stirs dissent among the lower classes.

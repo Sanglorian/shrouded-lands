@@ -1,9 +1,10 @@
 ---
 layout: wiki_page
-title: "Category:Tribes"
+title: "Tribes"
 pageid: 2592
 namespace: 14
-original_url: "https://shrouded-lands.fandom.com/wiki/Category:Tribes"
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Tribes"
 categories:
   - "Category:Peoples"
 media: []

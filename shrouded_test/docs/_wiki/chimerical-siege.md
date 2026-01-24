@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Chimerical_Siege"
 categories:
   - "Alberon"
   - "Chimalia"
-  - "Category:Conflicts"
+  - "Conflicts"
   - "The Shuttered City"
 media: []
 ---

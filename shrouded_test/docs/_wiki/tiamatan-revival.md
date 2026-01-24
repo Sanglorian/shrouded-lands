@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tiamatan_Revival"
 categories:
   - "Dead Tiamat"
-  - "Category:Religious groups"
+  - "Religious groups"
 media: []
 ---
 ![](/media/Shutt-tia.png)Connects to: [03.13](/wiki/03-13/), [29.14.32](/wiki/29-14/) and [40.20.02](/wiki/40-20/).

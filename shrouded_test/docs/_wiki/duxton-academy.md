@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Duxton_Academy"
 categories:
   - "Bards"
   - "Jahur"
-  - "Category:Religious groups"
+  - "Religious groups"
 media: []
 ---
 ## The Amphibious Warblers of Duxton Academy

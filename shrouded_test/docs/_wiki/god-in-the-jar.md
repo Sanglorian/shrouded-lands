@@ -5,7 +5,7 @@ pageid: 2984
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/God_in_the_Jar
 categories:
-- Category:Deities
+- Deities
 - The Burning Lands
 - The Keening Sea
 media: []

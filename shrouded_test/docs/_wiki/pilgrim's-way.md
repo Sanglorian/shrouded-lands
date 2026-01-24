@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Pilgrim%27s_Way"
 categories:
   - "Category:Customs"
   - "Category:Philosophies"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "Category:Undying Cycle"
 media: []
 ---

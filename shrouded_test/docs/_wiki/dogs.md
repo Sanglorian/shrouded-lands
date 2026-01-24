@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dogs"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Dogs"
 media: []

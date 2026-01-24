@@ -5,7 +5,7 @@ pageid: 2977
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sailbeasts"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Lizardmen"
   - "Category:Reptiles"

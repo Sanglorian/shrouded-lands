@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cats"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Cats"
   - "Creatures"
 media: []

@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Baron_Autumn"
 categories:
   - "Baron Autumn"
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 ![https://commons.wikimedia.org/wiki/File:Madman%27s_Funeral.jpg](/media/Madman's_Funeral.jpg)

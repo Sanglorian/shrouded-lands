@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Skullcrusher_orcs"
 categories:
   - "Half-orcs"
   - "Orcs"
-  - "Category:Tribes"
+  - "Tribes"
 media: []
 ---
 Long ago [The Weeper](/wiki/the-weeper/)'s daughter was part of a raid that wiped out the warriors of an orcish encampment west of the Titan's Skull ([33.00](/wiki/33-00/)). In the battle's aftermath the orcish children remained and she faced down a fanatic who sought to put them to the sword and a cutthroat who sought to sell them to the dwarven mines.

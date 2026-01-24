@@ -5,7 +5,7 @@ pageid: 3441
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Black_dogs"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Dogs"
 media: []

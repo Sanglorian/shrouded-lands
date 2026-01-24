@@ -11,7 +11,7 @@ categories:
   - "Category:Delasars"
   - "Homunculi"
   - "Category:Humans"
-  - "Category:Insects"
+  - "Insects"
   - "The Westmarches"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 3439
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Long-tongued_hounds"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Dogs"
 media: []

@@ -5,7 +5,7 @@ pageid: 2679
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/King_in_Splendor"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "The King in Splendour"
 media: []
 ---

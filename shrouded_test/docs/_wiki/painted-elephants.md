@@ -5,7 +5,7 @@ pageid: 3208
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Painted_elephants"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Elephants"
   - "The Burning Lands"

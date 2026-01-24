@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Prison_of_the_Nine"
 categories:
   - "Alberon"
   - "Category:Buildings"
-  - "Category:Deities"
+  - "Deities"
   - "The Shuttered City"
   - "Undercity"
 media: []

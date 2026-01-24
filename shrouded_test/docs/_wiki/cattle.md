@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle"
 categories:
   - "Alberon"
-  - "Category:Animals"
+  - "Animals"
   - "Cattle"
   - "Creatures"
   - "Sosaria"

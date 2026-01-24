@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Temple_of_the_Labyrinth"
 categories:
   - "Chimalia"
   - "Gnomes"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "The Shuttered City"
 media: []
 ---

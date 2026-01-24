@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Eels"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Eels"
   - "Category:Fish"
   - "The Keening Sea"

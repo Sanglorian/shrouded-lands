@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Alberon"
 categories:
   - "Alberon"
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 Also known as the **Lord of Pain**.

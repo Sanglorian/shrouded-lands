@@ -5,7 +5,7 @@ pageid: 3207
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Moon_elephants"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Elephants"
   - "Sosaria"

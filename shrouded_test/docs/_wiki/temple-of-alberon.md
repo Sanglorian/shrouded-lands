@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Temple_of_Alberon"
 categories:
   - "Alberon"
   - "Creatures"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "The Shuttered City"
   - "Undercity"
 media: []

@@ -9,7 +9,7 @@ categories:
   - "Knights"
   - "Priests"
   - "Professions"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "The Shuttered City"
   - "Category:Warriors"
 media: []

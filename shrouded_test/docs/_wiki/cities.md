@@ -1,9 +1,10 @@
 ---
 layout: wiki_page
-title: "Category:Cities"
+title: "Cities"
 pageid: 3647
 namespace: 14
-original_url: "https://shrouded-lands.fandom.com/wiki/Category:Cities"
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Cities"
 categories:
   - "Category:Settlements"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bergolast"
 categories:
-  - "Category:Cities"
+  - "Cities"
   - "Category:Lost civilisations"
   - "Nations"
   - "The Burning Lands"

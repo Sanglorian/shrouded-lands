@@ -5,7 +5,7 @@ pageid: 3550
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Azru"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "Category:Maladies"
 media: []
 ---

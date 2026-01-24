@@ -5,7 +5,7 @@ pageid: 2832
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/War_of_the_Six-Fingered_Hand"
 categories:
-  - "Category:Conflicts"
+  - "Conflicts"
   - "Dwarves"
   - "Jahur"
 media: []

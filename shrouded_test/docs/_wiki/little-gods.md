@@ -5,7 +5,7 @@ pageid: 3382
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Little_gods"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "The Shuttered City"
 media: []
 ---

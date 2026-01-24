@@ -5,7 +5,7 @@ pageid: 3450
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ur-dog"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Dogs"
 media: []

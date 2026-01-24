@@ -5,7 +5,7 @@ pageid: 3541
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gharsang"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "Orcs"
 media: []
 ---

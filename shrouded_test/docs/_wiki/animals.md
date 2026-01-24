@@ -1,9 +1,10 @@
 ---
 layout: wiki_page
-title: "Category:Animals"
+title: "Animals"
 pageid: 3273
 namespace: 14
-original_url: "https://shrouded-lands.fandom.com/wiki/Category:Animals"
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Animals"
 categories:
   - "Creatures"
 media: []

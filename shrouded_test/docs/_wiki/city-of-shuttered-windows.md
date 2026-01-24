@@ -5,7 +5,7 @@ pageid: 3001
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/City_of_Shuttered_Windows"
 categories:
-  - "Category:Cities"
+  - "Cities"
   - "Shuttered and Surrounds"
   - "The Shuttered City"
 media: []

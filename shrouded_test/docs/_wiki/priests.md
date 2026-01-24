@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Priests"
 categories:
   - "Priests"
   - "Professions"
-  - "Category:Religious groups"
+  - "Religious groups"
 media: []
 ---
 Also described as monks, clerics, cultists, brothers, sisters or nuns.

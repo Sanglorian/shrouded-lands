@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Street_of_Small_Gods"
 categories:
   - "Category:Buildings"
-  - "Category:Deities"
+  - "Deities"
   - "The Shuttered City"
 media: []
 ---

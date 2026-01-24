@@ -5,7 +5,7 @@ pageid: 3131
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Speaker_to_Bronze"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "Dwarves"
 media: []
 ---

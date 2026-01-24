@@ -5,7 +5,7 @@ pageid: 3020
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drinker_of_Iron"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "Dwarves"
 media: []
 ---

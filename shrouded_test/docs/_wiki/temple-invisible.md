@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Temple_Invisible"
 categories:
   - "Alberon"
   - "Assassins"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "Sorcerers"
   - "The King in Splendour"
 media: []

@@ -5,7 +5,7 @@ pageid: 3504
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Eleven_recognised_forms"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "The Shuttered City"
 media: []
 ---

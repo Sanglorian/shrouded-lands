@@ -5,7 +5,7 @@ pageid: 3176
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simone_the_Fowl"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Birds"
   - "Category:Characters"
   - "Category:Chickens"

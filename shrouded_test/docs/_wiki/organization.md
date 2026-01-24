@@ -1,9 +1,10 @@
 ---
 layout: wiki_page
-title: "Category:Organization"
+title: "Organization"
 pageid: 1891
 namespace: 14
-original_url: "https://shrouded-lands.fandom.com/wiki/Category:Organization"
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Organization"
 categories:
   - "Category:Browse"
 media: []

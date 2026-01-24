@@ -5,7 +5,7 @@ pageid: 3402
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Azurnay"
 categories:
-  - "Category:Cities"
+  - "Cities"
   - "Dwarves"
   - "The Burning Lands"
 media: []

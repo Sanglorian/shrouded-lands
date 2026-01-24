@@ -5,8 +5,8 @@ pageid: 3052
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Whispering_Sisters"
 categories:
-  - "Category:Deities"
-  - "Category:Religious groups"
+  - "Deities"
+  - "Religious groups"
   - "She Who Waits"
   - "The Shuttered City"
 media: []

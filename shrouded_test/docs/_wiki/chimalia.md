@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Chimalia"
 categories:
   - "Chimalia"
   - "Chimerics"
-  - "Category:Deities"
+  - "Deities"
 media: []
 ---
 * The Font of Chimalia ([31.19](/wiki/31-19/))

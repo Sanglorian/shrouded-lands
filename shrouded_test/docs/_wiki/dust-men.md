@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dust_Men"
 categories:
   - "Category:Philosophies"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "Category:Undying Cycle"
 media: []
 ---

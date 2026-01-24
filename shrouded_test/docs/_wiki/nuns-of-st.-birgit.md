@@ -8,7 +8,7 @@ categories:
   - "Lycanthropes"
   - "Category:Monks"
   - "Priests"
-  - "Category:Religious groups"
+  - "Religious groups"
   - "The Duchy of Thring"
   - "The Lands of Gore"
   - "Werewolves"

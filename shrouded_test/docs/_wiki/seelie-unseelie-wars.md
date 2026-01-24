@@ -5,7 +5,7 @@ pageid: 3489
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seelie-Unseelie_wars"
 categories:
-  - "Category:Conflicts"
+  - "Conflicts"
   - "Elves"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Battle_of_Blind_Midshotgatepool"
 categories:
   - "Blind Midshotgatepool"
-  - "Category:Conflicts"
+  - "Conflicts"
   - "Category:Historical events"
   - "The Shuttered City"
 media: []

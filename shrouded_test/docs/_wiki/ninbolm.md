@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ninbolm"
 categories:
-  - "Category:Cities"
+  - "Cities"
   - "Gnomes"
   - "The Lands of Gore"
 media: []

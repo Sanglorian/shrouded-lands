@@ -5,7 +5,7 @@ pageid: 2946
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Darknesses"
 categories:
-  - "Category:Deities"
+  - "Deities"
   - "Phenomena"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 3018
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dodos"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Birds"
   - "Creatures"
   - "Sosaria"

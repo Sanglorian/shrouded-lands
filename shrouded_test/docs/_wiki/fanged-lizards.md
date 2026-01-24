@@ -5,7 +5,7 @@ pageid: 2975
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fanged_lizards"
 categories:
-  - "Category:Animals"
+  - "Animals"
   - "Creatures"
   - "Lizardmen"
   - "Category:Reptiles"
