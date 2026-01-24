@@ -18,6 +18,7 @@ Although Arinlag lives alone (except for several [mules](/wiki/mules/)), there a
 They fought for Karsta first with rhymes (Arinlag singing of a single eye that was too tired to look up at the moon) and then with claws and teeth. Foolishly, Arinlag let Kavanjr choose the site of their duel and the older bear chose the middle of a nearby lake. The rangy young bear had difficulty keeping his head above water while the older bard was kept afloat by his great paunch, which let him rain down blows on Arinlag. Following his defeat, which he barely survived, Arinlag Fivefish was exiled from the Marche of the bears and has been biding his time until the day of his return when he will be able take back Karsta Thoreksdottir and the cute cub that he believes to be his. While he waits, Arinlag has been eating well and sports a most impressive gut.
 ### Connects to:
 * The proprietor of the Fat Friar Inn ([17.07](/wiki/17-07/).04) puts cat feathers to good use.
+
 ### Hooks:
 * Why is Arinlag called “Fivefish”?
 * What are the “other ways” that boring travellers are required to amuse Arinlag?

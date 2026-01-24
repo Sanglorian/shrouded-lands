@@ -20,6 +20,7 @@ Are the druids priests or mages, or something else again? It is not clear.
 * Militant druids are aligned with the [Holt of the Bloodied King](/wiki/holt-of-the-bloodied-king/).
 * The Priest of the Lake is a druid who owns a Gorean Grey ([37.01](/wiki/37-01/)). He stalks around a tree holding a bloodied iron in hand. His successor must kill him to take his place.
 * A druid is kept in [Skullreach](/wiki/skullreach/). He is capable of, but refuses to, cast spells. He fell in love with a dryad who gave up her tree to make a didgeridoo. Udenyr plans to use the didgeridoo to summon Old Leviathan. 
+
 ## Powers
 * The Hierophant of Ninbolm long ago merged with the petrified heartwood of the giant tree into which the city of Ninbolm is carved. He knows everything that happens in the city, but can only focus on a few things at a time.
 * Druids in Ninbolm communicate with the Hierophant through giant snail familiars clinging to the heartwood.

@@ -15,6 +15,7 @@ In the [Kingswood](/wiki/kingswood/) there can be found [a tree](/wiki/cat-trees
 In the summer, the catflowers fall to the ground and catfruit slowly grows until young kittens, their wings wet with juice, crawl out mewling in the autumn. Picking a catfruit early is fatal to the growth of the kitten within. Cat feathers can fetch a good price in the Lands of the Night Cattle and beyond, with kittens young enough to train commanding an even higher one. Orcs ([26.01](/wiki/26-01/)), on the other hand, judge boiled catfruit to be a delicacy. If a pillow is stuffed with cat feathers and has the sleep spell cast on it then it will ensure a night of deep, restful and dreamless sleep. Shoving such a pillow violently into someone’s face will trigger the sleep spell.
 ### Connection:
 * [Tristifer Bartley](/wiki/tristifer-bartley/) ([30.03](/wiki/30-03/)) enjoys hunting these cats.
+
 ### Hooks:
 * Why do winged cats emerge out of fruit? Cats are not normally produced in such a fashion.
 * Who is buying winged cat kittens?

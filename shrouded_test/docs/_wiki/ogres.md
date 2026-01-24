@@ -27,6 +27,7 @@ However, now that no dwarves live within Hoth Achaar few ogres are born, althoug
 * Anything else of interest about ogres?
 * What other effects do the energies of the Eye have on the city?
 * If dwarf/orc hybrids can only be conceived near the Eye are other uncommon hybrids possible here as well?
+
 ### Connections:
 * Ogres are a young race, and not a common one, but they can already be found in several places in these lands ([00.02](/wiki/00-02/), [01.07](/wiki/01-07/), [14.02](/wiki/14-02/), [21.15](/wiki/21-15/) and [22.15](/wiki/22-15/)).
 

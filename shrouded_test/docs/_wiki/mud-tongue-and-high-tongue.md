@@ -23,6 +23,7 @@ But the Mud Tongue is not without its own merits. Outside of the City it has ano
 ### Connections:
 * Deep in the Gnomish Quarter ([29.14.14](/wiki/29-14/)) there is an illegal academy where High Tongue verb declensions are spoken of in whispers lest unkind ears hear them.
 * Occasionally the mockingbird ([25.07](/wiki/25-07/)) can be heard calling out spell formulae in the High Tongue.
+
 ### Hooks:
 * What other institutions run Shuttered?
 * What are the Thousand Spells and One?

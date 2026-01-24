@@ -32,6 +32,7 @@ The elder Alvise had already commissioned a crown and plans to proclaim himself 
 ### Connections:
 * The ettins take giant bee mead from the nearby halflings ([11.08](/wiki/11-08/)), often without payment.
 * Alvise Ettienne, the nephew of the Alvise Ettienne who became an ettin, manages the family’s old silk business in the City ([29.14.46](/wiki/29-14/)).
+
 ### Hooks:
 * What “extreme measures” did Dovan Vantisse take?
 * How much power do Irabella and Georj have over the body that they share with Alvise (and various new heads).
@@ -39,6 +40,7 @@ The elder Alvise had already commissioned a crown and plans to proclaim himself 
 * Except for the ettins, who else lives at Ettin Castle? Are any of the family members of the three heads still about?
 * Who did Alvise commission a crown from? That sounds like a hard job.
 * What preparations is Alvise making before he crowns himself king and tries to carve out a kingdom?
+
 ## Members
 * [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
 * [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)

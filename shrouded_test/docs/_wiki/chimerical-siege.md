@@ -22,6 +22,7 @@ The City was changed greatly by the siege and the many curses thrown down by Chi
 Even the [embassies](/wiki/embassies-shuttered/) remain and are staffed, despite the fact that travel to the City in the modern age requires weeks and months rather than hours and days. And the City remains a center of trade, albeit more locally focused.
 ### Connections:
 * During the siege the [gnomes of the City](/wiki/gnome-ghosts/) turned traitor.
+
 ### Hooks:
 * Can the Windows ever be reopened? Is the priesthood trying?
 * Why isn't Chimalia ravaging the orcs for subjugating her minotaurs ([18.02](/wiki/18-02/))? Is she incapable, or is there another reason?

@@ -23,6 +23,7 @@ Now he lives only to share his wrath with all he meets, tearing out the hulls of
 * The grave of the lost wife of the King lies far to the east ([31.07](/wiki/31-07/)) and each year he tries to reach it and each year he fails.
 * The King has acquired a taste for [selkies](/wiki/selkies/) ([01.05](/wiki/01-05/)) and is a great annoyance to nearby pirates ([02.11](/wiki/02-11/)).
 * A were-shark (presumably infected by the King) is now stranded in the Freeholds ([11.05](/wiki/11-05/)).
+
 ### Hooks:
 * Any other interesting victims (either new weresharks or sunken ships) of the King of Salt and Brine?
 * Would killing the King cure his victims of lycanthropy? Is there any way to cure the King himself?

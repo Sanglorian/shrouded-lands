@@ -66,6 +66,7 @@ To this day the spirit in the Mirror Throne uses its position to slowly twist th
 * What are its ultimate plans?
 * What were the dark sorceries that brought it here in the first place?
 * Who ruled from the Mirror Throne before Duke Ulthar?
+
 ## The Doomsday Book
 Hex [16.16.11](/wiki/16-16/)
 

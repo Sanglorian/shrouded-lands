@@ -17,6 +17,7 @@ Though Sosaria was founded many years ago, Imorcar still lives, in a way, becaus
 The great archmage spends his days puttering through the tunnels and chambers beneath the Palace of All Time. He wears cloak to hide his deformities and mutters decrees to a clutch of sycophants who are desperate for power and access to his spell books.
 ### Known sycophants
 * [Taheesha](/wiki/taheesha/)
+
 ### Hooks
 * Is anyone else in the Shrouded Lands a clone?
 * What other spells does Imorcar the Many guard? Does he have any apprentices?

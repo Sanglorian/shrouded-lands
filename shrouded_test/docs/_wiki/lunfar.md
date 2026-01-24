@@ -21,6 +21,7 @@ Many of Lunfar's illegal maps are charts of shipping lanes in the [Sea of Typhoo
 ### Connections:
 * Lunfar has family in Shuttered who help him acquire maps.
 * He is interested in acquiring a map of the Black Ziggurat ([18.26](/wiki/18-26/))
+
 ### Hooks
 * Many maps Lunfar sells are contraband, of course. But what kind of maps do the Jahuri elite want to keep out of public eye?
 * Who else is a Barking Dog? What other titles do the Holy Fools have?

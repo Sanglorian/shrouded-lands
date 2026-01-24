@@ -23,6 +23,7 @@ While most Thunderhead fortresses reside in the mountains ([00.02](/wiki/00-02/)
 * Why don't the other giants like Udenyr?
 * Why can't the Thunderheads travel inland, and why is Skullreach the exception to this rule?
 * Why did Udenyr come to the Freeholds, and why did he leave?
+
 ## The Mage Slaves of Udenyr
 ![](/media/SL_14.png)The Thunderhead of Skullreach is rightly feared along the Bitter Coast. People talk in hushed tones of the powerful mages Udenyr keeps enslaved to his will.
 

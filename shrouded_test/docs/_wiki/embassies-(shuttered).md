@@ -35,6 +35,7 @@ There is one other reason to break into the embassy. Recently in the central dis
 ### Connections:
 * The Seal Library ([29.14](/wiki/29-14/).50) contains the spell book of the Arch-Lich.
 * [Jiffon Soon](/wiki/jiffon-soon/), an exile from Naros who wished to remove from himself an unfortunate curse created the [Geas Eater](/wiki/geas-eater/) ([29.14.16](/wiki/29-14/)).
+
 ### Hooks:
 * What happened to these adventurers who slew Supendar? Are they still around?
 * What became of the people of Naros? Did they simply die, or was their fate more subtle?

@@ -20,6 +20,7 @@ He has pried out the [gems](/wiki/rubies/) of an idol in the Green Ziggurat ([06
 * Giles’ father was probably exiled by hot air balloon ([14.23](/wiki/14-23/)).
 * The rubies of the [Traitors' Pit](/wiki/traitors'-pit/), the Black Ziggurat ([18.26](/wiki/18-26/)) and the Green Ziggurat ([06.10](/wiki/06-10/)) all seem to be identical.
 * Giles has won some agility-boosting [dancer’s bloom](/wiki/dancers-bloom/) ([15.18](/wiki/15-18/)).
+
 ### Hooks:
 * What crime did Giles' father commit?
 * Just what kind of things does Giles do because that's what he thinks is the proper way for a gentleman of Shuttered to act?

@@ -62,11 +62,13 @@ BP: Before present
 
 ## Lost nations
 * **The mountain men of Mt Scorshia become a lost race**
+
 #**The minotaur nation falls: **A couple of generations ago
 #**Naros falls:** Soon after. There are still dryads who lived in Naros.
 
 ## Ninbolm
 * **Hierophant Rule Begins: **Over 20 years ago ([09.24](/wiki/09-24/))
+
 #**The Tree of Nilbog is Turned to Stone by the Bloodied King (rumoured)**
 #**The Tree topples (assumed)**
 #**The Gnomes Found Ninbolm on the Stump: **Happened longer ago than the gnomes can remember
@@ -90,6 +92,7 @@ BP: Before present
 ## The Duchy of Thring and the Hills of Gore
 * **The Sack Man was Benevolent: **A long time ago
 * **The Lords Sanguine Withdraw from Southern Gore: **Over 20 years ago ([09.24](/wiki/09-24/))
+
 #**Ancient Pact between the High Kings and the Pirate Kings: **To spare Castle Ravenscraig from destruction.
 #**The Fall of the [High King of Gore](/wiki/royal-family-of-gore/):** This happened at least two generations ago, as it says that Turien and his son and grandson served at Castle Tarengael. Does this mean that the [Jester Prince](/wiki/jester-prince/) is Turien's grandson, or are we meant to assume that great-grandsons and so on served as well? Occurred before the founding of the Duchy of Thring.
 #**The Sack of Castle Ravenscraig: **Soon after the fall of the High King.
@@ -98,6 +101,7 @@ BP: Before present
 #**Penderghasts Cooperate with the Duchy of Thring:** Filling a power vacuum left by the end of Maddlwow rule.
 #**Penderghast Land is Annexed by the Duchy of Thring: **Nearly a century ago.
 * **The Founding of the Duchy: **By Ulthar the Loved. Occurred well over a hundred years ago, because the Penderghast land was 'finally' annexed by the Duchy almost a hundred years ago.
+
 #**Yaegha Marries The Collector**
 #**Yaegha Six-Kidneys Rampages through Gore:** The damage has only just begun to heal
 #**Lady Natala Becomes Ruler of Maratan: **So she was presumably not one of the original Lords Sanguine
@@ -115,6 +119,7 @@ BP: Before present
 * **The Wrannows are Wiped Out**
 * **The Birls are Wiped Out: **By the first [Spellknight](/wiki/spellknight/)
 * **Most of the Penderghasts are Wiped Out: **Honorious Penderghast at least, and perhaps also his son, were alive during this event (and are still alive today).
+
 #**Ban the Clever Co-Founds Blind Midshotgatepool:** May pre-date his ending Maddlow rule.
 #**Loguiso's Wall is Built:** And maintained by "doge after doge"
 #**War between the August City and the Shuttered City**

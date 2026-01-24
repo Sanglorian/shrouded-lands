@@ -18,6 +18,7 @@ Before the band of landless knights that would become the Cudgels seized this fo
 Sir Codwise has bred the [chicken dragons](/wiki/chicken-dragons/).
 #### Connection:
 * The Spellknight has been polymorphing chickens into dragons in an attempt to harvest dragon blood, at least one of these chicken dragons has escaped ([19.15](/wiki/19-15/)).
+
 #### Hooks:
 * Who are some prominent Knights of the Cudgel? What are their deeds?
 * What properties do their enchanted cudgels hold?

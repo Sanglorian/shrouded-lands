@@ -24,6 +24,7 @@ Being mostly a trade depot, there is little industry in Hyfalls except for minin
 ### Subhexes:
 * [40.20.01](/wiki/40-20/) (The Dust Men): a mystical brotherhood or just colorful thieves?
 * [40.20.02](/wiki/40-20/) (The Two Alders): up for a friendly game of pot of death?
+
 ### Connections:
 * The caravans that come here from out of the Burning Lands are generally lead by a gnollish bard who knows the Song of Dust and Flame ([32.32](/wiki/32-32/)).
 * A band of jackalweres lurks in the ruins beneath Hyfalls. Their diet of hobgoblin flesh mutates them in unusual ways ([51.17](/wiki/51-17/)).

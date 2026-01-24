@@ -26,6 +26,7 @@ But their love could not last, for the Duke could not abandon his wife and Duked
 ![Lady Natala confronts the Tarrasque.](/media/Fantasy033.jpg)
 ### Connections
 * One of Lady Natala’s agents has captured some [dancer's bloom](/wiki/dancers-bloom/) which is famous for boosting agility ([15.18](/wiki/15-18/)).
+
 ### Hooks
 * How does being mixed with hobgobling shroom wine affect the effects of Tarrasque blood?
 * How did a snake come to bite the old lord of Castle Maratan?

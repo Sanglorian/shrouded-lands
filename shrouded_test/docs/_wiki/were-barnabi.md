@@ -23,6 +23,7 @@ Some way south of the old Verlime citadel ([18.07](/wiki/18-07/)), there is a da
 There is at least one other wereman who does not dwell with his brethren. This is [Zeem Olmsted](/wiki/zeem-olmsted/), head of House Olmsted ([31.04](/wiki/31-04/)), who was bitten several years ago. Of course, the family keeps this infection secret; each month, they tie up Zeem Olmsted before he can transform into Barnabas Olmsted, though his vile imprecations can sometimes be heard echoing over the keep. He desires above all to escape the keep and join his fellows, whom he can sense far away in the swamp. For his part, Zeem regards this infection as a relatively minor inconvenience, and tries to manage the problem while continuing to rule over the Olmsted family just as he always has done.
 ### Connection:
 * If Barnabus Bludenoss were to learn of the current state of Severard of the Seven Circles he’d gather up as many of his were-men as he could to try to destroy him and all of his bees ([13.09](/wiki/13-09/)).
+
 ### Hooks
 * Where is the original Barnabus now?
 * Is there a way to cure Zeem Olmsted? What about the other weremen?

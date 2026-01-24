@@ -23,6 +23,7 @@ While their dark skin, brightly enameled steel and span-high hair are gawked at 
 ### Connections:
 * Elhanen hasn’t been very successful in her efforts but she has managed to get ahold of a few recruits including some gnollish exiles who hate the Great Mother almost as much as she does and some starry-eyed halfling youths from the Bolger Freehold ([11.08](/wiki/11-08/)) who she hopes to train into scouts.
 * Elharen has struck up a friendship with [Josard Talbote](/wiki/josard-talbote/), who passed along to her a surprising amount of information about the gnolls that he gets from his brother’s ([Messeren Talbote](/wiki/messeren-talbote/), see [50.29](/wiki/50-29/)) frustrated and rambling letters home.
+
 ### Hooks:
 * What else can you tell me about the Golden Realm? It is one of the [Twelve Nations](/wiki/twelve-nations/) that lie to the south of the Shrouded Lands and maintains an [embassy at&nbsp;Shuttered](/wiki/embassies-(shuttered)/). Why do their cataphracts have eagle wings? Why is their ruler called the King in Yellow? Why is the giant lion statue important?
 * What are the properties of Last Light? It is really made out of a piece of the sun? Is the King in Yellow trying to get it back?

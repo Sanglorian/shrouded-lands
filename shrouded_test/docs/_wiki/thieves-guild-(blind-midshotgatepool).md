@@ -10,6 +10,7 @@ categories:
 media: []
 ---
 * *![](/media/SL4.jpg)Region: **[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)
+
 ## The Thieves Guild of Blind Midshotgatepool
 Connects to: [15.24](/wiki/15-24/), [16.16](/wiki/16-16/), [19.30](/wiki/19-30/), [26.19](/wiki/26-19/), [26.20.03](/wiki/26-20/),
 [26.20.04](/wiki/26-20/), [26.20.05](/wiki/26-20/), [27.18.01](/wiki/27-18/) and [37.06](/wiki/37-06/).
@@ -125,6 +126,7 @@ rally his guild.
 * Wortimer is quietly supporting a banned wind cult in hopes that it weakens the hold of the state church of the City of Shuttered Windows ([27.18](/wiki/27-18/).01).
 * The thieves of the August City uses memory-stealing [birds of paradise](/wiki/birds-of-paradise/) ([19.30](/wiki/19-30/)) on guild members who know too much but are too important to be killed.
 * Wortimer has offered a reward to anyone who drives the bullywogs out of Yrump Marsh ([26.19](/wiki/26-19/)).
+
 ### Hooks:
 * Who is Mabalaquain's elven parent?
 * Wait, gnomes live between the walls of the homes of giants?

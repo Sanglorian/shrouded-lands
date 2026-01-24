@@ -16,6 +16,7 @@ Baron Autumn is depicted as a grinning figure with pale skin, large black eyes a
 ### Connection:
 * The [priests of Baron Autumn](/wiki/priests-of-baron-autumn/) sometimes create zombie children with the bones and flesh of the people they slay ([sack children](/wiki/sack-children/)).
 * [The Sorcerer of Tarengael Town](/wiki/the-duchy-of-thring/) wears a mask of Baron Autumn.
+
 ### Hooks
 * Is Baron Autumn truly the Green Lady's equal?
 * What's the relationship between Baron Autumn and the elves?

@@ -43,6 +43,7 @@ plotting its next move. Orhan's amnesia will
 persist until the golem is slain.![](/media/Jahur2.jpg)
 ### Connections
 * Orhan was chosen as treasurer because of his skill at alchemy. He was knowledgable of much else besides, for example he grew his own wives in vats ([19.31.05](/wiki/19-31/)). If is only because of one of these wives that he is still alive today.
+
 ### Hooks
 * Who created the wax golem? Was it a rival Viceroy, or a foreign threat?
 * How do you create a wax golem that can steal an identity?
@@ -85,6 +86,7 @@ and beats his fists screaming that he must be let
 out to build her a new body before it is too late.
 ### Connection:
 * The Lady grew similar people in vats ([37.07](/wiki/37-07/)). Maybe that‘s why she kept the gnolls around in her tower...
+
 ### Hooks:
 * What material components are needed to turn lead into gold? Why other alchemy does (did?) Orhan know?
 * How did Orhan build his own palace?

@@ -27,6 +27,7 @@ Human worshippers of the [Green Lady](/wiki/green-lady/) often depict her with a
 * Is there still magic in the hawthorn stump?
 * This says that only hawthorn dryads can chop down their trees, but in [Skullreach](/wiki/skullreach/) there is a dryad who gave up the heart of her sequoia. What gives?
 * Is this a different incident to the exile of the [Queen Sinister](/wiki/queen-sinister/)? Or are these conflicting tales of the same event?
+
 ### Connections
 * [Scarecrow](/wiki/scarecrows/) nests in the [Kingswood](/wiki/kingswood/) each have a single entrance marked with a hawthorn rod. Elves will not pass the rod, though they try to cause strife for those inside in other ways.
 * Giant talking [beavers](/wiki/beavers/) often plant hawthorn, which seems to keep elves at bay ([39.08](/wiki/39-08/).01).

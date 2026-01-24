@@ -23,6 +23,7 @@ Dead Men have been deployed as far afield as the [Kingswood](/wiki/kingswood/), 
 ### Connections:
 * A band of Dead Men who defected during the war with Blindmidshotgatepool are now known as [Death’s Lovelies](/wiki/death’s-lovelies/) and are dangerous bandits indeed ([27.23](/wiki/27-23/)).
 * Lord Alevari came down with the Courting Death some time ago and [his wife](/wiki/lady-alevari/) took some rather drastic measures as a result.
+
 ### Hooks:
 * Are the dreams meaningful or merely psychosomatic?
 * How widespread is this disease? What races aside from humans can catch it?

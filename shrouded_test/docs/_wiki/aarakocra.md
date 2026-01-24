@@ -14,6 +14,7 @@ media: []
 ---
 ## Aarakocra
 * The [Kagu](/wiki/kagu/) are a major, perhaps the only, aarakocra clan.
+
 ## Connections
 * Related to [crowfolk](/wiki/crowfolk/), with whom they share a love of shiny things.
 * The [Doge](/wiki/doge/) himself owns a number of aarakocra slaves that serve as bodyguards, servants and dancers. They can often be seen wheeling above the city‘s spires (or around the [balloons](/wiki/balloons-shuttered/)).

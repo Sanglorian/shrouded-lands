@@ -30,12 +30,14 @@ No one in Winds knows, but Alceron was once a pupil of [Severard](/wiki/severard
 * The [Princess of the Seers](/wiki/princess-of-the-seers/) seeks to awaken the vast undead being that makes up the White Road.
 * [Ledo](/wiki/ledo/) is hunting down all of the heirs of Egil Longspear at the behest of his patient father.
 * [Goat Onna Stick](/wiki/goat-onna-stick/) is the inn of choice for many new arrivals to Winds.
+
 ### Connections
 * The source of the wind is the howling of the countless thousands of dead whose bones have been ground up to pave the [White Road](/wiki/white-road/) ([26.13](/wiki/26-13/)).
 * [Flea](/wiki/flea/), a local bandit leader, has an agent working for him here to tip him off about caravans and vigilantes ([20.10](/wiki/20-10/)).
 * The locals believe that the lost spear known as [Seve Paces](/wiki/seve-paces/) is rightfully theirs ([22.11](/wiki/22-11/)).
 * A small patch of Winds’ territory rightfully belongs to the [Kingswood](/wiki/kingswood/) ([24.11](/wiki/24-11/)).
 * The [Grey Comedy](/wiki/grey-comedy/) is performing in a commons just outside of town ([24.12](/wiki/24-12/)).
+
 ### Hooks
 * Where do the eels come from? Who is the current eelmistress, and who can become one?
 * What is Alceron doing with Ulmo's charcoal? And who knows of his ties to Severard?

@@ -23,6 +23,7 @@ In shame and anger the nine Brothers descended deep below the city and remain th
 The troglodyte Brothers of the Temple of Alberon believe that [Alberon](/wiki/alberon/) has abandoned his City (what else could explain the present condition of his one faithful Temple?) and that desperate means are required to return his attention to Shuttered. In order to do this, they seek to commit the greatest imaginable sacrilege against their own god, seeing it as the only means of focusing is divine and glorious gaze on the corrupt condition of his City.
 ### Connection:
 * The troglodytes do their best to eradicate [grey ooze](/wiki/grey-oozes/) from the [Undercity](/wiki/undercity/).
+
 ### Hooks:
 * What sort of great sacrilege do the Brothers (of the troglodyte sect known as the Temple of Alberon) have in mind?
 * Is there any way to break the troglodyte curse?

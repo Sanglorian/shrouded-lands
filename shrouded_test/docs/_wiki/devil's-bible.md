@@ -21,6 +21,7 @@ The Devil's Bible was found to be beautifully illuminated and possessing of unma
 Unable to destroy the Bible due to its holy words, but unwilling to use such a foully conceived book in any sacrament, the [Matriarch](/wiki/matriarch/) had the tome banished to the Sealed Library, where it remains to this day.
 ### Connections
 * The Devil's Bible shares shelf-space with other strange tomes in the Sealed Library, along with the un-redacted version of the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/) ([29.14.24](/wiki/29-14/)), the [Book of Not Being Boiled By Fire](/wiki/book-of-not-being-boiled-by-fire/) ([29.14.29](/wiki/29-14/)), and other heretical, dangerous, or secret texts and documents.
+
 ### Hooks:
 * Who was the unfortunate acolyte, what were his sins, and where was he buried?
 * Who or what is the Devil, and why did he want his portrait in the Bible?

@@ -21,6 +21,7 @@ The [Great Mother](/wiki/great-mother/) herself has a great ambition to eat an e
 ### Connections:
 * There are other [elephants](/wiki/elephants/)
 * The gnolls believe that the tusks of painted elephants were used to construct [Sosaria](/wiki/sosaria/)'s walls; in fact, [moon elephant](/wiki/moon-elephants/) tusks were used.
+
 ### Hooks:
 * Why does she want to eat the heart of an elephant?
 * Who wants their afterlife ensured? What causes an elephant to bury someone as if they were an elephant?

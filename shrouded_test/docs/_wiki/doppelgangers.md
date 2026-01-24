@@ -12,6 +12,7 @@ media: []
 ---
 ## Other
 * At least one doppelganger has been identified when it passed out in an orcish sweat lodge ([21.02](/wiki/21-02/))
+
 ## Antar
 The Bronze Ass, an ancient inn lying in the center of town ([22.29](/wiki/22-29/)), has a staff of doppelgangers employed by [Viceroy Orhan](/wiki/viceroy-orhan/)
 ## Smiling Men

@@ -18,8 +18,10 @@ media: []
 * *Vassals:** The [Lords of Thring](/wiki/lords-of-thring/)<br />
 * *Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (wife), [Princess Elandra](/wiki/princess-elandra/) (daughter), [Sir Boros](/wiki/sir-boros/) (uncle-in-law), bastard son (with [Lady Natala](/wiki/lady-natala/), disputed)<br />
 * *Agents:** [Chain Gang](/wiki/chain-gang-thring/), [Brothers of the Lion](/wiki/brothers-of-the-lion/)
+
 ### Features
 * The Dukes of Thring have made an ancient compact with the lion prides of the Devil’s Fingers that allows some of the knights of Thring to attempt to win them as mounts ([Brothers of the Lion](/wiki/brothers-of-the-lion/)).
+
 ### Connections
 * May have fathered a child with [Lady Natala](/wiki/lady-natala/) (see [royal family of Gore](/wiki/royal-family-of-gore/)).
 * Wields an [executor blade](/wiki/executor-blades/), a weapon created from metal used in [Jahur](/wiki/jahur/)'s executions.

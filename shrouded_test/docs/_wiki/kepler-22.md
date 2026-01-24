@@ -48,6 +48,7 @@ This is all you need to start contributing - if you’d like more information, o
 * What are some hex-related resources?
 * Can we have multiple entries per hex?
 * What if I want to add detail to the setting in another way?
+
 ### Some images and phrases to put you in the mood (but any style of sci-fi is welcome):
 * Jungle plants
 * People of all the colours of the rainbow
@@ -72,6 +73,7 @@ This is all you need to start contributing - if you’d like more information, o
 * Victoriana
 * Hologram ghosts
 * Crazed AIs
+
 ## The Ship Who Screamed
 Occasional screeches issue at dawn along this chain of glassy cliffs, echoing through the caves and disturbing great flights of flits and bumbles.
 
@@ -86,6 +88,7 @@ The pilot of this ship is an AI driven mad by damage to her circuitry. She is th
 * What are flits and bumbles?
 * What sorts of animals and plants are still alive on the ship’s farm? Do they have the run of the ship?
 * How do glass cliffs form?
+
 ## Flit Mating Storm
 * This builds on the hook 'What are flits and bumbles?'.*
 
@@ -98,6 +101,7 @@ Unfertilised flit eggs are a luxury along the Shallow Sea.
 * What do flits eat and what eats them?
 * What are some of the other effects of flit pollen?
 * What is the Shallow Sea? What there eats flit eggs?
+
 ## The Shore of the Shallow Sea
 * This builds on the hook 'What is the Shallow Sea?'.*
 

@@ -26,6 +26,7 @@ Nobody knows why the Balloon is not returning. However, a few hours after its as
 
 #### Connection:
 * Yilbar constructed a balloon for the fabulously wealthy [Count Seutorian](/wiki/count-seutorian/) ([30.12](/wiki/30-12/)) in the likeness of [Baron Horenghast](/wiki/baron-horenghast/)‘s mother.
+
 #### Hooks:
 * Where did the black gas come from?
 * What happened to Yilbar, and why hasn't the balloon come down?

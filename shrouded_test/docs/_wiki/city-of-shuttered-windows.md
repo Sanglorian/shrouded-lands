@@ -96,6 +96,7 @@ In the City, height is an indicator of social status. The towers and other tall 
 * Who lives in the upper towers?
 * What lands send their traders to the Shuttered City?
 * What are some specific locations within the city?
+
 ## Flying fish
 ![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs127.jpg)When word of the extraordinary flying fish living in the Lake of the Flying Fish ([09.22](/wiki/09-22/)) reached the ears of the nobles of the Shuttered City, an expedition was immediately sent out to capture them. Twelve flying fish were taken from the lake and flown through Thring and across the Keening Sea. Only three of them remained at the end of this journey. It was intended that the flying fish should pull leisure balloons for the nobles ([29.14.02](/wiki/29-14/)), but alas! During their first parade through the city, the fish were driven mad by the claustrophobic closeness of the tower walls. One fish had to be put out of its misery after killing several bystanders, and the remaining two are now stabled in the Gardens of the Sea ([29.15](/wiki/29-15/)). Their owner will pay good money to anyone who can cure the fish of their madness.
 

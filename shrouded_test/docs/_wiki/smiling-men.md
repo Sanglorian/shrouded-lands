@@ -24,6 +24,7 @@ The Smiling Men highly value the poisons of the Cloud Forest ([47.00](/wiki/47-0
 * A Smiling Man is hiding out in Veerhaven ([39.14](/wiki/39-14/)).
 * The Smiling Men obtain many new recruits from the Wood of Suicides ([43.27](/wiki/43-27/)).
 * A Smiling Man can be found in the Pits of the Cross ([02.11](/wiki/02-11/).01).
+
 ### Hooks:
 * How do the Smiling Men deliver electric shocks? A generator would be much too science fantasy, wouldn’t it?
 * What happens if a Smiling Man tries to take the form of one of the [Barnabi](/wiki/barnabi/) ([18.10](/wiki/18-10/))?

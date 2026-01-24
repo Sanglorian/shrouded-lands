@@ -22,6 +22,7 @@ But Lord Alevari is not as he once was. Although his form is more pleasing the p
 But she has not given up. In order to raise funds she has procured strange worms from the cultists of the [Creche of a Million Young](/wiki/creche-of-a-million-young/) ([29.14.05](/wiki/29-14/)) that eat the bodies of the dead and produce the finest silk after they become sated from their feasting. Those who wear this silk are visited by dreams of the dead, but this is of little importance to the desperate lady. She hopes that with enough money she can hire a wizard skilled enough in the magical arts to restore her husband to her. However this has drawn the attention of the [Necromantic Office](/wiki/necromantic-office/) ([29.14.35](/wiki/29-14/)) and it is doubtful that this affair will end well for the fair lady.
 ### Connection:
 * Lady Alevari’s silk is marketed by [Alvise Ettienne](/wiki/alvise-ettienne/), the nephew of the famous ettin ([29.14.46](/wiki/29-14/)).
+
 ### Hooks:
 * Tell me more about the Alevari family.
 * Who supplied the magic that slew Lord Alevari? Is the lady a sorceress herself?

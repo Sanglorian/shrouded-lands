@@ -19,14 +19,17 @@ In Elharda, the village is lead by an elder dwarf who calls himself Adymm. He sp
 Items commissioned to be made in any of the villages can be picked up at either corresponding triplet, the corresponding artisan will know the buyer even if the buyer had never set foot in that particular village before. For example, if a sword was commissioned at the dwarven blacksmith, the buyer could pick the sword up at either the elven or gnomish blacksmith without ever having to inform the dwarven blacksmith that he is doing so.
 ### Subhex:
 * [48.32.01](/wiki/48-32/) (The Cauldron of Galovain): this magical cauldron helps keep the people of the triplets well fed.
+
 ### Connections:
 * Some say that Isane the Beauty is a wayward elf of Vivosophal ([19.31](/wiki/19-31/).07).
 * A few Backbiter gnomes have come to Grasthifal in exile ([27.16](/wiki/27-16/)).
+
 ### Hooks:
 * Who is Adymm? Is he the same entity in all three villages?
 * How did these villages come to be built identical to one another?
 * How does the artisan know which town the buyer is going to pick the item up in?
 * Are these three villages actually one and the same?
+
 ## The Cauldron of Galovain
 Hex [48.32.01](/wiki/48-32/)
 
@@ -37,6 +40,7 @@ No matter which of these three villages a traveler eats at, they will always be 
 The local gnolls ([51.29](/wiki/51-29/)) are the most frequent guests of Adymm and, aside from eating heavily, leave the three races alone.
 ### Connection:
 * If divination magic (for example the [Diadem of the Third Eye](/wiki/diadem-of-the-third-eye/), [15.24](/wiki/15-24/)) is used to detect the sins of someone who has eaten from the Cauldron of Galovain, all that will be revealed is the meal that they ate.
+
 ### Hooks:
 * Where does the name of the cauldron come from?
 * Is there one cauldron or three?

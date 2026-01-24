@@ -18,6 +18,7 @@ Every Traxa, afflicted or not, was exiled from Shuttered under orders of the [Do
 While most Traxas are resigned to their fate, the elders who remember Shuttered are collaborating with cattle rustlers and rogue necromancers to plot a vengeful homecoming. They want to return to their ancestral towers and put those who conspired to exile them to justice. But they also demand the return of the [Crescendo](/wiki/crescendo/), an electrum fiddle that has been in the Traxa family for ages. A skilled player can use Crescendo to animate and control objects great and small.
 ### Connections:
 * The nine sisters hanging beneath the shadow of the Kingswood ([34.10](/wiki/34-10/)) are Traxas accused of seducing farm boys. The surviving brother plans to use the tragedy to become a suitor to the [Duke of Thring's daughter](/wiki/princess-elandra/).
+
 ### Hooks:
 * Do more werewolves dwell in the Undercity?
 * Why were all Traxas banished regardless of whether or not they were werewolves?

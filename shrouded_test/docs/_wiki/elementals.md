@@ -20,6 +20,7 @@ media: []
 * The lamplighters ([17.06](/wiki/17-06/)) with iron and flame keep away the monsters dwelling in Verlime Citadel, particularly the elementals
 * The [Pirate Kings](/wiki/pirate-kings/) trade with elemental envoys.
 * The air was chained to the earth by ancient elementals ([World’s Edge and Beyond](/wiki/worlds-edge-and-beyond/))
+
 ## Elementals
 * [Elemental beings](/wiki/elemental-beings/)
 * [Tempests](/wiki/tempests/)​ and tempest spawn

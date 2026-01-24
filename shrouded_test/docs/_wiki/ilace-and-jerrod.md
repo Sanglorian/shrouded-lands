@@ -20,6 +20,7 @@ Luckily the thrashing of Jerrod's valet as he was eaten alive so distracted the 
 The rubies in question were given as a gift to Ilace last year after a young bravo by the name of [Giles Chosard](/wiki/giles-chosard/) pried them from the eye sockets of an idol that lies in the Ziggurat ([06.10](/wiki/06-10/)).
 ### Connection:
 * The rubies of the [Traitor’s Pit](/wiki/traitors'-pit/), the Black Ziggurat ([18.26](/wiki/18-26/)) and the Green Ziggurat ([06.10](/wiki/06-10/)) all seem to be identical.
+
 ### Hook:
 * Was it wise for Giles to pry the rubies out of the idol's eye sockets? Why did he give them to Ilace?
 

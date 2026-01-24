@@ -34,6 +34,7 @@ Meanwhile, Eastbridge is a different place altogether. Many merchants come here 
 Strangely enough, the streets of Eastbridge are actually paved, at least some of them. The paving stones that are used have been transported here all the way from the **Bitter Coast **([17.18](/wiki/17-18/)).
 #### Connection:
 * Someone in Westbridge has been supplying sacrificial victims to Shotwick ([14.14](/wiki/14-14/)).
+
 #### Hooks:
 * Why is there an entire bridge made out of glassteel here?
 * How heavy are the tolls here?

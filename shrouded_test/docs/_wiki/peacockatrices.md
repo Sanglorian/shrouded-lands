@@ -19,6 +19,7 @@ Count Seutorian *([30.12](/wiki/30-12/))* keeps a large flock of these birds in 
 Hairy Jack *([37.21](/wiki/37-21/))* also keeps one, but it is a female that lacks the dazzling feathers and petrifying peck of the males of this species. However, he has glued some bright feathers to its tail and hopes that it will serve as a useful decoy.
 #### Connections
 * Peacockatrice eggs can be found at the bottom of Dragon Lake ([25.16](/wiki/25-16/))
+
 #### Hooks
 * A small war? Tell me about it!
 * How do Count Seutorian’s gardeners maintain a garden full of peacockatrices?

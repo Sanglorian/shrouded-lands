@@ -19,6 +19,7 @@ During the Time of Schisms, the Temple Indivisible sought to utterly wipe out al
 The Brothers became the Temple Invisible.
 ### Connections
 * [The Temple of Alberon](/wiki/the-temple-of-alberon/) *([29.14.10](/wiki/29-14/))* is another small breakaway sect that emerged in the Time of Schisms.
+
 #### Hooks
 * Since the **City** is sinking, are there any underground remnants of the Time of Schisms?
 

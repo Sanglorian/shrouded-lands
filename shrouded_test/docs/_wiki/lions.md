@@ -17,6 +17,7 @@ media: []
 ## Lion companions
 * [Brothers of the Lion](/wiki/brothers-of-the-lion/) are an elite entourage that either win a lion companion or must live among the lion prides of the [Devil's Fingers](/wiki/devil's-fingers/).
 * The [Abbot of the Keepers of the Sainted Foot](/wiki/abbot-of-the-sainted-foot/) met with a hermit ([09.01](/wiki/09-01/)) whose cow ate his lion. The Abbot is a priest of [Alberon](/wiki/alberon/).
+
 ## Religion
 * The [King in Splendour](/wiki/king-in-splendour/) is considered by some a two-part god, with the other part being the Lion in Splendour
 * [Lion's Day](/wiki/lion's-day/) is the summer solstice, named after the Lion in Splendour

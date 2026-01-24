@@ -58,6 +58,7 @@ Today, though, some of the richest families are beginning to consider themselves
 * [23.11](/wiki/23-11/) (Winds): a trading town built on a crossroads, with one of those crossing roads providing useful undead moans.
 * [24.11](/wiki/24-11/) (The Stolen Hills): the very place where Tiamat’s severed black head fell to the earth.
 * [24.12](/wiki/24-12/) (The Grey Comedy): the current location of a famous circus troupe.
+
 ### Connections:
 * After the end of the [goblins wars](/wiki/goblins-wars/), in which the orcs and dwarves destroyed the goblin forests that once lay between the [Kingswood](/wiki/kingswood/) and the coast ([24.02](/wiki/24-02/)), these lands were ruled by the [High Kings of Gore](/wiki/high-kings-of-gore/) ([05.20](/wiki/05-20/)). The Verlimes were able to carve out their Duchy after the fall of the High Kings.
 

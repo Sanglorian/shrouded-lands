@@ -15,9 +15,11 @@ media: []
 * The Black Ziggurat is patrolled by white-haired [minotaurs](/wiki/minotaurs/) ([18.26](/wiki/18-26/))
 * The half-elf [Ceralin](/wiki/ceralin/) found white creep into her hair by age 100 ([17.05](/wiki/17-05/))
 * Turning [Lord Alevari](/wiki/lord-alevari/) into a [zombie](/wiki/zombies/) made his hair midnight black (see [Lady Alevari](/wiki/lady-alevari/)).
+
 ## Length
 * In Gore, a woman may cut her hair short to become a man ([07.18](/wiki/07-18/)).
 * The [cataphracts](/wiki/cataphracts/) of [Elhanen](/wiki/elhanen/) (from the [Golden Realm](/wiki/golden-realm/)) have span-high hair.
+
 ## Hair colours
 * The [Jester Prince](/wiki/jester-prince/) has copper hair, while Lady Natala and the Duke of Thring do not, which suggests that the copperhead child of Natala is his.
 * Seline has hair as dark as the night sky but it shines brighter than a thousand stars; her sister Eliana has golden hair ([Seline and Eliana](/wiki/seline-and-eliana/))
@@ -25,8 +27,10 @@ media: []
 * [Olga Pignose](/wiki/olga-pignose/)'s hair is flowing midnight with such a sheen as to make even the elves of the Kingswood gasp with envy ([17.07](/wiki/17-07/))
 * The [Ancient Gardener](/wiki/ancient-gardener/) has grey hair entwined with vines ([36.04](/wiki/36-04/))
 * [Jaustina](/wiki/jaustina/), landlady of the Two Adders, has iron-hair ([40.20](/wiki/40-20/))
+
 ## Facial hair
 * A [Jahur](/wiki/jahur/)i man's vitality is measured by his beard and mustache. Thin-haired men may spend fortunes on various poultices and oils in hope of attaining admirable facial hair.
+
 ## Use
 * [Tristifer Bartley](/wiki/tristifer-bartley/) found a ladder of human hair leading leading into the top floor of one of the towers of the Sleeping Vale ([30.03](/wiki/30-03/)). Other towers are entered by other means.
 * A [pointing bone](/wiki/pointing-bone/) (see [Howling College](/wiki/howling-college/) for more details) can be wrapped in hair.
@@ -34,6 +38,7 @@ media: []
 * Handsome men can climb into [Zaal](/wiki/zaal/) using a rope of elven hair.
 * According to [Lisbet's Lament](/wiki/lisbets-lament/), they bound Lisbet with cords of young maidens' hair ([20.08](/wiki/20-08/)).
 * [Wild men](/wiki/wild-men/) do not use clothes, but instead wrap their braided hair around themselves.
+
 ## Other
 * The [Hair of Angzen](/wiki/hair-of-angzen/) is the name of a parasitic vine ([32.21](/wiki/32-21/).
 * The name of the dwarven clan [Ishin Kaimanu](/wiki/ishin-kaimanu/) ([05.06](/wiki/05-06/)) is usually translated as "dead man's hair" or "battle beard"

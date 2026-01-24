@@ -19,6 +19,7 @@ The Dust Walkers are suspicious of outsiders and will most likely seek to captur
 * The gnomes have created a legend of a great blue dragon in order to scare away outsiders and its “lair” can be found at ([20.24](/wiki/20-24/)).
 * The gnomes claim that the Black Ziggurat ([18.26](/wiki/18-26/)) has recently appeared out of nowhere.
 * The gnomes make their sandals (see below) from the sandalwood trees ([24.23](/wiki/24-23/))
+
 ### Hooks
 * Who's willing to pay money for the recipe of that brew? And how would you get your hands on it?
 * Are there any outsiders who have passed the test and established good relations with the gnomes?

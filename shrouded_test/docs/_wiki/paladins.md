@@ -18,6 +18,7 @@ The term paladin appears to be used both to describe those [Thringish knights](/
 ## Paladins of other gods
 * [Ja of the Red](/wiki/ja-of-the-red/) is a paladin of [Chimalia](/wiki/chimalia/)
 * The Mithril Spears of the [Canes Sanguis](/wiki/canes-sanguis/) include paladins as well as battle-clerics, inquisitors and others who display divine power.
+
 ## Paladins of the Green Lady
 Paladins of Thring are, like Duke [Ulthar the Loved](/wiki/ulthar-the-loved/), married to the [Green Lady](/wiki/green-lady/). They serve her just as they serve as the voice of the Duke in the wild corners of the Duchy where there are no lords.
 ### Origins

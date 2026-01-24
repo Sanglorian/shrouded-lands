@@ -22,10 +22,12 @@ media: []
 * When [Princess Elandra](/wiki/princess-elandra/) was born the Green Lady gave her a gift - she cries nothing but gems.
 * Expectant mothers pray for hair colours other than red, as [copperhair](/wiki/copperhair/) children were sometimes kidnapped by the elves and taken upon the Orphans' March ([27.09](/wiki/27-09/))
 * [Ulthar the Loved](/wiki/ulthar-the-loved/) retrieved the shawl of the Green Lady from the [Steeple of Alberon](/wiki/steeple-of-alberon/) ([29.14](/wiki/29-14/)). On his return journey, while sleeping under an [oak](/wiki/oak/) tree, the Green Lady appeared between the eye and the lid and dictated the [Seven Laws of Thring](/wiki/seven-laws-of-thring/)
+
 ## Mythography
 * The Green Lady is said to be the mother of the [elves](/wiki/elves/). Though [hawthorn](/wiki/hawthorn/) is either anathema to or bewitching to elves, the Lady's human followers often depict her with a wreath of hawthorn leaves.
 * According to the Whispering Sisters, Alberon cast aside and entombed his consort ([She Who Waits](/wiki/she-who-waits/)) to marry the Green Lady. The church of Alberon considers this blasphemy. The Whispering Sisters sacrifice a man and a woman to represent Alberon and the Green Lady.
 * The Wedding Band ([30.15](/wiki/30-15/)) is said to be the ring of the Green Lady.
+
 ## Clergy
 * [Paladins](/wiki/paladins/) of Thring are, like Duke [Ulthar the Loved](/wiki/ulthar-the-loved/), (chastely) married to the Green Lady. The tradition was originally associated with another goddess, non-chaste and non-human, as described in [18.14](/wiki/18-14/). Today's paladins still draw on the pagan power of the land.
 * [Magister](/wiki/magisters/) is a position in the Thringish clergy. There is a Magister of Castle Steadfast who made a ruling controversial to the clergy ([20.13](/wiki/20-13/)).

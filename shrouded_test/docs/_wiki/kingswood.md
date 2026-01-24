@@ -52,12 +52,14 @@ Those who dare to walk beneath the trees of the wild wood long enough to see the
 * [40.06](/wiki/40-06/) (The Broken Spear): a tower of strange and twisted metal that, if stories can believe, was once wielded by a god to slay dread Tiamat herself.
 * [40.09](/wiki/40-09/) (The Frogs of the Witchwater): a few still retain the human speech of their ancestor.
 * [41.09](/wiki/41-09/) (The Grandmother of the Ford): a crone that asks travellers to take her across the ford on her back could not possibly be a trap, could she?
+
 ### Connections:
 * The people of the village of Aggoth ([18.06](/wiki/18-06/)) perform rituals that they believe placate the fey of the wood.
 * Elves are skilled at summoning elementals, what have they learned from the Moon Child ([18.07.01](/wiki/18-07/))?
 * There are hideouts of the Scarecrows ([08.16](/wiki/08-16/)) hidden within the Kingswood and barred against the elves with rods of hawthorn.
 * The orcish slaver known as Brigadier Kalas Montra-brey, the Elfcatcher is one of the view brave enough to raid the Kingswood when the sun is up ([30.12.01](/wiki/30-12/)).
 * A favorite subject of elven art is the bird of paradise, whose struts they often imitate in their dances ([50.11](/wiki/50-11/)).
+
 ## Random Encounters
 * *![](/media/King1.png)Inspired by:** *Random Encounters in a Spooky Dark Forest*, Danny Peck, Secret Santicore 2011
 

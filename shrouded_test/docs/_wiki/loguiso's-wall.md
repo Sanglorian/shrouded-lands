@@ -25,6 +25,7 @@ A clan of gnomes, now known in Shuttered as the [Backbiters](/wiki/backbiters/),
 The catastrophe left a fissure that impedes travel to this day. Overgrown with grass, trees and shrub, it zig-zags across the land like a scar. Delvers descend into the fissure hoping to recover lost treasure, especially the mitril and adamantine spears. But the outraged spirits of the templars haunt what remains of the dungeon. The parts of the complex that have been exorcised and hallowed become homes for undesirable creatures. Several trolls, a crazed minotaur and an ogre are known to keep lairs here. The minotaur is believed to possess an adamantine spear, on which he skewers and roasts adventurers.
 ## Connection
 * Many of the Backbiters settled in Azurnay ([24.26](/wiki/24-26/)). The few who ventured on and weren't devoured by gnolls or the wyvern stopped in Grasthifal ([48.33](/wiki/48-33/)).
+
 ## Hooks
 * Why were gnomes hired to dig the tunnels?
 * How did the Backbiters make all of the tunnels collapse?

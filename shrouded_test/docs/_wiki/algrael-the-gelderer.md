@@ -18,6 +18,7 @@ He became a poet after constantly seeing visions of a lady in white when just on
 There his lady in white embraced and kissed him but when Algrael opened his eyes he found himself in the embrace of an ice mummy ([03.02](/wiki/03-02/)) with a very painful frostbite where his lady had kissed him.
 ### Connection:
 * Algrael the Gelderer has a history of close friendship with [Arinlag Fivefish](/wiki/arinlag-fivefish/) ([35.04](/wiki/35-04/)) and will speak highly of him if given a chance.
+
 ### Hooks:
 * Why is Algrael called the "gelderer?"
 * What parts of his body did Algrael have frostbite on? Was there any lasting damage?

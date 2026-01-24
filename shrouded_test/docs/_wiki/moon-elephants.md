@@ -20,6 +20,7 @@ Those who have butchered these rare, majestic creatures report that their hides 
 * [Octoid](/wiki/octoids/) agents have gotten their hands on some moon elephant cloaks and are using them to infiltrate [Jahur](/wiki/jahur/).
 * The [Sparrow Knight](/wiki/sparrow-knight/) fights in moon elephant leather ([16.16.10](/wiki/16-16/)).
 * Other [elephant breeds](/wiki/elephants/) exist
+
 ### Hooks
 * Did these remarkable elephants come from the moon? If not, what is their relationship to the moon?
 * Do djinn only appear in the Shrouded Lands to serve great wizards, or do some have other business here?

@@ -25,6 +25,7 @@ In memorium of the strange, dark years, the reinstated [Viceroys](/wiki/viceroys
 * The [Dead Fish](/wiki/dead-fish/) is a front for octoid agents in Jahur ([19.31](/wiki/19-31/).04).
 * The octoids harvest a narcotic form of kelp ([26.33](/wiki/26-33/)).
 * [Lars](/wiki/lars/) the Chimera has octoid tentacles growing from his back ([29.14](/wiki/29-14/).41).
+
 ## Hooks
 * Tell me about some of the weirdos who trade with the octoids.
 * What can adventurers discover in the octoid caves?

@@ -17,6 +17,7 @@ Whenever a [Doge](/wiki/doge/) of the [City of Shuttered Windows](/wiki/city-of-
 * As part of the election, twelve out of forty are randomly chosen. This is done by the monks of the Isle of Dolyeades. They use cows ([33.16](/wiki/33-16/)).
 * The most recent election lead to the creation of [ettins](/wiki/ettins/) ([13.06](/wiki/13-06/)).
 * One election resulted in a chicken becoming Doge ([Simone the Fowl](/wiki/simone-the-fowl/)).
+
 ### Hook:
 * What interesting things lie in the Old Council Tower?
 

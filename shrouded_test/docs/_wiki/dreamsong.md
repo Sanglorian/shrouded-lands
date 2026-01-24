@@ -23,6 +23,7 @@ The [elves](/wiki/elves/) have a keen interest in the Dreamsong ([24.07](/wiki/2
 ### Connections:
 * The agonized cries of a white whale trapped in the Sunless Sea ([18.10](/wiki/18-10/).01) have tarnished the Dreamsong, sending nightmares to the people of these lands.
 * A human poet seems to have stumbled across a meter that can bridge the gap between the waking world and that of dreams ([39.23](/wiki/39-23/).01).
+
 ### Hooks:
 * Where have the druids set up their didgeridoos? What is their goal? Jungian collective unconscious hacking?
 * What do the whales learn before they are born?

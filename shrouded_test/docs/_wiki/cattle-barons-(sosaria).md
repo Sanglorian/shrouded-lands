@@ -14,6 +14,7 @@ There are two major factions among [Sosaria](/wiki/sosaria/)'s cattle barons - t
 ### Connections
 * The local cattle barons often incorporate cages containing [birds of paradise](/wiki/birds-of-paradise/) into their clothing in order to deter assassins.
 * The silk merchant [Weng Lo](/wiki/weng-lo/) died while ballooning with a local cattle baroness ([29.14](/wiki/29-14/).45).
+
 ### Hooks
 * Tell me about some other cattle barons.
 * What methods to Sosaria's plague doctors use to prevent, contain or spread illness?

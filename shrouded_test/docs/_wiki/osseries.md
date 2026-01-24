@@ -28,14 +28,17 @@ Ranmore was discharged from the Necromantic Office *([29.14.35](/wiki/29-14/))* 
 * Jahbulon is an approved Small God *([29.14.32](/wiki/29-14/))* associated with reason and masculinity. He is unpopular and obscure even among scholars, however, and hasn't had a public shrine in **Shuttered** in nine years. Those who follow him assert that he was a saintly scholar whose extensive works evangelizing the virtues of rationalism and logic have been lost and destroyed.
 * Jarn Ossory’s Rod of Adhesion is now in Castle Greymere and the family would like it back *([20.00](/wiki/20-00/)).*
 * The Osseries took the land in which they live from [The Mirdenlows](/wiki/the-mirdenlows/).
+
 ## Hooks
 * What do the Osserys do with all their gold?
 * Just how insane does a necromancer have to be to become committed to an asylum? Does **Shuttered** fear that imprisoned necromancers will seek vengeance, or does exiling them benefit someone?
 * Is the voice in Ranmore's head really Jahbulon?
+
 ## Ashberries and Ossery Fire
 The Osserys use their mastery of flame to burn stretches of forest and scrub on their mountain slopes. From the ashes of the burned forests come ashberry bushes. The bushes' orange fruit makes an exquisite, spicy wine that is known as Ossery Fire.
 ### Connections
 * Abdul *([05.04](/wiki/05-04/))* owns contraband ashberry bushes, but his attempts at recreating Ossery Fire have resulted in a poisonous wine that causes spontaneous internal combustion. But until drunk, only the keenest wine experts can tell the difference between the imitation and the true vintage.
+
 #### Hooks
 * Besides a pleasant spice, does Ossery Fire have any extraordinary qualities?
 

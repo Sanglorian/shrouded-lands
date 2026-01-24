@@ -40,6 +40,7 @@ the Kingswood.
 * [29.07.01](/wiki/29-07/) (The Factions of the Elves): although the unseelie court is gone divisions remain within the seelie court.
 * [29.07.02](/wiki/29-07/) (The Holt has Many Doors): how the elves can show up nearly everywhere in the Kingswood.
 * [29.07.03](/wiki/29-07/) (The Prince of Men): the Bloodied King is still bound by a treaty signed with the Prince of Men, an ancient human ruler that his race has forgotten.
+
 ## Connections:
 * Copperhaired human children were once brought in tribute to the Holt along the Orphan‘s March ([27.09](/wiki/27-09/)).
 * The elves of the Timberlode ([13.03](/wiki/13-03/)) were exiled from the Kingswood.
@@ -55,9 +56,11 @@ the Kingswood.
 * When the unseelie elves went into exile a few of the seelie court went with them. Those exiles are now known as the [white elves](/wiki/white-elves/) of Zaal ([08.27](/wiki/08-27/)).
 * After what happened after [Tiamat‘s](/wiki/dead-tiamat/) black head fell, the Bloodied King scoured all the trees that grew in a certain patch of the Kingswood ([24.11](/wiki/24-11/)).
 * [Elharen the Silent](/wiki/elharen-the-silent/) ([29.14](/wiki/29-14/).47) has come here to seek aid in her personal war against the gnolls of the Burning Lands.
+
 ## Hooks:
 * Why‘s there such a massive geyser in the middle of the forest?
 * Why would it be foolish for a human (or other species as well?) to bathe in the Witchwater?
+
 ## The Holt Has Many Doors
 ![](/media/290702.png)Hex [29.07.02](/wiki/29-07/)
 

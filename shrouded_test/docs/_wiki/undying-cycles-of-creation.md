@@ -47,6 +47,7 @@ Astrologers take careful note of the movements of the stars and the day of a chi
 * The old coronation ceremonies of Gore seem linked to this ancient religion ([05.18](/wiki/05-18/)).
 * [Isane the Beauty](/wiki/isane-the-beauty/)) is skilled at interpreting the Cycles.
 * The Pilgrim's Spire is holy to the Pilgrim ([24.31](/wiki/24-31/)).
+
 ### Hooks:
 * Are any of these days still celebrated in these lands?
 * How much of the old religion has been revivd in Jahur?

@@ -26,6 +26,7 @@ Many mules—disguising their ability to talk—arrange to be purchased by bands
 * Telamar was the steed of [Ulthar the Loved](/wiki/ducal-family-of-thring/); he may be available for sale from Castle Tarengael's horse market ([16.16](/wiki/16-16/))
 * Alarion was the steed of [The Knight of Constant Sorrow](/wiki/the-knight-of-constant-sorrow/); he may be available for sale from Castle Tarengael's horse market ([16.16](/wiki/16-16/))
 * Garendar's bones lie beyond the World's Edge ([50.03](/wiki/50-03/))
+
 ### Connections
 * Mules meet at The Conclave of Mules ([07.21](/wiki/07-21/)).
 * Since the departure of the horses, the knights of Thring mostly ride donkeys, ostriches ([16.09](/wiki/16-09/)) or stranger beasts.

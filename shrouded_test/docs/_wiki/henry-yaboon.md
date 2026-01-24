@@ -20,6 +20,7 @@ Yaboon's heraldric symbol is a [waker worm](/wiki/waker-worms/) with human legs 
 Though the elite of Blind Midshotgatepool are frightened of Yaboon's power, they are more frightened of a resurgent cult of the Pacharia. Since the sinking of the temple, the cult has taken an aquatic and apocalyptic turn.
 ### Connection:
 * Henry Yaboon has offered a reward to anyone who drives the bullywogs out of Yrump Marsh ([26.19](/wiki/26-19/)).
+
 ### Hooks:
 * We still know almost nothing about the Pacharia or their worshippers. What are they?
 * How are Henry's relations with the rest of his family?

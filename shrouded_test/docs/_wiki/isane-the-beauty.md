@@ -23,6 +23,7 @@ Most of Isane's clients are women. Since she is a Viceroy's concubine, Jahur law
 ### Connects to:
 * Isane gives advice to many of the [Viceroys](/wiki/viceroys/), which helps her exert a great deal of influence on their council ([19.31.08](/wiki/19-31/)).
 * [Anghart](/wiki/anghart/) of Dreanach stole a large supply of sex change potion from Isane ([15.11](/wiki/15-11/)).
+
 ### Hooks
 * Who is Isane the Beauty, really?
 * Why were so many of the old books burned? Who burned them?

@@ -53,6 +53,7 @@ The waters that flow from the **Draugmere Peaks** drop down into the Glass Rapid
 * Birlwood Hold ([21.14](/wiki/21-14/)): the bastion of the Spellknights, who guards the eastern borders of **Thring** against the Witch Clans.
 * Where the Levee Breaks ([22.18](/wiki/22-18/)): transit along the River of Crystal Waters has become imperiled.
 * The Lords Under the Mountain ([24.13](/wiki/24-13/)): the ruined hold of Clan Penderghast, the only of the Witch Clans to swear fealty to the Dukes of **Thring**.
+
 ## Features
 * [Grant Birl](/wiki/grant-birl/) is a pretender to the throne of the Duchy of Thring; he is suing [the Collector](/wiki/the-collector/) in [Thring v Jack Donne](/wiki/thring-v-jack-donne/).
 
@@ -73,9 +74,11 @@ Since the [horses](/wiki/horses/) went out of the world, the question of the bes
 It is said that some individual knights have their own forms of transport. The Spellknight ([Knights of the Cudgel](/wiki/knights-of-the-cudgel/)) uses his magic to summon a ghostly charger. Lord Spiriwon the Cruel is known to ride on a horse-shaped palanquin carried by six stocky slaves ([20.16](/wiki/20-16/)).
 #### Connections:
 - A handful of the most elite knights of Thring win lions as their mounts while those that fail must join the lion prides ([17.21](/wiki/17-21/)).
+
 #### Hooks
 - What other weird mounts are used by the knights of **Thring** and others?
 - Tell me more about the Spellknight or Lord Spiriwen.
+
 ## History
 The Lords Sanguine launched a coup against Turien, the last [High King of Gore](/wiki/royal-family-of-gore/). Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [The Verlimes](/wiki/the-verlimes/) heeded him. 
 
@@ -86,6 +89,7 @@ Turien, now known as the King of Fools, lived out his days in Castle Tarengael (
 * [The Brothers of the Lion](/wiki/the-brothers-of-the-lion/)
 * [The Foolish Sages](/wiki/the-foolish-sages/)
 * [Knights of the Cudgel](/wiki/knights-of-the-cudgel/)
+
 ## Witch Clans
 Two of the [Witch Clans](/wiki/witch-clans/), [The Birls](/wiki/witch-clans/) and [The Penderghasts](/wiki/witch-clans/), live in The Duchy of Thring.
 ## The Sack Man

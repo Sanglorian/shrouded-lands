@@ -17,6 +17,7 @@ Among the special properties of these bone shards is that if they are ground to 
 ### Connections
 * These bone shards that have been chewed by Tiamat are used as currency in the [Goblin Markets](/wiki/goblin-markets/) ([33.04](/wiki/33-04/)).
 * Some of these bone shards have been used to form a magical charm known as [Tiamat's Nurse](/wiki/tiamats-nurse/) ([40.20](/wiki/40-20/).02).
+
 #### Hooks
 * Anyone out there selling fake Tiamat-chewed bone shards?
 * What is a [ritual currency](/wiki/ritual-currencies/) anyway? Can't the Tiamat cultists just use gold like everyone else?

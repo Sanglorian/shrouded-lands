@@ -21,6 +21,7 @@ Few know why the [shamans](/wiki/shamans/) of the Dogtur choose to move their ca
 * People and young Dogtar warriors are initiated by trekking through the Mocking Hills ([04.07](/wiki/04-07/)).
 * The Chant of Morning ([17.07](/wiki/17-07/).03) seems to refer to the ur-dog.
 * The [Houndishmen](/wiki/houndishmen/) are distant relatives of the Dogtur.
+
 ## Hooks
 * The people of Dogtur are welcoming you with open arms! This is a rare occasion...What could they possibly want?
 * What otherworldly treasures are to be found in the chasm?

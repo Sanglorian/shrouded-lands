@@ -14,6 +14,7 @@ media: []
 ## Features
 * The descendants of those reshaped by Tiamat's blood are the [dragonblooded](/wiki/dragonblooded/).
 * [Bone shards](/wiki/bone-shards/) chewed by Tiamat are a [ritual currency](/wiki/ritual-currencies/).
+
 ## Heads of Tiamat
 * According to rumour, the foundations of [Skullreach](/wiki/skullreach/) are the skull of Tiamat's blue head.
 * Likewise, some say the heat of the [Burning Lands](/wiki/burning-lands/) is due to the red dragon's skull - perhaps Tiamat's - at the heart of Blackhorn's Maze ([39.32](/wiki/39-32/)).

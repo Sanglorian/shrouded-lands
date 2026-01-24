@@ -21,6 +21,7 @@ Princess Elandra has heard every tragedy from **Thring** to the ends of the eart
 So her father, the Duke of Thring, has decreed that when each day passes and the night closes in suitors may approach and tell her tales of woe and bitter sadness in hopes that they will be able to make her cry again. Her father has promised that whoever is able to make her cry will marry poor Elandra and be the next Duke of the Thring provided that, of course, he let him have enough gems to hire a mercenary army to drive the [Lords Sanguine](/wiki/lords-sanguine/) from [Gore](/wiki/the-lands-of-gore/) once and for all.
 #### Connection:
 * A man whose nine sisters were strung up in trees so that mushrooms would grow on them hopes to make Elandra cry *([34.10](/wiki/34-10/)).*
+
 #### Subhexes:
 * Suitors have gathered from across the land to try to win the princess’s hand by making her cry.
 
@@ -31,6 +32,7 @@ So her father, the Duke of Thring, has decreed that when each day passes and the
 * What did the Duke spend all of the gems on besides tower repair?
 * What’s brandyfruit?
 * Who’s flocking to Castle Tarengael to tell tear-jerking stories?
+
 ## Two Suitors of Princess Elandra
 Hex [16.16.10](/wiki/16-16/)
 

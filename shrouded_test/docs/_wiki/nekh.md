@@ -17,6 +17,7 @@ The Nekh, despite their hideous appearance and appalling hygiene, are not cruel 
 ### Connections
 * The Nekh and gnolls congregate twice a year at a strange temple to perform rites that ensure that game comes to these dry lands ([14.27](/wiki/14-27/)).
 * The rookeries of the most powerful Nekh tribe are built atop sand-blasted spires near The Breath of the Earth ([12.28](/wiki/12-28/)).
+
 ### Hooks
 * What relationship do the Nekh have with the Singing Waste's ghouls and gnolls?
 

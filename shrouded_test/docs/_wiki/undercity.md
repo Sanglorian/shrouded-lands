@@ -24,6 +24,7 @@ The **Undercity** or **under-city** of [Shuttered](/wiki/shuttered/) is inhabite
 * The [Creche of a Million Young](/wiki/creche-of-a-million-young/) has a strong presence in the Undercity.
 * Windows from olden times, that were [shuttered long ago](/wiki/windows-(shuttered)/), can still be seen in the Undercity.
 * *This includes the Last Window, which remains open. 
+
 ### Connections
 * The [Medusa](/wiki/medusa/) was sent to [Midshotgatepool](/wiki/midshotgatepool/) after it got loose in the Undercity.
 * The [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) will sink into the Undercity in a generation or two.

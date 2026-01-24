@@ -27,6 +27,7 @@ The violet flowers that blossom on the vines can be brewed into a [narcotic tea]
 * The design of this temple is very similar to that of the Black Ziggurat ([18.26](/wiki/18-26/)).
 * The rubies of the [Traitor’s Pit](/wiki/traitors-pit/) ([29.14.23](/wiki/29-14/)), the Black Ziggurat ([18.26](/wiki/18-26/)) and the Green Ziggurat all seem to be identical.
 * The [Grimes](/wiki/grimes/) feed occasional sacrifices to the Snake God to placate it.
+
 ### Hooks:
 * How is the snake-demon imprisoned? Who imprisoned it?
 * How does Shep gather the tea without being killed?

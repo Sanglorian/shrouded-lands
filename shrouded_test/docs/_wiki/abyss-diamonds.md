@@ -18,6 +18,7 @@ Recently, the city has seen an influx of Abyss Diamonds thanks to a local entrep
 Those who refuse to swear anything to strange sea gods or use a madman's invention to plunge into sunless waters can purchase small quantities of Abyss Diamond dust from [Isane the Beauty](/wiki/isane-the-beauty/). This, too, is problematic because she is a Viceroy's concubine. By ancient law, any man speaking to her must be executed or castrated.
 ### Connection
 * Isane the Beauty maintains a library of [lizardman](/wiki/lizardmen/) books that are snakes ([41.24](/wiki/41-24/)) in her garden ([19.31](/wiki/19-31/).07) which the sons of Dagon have consulted.
+
 ### Hooks
 * What drove Kwalish mad?
 * How serious are the Sons of Dagon about the gods of the deep?

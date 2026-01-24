@@ -35,17 +35,21 @@ Urged on, they say, by the whisperings of the bright priest, the Great Mother ha
 ### Connections:
 * The Great Mother seeks the heart of one of the [painted elephants](/wiki/painted-elephants/) ([43.27.01](/wiki/43-27/)), but such a heart must be eaten whole to have an effect, which may prove difficult.
 * The gnolls raid the dwarves of the western Burning Lands ([31.27](/wiki/31-27/)), but even the Great Mother has let them off with token tribute payments as she judges conquering or exterminating them would not be worth her while.
+
 ### Subhexes:
 * [51.29.01](/wiki/51-29/) (The Skull of the Defiler): this is a great lost artifact of the gnolls.
 * [51.29.02](/wiki/51-29/) (The Howling College): the greatest center of the fine art of gnollish singing in these lands.
+
 ### Connections:
 * The gnolls receive salt from the Fallsalt Mines ([44.03](/wiki/44-03/)), but the supply has recently been cut off.
 * Some gnollish exiles now live in Abbalah-doon ([15.28](/wiki/15-28/)).
 * The Scent Barrier makes it difficult for gnolls to travel west into the Singing Wastes ([21.29](/wiki/21-29/)), which helps keep the human city of Jahur safe.
 * The Great Mother's third non-human adviser is a gormandizing jackalwere ([51.17](/wiki/51-17/)) named Voon. He keeps her informed of events around Sosaria in exchange for his favorite delicacy, dwarf pie.
 * After the gnollish victory over the Golden Realm, a sacred lion statue of a lion was carted back to the Burning Lands, but the Great Mother seems to fear it and refuses to allow it to be displayed in her city ([50.30](/wiki/50-30/)).
+
 ### Hooks:
 * What does the Great Mother hope to find in Bergolast? Is that thing really there or has she been misled by her advisers?
+
 ## The Skull of the Defiler
 ![](/media/512901.png)Hex [51.29.01](/wiki/51-29/)
 

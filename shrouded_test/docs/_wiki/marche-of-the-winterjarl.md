@@ -31,6 +31,7 @@ The [Zoar Rajak](/wiki/zoar-rajak/) ([11.01](/wiki/11-01/)) feel differently. Th
 * One-Eyed Kevanjr’s sworn enemy is [Arinlag Fivefish](/wiki/arinlag-fivefish/), who currently lives in exile ([35.04](/wiki/35-04/)) after losing a duel to him over the hand of Thorek’s daughter.
 * The previous jarl of the bears lies frozen not far from here ([14.01](/wiki/14-01/)).
 * The nordanbjorn fued with the owl-riding [strigoi](/wiki/strigoi/).
+
 ## Hooks
 * Who else lives within the marche?
 * What is the truth behind the dispute between the goblins and the bears?

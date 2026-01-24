@@ -16,6 +16,7 @@ Despite being marked by weeping sores, missing body parts and worse priests of t
 They do, however, sometimes come in conflict with civil authorities for protesting quarantines and the like and one of their more controversial practices is to bless children with the yellow flux while claiming that those who suffer from it are forever after immune to the ravages of the far more dangerous [flux of Jarmond](/wiki/flux-of-jarmond/) (see [30.16](/wiki/30-16/) above).
 ## Connections
 * There is a statue of the Azru ([30.14](/wiki/30-14/))
+
 ## Hooks
 * Where are some of the itinerant priests of the Azru at this moment? One would think that they would be fairly rare?
 * Is there any other kindness that can be bestowed by a demi-god of disease, mutilation and torment?

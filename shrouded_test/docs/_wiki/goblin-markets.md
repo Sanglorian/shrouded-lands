@@ -21,6 +21,7 @@ The most powerful merchant is a willowy [mercane](/wiki/mercanes/) named [Geddar
 
 ### Connections
 * Toadvine's ([30.09](/wiki/30-09/)) jewellry is often found for sale here.
+
 ### Hooks:
 * Where does one get orichalcum coins, dinosaur feathers and pixie dust, other than here?
 * What intangibles, impossibilities and organs could the heroes bring to the markets?

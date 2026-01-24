@@ -24,6 +24,7 @@ The hinterlands of Blind Midshotgatepool are few and cramped, lying as they do b
 * [27.18](/wiki/27-18/) (The Fanged Cliffs): the mating dance of flying snakes is quite a sight to see to keep your distance.
 * [27.19](/wiki/27-19/) (The Drowned Temple): due to ancient compact the pews must always be full, which it now lying completely under water makes somewhat difficult.
 * [28.21](/wiki/28-21/) (The Angler): a unique and hungry mermaid.
+
 ### Connection:
 * During the war with the City of Shuttered Windows, the [Witch Queen](/wiki/witch-queen/) prevented the knights of Thring from coming to Blind Midshotgatepool’s aid ([23.16](/wiki/23-16/)).
 * Jota, Zigmund and Hansa Koldransons are local heroes ([20.10](/wiki/20-10/)).

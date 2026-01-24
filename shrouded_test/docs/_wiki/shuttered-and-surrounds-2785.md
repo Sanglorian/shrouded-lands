@@ -34,6 +34,7 @@ Although sadly reduced, the Shuttered City is still the greatest power in these 
 * [39.12](/wiki/39-12/) (The Lost Folio): the strange dungeon where the famed poet Trimueil lost his greatest manuscript.
 * [39.14](/wiki/39-14/) (Veerhaven and Hostwick): two remote villages known for their elfskin drums and strange bloated radishes.
 * [43.12](/wiki/43-12/) (The Falling Walls of Monatheron): the only cyclops city left in these lands.
+
 ### Connections:
 * One of the Heget's healthier sons looks eerily similar to old paintings of the Doge of the City ([46.15](/wiki/46-15/)).
 * The People of the Claw ([48.13](/wiki/48-13/)) are the descendants of colonists from the Shuttered. If the priests of the City took notice of them they would be most displeased with their innovative and crayfish-ridden theology.

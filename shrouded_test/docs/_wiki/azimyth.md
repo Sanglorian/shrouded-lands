@@ -23,6 +23,7 @@ However, a fringe group among the bats are not so friendly. Led by Torn Wing, a 
 ### Connections:
 * Occasionally the azimyth will fly as far afield as the [Kingswood](/wiki/kingswood/) to pollinate the wildflowers it is famous for, or even the Castle of Dances ([15.18](/wiki/15-18/)) to pollinate the dancer’s blooms.
 * At least one azimyth bat, affectionately nicknamed “Hiccup”, sometimes sneaks into the honey meadery of the Bolger halflings ([11.08](/wiki/11-08/)) and is found piss-faced by halfling mead-guards. Some of the mead-guards report “Hiccup” going on about aspiring to be a [wizard’s](/wiki/wizards/) familiar, though the halflings just laughed it off.
+
 ### Hooks:
 * If a PC wizard comes to the canopy, they might be approached by Hiccup. Are they interested in taking on drunken giant bat as a familiar?
 * Is it possible the giant bat mount of the goblin warlord [Najir Dum](/wiki/najir-dum/) of Hoth Akhbir ([02.05](/wiki/02-05/)) was actually an azimyth bat? Was it enslaved or turned to evil? Or are the beliefs of the azimyth true, that if they are away from their home for too long they lose their intelligence?

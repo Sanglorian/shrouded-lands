@@ -22,6 +22,7 @@ During nights of the new moon the bar grows even more rowdy than normal and octo
 [Lashers](/wiki/lashers/) hidden beneath [moon elephant leather](/wiki/moon-elephants/) slither across the damp and salty floor working their magic.
 ### Connection:
 * The proprietor gained his signature smile during a disasterous expedition to the Bone Heap ([50.03](/wiki/50-03/)).
+
 ### Hooks:
 * Why is there a large dried shark hanging over the door?
 * Why do actors and actresses hang out here?

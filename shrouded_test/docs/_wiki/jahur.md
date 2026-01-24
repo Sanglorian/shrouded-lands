@@ -138,6 +138,7 @@ adventurers or concubines.
 * Deugar took a valuable ruby mine during the War of the Six Fingered Hand. They rule there still ([21.27](/wiki/21-27/)).
 * Jahur exports diamonds wrenched from the backs of crabs that live in a deep abyss ([19.31](/wiki/19-31/)). They can be bought from Kwalish the Thrice-Drowned or Isane the Beauty. Buying from Isane may be problematic as she is a Viceroy‘s concubine so any man speaking to her must be executed or castrated.
 * The worst Jahuri criminals are teleported to the top of the Spire of Idjit to be obliterated by lightning ([19.30](/wiki/19-30/)).
+
 ## Hooks:
 * What now dwells in the city's immaculate ruins?
 * Do any Janissaries live abroad? Why did their leave their posts?
@@ -207,6 +208,7 @@ meeting places.
 * These alleys are rife with bucket kelp ([26.33](/wiki/26-33/)) chewers. Viceroy Harun, captain of the watch, has deployed undercover agents in the neighborhood in an attempt to identify major dealers.
 * Hypno ([08.27.01](/wiki/08-27/)) tries to prevent mortals from having recurring dreams.
 * Lunfar sells illicit maps within the alleyways ([19.31.10](/wiki/19-31/)).
+
 ### Hooks:
 * Were Duygu's dreams sent to him by someone with an agenda?
 * How much influence does Isane the Beauty have over the Viceroys who seek her counsel?

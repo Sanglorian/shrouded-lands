@@ -27,6 +27,7 @@ If attacked she steps into the ground, and is never seen again by the aggressors
 Those of any race that display particular wisdom and connection to growing things are sometimes mentored by the Hierophant, though her apprentices cannot expect her to appear to impart lessons with any regularity.
 ### Connection:
 * The Hierophant’s magics are potent and she can return the dead to life, although generally not in their previous form ([40.09](/wiki/40-09/)).
+
 ## The Hierophant of Constant Sorrow
 ![](/media/360402.png)It is not the passing of years that age a man but the worries and cares that accumulate with each passing day. Perhaps it is elven frivolity and their famous lack of empathy or others that explains why an elf may live a thousand years and never age.
 
@@ -37,6 +38,7 @@ While the Hierophant still takes on the tragedies of the elven race, they press 
 So, while all elves respect the wisdom of the Hierophant, they find being in her presence rather distressing and generally try to avoid it, unless necessity prods them into seeking out her wisdom.
 ### Connection:
 * It is rumored that [the Ferryman](/wiki/the-ferryman/) ([35.06](/wiki/35-06/)) once took on tragic memories much like the Hierophant currently does. So many that he has aged into a creature more wraith than elf but still lives, for no elf ever dies of old age. That this has to do with fingers specifically nobody knows.
+
 ### Hooks:
 * Is this theory abut sad memories aging you really true?
 * What sort of memories has the Hierophant taken on?

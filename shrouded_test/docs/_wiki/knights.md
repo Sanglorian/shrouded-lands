@@ -22,6 +22,7 @@ The [knights of Thring](/wiki/knights-of-thring/) are the best-known and most nu
 * The werewolf nuns ([10.17](/wiki/10-17/)) were infected by a retainer of Gore, a knight.
 * [Freeholders](/wiki/the-freeholds/) are mustering men-at-arms who fancy themselves to be knights.
 * [The Collector](/wiki/the-collector/) sent knights to the Glass Eye ([01.23](/wiki/01-23/)), though they were repulsed
+
 ## Specific knight
 * [Sir Alard](/wiki/sir-alard/) is a knight of Oldstones, wherever that is ([23.10](/wiki/23-10/)).
 

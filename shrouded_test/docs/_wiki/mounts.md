@@ -18,6 +18,7 @@ Because there are no more fertile [horses](/wiki/horses/) in the Shrouded Lands,
 * [Alarion](/wiki/alarion/) was the mount of the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/), potentially for sale at Castle Tarengael
 * Knights attempt to recover [Garendar](/wiki/garendar/), the charger of [Sir Hyfres](/wiki/sir-hyfres/) the paladin, from the cess pit where its bones lie.
 * The [Phantom Steed](/wiki/phantom-steed/) is the mount of [Sir Codwise](/wiki/sir-codwise/) the Old.
+
 ## Types
 * The [horse market at Tarengael](/wiki/horse-market-tarengael/) sells resurrected horses.
 * The knights of Thring have a variety of mounts:

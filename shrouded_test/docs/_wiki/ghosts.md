@@ -25,6 +25,7 @@ According to the [White Road](/wiki/white-road/) entry, all ghosts have a myster
 * [Boraz](/wiki/boraz/) is a goblin ghost (also described as a spirit) that inhabits a dead tree and attacks (through direct possession, having tree branches fall on their heads, etc.) those who come without offerings of acorns.
 * The ghost of [Simone the Foul](/wiki/simone-the-foul/) can apparently still be heard crowing insanely in the foothills of the Barrier Range, where he fled to after killing [Simone the Fowl](/wiki/simone-the-fowl/).
 * Because a [Hell-born spirit](/wiki/hell-born-spirit/) evicted the souls of rulers of Castle Targengael from the [Mirror Throne](/wiki/mirror-throne/), they wandered aimlessly and most came to rest in a thick scrub overlooking the castle ([17.15](/wiki/17-15/)). [Bugbears](/wiki/bugbears/) delight in chasing the ducal ghosts. One ghost whispers advice and comforting words in the ears of the captured children of the Sack Man. He wants to bewitch a [bogswine](/wiki/bogswines/) and make it 'poison' the bugbears.
+
 ## Connections
 * The [devouring art](/wiki/devouring-art/) is often performed on [ghost apes](/wiki/ghost-apes/).
 * 'Ghostly' writhing arms and snapping jaws surround the [Great Mother](/wiki/great-mother/) after she performed the devouring art on many [Mothers](/wiki/mothers/) of the gnolls.

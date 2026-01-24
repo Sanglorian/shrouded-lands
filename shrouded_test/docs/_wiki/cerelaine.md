@@ -22,6 +22,7 @@ Finally he came upon a solution. He would gather some human specimens and cast s
 * Cerelaine's journal is full of cryptic references to Mirror Lake and vague ramblings about the souls that elves lack ([37.01](/wiki/37-01/)).
 * Many of the "elves" of the Timberlode are humans taken by Cerelaine from the area around Newhill ([17.07](/wiki/17-07/)). Some of them are sorely missed...
 * Cerelaine has declared certain (if very slow) vengeance on the descendants of [Egil Longspear](/wiki/egil-longspear/) via his son, [Ledo](/wiki/ledo/).
+
 ### Hooks:
 * What form do Cerelaine's water elementals take?
 * What "trinkets" does he have?

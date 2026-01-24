@@ -33,6 +33,7 @@ The Office itself is very secure. If any intruders enter, one of the thousands o
 * [Ranmore](/wiki/ranmore/) is an exiled necromancer who is currently working for [the Ossory witchclan](/wiki/the-osseries/), if the Office knew of his more extravagant ambitions they would be very concerned ([24.18](/wiki/24-18/)).
 * Silk merchants squabbling over bodies has drawn the attention of the Office ([29.14.46](/wiki/29-14/)).
 * One of the old lords of the Keep of Dreanach was a renegade member of the Office ([15.11](/wiki/15-11/)).
+
 ### Hooks:
 * Why are most (all?) members of the Necromantic Office eunuchs?
 * What secrets do the ghosts know? Any nifty signature spells?

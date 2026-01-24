@@ -23,6 +23,7 @@ Lochgates claim that the founder of their house, [Sweitbor the Roarer](/wiki/swe
 * [Seven Paces](/wiki/seven-paces/), the fabled weapon of [Hardrald Longspear](/wiki/hardrald-longspear/) ([22.11](/wiki/22-11/)), rests above Marcila's mantle. It has been in the lodge since a Marcila's great-uncle returned from a quest to the Freeholds.
 * [Grondelgar](/wiki/grondelgar/) serves as captain of [rangers](/wiki/rangers/) in [Winds](/wiki/winds/), and he vows to return with Seven Paces on his next visit to his grandmother. He is more interested in being hailed as a hero than he is in fulfilling any duty to the town.
 * The Lodge has been built by peasants supplied by the old lord of the [Keep of Drenach](/wiki/keep-of-drenach/), but then his son in law killed a werebear and his daughter decided to marry herself and things got complicated ([15.11](/wiki/15-11/)). But [Lady Anghart](/wiki/lady-anghart/) now hopes to make peace with the bears and extend human settlement into their forest ([14.11](/wiki/14-11/)).
+
 ### Hooks:
 * Who are some other Lochgates?
 * Who helps the werebears build and rebuild the lodge?

@@ -18,6 +18,7 @@ Those who eat of a troll's flesh might find themselves changed by the experience
 * According to the [Scroll of Seven Shadows](/wiki/scroll-of-seven-shadows/), if the Tarrasque is slain all trolls and other descendants will die instantly.
 * A troll worships [Grahakzahak](/wiki/grahakzahak/), 'he of 99 heads' (unbeknownst to him, the Tarrasque), and encourages others to venerate it by eating of the Prophet's flesh. A village of many races survives under his watch ([15.01](/wiki/15-01/).
 * Small yellow flowers that grow in the footprints of the Tarrasque can be turned into an oil that, when smeared on a blade, makes it difficult for trolls to regenerate ([48.24](/wiki/48-24/)).
+
 ## Trolls
 * The [Prophet of Grahakzahak](/wiki/prophet-of-grahakzahak/)
 * Several trolls lair in [Loguiso's Wall](/wiki/loguiso's-wall/).

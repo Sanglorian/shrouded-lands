@@ -39,6 +39,7 @@ Today the remnants of the Bergolasti people are the trolls of the Shrouded Lands
 * A strangely-erudite troll who goes by the name of Master Var claims to have seen the fall of Bergolast with his own eyes ([43.03](/wiki/43-03/)).
 * The Scroll of Seven Shadows tells of the founding of Bergolast and how the tarrasque was bound ([29.14.24](/wiki/29-14/)).
 * Some say that the fall of Bergolast is responsible for the fact that in these lands it rains but once a year ([29.14.36](/wiki/29-14/)).
+
 ### Hooks:
 * How did the people of Bergolast catch the Tarrasque to begin with?
 * Aside from eating it, what else did they use their endless supply of regenerating Tarrasque for?

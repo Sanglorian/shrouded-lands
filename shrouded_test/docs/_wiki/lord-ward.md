@@ -28,6 +28,7 @@ The Prince solemnly accepted the body, and released Mikhal into his father’s a
 
 ## Connections
 * Lord Ward keeps watch at night for falling stars so that he can recover them before they hatch ([22.10](/wiki/22-10/)).
+
 ## Hooks
 * What did Lord Ward do with his sword when he was young that won him fame?
 * Tell me more about the beautiful daughters!

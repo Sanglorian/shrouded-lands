@@ -26,6 +26,7 @@ Of the nine one is [Asrigh](/wiki/asrigh/), an ancient wind deity and another is
 ### Connections:
 * An ancient prophesy says that if any of the imprisoned gods are freed the [walls of the City](/wiki/city-walls-shuttered/) will sink forever.
 * The old songs that [Naideen](/wiki/lady-naideen/) of Dinivar knows are hymns to one of the imprisoned gods, and the snakes that she visits are holy to that god ([17.11](/wiki/17-11/)).
+
 ### Hooks:
 * Who are the other seven imprisoned gods?
 * What sort of things leak out from the illusionary world that the gods are fighting over?

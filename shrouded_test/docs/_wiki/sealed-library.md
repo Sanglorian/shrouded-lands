@@ -35,6 +35,7 @@ This is, of course, by no means a comprehensive list, and yet even stranger and 
 * The Sealed Library is the holding place of the Contract between the Matriarch of the Temple Indivisible and the High Priestess of the Temple of the Labyrinth ([29.14](/wiki/29-14/).14).
 * *The Breath of Alberon* is one of the many burned books that are summarized in the *Book of a Thousand False Lies* ([17.17](/wiki/17-17/).07).
 * One of the texts that the Library holds concerns [Asrigh](/wiki/asrigh/), an imprisoned wind god ([27.18.01](/wiki/27-18/)).
+
 ### Hooks:
 * Who is Vilenius Arkhaus and what else did he build?
 * Who wrote these books?

@@ -27,6 +27,7 @@ A **cantrip** is a simple spell. In Shuttered, they teach the [Thousand Spells a
 * The *[ever-winding worm](/wiki/ever-winding-worm/)* is a spell, the material component of which is the most perfectly-formed worm to be found within a thirteen-day-old corpse. The worm delivers a very slow death.
 * [Severard's spellbook](/wiki/severard's-spellbook/) includes *Severard’s ferrous imperative*, a ray that draws all magnetic things to the caster; and *piquant premonition,* which is cast over a meal as the caster cooks it. The mental reaction of those who eat it is then known to the caster.
 * The [Whispered Caress](/wiki/whispered-caress/) is a divine spell that causes the caster to grow shadowy, terrifying tentacles.
+
 ## Witch Clan
 The following established clans can cast these spells:
 * [Birls](/wiki/birls/) (*animate wood*)

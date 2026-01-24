@@ -16,6 +16,7 @@ The [Shuttered City](/wiki/shuttered-city/) embassies for three of these nations
 * [Grumluda](/wiki/grumluda/), domain of the Eternal-King-of-All-Orcs and importer of ferocious beasts
 * [Naros](/wiki/naros/) (fallen)
 * [Minotaur nation] (conquered by orcs) ([18.02](/wiki/18-02/))
+
 ## Connections
 * [Embassies for at least some of these nations](/wiki/embassies-(shuttered)/) exist in [Shuttered](/wiki/shuttered/).
 

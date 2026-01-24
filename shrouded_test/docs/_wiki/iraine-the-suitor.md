@@ -25,6 +25,7 @@ Iraine the Suitor has not yet won the hand of a god but she is confident that he
 * Iraine is the elder sister of [Uriza](/wiki/uriza/) the Solemn ([15.24](/wiki/15-24/)).
 * One of Iraine’s creations is a chimera named [Lars](/wiki/lars/) ([29.14.41](/wiki/29-14/)).
 * The wooden gargoyles are carved by [Jassetta Birl](/wiki/jassetta-birl/), a scion of an ancient [Witch Clan](/wiki/the-birls/).
+
 ### Hooks:
 * Does marrying a god really turn you into one? Has anyone done this?
 * Why is it important that Iraine's tower never cast a shadow?

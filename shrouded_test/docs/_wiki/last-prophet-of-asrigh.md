@@ -14,6 +14,7 @@ A revival of the worship of [Asrigh](/wiki/asrigh/) has begun among the farmers 
 
 ## Connection
 * [Wortimer](/wiki/wortimer/) ([26.20.01](/wiki/26-20/)) supports Thoth, hoping he can undermine the Temple Indivisible's influence in the August City.
+
 ## Hooks
 * What undiscovered texts of the Nine lie buried in the Shrouded Lands? How about in the Sealed Library?
 * Can, and more importantly will, Asrigh bring rain back to the Shrouded Lands?

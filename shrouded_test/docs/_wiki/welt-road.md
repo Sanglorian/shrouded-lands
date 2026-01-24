@@ -27,10 +27,12 @@ Elven [Raiders](/wiki/raiders/) wait above the Welt Road to prey on travellers.
 * Olmsted Keep is the destination for many travelling the Welt Road ([31.04](/wiki/31-04/))
 * [Winds](/wiki/winds/)
 * The Order of the Broken Chain has its headquarters in a secret lair somewhere along the road ([27.04](/wiki/27-04/))
+
 ## Connections
 * During the [Lion's Day](/wiki/lion's-day/), the road's stuffy air becomes almost unbreathable.
 * [Drogo](/wiki/drogo/)'s thieves are permitted only to raid caravans travelling the Welt Road.
 * Gnolls were brought in cages along the road for [the Lady](/wiki/the-lady/) ([40.06](/wiki/40-06/))
+
 ## Hooks
 * What are the sounds that come from below?
 * Who are some of the characters who frequent the Welt Road?

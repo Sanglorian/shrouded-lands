@@ -25,6 +25,7 @@ The last great hope of the Ghosta family is young [Esmen](/wiki/esmen-ghosta/), 
 Each family owns a ship that sails the Keening Sea between Shuttered and [Blind Midshotgatepool](/wiki/blind-midshotgatepool/), though the Tenzerlins' galley is superior. Each year they race to be the first to reach the August City and acquire the pick of the [seawig](/wiki/seawig/) catch. So far the Tenzerlins have won three years in a row, carrying home the freshest wigs for sale to eligible young ladies in Shuttered.
 ### Connection:
 * Amanita Tenzerlin’s beautiful new necklace may explode into fireballs at any moment ([03.04.01](/wiki/03-04/)).
+
 ### Hooks:
 * What kind of shroomwine is this, and why is it so valuable?
 * Where is the villa of the Tenzerlins, and what's in it?

@@ -25,6 +25,7 @@ The bards tell many stories of Ulthar the Loved, but none more often than the on
 * Like the [paladins](/wiki/paladins/), the Duke was married to the [Green Lady](/wiki/green-lady/).
 * Ulthar’s horse was named [Telamar](/wiki/telamar/) and can still be found today ([16.16.04](/wiki/16-16/)).
 * Duke Ulthar the Loved was killed by his own son ([15.15](/wiki/15-15/)).
+
 ## Hooks
 * Why was Ulthar called the “Loved?”
 * What role does the Green Lady play in **Thring**? What is the importance of her shawl?

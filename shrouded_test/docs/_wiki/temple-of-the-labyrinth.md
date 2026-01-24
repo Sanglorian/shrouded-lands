@@ -30,6 +30,7 @@ Supplicants may sit in the pews and wait for her to address them, and those she 
 * The High Priestesses of this temple are drawn from a line of gnomes who live in Mazy Hollow ([25.14](/wiki/25-14/)).
 * One of the stores in this quarter is the best place in the City to buy pearls ([29.14.38](/wiki/29-14/)).
 * Deep in the Gnomish Quarter there is an illegal academy where [High Tongue](/wiki/high-tongue/) ([29.14.52](/wiki/29-14/)) verb declensions are spoken of in whispers lest unkind ears hear them.
+
 ### Hooks:
 * What did the last Doge want to know? How about Zeem and Drogo?
 * Why was the Church willing to tolerate the presence of the Temple?

@@ -22,6 +22,7 @@ The city sprawls in miles and miles of tunnels, dead ends, storerooms, crypts, m
 ### Connection:
 * The artwork that can be found here resembles that of the Vale of Tirandelle ([22.00](/wiki/22-00/)).
 * The Old City is part of the [Undercity](/wiki/undercity/).
+
 ### Hooks:
 * Was it [giants](/wiki/giants/) who lived here? What happened to them?
 * What other settlements has Shuttered engulfed?

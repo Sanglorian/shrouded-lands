@@ -34,6 +34,7 @@ The Hoth Achaar orcs have nobles who undergo ritual torture ([26.01](/wiki/26-01
 * The Mountain King is the name of a stone giant king whose people attacked Hoth Akhbir as a result of goblin trickery. He ruled in a hall, also described as a castle.
 * Andara once had kings.
 * Bergolast was ruled by “cruel lords”.
+
 ## Religion
 * The King in Splendour is a god, also described as the Lion in Splendour. His kingly ability to resist temptation is identified in one of his myths.
 * Alberon has been described as the god-king of Shuttered and the Lord of Pain.
@@ -41,6 +42,7 @@ The Hoth Achaar orcs have nobles who undergo ritual torture ([26.01](/wiki/26-01
 * The orcs pay their respects to wooden statues marked as lords of the sky and lords of the underworld.
 * Baron Autumn is a sinister god of Thring.
 * Hypno, the shepherd of all mortal’s dreams, is called the Lord of Sleep.
+
 ## Dwarves
 A King of the Mountains, presumably dwarven, is mentioned in the story of the Nameless. The dwarf lords at the time, the Lords of the Mountains, were tall and fine limbed despite being dwarves. They were “not of the common folk”. They could take the form of ravens, commanded the creation of the five fortresses, and gathered in Hoth Achaar before it was overrun by orcs. The orcs showed the lords mercy, and the commonfolk and burgher dwarves rejected them. The lords are apparently all dead, but are still feared.
 
@@ -60,10 +62,12 @@ Clan Battle Beard had a lord. He-she divided a clan artifact in two and said unt
 * Cyclops lords rule Monatheron.
 * Clan Prenderghast are called the Lords Under the Mountain.
 * Three trolls that harassed Jar Town described the leader among them as their lord.
+
 ## Westmarches
 * The King of Hound’s Heath (a town) is determined by an annual dog fight.
 * Lord Jehan Deismark rules Cragsend.
 * Lord and Lady Delasar lived in their ancestral abode, a sprawling mansion, but have since moved to a castle.
+
 ## The Kingswood
 Tuma Yedaard is the Bloodied King, ruler of the elves of the Kingswood. There’s a reference to the Count of Kingswood ([18.07](/wiki/18-07/)). It is unclear if this refers to the Bloodied King. The Queen Sinister once ruled the elven court alongside the Bloodied King. The queen of fairy struck a deal with the King of Salt and Brine. It is unclear if this refers to the Queen Sinister. The Bloodied King gives titles to the Loyal.
 * An elf lord is instrumental in Lisbet’s Lament.
@@ -87,6 +91,7 @@ The Doge, the ruler of the City, is an elected position.
 * The Traxas were nobles of the City before the Doge exiled them for fear they were all werewolves.
 * Lord and Lady Alevari live in a manse
 * The Tenzerlins are a noble merchant house. Their rivals, the Ghostas, are merchants but do not appear to be nobles.
+
 ## Gore
 All of the Sanguine Lords appear to be identified purely as “lord” or “lady”, which might reflect that they replaced a council of lords - they took the generic title, but the specific titles of each original member of the council were lost.
 
@@ -104,6 +109,7 @@ The nobles of Thring have certain rights, including the right to nominate a cham
 * Only the lords and ladies of the Castle of Dances can pick dancer’s blooms. Baron Hawace is the current ruler of the castle.
 * Lady Anghart, the older daughter, lost her claim to Castle Dreanach when she refused to marry her father’s choice. She has since locked up her sister and reasserted her claim.
 * The Lords of Thring include Count Tyhon, presumed dead (survived by his wife Lady Tyhon), and the Lord of Dinivar. The Lord of Dinivar’s daughter is Lady Naideen.
+
 ## Freeholds
 A variety of claims to nobility exist here - from those houses that simply declare themselves ennobled to those who purchase titles from the Duke of Thring. The Blackwort brothers purchased citizens’ charters from Shuttered, but it is unclear if that also makes them nobles of the City (or makes them able to become nobles of the City).
 * The head of Ettin Castle is a lord and former noble of Shuttered. He plans to declare himself King of the Giants.
@@ -112,6 +118,7 @@ A variety of claims to nobility exist here - from those houses that simply decla
 * The House of Verlime was a noble house when it held Verlime Citadel, but may not be any more. At the time, Count Ota Verlime was known as the Iron Count.
 * The Furhoofs bought titles from the Duchy of Thring. They follow patrilineal descent (in apparent contradiction of the Law of Love) - which is of concern because the heir apparent is deranged.
 * Until the orcs burned him out, there was a lord in Puce Keep.
+
 ## Lands of the Night Cattle
 Lord Olmsted rules Olmsted keep. He is said to be distantly related to the Bloodied King
 

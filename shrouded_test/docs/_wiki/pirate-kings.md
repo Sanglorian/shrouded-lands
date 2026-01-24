@@ -25,6 +25,7 @@ In the distant past, trade and diplomatic missions have been attempted, but the 
 ## Pirate Kings
 * [The King of Salt and Brine](/wiki/the-king-of-salt-and-brine/), a great wereshark.
 * Udenyr, the king of [Skullreach](/wiki/skullreach/).
+
 ## Features of the Pirate Kings
 * [Skullreach](/wiki/skullreach/) is the most dreaded Thunderhead.
 
@@ -32,6 +33,7 @@ In the distant past, trade and diplomatic missions have been attempted, but the 
 * [00.02.01](/wiki/00-02/) (Skullreach): the greatest of the cloud castles is built on what appears to be an enormous blue dragon’s skull.
 * [00.02.02](/wiki/00-02/) (The Mage Slaves of Udenyr): is actually a dryad, contrary to rumors.
 * [00.02.03](/wiki/00-02/) (The Traveller’s Journal): tells of a journey through this hex.
+
 ### Connections:
 * A ways up the coast lies a strange storm in which the clouds giants among the Pirate Kings may be transformed into storm giants ([01.04](/wiki/01-04/)).
 * One of the Pirate Kings attempted to raid the nests of the Kagu ([04.00](/wiki/04-00/)) and instead lost his castle.

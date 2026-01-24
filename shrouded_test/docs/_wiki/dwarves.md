@@ -13,6 +13,7 @@ media: []
 ## Places
 * Titan's Skull ([33.00](/wiki/33-00/))
 * The five [dwarf fortresses](/wiki/dwarf-fortresses/)
+
 ## Ten Things of Old
 Though the dwarves of Titan's Skull are decadent, even in these days there are things of old that they remember. Things that they hold true to:
 # The Hoard will have its due.

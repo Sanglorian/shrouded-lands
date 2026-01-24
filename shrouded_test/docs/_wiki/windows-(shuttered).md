@@ -29,9 +29,11 @@ Nobody has ever been able to open the Shuttered Windows since that day. However,
 * The dwarves of Nororak want to reopen the closed windows ([29.24](/wiki/29-24/)).
 * When the Windows slammed shut the face of [Ghar Zaghoan](/wiki/ghar-zaghoan/) was caught ([29.14.43](/wiki/29-14/)).
 * When the windows closed a brotherhood of fiendslayers was stranded in Shuttered ([Erebus](/wiki/erebus/)).
+
 ### Hooks:
 * The strange roads can lead you places if you know the way. What happens if you don't know the way, or you get lost?
 * Is there a reliable way to access the strange roads anymore? Are there any other places besides the Shuttered City where you can get onto the roads?
+
 ## A Vision of the Distant Past
 ![](/media/Shutt-wind.png)Connects to: [13.08](/wiki/13-08/), [17.17.05](/wiki/17-17/), [19.01](/wiki/19-01/), [27.12](/wiki/27-12/), [29.14.13](/wiki/29-14/) and [29.14.20](/wiki/29-14/).
 
@@ -47,6 +49,7 @@ By the time the war was over and the Shutters were closed, the people of the cit
 * The Lord of Pain enjoyed throwing his enemies in extradimensional prisons from which things occasionally emerge ([27.12](/wiki/27-12/)). This might be where kobolds come from.
 * The Lord of Pain exiled Heartwright to the north so that she could attempt to prove her claims to be able to rule the City better than him on a somewhat smaller scale ([19.01](/wiki/19-01/)).
 * A heretical document claims that Alberon will be born in this age and travel back in time to rule ([17.17](/wiki/17-17/).05).
+
 ### Hooks:
 * Are there any leftovers from that time? Descendants of Zamorqy, trapped planar travellers, that sort of thing?
 * Why was it inevitable that Alberon would go to war once he became a god?

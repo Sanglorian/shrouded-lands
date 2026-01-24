@@ -11,6 +11,7 @@ categories:
 media: []
 ---
 * *Inspiration:** *The Invention of Scotland*
+
 ## Sosaria the Brave
 The civic anthem of [Sosaria](/wiki/sosaria/), *Sosaria the Brave*, is remarkable both for its content and the response that it provokes from Sosarians.
 

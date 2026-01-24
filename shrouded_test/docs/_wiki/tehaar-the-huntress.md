@@ -25,6 +25,7 @@ Although Tehaar ranges widely across the Kingswood in search of intruders, where
 ### Connections:
 * Tehaar’s nemesis is [Brigadier Kalas Montra-brey](/wiki/brigadier-kalas-montra-brey/) ([30.12](/wiki/30-12/).01).
 * A stag that she once rode ran away and can now be found far to the southwest ([11.15](/wiki/11-15/)).
+
 ### Hook:
 * Who else has run into Tehaar? Did they live?
 

@@ -11,6 +11,7 @@ categories:
 media: []
 ---
 * *Spy** can describe someone who spies upon someone as a one-off, as well as a trained professional. 
+
 ## Spies
 * [Quicklings](/wiki/quicklings/) are the spies of the Kingswood, selling their services to the highest bidder.
 * Some [Mirdenlows](/wiki/mirdenlows/) work as spies for [Sanguine Lords](/wiki/sanguine-lords/). [Sheemie Mirdenlow](/wiki/sheemie-mirdenlow/) spies for [Lady Natala](/wiki/lady-natala/).

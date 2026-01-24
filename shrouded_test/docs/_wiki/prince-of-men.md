@@ -49,6 +49,7 @@ mankind to his will.
 ### Connection:
 * A ruin of the Imperium Undying can be found east of the City of Shuttered Windows ([39.12](/wiki/39-12/)).
 * For hints about the ancient religion of the Prince of Men, see ([19.31](/wiki/19-31/).03).
+
 ### Hooks:
 * What did Sabrek get wrong?
 * Where is [Ungolath](/wiki/ungolath/)?

@@ -22,6 +22,7 @@ There are Scarecrows’ nests even in the Kingswood. Each has a single entrance 
 ### Connections
 * The Scarecrows are concerned about the Skinscratch Murders ([02.11.02](/wiki/02-11/)).
 * A Scarecrow named Anyissa has taken a golden egg from one of the treasure stashes of a dragon named Celadon ([10.12](/wiki/10-12/)).
+
 ### Hooks
 * What other groups recognise travellers’ marks?
 * What are travellers’ marks like?

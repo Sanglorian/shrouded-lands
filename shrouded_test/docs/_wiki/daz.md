@@ -23,6 +23,7 @@ Though it is rarely spoken of in Thring, the truth is that the Daz and other pre
 * Where were the Daz temporarily resettled, and what's there now?
 * Are there any *palladhyu* still around today?
 * Who or what was Melgerez? Was she really a goddess or some sort of lake-dwelling abomination?
+
 ### Connections
 * The Daz scratched a chalk horse into the grass north of here ([18.13](/wiki/18-13/)).
 

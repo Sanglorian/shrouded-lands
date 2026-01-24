@@ -15,14 +15,17 @@ For those too poor to afford a tomb along the White Road, the Temple Indivisible
 ### Features:
 * The Restless Dead: the commoners whose bones were ground up to pave the White Road do not rest easy.
 * The White Road is a vast undead being that is kept chained by the [Necromantic Office](/wiki/necromantic-office/).
+
 ### Connections:
 * [Anastasia](/wiki/anastasia/), the self-styled Princess of Seers plans to wake the undead of the White Road ([23.11](/wiki/23-11/).01). This location is mentioned in a strange journal which discusses why it rains but once a year.
 * One of the most famous tombs that line the road here is that of Doge [Simone the Fowl](/wiki/simone-the-fowl/).
+
 ### Hooks:
 * Why is it "wise" to not bury bodies within the City?
 * Why do the citizens of Shuttered care about having people stop at and read the carvings on their tombs?
 * Any interesting undead about?
 * Boys from the village of Hostwick ([39.14](/wiki/39-14/)) who develop the proper signs after eating strange catterpillars are castrated and sold to the Necromantic Office. Why?
+
 ## The Restless Dead
 ![](/media/291302.png)Connects to: [16.16.04](/wiki/16-16/), [26.13](/wiki/26-13/) and the City of Shuttered Windows
 
@@ -35,6 +38,7 @@ Of course, no one is more anonymous than yet another corpse in the big city, and
 Shuttered City funerals are festive, but not celebrations of the person’s life: celebrations encourage rose-coloured glasses, exaggerations and white lies. In fact, no one receives louder applause at a funeral than a person’s worst enemy who, it is believed, will describe one’s faults best and most memorably of all.
 ### Connection:
 * This theorizing appears to be suppored by the power of the White Road itself.
+
 ### Hooks:
 * What happens if you mix the bones of humans/talking animals and other animals?
 * The opposite effect seems to function for non-talking animals—the warhorses are all storied and famed. Or is there something else going on here?
@@ -57,6 +61,7 @@ This is the source of the winds that blow through the caves below the aptly-name
 The fames [windseers](/wiki/windseers/) of Winds are those who are able to recognize the winds for what they are and listen to the voices of the dead and glean wisdom from it, hopefully without going completely insane.
 ### Connection:
 * An exiled necromancer named [Ranmore](/wiki/ranmore/) has plans to raise the White Road ([24.18](/wiki/24-18/)).
+
 ### Hooks:
 * Have the spells binding the White Road ever been lifted to, for example, eat an invading army marching down the road?
 

@@ -22,6 +22,7 @@ If Ledo is ever killed, it will be no great loss. It will only take his father a
 ### Connection:
 * [Egil Longspear](/wiki/egil-longspear/) offended Cerelaine by rescuing a dozen human children that had been kidnapped by the elf.
 * Egil called Longspear when his signature weapon was a bastard sword because he was a son of [Hardrald Longspear](/wiki/hardrald-longspear/), who fought with a longspear.
+
 ### Hooks:
 * Who is the avenging elf anyway? Why doesn't he kill people himself?
 * What sort of training does Ledo have? Who else has he killed?

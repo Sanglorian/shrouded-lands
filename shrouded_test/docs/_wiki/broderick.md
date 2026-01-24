@@ -17,6 +17,7 @@ And the heart's blood of the dragon entered his mouth and unstopped his ears so 
 
 The traveled swiftly to Castle Tarengael *([16.16](/wiki/16-16/))* and cut down his father, but his father's blood washed away that of the dragon and he regretted what he had done and set the sword upon himself. His sister mourned them both and in the long years of her life spent much time overseeing the construction of a tomb so that the Duke and his son could be united in death as they had not in life.
 * *The Sepulchre of the Sword *'is the fruit of her labours; it also contains the animated sword Caledbrand.
+
 #### Connections:
 * In the dwarven monastery *([03.04](/wiki/03-04/))'' there are also orange gems related to fire. Is there a connection?
 * The paladin Sir Waine wielded Caledbrand for a day.

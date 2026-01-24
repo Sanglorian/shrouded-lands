@@ -22,6 +22,7 @@ These orcs have no gift for farming and are mediocre hunters, but the Weeper's d
 ### Connections
 * Skullcrusher orcs are currently at work building Farnsfall for its new Baron whose daughter is considering running off with the orcs ([11.03](/wiki/11-03/)).
 * One of the members of this tribe drowned in far-off Thring ([16.16.06](/wiki/16-16/)).
+
 ### Hooks
 * If the Skullcrusher Orcs are pacifists (at least by orcish standards) why are they called "Skullcrusher?”
 * Is the old clan chief still alive? What is Goram planning next?

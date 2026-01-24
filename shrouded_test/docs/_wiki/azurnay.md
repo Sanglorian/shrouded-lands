@@ -22,6 +22,7 @@ The Ring of Fire, a tavern owned by [Hairy Jack](/wiki/hairy-jack/)'s ([37.21](/
 ### Connections:
 * The city watch trains blunt-toothed [pigdogs](/wiki/pigdogs/) ([27.27](/wiki/27-27/)) to catch troublemakers they can't keep up with.
 * Some [Backbiter gnomes](/wiki/backbiters/) ([27.16](/wiki/27-16/)) have settled here.
+
 ### Hooks:
 * Who built Azurney's waterworks?
 * Who or what is the Chain Gang's biggest rival?

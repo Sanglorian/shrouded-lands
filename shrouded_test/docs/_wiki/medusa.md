@@ -24,6 +24,7 @@ The girl within the mass of snakes may speak cryptically, make extravagant threa
 This is rather painful for the new host.
 ### Connection:
 * The medusa was used by the blind Doge against the [centaurs](/wiki/centaurs/) of the [Burning Lands](/wiki/burning-lands/) ([40.20](/wiki/40-20/)).
+
 ### Hooks:
 * Where did the men of Shuttered get this parasitic medusa from? Are there more?
 * What happened when it got loose in the undercity?

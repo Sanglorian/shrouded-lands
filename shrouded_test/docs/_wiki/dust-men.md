@@ -25,6 +25,7 @@ A number of burglars have certainly made good use of the [Pilgrim's Way](/wiki/p
 One weakness the Dust Men have is that they cannot jump from shadow to shadow if a [gnoll](/wiki/gnolls/) is howling nearby. They say that they are able to dream with their eyes wide open but that gnollish singing is enough to shake a man out of any dream, no matter how deep. This may explain the fact that gnolls have been able to sack Pilgrim’s Spire several times.
 ### Connection:
 * The Dust Men have won some agility-boosting dancer’s bloom ([15.18](/wiki/15-18/)).
+
 ### Hooks:
 * Tell me about some interesting stunts that Dust Men have pulled.
 * How many Dust Men actually take the sect’s ideology seriously?

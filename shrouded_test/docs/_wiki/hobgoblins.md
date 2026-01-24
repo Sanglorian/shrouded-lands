@@ -16,6 +16,7 @@ Hobgoblins or ‘’’hobs’’’ lack whatever it is that binds goblins to o
 ## Connections
 * Jackalweres in the ruins beneath [Hyfalls](/wiki/hyfalls/) eat hobgoblin flesh and are mutated by it in unusual ways.
 * Thad Breen ([15.04](/wiki/15-04/))  wrongfully blames the hobgoblins of [16.04](/wiki/16-04/) for the death of a farmhand.
+
 ## Settlements
 * Many live in the Hobgoblin Caves ([16.04](/wiki/16-04/)), and mostly mostly keep the peace with the humans that live south of here. They attend an annual market in which they trade their shroomwine and shoes, but during lean times they have been known to sneak down towards the lowland farms to rustle ostriches. They avoid killing humans, but it would only take one bloodthirsty band of adventurers to change that…
 * Hobgoblins are the long-running inhabitants of Those Vexatious Caves ([14.02](/wiki/14-02/)), but have been forced out of each part of the cave system in turn by new arrivals. They might leave for elsewhere in the Grey Mountains if they exhaust their supply of [shroom wine](/wiki/shroom-wine/).

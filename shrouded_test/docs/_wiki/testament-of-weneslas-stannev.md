@@ -16,6 +16,7 @@ media: []
 Now, so sayeth Weneslas, each night the Sun must become Flesh and descend into the mortal world, which is the world of sin. As He passes in His material body through the underworld, the nameless queen tempts him with lust, fine food and wine, enchanting music, and other pleasures of the flesh unknown to man. Each night he remains strong until the morning comes, and His flesh is immolated once more into the transcendent body of the Sun. But in the depths of winter, when the evil of the mortal world grows strongest, the Lion is tempted to remain with his queen, and only by the [Ritual of the Horn of Morning](/wiki/ritual-of-the-horn-of-morning/) is he returned to the sky.
 ### Connections
 * The [Chant of Morning](/wiki/chant-of-morning/) gives a similar but more detailed account.
+
 ### Hooks:
 * How much is true of Weneslas' account?
 * Did Weneslas write any other prophecies or visions?

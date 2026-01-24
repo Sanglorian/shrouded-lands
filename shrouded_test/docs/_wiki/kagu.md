@@ -16,6 +16,7 @@ High in their mountain nests, the Aarakocra possess a single enormous [ruby](/wi
 ## Connections
 * The Doge of the City of Shuttered Windows keeps a band of aarakocra as slaves and other notables of that city might be interested in procuring some aarakocra slaves of their own ([29.14](/wiki/29-14/).02)
 * They steal lambs from mountain shepherds ([02.04](/wiki/02-04/)).
+
 ## Hooks
 * What will really happen if the aarakocras' ruby is taken?
 * How did the aarakocra defeat a storm giant?

@@ -15,6 +15,7 @@ media: []
 * *Region:** [Hinterlands of Blindmidshotgatepool](/wiki/hinterlands-of-blindmidshotgatepool/)
 
 * *Hex: **[26.20](/wiki/26-20/)
+
 ## The August City of Blind Midshotgatepool
 ![](/media/SL2.png)Connects to: [22.18](/wiki/22-18/), [23.19](/wiki/23-19/), [24.18](/wiki/24-18/), [32.32](/wiki/32-32/), [39.31](/wiki/39-31/) and the City of Shuttered Windows and the Duchy of Thring.
 
@@ -105,6 +106,7 @@ This road is a relic of the time before the war with Shuttered, when the August 
 Not coincidentally, this road ends at the old mansion of the [Yaboon](/wiki/yaboons/) family, who for over a century have been known as "wizards of bureaucracy" for their almost supernatural ability to manipulate officials and bend civil ordinances to their own ends. The current owner of the mansion, Dabbon Yaboon, frequently offers his services as a consultant to Wortimer the Scrivener ([26.20.01](/wiki/26-20/)). It is possible that this relationship is the only reason that the thieves have not already stolen the entire road.
 ### Connection:
 * Henry Yaboon ([26.20.08](/wiki/26-20/)) is perhaps the most powerful member of this family and he has carved out his own sphere of influence in the city.
+
 ### Hooks:
 * Why does raffrock cause wailing? Where can raffrock be mined, and is it good for anything?
 * How do the Yaboons manipulate bureaucracies? Are they a Mountain Clan of the Barrier Range, or just really good at what they do?
@@ -118,6 +120,7 @@ This desecration would not go unpunished by the Dust Walkers, who consider the w
 * What punishment did the Dust Walkers visit upon Hazad Kaldun?
 * Where is the Diadem now?
 * What will happen if the jewel is returned to its proper place? (Or perhaps: what will happen if it isn't?)
+
 ## The Houseboats of the Five Towns
 ![](/media/SL8.png)Hex [26.20.05](/wiki/26-20/)
 

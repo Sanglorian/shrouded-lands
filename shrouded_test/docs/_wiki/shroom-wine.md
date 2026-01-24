@@ -18,12 +18,14 @@ Most shroomwine that gets exported is a generic product containing a mixture of 
 * Green shrooms, which allow one to converse with a race of invisible beings commonly described as 'wax-based elves' (much debate goes on over whether these beings are real or illusionary).
 * Purple yellowdot shrooms, which cause everyone's faces to appear swapped around (provides hours of entertainment for hobgoblin children).
 * White ethereal shrooms. These grow only in the deepest parts of the caverns. It is strictly forbidden to make shroomwine out of them. On this subject the hobgoblin elders have only this to say: "Last time hob made wine from the white mushroom, [Nibbw](/wiki/nibbw/) was released into the world."
+
 ### Connections
 * A related colony of hobgoblins lives not so far away, it believes itself to be cursed ([14.02](/wiki/14-02/)).
 * A while back the three [Ghosta brothers](/wiki/ghostas/) stole a caravan full of shroomwine ([29.14](/wiki/29-14/).27).
 * The last lighthouse keeper ([46.10](/wiki/46-10/)) was gifted with shroom wine by an elflady.
 * Huge amounts of shroom wine are sometimes recommended for those stung by the [bogswine](/wiki/bogswine/)
 * The [snickersnees](/wiki/snickersnees/) drink shroomwine mixed with [Tarrasque](/wiki/tarrasque/) blood and then fight in a seemingly wild but very accurate style.
+
 ### Hooks:
 * Does red shroomwine really grant the gift of prophecy?
 * Are the wax-based elves real or merely hallucinations?

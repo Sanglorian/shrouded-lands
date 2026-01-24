@@ -27,10 +27,12 @@ Dragons react variously to their accidental offspring. Some file them away in th
 * This may explain the behavior of the kobolds of the Nameless Mountain ([13.24](/wiki/13-24/)). Perhaps the dragon will try to eat them when it wakes to reclaim its lost memories.
 * The kobolds of Celadon congregate around his hidden treasure stashes ([10.12](/wiki/10-12/)).
 * It is rare for kobolds to migrate in large numbers, but they have done so to the World's Edge ([45.09](/wiki/45-09/)).
+
 ### Hooks
 * What are the father of all dragons and the darkness behind the moon?
 * Kobolds often appear in the dreams of others. What effects does this have?
 * Who are some famous kobolds? What draconic memories are they composed of?
+
 ## Kobold names
 As everyone knows, kobolds are the things that dragons have forgotten and so they name themselves. If you want to randomly generate the meanings of kobold names translated from dragonic consult the follow table:
 # The memory of burning cows

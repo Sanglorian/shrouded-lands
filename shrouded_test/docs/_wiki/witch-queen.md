@@ -21,6 +21,7 @@ By some accounts, the Witch Queen is a beautiful sorceress who lives in five tow
 #### Connections
 * One knight who returned ashen-faced from an encounter with the Witch Queen was exiled after he hacked to pieces the statue of the [Green Lady](/wiki/green-lady/) in the [Duke](/wiki/duke-of-thring/)’s private chapel, screaming all the while that it depicted not Her, but the Witch Queen instead.
 * The [witch-hounds](/wiki/witch-hounds/) number among the Witch Queen’s servants, as do the [cauldronborn](/wiki/cauldronborn/).
+
 #### Hooks
 * Why did the Witch Queen rouse the clans?
 * Does she belong to one of the clans?

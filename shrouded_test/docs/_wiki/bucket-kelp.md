@@ -18,6 +18,7 @@ Bucket kelp is a mildly hallucinogenic sea plant endemic to the Sea of Typhoons,
 Bucket kelp is outlawed in Jahur because its primary harvesters are [octoids](/wiki/octoids/). Despite the ban, it is easy to smuggle in because of its popularity with dockworkers. Smugglers often store it in buckets fastened to bottom of ships, which gives the kelp its street name. In the last few months, unlucky chewers have bought bad batches that induce terrifying hallucinations. Many believe this is the work of the [Viceroys](/wiki/viceroys/), who have tried for years to cut consumption. Others blame a heretical cult of [Iano](/wiki/iano/) called the [Holy Fools](/wiki/holy-fools/).
 ## Connection
 * The [Alleys of the Woman in Red](/wiki/alleys-of-the-woman-in-red/) are a popular hangout for bucket kelp chewers and heretics.
+
 ## Hooks
 * Bucket kelp is becoming quite chic in many of [Shuttered](/wiki/shuttered/)'s salons. How does it get that far north?
 * Does the kelp aid in spell casting or preparation?

@@ -43,6 +43,7 @@ Wizards and mages are associated with a number of practices:
 * **Laws of reality:** As mages grow in power, the laws of reality twist to their whims. Despite their power, their bodies are vulnerable to the passage of time. Trying to achieve immortality is a particular goal of several wizards.
 * **Wizard’s towers:** As well as Severard’s, there is an abandoned wizard tower in [07.33](/wiki/07-33/).
 * **Familiars:** Drunk giant bat Hiccup wants to be a wizard’s familiar ([12.09](/wiki/12-09/)). 
+
 ## The practice of spellcasting
 Some wizards reference spellbooks, but it does not appear that all do. Snakes are books, and some in the Bone Field are spellbooks. Carvings in the Vale of Tirandelle seem to be spell formulae in an ancient script. The Arch-Lich of Naros had a spellbook, now in the Sealed Library. 
 
@@ -60,10 +61,12 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * The Dust Walkers have a hallucinogenic brew that makes illusions affect the drinker as if they were real.
 * Illusionists often have trouble getting the toes just right, which is why gnomes wear sandals.
 * Pointers are gnomes who are skilled at checking for illusions. 
+
 ## Types
 ### Necromancers
 * The necromancers of the Necromantic Office. They are mostly eunuchs and have some civil responsibilities: regulating proper corpse disposal and prosecuting those who disturb the dead without proper licences.
 * Windseers of Winds learned information from listening to screams echoing through caverns beneath the city, actually the collective voice of the dead of the White Road. It is unclear if this is considered necromancy, though it involves learning from the dead. 
+
 ### Wizards and mages
 * There are jackelwere mages who are armed with engraved bronze discs and who cast the gibberish hex ([51.17](/wiki/51-17/)).
 * The pathfinder-mages can unbind and redirect the paths to and from the Holt of the Bloodied King ([22.04](/wiki/22-04/)).
@@ -74,18 +77,23 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Urban wizards live on Sladder.
 * Jahur’s Imperial Academy of Thaumaturgy used to host sages and wizards, but now mostly astrologers, alchemists and hexers.
 * Hedge-wizards exist. 
+
 ### Thringish traditions
 * The priests of Baron Autumn are described as sorcerers. They can create sack children who protect the sorcerers and assist them with their work.
 * White wizards sometimes delight in animating the victims of black magic as sack children so they can slay their murderer. 
+
 ### Bloodline sorcerers
 * Dragonblooded individuals can cast spells and create other effects, but as their willpower is sapped their control over their form wavers and they become more beastly and draconic.
 * Tieflings make good sorcerers. 
+
 ### Illusionists
 * The illusionists of the Indigo Academy are a collective of wizards who pose as ordinary citizens.
 * Ghouls use illusions.
+
 ### Other
 * The elementalists and alchemists who make up the Idjits can harness electricity to create hybrid creatures.
 * The high priest of Alberon commanded sorcerer-assassins, the origin of the Temple Invisible. 
+
 ## Spellcasters
 ### Wizards and mages
 : See [Wizards](/wiki/wizards/) 
@@ -101,6 +109,7 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Cerelaine has a book of spells.
 * The frogs that make up the Spawn can cast spells - either many cantrips or a single powerful spell when they share a voice.
 * Mabalaquain of Midshotgatepool's thieves' guild is an enchanter of some minor skill. 
+
 ## Spells and magic
 ### Specific spells
 : See [Spells](/wiki/spells/)
@@ -113,10 +122,12 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * The Lady created the ettin and Zor.
 * Lord Goss’ kept sorcerer draws life from the trees of the Kingswood and crafts new life out of the limbs and organs of the creatures that Lord Goss brings back from his hunts. The resulting servants are quiet and efficient.
 * Tiamat Reborn and his followers have gathered a menagerie of creatures twisted through exposure to Tiamat’s blood. 
+
 ### Immortality and souls
 * Severard uses his giant bee honey to preserve his body and his mind.
 * Imorcar has cloned himself many times, each time the result is slightly more disturbed.
 * Many former necromancers of the Office return as ghosts. 
+
 ### Necromancy
 * Other than immortality*
 * Necromancer of the Office keep the White Road quiet, ensure that the dead do not walk without permission, animate the corpses of prisoners and stitch together flesh golems.
@@ -131,16 +142,19 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Minotaur slaves who died in Grumluda were reanimated after death.
 * Hastra and her coven burn essence of agony, refined suffering itself. It draws out tortured souls and soothes sadomasochists. The essence aids their seances, seeking blackmail material. If the fumes were to escape, they would animate piles of bones.
 * Necromancers use bone shards of Tiamat for dark purposes. 
+
 ### Illusion
 * Unwerth is himself many illusions layered on a giant toad by the Indigo Academy.
 * Illusionists of the Indigo Academy create the illusion of drunkenness (or harder drugs) for those who drink water. Do not mix “cocktails”.
 * Ghouls use illusions to lure prey into the lands where they dwell.
 * Cerelaine has water elementals guard his spellbook. He cast extensive illusions on the Timberlode to convince its human inhabitants that they are elves.
+
 ### Magic items
 * Arkhaus created an enormous soulstone throne for the Dukes of Thring.
 * The Knights of the Cudgel bear enchanted cudgels.
 * Wizards and artificers use gems from the Dismal Mine to create potent magic items.
 * Potion-making was taught at the Imperial Academy of Thaumaturgy, but the introduction of quicksilver caused serious problems. 
+
 ### Using equipment
 * The Honorable Society of Engineers uses mud with faint magic resonance to date pieces of construction based on how the magic has faded.
 * The Viceroys of Jahur have a teleportation circle.
@@ -151,6 +165,7 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * A hero was placed in a sorcerous mechanism that produces poor-quality clones of him.
 * Alceron gathered the charcoal left from burning Ulmo to use for his own purposes.
 * Ground bone shards can be used instead of ink to record magical formulae. Some spells can only be recorded this way.  
+
 ### Other
 * Dormond managed to communicate with a sphere of annihilation.
 * Dispelling hostile magic is described as something not all Office students learn.

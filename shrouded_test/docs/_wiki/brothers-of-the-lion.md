@@ -16,6 +16,7 @@ The knight with the greatest prowess receives the lion he subdued as well as the
 * [Sister Nadela](/wiki/sister-nadela/) ([18.19](/wiki/18-19/)) is the most famous woman who have won a lion as her own.
 * A Thringman named [Sir Huw](/wiki/sir-huw/) was one of those who lost his contest with a lion. He now roams with the lion prides with a nymph at his side *([13.24](/wiki/13-24/) *and* [18.28](/wiki/18-28/))*.
 * One of the Brothers of the Lion has been killed for the crimes of his grandfather *([23.11.03](/wiki/23-11/)).*
+
 #### Hooks
 * How did the **Dukes of Thring** make a pact with the lion prides?
 * What are some effective lion-wrestling techniques? Who teaches them?

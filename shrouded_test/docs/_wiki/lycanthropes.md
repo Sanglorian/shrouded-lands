@@ -14,6 +14,7 @@ media: []
 ## General
 * Anyone who eats a moon nut smells delicious to lycanthropes ([50.02](/wiki/50-02/)).
 * Dew from the [flowers of the moon](/wiki/flowers-of-the-moon/) can trigger lycanthropy.
+
 ## Werewolves
 Werewolves suffer from the worst type of lychanthropy. While other were-creatures maintain some control of their actions when they change forms, werewolves become berserk monsters during full moons.
 * The Werewolf Nuns of St. Birgit ([10.17](/wiki/10-17/)).

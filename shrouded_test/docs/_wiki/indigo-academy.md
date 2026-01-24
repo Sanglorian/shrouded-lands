@@ -17,6 +17,7 @@ The Academy is beloved by Ninbolm's common folk for brightening their lives. But
 #### Connection
 * One of the Academy’s greatest pranks is the creation of [Unwerth the Immense](/wiki/unwerth-the-immense/) ([03.26](/wiki/03-26/)).
 * It also runs the [Empty Drinkhall](/wiki/empty-drinkhall/), an illusory substitute for alcohol.
+
 #### Hooks
 * Does the Indigo Academy have a ringleader? Who are its prominent members?
 * What have been some of the Indigo Academy's most epic pranks?

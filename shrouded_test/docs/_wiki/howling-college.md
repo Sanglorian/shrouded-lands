@@ -27,6 +27,7 @@ This is done with the aid of a pointing bone, a length of sharpened bone cut fro
 * The [western gnolls](/wiki/western-gnolls/) of Abbalah-doon have their own musical traditions ([15.28](/wiki/15-28/)).
 * The gnolls of the Howling College collect whistling reeds to be heard by [lizardmen](/wiki/lizardmen/) ([50.26](/wiki/50-26/)).
 * Viceroy Orhan used a gnoll of the college to sing souls into his vat-born wives.
+
 ### Hooks:
 * Why was the kharghaha abandoned in the first place?
 * Tell me about a famous gnollish song-tale. Is it a Lowing, a Whooping or a Giggling?

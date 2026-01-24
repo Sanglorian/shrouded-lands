@@ -17,9 +17,11 @@ Prisoners are left with only a dagger, sturdy boots, baggy trousers and a tunic.
 Officially, the pit is no longer used. In practice, nobles find it a convenient way to dispose of their enemies without violating the taboo on committing murder within the Doge's palace.
 ### Connections
 * It seems that someone replaces the rubies that are taken from the pit ([29.14.23](/wiki/29-14/)).
+
 ### Hooks:
 * What is the provenance of the rubies in the pit viper's eyes? Do they have any effect? Where did the rest of the treasure come from?
 * Who else has been thrown into the pit? Are they still alive?
+
 ## The Rubies of the Traitors' Pit
 !['mari pasand', Kaushikgediya (CC BY-SA 3.0 Unported)](/media/Best3DWallpaper.jpg)Enough have been thrown down the Traitors' Pit that some have been skilled or lucky enough to escape, taking the rubies with them. This means that someone has the unenviable task of replacing the ruby eyes and good eye-grade rubies are hard to come by. The current pair were pried from an idol that sat atop the Black Ziggurat ([18.26](/wiki/18-26/)) soon after its appearance and were sold to Shuttered.
 

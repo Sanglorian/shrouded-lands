@@ -27,6 +27,7 @@ Crowfolk are clever and learn quickly. Some have fallen in with the [thieves‘ 
 * The crowfolk have been blamed for the skinscratch murders ([02.11](/wiki/02-11/).02).
 * The [Shuttered City](/wiki/shuttered-city/) tavern known as [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) employs crowfolk to keep an eye out for thieves.
 * One of these ratters is currently adventuring with the [Browncloaks](/wiki/browncloaks/).![](/media/SL10.jpg)
+
 ### Hooks:
 * What plots are the crowfolk brewing now?
 

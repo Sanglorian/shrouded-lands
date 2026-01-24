@@ -28,6 +28,7 @@ The current fashion is for the cyclopses of the city to smear their hair with nu
 ### Connections:
 * Drogo the Baldfaced ([29.01](/wiki/29-01/)) was able to rustle some moon-horned cattle under cover of night, only to find that all of the cows he had stolen were female or steers. His attempts to get his hands on a bull or crossbreed them with other cattle have not gone well.
 * Thorek Ironhide is served by an exiled cyclops who has assassinated several elder members of the council that stood in the Winterjarl's way, thanks to his knowledge of secrets forgotten by the younger races ([14.01](/wiki/14-01/)).
+
 ### Hooks:
 * Is there anything to tell about old Andara that now lies under the waves of the Keening Sea? How did it spread "ecstasy and terror?"
 * What are the engines of wonder?

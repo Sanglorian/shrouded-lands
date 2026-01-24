@@ -19,6 +19,7 @@ Although their ranks are identically uniformed in their distinct and terrifying 
 Though legions of the Canes Sanguis guard the [Steeple](/wiki/steeple-of-alberon/) and the Matriarch in the city, and others enact the Temple’s will wherever the City of Shuttered Windows holds power, the headquarters of the Order ('The Kennel') lie just outside the City, nestled in the mountains of the Barrier Range ([26.15](/wiki/26-15/))).
 ## Connections
 * The Canes Sanguis claimed ownership of Loguiso’s Wall after the armies of the City abandoned ([27.16](/wiki/27-16/)).
+
 ## Hooks
 * Where does the name ‘Canes Sanguis’ and the Order’s canine theme come from, what does it have to do Alberon, and how did these holy knights come to serve the Temple Indivisible?
 * Why spears?

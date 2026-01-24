@@ -14,6 +14,7 @@ media: []
 ## Extant members
 ![The Jester Prince; Alexander Litovchenko](/media/Alexander_Litovchenko_002.jpg)
 * [The Jester Prince](/wiki/the-jester-prince/)
+
 ## High Kings of Gore
 ### Crowning
 The mysterious humans who settled this land before Gore considered Fool’s Court ([05.18](/wiki/05-18/)) a very sacred site. Although Gore is culturally quite different than their predecessors, the kings considered themselves heirs of the ancient race. Ardumar, the first king of Gore, discovered the rusted High King's Crown ([14.27](/wiki/14-27/).01) in the center of the Fools' Court after a vision in a dream. Every king elected after him wore it to honor the old gods. The kings were chosen for their vices rather than their virtues due to the personality-changing nature of the crown. Ambitious lords acted uncharacteristically rakish and immoral in hope of being chosen.
@@ -22,6 +23,7 @@ For an age, peasant children crowned every High King of Gore in Fool’s Court.
 #### Hooks
 * Why did peasant children crown the kings?
 * Why did the old kings revere an ancient, little-known civilization and their gods so much?
+
 ### Fall of the Falcon Throne
 ![Turien, the King of Fools](/media/David_Teniers_(II)_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [The Tarrasque](/wiki/the-tarrasque/) of Bergolast ([38.28](/wiki/38-28/)) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
 
@@ -39,6 +41,7 @@ As for the Lords Sanguine, they soon fell to fighting among themselves and the l
 * The old crown of the High Kings (actually a helm of opposite alignment) is now located beneath the Temple of the Hunt ([14.27.01](/wiki/14-27/)).
 * The old High Kings were chosen according to their vices and crowned nearby ([05.18](/wiki/05-18/)).
 * The High Kings had a pact with the pirate kings that spared them the ravages of those fierce giants ([03.19](/wiki/03-19/)).
+
 #### Hooks
 * Why was it called the falcon throne?
 * Why did King Turien agree to be Duke Ulthar’s jester?
@@ -75,6 +78,7 @@ But when the son that Lady Natala bore grew his first head of copper hair—so u
 Or so the mad lady-in-waiting believes.
 #### Connection
 * A daughter of Lady Natala by one of her faithful snickersnees has recently come of age ([07.18](/wiki/07-18/)).
+
 #### Hooks
 * What effect has frequent blood-letting and blood-mingling had on the servants?
 * Is the son really of the jester prince? What would the prince think if he heard of it?

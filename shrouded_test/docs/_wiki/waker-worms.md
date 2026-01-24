@@ -17,6 +17,7 @@ For the first few generations of the villages, it was accepted that the dead wak
 ## Connection
 * Henry Yaboon ([26.20.08](/wiki/26-20/)), a man of power in Blind Midshotgatepool has taken the Waker Worm as his sigil.
 * Drinking water tainted by the Pit of the Waker Worms ([25.19](/wiki/25-19/)) gives people a strange relationship with death.
+
 ## Hooks
 * Have any of the waker worms escaped over the years?
 * Any other tales of Ban the Clever, or his four companions?

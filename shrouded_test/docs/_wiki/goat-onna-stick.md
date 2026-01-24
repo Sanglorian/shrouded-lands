@@ -16,6 +16,7 @@ Many travelers make a point to stop by at Goat Onna Stick after the tiring and d
 ### Connections:
 * Bad Deza still maintains some connections with his homeland which means that he's one of the few sources of 100 gp pearls that isn't a front for [Lady Seline](/wiki/lady-seline/) (see [Six Seas' Seeds](/wiki/six-seas'-seeds/))
 * Bad Deza is [Flea](/wiki/flea/)'s local informant. But he has actually recently sold Flea out and is feeding him false information.
+
 ### Hooks:
 * Why is he "Bad" Deza?
 * Goat milk mead? Who'd want to drink that?
