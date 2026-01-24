@@ -2,12 +2,19 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+{% if page.subtitle %}
+  <h1>{{ page.subtitle }}</h1>
+{% else %}
+  <h1>{{ page.title }}</h1>
+{% endif %}
 {% if page.categories contains "Category:Hex" %}
   {% include hexmap.html %}
 {% endif %}
 
 <p class="meta">
+  {% if page.subtitle %}
+    <strong>Title:</strong> {{ page.title }}<br>
+  {% endif %}
   {% if page.region %}
     <strong>Region:</strong> {{ page.region }}<br>
   {% endif %}

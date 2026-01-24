@@ -126,8 +126,15 @@ layout: default
 ---
 
 <header>
-  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+    <h1>{{ page.subtitle }}</h1>
+  {% else %}
+    <h1>{{ page.title }}</h1>
+  {% endif %}
   <div class="meta">
+    {% if page.subtitle %}
+      Title: {{ page.title }} ·
+    {% endif %}
     Page ID: {{ page.pageid }} · Namespace: {{ page.namespace }}
     {% if page.original_url %}
       · Original: <a href="{{ page.original_url }}" target="_blank">{{ page.original_url }}</a>
