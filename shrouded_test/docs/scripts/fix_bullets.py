@@ -20,9 +20,35 @@ def fix_body(body: str) -> str:
     #    e.g. "...?Category:Hex" → "...?"
     body = re.sub(r"Category:[^\n]+", "", body)
 
+    # 1a) Fix special leading-asterisk patterns from wikitext conversions.
+    #     "* *Text **refers" -> "**Text** refers"
+    body = re.sub(
+        r"^\* \*(\S[^*]*?)\*\*\s*(refers\b)",
+        r"**\1** \2",
+        body,
+        flags=re.M,
+    )
+    #     "* *![](/media/filename.jpg)Type:** [Name](/link/)"
+    #     -> "![](/media/filename.jpg)**Type:** [Name](/link/)"
+    body = re.sub(
+        r"^\* \*(!\[[^\]]*\]\([^)]+\))\s*([A-Za-z][^*:\n]*:)\*\*",
+        r"\1**\2**",
+        body,
+        flags=re.M,
+    )
+    body = re.sub(
+        r"^(!\[[^\]]*\]\([^)]+\))\s*([A-Za-z][^*:\n]*:)\*\*",
+        r"\1**\2**",
+        body,
+        flags=re.M,
+    )
+
+    # 1b) "* * Text" should be an indented bullet.
+    body = re.sub(r"^\* \* ", "  * ", body, flags=re.M)
+
     # 2) Ensure bullets have a space after * or - when they start a line
     #    (^ or \n) + optional indent + * or - + non-space → add space
-    body = re.sub(r"(^|\n)(\s*)([*-])(\S)", r"\1\2\3 \4", body)
+    body = re.sub(r"(^|\n)(\s*)([*-])(?!\*)(\S)", r"\1\2\3 \4", body)
 
     # 3) Ensure each bullet starts on its own line.
     #    If we see "?.* * " or "!. * * " or ".* * " etc, insert a newline

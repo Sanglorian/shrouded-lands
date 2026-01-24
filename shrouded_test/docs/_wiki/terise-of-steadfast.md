@@ -21,10 +21,9 @@ Chimalia answered her prayer and Terise found that she had the ability to summon
 Terise feels incredibly remorseful about her eating habits and will attempt to apologize with her mouth full and ask for news of home. After eating her fill (she does try her best to not kill more than she can eat), she will try to make amends by providing magical food, information or any other form of assistance until the pangs of hunger return. She is not stupid however, and although her skin has been greatly toughened by her transformation, she will not be lead into obvious traps.
 
 ## Hooks
--Are there any other mermaids about?
-
--Is there any way that Terise can be helped?
--What happened to the slavers?
+- Are there any other mermaids about?
+- Is there any way that Terise can be helped?
+- What happened to the slavers?
 
 
 

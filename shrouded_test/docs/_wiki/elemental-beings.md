@@ -9,7 +9,7 @@ categories:
   - "Elementals"
 media: []
 ---
-* *![](/media/Bengs.jpg)Type:** [Elementals](/wiki/elementals/)
+![](/media/Bengs.jpg)**Type:** [Elementals](/wiki/elementals/)
 
 There are a number of beings of X and Y.
 * The being of fire and smoke ([03.04](/wiki/03-04/), [04.06](/wiki/04-06/)). Currently appears to be suppressed, but [Father Dorek](/wiki/father-dorek/) thought that the being was an avatar of the [Drinker of Iron](/wiki/drinker-of-iron/).

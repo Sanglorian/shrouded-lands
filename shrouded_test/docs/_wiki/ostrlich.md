@@ -16,11 +16,9 @@ The ostrlich does not have the ageless cunning of a true lich. It is still an os
 Six years ago, [Devin Furhoof](/wiki/devin-furhoof/) ([17.05](/wiki/17-05/)) and his adventuring companions raided the barrow, acquired some of its loot, and slew the ostrlich. However, being ignorant of the ways of the lich, they failed to destroy its phylactery. Seven days later it rose again at the site of the Last Skirmish, and immediately fled back to its barrow again.
 
 ## Hooks
--Who was the prisoner with the lich-spell, and where did they come from?
-
--Who built the barrow, and who rested in it before the ostrlich arrived?
-
--What is the ostrlich's phylactery?
--Are there any survivors of Furhoof's companions, or did they all die in the Temple of Seven Shadows ([37.01](/wiki/37-01/))?
+- Who was the prisoner with the lich-spell, and where did they come from?
+- Who built the barrow, and who rested in it before the ostrlich arrived?
+- What is the ostrlich's phylactery?
+- Are there any survivors of Furhoof's companions, or did they all die in the Temple of Seven Shadows ([37.01](/wiki/37-01/))?
 
 

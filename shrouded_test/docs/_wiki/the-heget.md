@@ -15,7 +15,7 @@ Nourished by their father's flesh and blood, a new son grows rapidly in the Hege
 A small percentage of these sons (perhaps 10%) grow true, resembling their fathers almost exactly and often even gaining fragments of their fathers' memories. One of the Heget's healthier sons looks eerily similar to old paintings of the Doge of the City of Shuttered Windows ([29.14](/wiki/29-14/)).
 
 ## Hooks
--Why does one of the Heget's sons look like the Doge? Is he the father? How could that be if the Heget eats each of her mates?
--Who else has the Heget eaten?
+- Why does one of the Heget's sons look like the Doge? Is he the father? How could that be if the Heget eats each of her mates?
+- Who else has the Heget eaten?
 
 

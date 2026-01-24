@@ -24,7 +24,7 @@ In front of the silver wall is a raised dais on which is placed a small round ta
 Those Lord Olmsted has called to his side have noted that in the presence of the silver wall a powerful sense of wellbeing comes over from them and they seem to recover from hurts and sickness at a pace that is far faster than normal. More importantly, the silverwall seems to render those who drink before it completely impervious to hangovers.
 
 ## Hook
--Where does the silver wall come from? What does its magic do exactly?
+- Where does the silver wall come from? What does its magic do exactly?
 
 
 

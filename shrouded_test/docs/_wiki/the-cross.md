@@ -10,7 +10,7 @@ categories:
   - "The Bitter Coast"
 media: []
 ---
-* *![](/media/SL_18.png)Region:** [Bitter Coast](/wiki/bitter-coast/)
+![](/media/SL_18.png)**Region:** [Bitter Coast](/wiki/bitter-coast/)
 * *Hex: **[02.11](/wiki/02-11/)
 
 Sailing on the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.

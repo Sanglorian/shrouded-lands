@@ -22,13 +22,10 @@ When the moon god loved the earth, umberstone pierced the Shrouded Lands in many
 The more potent variety, mostly derived from ore extracted from the cocoon of the Moon Child ([18.07](/wiki/18-07/)), covers the Black Ziggurat. The strange moon elementals spent ages collecting and refining the stuff, and now the fruit of their long labor may be realized. Elf scholars believe that they built the Ziggurat in order to expand the moon's influence on earth. Based on the place's short history and its bizarre, dangerous nature, this has not been proven.
 
 ## Hooks
--What would the moon's expanded influence mean for the Shrouded Lands?
-
--Which mortals have interacted with the beings that appear in the Chequered Room? Are they partially responsible for its creation?
-
--How is umberstone refined?
-
--Do the Ziggurat's windows open to other times? Which ones?
+- What would the moon's expanded influence mean for the Shrouded Lands?
+- Which mortals have interacted with the beings that appear in the Chequered Room? Are they partially responsible for its creation?
+- How is umberstone refined?
+- Do the Ziggurat's windows open to other times? Which ones?
 - Are the weird creatures around the Ziggurat in league with the moon elementals, or did they arrive by other means?
 
 

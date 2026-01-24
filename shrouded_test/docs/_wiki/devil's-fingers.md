@@ -32,9 +32,8 @@ The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Bu
 [24.23](/wiki/24-23/) (The Sandalwood Groves): all gnomes wear sandals because illusionists can never get the feet quite right.
 
 ## Connections
--With the (near) extinction of horses ([16.16.05](/wiki/16-16/)), the knights of the Forked Castle ([17.18](/wiki/17-18/)) have taken to riding giant lizards.
-
--The lion prides that live in these lands have an ancient compact with the Dukes of Thring in which some knights are allowed to attempt to win lions as mounts while those who fail must join the lion prides for life ([17.21](/wiki/17-21/)).
+- With the (near) extinction of horses ([16.16.05](/wiki/16-16/)), the knights of the Forked Castle ([17.18](/wiki/17-18/)) have taken to riding giant lizards.
+- The lion prides that live in these lands have an ancient compact with the Dukes of Thring in which some knights are allowed to attempt to win lions as mounts while those who fail must join the lion prides for life ([17.21](/wiki/17-21/)).
 
 
 

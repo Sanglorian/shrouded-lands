@@ -61,7 +61,7 @@ Those who dare to walk beneath the trees of the wild wood long enough to see the
 * A favorite subject of elven art is the bird of paradise, whose struts they often imitate in their dances ([50.11](/wiki/50-11/)).
 
 ## Random Encounters
-* *![](/media/King1.png)Inspired by:** *Random Encounters in a Spooky Dark Forest*, Danny Peck, Secret Santicore 2011
+![](/media/King1.png)**Inspired by:** *Random Encounters in a Spooky Dark Forest*, Danny Peck, Secret Santicore 2011
 
 # Flowering vines whose scent causes a feeling of great happiness and wellbeing that makes it very difficult do anything violent (including defending oneself).
 # A tree bearing several hanged bodies on which mushrooms grow in great numbers. These same mushrooms are a popular ingredient Sundial Inn cooking and are not usually seen elsewhere.

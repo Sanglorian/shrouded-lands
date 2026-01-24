@@ -42,12 +42,9 @@ From the western plains, past the edge of the Kingswood and up into the northern
 
 
 ## Connections
--The night cattle are used by the Brothers of the Grove ([33.16](/wiki/33-16/)) to help guide the process by which the Doge of the City of Shuttered Windows is selected and are used in the wicked auguries of the Whispering Sisters ([29.14.07](/wiki/29-14/)). They are carefully inspected when they are brought into the City ([29.14.01](/wiki/29-14/)).
-
-
--Cat feathers ([34.05](/wiki/34-05/)) fetch a high price in here.
-
--A strange tree has been eating cows while the herdmen blame each other for the disappearances ([27.03](/wiki/27-03/)).
+- The night cattle are used by the Brothers of the Grove ([33.16](/wiki/33-16/)) to help guide the process by which the Doge of the City of Shuttered Windows is selected and are used in the wicked auguries of the Whispering Sisters ([29.14.07](/wiki/29-14/)). They are carefully inspected when they are brought into the City ([29.14.01](/wiki/29-14/)).
+- Cat feathers ([34.05](/wiki/34-05/)) fetch a high price in here.
+- A strange tree has been eating cows while the herdmen blame each other for the disappearances ([27.03](/wiki/27-03/)).
 
 ## Hooks
 * What cults value these albino cows for sacrifices?

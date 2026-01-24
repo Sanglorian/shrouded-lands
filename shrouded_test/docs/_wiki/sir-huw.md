@@ -16,5 +16,5 @@ The nymph began insisting they settle somewhere. They live by a spring-fed pool 
 
 However, they rightly suspect that trouble is brewing.
 <h2 class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">Hooks</h2>
--Tell me more about the enchanted pomegranates.
+- Tell me more about the enchanted pomegranates.
 
