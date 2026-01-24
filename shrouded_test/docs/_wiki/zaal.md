@@ -10,8 +10,10 @@ categories:
 - Elves
 - The Singing Wastes
 media: []
-region: '** [The Singing Wastes](/wiki/the-singing-wastes/)'
+region: The Singing Wastes
 ---
+
+
 
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
 * *

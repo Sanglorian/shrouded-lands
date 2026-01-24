@@ -11,8 +11,10 @@ categories:
 - Hinterlands of Blind Midshotgatepool
 - River of Crystal Waters
 media: []
-region: '** [Hinterlands of Blindmidshotgatepool](/wiki/hinterlands-of-blindmidshotgatepool/)'
+region: Hinterlands of Blindmidshotgatepool
 ---
+
+
 
 * *
 

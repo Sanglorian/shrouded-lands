@@ -8,8 +8,10 @@ categories:
 - Blind Midshotgatepool
 - Organisationss
 media: []
-region: '**[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)'
+region: Blind Midshotgatepool
 ---
+
+
 
 * *![](/media/SL4.jpg)
 

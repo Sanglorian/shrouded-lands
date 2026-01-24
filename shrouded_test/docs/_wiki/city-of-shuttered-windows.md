@@ -9,8 +9,10 @@ categories:
 - Shuttered and Surrounds
 - The Shuttered City
 media: []
-region: '**[Shuttered and Surrounds](/wiki/shuttered-and-surrounds/)'
+region: Shuttered and Surrounds
 ---
+
+
 
 :**City of Many Windows** redirects here. To learn why the name changed, see [Windows (Shuttered)](/wiki/windows-(shuttered)/) or [Chimerical Siege](/wiki/chimerical-siege/)![](/media/2914.jpg)
 * *

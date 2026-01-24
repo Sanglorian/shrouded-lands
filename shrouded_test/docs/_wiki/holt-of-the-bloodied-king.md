@@ -12,8 +12,10 @@ categories:
 - The Kingswood
 - The Witchwater
 media: []
-region: '**[Kingswood](/wiki/kingswood/)'
+region: Kingswood
 ---
+
+
 
 ![August Malmström](/media/August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg)
 ## The Holt of the Bloodied King

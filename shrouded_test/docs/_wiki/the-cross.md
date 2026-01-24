@@ -9,8 +9,10 @@ categories:
 - Cities
 - The Bitter Coast
 media: []
-region: '** [Bitter Coast](/wiki/bitter-coast/)'
+region: Bitter Coast
 ---
+
+
 
 ![](/media/SL_18.png)**
 * *Hex: **[02.11](/wiki/02-11/)

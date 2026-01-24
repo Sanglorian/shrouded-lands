@@ -10,8 +10,10 @@ categories:
 - The Grey Mountains
 - The Marche of the Winterjarl
 media: []
-region: '**[The Grey Mountains](/wiki/the-grey-mountains/)'
+region: The Grey Mountains
 ---
+
+
 
 * *![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)
 

@@ -10,8 +10,10 @@ categories:
 - Gnomes
 - The Lands of Gore
 media: []
-region: '** [The Lands of Gore](/wiki/the-lands-of-gore/)'
+region: The Lands of Gore
 ---
+
+
 
 ![](/media/0524.png) 
 [05.24](/wiki/05-24/)
