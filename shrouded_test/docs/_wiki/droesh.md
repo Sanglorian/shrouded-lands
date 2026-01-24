@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Duelist
-A dwarf of singular appearance named [Droesh](/wiki/droesh/) has recently arrived at [Newhill](/wiki/newhill/) ([17.07](/wiki/17-07/)). He-she has the sun-blacked skin of [dwarves](/wiki/dwarves/) of the south ([31.27](/wiki/31-27/)), great golden bracers, a [finger bone](/wiki/fingers-and-fingernails/) on a leather thong around his-her neck and a great spear. Droesh is exceptionally sure-footed and agile and often performs martial exercises by burying his-her spear in the ground and performing stretches while balanced on one foot on the other end.
+A dwarf of singular appearance named Droesh has recently arrived at [Newhill](/wiki/newhill/) ([17.07](/wiki/17-07/)). He-she has the sun-blacked skin of [dwarves](/wiki/dwarves/) of the south ([31.27](/wiki/31-27/)), great golden bracers, a [finger bone](/wiki/fingers-and-fingernails/) on a leather thong around his-her neck and a great spear. Droesh is exceptionally sure-footed and agile and often performs martial exercises by burying his-her spear in the ground and performing stretches while balanced on one foot on the other end.
 
 The finger bone that Droesh keeps around his-her neck is all that remains of his oath-bound lover who died some months past. Since then, the distraught dwarf has been seeking any excuse he-she can find to challenge strangers to duels in an attempt to gather enough money to pay for the resurrection of his-her lover.
 

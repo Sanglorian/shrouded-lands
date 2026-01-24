@@ -9,7 +9,7 @@ categories:
   - "Deities"
 media: []
 ---
-The ibis-headed god ([27.18](/wiki/27-18/)) to whom many farmers along the west coast of the Keeing Sea offer tribute is not a new deity. Though they call him [Saray](/wiki/saray/), he is in fact [Asrigh](/wiki/asrigh/) ([49.11](/wiki/49-11/)), the nearly-forgotten wind deity fighting in the Prison of the Nine.
+The ibis-headed god ([27.18](/wiki/27-18/)) to whom many farmers along the west coast of the Keeing Sea offer tribute is not a new deity. Though they call him [Saray](/wiki/saray/), he is in fact Asrigh ([49.11](/wiki/49-11/)), the nearly-forgotten wind deity fighting in the Prison of the Nine.
 
 The priesthood of Alberon was diligent in destroying or confiscating whatever records they could find about the Nine ([29.14.54](/wiki/29-14/)). This is because although the gods are locked in a delusional struggle, the prayers and hymns of their followers still reach their ears. A deity who hears many supplications begins to question their prison's illusions as they often contradict what they are experiencing. The farmers' prayers are beginning to make Asrigh doubt his motives for battling his fellow captives.
 ## Practices

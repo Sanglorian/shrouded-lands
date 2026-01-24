@@ -12,7 +12,7 @@ media: []
 ---
 One of the [factions of the elves](/wiki/factions-elves/).
 
-Known as [Raiders](/wiki/raiders/) to the outside world and the Disloyal to the Court, the final faction are the elves most likely to be waiting above the [Welt Road](/wiki/welt-road/) and other avenues of travel to prey on outsiders (and occasionally even elves).
+Known as Raiders to the outside world and the Disloyal to the Court, the final faction are the elves most likely to be waiting above the [Welt Road](/wiki/welt-road/) and other avenues of travel to prey on outsiders (and occasionally even elves).
 
 Technically, they are bound by the King's lawand forest's contracts, and some even take the contracts seriously. Being a thief is not an evil occupation to an elf. Elves appreciate a rebel, even the King himself and the highest members of his Court enjoy a good story about a daring raid or theft.
 

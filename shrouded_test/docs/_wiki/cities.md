@@ -9,5 +9,5 @@ categories:
   - "Settlements"
 media: []
 ---
-[Cities](/wiki/cities/)
+Cities
 

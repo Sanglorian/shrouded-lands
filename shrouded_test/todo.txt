@@ -8,5 +8,12 @@ Where a redirect page has categories, it should instead be a stub with a "see X"
 
 when a link points to a redirect page, link it straight to the final destination instead
 
+A few different bullets:
+* * Text
+Should be an indented bullet.
+
+* *Cuckoos **refers 
+Should be **Cuckoos** refers
+
 
 --livereload=false

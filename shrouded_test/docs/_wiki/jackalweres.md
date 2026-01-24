@@ -12,7 +12,7 @@ categories:
   - "Peoples"
 media: []
 ---
-[Jackalweres](/wiki/jackalweres/), devious creatures with human and jackal features, dwell in necropoli on the Shrouded Lands' eastern border, including in [51.17](/wiki/51-17/). 
+Jackalweres, devious creatures with human and jackal features, dwell in necropoli on the Shrouded Lands' eastern border, including in [51.17](/wiki/51-17/).
 
 Their mannerisms, behavior and intelligence depend on their diets. Jackalweres who eat the flesh of dumb beasts behave much like [jackals](/wiki/jackals/) - cowardly, impulsive and shameless. But those who dine on human flesh become more like their prey. They speak eloquently, don clothing and execute plots. Many jackalweres in this hex are fairly intelligent because their diet is a balance of [Sosaria](/wiki/sosaria/)n livestock and their herders ([48.18](/wiki/48-18/)). Those further from the city are more bestial. Regardless of their level of sapience, jackalweres can induce deep slumber in non-jackalweres with mere eye contact. Sosarian herders and a few gnolls wear smoked glass goggles when they fear an ambush.
 

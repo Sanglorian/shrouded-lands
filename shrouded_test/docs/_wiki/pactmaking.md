@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ![http://apolitical.info/teleleli/wp-content/uploads/2012/05/JohnDBatten28.png](/media/JohnDBatten28.png)
-The art of [pactmaking](/wiki/pactmaking/) has come far since the early days when lizardfolk shamans bumbled through dealings with [beings of dust and wind, of vine and feather, and of chalk and salt](/wiki/elemental-beings/). [Warlocks](/wiki/warlocks/) in training learn with horror of ad hoc agreements, enforced sporadically and interpretted by ‘custom’. Parties exchanged what warlock lecturers now call the ‘three is’: intangibles, like the loss of innocence; impossibilities, like a virgin’s firstborn; and eyes (along with other body parts).
+The art of pactmaking has come far since the early days when lizardfolk shamans bumbled through dealings with [beings of dust and wind, of vine and feather, and of chalk and salt](/wiki/elemental-beings/). [Warlocks](/wiki/warlocks/) in training learn with horror of ad hoc agreements, enforced sporadically and interpretted by ‘custom’. Parties exchanged what warlock lecturers now call the ‘three is’: intangibles, like the loss of innocence; impossibilities, like a virgin’s firstborn; and eyes (along with other body parts).
 
 Such shoddy packmaking does still occur today, but only by the untrained, for workings of great significance, or in times of great need. The majority of dealings with dark powers today use standardised currencies and boons traded on the open market. One example of these ritual currencies is the [bone shards](/wiki/bone-shards/) chewed by Tiamat ([03.13](/wiki/03-13/)).
 
