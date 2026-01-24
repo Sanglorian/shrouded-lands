@@ -9,7 +9,4 @@ Connection links don't work when there's a space in the name - e.g. Henry Yaboon
 Links got stripped out, e.g. 25.19 should point to Waker worms
 Where a redirect page has categories, it should instead be a stub with a "see X" link. 
 
-
-Only hexes in alternating columns go "up" for their NE coordinate.
-
 stray html http://localhost:4000/wiki/03-02/

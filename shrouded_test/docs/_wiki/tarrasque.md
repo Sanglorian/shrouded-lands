@@ -19,7 +19,7 @@ The [Lords Sanguine](/wiki/lords-sanguine/) have mastered the art of seeing visi
 * Where was the Tarrasque born?
 * So, if trolls (the descendants of the people of Bergolast) regenerate because the meat of the Tarrasque has made them godlike, does that mean that you can kill gods with acid and fire? Why are trolls so ugly then?
 ## Grahakzahak
-The Prophet of Grahakzahak ([15.01](/wiki/15-01/)), a [troll](/wiki/trolls/), encourages all whom he encounters to pray to Grahakzahak and eat some of the Prophet's flesh. He does not realise that his god is the Tarrasque. The flesh-eating ritual he practices <span style="text-align:left;">is an echo of how the people of [Bergolast](/wiki/bergolast/) (the ancestors of the trolls) fed on the regenerating flesh of the Tarrasque before [Tiamat](/wiki/dead-tiamat/) fell and the Tarrasque broke free. </span>
+The Prophet of Grahakzahak ([15.01](/wiki/15-01/)), a [troll](/wiki/trolls/), encourages all whom he encounters to pray to Grahakzahak and eat some of the Prophet's flesh. He does not realise that his god is the Tarrasque. The flesh-eating ritual he practices is an echo of how the people of [Bergolast](/wiki/bergolast/) (the ancestors of the trolls) fed on the regenerating flesh of the Tarrasque before [Tiamat](/wiki/dead-tiamat/) fell and the Tarrasque broke free.
 
 Grahakzahak means 'he of 99 heads' or, more figuratively, 'he who has grown a 99th head after the first 98 were chopped off'.
 

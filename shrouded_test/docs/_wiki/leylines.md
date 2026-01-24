@@ -13,10 +13,10 @@ Leyline with blue crystalline deposits ([04.06](/wiki/04-06/) to [05.05](/wiki/0
 
 Fire (runs from south to north beginning at [32.32](/wiki/32-32/), through [38.28](/wiki/38-28/) and ending [44.19](/wiki/44-19/))
 
-<p style="margin-bottom:0in">Water (allegedly crosses [20.20](/wiki/20-20/))</p>
+Water (allegedly crosses [20.20](/wiki/20-20/))
 
-<p style="margin-bottom:0in">Earth (allegedly crosses [20.20](/wiki/20-20/) and ends at the Eye of Gruumsch, [26.01](/wiki/26-01/))</p>
+Earth (allegedly crosses [20.20](/wiki/20-20/) and ends at the Eye of Gruumsch, [26.01](/wiki/26-01/))
 
-<p style="margin-bottom:0in">**The Breath of the Earth: **The only charted air leyline in the Shrouded Lands. It begins beneath [The Duchy of Thring](/wiki/the-duchy-of-thring/) and surfaces in the eponymous, mile-long sinkhole ([12.28](/wiki/12-28/)).</p>
+**The Breath of the Earth: **The only charted air leyline in the Shrouded Lands. It begins beneath [The Duchy of Thring](/wiki/the-duchy-of-thring/) and surfaces in the eponymous, mile-long sinkhole ([12.28](/wiki/12-28/)).
 
 

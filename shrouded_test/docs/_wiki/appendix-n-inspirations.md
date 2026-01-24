@@ -13,25 +13,25 @@ Dwarf Fortress
 ## Books
 Le Guin, Ursula - Gifts
 
-<p style="margin-bottom:0in">Thurbur, James - The Thirteen Clocks</p>
+Thurbur, James - The Thirteen Clocks
 
-<p style="margin-bottom:0in">Vance, Jack - The Dying Earth quartet</p>
+Vance, Jack - The Dying Earth quartet
 
-<p style="margin-bottom:0in">Pratchett, Terry - Discworld series</p>
+Pratchett, Terry - Discworld series
 
-<p style="margin-bottom:0in">Martin, George RR - A Song of Ice and Fire series; science fiction short stories</p>
+Martin, George RR - A Song of Ice and Fire series; science fiction short stories
 
-<p style="margin-bottom:0in">Pullman, Phillip - His Dark Materials trilogy</p>
+Pullman, Phillip - His Dark Materials trilogy
 
-<p style="margin-bottom:0in">Smith, Clarke Ashton</p>
+Smith, Clarke Ashton
 
 ## Blogs
-<p style="margin-bottom:0in">Playing D&D with Pornstars</p>
+Playing D&D with Pornstars
 
-<p style="margin-bottom:0in">Rolang's Creeping Doom</p>
+Rolang's Creeping Doom
 
-<p style="margin-bottom:0in">Monsters & Manuals</p>
+Monsters & Manuals
 
-<p style="margin-bottom:0in">Monster Manual from Pants (Scrap Princess)</p>
+Monster Manual from Pants (Scrap Princess)
 
-<p style="margin-bottom:0in">Teleleli</p>
+Teleleli
