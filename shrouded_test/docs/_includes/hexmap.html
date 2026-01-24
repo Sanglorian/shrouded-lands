@@ -13,10 +13,20 @@
 
   <!-- CENTER -->
   <div class="hex-tile hex--center">
-    <a href="{{ '/wiki/' | append: center_code | append: '/' | relative_url }}">
+    {%- assign center_title = center_code | replace: "-", "." -%}
+    {%- assign center_page = site.wiki | where: "slug", center_code | first -%}
+    {%- if center_page == nil -%}
+      {%- assign center_page = site.wiki | where: "title", center_title | first -%}
+    {%- endif -%}
+    {%- if center_page -%}
+      <a href="{{ center_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
+             alt="{{ center_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
            alt="{{ center_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} N neighbor {%- endcomment -%}
@@ -26,10 +36,20 @@
   {%- assign n_row_code = n_row -%}{%- if n_row < 10 -%}{%- assign n_row_code = "0" | append: n_row -%}{%- endif -%}
   {%- capture n_code -%}{{ n_col_code }}-{{ n_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--N">
-    <a href="{{ '/wiki/' | append: n_code | append: '/' | relative_url }}">
+    {%- assign n_title = n_code | replace: "-", "." -%}
+    {%- assign n_page = site.wiki | where: "slug", n_code | first -%}
+    {%- if n_page == nil -%}
+      {%- assign n_page = site.wiki | where: "title", n_title | first -%}
+    {%- endif -%}
+    {%- if n_page -%}
+      <a href="{{ n_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
+             alt="{{ n_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
            alt="{{ n_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} NE neighbor (odd-q) {%- endcomment -%}
@@ -44,10 +64,20 @@
   {%- assign ne_row_code = ne_row -%}{%- if ne_row < 10 -%}{%- assign ne_row_code = "0" | append: ne_row -%}{%- endif -%}
   {%- capture ne_code -%}{{ ne_col_code }}-{{ ne_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--NE">
-    <a href="{{ '/wiki/' | append: ne_code | append: '/' | relative_url }}">
+    {%- assign ne_title = ne_code | replace: "-", "." -%}
+    {%- assign ne_page = site.wiki | where: "slug", ne_code | first -%}
+    {%- if ne_page == nil -%}
+      {%- assign ne_page = site.wiki | where: "title", ne_title | first -%}
+    {%- endif -%}
+    {%- if ne_page -%}
+      <a href="{{ ne_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
+             alt="{{ ne_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
            alt="{{ ne_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} SE neighbor (odd-q) {%- endcomment -%}
@@ -62,10 +92,20 @@
   {%- assign se_row_code = se_row -%}{%- if se_row < 10 -%}{%- assign se_row_code = "0" | append: se_row -%}{%- endif -%}
   {%- capture se_code -%}{{ se_col_code }}-{{ se_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--SE">
-    <a href="{{ '/wiki/' | append: se_code | append: '/' | relative_url }}">
+    {%- assign se_title = se_code | replace: "-", "." -%}
+    {%- assign se_page = site.wiki | where: "slug", se_code | first -%}
+    {%- if se_page == nil -%}
+      {%- assign se_page = site.wiki | where: "title", se_title | first -%}
+    {%- endif -%}
+    {%- if se_page -%}
+      <a href="{{ se_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
+             alt="{{ se_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
            alt="{{ se_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} S neighbor {%- endcomment -%}
@@ -75,10 +115,20 @@
   {%- assign s_row_code = s_row -%}{%- if s_row < 10 -%}{%- assign s_row_code = "0" | append: s_row -%}{%- endif -%}
   {%- capture s_code -%}{{ s_col_code }}-{{ s_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--S">
-    <a href="{{ '/wiki/' | append: s_code | append: '/' | relative_url }}">
+    {%- assign s_title = s_code | replace: "-", "." -%}
+    {%- assign s_page = site.wiki | where: "slug", s_code | first -%}
+    {%- if s_page == nil -%}
+      {%- assign s_page = site.wiki | where: "title", s_title | first -%}
+    {%- endif -%}
+    {%- if s_page -%}
+      <a href="{{ s_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
+             alt="{{ s_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
            alt="{{ s_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} SW neighbor (odd-q) {%- endcomment -%}
@@ -93,10 +143,20 @@
   {%- assign sw_row_code = sw_row -%}{%- if sw_row < 10 -%}{%- assign sw_row_code = "0" | append: sw_row -%}{%- endif -%}
   {%- capture sw_code -%}{{ sw_col_code }}-{{ sw_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--SW">
-    <a href="{{ '/wiki/' | append: sw_code | append: '/' | relative_url }}">
+    {%- assign sw_title = sw_code | replace: "-", "." -%}
+    {%- assign sw_page = site.wiki | where: "slug", sw_code | first -%}
+    {%- if sw_page == nil -%}
+      {%- assign sw_page = site.wiki | where: "title", sw_title | first -%}
+    {%- endif -%}
+    {%- if sw_page -%}
+      <a href="{{ sw_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
+             alt="{{ sw_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
            alt="{{ sw_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
   {%- comment -%} NW neighbor (odd-q) {%- endcomment -%}
@@ -111,10 +171,20 @@
   {%- assign nw_row_code = nw_row -%}{%- if nw_row < 10 -%}{%- assign nw_row_code = "0" | append: nw_row -%}{%- endif -%}
   {%- capture nw_code -%}{{ nw_col_code }}-{{ nw_row_code }}{%- endcapture -%}
   <div class="hex-tile hex--NW">
-    <a href="{{ '/wiki/' | append: nw_code | append: '/' | relative_url }}">
+    {%- assign nw_title = nw_code | replace: "-", "." -%}
+    {%- assign nw_page = site.wiki | where: "slug", nw_code | first -%}
+    {%- if nw_page == nil -%}
+      {%- assign nw_page = site.wiki | where: "title", nw_title | first -%}
+    {%- endif -%}
+    {%- if nw_page -%}
+      <a href="{{ nw_page.url | relative_url }}">
+        <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
+             alt="{{ nw_code }}">
+      </a>
+    {%- else -%}
       <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
            alt="{{ nw_code }}">
-    </a>
+    {%- endif -%}
   </div>
 
 </div>
