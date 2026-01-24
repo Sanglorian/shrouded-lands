@@ -2,11 +2,14 @@ Redirect pages are still showing up on index
 Generate category pages for all broken category links
 Assign region based on category, where applicable
 A page should never link to itself 
-Still got headings defined with =
 Find hexes that are redirects, and instead make the hex the canonical page, but allow it to have a title (indeed, allow all hexes to have titles)
-Bullet points that are meant to be indented instead show up as "*The rubies in the pit bear a strange likeness to those found in the eyes of strange foreign idols."
 Connection links don't work when there's a space in the name - e.g. Henry Yaboon
 Links got stripped out, e.g. 25.19 should point to Waker worms
 Where a redirect page has categories, it should instead be a stub with a "see X" link. 
 
 stray html http://localhost:4000/wiki/03-02/
+
+
+--livereload=false
+
+Halve the size of hexes in hex flowers, halve again in world map
