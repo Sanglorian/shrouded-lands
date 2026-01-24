@@ -81,6 +81,22 @@ def extract_region(body):
     return region, "\n".join(new_lines)
 
 
+def strip_region_markup(region):
+    if not region:
+        return region
+
+    cleaned = region.strip()
+    cleaned = re.sub(r"\[\[([^|\]]+)\|([^\]]+)\]\]", r"\2", cleaned)
+    cleaned = re.sub(r"\[\[([^\]]+)\]\]", r"\1", cleaned)
+    cleaned = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", cleaned)
+    cleaned = re.sub(r"\*\*(.+?)\*\*", r"\1", cleaned)
+    cleaned = re.sub(r"__(.+?)__", r"\1", cleaned)
+    cleaned = re.sub(r"\*(.+?)\*", r"\1", cleaned)
+    cleaned = re.sub(r"_(.+?)_", r"\1", cleaned)
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned.strip()
+
+
 def extract_neighbors(body):
     """
     Look for 'Connects to:' line and extract hex codes.
@@ -170,6 +186,7 @@ def process_file(src_path, dst_path):
 
     # 3) extract region + neighbors
     region, body = extract_region(body)
+    region = strip_region_markup(region)
     neighbors, body = extract_neighbors(body)
 
     # 4) clean HTML junk

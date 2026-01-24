@@ -47,11 +47,28 @@ def extract_region(body):
     return region, "\n".join(new_lines)
 
 
+def strip_region_markup(region):
+    if not region:
+        return region
+
+    cleaned = region.strip()
+    cleaned = re.sub(r"\[\[([^|\]]+)\|([^\]]+)\]\]", r"\2", cleaned)
+    cleaned = re.sub(r"\[\[([^\]]+)\]\]", r"\1", cleaned)
+    cleaned = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", cleaned)
+    cleaned = re.sub(r"\*\*(.+?)\*\*", r"\1", cleaned)
+    cleaned = re.sub(r"__(.+?)__", r"\1", cleaned)
+    cleaned = re.sub(r"\*(.+?)\*", r"\1", cleaned)
+    cleaned = re.sub(r"_(.+?)_", r"\1", cleaned)
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned.strip()
+
+
 def update_file(path):
     text = path.read_text(encoding="utf-8")
     front, body = split_front_matter(text)
 
     region, body = extract_region(body)
+    region = strip_region_markup(region)
     if region is None:
         return False
 
