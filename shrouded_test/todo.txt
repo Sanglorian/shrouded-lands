@@ -1,20 +1,12 @@
 Redirect pages are still showing up on index -- but see distinction between stub and true redirects
 
-Generate category pages for all broken category links
-
 A page should never link to itself 
 
 Find hexes that are redirects, and instead make the hex the canonical page, but allow it to have a title (indeed, allow all hexes to have titles)
 
-Connection links don't work when there's a space in the name - e.g. Henry Yaboon
-
-Links got stripped out, e.g. 25.19 should point to Waker worms
-
 Where a redirect page has categories, it should instead be a stub with a "see X" link. 
 
-stray html http://localhost:4000/wiki/03-02/
+when a link points to a redirect page, link it straight to the final destination instead
 
 
 --livereload=false
-
-Halve the size of hexes in hex flowers, halve again in world map
