@@ -7,7 +7,7 @@
 
 .hexmap {
   /* Same core geometry */
-  --hex-r: 30px;
+  --hex-r: 15px;
   --hex-h: calc(0.8660254 * var(--hex-r)); /* sqrt(3)/2 ≈ 0.8660 */
 
   position: relative;
@@ -23,13 +23,13 @@
 }
 
 
-/* Each hex image is treated as a 120×104 box.
-   120px ≈ 2 * side length (s = 30)
-   104px ≈ (√3 / 2) * 120  */
+/* Each hex image is treated as a 60×52 box.
+   60px ≈ 2 * side length (s = 15)
+   52px ≈ (√3 / 2) * 60  */
 .hex-tile {
   position: absolute;
-  width: 120px;
-  height: 104px;
+  width: 60px;
+  height: 52px;
 }
 
 .hex-tile img {
@@ -39,24 +39,24 @@
 }
 
 /* Geometry:
-   dx = 0.75 * 120 = 90
-   dy = 0.5 * 104 = 52
-   H  = 104
-   Center top-left = (90, 104)
+   dx = 0.75 * 60 = 45
+   dy = 0.5 * 52 = 26
+   H  = 52
+   Center top-left = (45, 52)
 */
 
 /* centre */
-.hex--center { left: 90px;  top: 104px; }
+.hex--center { left: 45px;  top: 52px; }
 
 /* neighbours, perfectly edge-touching */
-.hex--N  { left: 90px;  top:   0px; }
-.hex--S  { left: 90px;  top: 208px; }
+.hex--N  { left: 45px;  top:   0px; }
+.hex--S  { left: 45px;  top: 104px; }
 
-.hex--NW { left:   0px; top:  52px; }
-.hex--SW { left:   0px; top: 156px; }
+.hex--NW { left:   0px; top:  26px; }
+.hex--SW { left:   0px; top:  78px; }
 
-.hex--NE { left: 180px; top:  52px; }
-.hex--SE { left: 180px; top: 156px; }
+.hex--NE { left: 90px; top:  26px; }
+.hex--SE { left: 90px; top:  78px; }
 
 .world-map-wrapper {
   overflow: auto;
@@ -66,11 +66,11 @@
 }
 
 .world-map {
-  --hex-width: 60px;
-  --hex-height: 52px;
-  --hex-x-step: 45px;
-  --hex-y-step: 52px;
-  --hex-y-offset: 26px;
+  --hex-width: 30px;
+  --hex-height: 26px;
+  --hex-x-step: 22.5px;
+  --hex-y-step: 26px;
+  --hex-y-offset: 13px;
 
   position: relative;
   width: calc(var(--hex-x-step) * 44 + var(--hex-width));

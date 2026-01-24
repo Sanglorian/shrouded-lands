@@ -18,10 +18,10 @@ body_class: world-map-page
     {%- for col in (0..44) -%}
       {%- assign col_mod = col | modulo: 2 -%}
       {%- for row in (0..29) -%}
-        {%- assign left = col | times: 45 -%}
-        {%- assign top = row | times: 52 -%}
+        {%- assign left = col | times: 22.5 -%}
+        {%- assign top = row | times: 26 -%}
         {%- if col_mod == 1 -%}
-          {%- assign top = top | plus: 26 -%}
+          {%- assign top = top | plus: 13 -%}
         {%- endif -%}
         {%- assign col_code = col -%}
         {%- if col < 10 -%}
