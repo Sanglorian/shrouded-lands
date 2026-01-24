@@ -40,6 +40,30 @@ layout: default
   </p>
 {% endif %}
 
+{% if page.category == 1 or page.category == "1" %}
+  <hr>
+  <h2>Pages in this category</h2>
+
+  {% assign cat_full = page.title %}
+  {% assign cat_pages = site.wiki
+    | where_exp: "p", "p.categories contains cat_full"
+    | sort_natural: "title" %}
+
+  {% if cat_pages.size > 0 %}
+    <ul>
+      {% for p in cat_pages %}
+        {% unless p.is_redirect %}
+          <li>
+            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No pages in this category yet.</p>
+  {% endif %}
+{% endif %}
+
 <p style="margin-top:2rem; font-size:0.85rem; color:#777;">
   Mirror generated from shrouded_test_output data.
 </p>
