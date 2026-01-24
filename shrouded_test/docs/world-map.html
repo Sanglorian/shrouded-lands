@@ -30,7 +30,10 @@ body_class: world-map-page
         {%- endif -%}
         {%- capture hex_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
         {%- assign hex_title = hex_code | replace: "-", "." -%}
-        {%- assign hex_page = site.wiki | where_exp: "item", "item.slug == hex_code or item.title == hex_title" | first -%}
+{%- assign hex_page = site.wiki | where: "slug", hex_code | first -%}
+{%- if hex_page == nil -%}
+  {%- assign hex_page = site.wiki | where: "title", hex_title | first -%}
+{%- endif -%}
         {%- if hex_page -%}
           <a class="world-map__tile"
              href="{{ hex_page.url | relative_url }}"
