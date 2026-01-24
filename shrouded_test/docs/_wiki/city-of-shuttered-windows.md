@@ -1,17 +1,19 @@
 ---
 layout: wiki_page
-title: "City of Shuttered Windows"
+title: City of Shuttered Windows
 pageid: 3001
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/City_of_Shuttered_Windows"
+original_url: https://shrouded-lands.fandom.com/wiki/City_of_Shuttered_Windows
 categories:
-  - "Cities"
-  - "Shuttered and Surrounds"
-  - "The Shuttered City"
+- Cities
+- Shuttered and Surrounds
+- The Shuttered City
 media: []
+region: '**[Shuttered and Surrounds](/wiki/shuttered-and-surrounds/)'
 ---
+
 :**City of Many Windows** redirects here. To learn why the name changed, see [Windows (Shuttered)](/wiki/windows-(shuttered)/) or [Chimerical Siege](/wiki/chimerical-siege/)![](/media/2914.jpg)
-* *Region: **[Shuttered and Surrounds](/wiki/shuttered-and-surrounds/)
+* *
 
 * *Hex: **[29.14](/wiki/29-14/)
 
@@ -110,6 +112,5 @@ In the City, height is an indicator of social status. The towers and other tall 
 
 ## Buildings
 * [The Temple School](/wiki/the-temple-invisible/)
-
 
 

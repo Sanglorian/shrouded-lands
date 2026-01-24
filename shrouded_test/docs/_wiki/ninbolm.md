@@ -1,20 +1,22 @@
 ---
 layout: wiki_page
-title: "Ninbolm"
+title: Ninbolm
 pageid: 3333
 namespace: 0
 category: 1
-original_url: "https://shrouded-lands.fandom.com/wiki/Ninbolm"
+original_url: https://shrouded-lands.fandom.com/wiki/Ninbolm
 categories:
-  - "Cities"
-  - "Gnomes"
-  - "The Lands of Gore"
+- Cities
+- Gnomes
+- The Lands of Gore
 media: []
+region: '** [The Lands of Gore](/wiki/the-lands-of-gore/)'
 ---
+
 ![](/media/0524.png) 
 [05.24](/wiki/05-24/)
 
-* *Region:** [The Lands of Gore](/wiki/the-lands-of-gore/)
+* *
 
 ## Ninbolm
 Hex [05.24](/wiki/05-24/)
@@ -38,6 +40,5 @@ The [Indigo Academy](/wiki/indigo-academy/) is based in Ninbolm. It runs the [Em
 * What are some of the Hierophant's decrees?
 * In addition to the giant snails, what other strange creatures dwell in the city?
 * Most important - where can a traveler get a drink in this crazy place?
-
 
 

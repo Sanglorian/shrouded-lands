@@ -1,16 +1,17 @@
 ---
 layout: wiki_page
-title: "Silverlings"
+title: Silverlings
 pageid: 2671
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Silverlings"
+original_url: https://shrouded-lands.fandom.com/wiki/Silverlings
 categories:
-  - "Jahur"
-  - "Organisationss"
-  - "Wizards"
+- Jahur
+- Organisationss
+- Wizards
 media: []
+region: '[Jahur](/wiki/jahur/)'
 ---
-Region: [Jahur](/wiki/jahur/)
+
 
 Jahur's Imperial Academy of Thaumaturgy, once a beacon of pride that cultivated the Shrouded Lands' most learned sages and wizards, is now a shabby haven of quackery that shames Jahuris nearly as much as their accordion-loving [bucket kelp](/wiki/bucket-kelp/) addicts. The staff consists of many astrologers, alchemists and hexers, but few true magic users. Graduates often have only a charm or two, and the occasional mutation, to show for their years of study. A sad number of these mediocre, bohemian alumni turn to criminal enterprises when they are unable to find apprenticeships.
 
@@ -28,6 +29,5 @@ Tafud Moongrey, the half-elven headmaster who frequents the Dead Fish, drove his
 * Unscrupulous alchemists use silverling body parts in their forumulae.
 * The priests of Iano are reaching out to silverlings, with varying success.
 * Silverlings are migrating north in ragged bands, searching for better lives. Some have fallen in with the dwarves of the Burning Lands, where they often are forced into menial labor.
-
 
 

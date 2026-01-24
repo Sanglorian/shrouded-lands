@@ -65,11 +65,14 @@ def update_file(path):
 
 
 def main():
-    if len(sys.argv) != 2:
-        print("Usage: python update_wiki_regions.py <wiki_dir>")
+    if len(sys.argv) > 2:
+        print("Usage: python update_wiki_regions.py [wiki_dir]")
         sys.exit(1)
 
-    wiki_dir = Path(sys.argv[1])
+    if len(sys.argv) == 2:
+        wiki_dir = Path(sys.argv[1])
+    else:
+        wiki_dir = Path("_wiki")
     if not wiki_dir.is_dir():
         print(f"Wiki directory not found: {wiki_dir}")
         sys.exit(1)

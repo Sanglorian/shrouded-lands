@@ -1,15 +1,17 @@
 ---
 layout: wiki_page
-title: "Thieves guild (Blind Midshotgatepool)"
+title: Thieves guild (Blind Midshotgatepool)
 pageid: 2849
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Thieves_guild_(Blind_Midshotgatepool)"
+original_url: https://shrouded-lands.fandom.com/wiki/Thieves_guild_(Blind_Midshotgatepool)
 categories:
-  - "Blind Midshotgatepool"
-  - "Organisationss"
+- Blind Midshotgatepool
+- Organisationss
 media: []
+region: '**[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)'
 ---
-* *![](/media/SL4.jpg)Region: **[Blind Midshotgatepool](/wiki/blind-midshotgatepool/)
+
+* *![](/media/SL4.jpg)
 
 ## The Thieves Guild of Blind Midshotgatepool
 Connects to: [15.24](/wiki/15-24/), [16.16](/wiki/16-16/), [19.30](/wiki/19-30/), [26.19](/wiki/26-19/), [26.20.03](/wiki/26-20/),
@@ -132,5 +134,4 @@ rally his guild.
 * Wait, gnomes live between the walls of the homes of giants?
 * Who have some of the victims of the thieves guild been?
 * Where did Wortimer get the cloaker and the clasp?
-
 

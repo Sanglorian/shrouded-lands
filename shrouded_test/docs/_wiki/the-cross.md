@@ -1,16 +1,18 @@
 ---
 layout: wiki_page
-title: "The Cross"
+title: The Cross
 pageid: 2786
 namespace: 0
 category: 1
-original_url: "https://shrouded-lands.fandom.com/wiki/The_Cross"
+original_url: https://shrouded-lands.fandom.com/wiki/The_Cross
 categories:
-  - "Cities"
-  - "The Bitter Coast"
+- Cities
+- The Bitter Coast
 media: []
+region: '** [Bitter Coast](/wiki/bitter-coast/)'
 ---
-![](/media/SL_18.png)**Region:** [Bitter Coast](/wiki/bitter-coast/)
+
+![](/media/SL_18.png)**
 * *Hex: **[02.11](/wiki/02-11/)
 
 Sailing on the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) takes its toll on a man. The sailors and pirates who slide into the Cross are a gloomy and superstitious breed, carefully storing their loot while asking why they bother: all bankers are thieves and all sailors die young.
@@ -106,5 +108,4 @@ In fact, she enslaved [a being of pollen and milk](/wiki/elemental-beings/) and 
 * What is the name of the proprietor?
 * What will the being do to be freed?
 * How do others respond to the messages?
-
 

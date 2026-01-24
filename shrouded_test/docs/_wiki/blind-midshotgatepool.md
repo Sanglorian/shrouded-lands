@@ -1,18 +1,20 @@
 ---
 layout: wiki_page
-title: "Blind Midshotgatepool"
+title: Blind Midshotgatepool
 pageid: 2841
 namespace: 0
 category: 1
-original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Midshotgatepool"
+original_url: https://shrouded-lands.fandom.com/wiki/Blind_Midshotgatepool
 categories:
-  - "Blind Midshotgatepool"
-  - "Cities"
-  - "Hinterlands of Blind Midshotgatepool"
-  - "River of Crystal Waters"
+- Blind Midshotgatepool
+- Cities
+- Hinterlands of Blind Midshotgatepool
+- River of Crystal Waters
 media: []
+region: '** [Hinterlands of Blindmidshotgatepool](/wiki/hinterlands-of-blindmidshotgatepool/)'
 ---
-* *Region:** [Hinterlands of Blindmidshotgatepool](/wiki/hinterlands-of-blindmidshotgatepool/)
+
+* *
 
 * *Hex: **[26.20](/wiki/26-20/)
 
@@ -127,7 +129,6 @@ This desecration would not go unpunished by the Dust Walkers, who consider the w
 Connects to: [26.20.01](/wiki/26-20/).
 
 Living within the laws of the Five Towns of Blind Midshotgatepool is a burden and it has only grown worse since the war as taxes on land have replaced taxes on the trade that no longer flows. In order to avoid this many of the poor of the city have taken to living in a dense warren of houseboats that now line the city‘s waterfront. Officially lying within none of the five towns, the inhabitants of the houseboats are free from any laws but those of the thieves guild ([26.20.01](/wiki/26-20/)). However the five lords resent this and seek to make life difficult for these people, so there are some children in this neighborhood who have never set foot on dry ground.
-
 
 
 

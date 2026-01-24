@@ -1,18 +1,20 @@
 ---
 layout: wiki_page
-title: "Zaal"
+title: Zaal
 pageid: 3474
 namespace: 0
 category: 1
-original_url: "https://shrouded-lands.fandom.com/wiki/Zaal"
+original_url: https://shrouded-lands.fandom.com/wiki/Zaal
 categories:
-  - "Cities"
-  - "Elves"
-  - "The Singing Wastes"
+- Cities
+- Elves
+- The Singing Wastes
 media: []
+region: '** [The Singing Wastes](/wiki/the-singing-wastes/)'
 ---
+
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
-* *Region:** [The Singing Wastes](/wiki/the-singing-wastes/)
+* *
 
 ## Zaal, the Sleeping City
 ![](/media/Sing2.jpg)Connects to: [03.31.01](/wiki/03-31/), [29.07](/wiki/29-07/) and [29.14.36](/wiki/29-14/).
@@ -58,6 +60,5 @@ The Lord of Sleep is not perfect, however. Many subversive or terrible dreams sl
 * Where do dreams come from, anyway? The depths of dreamers' minds? Above? Below?
 * Is there any way to dodge Hypno's dream censorship?
 * What would happen if Hypno awoke? How could such a thing happen?
-
 
 
