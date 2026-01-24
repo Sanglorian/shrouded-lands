@@ -1,20 +1,21 @@
 ---
 layout: wiki_page
-title: "Loguiso's Wall"
+title: Loguiso's Wall
 pageid: 3304
 namespace: 0
 category: 1
-original_url: "https://shrouded-lands.fandom.com/wiki/Loguiso%27s_Wall"
+original_url: https://shrouded-lands.fandom.com/wiki/Loguiso%27s_Wall
 categories:
-  - "Buildings"
-  - "Gnomes"
-  - "Loguiso's Wall"
-  - "The Barrier Range"
-  - "The Shuttered City"
+- Buildings
+- Gnomes
+- Loguiso's Wall
+- The Barrier Range
+- The Shuttered City
 media: []
+region: the Barrier Range
 ---
+
 ## The Last Laugh
-Region: the Barrier Range
 
 Connects to [24.26](/wiki/24-26/), [26.15](/wiki/26-15/), [29.14](/wiki/29-14/) and [48.33](/wiki/48-33/).
 ## Overview
@@ -33,7 +34,6 @@ The catastrophe left a fissure that impedes travel to this day. Overgrown with g
 * Were the templars able to achieve any vengeance against the Backbiters?
 * Who exorcises the angry spirits?
 * From where did the monstrous inhabitants come?
-
 
 
 

@@ -1,21 +1,22 @@
 ---
 layout: wiki_page
-title: "Silverhall"
+title: Silverhall
 pageid: 2140
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Silverhall"
+original_url: https://shrouded-lands.fandom.com/wiki/Silverhall
 categories:
-  - "Hex"
-  - "Lands of the Night Cattle"
-  - "The Lands of the Night Cattle"
+- Hex
+- Lands of the Night Cattle
+- The Lands of the Night Cattle
 media: []
+region: the Lands of the Night Cattle.
 ---
+
 ![](/media/Silver.png) 
 Silverhall
 
 Located in [31.04](/wiki/31-04/)
 
-Region: the Lands of the Night Cattle.
 
 ## Overview
 Within Olmsted keep is a great hall in which the entire back wall is plated with silver. This silver is chaped in intricate designs of strange whurls and gemometrical patterns.
@@ -25,6 +26,5 @@ Those Lord Olmsted has called to his side have noted that in the presence of the
 
 ## Hook
 - Where does the silver wall come from? What does its magic do exactly?
-
 
 

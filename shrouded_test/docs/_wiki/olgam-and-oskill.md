@@ -1,20 +1,21 @@
 ---
 layout: wiki_page
-title: "Olgam and Oskill"
+title: Olgam and Oskill
 pageid: 4171
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Olgam_and_Oskill"
+original_url: https://shrouded-lands.fandom.com/wiki/Olgam_and_Oskill
 categories:
-  - "Dwarves"
-  - "Gnomes"
-  - "Hex"
-  - "The Lands of Gore"
+- Dwarves
+- Gnomes
+- Hex
+- The Lands of Gore
 media: []
+region: the Hills of Gore
 ---
+
 [09.24](/wiki/09-24/)
 
 ## The Twin Towns of Olgam and Oskill
-Region: the Hills of Gore
 
 Connects to: [05.24](/wiki/05-24/), [08.21](/wiki/08-21/), [13.24](/wiki/13-24/) and [33.00](/wiki/33-00/). 
 
@@ -31,7 +32,6 @@ The few who fled the dragon still dwell in the deep tunnels. Since the attack tw
 * How did the dwarves manage to trade with the Hoard? Their path is long and perilous.
 * Tell me about some interesting characters who live in the ruins.
 * How did the ghouls find their way into the tunnels? 
-
 
 
 

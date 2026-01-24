@@ -1,17 +1,19 @@
 ---
 layout: wiki_page
-title: "Marche of the Winterjarl"
+title: Marche of the Winterjarl
 pageid: 2582
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Marche_of_the_Winterjarl"
+original_url: https://shrouded-lands.fandom.com/wiki/Marche_of_the_Winterjarl
 categories:
-  - "Nordanbjorn"
-  - "Regions"
-  - "The Grey Mountains"
-  - "The Marche of the Winterjarl"
+- Nordanbjorn
+- Regions
+- The Grey Mountains
+- The Marche of the Winterjarl
 media: []
+region: '**[The Grey Mountains](/wiki/the-grey-mountains/)'
 ---
-* *![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)Region: **[The Grey Mountains](/wiki/the-grey-mountains/)
+
+* *![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)
 
 * *Includes:** [12.01](/wiki/12-01/), [13.00](/wiki/13-00/), [13.01](/wiki/13-01/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [15.01](/wiki/15-01/), [14.02](/wiki/14-02/), [15.00](/wiki/15-00/)
 
@@ -36,7 +38,6 @@ The [Zoar Rajak](/wiki/zoar-rajak/) ([11.01](/wiki/11-01/)) feel differently. Th
 * Who else lives within the marche?
 * What is the truth behind the dispute between the goblins and the bears?
 * Where else have the nordanbjorn established themselves in this world?
-
 
 
 

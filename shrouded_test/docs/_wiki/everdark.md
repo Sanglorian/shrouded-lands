@@ -1,21 +1,22 @@
 ---
 layout: wiki_page
-title: "Everdark"
+title: Everdark
 pageid: 2182
 namespace: 0
-original_url: "https://shrouded-lands.fandom.com/wiki/Everdark"
+original_url: https://shrouded-lands.fandom.com/wiki/Everdark
 categories:
-  - "Electric Wizard"
-  - "Hex"
-  - "The Bitter Coast"
-  - "The Shuttered City"
+- Electric Wizard
+- Hex
+- The Bitter Coast
+- The Shuttered City
 media: []
+region: the Bitter Coast
 ---
+
 ![](/media/0103.png) 
 [01.03](/wiki/01-03/)
 
 ## Everdark
-Region: the Bitter Coast
 
 Connects to: [16.16.09](/wiki/16-16/), [29.14](/wiki/29-14/) and [29.14.50](/wiki/29-14/).
 
@@ -52,7 +53,6 @@ Every year on [The Youth's Day](/wiki/the-youths-day/), four young men from Ever
 * What duties and privileges does the King of Dogs have?
 * How often do the young men in the ceremony return to Everdark?
 * Who are the cloaked figures that carry the ark back to shrine?
-
 
 
 
