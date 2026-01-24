@@ -10,15 +10,11 @@ layout: default
 
 <p class="meta">
   {% if page.subtitle %}
-    <strong>Title:</strong> {{ page.title }}<br>
+    <strong>Hex:</strong> {{ page.title }}<br>
   {% endif %}
   {% if page.region %}
     <strong>Region:</strong> {{ page.region }}<br>
   {% endif %}
-
-<strong>Original:</strong>
-  <a href="{{ page.original_url }}">{{ page.original_url }}</a>
-</p>
 
 <article class="wiki-content">
   {{ content }}
@@ -67,4 +63,7 @@ layout: default
 
 <p style="margin-top:2rem; font-size:0.85rem; color:#777;">
   Mirror generated from shrouded_test_output data.
+<br />
+<strong>Original:</strong>
+  <a href="{{ page.original_url }}">{{ page.original_url }}</a>
 </p>
