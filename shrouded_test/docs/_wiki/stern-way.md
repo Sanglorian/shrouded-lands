@@ -5,9 +5,9 @@ pageid: 2942
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Stern_Way"
 categories:
-  - "Category:Customs"
-  - "Category:Giants"
-  - "Category:Philosophies"
+  - "Customs"
+  - "Giants"
+  - "Philosophies"
 media: []
 ---
 [Stone giants](/wiki/stone-giants/) developed the Stern Way, a philosophy and martial art. They will teach it to others. It focuses on throws and blocks.

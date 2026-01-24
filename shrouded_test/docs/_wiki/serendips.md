@@ -5,7 +5,7 @@ pageid: 3524
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Serendips"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Jahur"
   - "Witch Clans"
 media: []

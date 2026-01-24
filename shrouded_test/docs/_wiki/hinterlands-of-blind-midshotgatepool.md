@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hinterlands_of_Blind_Midsh
 categories:
   - "Blind Midshotgatepool"
   - "Hinterlands of Blind Midshotgatepool"
-  - "Category:Regions"
+  - "Regions"
 media: []
 ---
 Includes hexes: [25.18](/wiki/25-18/), [25.19](/wiki/25-19/), [26.19](/wiki/26-19/), [26.20](/wiki/26-20/), [27.18](/wiki/27-18/), [27.19](/wiki/27-19/) and [28.21](/wiki/28-21/).

@@ -5,7 +5,7 @@ pageid: 3420
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Kepler-22"
 categories:
-  - "Category:Other"
+  - "Other"
 media: []
 ---
 Last year I was considering setting up a sci-fi webwork hexcrawl, like the Shrouded Lands. The idea fell by the wayside, but I thought I'd share what I came up with.

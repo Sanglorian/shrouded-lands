@@ -5,7 +5,7 @@ pageid: 3198
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Doge"
 categories:
-  - "Category:Disambiguation"
+  - "Disambiguation"
 media: []
 ---
 You may be looking for:

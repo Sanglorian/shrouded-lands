@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Eels"
 categories:
   - "Animals"
   - "Eels"
-  - "Category:Fish"
+  - "Fish"
   - "The Keening Sea"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 3110
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Gore
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Hills of Gore

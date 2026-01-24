@@ -5,7 +5,7 @@ pageid: 3233
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Courting_Death"
 categories:
-  - "Category:Maladies"
+  - "Maladies"
   - "Shuttered and Surrounds"
 media: []
 ---

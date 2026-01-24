@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bloodwretches"
 categories:
   - "Creatures"
-  - "Category:Inspired by"
+  - "Inspired by"
   - "Jahur"
-  - "Category:Sanglorian"
+  - "Sanglorian"
   - "Vampires"
 media: []
 ---

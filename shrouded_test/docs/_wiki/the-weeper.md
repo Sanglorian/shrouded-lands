@@ -5,7 +5,7 @@ pageid: 2581
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Weeper"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "Wizards"
 media: []

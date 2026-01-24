@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Central_Cathedral"
 categories:
   - "Alberon"
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

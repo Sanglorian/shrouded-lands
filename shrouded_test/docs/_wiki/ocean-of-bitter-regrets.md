@@ -5,8 +5,8 @@ pageid: 2933
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ocean_of_Bitter_Regrets"
 categories:
-  - "Category:Bodies of water"
-  - "Category:Regions"
+  - "Bodies of water"
+  - "Regions"
   - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []

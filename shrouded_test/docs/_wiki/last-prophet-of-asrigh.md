@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Last_Prophet_of_Asrigh"
 categories:
   - "Asrigh"
-  - "Category:Characters"
+  - "Characters"
   - "Priests"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Troglodytes"
 categories:
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Shuttered City"
 media: []
 ---

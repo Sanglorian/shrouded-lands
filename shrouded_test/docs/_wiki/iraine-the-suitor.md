@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Iraine_the_Suitor"
 categories:
   - "Alberon"
-  - "Category:Buildings"
-  - "Category:Characters"
+  - "Buildings"
+  - "Characters"
   - "Mages"
   - "The Shuttered City"
 media: []

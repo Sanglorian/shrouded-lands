@@ -5,8 +5,8 @@ pageid: 3320
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Balloons_(Shuttered)"
 categories:
-  - "Category:Artifacts"
-  - "Category:Buildings"
+  - "Artifacts"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

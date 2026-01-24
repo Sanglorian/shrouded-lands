@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Paionian_centaurs
 categories:
 - Centaurs
-- Category:Peoples
+- Peoples
 media: []
 is_redirect: true
 redirect_to: '04.17'

@@ -5,7 +5,7 @@ pageid: 2990
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Golden_Light"
 categories:
-  - "Category:Settlements"
+  - "Settlements"
   - "The Burning Lands"
 media: []
 ---

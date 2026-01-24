@@ -5,7 +5,7 @@ pageid: 2526
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Natala"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Lords Sanguine"
   - "The Lands of Gore"
 media: []

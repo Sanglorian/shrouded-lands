@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Osseries"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Osseries"
   - "Witch Clans"
 media: []

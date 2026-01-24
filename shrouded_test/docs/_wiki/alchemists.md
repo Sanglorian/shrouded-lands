@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Alchemists"
 categories:
   - "Alchemists"
   - "Jahur"
-  - "Category:Magic"
+  - "Magic"
   - "Professions"
 media: []
 ---

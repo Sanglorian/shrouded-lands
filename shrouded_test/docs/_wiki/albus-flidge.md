@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Albus_Flidge"
 categories:
   - "Browncloaks"
-  - "Category:Characters"
+  - "Characters"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1368](/media/ArthurRackham18.jpg)Connects to: [19.01](/wiki/19-01/) and [29.14.08](/wiki/29-14/).

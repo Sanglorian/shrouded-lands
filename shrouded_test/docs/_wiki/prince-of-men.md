@@ -5,9 +5,9 @@ pageid: 2780
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Prince_of_Men"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
-  - "Category:Humans"
+  - "Humans"
 media: []
 ---
 ![](/media/290703.png)Connects to: [19.31.03](/wiki/19-31/), [37.01](/wiki/37-01/) and [39.12](/wiki/39-12/).

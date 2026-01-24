@@ -5,7 +5,7 @@ pageid: 2945
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Abdul
 categories:
-- Category:Characters
+- Characters
 - The Westmarches
 - Tieflings
 media: []

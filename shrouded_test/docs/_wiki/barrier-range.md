@@ -5,7 +5,7 @@ pageid: 2420
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Barrier_Range"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Barrier Range"
 media: []
 ---

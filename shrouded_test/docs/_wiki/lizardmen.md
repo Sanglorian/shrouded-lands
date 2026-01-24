@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lizardmen"
 categories:
   - "Creatures"
   - "Lizardmen"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 !['Lizard Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)](/media/Lizardthing.jpg)

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Loguiso%27s_Wall"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "Gnomes"
   - "Loguiso's Wall"
   - "The Barrier Range"

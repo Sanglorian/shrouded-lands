@@ -5,7 +5,7 @@ pageid: 3245
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Yarbeens"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

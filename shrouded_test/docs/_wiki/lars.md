@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lars"
 categories:
   - "Alberon"
-  - "Category:Characters"
+  - "Characters"
   - "Chimerics"
   - "Creatures"
   - "The Shuttered City"

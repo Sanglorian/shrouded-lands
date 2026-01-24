@@ -5,7 +5,7 @@ pageid: 2769
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Svetlana_Verlime"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Verlimes"
 media: []
 ---

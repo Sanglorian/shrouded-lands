@@ -5,7 +5,7 @@ pageid: 3248
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Maris_Hallover"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Hallovers"
   - "The Barrier Range"
 media: []

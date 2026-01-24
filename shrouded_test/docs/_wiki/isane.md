@@ -5,7 +5,7 @@ pageid: 3336
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Isane"
 categories:
-  - "Category:Disambiguation"
+  - "Disambiguation"
 media: []
 ---
 Isane most commonly refers to [Isane the Beauty](/wiki/isane-the-beauty/), a concubine in [Jahur](/wiki/jahur/).

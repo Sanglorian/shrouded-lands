@@ -5,8 +5,8 @@ pageid: 2636
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Ziggurat"
 categories:
-  - "Category:Hex"
-  - "Category:LostSoul"
+  - "Hex"
+  - "LostSoul"
   - "The Westmarches"
 media: []
 ---

@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bergolast"
 categories:
   - "Cities"
-  - "Category:Lost civilisations"
+  - "Lost civilisations"
   - "Nations"
   - "The Burning Lands"
 media: []

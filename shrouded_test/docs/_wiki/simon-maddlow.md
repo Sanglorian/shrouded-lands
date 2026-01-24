@@ -5,7 +5,7 @@ pageid: 3153
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simon_Maddlow"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Maddlows"
   - "The Shuttered City"
 media: []

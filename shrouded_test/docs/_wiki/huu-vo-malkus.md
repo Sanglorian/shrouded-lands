@@ -5,7 +5,7 @@ pageid: 3452
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Huu_Vo_Malkus"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "The Kingswood"
   - "Verlimes"

@@ -5,7 +5,7 @@ pageid: 3334
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hierophant_of_Ninbolm"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Druids"
   - "Gnomes"
   - "Ninbolm"

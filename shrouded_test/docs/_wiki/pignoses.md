@@ -5,10 +5,10 @@ pageid: 4070
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pignoses"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Half-elves"
   - "Half-orcs"
-  - "Category:Humans"
+  - "Humans"
   - "The Freeholds"
 media: []
 ---

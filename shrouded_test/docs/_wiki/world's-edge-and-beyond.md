@@ -5,7 +5,7 @@ pageid: 2143
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/World%27s_Edge_and_Beyond"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The World's Edge and Beyond"
 media: []
 ---

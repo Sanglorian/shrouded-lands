@@ -5,8 +5,8 @@ pageid: 2936
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Abyss_Diamonds"
 categories:
-  - "Category:Artifacts"
-  - "Category:Gems"
+  - "Artifacts"
+  - "Gems"
   - "Jahur"
   - "Phenomena"
 media: []

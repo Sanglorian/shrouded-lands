@@ -8,7 +8,7 @@ categories:
   - "Creatures"
   - "Spells"
   - "The Shuttered City"
-  - "Category:Worms"
+  - "Worms"
 media: []
 ---
 The [Necromantic Office](/wiki/necromantic-office/) does not move quickly. Before condemning a criminal it requires three witnesses and long deliberations, but for most crimes within its purview there is only one penalty: the ever-winding worm.

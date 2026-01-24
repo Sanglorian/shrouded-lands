@@ -8,7 +8,7 @@ categories:
   - "Animals"
   - "Creatures"
   - "Lizardmen"
-  - "Category:Reptiles"
+  - "Reptiles"
 media: []
 ---
 !['Inostrancevia alexandri and Scutosaurus karpinski', Dmitry Bogdanov (CC BY 3.0 Unported)](/media/Inostrancevia_4DB.jpg)

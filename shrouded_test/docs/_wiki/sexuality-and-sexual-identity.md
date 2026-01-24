@@ -5,7 +5,7 @@ pageid: 2922
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sexuality_and_sexual_identity"
 categories:
-  - "Category:Customs"
+  - "Customs"
 media: []
 ---
 ## Sexuality

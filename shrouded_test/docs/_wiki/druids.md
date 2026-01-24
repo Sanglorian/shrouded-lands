@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Druids"
 categories:
   - "Druids"
-  - "Category:Magic"
+  - "Magic"
   - "Priests"
   - "Professions"
 media: []

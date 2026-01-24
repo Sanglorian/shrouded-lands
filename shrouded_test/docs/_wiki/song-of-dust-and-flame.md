@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Song_of_Dust_and_Flame"
 categories:
   - "Bards"
   - "Gnolls"
-  - "Category:Magic"
-  - "Category:Music"
+  - "Magic"
+  - "Music"
   - "The Burning Lands"
 media: []
 ---

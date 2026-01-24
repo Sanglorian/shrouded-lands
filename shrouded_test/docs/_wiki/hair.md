@@ -5,7 +5,7 @@ pageid: 3492
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hair"
 categories:
-  - "Category:Body parts"
+  - "Body parts"
 media: []
 ---
 ## Colour

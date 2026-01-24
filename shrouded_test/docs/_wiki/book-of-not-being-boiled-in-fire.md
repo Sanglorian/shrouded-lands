@@ -5,7 +5,7 @@ pageid: 3062
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Book_of_Not_Being_Boiled_in_Fire"
 categories:
-  - "Category:Books"
+  - "Books"
   - "Dead Tiamat"
   - "The Shuttered City"
 media: []

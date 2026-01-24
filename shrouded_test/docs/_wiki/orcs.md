@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Orcs"
 categories:
   - "Half-orcs"
   - "Orcs"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 !['Orc', Markus Röncke (Public Domain Dedication)](/media/Ork_schamane.jpg)

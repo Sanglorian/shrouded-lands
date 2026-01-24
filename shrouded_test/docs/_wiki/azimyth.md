@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Azimyth"
 categories:
   - "Bats"
   - "Creatures"
-  - "Category:Giant animals"
-  - "Category:Hex"
-  - "Category:Region unknown"
+  - "Giant animals"
+  - "Hex"
+  - "Region unknown"
   - "Severard"
 media: []
 ---

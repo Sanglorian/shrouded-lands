@@ -5,7 +5,7 @@ pageid: 3485
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Copperhairs"
 categories:
-  - "Category:Body parts"
+  - "Body parts"
   - "Elves"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 3175
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tenzerlins_and_Ghostas"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Shuttered City"
 media: []
 ---

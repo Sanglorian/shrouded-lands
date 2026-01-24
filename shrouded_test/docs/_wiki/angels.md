@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Angels"
 categories:
   - "Angels"
   - "Creatures"
-  - "Category:Outsiders"
+  - "Outsiders"
 media: []
 ---
 * The [Destroying Angel](/wiki/destroying-angel/) is the only occupant of a cave system through which the Glass Rapids run ([07.06](/wiki/07-06/)).

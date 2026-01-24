@@ -5,7 +5,7 @@ pageid: 3196
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Doge"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Doges"
   - "The Shuttered City"
 media: []

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/River_of_Crystal_Waters"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "The Duchy of Thring"
 media: []
 ---

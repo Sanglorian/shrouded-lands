@@ -5,10 +5,10 @@ pageid: 2751
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Unicorn"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Elves"
-  - "Category:Equines"
+  - "Equines"
 media: []
 ---
 * [29.07](/wiki/29-07/)![](/media/Bertuch-Unicorn.png)

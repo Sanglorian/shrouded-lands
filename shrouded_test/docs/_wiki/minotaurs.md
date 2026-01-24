@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Minotaurs"
 categories:
   - "Chimerics"
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ![lyonart, 'Minotaure posant pour un calendrier' (CC BY-SA 3.0 Unported)](/media/Minotaure_posant_pour_un_calendrier_S.jpg)![George Frederic Watts](/media/George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg)Minotaurs ([14.02](/wiki/14-02/), [18.26](/wiki/18-26/), [27.16](/wiki/27-16/), [29.14](/wiki/29-14/), [39.32](/wiki/39-32/))

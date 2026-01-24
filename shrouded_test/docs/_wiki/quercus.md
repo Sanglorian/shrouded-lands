@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Quercus"
 categories:
   - "Goblins"
-  - "Category:Magic"
-  - "Category:Sanglorian"
+  - "Magic"
+  - "Sanglorian"
 media: []
 ---
 :*The sacred oaks that skirt this sloping wood<br />

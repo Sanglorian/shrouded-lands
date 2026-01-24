@@ -5,7 +5,7 @@ pageid: 3472
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Queen_Sinister"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "Unseelie elves"
 media: []

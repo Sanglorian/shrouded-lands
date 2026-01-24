@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Potatoes_and_pies"
 categories:
   - "Orcs"
   - "The Grey Mountains"
-  - "Category:Victuals"
+  - "Victuals"
 media: []
 ---
 Many ask: what is the source of the military successes of the orcs of the Grey Mountains. Is it their legendary stoicism, the strength of their arms or the squabbling of their neighbors? It is none of these things, it is the potato. The rocky terrain around the orcish stronghold of Hoth Achaar ([26.01](/wiki/26-01/)) is poor farmland, orcware is sturdy but has difficulty competing with the make of elves and dwarves and the men of the freeholds are loath to sell the orcs meat and grain. The only thing that keeps the orcish warriors fed are the fields of potatoes that ring Hoth Achaar, which grow great yields even in the stony mountain soil.

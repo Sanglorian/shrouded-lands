@@ -5,7 +5,7 @@ pageid: 3155
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ushcka"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Ogres"
   - "The Barrier Range"
 media: []

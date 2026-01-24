@@ -5,8 +5,8 @@ pageid: 3519
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Severard%27s_Spellbook"
 categories:
-  - "Category:Books"
-  - "Category:Magic"
+  - "Books"
+  - "Magic"
   - "Severard"
   - "Spells"
 media: []

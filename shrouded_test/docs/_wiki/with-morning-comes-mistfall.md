@@ -5,7 +5,7 @@ pageid: 3152
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/With_Morning_Comes_Mistfall"
 categories:
-  - "Category:Books"
+  - "Books"
   - "The Shuttered City"
 media: []
 ---

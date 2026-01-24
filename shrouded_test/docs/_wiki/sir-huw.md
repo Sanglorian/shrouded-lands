@@ -5,7 +5,7 @@ pageid: 2623
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sir_Huw"
 categories:
-  - "Category:Characters"
+  - "Characters"
 media: []
 ---
 ![JesicaLR (CC BY-SA 3.0 Unported)](/media/Aragorn.png)After failing to best a lion in the trial to become a [Brother of the Lion](/wiki/brothers-of-the-lion/), Huw was condemned to a life among a lion pride that wanders [The Devil's Fingers](/wiki/the-devil's-fingers/) and [The Singing Wastes](/wiki/the-singing-wastes/).

@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Mermaids"
 categories:
   - "Chimerics"
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 [28.21](/wiki/28-21/)

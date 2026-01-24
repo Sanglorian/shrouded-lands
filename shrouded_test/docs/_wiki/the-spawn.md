@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Spawn"
 categories:
   - "Amphibians"
   - "Animals"
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
-  - "Category:Frogs"
+  - "Frogs"
   - "The Kingswood"
   - "The Witchwater"
 media: []

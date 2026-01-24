@@ -6,11 +6,11 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Homunculi"
 categories:
-  - "Category:Beetlefolk"
+  - "Beetlefolk"
   - "Creatures"
-  - "Category:Delasars"
+  - "Delasars"
   - "Homunculi"
-  - "Category:Humans"
+  - "Humans"
   - "Insects"
   - "The Westmarches"
 media: []

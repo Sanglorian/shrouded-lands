@@ -5,7 +5,7 @@ pageid: 2440
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Cloud_and_storm_giants
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Pirate Kings

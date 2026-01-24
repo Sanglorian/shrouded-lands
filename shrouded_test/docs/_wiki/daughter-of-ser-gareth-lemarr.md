@@ -5,7 +5,7 @@ pageid: 2539
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Daughter_of_Ser_Gareth_Lemarr"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Lands of Gore"
 media: []
 ---

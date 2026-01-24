@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Valderama_Bolger"
 categories:
   - "Bolgers"
-  - "Category:Characters"
+  - "Characters"
   - "Halflings"
 media: []
 ---

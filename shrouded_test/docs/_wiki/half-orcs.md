@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Half-orcs"
 categories:
   - "Half-orcs"
   - "Orcs"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 The result of a union between [orc](/wiki/orcs/) and human.

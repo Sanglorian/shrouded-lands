@@ -5,8 +5,8 @@ pageid: 2943
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wild_men"
 categories:
-  - "Category:Humans"
-  - "Category:Peoples"
+  - "Humans"
+  - "Peoples"
   - "The Kingswood"
 media: []
 ---

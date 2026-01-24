@@ -5,7 +5,7 @@ pageid: 3276
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Zhuriman"
 categories:
-  - "Category:Destroyed nations and places"
+  - "Destroyed nations and places"
   - "Nations"
 media: []
 ---

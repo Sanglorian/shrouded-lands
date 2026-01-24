@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered_and_surrounds"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "Shuttered and Surrounds"
   - "The Shuttered City"
 media: []

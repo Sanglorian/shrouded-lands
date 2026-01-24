@@ -5,7 +5,7 @@ pageid: 2859
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Singing_Wastes"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Singing Wastes"
 media: []
 ---

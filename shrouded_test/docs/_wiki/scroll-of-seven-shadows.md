@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Scroll_of_Seven_Shadows"
 categories:
   - "Alberon"
   - "Bergolast"
-  - "Category:Books"
+  - "Books"
   - "The King in Splendour"
 media: []
 ---

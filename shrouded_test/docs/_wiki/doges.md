@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Doges"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Doges"
   - "The Shuttered City"
 media: []

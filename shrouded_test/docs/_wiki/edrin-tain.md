@@ -5,8 +5,8 @@ pageid: 3667
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Edrin_Tain"
 categories:
-  - "Category:Characters"
-  - "Category:Clerics"
+  - "Characters"
+  - "Clerics"
   - "Sorcerers"
   - "The Westmarches"
 media: []

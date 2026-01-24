@@ -5,7 +5,7 @@ pageid: 3192
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alvise_Ettienne_(nephew)"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Ettiennes"
   - "The Freeholds"
   - "The Shuttered City"

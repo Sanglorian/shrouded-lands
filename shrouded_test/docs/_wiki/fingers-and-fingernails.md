@@ -5,8 +5,8 @@ pageid: 2590
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fingers_and_fingernails"
 categories:
-  - "Category:Body parts"
-  - "Category:Customs"
+  - "Body parts"
+  - "Customs"
 media: []
 ---
 * The Market Pit is lit by candles made of human finger bones ([28.04](/wiki/28-04/))

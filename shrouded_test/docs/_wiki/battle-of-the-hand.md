@@ -5,7 +5,7 @@ pageid: 4101
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Battle_of_the_Hand"
 categories:
-  - "Category:Customs"
+  - "Customs"
   - "The Duchy of Thring"
 media: []
 ---

@@ -5,7 +5,7 @@ pageid: 2439
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Yaegha_Six-Kidneys"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Necromancers"
 media: []
 ---

@@ -5,12 +5,12 @@ pageid: 3594
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Song_of_Ban_and_Ulena"
 categories:
-  - "Category:Plays"
-  - "Category:Seutorians"
+  - "Plays"
+  - "Seutorians"
   - "The Duchy of Thring"
   - "The Shuttered City"
   - "Trimueil"
-  - "Category:Works"
+  - "Works"
 media: []
 ---
 ## The Song of Ban and Ulena

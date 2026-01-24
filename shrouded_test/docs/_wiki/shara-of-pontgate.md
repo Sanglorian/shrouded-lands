@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shara_of_Pontgate"
 categories:
   - "Blind Midshotgatepool"
-  - "Category:Characters"
+  - "Characters"
   - "Earth Whisperers"
-  - "Category:Five Founders"
+  - "Five Founders"
   - "Priests"
   - "Witches"
 media: []

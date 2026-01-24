@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Nuns_of_St._Birgit"
 categories:
   - "Lycanthropes"
-  - "Category:Monks"
+  - "Monks"
   - "Priests"
   - "Religious groups"
   - "The Duchy of Thring"

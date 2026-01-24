@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Welt_Road"
 categories:
-  - "Category:Buildings"
-  - "Category:Roads"
+  - "Buildings"
+  - "Roads"
   - "Welt Road"
 media: []
 ---

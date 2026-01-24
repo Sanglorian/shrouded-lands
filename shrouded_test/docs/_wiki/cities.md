@@ -6,7 +6,7 @@ namespace: 14
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cities"
 categories:
-  - "Category:Settlements"
+  - "Settlements"
 media: []
 ---
 [Cities](/wiki/cities/)

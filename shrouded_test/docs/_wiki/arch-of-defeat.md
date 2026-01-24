@@ -5,7 +5,7 @@ pageid: 3078
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Arch_of_Defeat"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "Conflicts"
   - "The Shuttered City"
 media: []

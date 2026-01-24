@@ -5,7 +5,7 @@ pageid: 3101
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Lion_in_Splendor
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: King in Splendor

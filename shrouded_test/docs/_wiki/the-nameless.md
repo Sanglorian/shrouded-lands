@@ -5,7 +5,7 @@ pageid: 2593
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Nameless"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Orcs"
 media: []
 ---

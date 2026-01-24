@@ -5,7 +5,7 @@ pageid: 3184
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_Ulthar"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Ducal family of Thring"
   - "The Duchy of Thring"
 media: []

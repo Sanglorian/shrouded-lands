@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Fiends"
 categories:
   - "Creatures"
   - "Fiends"
-  - "Category:Outsiders"
+  - "Outsiders"
 media: []
 ---
 ![](/media/Demons.jpg)**Fiends** includes at least **demons** and **devils**. There are few [outsiders](/wiki/outsiders/) for the fiendslayers to hunt after the [Shuttering](/wiki/shuttering/).

@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Halflings"
 categories:
   - "Halflings"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ![JesicaLR (CC BY-SA 3.0 Unported)](/media/Bilbo_Bolsón.png)

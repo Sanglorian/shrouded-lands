@@ -5,7 +5,7 @@ pageid: 3002
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Freeholds"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Freeholds"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Matriarch"
 categories:
   - "Alberon"
-  - "Category:Characters"
+  - "Characters"
   - "Matriarchs"
   - "Priests"
   - "The Shuttered City"

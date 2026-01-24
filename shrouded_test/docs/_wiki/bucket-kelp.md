@@ -5,7 +5,7 @@ pageid: 3479
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bucket_kelp"
 categories:
-  - "Category:Drugs"
+  - "Drugs"
   - "Jahur"
   - "Octoids"
   - "Plants"

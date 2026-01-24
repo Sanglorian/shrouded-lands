@@ -5,7 +5,7 @@ pageid: 3518
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_of_Alberon_(disambiguation)"
 categories:
-  - "Category:Disambiguation"
+  - "Disambiguation"
 media: []
 ---
 May refer to:

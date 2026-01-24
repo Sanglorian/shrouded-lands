@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hills_of_Gore"
 categories:
   - "Nations"
-  - "Category:Regions"
+  - "Regions"
   - "The Lands of Gore"
 media: []
 ---

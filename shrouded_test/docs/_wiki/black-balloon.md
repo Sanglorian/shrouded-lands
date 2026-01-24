@@ -5,8 +5,8 @@ pageid: 3347
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Black_Balloon"
 categories:
-  - "Category:Artifacts"
-  - "Category:Buildings"
+  - "Artifacts"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

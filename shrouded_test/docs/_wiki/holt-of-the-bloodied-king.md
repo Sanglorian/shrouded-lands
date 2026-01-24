@@ -5,10 +5,10 @@ pageid: 3649
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Holt_of_the_Bloodied_King"
 categories:
-  - "Category:Daztur"
-  - "Category:Drek"
+  - "Daztur"
+  - "Drek"
   - "Elves"
-  - "Category:Settlements"
+  - "Settlements"
   - "The Kingswood"
   - "The Witchwater"
 media: []

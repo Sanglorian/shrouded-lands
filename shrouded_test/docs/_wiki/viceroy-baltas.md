@@ -5,7 +5,7 @@ pageid: 3260
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Viceroy_Baltas"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Jahur"
   - "Viceroys"
 media: []

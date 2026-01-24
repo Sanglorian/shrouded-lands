@@ -8,7 +8,7 @@ categories:
   - "Animals"
   - "Creatures"
   - "Lizardmen"
-  - "Category:Reptiles"
+  - "Reptiles"
 media: []
 ---
 !['Dimetrodon grandis on sunrise', Dmitry Bogdanov (CC BY 3.0 Unported)](/media/Dimetrodon8DB.jpg)

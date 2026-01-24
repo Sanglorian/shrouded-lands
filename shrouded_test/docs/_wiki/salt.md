@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Salt"
 categories:
   - "Phenomena"
-  - "Category:Victuals"
+  - "Victuals"
 media: []
 ---
 Salt from [beyond the World's Edge](/wiki/the-world's-edge-and-beyond/) makes people more docile and obedient ([44.03](/wiki/44-03/)), which Cleramon has taken advantage of ([46.02](/wiki/46-02/))

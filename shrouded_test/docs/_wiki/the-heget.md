@@ -5,7 +5,7 @@ pageid: 2625
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Heget"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
 media: []
 ---

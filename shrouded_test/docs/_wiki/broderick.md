@@ -5,7 +5,7 @@ pageid: 2523
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Broderick"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Duchy of Thring"
 media: []
 ---

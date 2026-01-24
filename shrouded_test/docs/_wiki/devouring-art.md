@@ -5,11 +5,11 @@ pageid: 4104
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devouring_art"
 categories:
-  - "Category:Customs"
+  - "Customs"
   - "Gnolls"
-  - "Category:Philosophies"
+  - "Philosophies"
   - "The Burning Lands"
-  - "Category:Victuals"
+  - "Victuals"
 media: []
 ---
 The **devouring art **is the name for the [gnollish](/wiki/gnolls/) practice of eating raw hearts to gain the strength and characteristics of the creature. The gnolls say that this ancient ritual binds their soul to the spirit of the animal and gives them great strength and other powers. This is usually done with [aurochs](/wiki/aurochs/) but it has been known to have been performed on everything from [mammoths](/wiki/mammoths/) to [ghost apes](/wiki/ghost-apes/), with varying effects. The gnolls report that the gnolls who do this enjoy no afterlife, for the souls of the gnolls are too closely entangled with the spirits of animals to leave this world and drink the honeyed milk of the [Mother of All](/wiki/mother-of-all/). 

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Glass_Rapids"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "Glass Rapids"
   - "The Freeholds"
 media: []

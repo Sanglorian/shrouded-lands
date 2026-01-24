@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Abbalah-Doon
 categories:
 - Gnolls
-- Category:Villages
+- Villages
 media: []
 is_redirect: true
 redirect_to: '15.28'

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Naros"
 categories:
-  - "Category:Destroyed nations and places"
+  - "Destroyed nations and places"
   - "Nations"
   - "The Twelve Nations"
 media: []

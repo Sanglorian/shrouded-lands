@@ -5,7 +5,7 @@ pageid: 2595
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Gischard_Penderghast
 categories:
-- Category:Characters
+- Characters
 - Penderghasts
 - Witch Clans
 media: []

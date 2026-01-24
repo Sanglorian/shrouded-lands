@@ -5,7 +5,7 @@ pageid: 3554
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hardrald_Longspear"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Longspears"
   - "The Westmarches"
   - "Winds"

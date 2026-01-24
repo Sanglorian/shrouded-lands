@@ -5,12 +5,12 @@ pageid: 3368
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sweitbor_the_Roarer"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Ducal family of Thring"
   - "Dukes of Thring"
   - "Lochgates"
   - "Lycanthropes"
-  - "Category:Nobles"
+  - "Nobles"
   - "The Duchy of Thring"
 media: []
 ---

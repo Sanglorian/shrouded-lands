@@ -5,8 +5,8 @@ pageid: 3446
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tehaar_the_Huntress"
 categories:
-  - "Category:Characters"
-  - "Category:Daztur"
+  - "Characters"
+  - "Daztur"
   - "Elves"
   - "The Kingswood"
 media: []

@@ -5,7 +5,7 @@ pageid: 3124
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Journal_in_Green"
 categories:
-  - "Category:Books"
+  - "Books"
   - "Lisbet"
   - "The Kingswood"
 media: []

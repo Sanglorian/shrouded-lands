@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dragonblooded"
 categories:
   - "Creatures"
   - "Dead Tiamat"
-  - "Category:Peoples"
+  - "Peoples"
   - "Phenomena"
   - "Plants"
 media: []

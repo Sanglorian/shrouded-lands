@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/The_Twelve_Nations
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Twelve Nations

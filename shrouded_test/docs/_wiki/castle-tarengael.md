@@ -5,10 +5,10 @@ pageid: 4100
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Castle_Tarengael"
 categories:
-  - "Category:Castles"
+  - "Castles"
   - "Ducal family of Thring"
   - "River of Crystal Waters"
-  - "Category:Tarengael"
+  - "Tarengael"
   - "The Duchy of Thring"
 media: []
 ---

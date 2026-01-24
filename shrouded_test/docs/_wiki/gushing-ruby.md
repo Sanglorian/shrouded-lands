@@ -5,7 +5,7 @@ pageid: 3255
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gushing_Ruby"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "Jahur"
 media: []
 ---

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duergar"
 categories:
   - "Dwarves"
-  - "Category:Peoples"
-  - "Category:The Tantalus Mountains"
+  - "Peoples"
+  - "The Tantalus Mountains"
 media: []
 ---
 The [dwarves](/wiki/dwarves/) native to the [Tantalus Mountains](/wiki/tantalus-mountains/) are nothing like their northern [Grey Mountain](/wiki/grey-mountains/) cousins. They call themselves **duergar**. They are hairless as lizards and their complexions share the hues and granulation of the stone in their tunnels. None have been known to have a sense of humor. This may have to do with the fact that all alcohol is poisonous to them, and that they make no music. The ring of pickaxes and hammers against stone fill their cold, unlit halls day and night.

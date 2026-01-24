@@ -5,7 +5,7 @@ pageid: 3193
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alvise_Ettienne"
 categories:
-  - "Category:Disambiguation"
+  - "Disambiguation"
 media: []
 ---
 May refer to:

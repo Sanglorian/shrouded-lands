@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Jackalweres"
   - "Lycanthropes"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 [Jackalweres](/wiki/jackalweres/), devious creatures with human and jackal features, dwell in necropoli on the Shrouded Lands' eastern border, including in [51.17](/wiki/51-17/). 

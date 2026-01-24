@@ -5,10 +5,10 @@ pageid: 4115
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Annual_Camel_Race"
 categories:
-  - "Category:Camels"
-  - "Category:Customs"
+  - "Camels"
+  - "Customs"
   - "Jahur"
-  - "Category:Sports"
+  - "Sports"
   - "The Burning Lands"
 media: []
 ---

@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Koldran"
 categories:
-  - "Category:Characters"
-  - "Category:Humans"
+  - "Characters"
+  - "Humans"
   - "The Freeholds"
 media: []
 ---

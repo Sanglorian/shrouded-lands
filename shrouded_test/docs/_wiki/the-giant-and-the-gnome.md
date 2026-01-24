@@ -5,7 +5,7 @@ pageid: 3199
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Giant_and_the_Gnome"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

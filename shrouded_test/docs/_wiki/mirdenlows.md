@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Mirdenlows"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Mirdenlows"
   - "Witch Clans"
 media: []

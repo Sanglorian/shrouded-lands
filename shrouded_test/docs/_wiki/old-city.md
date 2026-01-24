@@ -5,9 +5,9 @@ pageid: 3349
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Old_City"
 categories:
-  - "Category:Buildings"
-  - "Category:Giants"
-  - "Category:Lost civilisations"
+  - "Buildings"
+  - "Giants"
+  - "Lost civilisations"
   - "The Shuttered City"
   - "Undercity"
 media: []

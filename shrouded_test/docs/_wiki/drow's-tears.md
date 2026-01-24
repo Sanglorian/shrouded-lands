@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drow%27s_Tears"
 categories:
   - "Phenomena"
-  - "Category:Weather"
+  - "Weather"
 media: []
 ---
 Black rainclouds described in more detail in [With Morning Comes Mistfall](/wiki/with-morning-comes-mistfall/). '[Drow](/wiki/drow/)' may refer to a particular person, or a race of elves.

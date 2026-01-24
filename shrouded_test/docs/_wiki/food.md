@@ -5,8 +5,8 @@ pageid: 3544
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Food"
 categories:
-  - "Category:Customs"
-  - "Category:Victuals"
+  - "Customs"
+  - "Victuals"
 media: []
 ---
 * The orc army marches on its [potatoes and pies](/wiki/potatoes-and-pies/)

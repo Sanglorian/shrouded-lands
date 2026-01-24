@@ -5,7 +5,7 @@ pageid: 2524
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Jester_Prince"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Duchy of Thring"
   - "The Lands of Gore"
 media: []

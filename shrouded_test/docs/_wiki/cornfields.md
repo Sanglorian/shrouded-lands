@@ -5,7 +5,7 @@ pageid: 2869
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cornfields"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Cornfields"
 media: []
 ---

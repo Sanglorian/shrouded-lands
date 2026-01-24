@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Were-Barnabi"
 categories:
   - "Creatures"
   - "Lycanthropes"
-  - "Category:Peoples"
+  - "Peoples"
   - "Severard"
   - "The Freeholds"
 media: []

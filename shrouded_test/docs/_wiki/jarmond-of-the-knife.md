@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Jarmond_of_the_Knife"
 categories:
   - "Alberon"
   - "Bergolast"
-  - "Category:Characters"
+  - "Characters"
   - "The Shuttered City"
 media: []
 ---

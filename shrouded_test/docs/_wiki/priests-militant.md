@@ -11,7 +11,7 @@ categories:
   - "Professions"
   - "Religious groups"
   - "The Shuttered City"
-  - "Category:Warriors"
+  - "Warriors"
 media: []
 ---
 The **Priests-Militant** are priests of Alberon. 

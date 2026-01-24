@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Olgam_and_Oskill"
 categories:
   - "Dwarves"
   - "Gnomes"
-  - "Category:Hex"
+  - "Hex"
   - "The Lands of Gore"
 media: []
 ---

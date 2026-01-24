@@ -5,7 +5,7 @@ pageid: 2703
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ulthar_the_Loved
 categories:
-- Category:Characters
+- Characters
 - The Duchy of Thring
 media: []
 is_redirect: true

@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Pirate_Kings"
 categories:
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
   - "Pirate Kings"
   - "The Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"

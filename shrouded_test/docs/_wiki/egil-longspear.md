@@ -5,9 +5,9 @@ pageid: 3555
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Egil_Longspear"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Longspears"
-  - "Category:Mercenaries"
+  - "Mercenaries"
 media: []
 ---
 * *Family:** [Longspears](/wiki/longspears/). [Hardrald Longspear](/wiki/hardrald-longspear/) is his father.

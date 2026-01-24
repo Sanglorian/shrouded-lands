@@ -5,9 +5,9 @@ pageid: 3114
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dust_Men"
 categories:
-  - "Category:Philosophies"
+  - "Philosophies"
   - "Religious groups"
-  - "Category:Undying Cycle"
+  - "Undying Cycle"
 media: []
 ---
 Hyfalls ([40.20](/wiki/40-20/)) currently reluctantly hosts a large group of dust Men.

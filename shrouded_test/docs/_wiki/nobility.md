@@ -5,7 +5,7 @@ pageid: 3538
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Nobility"
 categories:
-  - "Category:Nobles"
+  - "Nobles"
   - "Professions"
 media: []
 ---

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Algrael_the_Gelderer"
 categories:
   - "Bards"
-  - "Category:Characters"
-  - "Category:Poets"
+  - "Characters"
+  - "Poets"
 media: []
 ---
 ## The Heir of Trimueil

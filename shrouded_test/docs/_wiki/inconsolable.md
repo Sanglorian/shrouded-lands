@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Inconsolable"
 categories:
   - "City of Smoke"
-  - "Category:Isle of Thalanyl"
+  - "Isle of Thalanyl"
   - "Jahur"
-  - "Category:Ships"
+  - "Ships"
 media: []
 ---
 ## The Inconsolable

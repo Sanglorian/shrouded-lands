@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duchy_of_Thring"
 categories:
   - "Nations"
-  - "Category:Regions"
+  - "Regions"
   - "The Duchy of Thring"
 media: []
 ---

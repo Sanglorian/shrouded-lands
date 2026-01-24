@@ -5,12 +5,12 @@ pageid: 4123
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Armand_of_the_Axe"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Lycanthropes"
   - "Priests"
   - "Shuttered and Surrounds"
   - "The King in Splendour"
-  - "Category:Warriors"
+  - "Warriors"
 media: []
 ---
 ## Armand of the Axe

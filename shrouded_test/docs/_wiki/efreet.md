@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Efreet"
 categories:
   - "Creatures"
-  - "Category:Genies"
-  - "Category:Outsiders"
+  - "Genies"
+  - "Outsiders"
 media: []
 ---
 According to the [gnolls](/wiki/gnolls/), their matrons copulated with **efreet** to burn away the land's weakness. There are quite a few [fire genasi](/wiki/fire-genasi/) in the gnolls' ranks, who may descend from such a union.

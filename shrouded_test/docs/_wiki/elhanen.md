@@ -5,7 +5,7 @@ pageid: 3068
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elhanen"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Golden Realm"
   - "The King in Splendour"
   - "The Shuttered City"

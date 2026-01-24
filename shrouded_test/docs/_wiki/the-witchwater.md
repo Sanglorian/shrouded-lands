@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Witchwater"
 categories:
-  - "Category:Bodies of water"
-  - "Category:Places"
+  - "Bodies of water"
+  - "Places"
   - "The Kingswood"
   - "The Witchwater"
   - "The World's Edge and Beyond"

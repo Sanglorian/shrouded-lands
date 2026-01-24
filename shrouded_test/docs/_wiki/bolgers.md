@@ -7,8 +7,8 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bolgers"
 categories:
   - "Bolgers"
-  - "Category:Characters"
-  - "Category:Families"
+  - "Characters"
+  - "Families"
   - "Halflings"
 media: []
 ---

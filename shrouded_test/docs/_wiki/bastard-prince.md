@@ -5,7 +5,7 @@ pageid: 3636
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bastard_Prince"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "The Kingswood"
   - "Unseelie elves"

@@ -5,7 +5,7 @@ pageid: 2720
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Forest_of_Abominations"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Forest of Abominations"
   - "The Singing Wastes"
 media: []

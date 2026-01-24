@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Kuo-toa"
 categories:
   - "Creatures"
   - "Kuo-toa"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Burning Lands"
   - "The Keening Sea"
 media: []

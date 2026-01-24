@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Shroom_wine"
 categories:
   - "Hobgoblins"
   - "The Freeholds"
-  - "Category:Victuals"
+  - "Victuals"
 media: []
 ---
 * *Shroom wine**, **shroomwine** or **hobgoblin shroom wine** is prepared by the [hobgoblins](/wiki/hobgoblins/) of the Hobgoblin Caves ([16.04](/wiki/16-04/)), and maybe elsewhere too. The hobgoblins who dwell in the Hobgoblin Hills ([16.04](/wiki/16-04/)) are known far and wide for their production of shroomwine, a potent hallucinogen. It is distilled from the various bioluminescent [mushrooms](/wiki/mushrooms/) that grow in the caverns beneath the hills. This cave network goes on for miles in every direction, and even the hobgoblins have not explored down to its lowest reaches.

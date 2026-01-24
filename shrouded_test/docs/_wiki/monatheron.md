@@ -5,7 +5,7 @@ pageid: 3240
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Monatheron"
 categories:
-  - "Category:Hex"
+  - "Hex"
   - "Shuttered and Surrounds"
 media: []
 ---

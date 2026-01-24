@@ -7,10 +7,10 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Horse_market_(Tarengael)"
 categories:
   - "Animals"
   - "Baron Autumn"
-  - "Category:Equines"
+  - "Equines"
   - "Knights"
   - "Mounts"
-  - "Category:Tarengael"
+  - "Tarengael"
   - "The Duchy of Thring"
 media: []
 ---

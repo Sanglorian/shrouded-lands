@@ -5,8 +5,8 @@ pageid: 3436
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Ward"
 categories:
-  - "Category:Characters"
-  - "Category:Nobles"
+  - "Characters"
+  - "Nobles"
   - "The Freeholds"
 media: []
 ---

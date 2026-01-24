@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Gibberlings"
 categories:
   - "Bergolast"
   - "Creatures"
-  - "Category:Humans"
-  - "Category:Peoples"
+  - "Humans"
+  - "Peoples"
   - "The Burning Lands"
 media: []
 ---

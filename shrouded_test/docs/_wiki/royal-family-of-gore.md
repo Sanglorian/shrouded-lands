@@ -5,8 +5,8 @@ pageid: 2525
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Royal_family_of_Gore"
 categories:
-  - "Category:Characters"
-  - "Category:Families"
+  - "Characters"
+  - "Families"
   - "The Duchy of Thring"
   - "The Lands of Gore"
 media: []

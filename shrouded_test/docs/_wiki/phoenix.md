@@ -8,7 +8,7 @@ categories:
   - "Birds"
   - "Creatures"
   - "Elementals"
-  - "Category:Olmsteds"
+  - "Olmsteds"
 media: []
 ---
 ## Connections

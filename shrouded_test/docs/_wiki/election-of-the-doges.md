@@ -5,7 +5,7 @@ pageid: 3179
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Election_of_the_Doges"
 categories:
-  - "Category:Customs"
+  - "Customs"
   - "Doges"
   - "The Shuttered City"
 media: []

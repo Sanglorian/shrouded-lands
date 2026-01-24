@@ -5,7 +5,7 @@ pageid: 3418
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gaudy_Johnson"
 categories:
-  - "Category:Merchants"
+  - "Merchants"
   - "The Shuttered City"
 media: []
 ---

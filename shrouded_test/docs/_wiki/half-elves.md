@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Half-elves"
 categories:
   - "Elves"
   - "Half-elves"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 * The Holt of the Bloodied Lords ([03.31](/wiki/03-31/))

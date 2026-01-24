@@ -5,9 +5,9 @@ pageid: 2781
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bloodied_King"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
-  - "Category:Nobles"
+  - "Nobles"
   - "The Kingswood"
 media: []
 ---

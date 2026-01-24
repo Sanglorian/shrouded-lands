@@ -5,8 +5,8 @@ pageid: 3040
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Giles_Chosard"
 categories:
-  - "Category:Characters"
-  - "Category:Humans"
+  - "Characters"
+  - "Humans"
   - "The Shuttered City"
 media: []
 ---

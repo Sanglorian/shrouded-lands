@@ -5,7 +5,7 @@ pageid: 3265
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lunfar"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Gnomes"
   - "Jahur"
 media: []

@@ -5,7 +5,7 @@ pageid: 3247
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dungers_and_Hallovers"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

@@ -5,7 +5,7 @@ pageid: 2764
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grimes"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Half-orcs"
 media: []
 ---

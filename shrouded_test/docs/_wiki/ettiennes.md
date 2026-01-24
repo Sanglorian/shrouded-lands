@@ -7,8 +7,8 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ettiennes"
 categories:
   - "Creatures"
-  - "Category:Families"
-  - "Category:Peoples"
+  - "Families"
+  - "Peoples"
   - "The Freeholds"
   - "The Shuttered City"
 media: []

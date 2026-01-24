@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jermalaines"
 categories:
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 Jermalaines are finger-tall cave sprites who are almost as uncooperative and lazy as humans.

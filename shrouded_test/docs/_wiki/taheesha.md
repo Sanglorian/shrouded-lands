@@ -5,7 +5,7 @@ pageid: 3016
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Taheesha"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Jackalweres"
   - "Lycanthropes"

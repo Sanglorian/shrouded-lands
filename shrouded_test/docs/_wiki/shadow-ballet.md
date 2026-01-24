@@ -5,8 +5,8 @@ pageid: 3112
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shadow_Ballet"
 categories:
-  - "Category:Customs"
-  - "Category:Philosophies"
+  - "Customs"
+  - "Philosophies"
   - "Professions"
 media: []
 ---

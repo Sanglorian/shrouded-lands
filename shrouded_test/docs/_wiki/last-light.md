@@ -5,9 +5,9 @@ pageid: 3641
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Last_Light"
 categories:
-  - "Category:Artifacts"
+  - "Artifacts"
   - "Golden Realm"
-  - "Category:Weapons"
+  - "Weapons"
 media: []
 ---
 The sun-carved scimitar stolen by [Elhanen](/wiki/elhanen/) from her uncle the [King in Yellow](/wiki/king-in-yellow/) was the sword of the [Golden Realm](/wiki/golden-realm/)'s champions. It was forged from a meteor that fell from the sun, and it emits a dusky light in darkness. It causes white-hot wounds against creatures of the night, but against creatures of the day it is merely a blade of exceptional quality.

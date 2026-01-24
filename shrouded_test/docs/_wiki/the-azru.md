@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Azru"
 categories:
   - "Deities"
-  - "Category:Maladies"
+  - "Maladies"
 media: []
 ---
 The demigod of disease, mutilation and torment. The Azru's gender and even species are difficult to determine since all images of it include numerous deformities and disfiguring illnesses.

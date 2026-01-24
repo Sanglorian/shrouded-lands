@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hyfalls"
 categories:
   - "River Hyad"
   - "The Burning Lands"
-  - "Category:Towns"
+  - "Towns"
 media: []
 ---
 ## The Town of Hyfalls

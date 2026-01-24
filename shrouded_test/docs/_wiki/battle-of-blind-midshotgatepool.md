@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Battle_of_Blind_Midshotgat
 categories:
   - "Blind Midshotgatepool"
   - "Conflicts"
-  - "Category:Historical events"
+  - "Historical events"
   - "The Shuttered City"
 media: []
 ---

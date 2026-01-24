@@ -5,7 +5,7 @@ pageid: 3186
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Princess_Elandra"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Duchy of Thring"
 media: []
 ---

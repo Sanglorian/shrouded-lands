@@ -5,7 +5,7 @@ pageid: 3024
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/North_Gate_and_South_Gate"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

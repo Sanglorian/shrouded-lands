@@ -5,7 +5,7 @@ pageid: 3249
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Dungers
 categories:
-- Category:Families
+- Families
 - Witch Clans
 media: []
 is_redirect: true

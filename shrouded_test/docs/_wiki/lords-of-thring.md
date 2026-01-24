@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lords_of_Thring"
 categories:
-  - "Category:Characters"
-  - "Category:Nobles"
+  - "Characters"
+  - "Nobles"
   - "Professions"
   - "The Duchy of Thring"
 media: []

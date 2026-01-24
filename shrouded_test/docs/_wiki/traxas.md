@@ -5,7 +5,7 @@ pageid: 3606
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Traxas"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Lycanthropes"
   - "Shuttered and Surrounds"
   - "The Shuttered City"

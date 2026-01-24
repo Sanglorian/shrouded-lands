@@ -5,10 +5,10 @@ pageid: 4166
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pilgrim%27s_Way"
 categories:
-  - "Category:Customs"
-  - "Category:Philosophies"
+  - "Customs"
+  - "Philosophies"
   - "Religious groups"
-  - "Category:Undying Cycle"
+  - "Undying Cycle"
 media: []
 ---
 The Pilgrim's Way is taught by the monks of Pilgrim's Spire ([25.31](/wiki/25-31/)). The spire is named after the Pilgrim, a god of the [Undying Cycles of Creation](/wiki/undying-cycles-of-creation/), and the monks honour the Pilgrim's journey by sending visitors up its twenty thousand steps.

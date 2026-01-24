@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/White_elves"
 categories:
   - "Elves"
-  - "Category:Peoples"
+  - "Peoples"
   - "Zaal"
 media: []
 ---

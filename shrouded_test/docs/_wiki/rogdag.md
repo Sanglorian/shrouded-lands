@@ -5,7 +5,7 @@ pageid: 4156
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rogdag"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Ogres"
   - "Shuttered and Surrounds"

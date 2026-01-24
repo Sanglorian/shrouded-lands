@@ -5,7 +5,7 @@ pageid: 3447
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Brigadier_Kalas_Montra-brey"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Orcs"
   - "Shuttered and Surrounds"
 media: []

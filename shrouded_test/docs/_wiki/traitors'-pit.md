@@ -5,7 +5,7 @@ pageid: 3034
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Traitors%27_Pit"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

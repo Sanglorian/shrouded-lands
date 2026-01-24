@@ -5,7 +5,7 @@ pageid: 3566
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblin_shrooms"
 categories:
-  - "Category:Fungi"
+  - "Fungi"
   - "Hobgoblins"
   - "Plants"
   - "The Freeholds"

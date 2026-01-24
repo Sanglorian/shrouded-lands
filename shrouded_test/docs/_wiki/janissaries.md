@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Janissaries"
 categories:
   - "Jahur"
   - "Janissaries"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 Many buildings in [Jahur](/wiki/jahur/) are practically abandoned, but they remain well-maintained by mechanical custodians known as the [Janissaries](/wiki/janissaries/). The Janissaries are animated metallic constructs painted in a mockery of humanity. Each Janissary contains the soul of a worthy servant or warrior. Those who bear a warrior's soul serve as zealous guardians of the city. Many citizens hold the warriors in awe and terror, and defer to them despite the constructs' rigid beliefs and allegiance to a dead empire - the [Zhuriman Empire](/wiki/zhuriman-empire/).

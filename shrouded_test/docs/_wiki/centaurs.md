@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Centaurs"
 categories:
   - "Centaurs"
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 !['Last Centaur', Boris Artzybasheff](/media/Last_Centaur.jpg)

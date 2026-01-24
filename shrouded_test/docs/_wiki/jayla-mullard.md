@@ -5,7 +5,7 @@ pageid: 3556
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jayla_Mullard"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Longspears"
 media: []
 ---

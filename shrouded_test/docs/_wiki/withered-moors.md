@@ -5,7 +5,7 @@ pageid: 2080
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Withered_Moors"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Withered Moors"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sunless_Sea"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "The Freeholds"
 media: []
 ---

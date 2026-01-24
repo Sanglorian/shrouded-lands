@@ -5,7 +5,7 @@ pageid: 3036
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Windows_(Shuttered)"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "Planes"
   - "The Shuttered City"
   - "Undercity"

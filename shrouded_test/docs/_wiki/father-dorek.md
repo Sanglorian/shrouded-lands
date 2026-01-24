@@ -5,7 +5,7 @@ pageid: 2607
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Father_Dorek
 categories:
-- Category:Characters
+- Characters
 - Dwarves
 - The Westmarches
 media: []

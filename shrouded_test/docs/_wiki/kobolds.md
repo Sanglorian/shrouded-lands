@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Kobolds"
 categories:
   - "Creatures"
   - "Dragons"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 Kobolds are the things that [dragons](/wiki/dragons/) have forgotten.

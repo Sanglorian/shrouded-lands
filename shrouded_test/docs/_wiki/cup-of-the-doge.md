@@ -5,7 +5,7 @@ pageid: 3218
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cup_of_the_Doge"
 categories:
-  - "Category:Artifacts"
+  - "Artifacts"
   - "Doges"
   - "Dragons"
   - "The Shuttered City"

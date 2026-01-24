@@ -5,7 +5,7 @@ pageid: 3098
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lion%27s_Day"
 categories:
-  - "Category:Astronomy"
+  - "Astronomy"
   - "Phenomena"
   - "The King in Splendour"
 media: []

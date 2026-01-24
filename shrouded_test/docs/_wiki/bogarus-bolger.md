@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bogarus_Bolger"
 categories:
   - "Band bosses"
   - "Bolgers"
-  - "Category:Characters"
+  - "Characters"
   - "Halflings"
   - "Shuttered and Surrounds"
 media: []

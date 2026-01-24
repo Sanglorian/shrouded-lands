@@ -5,7 +5,7 @@ pageid: 3084
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Elharen
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Elhanen

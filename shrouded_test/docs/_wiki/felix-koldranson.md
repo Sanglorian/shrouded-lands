@@ -5,7 +5,7 @@ pageid: 3465
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Felix_Koldranson
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Flea

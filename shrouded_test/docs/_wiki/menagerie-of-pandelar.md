@@ -5,7 +5,7 @@ pageid: 3057
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Menagerie_of_Pandelar"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
   - "Undercity"
 media: []

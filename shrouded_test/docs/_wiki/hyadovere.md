@@ -6,9 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hyadovere"
 categories:
   - "Bergolast"
-  - "Category:Colonies"
-  - "Category:Lost civilisations"
-  - "Category:Settlements"
+  - "Colonies"
+  - "Lost civilisations"
+  - "Settlements"
   - "The Burning Lands"
 media: []
 ---

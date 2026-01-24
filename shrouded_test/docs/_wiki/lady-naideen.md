@@ -5,8 +5,8 @@ pageid: 3586
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Naideen"
 categories:
-  - "Category:Characters"
-  - "Category:Nobles"
+  - "Characters"
+  - "Nobles"
   - "The Duchy of Thring"
 media: []
 ---

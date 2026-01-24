@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wererats"
 categories:
   - "Lycanthropes"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 * A coven of wererats lives in Shotwick ([14.14](/wiki/14-14/))

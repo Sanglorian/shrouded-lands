@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shamans"
 categories:
   - "Lizardmen"
-  - "Category:Magic"
+  - "Magic"
   - "Professions"
 media: []
 ---

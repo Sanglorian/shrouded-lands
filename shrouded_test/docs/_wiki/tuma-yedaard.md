@@ -5,7 +5,7 @@ pageid: 2775
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tuma_Yedaard"
 categories:
-  - "Category:Synonyms"
+  - "Synonyms"
 media: []
 ---
 The name of [The Bloodied King](/wiki/the-bloodied-king/) and [The Kingswood](/wiki/the-kingswood/) in the language of the [elves](/wiki/elves/).

@@ -5,10 +5,10 @@ pageid: 3122
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bone_shards"
 categories:
-  - "Category:Artifacts"
+  - "Artifacts"
   - "Dead Tiamat"
   - "Pactmaking"
-  - "Category:Ritual currencies"
+  - "Ritual currencies"
 media: []
 ---
 ![](/media/Sl_gore4.png)These appear to be ancient but seemingly-normal bone shards. Only close inspection will reveal that they have been cut so cleanly that they could only have been chomped on by the jaws of [Tiamat](/wiki/tiamat/) herself. Pieces of bone that were crushed in the jaws of the mother of dragons are considered relics by all who revere Tiamat and they are often used as ritual currency.

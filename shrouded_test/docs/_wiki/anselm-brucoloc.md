@@ -5,7 +5,7 @@ pageid: 2762
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Anselm_Brucoloc
 categories:
-- Category:Characters
+- Characters
 - Lords Sanguine
 media: []
 is_redirect: true

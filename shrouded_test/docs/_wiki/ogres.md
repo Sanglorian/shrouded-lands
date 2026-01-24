@@ -9,7 +9,7 @@ categories:
   - "Dwarves"
   - "Ogres"
   - "Orcs"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ![Ogre](/media/Gs44.jpg)

@@ -5,7 +5,7 @@ pageid: 3463
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Princess_of_Seers"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Necromancers"
   - "Winds"
   - "Windseers"

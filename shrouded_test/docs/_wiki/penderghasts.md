@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Penderghasts"
 categories:
-  - "Category:Families"
+  - "Families"
   - "Penderghasts"
   - "Witch Clans"
 media: []

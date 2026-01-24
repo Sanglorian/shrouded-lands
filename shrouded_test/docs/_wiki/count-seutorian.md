@@ -5,8 +5,8 @@ pageid: 3593
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Count_Seutorian"
 categories:
-  - "Category:Nobles"
-  - "Category:Seutorians"
+  - "Nobles"
+  - "Seutorians"
   - "The Shuttered City"
 media: []
 ---

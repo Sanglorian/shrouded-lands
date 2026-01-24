@@ -5,7 +5,7 @@ pageid: 2421
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Other_planes
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Other planes

@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Tieflings"
 categories:
   - "Creatures"
   - "Fiends"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ![](/media/Aubrey_Beardsley_-_Edgar_Poe_4.jpg)**Inspiration: ***Wild Seed, *Octavia Butler

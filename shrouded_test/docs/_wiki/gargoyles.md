@@ -5,7 +5,7 @@ pageid: 4140
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gargoyles"
 categories:
-  - "Category:Constructs"
+  - "Constructs"
   - "Creatures"
 media: []
 ---

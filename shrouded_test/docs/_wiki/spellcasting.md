@@ -5,9 +5,9 @@ pageid: 3539
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spellcasting"
 categories:
-  - "Category:Elementalists"
+  - "Elementalists"
   - "Mages"
-  - "Category:Magic"
+  - "Magic"
   - "Sorcerers"
   - "Wizards"
 media: []

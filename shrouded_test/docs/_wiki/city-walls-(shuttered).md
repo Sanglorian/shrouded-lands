@@ -5,7 +5,7 @@ pageid: 3025
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/City_walls_(Shuttered)"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

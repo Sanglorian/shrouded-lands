@@ -5,8 +5,8 @@ pageid: 3202
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Simone%27s_Aviary"
 categories:
-  - "Category:Buildings"
-  - "Category:Customs"
+  - "Buildings"
+  - "Customs"
   - "The Barrier Range"
   - "The Moon"
   - "The Shuttered City"

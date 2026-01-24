@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Witch_Clans"
 categories:
-  - "Category:Families"
-  - "Category:Peoples"
+  - "Families"
+  - "Peoples"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

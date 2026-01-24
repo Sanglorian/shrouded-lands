@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/River_Hyad"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "River Hyad"
   - "The Burning Lands"
 media: []

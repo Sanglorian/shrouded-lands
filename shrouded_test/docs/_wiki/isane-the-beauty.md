@@ -5,7 +5,7 @@ pageid: 3258
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Isane_the_Beauty"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "Jahur"
   - "The Lands of the Night Cattle"

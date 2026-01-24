@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Nekh"
 categories:
   - "Birds"
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Singing Wastes"
 media: []
 ---

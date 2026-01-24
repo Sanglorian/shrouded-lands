@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Grey_worms"
 categories:
   - "Creatures"
   - "The World's Edge and Beyond"
-  - "Category:Worms"
+  - "Worms"
 media: []
 ---
 ![](/media/Edward_Burne-Jones_-_Perseus.jpeg)A grey worm is found in its lair ([46.06](/wiki/46-06/)). They are known for their rapacious greed and animal cunning, and can swallow a [su-giraffe](/wiki/su-giraffes/) whole - which satiates it for a fortnight.

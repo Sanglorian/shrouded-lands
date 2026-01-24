@@ -5,7 +5,7 @@ pageid: 3455
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Drow_of_Olmsted_Keep"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "The Lands of the Night Cattle"
   - "Unseelie elves"

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Daz"
 categories:
   - "Paladins"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Duchy of Thring"
 media: []
 ---

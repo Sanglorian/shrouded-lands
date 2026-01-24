@@ -6,10 +6,10 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Necromancers"
 categories:
-  - "Category:Magic"
+  - "Magic"
   - "Necromancers"
   - "Professions"
-  - "Category:Spellcasters"
+  - "Spellcasters"
 media: []
 ---
 : See also [Spellcasting](/wiki/spellcasting/)

@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Idjits"
 categories:
   - "Alchemists"
-  - "Category:Elementalists"
-  - "Category:Magic"
+  - "Elementalists"
+  - "Magic"
   - "Organisationss"
   - "The Singing Wastes"
 media: []

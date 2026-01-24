@@ -5,7 +5,7 @@ pageid: 2587
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dune_Walker"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "The Singing Wastes"
 media: []

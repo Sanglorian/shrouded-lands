@@ -5,7 +5,7 @@ pageid: 2612
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Belal"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Lords Sanguine"
   - "The Lands of Gore"
 media: []

@@ -5,7 +5,7 @@ pageid: 3023
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Shuttered_City
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: City of Shuttered Windows

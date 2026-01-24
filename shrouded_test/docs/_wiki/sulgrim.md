@@ -5,7 +5,7 @@ pageid: 2695
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Sulgrim
 categories:
-- Category:Characters
+- Characters
 - Lords Sanguine
 - The Lands of Gore
 - Trolls

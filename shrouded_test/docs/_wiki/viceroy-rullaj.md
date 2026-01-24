@@ -5,8 +5,8 @@ pageid: 3415
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Viceroy_Rullaj"
 categories:
-  - "Category:Characters"
-  - "Category:Humans"
+  - "Characters"
+  - "Humans"
   - "Jahur"
   - "Viceroys"
 media: []

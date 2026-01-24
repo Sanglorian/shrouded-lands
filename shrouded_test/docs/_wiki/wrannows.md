@@ -5,7 +5,7 @@ pageid: 3243
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Wrannows"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

@@ -5,8 +5,8 @@ pageid: 3618
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Treatise_on_Salt"
 categories:
-  - "Category:Books"
-  - "Category:Electric Wizard"
+  - "Books"
+  - "Electric Wizard"
   - "Jahur"
 media: []
 ---

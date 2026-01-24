@@ -5,7 +5,7 @@ pageid: 3126
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drogo"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Lands of the Night Cattle"
 media: []
 ---

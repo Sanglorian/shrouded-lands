@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lisbet"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Freeholds"
   - "The Kingswood"
 media: []

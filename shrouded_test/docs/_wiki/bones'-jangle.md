@@ -5,8 +5,8 @@ pageid: 3015
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bones%27_Jangle"
 categories:
-  - "Category:Buildings"
-  - "Category:Businesses"
+  - "Buildings"
+  - "Businesses"
   - "Sosaria"
 media: []
 ---

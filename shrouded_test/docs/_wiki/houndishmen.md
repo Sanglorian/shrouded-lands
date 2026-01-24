@@ -8,8 +8,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Houndishmen"
 categories:
   - "Dogtur"
   - "Houndishmen"
-  - "Category:Humans"
-  - "Category:Peoples"
+  - "Humans"
+  - "Peoples"
   - "The Westmarches"
 media: []
 ---

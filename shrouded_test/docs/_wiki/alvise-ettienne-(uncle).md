@@ -5,7 +5,7 @@ pageid: 3191
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alvise_Ettienne_(uncle)"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Ettiennes"
   - "The Shuttered City"
 media: []

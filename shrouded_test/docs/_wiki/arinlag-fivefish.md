@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Arinlag_Fivefish"
 categories:
   - "Bards"
-  - "Category:Characters"
+  - "Characters"
   - "Nordanbjorn"
   - "The Kingswood"
 media: []

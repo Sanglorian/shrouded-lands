@@ -9,7 +9,7 @@ categories:
   - "Aarakocra"
   - "Birds"
   - "Creatures"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ## Aarakocra

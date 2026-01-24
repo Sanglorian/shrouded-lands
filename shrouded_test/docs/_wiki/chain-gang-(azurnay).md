@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chain_Gang_(Azurnay)"
 categories:
   - "Dwarves"
-  - "Category:Machinists"
+  - "Machinists"
   - "Organisationss"
   - "The Burning Lands"
 media: []

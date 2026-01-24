@@ -5,7 +5,7 @@ pageid: 3224
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/White_Road"
 categories:
-  - "Category:Roads"
+  - "Roads"
   - "Shuttered and Surrounds"
 media: []
 ---

@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ducal_family_of_Thring"
 categories:
-  - "Category:Characters"
-  - "Category:Families"
+  - "Characters"
+  - "Families"
   - "The Duchy of Thring"
 media: []
 ---

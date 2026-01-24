@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Steadfasts"
 categories:
-  - "Category:Families"
-  - "Category:Humans"
+  - "Families"
+  - "Humans"
 media: []
 ---
 Previously known as **Stodfost**.

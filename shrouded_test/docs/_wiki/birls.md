@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Birls"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

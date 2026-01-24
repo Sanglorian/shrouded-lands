@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Jahur"
 categories:
   - "Cities"
-  - "Category:Inspired by"
+  - "Inspired by"
   - "Jahur"
   - "Sea of Typhoons"
 media: []

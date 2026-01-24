@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sea_of_Typhoons"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "Jahur"
   - "Sea of Typhoons"
 media: []

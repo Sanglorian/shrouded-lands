@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Horses"
 categories:
   - "Creatures"
-  - "Category:Equines"
+  - "Equines"
 media: []
 ---
 It may have struck you as curious, dear reader, to have heard few mentions of horses in this land of ours. It is certain that we had them, for their hides mock travellers to the Black Ziggurat ([18.26](/wiki/18-26/)), some still ride with Sir Aland on his futile hunt ([23.10](/wiki/23-10/)) and the knights of Thring raise up the bones of their dead horses ([16.16.04](/wiki/16-16/)).

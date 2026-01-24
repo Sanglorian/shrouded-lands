@@ -5,7 +5,7 @@ pageid: 3195
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seline_and_Eliana"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Doges"
   - "The Shuttered City"
 media: []

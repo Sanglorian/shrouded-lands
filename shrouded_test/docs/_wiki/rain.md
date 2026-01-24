@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rain"
 categories:
   - "Phenomena"
-  - "Category:Weather"
+  - "Weather"
 media: []
 ---
 [With Morning Comes Mistfall](/wiki/with-morning-comes-mistfall/) purports to explain why, in the Shrouded Lands, it rains but once a year (the so-called [Drow's Tears](/wiki/drow's-tears/)). The claim is that the [Queen Sinister](/wiki/queen-sinister/) cursed the land when she left the [Bloodied King](/wiki/bloodied-king/). 

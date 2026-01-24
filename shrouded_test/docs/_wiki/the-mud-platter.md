@@ -5,7 +5,7 @@ pageid: 3215
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Mud_Platter"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

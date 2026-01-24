@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Henry_Yaboon"
 categories:
   - "Blind Midshotgatepool"
-  - "Category:Characters"
+  - "Characters"
   - "Yaboons"
 media: []
 ---

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Gnome_ghosts"
 categories:
   - "Creatures"
   - "Dwarves"
-  - "Category:Giants"
+  - "Giants"
   - "Gnomes"
   - "The Shuttered City"
 media: []

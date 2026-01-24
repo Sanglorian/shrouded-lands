@@ -5,7 +5,7 @@ pageid: 3085
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Elharen_the_Silent
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Elhanen

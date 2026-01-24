@@ -5,7 +5,7 @@ pageid: 3099
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Testament_of_Weneslas_Stannev"
 categories:
-  - "Category:Books"
+  - "Books"
   - "She Who Waits"
   - "Stannevs"
   - "The King in Splendour"

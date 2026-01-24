@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Marche_of_the_Winterjarl"
 categories:
   - "Nordanbjorn"
-  - "Category:Regions"
+  - "Regions"
   - "The Grey Mountains"
   - "The Marche of the Winterjarl"
 media: []

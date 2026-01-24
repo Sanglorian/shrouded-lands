@@ -5,7 +5,7 @@ pageid: 3366
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_Theloc"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Dukes of Thring"
   - "The Duchy of Thring"
 media: []

@@ -5,7 +5,7 @@ pageid: 3061
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sealed_Library"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

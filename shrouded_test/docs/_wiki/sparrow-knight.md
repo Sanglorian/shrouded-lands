@@ -5,7 +5,7 @@ pageid: 3637
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sparrow_Knight"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Knights"
   - "The Duchy of Thring"
 media: []

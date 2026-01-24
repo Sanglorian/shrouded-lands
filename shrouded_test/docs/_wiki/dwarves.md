@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dwarves"
 categories:
   - "Dwarves"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ## Places

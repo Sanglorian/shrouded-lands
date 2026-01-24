@@ -5,8 +5,8 @@ pageid: 2963
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Rojarshans
 categories:
-- Category:Humans
-- Category:Peoples
+- Humans
+- Peoples
 - The Kingswood
 media: []
 is_redirect: true

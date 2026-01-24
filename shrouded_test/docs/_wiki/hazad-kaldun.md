@@ -5,9 +5,9 @@ pageid: 3154
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hazad_Kaldun"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Dwarves"
-  - "Category:Smiths"
+  - "Smiths"
   - "The Shuttered City"
 media: []
 ---

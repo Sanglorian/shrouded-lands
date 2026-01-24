@@ -5,7 +5,7 @@ pageid: 3263
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Fish"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "Jahur"
 media: []
 ---

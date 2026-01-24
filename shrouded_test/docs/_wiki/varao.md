@@ -5,9 +5,9 @@ pageid: 3252
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Varao"
 categories:
-  - "Category:Customs"
+  - "Customs"
   - "Halflings"
-  - "Category:Philosophies"
+  - "Philosophies"
 media: []
 ---
 * *Inspiration:** The *rontay* of the Afners, Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/10/i-killed-all-humans.html

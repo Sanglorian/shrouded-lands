@@ -5,9 +5,9 @@ pageid: 3188
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Weng_Xiao"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Shuttered City"
-  - "Category:Wengs"
+  - "Wengs"
 media: []
 ---
 ## The Tower of Weng Xiao

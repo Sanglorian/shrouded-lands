@@ -5,7 +5,7 @@ pageid: 2948
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Kolfrosta
 categories:
-- Category:Characters
+- Characters
 - Dead Tiamat
 - Priests
 - Witches

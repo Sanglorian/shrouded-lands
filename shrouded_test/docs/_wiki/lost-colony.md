@@ -5,7 +5,7 @@ pageid: 2069
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_Colony"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Lost Colony"
 media: []
 ---

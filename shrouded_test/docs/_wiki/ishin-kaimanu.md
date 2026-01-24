@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ishin_Kaimanu"
 categories:
   - "Dwarves"
-  - "Category:Families"
+  - "Families"
   - "The Westmarches"
 media: []
 ---

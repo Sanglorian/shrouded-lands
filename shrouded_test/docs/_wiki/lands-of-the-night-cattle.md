@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lands_of_the_Night_Cattle"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Lands of the Night Cattle"
 media: []
 ---

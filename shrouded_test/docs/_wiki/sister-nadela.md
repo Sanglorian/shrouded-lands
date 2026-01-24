@@ -5,7 +5,7 @@ pageid: 2530
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sister_Nadela"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Duchy of Thring"
 media: []
 ---

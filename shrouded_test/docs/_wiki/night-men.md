@@ -5,8 +5,8 @@ pageid: 3392
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Night_men"
 categories:
-  - "Category:Humans"
-  - "Category:Peoples"
+  - "Humans"
+  - "Peoples"
   - "The Lands of the Night Cattle"
 media: []
 ---

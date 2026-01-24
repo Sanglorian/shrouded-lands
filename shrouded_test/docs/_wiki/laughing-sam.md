@@ -5,7 +5,7 @@ pageid: 2850
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Laughing_Sam"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Dryads"
   - "Naros"

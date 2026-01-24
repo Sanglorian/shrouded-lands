@@ -5,10 +5,10 @@ pageid: 2862
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Tantalus_Mountains
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
-redirect_to: :Category:The Tantalus Mountains
+redirect_to: :The Tantalus Mountains
 ---
 #REDIRECT:
 

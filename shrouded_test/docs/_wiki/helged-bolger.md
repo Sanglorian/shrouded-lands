@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Helged_Bolger"
 categories:
   - "Bolgers"
-  - "Category:Characters"
+  - "Characters"
   - "The Shuttered City"
   - "Vampires"
 media: []

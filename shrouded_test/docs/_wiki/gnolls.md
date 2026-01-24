@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Gnolls"
 categories:
   - "Creatures"
   - "Gnolls"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Burning Lands"
   - "The Singing Wastes"
 media: []

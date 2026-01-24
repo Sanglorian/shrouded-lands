@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Cloud_halflings
 categories:
 - Halflings
-- Category:Peoples
+- Peoples
 - Tribes
 media: []
 is_redirect: true

@@ -5,9 +5,9 @@ pageid: 3643
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ilace_and_Jerrod"
 categories:
-  - "Category:Characters"
-  - "Category:Electors"
-  - "Category:Nobles"
+  - "Characters"
+  - "Electors"
+  - "Nobles"
   - "The Freeholds"
   - "The Shuttered City"
 media: []

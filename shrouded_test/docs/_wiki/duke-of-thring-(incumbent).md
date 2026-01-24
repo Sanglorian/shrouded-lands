@@ -5,7 +5,7 @@ pageid: 3187
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_of_Thring_(incumbent)"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "The Duchy of Thring"
 media: []
 ---

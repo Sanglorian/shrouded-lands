@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnomes"
 categories:
   - "Gnomes"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 Gnomes are one of the peoples of the Shrouded Lands.![A gnome gathering.](/media/JohnBauer12.jpg)

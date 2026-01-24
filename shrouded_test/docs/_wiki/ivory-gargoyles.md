@@ -5,7 +5,7 @@ pageid: 3012
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ivory_gargoyles"
 categories:
-  - "Category:Constructs"
+  - "Constructs"
   - "Creatures"
   - "Sosaria"
 media: []

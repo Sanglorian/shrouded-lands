@@ -5,7 +5,7 @@ pageid: 3019
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drinker%27s_Stein"
 categories:
-  - "Category:Artifacts"
+  - "Artifacts"
   - "Deities"
   - "Dwarves"
 media: []

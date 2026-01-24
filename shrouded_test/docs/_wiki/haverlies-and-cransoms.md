@@ -5,7 +5,7 @@ pageid: 3246
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Haverlies_and_Cransoms"
 categories:
-  - "Category:Families"
+  - "Families"
   - "The Barrier Range"
   - "Witch Clans"
 media: []

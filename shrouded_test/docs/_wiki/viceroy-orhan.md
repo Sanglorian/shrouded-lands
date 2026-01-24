@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Viceroy_Orhan"
 categories:
   - "Alchemists"
-  - "Category:Characters"
+  - "Characters"
   - "Jahur"
   - "Viceroys"
 media: []

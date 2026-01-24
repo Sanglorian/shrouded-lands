@@ -5,7 +5,7 @@ pageid: 2787
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ironsides
 categories:
-- Category:Characters
+- Characters
 - Jahur
 - Janissaries
 - The Cross

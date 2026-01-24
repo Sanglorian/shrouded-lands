@@ -5,7 +5,7 @@ pageid: 3173
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Tenzerlins
 categories:
-- Category:Families
+- Families
 - The Shuttered City
 media: []
 is_redirect: true

@@ -5,7 +5,7 @@ pageid: 2103
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devil%27s_Fingers"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Devil's Fingers"
 media: []
 ---

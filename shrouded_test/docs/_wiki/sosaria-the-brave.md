@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sosaria_the_Brave"
 categories:
   - "Bergolast"
-  - "Category:Songs"
+  - "Songs"
   - "Sosaria"
 media: []
 ---

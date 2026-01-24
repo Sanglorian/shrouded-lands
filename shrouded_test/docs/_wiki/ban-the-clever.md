@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Ban_the_Clever"
 categories:
   - "Blind Midshotgatepool"
-  - "Category:Characters"
-  - "Category:Five Founders"
+  - "Characters"
+  - "Five Founders"
   - "The Duchy of Thring"
 media: []
 ---

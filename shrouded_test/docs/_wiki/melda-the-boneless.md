@@ -5,7 +5,7 @@ pageid: 3535
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Melda_the_Boneless"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Jahur"
   - "Jahuri"
   - "Sorcerers"

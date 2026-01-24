@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Ossery_fire
 categories:
 - Osseries
-- Category:Victuals
+- Victuals
 media: []
 is_redirect: true
 redirect_to: The Osseries#Ashberries and Ossery Fire

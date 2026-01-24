@@ -6,8 +6,8 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Pactmaking"
 categories:
-  - "Category:Customs"
-  - "Category:Magic"
+  - "Customs"
+  - "Magic"
 media: []
 ---
 ![http://apolitical.info/teleleli/wp-content/uploads/2012/05/JohnDBatten28.png](/media/JohnDBatten28.png)

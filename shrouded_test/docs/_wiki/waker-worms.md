@@ -8,7 +8,7 @@ categories:
   - "Blind Midshotgatepool"
   - "Creatures"
   - "Hinterlands of Blind Midshotgatepool"
-  - "Category:Worms"
+  - "Worms"
 media: []
 ---
 When the founders of the [five villages](/wiki/blind-midshotgatepool/) arrived on the shores of the [Keening Sea](/wiki/keening-sea/), they found it teeming with enormous and awful worms that could swallow a man whole. Furthermore, they were known as the waker worms for the fact that, no matter how thoroughly they were destroyed, they would always wake and rise again at the moment of nightfall. Luckily, the Thringman [Ban the Clever](/wiki/ban-the-clever/) (future founder of Banshot) discovered that the waker worms could be permanently laid to rest if their bodies were buried under running water.

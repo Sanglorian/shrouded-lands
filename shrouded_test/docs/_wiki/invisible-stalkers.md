@@ -8,7 +8,7 @@ categories:
   - "Creatures"
   - "Elementals"
   - "Jahur"
-  - "Category:Outsiders"
+  - "Outsiders"
   - "The Cornfields"
   - "Undead"
 media: []

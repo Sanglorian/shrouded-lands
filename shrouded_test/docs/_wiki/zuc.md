@@ -5,7 +5,7 @@ pageid: 3692
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Zuc"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Lycanthropes"
   - "Ogres"

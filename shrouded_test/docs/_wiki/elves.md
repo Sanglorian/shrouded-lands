@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Elves"
 categories:
   - "Creatures"
   - "Elves"
-  - "Category:Peoples"
+  - "Peoples"
   - "The Kingswood"
 media: []
 ---

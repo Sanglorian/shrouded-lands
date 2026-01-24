@@ -5,7 +5,7 @@ pageid: 2710
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Andara"
 categories:
-  - "Category:Lost civilisations"
+  - "Lost civilisations"
   - "Nations"
   - "The Keening Sea"
 media: []

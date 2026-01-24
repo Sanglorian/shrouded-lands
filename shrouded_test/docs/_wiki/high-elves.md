@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/High_elves"
 categories:
   - "Alacoda"
   - "Elves"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 [Elves](/wiki/elves/) and citizens of [Alacoda](/wiki/alacoda/), one of the [Twelve Nations](/wiki/twelve-nations/). No more has been disclosed about them.![](/media/High.jpg)

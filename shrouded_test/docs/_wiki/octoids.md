@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Jahur"
   - "Octoids"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 !['Squid Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)](/media/Squidthing.png)

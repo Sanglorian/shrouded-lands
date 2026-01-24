@@ -5,7 +5,7 @@ pageid: 3589
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Least_Ocean"
 categories:
-  - "Category:Bodies of water"
+  - "Bodies of water"
   - "The Forest of Abominations"
   - "The Singing Wastes"
 media: []

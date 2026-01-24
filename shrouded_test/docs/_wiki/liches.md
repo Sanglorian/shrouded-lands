@@ -5,7 +5,7 @@ pageid: 4151
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Liches"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Undead"
   - "Wizards"

@@ -5,8 +5,8 @@ pageid: 2182
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Everdark"
 categories:
-  - "Category:Electric Wizard"
-  - "Category:Hex"
+  - "Electric Wizard"
+  - "Hex"
   - "The Bitter Coast"
   - "The Shuttered City"
 media: []

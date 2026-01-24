@@ -5,7 +5,7 @@ pageid: 3005
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/The_Pirate_Kings
 categories:
-- Category:Synonyms
+- Synonyms
 media: []
 is_redirect: true
 redirect_to: Pirate Kings

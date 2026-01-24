@@ -5,7 +5,7 @@ pageid: 2540
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tender_Hunt"
 categories:
-  - "Category:Customs"
+  - "Customs"
   - "The Lands of Gore"
 media: []
 ---

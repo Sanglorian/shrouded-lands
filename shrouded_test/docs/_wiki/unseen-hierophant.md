@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Unseen_Hierophant"
 categories:
   - "Alberon"
   - "Assassins"
-  - "Category:Characters"
+  - "Characters"
   - "Priests"
   - "Temple Invisible"
   - "The King in Splendour"

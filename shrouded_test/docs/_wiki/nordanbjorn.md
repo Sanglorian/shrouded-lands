@@ -7,7 +7,7 @@ category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Nordanbjorn
 categories:
 - Nordanbjorn
-- Category:Peoples
+- Peoples
 - The Marche of the Winterjarl
 media: []
 is_redirect: true

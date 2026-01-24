@@ -7,8 +7,8 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Trimueil"
 categories:
   - "Bards"
-  - "Category:Characters"
-  - "Category:Poets"
+  - "Characters"
+  - "Poets"
 media: []
 ---
 An exiled poet and [bard](/wiki/bards/) of some renown, and a rival of [Cleramon](/wiki/cleramon/). The rivalry  played out across all the taverns in the Shuttered City.

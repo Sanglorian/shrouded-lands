@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Illusionists"
 categories:
   - "Gnomes"
   - "Illusionists"
-  - "Category:Magic"
+  - "Magic"
   - "Professions"
 media: []
 ---

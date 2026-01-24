@@ -5,7 +5,7 @@ pageid: 3164
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Great_cacti"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Creatures"
   - "Plants"
 media: []

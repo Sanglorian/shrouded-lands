@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Electric_eels"
 categories:
   - "Animals"
   - "Eels"
-  - "Category:Fish"
+  - "Fish"
 media: []
 ---
 A type of [eel](/wiki/eels/).

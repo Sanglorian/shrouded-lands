@@ -5,7 +5,7 @@ pageid: 3454
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Drow"
 categories:
-  - "Category:Disambiguation"
+  - "Disambiguation"
 media: []
 ---
 The term drow may refer to:

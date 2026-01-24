@@ -5,7 +5,7 @@ pageid: 3039
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rubies"
 categories:
-  - "Category:Gems"
+  - "Gems"
   - "Phenomena"
 media: []
 ---

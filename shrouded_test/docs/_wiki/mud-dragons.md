@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Dragons"
   - "Lizardmen"
-  - "Category:Reptiles"
+  - "Reptiles"
 media: []
 ---
 The knights of the Forked Castle ([17.18](/wiki/17-18/)) are famous for taming enormous lizards and riding them into battle. The mounts' wild cousins are known as mud dragons, and they wallow in a festering valley among the Devil's Fingers ([16.23](/wiki/16-23/)). Scales, forked tongues and lashing tails aside, mud dragons are far from the mighty, awe-inspiring creatures [whose name they share](/wiki/dragons/). Their hides are wrinkled and dull, if they can even be seen at all beneath all the layers of mud and excrement. Diseased saliva drips from their jaws, and their claws are filthy hooks. Even by reptilian standards, they are cruel and lazy. When mud dragons find potential prey, they charge in a pack and attempt to deliver a bite. The creatures withdraw after the first bite. They trust the diseases in their bites will kill their prey. When their victims succumb, they track down the carcasses with their keen noses and gorge themselves.

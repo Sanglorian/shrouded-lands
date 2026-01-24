@@ -5,7 +5,7 @@ pageid: 3565
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hollow-Hearted_Elf"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "The Kingswood"
 media: []

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Kadash"
 categories:
   - "Jahuri"
   - "Lords of Thring"
-  - "Category:Nobles"
+  - "Nobles"
   - "The Duchy of Thring"
   - "Thieves"
 media: []

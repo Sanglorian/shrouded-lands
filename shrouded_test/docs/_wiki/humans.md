@@ -1,0 +1,12 @@
+---
+layout: wiki_page
+title: "Humans"
+pageid: 4219
+namespace: 0
+category: 1
+original_url: "https://shrouded-lands.fandom.com/wiki/Humans"
+categories:
+  - "Humans"
+media: []
+---
+This page groups entries related to Humans.

@@ -5,8 +5,8 @@ pageid: 3064
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Alevari"
 categories:
-  - "Category:Characters"
-  - "Category:Nobles"
+  - "Characters"
+  - "Nobles"
   - "The Shuttered City"
 media: []
 ---

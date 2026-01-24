@@ -5,7 +5,7 @@ pageid: 3011
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Imorcar"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Mages"
   - "Sosaria"
 media: []

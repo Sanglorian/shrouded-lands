@@ -7,11 +7,11 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sorcerers"
 categories:
   - "Baron Autumn"
-  - "Category:Magic"
+  - "Magic"
   - "Priests"
   - "Professions"
   - "Sorcerers"
-  - "Category:Spellcasters"
+  - "Spellcasters"
   - "Tieflings"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 14
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Tribes"
 categories:
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 Below :

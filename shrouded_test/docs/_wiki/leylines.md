@@ -5,7 +5,7 @@ pageid: 2445
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Leylines"
 categories:
-  - "Category:Magic"
+  - "Magic"
   - "Phenomena"
 media: []
 ---

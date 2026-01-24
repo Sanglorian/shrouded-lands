@@ -5,7 +5,7 @@ pageid: 3559
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cerelaine"
 categories:
-  - "Category:Characters"
+  - "Characters"
   - "Elves"
   - "Mages"
 media: []

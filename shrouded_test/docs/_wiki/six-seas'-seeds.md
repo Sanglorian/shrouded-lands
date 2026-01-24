@@ -5,7 +5,7 @@ pageid: 3348
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Six_Seas%27_Seeds"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
 media: []
 ---

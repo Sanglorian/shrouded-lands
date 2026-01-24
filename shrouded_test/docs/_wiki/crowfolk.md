@@ -9,7 +9,7 @@ categories:
   - "Birds"
   - "Creatures"
   - "Crowfolk"
-  - "Category:Peoples"
+  - "Peoples"
 media: []
 ---
 ![](/media/Caim_in_bird_form.jpg)

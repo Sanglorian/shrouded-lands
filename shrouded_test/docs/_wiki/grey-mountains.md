@@ -5,7 +5,7 @@ pageid: 2811
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_Mountains"
 categories:
-  - "Category:Regions"
+  - "Regions"
   - "The Grey Mountains"
 media: []
 ---

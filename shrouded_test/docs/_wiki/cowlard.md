@@ -5,9 +5,9 @@ pageid: 3410
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cowlard"
 categories:
-  - "Category:Characters"
-  - "Category:Humans"
-  - "Category:Merchants"
+  - "Characters"
+  - "Humans"
+  - "Merchants"
   - "Winds"
 media: []
 ---

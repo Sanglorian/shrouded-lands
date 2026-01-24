@@ -5,7 +5,7 @@ pageid: 3028
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Embassies_(Shuttered)"
 categories:
-  - "Category:Buildings"
+  - "Buildings"
   - "The Shuttered City"
   - "The Twelve Nations"
 media: []

@@ -5,8 +5,8 @@ pageid: 4159
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Seven_Wonders_of_the_World"
 categories:
-  - "Category:Books"
-  - "Category:Taran Prenderghast"
+  - "Books"
+  - "Taran Prenderghast"
   - "The Shuttered City"
 media: []
 ---
