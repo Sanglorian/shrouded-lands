@@ -1,0 +1,29 @@
+# Hex line definitions independent of _wiki pages.
+# Path uses direction tokens separated by '->'.
+# Allowed direction tokens:
+#   Top, TopRight, Right, BottomRight, Bottom, BottomLeft, Left, TopLeft, Center
+# Optional aliases:
+#   NE = TopRight, NW = TopLeft, SE = BottomRight, SW = BottomLeft
+
+direction_tokens:
+  - Top
+  - TopRight
+  - Right
+  - BottomRight
+  - Bottom
+  - BottomLeft
+  - Left
+  - TopLeft
+  - Center
+
+direction_aliases:
+  NE: TopRight
+  NW: TopLeft
+  SE: BottomRight
+  SW: BottomLeft
+
+entries:
+  - hex: "03.03"
+    layer: road
+    color: "#000000"
+    path: Top->Center->SE
