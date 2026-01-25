@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexes"
 TERRAIN_CSV = ROOT / "terrain.csv"
+POI_CSV = ROOT / "poi.csv"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -60,6 +61,7 @@ def collect_hex_metadata():
             "has_page": True,
             "color_hex": color_hex,
             "terrain": fm.get("terrain"),
+            "poi": fm.get("poi"),
         }
     return meta
 
@@ -82,6 +84,22 @@ def load_terrain_overrides():
             }
         return overrides
 
+
+def load_poi_symbols():
+    if not POI_CSV.exists():
+        return {}
+    symbols = {}
+    with POI_CSV.open(newline="", encoding="utf-8") as csvfile:
+        reader = csv.reader(csvfile, delimiter="\t")
+        for row in reader:
+            if len(row) < 2:
+                continue
+            symbol = (row[0] or "").strip()
+            poi_name = (row[1] or "").strip()
+            if not symbol or not poi_name:
+                continue
+            symbols[poi_name] = symbol
+    return symbols
 
 def normalize_symbol(symbol: str) -> str:
     return symbol.replace("\ufe0f", "") + "\ufe0e"
@@ -113,6 +131,7 @@ def make_svg(
     symbol: Optional[str],
     symbol_color: Optional[str],
     symbol_two: Optional[str],
+    poi_symbol: Optional[str],
 ) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
@@ -165,6 +184,14 @@ def make_svg(
                 f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
                 f'{symbol_text}</text>'
             )
+    if poi_symbol:
+        poi_text = normalize_symbol(poi_symbol)
+        symbol_markup += (
+            f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="24" '
+            f'font-family="system-ui, sans-serif" fill="#000000">'
+            f'{poi_text}</text>'
+        )
 
     label_y = height - 6.0
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
@@ -185,6 +212,7 @@ def make_svg(
 def main():
     hex_meta = collect_hex_metadata()
     terrain_overrides = load_terrain_overrides()
+    poi_symbols = load_poi_symbols()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
     for x in range(45):     # 00–44
@@ -196,10 +224,12 @@ def main():
                 has_page = True
                 fill_color = meta.get("color_hex") or "#ffdca8"
                 terrain = meta.get("terrain")
+                poi_name = (meta.get("poi") or "").strip() if isinstance(meta.get("poi"), str) else ""
                 override = terrain_overrides.get(terrain)
             else:
                 has_page = False
                 fill_color = "#eeeeee"
+                poi_name = ""
                 override = None
 
             if override:
@@ -211,8 +241,9 @@ def main():
                 symbol = None
                 symbol_two = None
                 symbol_color = None
+            poi_symbol = poi_symbols.get(poi_name) if poi_name else None
 
-            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two)
+            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two, poi_symbol)
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
 

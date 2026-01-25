@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexmaps"
 TERRAIN_CSV = ROOT / "terrain.csv"
+POI_CSV = ROOT / "poi.csv"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -95,6 +96,22 @@ def load_terrain_overrides():
         return overrides
 
 
+def load_poi_symbols():
+    if not POI_CSV.exists():
+        return {}
+    symbols = {}
+    with POI_CSV.open(newline="", encoding="utf-8") as csvfile:
+        reader = csv.reader(csvfile, delimiter="\t")
+        for row in reader:
+            if len(row) < 2:
+                continue
+            symbol = (row[0] or "").strip()
+            poi_name = (row[1] or "").strip()
+            if not symbol or not poi_name:
+                continue
+            symbols[poi_name] = symbol
+    return symbols
+
 def normalize_symbol(symbol: str) -> str:
     return symbol.replace("\ufe0f", "") + "\ufe0e"
 
@@ -123,6 +140,7 @@ def make_svg(
     symbol: Optional[str],
     symbol_color: Optional[str],
     symbol_two: Optional[str],
+    poi_symbol: Optional[str],
 ) -> str:
     """
     title: the hex code for the current page, e.g. "26.01"
@@ -226,6 +244,15 @@ def make_svg(
                 f'font-size="{base_size}" font-family="sans-serif" '
                 f'fill="{symbol_color or "#333333"}">{symbol_text}</text>'
             )
+    if poi_symbol:
+        base_x = cx + hex_w // 2
+        base_y = cy + hex_h // 2
+        poi_text = normalize_symbol(poi_symbol)
+        svg_parts.append(
+            f'<text x="{base_x}" y="{base_y}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="27" font-family="sans-serif" fill="#000000">{poi_text}</text>'
+        )
     label_y = cy + hex_h - 10
     svg_parts.append(
         f'<text x="{cx + hex_w//2}" y="{label_y}" '
@@ -259,6 +286,7 @@ def make_svg(
 
 def main():
     terrain_overrides = load_terrain_overrides()
+    poi_symbols = load_poi_symbols()
     for md in WIKI_DIR.glob("*.md"):
         text = md.read_text(encoding="utf-8")
         fm_raw, fm, body = split_front_matter(text)
@@ -284,8 +312,18 @@ def main():
         symbol_color = (
             f"#{override['symbol_color']}" if override and override.get("symbol_color") else None
         )
+        poi_name = (fm.get("poi") or "").strip() if isinstance(fm.get("poi"), str) else ""
+        poi_symbol = poi_symbols.get(poi_name) if poi_name else None
 
-        svg = make_svg(title, neighbors, center_fill, symbol, symbol_color, symbol_two)
+        svg = make_svg(
+            title,
+            neighbors,
+            center_fill,
+            symbol,
+            symbol_color,
+            symbol_two,
+            poi_symbol,
+        )
 
         fname = f"hex-{hex_slug_for_filename(title)}.svg"
         out_path = OUT_DIR / fname
