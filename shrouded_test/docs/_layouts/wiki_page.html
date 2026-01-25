@@ -29,9 +29,10 @@ layout: default
   <p class="categories">
     <strong>Categories:</strong>
     {% for cat in page.categories %}
-      {% assign cat_slug = cat | strip %}
+      {% assign cat_label = cat | replace_first: "Category:", "" | strip %}
+      {% assign cat_slug = cat_label | slugify %}
       <a href="{{ '/wiki/' | append: cat_slug | append: '/' | relative_url }}">
-        {{ cat }}
+        {{ cat_label }}
       </a>{% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </p>
