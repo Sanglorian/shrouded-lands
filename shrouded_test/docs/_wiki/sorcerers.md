@@ -18,8 +18,8 @@ media: []
 : **Priests of Baron Autumn** redirects here. See also, [Priests](/wiki/priests/)
 : For more on the nomenclature of spellcasters, see [Spellcasting](/wiki/spellcasting/)
 
-* *Sorcerer** seems to be a general term for a [spellcaster](/wiki/spellcasting/), or used synonymously for [mages and wizards](/wiki/wizards/). However, those whose magic comes from blood or birthright seem to be specifically identified as sorcerers or **bloodline sorcerers** rather than wizards or mages. The dragonblooded and tieflings who cast spells by dint of their heritage are described exclusively as sorcerers.
-* *Sorcerer** or **sorcerer of Thring** also specifically describes priests of Baron Autumn who have an unusual approach to magic. 
+**Sorcerer** seems to be a general term for a [spellcaster](/wiki/spellcasting/), or used synonymously for [mages and wizards](/wiki/wizards/). However, those whose magic comes from blood or birthright seem to be specifically identified as sorcerers or **bloodline sorcerers** rather than wizards or mages. The dragonblooded and tieflings who cast spells by dint of their heritage are described exclusively as sorcerers.
+**Sorcerer** or **sorcerer of Thring** also specifically describes priests of Baron Autumn who have an unusual approach to magic.
 
 ## Sorcerers of Thring
 The sorcerers of Thring are a meddlesome and jealous estate, and so each specialises in magic as obscure and esoteric as possible—making theft pointless and sabotage harmless. The [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/) practices featherstitch magic.

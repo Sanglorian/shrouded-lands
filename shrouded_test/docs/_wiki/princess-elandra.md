@@ -9,10 +9,10 @@ categories:
   - "The Duchy of Thring"
 media: []
 ---
-* *Affiliation:** Heir of [Thring](/wiki/thring/)<br />
-* *Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
-* *Home:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
-* *Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (mother), [Duke of Thring](/wiki/duke-of-thring/) (father), [Sir Boros](/wiki/sir-boros/) (uncle), half-brother (with [Lady Natala](/wiki/lady-natala/), disputed)
+**Affiliation:** Heir of [Thring](/wiki/thring/)<br />
+**Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
+**Home:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
+**Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (mother), [Duke of Thring](/wiki/duke-of-thring/) (father), [Sir Boros](/wiki/sir-boros/) (uncle), half-brother (with [Lady Natala](/wiki/lady-natala/), disputed)
 
 When Princess Elandra, the heir to [The Duchy of Thring](/wiki/the-duchy-of-thring/), was born [The Green Lady](/wiki/the-green-lady/) gave her a gift: she cries nothing but gems. When she skinned her knee she cried quartz, when her sister died she cried topaz and when her father screamed at her that he’d skin her new kitten if she stopped crying because he needed more gems to fund the ongoing repairs of Castle Tarengael she wept fat rubies.
 

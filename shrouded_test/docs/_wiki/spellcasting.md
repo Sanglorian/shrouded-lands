@@ -39,10 +39,10 @@ There are a number of descriptions of clerics and wizards working together, whic
 Likewise, while the art of [pactmaking](/wiki/pactmaking/) is definitely magical, it is not clear that it involves spellcasting. [Warlocks](/wiki/warlocks/) and [shamans](/wiki/shamans/) are thus not discussed in this article. 
 ## Wizardry and magecraft
 Wizards and mages are associated with a number of practices:
-* **The art:** Wizards describe their power as their art.
-* **Laws of reality:** As mages grow in power, the laws of reality twist to their whims. Despite their power, their bodies are vulnerable to the passage of time. Trying to achieve immortality is a particular goal of several wizards.
-* **Wizard’s towers:** As well as Severard’s, there is an abandoned wizard tower in [07.33](/wiki/07-33/).
-* **Familiars:** Drunk giant bat Hiccup wants to be a wizard’s familiar ([12.09](/wiki/12-09/)). 
+**The art:** Wizards describe their power as their art.
+**Laws of reality:** As mages grow in power, the laws of reality twist to their whims. Despite their power, their bodies are vulnerable to the passage of time. Trying to achieve immortality is a particular goal of several wizards.
+**Wizard’s towers:** As well as Severard’s, there is an abandoned wizard tower in [07.33](/wiki/07-33/).
+**Familiars:** Drunk giant bat Hiccup wants to be a wizard’s familiar ([12.09](/wiki/12-09/)).
 
 ## The practice of spellcasting
 Some wizards reference spellbooks, but it does not appear that all do. Snakes are books, and some in the Bone Field are spellbooks. Carvings in the Vale of Tirandelle seem to be spell formulae in an ancient script. The Arch-Lich of Naros had a spellbook, now in the Sealed Library. 

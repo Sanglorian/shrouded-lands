@@ -216,7 +216,7 @@ meeting places.
 * Who are the major players in Jahur's thieves' guild?
 
 ## The Sandmines Neath Jahur
-* *Inspiration:** The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
+**Inspiration:** The Peel St Caves on BLDG Blog and Real Dungeon Hazards: Snotties and Slime.
 
 As houses and temples crumbled in Jahur, they were built on top of, slowly compressing the sand, brick and stone together into what masons call ‘city brick’. It carries some memory of the buildings that it once was - city brick will always stay in place, even if its supports collapse. Only the scrubbing out of the mason’s mark placed on each block causes gravity to reassert itself.
 

@@ -13,7 +13,7 @@ media: []
 :Amelar is also known as the **Hierophant of Constant Sorrow**. There is also a figure known only as the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). There are a number of other [Hierophant](/wiki/hierophant/)s in the Shrouded Lands.
 
 Amelar is mistress of the Garden of Amelar ([36.04](/wiki/36-04/)).
-* *Family:** [The Weeper](/wiki/the-weeper/) (grandchild of Amelar)
+**Family:** [The Weeper](/wiki/the-weeper/) (grandchild of Amelar)
 
 ## The Ancient Gardener
 ![](/media/360401.png)An elf older than any other within the Court ([29.07](/wiki/29-07/)), who, uncharacteristically for elves shows her age, wanders freely through [Kingswood](/wiki/kingswood/), occasionally making unexpected stops in nearby lands. She dressed in layer upon layer of wispy, colorful, ragged silks, with her motley dreaded mass of grey hair entwined with vines. Her face isn't wrinkled, but is undeniably ancient -- nearly skeletal, with the most pallid of skin. She only refers to herself as the Hierophant, having long since forsaken her given name and title of Amelar the Immaculate. In fact, the Hierophant will speak of Amelar as if the two were separate people entirely. Although she is an elf of the [Bloodied King](/wiki/bloodied-king/)'s Court, she is in many ways above the King and above elven (and round-eared) politics.

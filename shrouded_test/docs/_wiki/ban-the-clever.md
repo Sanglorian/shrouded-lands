@@ -11,7 +11,7 @@ categories:
   - "The Duchy of Thring"
 media: []
 ---
-* *Ban the Clever** was one of the five founders of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/). An adventurous Thringman, he and the other four founders arrived on the shores of the Shrouded Lands. It was he who figured out how to stop the [waker worms](/wiki/waker-worms/) from regenerating, allowing them to be dealt with and the five fishing villages to be founded. Ban's fishing village is Banshot. 
+**Ban the Clever** was one of the five founders of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/). An adventurous Thringman, he and the other four founders arrived on the shores of the Shrouded Lands. It was he who figured out how to stop the [waker worms](/wiki/waker-worms/) from regenerating, allowing them to be dealt with and the five fishing villages to be founded. Ban's fishing village is Banshot.
 
 Ban and his four companions were captured by the Maddlows and geased into their service. Ban ended the rule of the suspicious [Maddlow king](/wiki/maddlows/) by convincing him to geas all his relatives to travel to the far borders of the Shrouded Lands, whereupon the king was killed by a [Dunger](/wiki/dungers/).
 

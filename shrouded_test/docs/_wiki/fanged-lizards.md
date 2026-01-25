@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 !['Inostrancevia alexandri and Scutosaurus karpinski', Dmitry Bogdanov (CC BY 3.0 Unported)](/media/Inostrancevia_4DB.jpg)
-* *Fanged lizards** or **fangbeasts** are used as mounts by the outriders of [lizardman](/wiki/lizardmen/) caravans. When knights attacked Smuggler's Isle ([17.16](/wiki/17-16/), the fanged lizards ripped them to shreds.
+**Fanged lizards** or **fangbeasts** are used as mounts by the outriders of [lizardman](/wiki/lizardmen/) caravans. When knights attacked Smuggler's Isle ([17.16](/wiki/17-16/), the fanged lizards ripped them to shreds.
 
 
 

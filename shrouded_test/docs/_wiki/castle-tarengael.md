@@ -13,8 +13,8 @@ categories:
 media: []
 ---
 ![](/media/1616.png)The great [River of Crystal Waters](/wiki/river-of-crystal-waters/) nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [Ulthar the Loved](/wiki/ulthar-the-loved/) himself on a rocky island ([16.16](/wiki/16-16/)) so that the flowing waters would keep the [Lords Sanguine](/wiki/lords-sanguine/) at bay. Bridges connect it to the two halves of [Tarengael Town](/wiki/tarengael-town/): Eastbridge and Westbridge.
-* *Ruler:** The [Duke of Thring](/wiki/duke-of-thring/)<br />
-* *Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [The Foolish Sages](/wiki/the-foolish-sages/) ([20.18](/wiki/20-18/)) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
+**Ruler:** The [Duke of Thring](/wiki/duke-of-thring/)<br />
+**Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [The Foolish Sages](/wiki/the-foolish-sages/) ([20.18](/wiki/20-18/)) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
 
 ### Residents
 * [Duke of Thring](/wiki/duke-of-thring-(incumbent)/)

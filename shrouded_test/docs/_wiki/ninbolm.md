@@ -18,7 +18,6 @@ region: The Lands of Gore
 ![](/media/0524.png) 
 [05.24](/wiki/05-24/)
 
-* *
 
 ## Ninbolm
 Hex [05.24](/wiki/05-24/)

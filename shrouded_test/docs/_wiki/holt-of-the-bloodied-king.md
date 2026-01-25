@@ -19,9 +19,8 @@ region: Kingswood
 
 ![August Malmström](/media/August_Malmström_-_Dancing_Fairies_-_Google_Art_Project.jpg)
 ## The Holt of the Bloodied King
-* *![](/media/2907.png)Hex: **[29.07](/wiki/29-07/)
+![](/media/2907.png)**Hex: **[29.07](/wiki/29-07/)
 
-* *
 Connects to: 5.24, [08.27](/wiki/08-27/), [13.03](/wiki/13-03/), [18.07](/wiki/18-07/), [18.28](/wiki/18-28/), [21.12](/wiki/21-12/),
 [24.11](/wiki/24-11/), [27.09](/wiki/27-09/), [28.07](/wiki/28-07/), [29.14.36](/wiki/29-14/), [29.14.47](/wiki/29-14/), [31.04](/wiki/31-04/), [31.07](/wiki/31-07/)
 and [34.04](/wiki/34-04/).

@@ -12,8 +12,8 @@ media: []
 ---
 ## Connections
 * Elves specialise in elemental summoning, and the art is more closely guarded than it was when water-spirits were summoned to power the [Waterworks](/wiki/waterworks-(shuttered)/)
-* *The tempest of Idjit Tower owes allegiance to the [Queen Sinister](/wiki/queen-sinister/).
-* *The elves summoned a horde of elementals to dismantle the walls of the Citadel of the Verlimes ([18.07](/wiki/18-07/)). A few still guard the ruins and ensure that no one rebuilds.
+  * The tempest of Idjit Tower owes allegiance to the [Queen Sinister](/wiki/queen-sinister/).
+  *The elves summoned a horde of elementals to dismantle the walls of the Citadel of the Verlimes ([18.07](/wiki/18-07/)). A few still guard the ruins and ensure that no one rebuilds.
 * At least one elemental, the being of rime and hoarfrost ([39.30](/wiki/39-30/)), is male.
 * A failed attempt to turn a human into an elemental resulted in the haunted statute ([10.09](/wiki/10-09/), see [09.09](/wiki/09-09/))
 * The first elementals were born when the seed of the moon fell and fertilised the warm earths, the lakes, the winds and the fires. They were crude creatures, with bodies of base matter and a star inside each one to give them the spark of life.

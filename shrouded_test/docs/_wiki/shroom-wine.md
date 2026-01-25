@@ -10,7 +10,7 @@ categories:
   - "Victuals"
 media: []
 ---
-* *Shroom wine**, **shroomwine** or **hobgoblin shroom wine** is prepared by the [hobgoblins](/wiki/hobgoblins/) of the Hobgoblin Caves ([16.04](/wiki/16-04/)), and maybe elsewhere too. The hobgoblins who dwell in the Hobgoblin Hills ([16.04](/wiki/16-04/)) are known far and wide for their production of shroomwine, a potent hallucinogen. It is distilled from the various bioluminescent [mushrooms](/wiki/mushrooms/) that grow in the caverns beneath the hills. This cave network goes on for miles in every direction, and even the hobgoblins have not explored down to its lowest reaches.
+**Shroom wine**, **shroomwine** or **hobgoblin shroom wine** is prepared by the [hobgoblins](/wiki/hobgoblins/) of the Hobgoblin Caves ([16.04](/wiki/16-04/)), and maybe elsewhere too. The hobgoblins who dwell in the Hobgoblin Hills ([16.04](/wiki/16-04/)) are known far and wide for their production of shroomwine, a potent hallucinogen. It is distilled from the various bioluminescent [mushrooms](/wiki/mushrooms/) that grow in the caverns beneath the hills. This cave network goes on for miles in every direction, and even the hobgoblins have not explored down to its lowest reaches.
 
 Most shroomwine that gets exported is a generic product containing a mixture of many different species of mushroom. This produces a vivid and varied effect, but is considered of low quality by the hobgoblins themselves. The best vintages are made from only one or two species of mushroom, for it is well documented that each color of shroom produces a different type of hallucination. Among them are:
 * Red shrooms, which grant vivid prophecies, though many scholars scoff at the hobgoblins' claims of accuracy.

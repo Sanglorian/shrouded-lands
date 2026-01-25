@@ -26,11 +26,11 @@ Werewolves suffer from the worst type of lychanthropy. While other were-creature
 
 ## Other
 * [Jackalweres](/wiki/jackalweres/)
-* *[Taheesha](/wiki/taheesha/) is a jackalwere.
+  * [Taheesha](/wiki/taheesha/) is a jackalwere.
 * [Were-Barnabi](/wiki/were-barnabi/)
 * [Armand of the Axe](/wiki/armand-of-the-axe/) is a were-spider monkey.
 * [Wererats](/wiki/wererats/)
 * The [Lochgates](/wiki/lochgates/) are a clan of [werebears](/wiki/werebears/).
-* * [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), a duke of Thring, may have been a werebear.
+  * [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), a duke of Thring, may have been a werebear.
 
 

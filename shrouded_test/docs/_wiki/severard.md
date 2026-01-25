@@ -11,7 +11,7 @@ categories:
   - "Wizards"
 media: []
 ---
-* *Severard of the Seven Circles**, also known as **Severard of the Seven Chins**, is a wizard of the Shrouded Lands believed killed by a giant spider.
+**Severard of the Seven Circles**, also known as **Severard of the Seven Chins**, is a wizard of the Shrouded Lands believed killed by a giant spider.
 
 ### Severard's Town
 Severard's Town is the name for the village that grew up around the tower occupied by Severard and his apprentices ([13.08](/wiki/13-08/)). As extracted from that hex entry:

@@ -10,7 +10,7 @@ categories:
   - "Mages"
 media: []
 ---
-* *Family:** Father of [Ledo](/wiki/ledo/).
+**Family:** Father of [Ledo](/wiki/ledo/).
 
 Cerelaine is an elf.
 

@@ -15,9 +15,9 @@ region: The Grey Mountains
 
 
 
-* *![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)
+![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)
 
-* *Includes:** [12.01](/wiki/12-01/), [13.00](/wiki/13-00/), [13.01](/wiki/13-01/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [15.01](/wiki/15-01/), [14.02](/wiki/14-02/), [15.00](/wiki/15-00/)
+**Includes:** [12.01](/wiki/12-01/), [13.00](/wiki/13-00/), [13.01](/wiki/13-01/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [15.01](/wiki/15-01/), [14.02](/wiki/14-02/), [15.00](/wiki/15-00/)
 
 The [nordanbjorn](/wiki/nordanbjorn/) are mighty sapient bears. They are led by the bjornajarl, [Thorek Ironhide](/wiki/thorek-ironhide/). He lives in a cave halfway up a mountain with his sleuth of lesser bears ([14.00](/wiki/14-00/)).
 The nordanbjorn have few material possessions and no knowledge of technology; however, they have a rich oral culture and their epic sagas recount events that may have occurred many centuries ago. One of Thorek Ironhide's subordinates is an old bear-bard named One-Eyed Kevanjr, who is said to be able to recite in their entirety seven sagas of seven days' duration each.

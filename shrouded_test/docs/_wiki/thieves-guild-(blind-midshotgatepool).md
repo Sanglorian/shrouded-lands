@@ -13,7 +13,7 @@ region: Blind Midshotgatepool
 
 
 
-* *![](/media/SL4.jpg)
+![](/media/SL4.jpg)
 
 ## The Thieves Guild of Blind Midshotgatepool
 Connects to: [15.24](/wiki/15-24/), [16.16](/wiki/16-16/), [19.30](/wiki/19-30/), [26.19](/wiki/26-19/), [26.20.03](/wiki/26-20/),
@@ -68,13 +68,13 @@ guild.
 Aside from Wortimer himself there are several
 notable members of the Blind Midshotgatepool
 thieves guild.
-* *Mabalaquain:** a half-elven enchanter of some
+**Mabalaquain:** a half-elven enchanter of some
 minor skill. Wortimer‘s right-hand man is vicious
 and conniving, always ready with a cruel
 mockery or a half-true rumor for other members
 of the guild. However, his position is secure as he
 is Wortimer‘s paramour.
-* *Gwened:** Mabalaquain‘s human half-sister. She
+**Gwened:** Mabalaquain‘s human half-sister. She
 was brought on board by her brother, over the
 heads of some rather resentful junior members,
 but she soon proved her worth with the blade
@@ -84,7 +84,7 @@ orders with excessive and creative force. The
 episode with the honeyed roped annoyed
 Wortimer but all was forgiven when she
 managed to suborn Boros‘ squire.
-* *Mousey:** after being exiled from his old home
+**Mousey:** after being exiled from his old home
 within the walls of a northern giant‘s holding, the
 local gnome who the humans call Mousey
 quickly proved his worth as the most skilled sneak
@@ -95,7 +95,7 @@ poisons and other nasty surprises behind in the
 buildings that he burgles. He especially favors
 'gifts' that only begin to have their effect years
 afterwards.
-* *Granny Lin:** the guild‘s professional fence. She
+**Granny Lin:** the guild‘s professional fence. She
 has an especially sharp eye for rare herbs, plants
 and spices. She drives a sharp bargain but is
 known to have a soft spot in her heart for urchins

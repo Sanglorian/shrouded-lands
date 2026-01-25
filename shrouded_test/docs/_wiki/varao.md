@@ -10,7 +10,7 @@ categories:
   - "Philosophies"
 media: []
 ---
-* *Inspiration:** The *rontay* of the Afners, Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/10/i-killed-all-humans.html
+**Inspiration:** The *rontay* of the Afners, Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/10/i-killed-all-humans.html
 
 Perhaps to compensate for their small stature, many [halflings](/wiki/halflings/) - particularly males - ascribe to *varao,* a loosely defined code of machismo. Halflings project an air of confidence and opinion and refuse to submit to big ‘uns.
 

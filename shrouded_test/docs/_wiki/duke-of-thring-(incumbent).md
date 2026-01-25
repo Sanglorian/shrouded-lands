@@ -11,13 +11,13 @@ media: []
 ---
 :**Duke of Thring** redirects here. For former dukes of Thring, see [ducal family of Thring](/wiki/ducal-family-of-thring/).![](/media/Lancelot_and_Hellawes.jpg)
 
-* *Affiliation:** Duke of [Thring](/wiki/thring/)<br />
-* *Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
-* *Rules:** The [Duchy of Thring](/wiki/duchy-of-thring/)<br /> 
-* *Seat:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
-* *Vassals:** The [Lords of Thring](/wiki/lords-of-thring/)<br />
-* *Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (wife), [Princess Elandra](/wiki/princess-elandra/) (daughter), [Sir Boros](/wiki/sir-boros/) (uncle-in-law), bastard son (with [Lady Natala](/wiki/lady-natala/), disputed)<br />
-* *Agents:** [Chain Gang](/wiki/chain-gang-thring/), [Brothers of the Lion](/wiki/brothers-of-the-lion/)
+**Affiliation:** Duke of [Thring](/wiki/thring/)<br />
+**Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />
+**Rules:** The [Duchy of Thring](/wiki/duchy-of-thring/)<br />
+**Seat:** Castle Tarengael ([16.16](/wiki/16-16/))<br />
+**Vassals:** The [Lords of Thring](/wiki/lords-of-thring/)<br />
+**Relatives:** [Lady of Thring](/wiki/lady-of-thring/) (wife), [Princess Elandra](/wiki/princess-elandra/) (daughter), [Sir Boros](/wiki/sir-boros/) (uncle-in-law), bastard son (with [Lady Natala](/wiki/lady-natala/), disputed)<br />
+**Agents:** [Chain Gang](/wiki/chain-gang-thring/), [Brothers of the Lion](/wiki/brothers-of-the-lion/)
 
 ### Features
 * The Dukes of Thring have made an ancient compact with the lion prides of the Devil’s Fingers that allows some of the knights of Thring to attempt to win them as mounts ([Brothers of the Lion](/wiki/brothers-of-the-lion/)).

@@ -16,9 +16,8 @@ region: Hinterlands of Blindmidshotgatepool
 
 
 
-* *
 
-* *Hex: **[26.20](/wiki/26-20/)
+**Hex: **[26.20](/wiki/26-20/)
 
 ## The August City of Blind Midshotgatepool
 ![](/media/SL2.png)Connects to: [22.18](/wiki/22-18/), [23.19](/wiki/23-19/), [24.18](/wiki/24-18/), [32.32](/wiki/32-32/), [39.31](/wiki/39-31/) and the City of Shuttered Windows and the Duchy of Thring.

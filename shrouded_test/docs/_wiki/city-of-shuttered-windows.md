@@ -15,9 +15,8 @@ region: Shuttered and Surrounds
 
 
 :**City of Many Windows** redirects here. To learn why the name changed, see [Windows (Shuttered)](/wiki/windows-(shuttered)/) or [Chimerical Siege](/wiki/chimerical-siege/)![](/media/2914.jpg)
-* *
 
-* *Hex: **[29.14](/wiki/29-14/)
+**Hex: **[29.14](/wiki/29-14/)
 
 South of the Kingswood and the Freeholds there lies the City of Shuttered Windows, thick with the dust of ages and the grime of hidden violence. Traders from across the land pass through this city, which is often known by its shortened name of simply 'the Shuttered City'.
 
@@ -28,19 +27,19 @@ It is well known among scholars that the Shuttered City is built on sinking grou
 In the City, height is an indicator of social status. The towers and other tall buildings are reserved for citizens, and the highest of them are the domain of the Electors, the Great Families and the Doge. Between these towers are built bridges and causeways, always built in the anticipation that they will one day become roads, and later, tunnels. The lower classes must live in the shadow of the high towers, in the byzantine labyrinth of streets and passages which make up the majority of the City's space. For, despite the long history of sinking, there is no ordered plan for the new construction. People build higher when their lower structures are no longer usable. Roads are built according to a system of petitions and bribes, whose haphazardness is exacerbated by the frequent changes in administration. The upshot of this is that there is no 'ground level' in the City, only a vague continuum from the airiest towers down to the labyrinthine tunnels of the [Undercity](/wiki/undercity/).
 ### Features
 * [The City's walls](/wiki/city-walls-(shuttered)/) do not sink into the mud as the rest of the city.
-* *Because the dwarves built these walls, they enjoy 'beard-right' - all the rights and privileges of citizenship while they are within the walls.
+  * Because the dwarves built these walls, they enjoy 'beard-right' - all the rights and privileges of citizenship while they are within the walls.
 * [Gnome ghosts](/wiki/gnome-ghosts/) are responsible for the walls appearing not to sink.
 * [North Gate and South Gate](/wiki/north-gate-and-south-gate/), the two ways to enter the City. The North Gate is open only during the day; the South Gate is open except for rare occurances, but entrance is strictly controlled
-* *Elves must pay the 'ear-geld' as they enter by the South Gate.
-* *Cattle counterfeiting is forbidden and carefully checked at the South Gate.
+  * Elves must pay the 'ear-geld' as they enter by the South Gate.
+**Cattle counterfeiting is forbidden and carefully checked at the South Gate.
 * Within the Doge's Palace is a five-storey pit filled with snakes once used to kill alleged traitors, called [Traitors' Pit](/wiki/traitors'-pit/)
-* *The rubies in the pit bear a strange likeness to those found in the eyes of strange foreign idols.
+  * The rubies in the pit bear a strange likeness to those found in the eyes of strange foreign idols.
 * The city was once known as the City of Many Windows.
-* *These [windows](/wiki/windows-(shuttered)/) opened onto other the [strange roads](/wiki/strange-roads/) which led to places both on this plane and others. These were shuttered during the [Chimerical Siege](/wiki/chimerical-siege/).
-* *One window remains unshuttered: it opens onto a strange and disconcerting plane.
-* *Alberon was once mortal and known as the Lord of Pain. He became a figure of worship and went to war.
+  * These [windows](/wiki/windows-(shuttered)/) opened onto other the [strange roads](/wiki/strange-roads/) which led to places both on this plane and others. These were shuttered during the [Chimerical Siege](/wiki/chimerical-siege/).
+**One window remains unshuttered: it opens onto a strange and disconcerting plane.
+**Alberon was once mortal and known as the Lord of Pain. He became a figure of worship and went to war.
 * On the [Street of Small Gods](/wiki/street-of-small-gods/) (or 'Avenue of Preternatural Agents'), priests and soothsayers worship deities in service to Alberon.
-* *The [Tiamatan Revival](/wiki/tiamatan-revival/) is preached at the end of this street.
+  * The [Tiamatan Revival](/wiki/tiamatan-revival/) is preached at the end of this street.
 * The [Whispering Sisters](/wiki/whispering-sisters/) are a cult that operates in secret and hates Alberon.
 * The [Smiling Men](/wiki/smiling-men/) of Shuttered are a cheerful brotherhood of assassins that mainly recruits suicides.
 * The [geas-eater](/wiki/geas-eater/) is a strange beast has grown fat on the geases that are placed on those who enter Shuttered and has escaped its attic.
@@ -50,7 +49,7 @@ In the City, height is an indicator of social status. The towers and other tall 
 * The [Creche of a Million Young](/wiki/creche-of-a-million-young/),  a strange and growing insect cult, has a temple. They deny that they sacrifice people by casting them into a deep pit of hungry insects.
 * The [Election of the Doges](/wiki/election-of-the-doges/) is very complicated and involves cows.
 * Local aristocrats travel by [hot air balloon](/wiki/balloons-(shuttered)/) to avoid the dirty, crowded and unfashionable streets below.
-* *A famed balloon maker has been stranded up in his greatest creation, the [Black Balloon](/wiki/black-balloon/).
+  * A famed balloon maker has been stranded up in his greatest creation, the [Black Balloon](/wiki/black-balloon/).
 
 ### Subhexes:
 * The [Whispering Sisters](/wiki/whispering-sisters/) is a shadowy cult that worships She Who Waits and is upset that their mistress was spurned by Alberon, the god of the City.
@@ -58,7 +57,7 @@ In the City, height is an indicator of social status. The towers and other tall 
 * The [Waterworks of Shuttered](/wiki/waterworks-(shuttered)/) require the work of heroic plumbers and criminals serving out multiple life sentences keep the City from sinking into the Keening Sea.
 * The [Temple of Alberon](/wiki/temple-of-alberon/) is an especially stinky splinter sect of the established Temple Indivisible.
 * The [Embassies of the Southern Gate](/wiki/embassies-(shuttered)/) are embassies of the civilized Twelve Nations of the south.
-* *The Sealed Embassy of Naros is sealed and full of razor cats, plague mice, undead cows and dwarf gold.
+  * The Sealed Embassy of Naros is sealed and full of razor cats, plague mice, undead cows and dwarf gold.
 * Great wisdom can be gained in the grubby [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) if your bladder is strong enough.
 * [Simon Maddlow](/wiki/simon-maddlow/), the scion of a king, now spends his days laying geases on kobolds, goblins and rest at the City’s gates.
 * The Tomb of [Jarmond of the Knife](/wiki/jarmond-of-the-knife/): the famous missionary-prophet was buried here after being eaten by the tarrasque.
@@ -77,12 +76,12 @@ In the City, height is an indicator of social status. The towers and other tall 
 * [29.14.38](/wiki/29-14/) (The [Seeds of the Sea](/wiki/seeds-of-the-sea/)): the best place in the City to buy pearls for a hundred gold pieces.
 * [29.14.39](/wiki/29-14/) (The [Dead Men's Tongues](/wiki/dead-men's-tongues/)): escaped temple beasts of the Whispering Sisters that have spread throughout much of the Undercity.
 * [29.14.40](/wiki/29-14/) (The [Suitor’s Tower](/wiki/suitor’s-tower/)): the tower of a sorceress to plans to gain immortality by marrying a god.
-* *[29.14.41](/wiki/29-14/) (The Chimera of the Suitor’s Tower): the Suitor’s finest creation and her steward. Octoid tentacles sprout from his back, as is to be expected.
+  * [29.14.41](/wiki/29-14/) (The Chimera of the Suitor’s Tower): the Suitor’s finest creation and her steward. Octoid tentacles sprout from his back, as is to be expected.
 * [29.14.42](/wiki/29-14/) (The [Mud Platter](/wiki/mud-platter/)): where the rumors are far fresher than the beef.
 * [29.14.43](/wiki/29-14/) (The [Grey Ooze](/wiki/grey-ooze/)): these strange oozes that infest the Undercity serve a strange master.
 * [29.14.44](/wiki/29-14/) ([Helged Bolger](/wiki/helged-bolger/)): beware monkey-borne vampiric halfling heads.
 * [29.14.45](/wiki/29-14/) (The Tower of [Weng Xiao](/wiki/weng-xiao/)): immigrants from the east maintain a profitable business in silk and corpses.
-* *[29.14.46](/wiki/29-14/) (The Silk Wars): agents of the City’s silk merchants compete fiercely for fresh corpses.
+  * [29.14.46](/wiki/29-14/) (The Silk Wars): agents of the City’s silk merchants compete fiercely for fresh corpses.
 * [29.14.47](/wiki/29-14/) ([Elhanen the Silent](/wiki/elhanen-the-silent/)): an exile from the Golden Realm is trying to rouse these lands against the gnolls who shamed her homeland.
 * [29.14.48](/wiki/29-14/) (The [Devil’s Bible](/wiki/devil’s-bible/)): too holy to destroy but far too blasphemous to use.
 * [29.14.49](/wiki/29-14/) (The [Honorable Society of Engineers](/wiki/honorable-society-of-engineers/)): works day and night to put off the day when the City sinks into the mud.

@@ -16,7 +16,6 @@ region: The Singing Wastes
 
 
 ![](/media/Vue_de_Metz_et_descente_de_croix_Barra_&_De_Nomé.jpg)Hex [08.27](/wiki/08-27/).
-* *
 
 ## Zaal, the Sleeping City
 ![](/media/Sing2.jpg)Connects to: [03.31.01](/wiki/03-31/), [29.07](/wiki/29-07/) and [29.14.36](/wiki/29-14/).

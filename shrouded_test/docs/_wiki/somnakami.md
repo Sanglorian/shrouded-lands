@@ -11,7 +11,7 @@ categories:
   - "The Moon"
 media: []
 ---
-* *Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg)
+**Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_(Hiroshige).jpg)
 
 The somnakami, or Cloud Rabbits, are a humanoid people with pale, soft fur and long, rabbit-like ears. They live on the dark side of [The Moon](/wiki/the-moon/), but travel to earth in small rowboats made of [lufwood](/wiki/lufwood/) weighed down with sparkling moonrocks.
 

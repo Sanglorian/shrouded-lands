@@ -23,7 +23,7 @@ The **Undercity** or **under-city** of [Shuttered](/wiki/shuttered/) is inhabite
 * The troglodytes of the [Temple of Alberon](/wiki/temple-of-alberon/) do their best to eradicate grey oozes from the Undercity.
 * The [Creche of a Million Young](/wiki/creche-of-a-million-young/) has a strong presence in the Undercity.
 * Windows from olden times, that were [shuttered long ago](/wiki/windows-(shuttered)/), can still be seen in the Undercity.
-* *This includes the Last Window, which remains open. 
+  * This includes the Last Window, which remains open.
 
 ### Connections
 * The [Medusa](/wiki/medusa/) was sent to [Midshotgatepool](/wiki/midshotgatepool/) after it got loose in the Undercity.

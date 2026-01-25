@@ -14,7 +14,7 @@ categories:
   - "The Duchy of Thring"
 media: []
 ---
-* *Sweitbor the Roarer** was the **fifth Duke of Thring**, successor to [Duke Deloc](/wiki/duke-deloc/). See the [Lochgates](/wiki/lochgates/) entry for controversy over the succession.
+**Sweitbor the Roarer** was the **fifth Duke of Thring**, successor to [Duke Deloc](/wiki/duke-deloc/). See the [Lochgates](/wiki/lochgates/) entry for controversy over the succession.
 
 If Sweitbor was a Lochgate werebear, that would explain why according to legend, the fifth duke of Thring was a bear all covered in hair.
 

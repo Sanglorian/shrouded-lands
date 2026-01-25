@@ -22,13 +22,13 @@ Because there are no more fertile [horses](/wiki/horses/) in the Shrouded Lands,
 ## Types
 * The [horse market at Tarengael](/wiki/horse-market-tarengael/) sells resurrected horses.
 * The knights of Thring have a variety of mounts:
-* *The knights of Dinivar ([17.11](/wiki/17-11/)) ride great black ostriches.
-* *Some knights ride [mules](/wiki/mules/), including the knights of Castle Steadfast ([20.13](/wiki/20-13/))
-* *Alphonse sells oversized war ostriches ([16.09](/wiki/16-09/))
-* *The knights of the Forked Castle ([17.18](/wiki/17-18/)) ride giant lizards
-* *The knights of Tarengael ([16.16](/wiki/16-16/)) ride boars raised at Castle Spiriwin ([20.16](/wiki/20-16/))
-* *The knights of Castle Karandur ([13.17](/wiki/13-17/)) ride bears.
-* * The [Brothers of the Lion](/wiki/brothers-of-the-lion/) ride lions.
+  * The knights of Dinivar ([17.11](/wiki/17-11/)) ride great black ostriches.
+  * Some knights ride [mules](/wiki/mules/), including the knights of Castle Steadfast ([20.13](/wiki/20-13/))
+  * Alphonse sells oversized war ostriches ([16.09](/wiki/16-09/))
+  * The knights of the Forked Castle ([17.18](/wiki/17-18/)) ride giant lizards
+  * The knights of Tarengael ([16.16](/wiki/16-16/)) ride boars raised at Castle Spiriwin ([20.16](/wiki/20-16/))
+  * The knights of Castle Karandur ([13.17](/wiki/13-17/)) ride bears.
+  * The [Brothers of the Lion](/wiki/brothers-of-the-lion/) ride lions.
 
 
 

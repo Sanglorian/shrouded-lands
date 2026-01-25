@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## Corian
-* *Inspired by:** Designed to place the 5E adventure The Wizard’s Amulet in the Shrouded Lands.
+**Inspired by:** Designed to place the 5E adventure The Wizard’s Amulet in the Shrouded Lands.
 
 Corian is a troubled apprentice in the [Necromantic Office](/wiki/necromantic-office/) of the [Shuttered City](/wiki/shuttered-city/), the greatest city in the Shrouded Lands. Despite his training, flame and heat come more naturally to him than the animation of the dead or the touch of the grave. Only the absent-mindedness of his master has kept him from being expelled or reassigned elsewhere.
 

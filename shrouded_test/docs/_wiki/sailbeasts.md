@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 !['Dimetrodon grandis on sunrise', Dmitry Bogdanov (CC BY 3.0 Unported)](/media/Dimetrodon8DB.jpg)
-* *Sailbeasts** are used as beasts of burden by [lizardman](/wiki/lizardmen/) caravas. They are aquatic, and harry raftsmen in the waters around Smuggler's Isle ([17.16](/wiki/17-16/)).
+**Sailbeasts** are used as beasts of burden by [lizardman](/wiki/lizardmen/) caravas. They are aquatic, and harry raftsmen in the waters around Smuggler's Isle ([17.16](/wiki/17-16/)).
 
 
 

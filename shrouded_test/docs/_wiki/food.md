@@ -11,8 +11,8 @@ media: []
 ---
 * The orc army marches on its [potatoes and pies](/wiki/potatoes-and-pies/)
 * Two [elemental beings](/wiki/elemental-beings/) are associated with food:
-* *Chelind's buns ([16.16](/wiki/16-16/)) seem to be enchanted by a being of dew and vapour
-* *A being of pollen and milk is enslaved to create food by the proprietor of the finest restaurant in [the Cross](/wiki/the-cross/)
+  * Chelind's buns ([16.16](/wiki/16-16/)) seem to be enchanted by a being of dew and vapour
+  * A being of pollen and milk is enslaved to create food by the proprietor of the finest restaurant in [the Cross](/wiki/the-cross/)
 * [Terise of Steadfast](/wiki/terise-of-steadfast/) is a mermaid who can create fine food, but only eat human flesh.
 * The [swine-harpies](/wiki/swine-harpies/) devour or defecate on any food brought into Swine Ravine ([12.22](/wiki/12-22/))
 * [Severard](/wiki/severard/) had a spell, *Severard's piquant premonition*, which let a chef learn the reaction to his or her meals

@@ -54,7 +54,7 @@ The orcs perform rites to their strange gods at the Ten Thousand Stumps ([24.02]
 
 ## Particular orcs
 * The [Skullcrusher orcs](/wiki/skullcrusher-orcs/) are remarkably peaceful. Some of this tribe are overseeing construction of the Farnsfall Holding ([11.03](/wiki/11-03/)).
-* *A Skullcrusher orc hired by Chelind died ([16.16](/wiki/16-16/))
+  * A Skullcrusher orc hired by Chelind died ([16.16](/wiki/16-16/))
 * Vartran Montra-brey, some hundred years ago, planned an audacious attack on the Hold of the Bloodied King, but was foiled ([22.04](/wiki/22-04/))
 * Brigadier Kalas Montra-brey is an elfcatcher and attache to Shuttered’s Grumludish embassy. He takes elvish slaves for fights in Shuttered’s arenas. He has a battalion of half-orcs.
 * The orcs living near the Glittering Gorge care little for gems, but have found an ingenious way of retrieving them. ([36.02](/wiki/36-02/))

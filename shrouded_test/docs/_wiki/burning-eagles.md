@@ -12,7 +12,7 @@ media: []
 ---
 ![Friedrich Justin Bertuch](/media/Phoenix-Fabelwesen.jpg)
 
-* *Burning eagles** are monsters related to [firebirds](/wiki/firebirds/) but much more vicious. 
+**Burning eagles** are monsters related to [firebirds](/wiki/firebirds/) but much more vicious.
 
 A legend, popularized by the exiled poet [Trimueil](/wiki/trimueil/) claims that the burning eagle and the [grey worm](/wiki/grey-worms/) represent the opposing elements of fire and water, and that the two creatures have been mortal enemies since the dawn times.
 

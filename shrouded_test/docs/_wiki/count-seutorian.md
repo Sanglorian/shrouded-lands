@@ -10,7 +10,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-* *Family: **[Seutorians](/wiki/seutorians/). Count Seutorian is uncle of [Lucin Seutorian](/wiki/lucin-seutorian/) and [Cliffar Seutorian](/wiki/cliffar-seutorian/) ([11.03](/wiki/11-03/))
+**Family: **[Seutorians](/wiki/seutorians/). Count Seutorian is uncle of [Lucin Seutorian](/wiki/lucin-seutorian/) and [Cliffar Seutorian](/wiki/cliffar-seutorian/) ([11.03](/wiki/11-03/))
 
 ## Connections
 * The Count funded Lucin's disastrous production of [The Song of Ban and Ulena](/wiki/the-song-of-ban-and-ulena/) ([39.12](/wiki/39-12/))

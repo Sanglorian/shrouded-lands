@@ -12,7 +12,7 @@ categories:
   - "Professions"
 media: []
 ---
-* *Alchemy** is a craft. While many [wizards](/wiki/wizards/) are **alchemists**, alchemy does not require spellcasting. 
+**Alchemy** is a craft. While many [wizards](/wiki/wizards/) are **alchemists**, alchemy does not require spellcasting.
 
 ## Practice
 * The elementalists and alchemists of the [Idjits](/wiki/idjits/) can harness electricity to make hybrid creatures. They have weaponised [shock lizards](/wiki/shock-lizards/) and created [cloud mantas](/wiki/cloud-mantas/) capable of propelling ships.
@@ -24,7 +24,7 @@ media: []
 * Jiffon Soon created the [geas-eater](/wiki/geas-eater/) to remove from himself a powerful curse.
 * An opportunistic alchemist captured a mating pair of [fire centipedes](/wiki/fire-centipedes/) ([17.30](/wiki/17-30/)).
 * Orhan, in happier times, turned lead to gold. He also grew his own wives in vats and had a gnoll sing souls into them. While one of Orhan's wives had her body shattered in a recent attack, his apprentices have preserved the brain.
-* *[The Lady](/wiki/the-lady/) grew a vat-creature, [Zor](/wiki/zor/).
+  * [The Lady](/wiki/the-lady/) grew a vat-creature, [Zor](/wiki/zor/).
 
 ## Alchemists
 * [Master Var](/wiki/master-var/) is “something of” an alchemist.

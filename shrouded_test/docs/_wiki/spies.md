@@ -10,7 +10,7 @@ categories:
   - "Spies"
 media: []
 ---
-* *Spy** can describe someone who spies upon someone as a one-off, as well as a trained professional. 
+**Spy** can describe someone who spies upon someone as a one-off, as well as a trained professional.
 
 ## Spies
 * [Quicklings](/wiki/quicklings/) are the spies of the Kingswood, selling their services to the highest bidder.

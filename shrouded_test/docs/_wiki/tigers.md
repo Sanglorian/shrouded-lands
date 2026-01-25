@@ -16,7 +16,7 @@ media: []
 ---
 ![Edward Julius Detmold](/media/Edward_Julius_Detmold50.jpg)
 ## The Man Whose Shadow is a Tiger
-* *Inspiration:** *The Book of Tigers,* Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/11/inventing-tiger.html
+**Inspiration:** *The Book of Tigers,* Arnold K (Goblin Punch): http://goblinpunch.blogspot.com.au/2013/11/inventing-tiger.html
 
 A few hunters make names for themselves by hunting big game beyond the World’s Edge. Though [giant serpents](/wiki/giant-serpents/), [hearth beasts](/wiki/hearth-beasts/) and [displacer leopards](/wiki/displacer-leopards/) are fearsome foes, the most respected quarry is the King of Cats, the tiger.
 

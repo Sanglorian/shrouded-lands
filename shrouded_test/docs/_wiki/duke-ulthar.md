@@ -12,9 +12,9 @@ media: []
 ---
 ## Duke Ulthar the Loved
 ![Rostam Riding Toward the History, Adel Adili, CC BY-SA 3.0 (Unported)](/media/Persia.jpg)**Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/) (originator of)<br />
-* *Relatives:** [Broderick](/wiki/broderick/) (son)<br />
-* *Ruled:** [Duchy of Thring](/wiki/duchy-of-thring/) (founder)<br />
-* *Deities:** [Green Lady](/wiki/green-lady/) (ceremonially married to)<br />
+**Relatives:** [Broderick](/wiki/broderick/) (son)<br />
+**Ruled:** [Duchy of Thring](/wiki/duchy-of-thring/) (founder)<br />
+**Deities:** [Green Lady](/wiki/green-lady/) (ceremonially married to)<br />
 
 Founder of the [Duchy of Thring](/wiki/duchy-of-thring/). Builder of Castle Tarengael ([16.16](/wiki/16-16/)).
 

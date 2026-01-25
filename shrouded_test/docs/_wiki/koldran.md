@@ -11,7 +11,7 @@ categories:
   - "The Freeholds"
 media: []
 ---
-* *Koldran the Mighty** was well-known in the north, particularly as the Holder of the [Immovable Rod](/wiki/immovable-rod/) of [Penultimate Thule](/wiki/penultimate-thule/) (the [North Pole](/wiki/north-pole/)) and as the father of many progeny (perhaps a hundred).
+**Koldran the Mighty** was well-known in the north, particularly as the Holder of the [Immovable Rod](/wiki/immovable-rod/) of [Penultimate Thule](/wiki/penultimate-thule/) (the [North Pole](/wiki/north-pole/)) and as the father of many progeny (perhaps a hundred).
 
 ## Children
 * [Heleg Koldranson](/wiki/heleg-koldranson/) lounges around the Skibart holding ([20.03](/wiki/20-03/))

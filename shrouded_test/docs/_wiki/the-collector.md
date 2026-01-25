@@ -10,9 +10,9 @@ categories:
   - "The Lands of Gore"
 media: []
 ---
-* *Affiliation: **One of the [Lords Sanguine](/wiki/lords-sanguine/)
+**Affiliation: **One of the [Lords Sanguine](/wiki/lords-sanguine/)
 
-* *Rules: **The Castle of the Collector ([02.22](/wiki/02-22/))
+**Rules: **The Castle of the Collector ([02.22](/wiki/02-22/))
 
 Among the Lords Sanguine, perhaps the most insane is the Collector. Formerly he was known by his true name, but a few hundred years ago he developed an obsession with collecting knowledge of his name. First he collected every book, tablet and scroll which mentioned him. Then, to make sure his collection would always be supreme, he killed anyone who knew his name (or, more realistically, anyone who publicly admitted such).
 
