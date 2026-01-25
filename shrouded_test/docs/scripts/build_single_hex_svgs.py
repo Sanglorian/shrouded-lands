@@ -260,15 +260,17 @@ def make_svg(
         )
 
     top_left, top_right, right, bottom_right, bottom_left, left = vertices
+    def midpoint(a, b):
+        return ((a[0] + b[0]) / 2.0, (a[1] + b[1]) / 2.0)
     anchors = {
         "Top": ((top_left[0] + top_right[0]) / 2.0, (top_left[1] + top_right[1]) / 2.0),
-        "TopRight": top_right,
+        "TopRight": midpoint(top_right, right),
         "Right": right,
-        "BottomRight": bottom_right,
+        "BottomRight": midpoint(right, bottom_right),
         "Bottom": ((bottom_left[0] + bottom_right[0]) / 2.0, (bottom_left[1] + bottom_right[1]) / 2.0),
-        "BottomLeft": bottom_left,
+        "BottomLeft": midpoint(bottom_left, left),
         "Left": left,
-        "TopLeft": top_left,
+        "TopLeft": midpoint(left, top_left),
         "Center": (cx, cy),
     }
 

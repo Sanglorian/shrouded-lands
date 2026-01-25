@@ -3,7 +3,7 @@
      width="60.00" height="51.96" viewBox="0 0 60.00 51.96">
   
     <polygon points="15.0,0.0 45.0,0.0 60.0,26.0 45.0,52.0 15.0,52.0 0.0,26.0" fill="#eeeeee" stroke="#333333" stroke-width="2"/>
-    
+    <path d="M 7.5 39.0 L 30.0 26.0 L 52.5 13.0" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     
     <text x="30.0" y="46.0" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">26.04</text>
