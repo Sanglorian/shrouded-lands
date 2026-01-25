@@ -202,32 +202,32 @@ entries:
   - hex: "23.11"
     layer: road
     color: "#000000"
-    path: Center->TopRight
+    path: Center->BottomRight
 
   - hex: "24.12"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "25.12"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->TopRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "26.13"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: TopLeft->Center->TopRight
 
   - hex: "27.12"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->TopRight
+    path: BottomLeft->Center->BottomRight
 
   - hex: "28.13"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->TopRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "29.13"
     layer: road
@@ -237,12 +237,13 @@ entries:
   - hex: "29.14"
     layer: road
     color: "#000000"
-    path: Top->Center->TopRight
+    path: Top->Center->BottomRight
 
   - hex: "30.15"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center
+    path: TopLeft->Center
+
 
   - hex: "17.05"
     layer: road
@@ -267,64 +268,183 @@ entries:
   - hex: "22.06"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "23.05"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "24.05"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "25.04"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->TopRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "26.04"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->TopRight
+    path: BottomLeft->Center->BottomRight
 
   - hex: "27.04"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: TopLeft->Center->TopRight
 
   - hex: "28.04"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "29.03"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->TopRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "30.03"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "31.02"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->TopRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "32.02"
     layer: road
     color: "#000000"
-    path: BottomLeft->Center->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "33.01"
     layer: road
     color: "#000000"
-    path: TopLeft->Center->Top
+    path: BottomLeft->Center->Top
 
   - hex: "33.00"
     layer: road
     color: "#000000"
     path: Bottom->Center
+
+  - hex: "01.31"
+    layer: stream
+    color: "#99CCFF"
+    path: Center->TopRight
+
+  - hex: "02.31"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomLeft->Center->TopRight
+
+  - hex: "03.30"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomLeft->Center->Top
+
+  - hex: "03.29"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center
+  - hex: "51.29"
+    layer: stream
+    color: "#99CCFF"
+    path: Center->TopLeft
+
+  - hex: "50.29"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->Top
+
+  - hex: "50.28"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center->TopLeft
+
+  - hex: "49.27"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->Top
+
+  - hex: "49.26"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center->TopRight
+
+  - hex: "50.26"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomLeft->Center->TopLeft
+
+  - hex: "49.25"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->TopLeft
+
+  - hex: "48.25"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->BottomLeft
+
+  - hex: "47.25"
+    layer: stream
+    color: "#99CCFF"
+    path: TopRight->Center->TopLeft
+
+  - hex: "46.25"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->TopLeft
+
+  - hex: "45.24"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->Top
+
+  - hex: "45.23"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center->Top
+
+  - hex: "45.22"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center->TopLeft
+
+  - hex: "44.22"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->BottomLeft
+
+  - hex: "43.22"
+    layer: stream
+    color: "#99CCFF"
+    path: TopRight->Center->TopLeft
+
+  - hex: "42.22"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->TopLeft
+
+  - hex: "41.21"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->Top
+
+  - hex: "41.20"
+    layer: stream
+    color: "#99CCFF"
+    path: Bottom->Center->TopLeft
+
+  - hex: "40.20"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center->TopLeft
+
+  - hex: "39.19"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomRight->Center

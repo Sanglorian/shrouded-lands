@@ -3,8 +3,9 @@
      width="60.00" height="51.96" viewBox="0 0 60.00 51.96">
   <a xlink:href="/wiki/23-19/">
     <polygon points="15.0,0.0 45.0,0.0 60.0,26.0 45.0,52.0 15.0,52.0 0.0,26.0" fill="#c3d263" stroke="#333333" stroke-width="2"/>
-    <path d="M 30.0 0.0 L 30.0 26.0 L 52.5 39.0" stroke="#99CCFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="30.0" y="26.0" text-anchor="middle" dominant-baseline="middle" font-size="24" font-family="system-ui, sans-serif" fill="#3e6a0a">◠︎</text><text x="30.0" y="26.0" text-anchor="middle" dominant-baseline="middle" font-size="24" font-family="system-ui, sans-serif" fill="#000000">🏚︎</text>
+    <text x="30.0" y="26.0" text-anchor="middle" dominant-baseline="middle" font-size="24" font-family="system-ui, sans-serif" fill="#3e6a0a">◠︎</text>
+    <path d="M 30.0 0.0 L 30.0 26.0 L 52.5 39.0" stroke="#99CCFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="30.0" y="26.0" text-anchor="middle" dominant-baseline="middle" font-size="24" font-family="system-ui, sans-serif" fill="#000000">🏚︎</text>
     <text x="30.0" y="46.0" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">23.19</text>
   </a>

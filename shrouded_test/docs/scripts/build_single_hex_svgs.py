@@ -134,7 +134,11 @@ def load_poi_symbols():
             poi_name = (row[1] or "").strip()
             if not symbol or not poi_name:
                 continue
-            symbols[poi_name] = symbol
+            color = (row[2] or "").strip() if len(row) > 2 else ""
+            symbols[poi_name] = {
+                "symbol": symbol,
+                "color": color,
+            }
     return symbols
 
 def normalize_symbol(symbol: str) -> str:
@@ -196,6 +200,7 @@ def make_svg(
     symbol_color: Optional[str],
     symbol_two: Optional[str],
     poi_symbol: Optional[str],
+    poi_color: Optional[str],
     linework: list[dict],
 ) -> str:
     # code like "10.09"
@@ -250,12 +255,16 @@ def make_svg(
                 f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
                 f'{symbol_text}</text>'
             )
+    poi_markup = ""
     if poi_symbol:
         poi_text = normalize_symbol(poi_symbol)
-        symbol_markup += (
+        poi_color_value = poi_color or "#000000"
+        if not poi_color_value.startswith("#"):
+            poi_color_value = f"#{poi_color_value}"
+        poi_markup = (
             f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
             f'dominant-baseline="middle" font-size="24" '
-            f'font-family="system-ui, sans-serif" fill="#000000">'
+            f'font-family="system-ui, sans-serif" fill="{poi_color_value}">'
             f'{poi_text}</text>'
         )
 
@@ -284,7 +293,7 @@ def make_svg(
         path_parts.extend(f"L {x:.1f} {y:.1f}" for x, y in coords[1:])
         linework_markup += (
             f'<path d="{" ".join(path_parts)}" '
-            f'stroke="{item.get("color") or "#000000"}" stroke-width="2" '
+            f'stroke="{item.get("color") or "#000000"}" stroke-width="4" '
             f'fill="none" stroke-linecap="round" stroke-linejoin="round"/>'
         )
 
@@ -294,8 +303,9 @@ def make_svg(
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
     <polygon points="{points}" fill="{fill_color}" stroke="{stroke}" stroke-width="2"/>
-    {linework_markup}
     {symbol_markup}
+    {linework_markup}
+    {poi_markup}
     <text x="{cx:.1f}" y="{label_y:.1f}" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">{code}</text>
   {link_close}
@@ -312,8 +322,8 @@ def main():
     hex_linework = load_hex_linework()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
-    for x in range(45):     # 00–44
-        for y in range(30): # 00–29
+    for x in range(51):     # 00–50
+        for y in range(34): # 00–33
             code = f"{x:02d}.{y:02d}"
             meta = hex_meta.get(code)
 
@@ -338,10 +348,22 @@ def main():
                 symbol = None
                 symbol_two = None
                 symbol_color = None
-            poi_symbol = poi_symbols.get(poi_name) if poi_name else None
+            poi_entry = poi_symbols.get(poi_name) if poi_name else None
+            poi_symbol = poi_entry.get("symbol") if poi_entry else None
+            poi_color = poi_entry.get("color") if poi_entry else None
 
             linework = hex_linework.get(code, [])
-            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two, poi_symbol, linework)
+            svg = make_svg(
+                code,
+                has_page,
+                fill_color,
+                symbol,
+                symbol_color,
+                symbol_two,
+                poi_symbol,
+                poi_color,
+                linework,
+            )
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
 

@@ -109,7 +109,11 @@ def load_poi_symbols():
             poi_name = (row[1] or "").strip()
             if not symbol or not poi_name:
                 continue
-            symbols[poi_name] = symbol
+            color = (row[2] or "").strip() if len(row) > 2 else ""
+            symbols[poi_name] = {
+                "symbol": symbol,
+                "color": color,
+            }
     return symbols
 
 def normalize_symbol(symbol: str) -> str:
@@ -141,6 +145,7 @@ def make_svg(
     symbol_color: Optional[str],
     symbol_two: Optional[str],
     poi_symbol: Optional[str],
+    poi_color: Optional[str],
 ) -> str:
     """
     title: the hex code for the current page, e.g. "26.01"
@@ -248,10 +253,13 @@ def make_svg(
         base_x = cx + hex_w // 2
         base_y = cy + hex_h // 2
         poi_text = normalize_symbol(poi_symbol)
+        poi_color_value = poi_color or "#000000"
+        if not poi_color_value.startswith("#"):
+            poi_color_value = f"#{poi_color_value}"
         svg_parts.append(
             f'<text x="{base_x}" y="{base_y}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="27" font-family="sans-serif" fill="#000000">{poi_text}</text>'
+            f'font-size="27" font-family="sans-serif" fill="{poi_color_value}">{poi_text}</text>'
         )
     label_y = cy + hex_h - 10
     svg_parts.append(
@@ -313,7 +321,9 @@ def main():
             f"#{override['symbol_color']}" if override and override.get("symbol_color") else None
         )
         poi_name = (fm.get("poi") or "").strip() if isinstance(fm.get("poi"), str) else ""
-        poi_symbol = poi_symbols.get(poi_name) if poi_name else None
+        poi_entry = poi_symbols.get(poi_name) if poi_name else None
+        poi_symbol = poi_entry.get("symbol") if poi_entry else None
+        poi_color = poi_entry.get("color") if poi_entry else None
 
         svg = make_svg(
             title,
@@ -323,6 +333,7 @@ def main():
             symbol_color,
             symbol_two,
             poi_symbol,
+            poi_color,
         )
 
         fname = f"hex-{hex_slug_for_filename(title)}.svg"

@@ -15,9 +15,9 @@ body_class: world-map-page
 
 <div class="world-map-wrapper">
   <div class="world-map">
-    {%- for col in (0..50) -%}
+    {%- for col in (0..51) -%}
       {%- assign col_mod = col | modulo: 2 -%}
-      {%- for row in (0..32) -%}
+      {%- for row in (0..33) -%}
         {%- assign left = col | times: 22.5 -%}
         {%- assign top = row | times: 26 -%}
         {%- if col_mod == 1 -%}
