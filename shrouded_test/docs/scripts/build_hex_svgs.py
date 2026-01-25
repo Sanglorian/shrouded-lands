@@ -90,6 +90,7 @@ def load_terrain_overrides():
                 "hex_color": (row.get("hex-color") or "").strip(),
                 "symbol_color": (row.get("symbol-color") or "").strip(),
                 "symbol": (row.get("symbol") or "").strip(),
+                "symbol_two": (row.get("symbol-two") or "").strip(),
             }
         return overrides
 
@@ -121,6 +122,7 @@ def make_svg(
     center_fill: str,
     symbol: Optional[str],
     symbol_color: Optional[str],
+    symbol_two: Optional[str],
 ) -> str:
     """
     title: the hex code for the current page, e.g. "26.01"
@@ -166,6 +168,17 @@ def make_svg(
         f'xmlns:xlink="http://www.w3.org/1999/xlink" '
         f'width="{width}" height="{height}" viewBox="0 0 {width} {height}">'
     ]
+    svg_parts.append(
+        "<style>"
+        "text { "
+        "user-select: none; "
+        "-webkit-user-select: none; "
+        "-moz-user-select: none; "
+        "-ms-user-select: none; "
+        "}"
+        "</style>"
+    )
+
 
     def hex_points(x, y):
         return " ".join([
@@ -185,14 +198,34 @@ def make_svg(
     svg_parts.append(
         f'<polygon points="{center_pts}" fill="{center_fill}" stroke="#222" stroke-width="2"/>'
     )
-    if symbol:
-        symbol = normalize_symbol(symbol)
-        svg_parts.append(
-            f'<text x="{cx + hex_w//2}" y="{cy + hex_h//2}" '
-            f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="27" font-family="sans-serif" '
-            f'fill="{symbol_color or "#333333"}">{symbol}</text>'
-        )
+    if symbol or symbol_two:
+        base_x = cx + hex_w // 2
+        base_y = cy + hex_h // 2
+        base_size = 27
+        if symbol and symbol_two:
+            offset = base_size * 0.3
+            primary_symbol = normalize_symbol(symbol)
+            secondary_symbol = normalize_symbol(symbol_two)
+            svg_parts.append(
+                f'<text x="{base_x - offset}" y="{base_y + offset}" '
+                f'text-anchor="middle" dominant-baseline="middle" '
+                f'font-size="{base_size}" font-family="sans-serif" '
+                f'fill="{symbol_color or "#333333"}">{primary_symbol}</text>'
+            )
+            svg_parts.append(
+                f'<text x="{base_x + offset}" y="{base_y - offset}" '
+                f'text-anchor="middle" dominant-baseline="middle" '
+                f'font-size="{base_size * 2 / 3:.1f}" font-family="sans-serif" '
+                f'fill="{symbol_color or "#333333"}">{secondary_symbol}</text>'
+            )
+        else:
+            symbol_text = normalize_symbol(symbol or symbol_two)
+            svg_parts.append(
+                f'<text x="{base_x}" y="{base_y}" '
+                f'text-anchor="middle" dominant-baseline="middle" '
+                f'font-size="{base_size}" font-family="sans-serif" '
+                f'fill="{symbol_color or "#333333"}">{symbol_text}</text>'
+            )
     label_y = cy + hex_h - 10
     svg_parts.append(
         f'<text x="{cx + hex_w//2}" y="{label_y}" '
@@ -247,11 +280,12 @@ def main():
         if override and override.get("hex_color"):
             center_fill = f"#{override['hex_color']}"
         symbol = override.get("symbol") if override else None
+        symbol_two = override.get("symbol_two") if override else None
         symbol_color = (
             f"#{override['symbol_color']}" if override and override.get("symbol_color") else None
         )
 
-        svg = make_svg(title, neighbors, center_fill, symbol, symbol_color)
+        svg = make_svg(title, neighbors, center_fill, symbol, symbol_color, symbol_two)
 
         fname = f"hex-{hex_slug_for_filename(title)}.svg"
         out_path = OUT_DIR / fname

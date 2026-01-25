@@ -78,6 +78,7 @@ def load_terrain_overrides():
                 "hex_color": (row.get("hex-color") or "").strip(),
                 "symbol_color": (row.get("symbol-color") or "").strip(),
                 "symbol": (row.get("symbol") or "").strip(),
+                "symbol_two": (row.get("symbol-two") or "").strip(),
             }
         return overrides
 
@@ -111,6 +112,7 @@ def make_svg(
     fill_color: str,
     symbol: Optional[str],
     symbol_color: Optional[str],
+    symbol_two: Optional[str],
 ) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
@@ -139,14 +141,30 @@ def make_svg(
         link_close = ""
 
     symbol_markup = ""
-    if symbol:
-        symbol = normalize_symbol(symbol)
-        symbol_markup = (
-            f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
-            f'dominant-baseline="middle" font-size="24" '
-            f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
-            f'{symbol}</text>'
-        )
+    if symbol or symbol_two:
+        base_size = 24
+        if symbol and symbol_two:
+            offset = base_size * 0.3
+            primary_symbol = normalize_symbol(symbol)
+            secondary_symbol = normalize_symbol(symbol_two)
+            symbol_markup = (
+                f'<text x="{cx - offset:.1f}" y="{cy + offset:.1f}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size}" '
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'{primary_symbol}</text>'
+                f'<text x="{cx + offset:.1f}" y="{cy - offset:.1f}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size * 2 / 3:.1f}" '
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'{secondary_symbol}</text>'
+            )
+        else:
+            symbol_text = normalize_symbol(symbol or symbol_two)
+            symbol_markup = (
+                f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size}" '
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'{symbol_text}</text>'
+            )
 
     label_y = height - 6.0
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
@@ -187,12 +205,14 @@ def main():
             if override:
                 fill_color = f"#{override['hex_color']}" if override["hex_color"] else fill_color
                 symbol = override.get("symbol")
+                symbol_two = override.get("symbol_two")
                 symbol_color = f"#{override['symbol_color']}" if override["symbol_color"] else None
             else:
                 symbol = None
+                symbol_two = None
                 symbol_color = None
 
-            svg = make_svg(code, has_page, fill_color, symbol, symbol_color)
+            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two)
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
 

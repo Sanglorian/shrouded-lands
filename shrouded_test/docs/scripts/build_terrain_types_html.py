@@ -39,10 +39,11 @@ def iter_terrain_rows() -> Iterable[dict[str, str]]:
                 "hex_color": (row.get("hex-color") or "").strip(),
                 "symbol_color": (row.get("symbol-color") or "").strip(),
                 "symbol": (row.get("symbol") or "").strip(),
+                "symbol_two": (row.get("symbol-two") or "").strip(),
             }
 
 
-def make_svg(hex_color: str, symbol: str, symbol_color: str) -> str:
+def make_svg(hex_color: str, symbol: str, symbol_two: str, symbol_color: str) -> str:
     size = 60
     r = 24
     cx = size / 2
@@ -51,14 +52,34 @@ def make_svg(hex_color: str, symbol: str, symbol_color: str) -> str:
     text_fill = f"#{symbol_color}" if symbol_color else "#333333"
     symbol_text = normalize_symbol(symbol) if symbol else ""
     points = hex_points(cx, cy, r)
+    base_size = 24
+    symbol_markup = ""
+    if symbol or symbol_two:
+        if symbol and symbol_two:
+            offset = base_size * 0.3
+            primary_symbol = normalize_symbol(symbol)
+            secondary_symbol = normalize_symbol(symbol_two)
+            symbol_markup = (
+                f'<text x="{cx - offset}" y="{cy + offset}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size}" font-family="sans-serif" '
+                f'fill="{text_fill}">{html.escape(primary_symbol)}</text>'
+                f'<text x="{cx + offset}" y="{cy - offset}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size * 2 / 3:.1f}" '
+                f'font-family="sans-serif" fill="{text_fill}">{html.escape(secondary_symbol)}</text>'
+            )
+        else:
+            symbol_text = normalize_symbol(symbol or symbol_two)
+            symbol_markup = (
+                f'<text x="{cx}" y="{cy}" text-anchor="middle" '
+                f'dominant-baseline="middle" font-size="{base_size}" font-family="sans-serif" '
+                f'fill="{text_fill}">{html.escape(symbol_text)}</text>'
+            )
     return (
         f'<svg width="{size}" height="{size}" viewBox="0 0 {size} {size}" '
         f'xmlns="http://www.w3.org/2000/svg" role="img" '
         f'aria-label="{html.escape(symbol_text)}">'
         f'<polygon points="{points}" fill="{fill}" stroke="#222" stroke-width="2"/>'
-        f'<text x="{cx}" y="{cy}" text-anchor="middle" '
-        f'dominant-baseline="middle" font-size="24" font-family="sans-serif" '
-        f'fill="{text_fill}">{html.escape(symbol_text)}</text>'
+        f'{symbol_markup}'
         "</svg>"
     )
 
@@ -66,7 +87,7 @@ def make_svg(hex_color: str, symbol: str, symbol_color: str) -> str:
 def build_html(rows: Iterable[dict[str, str]]) -> str:
     row_parts = []
     for row in rows:
-        svg = make_svg(row["hex_color"], row["symbol"], row["symbol_color"])
+        svg = make_svg(row["hex_color"], row["symbol"], row["symbol_two"], row["symbol_color"])
         row_parts.append(
             "\n".join(
                 [
