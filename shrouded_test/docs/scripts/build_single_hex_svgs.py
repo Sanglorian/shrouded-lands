@@ -17,6 +17,7 @@ LINEWORK_YAML = ROOT / "_data" / "hex-lines.yml"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 HEX_TITLE_RE = re.compile(r"^(\d{2})\.(\d{2})(?:\.\d{2})?$")
+HEX_CODE_RE = re.compile(r"(\d{2})\.(\d{2})")
 
 
 # === FRONT MATTER PARSING ===
@@ -144,6 +145,52 @@ def load_poi_symbols():
 def normalize_symbol(symbol: str) -> str:
     return symbol.replace("\ufe0f", "") + "\ufe0e"
 
+def parse_hex_code(value: str) -> Optional[tuple[int, int]]:
+    match = HEX_TITLE_RE.match(value.strip())
+    if not match:
+        return None
+    return int(match.group(1)), int(match.group(2))
+
+def edge_direction(q: int, r: int, neighbor_q: int, neighbor_r: int) -> Optional[str]:
+    if neighbor_q == q and neighbor_r == r - 1:
+        return "Top"
+    if neighbor_q == q and neighbor_r == r + 1:
+        return "Bottom"
+    if neighbor_q == q + 1:
+        if q % 2 == 0:
+            if neighbor_r == r - 1:
+                return "TopRight"
+            if neighbor_r == r:
+                return "BottomRight"
+        else:
+            if neighbor_r == r:
+                return "TopRight"
+            if neighbor_r == r + 1:
+                return "BottomRight"
+    if neighbor_q == q - 1:
+        if q % 2 == 0:
+            if neighbor_r == r - 1:
+                return "TopLeft"
+            if neighbor_r == r:
+                return "BottomLeft"
+        else:
+            if neighbor_r == r:
+                return "TopLeft"
+            if neighbor_r == r + 1:
+                return "BottomLeft"
+    return None
+
+def opposite_edge(direction: str) -> str:
+    opposites = {
+        "Top": "Bottom",
+        "TopRight": "BottomLeft",
+        "BottomRight": "TopLeft",
+        "Bottom": "Top",
+        "BottomLeft": "TopRight",
+        "TopLeft": "BottomRight",
+    }
+    return opposites.get(direction, direction)
+
 def load_hex_linework():
     if not LINEWORK_YAML.exists():
         return {}
@@ -156,17 +203,50 @@ def load_hex_linework():
             continue
         hex_code = (entry.get("hex") or "").strip()
         path = (entry.get("path") or "").strip()
-        if not hex_code or not path:
+        edge_spec = (entry.get("edge") or "").strip()
+        if hex_code and path:
+            raw_tokens = [token.strip() for token in path.split("->") if token.strip()]
+            path_tokens = [aliases.get(token, token) for token in raw_tokens]
+            linework.setdefault(hex_code, []).append(
+                {
+                    "kind": "path",
+                    "layer": (entry.get("layer") or "").strip(),
+                    "color": (entry.get("color") or "").strip() or "#000000",
+                    "path_tokens": path_tokens,
+                }
+            )
             continue
-        raw_tokens = [token.strip() for token in path.split("->") if token.strip()]
-        path_tokens = [aliases.get(token, token) for token in raw_tokens]
-        linework.setdefault(hex_code, []).append(
-            {
-                "layer": (entry.get("layer") or "").strip(),
-                "color": (entry.get("color") or "").strip() or "#000000",
-                "path_tokens": path_tokens,
-            }
-        )
+        if edge_spec:
+            codes = HEX_CODE_RE.findall(edge_spec)
+            if len(codes) != 2:
+                continue
+            start = f"{codes[0][0]}.{codes[0][1]}"
+            end = f"{codes[1][0]}.{codes[1][1]}"
+            start_coords = parse_hex_code(start)
+            end_coords = parse_hex_code(end)
+            if not start_coords or not end_coords:
+                continue
+            direction = edge_direction(start_coords[0], start_coords[1], end_coords[0], end_coords[1])
+            if not direction:
+                continue
+            color = (entry.get("color") or "").strip() or "#000000"
+            layer = (entry.get("layer") or "").strip()
+            linework.setdefault(start, []).append(
+                {
+                    "kind": "edge",
+                    "layer": layer,
+                    "color": color,
+                    "edge": direction,
+                }
+            )
+            linework.setdefault(end, []).append(
+                {
+                    "kind": "edge",
+                    "layer": layer,
+                    "color": color,
+                    "edge": opposite_edge(direction),
+                }
+            )
     return linework
 
 # === HEX GEOMETRY ===
@@ -283,14 +363,32 @@ def make_svg(
         "Center": (cx, cy),
     }
 
+    edge_segments = {
+        "Top": (top_left, top_right),
+        "TopRight": (top_right, right),
+        "BottomRight": (right, bottom_right),
+        "Bottom": (bottom_right, bottom_left),
+        "BottomLeft": (bottom_left, left),
+        "TopLeft": (left, top_left),
+    }
+
     linework_markup = ""
     for item in linework:
-        tokens = item.get("path_tokens") or []
-        coords = [anchors.get(token) for token in tokens if anchors.get(token)]
-        if len(coords) < 2:
-            continue
-        path_parts = [f"M {coords[0][0]:.1f} {coords[0][1]:.1f}"]
-        path_parts.extend(f"L {x:.1f} {y:.1f}" for x, y in coords[1:])
+        kind = item.get("kind") or "path"
+        if kind == "edge":
+            edge_name = item.get("edge")
+            segment = edge_segments.get(edge_name)
+            if not segment:
+                continue
+            (sx, sy), (ex, ey) = segment
+            path_parts = [f"M {sx:.1f} {sy:.1f}", f"L {ex:.1f} {ey:.1f}"]
+        else:
+            tokens = item.get("path_tokens") or []
+            coords = [anchors.get(token) for token in tokens if anchors.get(token)]
+            if len(coords) < 2:
+                continue
+            path_parts = [f"M {coords[0][0]:.1f} {coords[0][1]:.1f}"]
+            path_parts.extend(f"L {x:.1f} {y:.1f}" for x, y in coords[1:])
         linework_markup += (
             f'<path d="{" ".join(path_parts)}" '
             f'stroke="{item.get("color") or "#000000"}" stroke-width="4" '

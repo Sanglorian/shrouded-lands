@@ -2,6 +2,8 @@
 # Path uses direction tokens separated by '->'.
 # Allowed direction tokens:
 #   Top, TopRight, Right, BottomRight, Bottom, BottomLeft, Left, TopLeft, Center
+# Edge strokes can be defined with an edge: "00.03 00.04" entry, which will
+# stroke the shared border for both hexes.
 # Optional aliases:
 #   NE = TopRight, NW = TopLeft, SE = BottomRight, SW = BottomLeft
 
@@ -23,6 +25,10 @@ direction_aliases:
   SW: BottomLeft
 
 entries:
+
+  - edge: "00.03 00.04"
+    layer: stream
+    color: "#99CCFF"
 
   - hex: "04.05"
     layer: stream
