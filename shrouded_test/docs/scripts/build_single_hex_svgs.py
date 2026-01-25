@@ -3,7 +3,6 @@ import csv
 import math
 import re
 from typing import Optional
-import yaml
 
 # === CONFIG ===
 
@@ -32,8 +31,43 @@ def split_front_matter(text: str):
         return "", {}, text
     fm_raw = parts[1]
     body = parts[2].lstrip("\n")
-    fm = yaml.safe_load(fm_raw) or {}
+    fm = parse_front_matter(fm_raw)
     return fm_raw, fm, body
+
+
+def parse_front_matter(fm_raw: str) -> dict:
+    data = {}
+    current_list_key = None
+    for line in fm_raw.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("#"):
+            continue
+        if line.startswith("- "):
+            if current_list_key is None:
+                continue
+            item = line[2:].strip()
+            data.setdefault(current_list_key, []).append(strip_quotes(item))
+            continue
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        key = key.strip()
+        value = value.strip()
+        if not value:
+            current_list_key = key
+            data[key] = []
+            continue
+        current_list_key = None
+        data[key] = strip_quotes(value)
+    return data
+
+
+def strip_quotes(value: str) -> str:
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+        return value[1:-1]
+    return value
 
 
 def collect_hex_metadata():
