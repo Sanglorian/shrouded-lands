@@ -4,6 +4,7 @@
   
     <polygon points="15.0,0.0 45.0,0.0 60.0,26.0 45.0,52.0 15.0,52.0 0.0,26.0" fill="#eeeeee" stroke="#333333" stroke-width="2"/>
     
+    
     <text x="30.0" y="46.0" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">41.17</text>
   

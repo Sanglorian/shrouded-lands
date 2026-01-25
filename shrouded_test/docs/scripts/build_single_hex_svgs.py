@@ -3,6 +3,7 @@ import csv
 import math
 import re
 from typing import Optional
+import yaml
 
 # === CONFIG ===
 
@@ -11,6 +12,7 @@ WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexes"
 TERRAIN_CSV = ROOT / "terrain.csv"
 POI_CSV = ROOT / "poi.csv"
+LINEWORK_YAML = ROOT / "_data" / "hex-lines.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -138,14 +140,38 @@ def load_poi_symbols():
 def normalize_symbol(symbol: str) -> str:
     return symbol.replace("\ufe0f", "") + "\ufe0e"
 
+def load_hex_linework():
+    if not LINEWORK_YAML.exists():
+        return {}
+    data = yaml.safe_load(LINEWORK_YAML.read_text(encoding="utf-8")) or {}
+    aliases = data.get("direction_aliases") or {}
+    entries = data.get("entries") or []
+    linework = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        hex_code = (entry.get("hex") or "").strip()
+        path = (entry.get("path") or "").strip()
+        if not hex_code or not path:
+            continue
+        raw_tokens = [token.strip() for token in path.split("->") if token.strip()]
+        path_tokens = [aliases.get(token, token) for token in raw_tokens]
+        linework.setdefault(hex_code, []).append(
+            {
+                "layer": (entry.get("layer") or "").strip(),
+                "color": (entry.get("color") or "").strip() or "#000000",
+                "path_tokens": path_tokens,
+            }
+        )
+    return linework
 
 # === HEX GEOMETRY ===
 
-def flat_hex_points(cx, cy, r):
+def flat_hex_vertices(cx, cy, r):
     """Flat-top regular hexagon (top/bottom edges horizontal)."""
     h = (math.sqrt(3) * r) / 2.0
 
-    pts = [
+    return [
         (cx - r / 2.0, cy - h),  # top-left
         (cx + r / 2.0, cy - h),  # top-right
         (cx + r,       cy),      # right
@@ -153,6 +179,10 @@ def flat_hex_points(cx, cy, r):
         (cx - r / 2.0, cy + h),  # bottom-left
         (cx - r,       cy),      # left
     ]
+
+def flat_hex_points(cx, cy, r):
+    """Flat-top regular hexagon (top/bottom edges horizontal)."""
+    pts = flat_hex_vertices(cx, cy, r)
     return " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
 
 
@@ -166,6 +196,7 @@ def make_svg(
     symbol_color: Optional[str],
     symbol_two: Optional[str],
     poi_symbol: Optional[str],
+    linework: list[dict],
 ) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
@@ -182,7 +213,8 @@ def make_svg(
     # Center of hex
     cx = r
     cy = h
-    points = flat_hex_points(cx, cy, r)
+    vertices = flat_hex_vertices(cx, cy, r)
+    points = " ".join(f"{x:.1f},{y:.1f}" for x, y in vertices)
 
     stroke = "#333333"
 
@@ -227,12 +259,40 @@ def make_svg(
             f'{poi_text}</text>'
         )
 
+    top_left, top_right, right, bottom_right, bottom_left, left = vertices
+    anchors = {
+        "Top": ((top_left[0] + top_right[0]) / 2.0, (top_left[1] + top_right[1]) / 2.0),
+        "TopRight": top_right,
+        "Right": right,
+        "BottomRight": bottom_right,
+        "Bottom": ((bottom_left[0] + bottom_right[0]) / 2.0, (bottom_left[1] + bottom_right[1]) / 2.0),
+        "BottomLeft": bottom_left,
+        "Left": left,
+        "TopLeft": top_left,
+        "Center": (cx, cy),
+    }
+
+    linework_markup = ""
+    for item in linework:
+        tokens = item.get("path_tokens") or []
+        coords = [anchors.get(token) for token in tokens if anchors.get(token)]
+        if len(coords) < 2:
+            continue
+        path_parts = [f"M {coords[0][0]:.1f} {coords[0][1]:.1f}"]
+        path_parts.extend(f"L {x:.1f} {y:.1f}" for x, y in coords[1:])
+        linework_markup += (
+            f'<path d="{" ".join(path_parts)}" '
+            f'stroke="{item.get("color") or "#000000"}" stroke-width="2" '
+            f'fill="none" stroke-linecap="round" stroke-linejoin="round"/>'
+        )
+
     label_y = height - 6.0
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
     <polygon points="{points}" fill="{fill_color}" stroke="{stroke}" stroke-width="2"/>
+    {linework_markup}
     {symbol_markup}
     <text x="{cx:.1f}" y="{label_y:.1f}" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">{code}</text>
@@ -247,6 +307,7 @@ def main():
     hex_meta = collect_hex_metadata()
     terrain_overrides = load_terrain_overrides()
     poi_symbols = load_poi_symbols()
+    hex_linework = load_hex_linework()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
     for x in range(45):     # 00–44
@@ -277,7 +338,8 @@ def main():
                 symbol_color = None
             poi_symbol = poi_symbols.get(poi_name) if poi_name else None
 
-            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two, poi_symbol)
+            linework = hex_linework.get(code, [])
+            svg = make_svg(code, has_page, fill_color, symbol, symbol_color, symbol_two, poi_symbol, linework)
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
 

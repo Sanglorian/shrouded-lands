@@ -3,6 +3,7 @@
      width="60.00" height="51.96" viewBox="0 0 60.00 51.96">
   <a xlink:href="/wiki/00-09/">
     <polygon points="15.0,0.0 45.0,0.0 60.0,26.0 45.0,52.0 15.0,52.0 0.0,26.0" fill="#99ccff" stroke="#333333" stroke-width="2"/>
+    <path d="M 30.0 26.0 L 45.0 52.0" stroke="#99CCFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     
     <text x="30.0" y="46.0" text-anchor="middle" dominant-baseline="alphabetic"
           font-size="9" font-family="system-ui, sans-serif">00.09</text>
