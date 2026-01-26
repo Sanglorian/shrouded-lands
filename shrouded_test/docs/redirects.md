@@ -9,9 +9,6 @@ This list groups redirect pages into two buckets:
 
 | Redirect page | Redirects to | Categories |
 | --- | --- | --- |
-| 48.32 | Golden Light | Category:Hex, Category:The Burning Lands |
-| 48.33 | Golden Light | Category:Hex, Category:The Burning Lands |
-| 49.32 | Golden Light | Category:Hex, Category:The Burning Lands |
 | Abbalah-Doon | 15.28 | Category:Gnolls, Category:Villages |
 | Abdul | 05.04 | Category:Characters, Category:The Westmarches, Category:Tieflings |
 | Anselm Brucoloc | 08.21 | Category:Characters, Category:Lords Sanguine |
@@ -60,7 +57,6 @@ This list groups redirect pages into two buckets:
 | Redirect page | Redirects to |
 | --- | --- |
 | 01.03 | Everdark |
-| 0520 | 05.20 |
 | 06.10 | The Ziggurat |
 | 09.24 | Olgam and Oskill |
 | 16.14 | 18.14 |
