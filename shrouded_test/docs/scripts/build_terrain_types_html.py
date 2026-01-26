@@ -43,7 +43,13 @@ def iter_terrain_rows() -> Iterable[dict[str, str]]:
             }
 
 
-def make_svg(hex_color: str, symbol: str, symbol_two: str, symbol_color: str) -> str:
+def make_svg(
+    hex_color: str,
+    symbol: str,
+    symbol_two: str,
+    symbol_color: str,
+    font_family: str = "sans-serif",
+) -> str:
     size = 60
     r = 24
     cx = size / 2
@@ -53,6 +59,7 @@ def make_svg(hex_color: str, symbol: str, symbol_two: str, symbol_color: str) ->
     symbol_text = normalize_symbol(symbol) if symbol else ""
     points = hex_points(cx, cy, r)
     base_size = 24
+    font_family_escaped = html.escape(font_family, quote=True)
     symbol_markup = ""
     if symbol or symbol_two:
         if symbol and symbol_two:
@@ -61,17 +68,20 @@ def make_svg(hex_color: str, symbol: str, symbol_two: str, symbol_color: str) ->
             secondary_symbol = normalize_symbol(symbol_two)
             symbol_markup = (
                 f'<text x="{cx - offset}" y="{cy + offset}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size}" font-family="sans-serif" '
+                f"dominant-baseline=\"middle\" font-size=\"{base_size}\" "
+                f"font-family='{font_family_escaped}' "
                 f'fill="{text_fill}">{html.escape(primary_symbol)}</text>'
                 f'<text x="{cx + offset}" y="{cy - offset}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size * 2 / 3:.1f}" '
-                f'font-family="sans-serif" fill="{text_fill}">{html.escape(secondary_symbol)}</text>'
+                f"dominant-baseline=\"middle\" font-size=\"{base_size * 2 / 3:.1f}\" "
+                f"font-family='{font_family_escaped}' fill=\"{text_fill}\">"
+                f"{html.escape(secondary_symbol)}</text>"
             )
         else:
             symbol_text = normalize_symbol(symbol or symbol_two)
             symbol_markup = (
                 f'<text x="{cx}" y="{cy}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size}" font-family="sans-serif" '
+                f"dominant-baseline=\"middle\" font-size=\"{base_size}\" "
+                f"font-family='{font_family_escaped}' "
                 f'fill="{text_fill}">{html.escape(symbol_text)}</text>'
             )
     return (
@@ -85,15 +95,46 @@ def make_svg(hex_color: str, symbol: str, symbol_two: str, symbol_color: str) ->
 
 
 def build_html(rows: Iterable[dict[str, str]]) -> str:
+    font_previews = [
+        ("Calibri", '"Calibri", "Carlito", system-ui, sans-serif'),
+        ("Aptos", '"Aptos", "Segoe UI", system-ui, sans-serif'),
+        ("Segoe UI", '"Segoe UI", system-ui, sans-serif'),
+        ("Roboto", '"Roboto", "Noto Sans", system-ui, sans-serif'),
+        ("Georgia", '"Georgia", "Times New Roman", serif'),
+    ]
     row_parts = []
     for row in rows:
         svg = make_svg(row["hex_color"], row["symbol"], row["symbol_two"], row["symbol_color"])
+        preview_parts = []
+        for label, font_stack in font_previews:
+            preview_svg = make_svg(
+                row["hex_color"],
+                row["symbol"],
+                row["symbol_two"],
+                row["symbol_color"],
+                font_family=font_stack,
+            )
+            preview_parts.append(
+                "\n".join(
+                    [
+                        '<div class="tile-swatch">',
+                        f"  {preview_svg}",
+                        f'  <span class="font-label">{html.escape(label)}</span>',
+                        "</div>",
+                    ]
+                )
+            )
         row_parts.append(
             "\n".join(
                 [
                     "<tr>",
                     f"  <td>{html.escape(row['terrain'])}</td>",
                     f"  <td class=\"example\">{svg}</td>",
+                    "  <td class=\"font-previews\">",
+                    '    <div class="font-preview-grid">',
+                    "\n".join(f"      {part}" for part in preview_parts),
+                    "    </div>",
+                    "  </td>",
                     "</tr>",
                 ]
             )
@@ -128,6 +169,28 @@ def build_html(rows: Iterable[dict[str, str]]) -> str:
       td.example {
         width: 100px;
       }
+      td.font-previews {
+        min-width: 320px;
+      }
+      .font-preview-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        align-items: flex-start;
+      }
+      .tile-swatch {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.25rem;
+      }
+      .tile-swatch svg {
+        display: block;
+      }
+      .font-label {
+        font-size: 0.75rem;
+        color: #555;
+      }
     </style>
   </head>
   <body>
@@ -137,6 +200,7 @@ def build_html(rows: Iterable[dict[str, str]]) -> str:
         <tr>
           <th>Terrain</th>
           <th>Example</th>
+          <th>Font previews</th>
         </tr>
       </thead>
       <tbody>
