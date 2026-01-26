@@ -1,26 +1,14 @@
 aliases:
   '01.03': everdark
-  '02.11': the-cross
-  '05.24': ninbolm
   '0520': '05.20'
   '06.10': the-ziggurat
-  '08.27': zaal
   '09.24': olgam-and-oskill
   '16.14': '18.14'
-  '19.31': jahur
-  '23.11': winds
-  '24.26': azurnay
-  '26.20': blind-midshotgatepool
-  '29.07': holt-of-the-bloodied-king
   '29.14': city-of-shuttered-windows
-  '38.28': bergolast
-  '40.20': hyfalls
   '43.12': monatheron
-  '48.18': sosaria
   '48.32': golden-light
   '48.33': golden-light
   '49.32': golden-light
-  '51.29': city-of-smoke
   aarokocra: aarakocra
   abbalah-doon: '15.28'
   abdul: '05.04'
@@ -35,9 +23,12 @@ aliases:
   'appendix o: organisations': organisations
   'appendix p: professions': professions
   'appendix s: spells': spells
-  august city: blind-midshotgatepool
+  august city: '26.20'
+  azurnay: '24.26'
   barnabi: were-barnabi
   basilisks: basilisk
+  bergolast: '38.28'
+  blind midshotgatepool: '26.20'
   breath of the earth: '12.28'
   brigadier kalas: brigadier-kalas-montra-brey
   brothers of the spear: temple-invisible
@@ -47,8 +38,9 @@ aliases:
   cat tree: cat-trees
   chimera: lars
   chimeric siege: chimerical-siege
-  city of jewels: jahur
+  city of jewels: '19.31'
   city of many windows: city-of-shuttered-windows
+  city of smoke: '51.29'
   city of the shuttered windows: city-of-shuttered-windows
   clan battle beard: ishin-kaimanu
   clan hagen: '22.02'
@@ -112,12 +104,15 @@ aliases:
   high tongue: mud-tongue-and-high-tongue
   hinterlands of blindmidshotgatepool: hinterlands-of-blind-midshotgatepool
   hoard: the-hoard
+  holt of the bloodied king: '29.07'
   hoth achaar: '26.01'
   hunting huts: '10.14'
+  hyfalls: '40.20'
   iceplants: '39.31'
   imps: fiends
   iraine: iraine-the-suitor
-  ironsides: the-cross
+  ironsides: '02.11'
+  jahur: '19.31'
   kalas montra-brey: brigadier-kalas-montra-brey
   king in splendour: king-in-splendor
   koldran the mighty: koldran
@@ -137,6 +132,7 @@ aliases:
   mud platter: the-mud-platter
   mud tongue: mud-tongue-and-high-tongue
   night people: night-men
+  ninbolm: '05.24'
   nordanbjorn: marche-of-the-winterjarl
   north gate: north-gate-and-south-gate
   oak: oaks
@@ -168,6 +164,7 @@ aliases:
   simone’s aviary: simone's-aviary
   sir wayne: sir-waine
   sons of dagon: abyss-diamonds
+  sosaria: '48.18'
   south gate: north-gate-and-south-gate
   south marches: the-burning-lands
   spears of the dawn: '50.02'
@@ -192,6 +189,7 @@ aliases:
   the brothers of the lion: brothers-of-the-lion
   the browncloaks: browncloaks
   the city itself: city-of-shuttered-windows
+  the cross: '02.11'
   the corn fields: cornfields
   the cornfields: cornfields
   the daughter of ser gareth lemarr: daughter-of-ser-gareth-lemarr
@@ -274,14 +272,16 @@ aliases:
   weeper: the-weeper
   weresharks: lycanthropes
   werewolves: lycanthropes
+  winds: '23.11'
   whirligig crabs: '44.19'
   witch-hounds: witch-hounds-2458
   witchmen: witch-clans
   witchwater: the-witchwater
   world beyond: world's-edge-and-beyond
   world's edge: world's-edge-and-beyond
-  yaboons: blind-midshotgatepool
-  yabooons: blind-midshotgatepool
+  yaboons: '26.20'
+  yabooons: '26.20'
+  zaal: '08.27'
   zhuriman empire: zhuriman
   zoar rajak: '11.01'
   zombies: sack-children

@@ -9,105 +9,49 @@ This list groups redirect pages into two buckets:
 
 | Redirect page | Redirects to | Categories |
 | --- | --- | --- |
-| 02.11 | The Cross | Category:Hex, Category:The Bitter Coast |
-| 05.24 | Ninbolm | Category:Hex, Category:The Lands of Gore |
-| 08.27 | Zaal | Category:Hex, Category:The Singing Wastes |
-| 19.31 | Jahur | Category:Hex, Category:The Singing Wastes |
-| 23.11 | Winds | Category:Hex, Category:The Freeholds |
-| 24.26 | Azurnay | Category:Hex, Category:The Burning Lands |
-| 26.20 | Blind Midshotgatepool | Category:Hex, Category:Hinterlands of Blind Midshotgatepool, Category:River of Crystal Waters |
-| 29.07 | Holt of the Bloodied King | Category:Hex, Category:The Kingswood |
-| 38.28 | Bergolast | Category:Hex, Category:The Burning Lands |
-| 40.20 | Hyfalls | Category:Hex, Category:River Hyad, Category:The Burning Lands |
-| 48.18 | Sosaria | Category:Hex, Category:The Burning Lands |
 | 48.32 | Golden Light | Category:Hex, Category:The Burning Lands |
 | 48.33 | Golden Light | Category:Hex, Category:The Burning Lands |
 | 49.32 | Golden Light | Category:Hex, Category:The Burning Lands |
-| 51.29 | City of Smoke | Category:Hex, Category:The Burning Lands |
 | Abbalah-Doon | 15.28 | Category:Gnolls, Category:Villages |
 | Abdul | 05.04 | Category:Characters, Category:The Westmarches, Category:Tieflings |
-| Abdul Zassiz | 05.04 | Category:Synonyms |
 | Anselm Brucoloc | 08.21 | Category:Characters, Category:Lords Sanguine |
-| Arch-Lich of Naros | Supendar | Category:Synonyms |
 | Ashberries | The Osseries#Ashberries and Ossery Fire | Category:Osseries, Category:Plants |
 | Breath of the Earth | 12.28 | Category:Phenomena |
-| Burning Lands | The Burning Lands | Category:Synonyms |
-| Cactogre | Grandfather Cactus | Category:Synonyms |
-| Cactogres | Great cacti | Category:Synonyms |
-| City of Jewels | Jahur | Category:Synonyms |
-| City of Many Windows | City of Shuttered Windows | Category:Synonyms |
 | Clan Hagen | 22.02 | Category:Dwarves, Category:Families |
-| Cloud and storm giants | Pirate Kings | Category:Synonyms |
 | Cloud halflings | Halflings#Cloud halflings | Category:Halflings, Category:Peoples, Category:Tribes |
 | Common Tongue | Mud Tongue and High Tongue | Category:Languages |
-| Copperheads | Copperhairs | Category:Synonyms |
 | Demons | Fiends | Category:Creatures, Category:Fiends |
 | Destroying Angel | 07.06 | Category:Characters, Category:Creatures, Category:The Westmarches |
 | Devils | Fiends | Category:Creatures, Category:Fiends |
-| Drogo the Baldfaced | Drogo | Category:Synonyms |
 | Dungers | Dungers and Hallovers | Category:Families, Category:Witch Clans |
-| Elemental being | Elemental beings | Category:Synonyms |
-| Elharen | Elhanen | Category:Synonyms |
-| Elharen the Silent | Elhanen | Category:Synonyms |
 | Elwen | 08.01 | Category:Browncloaks, Category:Characters, Category:Snickersnees |
 | Father Dorek | 03.07 | Category:Characters, Category:Dwarves, Category:The Westmarches |
-| Felix Koldranson | Flea | Category:Synonyms |
-| Fey-Realm | Land of Fairy | Category:Synonyms |
 | Ghostas | Tenzerlins and Ghostas | Category:Families, Category:The Shuttered City |
 | Gischard Penderghast | Penderghasts | Category:Characters, Category:Penderghasts, Category:Witch Clans |
 | God in the Jar | 44.19 | Category:Deities, Category:The Burning Lands, Category:The Keening Sea |
-| Gore | Hills of Gore | Category:Synonyms |
-| Gryphons | Griffins | Category:Synonyms |
 | Hallovers | Dungers and Hallovers | Category:Families, Category:Witch Clans |
-| Hinterlands of Blindmidshotgatepool | Hinterlands of Blind Midshotgatepool | Category:Synonyms |
 | Hunting huts | 10.14 | Category:Creatures, Category:The Lands of Gore |
 | Iceplants | 39.31 | Category:Plants, Category:The Burning Lands |
 | Imps | Fiends | Category:Creatures, Category:Fiends |
 | Ironsides | The Cross | Category:Characters, Category:Jahur, Category:Janissaries, Category:The Cross |
-| King in Splendour | King in Splendor | Category:Synonyms |
 | Kolfrosta | 03.13 | Category:Characters, Category:Dead Tiamat, Category:Priests, Category:Witches |
-| Lion in Splendor | King in Splendor | Category:Synonyms |
-| Lizardfolk | Lizardmen | Category:Synonyms |
-| Lord of Pain | Alberon | Category:Synonyms |
 | Moon nuts | 50.02 | Category:Plants, Category:The Burning Lands, Category:The Moon |
 | Nordanbjorn | Marche of the Winterjarl | Category:Nordanbjorn, Category:Peoples, Category:The Marche of the Winterjarl |
 | Ossery fire | The Osseries#Ashberries and Ossery Fire | Category:Osseries, Category:Victuals |
-| Other planes | Other planes | Category:Synonyms |
 | Paionian centaurs | 04.17 | Category:Centaurs, Category:Peoples |
-| Pandelar | The Weeper | Category:Synonyms |
 | People of the Claw | 48.13 | Category:Humans, Category:Peoples, Category:The Lost Colony |
 | Pork Pie Stannev | 25.04 | Category:Characters, Category:Stannevs |
 | Regulus Verlime | Verlimes | Category:Characters |
 | Ribbon lotuses | Wild men | Category:Plants, Category:The Kingswood |
 | Rojarshans | 28.07 | Category:Humans, Category:Peoples, Category:The Kingswood |
-| Saray | Asrigh | Category:Synonyms |
-| Shadowed Ballet | Shadow Ballet | Category:Synonyms |
 | Shalebats | Lufwood | Category:Bats, Category:Creatures, Category:The World's Edge and Beyond |
-| Shuttered | City of Shuttered Windows | Category:Synonyms |
-| Shuttered City | City of Shuttered Windows | Category:Synonyms |
 | Sons of Dagon | Abyss Diamonds | Category:Deities, Category:Religious groups |
-| South Marches | The Burning Lands | Category:Synonyms |
 | Spears of the dawn | 50.02 | Category:Phenomena, Category:The Burning Lands |
 | Sulgrim | 08.21 | Category:Characters, Category:Lords Sanguine, Category:The Lands of Gore, Category:Trolls |
 | Swine-harpies | 12.22 | Category:Creatures, Category:Harpies, Category:The Lands of Gore |
-| Tantalus Mountains | :Category:The Tantalus Mountains | Category:Synonyms |
-| Tehaar | Tehaar the Huntress | Category:Synonyms |
-| Templars | Canes Sanguis | Category:Synonyms |
 | Tenzerlins | Tenzerlins and Ghostas | Category:Families, Category:The Shuttered City |
-| The City Itself | City of Shuttered Windows | Category:Synonyms |
-| The Faceless | The Drow of Olmsted Keep | Category:Synonyms |
-| The Hills of Gore | Hills of Gore | Category:Synonyms |
-| The Keening Sea | Keening Sea | Category:Synonyms |
-| The Lion’s Day | Lion's Day | Category:Synonyms |
-| The Pirate Kings | Pirate Kings | Category:Synonyms |
-| The Shuttered City | City of Shuttered Windows | Category:Synonyms |
-| The Twelve Nations | Twelve Nations | Category:Synonyms |
 | Thorek Ironhide | Marche of the Winterjarl | Category:Characters, Category:Nordanbjorn, Category:The Marche of the Winterjarl |
-| Thoth | Last Prophet of Asrigh | Category:Synonyms |
-| Traitor's Pit | Traitors' Pit | Category:Synonyms |
 | Ulthar the Loved | Ducal family of Thring | Category:Characters, Category:The Duchy of Thring |
-| Vo Tume | Elves | Category:Synonyms |
-| Weeper | The Weeper | Category:Synonyms |
 | Whirligig crabs | 44.19 | Category:Crabs, Category:Creatures, Category:The Burning Lands, Category:The Keening Sea |
 | Zoar Rajak | 11.01 | Category:Goblins, Category:The Grey Mountains, Category:The Marche of the Winterjarl, Category:Tribes |
 
@@ -123,6 +67,7 @@ This list groups redirect pages into two buckets:
 | 29.14 | City of Shuttered Windows |
 | 43.12 | Monatheron |
 | Aarokocra | Aarakocra |
+| Abdul Zassiz | 05.04 |
 | Aboleths | Aboleth |
 | Appendix A: Astronomy | Phenomena |
 | Appendix C: Creatures | Creatures |
@@ -133,6 +78,7 @@ This list groups redirect pages into two buckets:
 | Appendix P: Planes | Other planes |
 | Appendix P: Professions | Professions |
 | Appendix S: Spells | Spells |
+| Arch-Lich of Naros | Supendar |
 | August City | Blind Midshotgatepool |
 | Barnabi | Were-Barnabi |
 | Baron Pignose | Horvath Pignose |
@@ -140,13 +86,20 @@ This list groups redirect pages into two buckets:
 | Birds | :Category:Birds |
 | Brigadier Kalas | Brigadier Kalas Montra-brey |
 | Brothers of the Spear | Temple Invisible |
+| Burning Lands | The Burning Lands |
+| Cactogre | Grandfather Cactus |
+| Cactogres | Great cacti |
 | Cat tree | Cat trees |
 | Category:Organisation | :Category:Organization |
 | Chimera | Lars |
 | Chimeric Siege | Chimerical Siege |
+| City of Jewels | Jahur |
+| City of Many Windows | City of Shuttered Windows |
 | City of the Shuttered Windows | City of Shuttered Windows |
 | Clan Battle Beard | Ishin Kaimanu |
+| Cloud and storm giants | Pirate Kings |
 | Common | Mud Tongue and High Tongue |
+| Copperheads | Copperhairs |
 | Corn Fields | Cornfields |
 | Court of the Steadfast | 20.13 |
 | Cransoms | Haverlies and Cransoms |
@@ -159,24 +112,32 @@ This list groups redirect pages into two buckets:
 | Doge Simone the Fowl | Simone the Fowl |
 | Draugmere Peaks | :Category:Draugmere Peaks |
 | Drinker’s Stein | Drinker's Stein |
+| Drogo the Baldfaced | Drogo |
 | Drow’s Tears | Drow's Tears |
 | Duke Deloc | Duke Theloc |
 | Duke of Thring | Duke of Thring (incumbent) |
 | Dukes of Thring | Ducal family of Thring |
 | Dwarf fortresses | Fastnesses |
 | Efreets | Efreet |
+| Elemental being | Elemental beings |
 | Elhanen the Silent | Elhanen |
+| Elharen | Elhanen |
+| Elharen the Silent | Elhanen |
 | Ettins | Ettiennes |
 | Ever-winding worms | Ever-winding worm |
+| Felix Koldranson | Flea |
+| Fey-Realm | Land of Fairy |
 | Fifth Duke of Thring | Fifth duke of Thring |
 | Flux of Jarmond | Jarmond's flux |
 | Forest of Fancy | Forests of Fancy |
 | Galeb duhrs | Galeb duhr |
 | Gold dragons | Metallic dragons |
+| Gore | Hills of Gore |
 | Gorean Gray | Gorean Greys |
 | Gorean Grays | Gorean Greys |
 | Gray Mountains | Grey Mountains |
 | Grey Ooze | Grey oozes |
+| Gryphons | Griffins |
 | Hair colour | Hair |
 | Haverlies | Haverlies and Cransoms |
 | Helged Bolgr | Helged Bolger |
@@ -184,15 +145,20 @@ This list groups redirect pages into two buckets:
 | Hierophant | Hierophants |
 | High Kings of Gore | Royal family of Gore |
 | High Tongue | Mud Tongue and High Tongue |
+| Hinterlands of Blindmidshotgatepool | Hinterlands of Blind Midshotgatepool |
 | Hoard | The Hoard |
 | Hoth Achaar | 26.01 |
 | Iraine | Iraine the Suitor |
 | Kalas Montra-brey | Brigadier Kalas Montra-brey |
 | Kavanjr | One-Eyed Kevanjr |
+| King in Splendour | King in Splendor |
 | Koldran the Mighty | Koldran |
 | Lady Maratan | Lady Natala |
 | Leviathans | Whales |
 | Ley lines | Leylines |
+| Lion in Splendor | King in Splendor |
+| Lizardfolk | Lizardmen |
+| Lord of Pain | Alberon |
 | Lycanthropy | Lycanthropes |
 | Mages | Wizards |
 | Main Page | The Shrouded Lands Wiki |
@@ -201,11 +167,14 @@ This list groups redirect pages into two buckets:
 | Mud Platter | The Mud Platter |
 | Mud tongue | Mud Tongue and High Tongue |
 | Night people | Night men |
+| Ninbolm | 05.24 |
 | North Gate | North Gate and South Gate |
 | Oak | Oaks |
+| Other planes | Other planes |
 | Other Planes | Other planes |
 | Othonoi | 44.17 |
 | Palendar | The Weeper |
+| Pandelar | The Weeper |
 | Pirate Kingdoms | Pirate Kings |
 | Pirates | Thieves |
 | Planes | Other planes |
@@ -213,20 +182,28 @@ This list groups redirect pages into two buckets:
 | Princess of the Seers | Princess of Seers |
 | Rustlers | Thieves |
 | Sanguine Lords | Lords Sanguine |
+| Saray | Asrigh |
 | Seeds of the Sea | Six Seas' Seeds |
 | Seven Laws of Thring | Laws of Thring |
+| Shadowed Ballet | Shadow Ballet |
 | Shadowed Ballet dancers | Shadow Ballet |
 | Shroomwine | Shroom wine |
+| Shuttered | City of Shuttered Windows |
 | Shuttered and Surrounds | Shuttered and surrounds |
+| Shuttered City | City of Shuttered Windows |
 | Simone’s Aviary | Simone's Aviary |
 | Sir Wayne | Sir Waine |
 | South Gate | North Gate and South Gate |
+| South Marches | The Burning Lands |
 | Suitor's Tower | Iraine the Suitor |
 | Suitor’s Tower | Iraine the Suitor |
 | Sundial Inn | 25.04 |
 | Swamp of Champions | Battle of the Hand |
 | Swordsage | Lord Kardash |
 | Tamilda Kondransdotter | Tamilda Koldransdotter |
+| Tantalus Mountains | :Category:The Tantalus Mountains |
+| Tehaar | Tehaar the Huntress |
+| Templars | Canes Sanguis |
 | Thaumaturges | Wizards |
 | The Barrier Range | Barrier Range |
 | The Bitter Coast | Bitter Coast |
@@ -236,6 +213,7 @@ This list groups redirect pages into two buckets:
 | The Brothers of the Lion | Brothers of the Lion |
 | The Browncloaks | Browncloaks |
 | The Cavengows | Halflings#Cloud halflings |
+| The City Itself | City of Shuttered Windows |
 | The Corn Fields | Cornfields |
 | The Cornfields | Cornfields |
 | The Daughter of Ser Gareth Lemarr | Daughter of Ser Gareth Lemarr |
@@ -245,6 +223,7 @@ This list groups redirect pages into two buckets:
 | The Duchy of Thring | Duchy of Thring |
 | The Dune Walker | Dune Walker |
 | The Dungers | Dungers and Hallovers |
+| The Faceless | The Drow of Olmsted Keep |
 | The Faustys | Faustys |
 | The Final Heresy | Temple Invisible |
 | The Forest of Abominations | Forest of Abominations |
@@ -254,8 +233,10 @@ This list groups redirect pages into two buckets:
 | The Gushing Ruby | Gushing Ruby |
 | The Hallovers | Dungers and Hallovers |
 | The High Kings of Gore | Royal family of Gore |
+| The Hills of Gore | Hills of Gore |
 | The Holt of the Bloodied Lords | 03.31 |
 | The Imperium Undying | Imperium Undying |
+| The Keening Sea | Keening Sea |
 | The King in Splendor | King in Splendor |
 | The King in Splendour | King in Splendor |
 | The King of Salt and Brine | King of Salt and Brine |
@@ -264,6 +245,7 @@ This list groups redirect pages into two buckets:
 | The Lands of the Night Cattle | Lands of the Night Cattle |
 | The Last Prophet of Asrigh | Last Prophet of Asrigh |
 | The Laws of Thring | Laws of Thring |
+| The Lion’s Day | Lion's Day |
 | The Long Night | Long Night |
 | The Lost Colony | Lost Colony |
 | The Maddlows | Maddlows |
@@ -274,10 +256,12 @@ This list groups redirect pages into two buckets:
 | The Osseries | Osseries |
 | The Pacharia | Pacharia |
 | The Penderghasts | Penderghasts |
+| The Pirate Kings | Pirate Kings |
 | The Prince of Men | Prince of Men |
 | The Queen Sinister | Queen Sinister |
 | The Scarecrows | Scarecrows |
 | The Sea of Typhoons | Sea of Typhoons |
+| The Shuttered City | City of Shuttered Windows |
 | The Singing Wastes | Singing Wastes |
 | The Song of Ban and Ulena | Song of Ban and Ulena |
 | The Sons of Dagon | Abyss Diamonds |
@@ -289,6 +273,7 @@ This list groups redirect pages into two buckets:
 | The Temple of Alberon | Temple of Alberon |
 | The Tender Hunt | Tender Hunt |
 | The Traitor's Pit | Traitors' Pit |
+| The Twelve Nations | Twelve Nations |
 | The Unicorn | Unicorn |
 | The Unifying Theory of Blood | Unifying Theory of Blood |
 | The Verlimes | Verlimes |
@@ -298,12 +283,16 @@ This list groups redirect pages into two buckets:
 | The Withered Moors | Withered Moors |
 | The World's Edge and Beyond | World's Edge and Beyond |
 | The Wrannows | Wrannows |
+| Thoth | Last Prophet of Asrigh |
 | Thring | Duchy of Thring |
 | Tiamat | Dead Tiamat |
+| Traitor's Pit | Traitors' Pit |
 | Tycel | Sir Waine |
 | Ulthar | Ducal family of Thring |
+| Vo Tume | Elves |
 | Viceroys | :Category:Viceroys |
 | Waine | Sir Waine |
+| Weeper | The Weeper |
 | Weresharks | Lycanthropes |
 | Werewolves | Lycanthropes |
 | Witch-Hounds | Witch-hounds |
