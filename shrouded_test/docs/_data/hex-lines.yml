@@ -30,6 +30,47 @@ entries:
     layer: stream
     color: "#99CCFF"
 
+  - edge: "01.03 00.04"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.04 01.04"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.05 01.04"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.05 01.05"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "01.05 01.06"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.06 01.06"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.09 01.09"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.10 01.09"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.10 01.10"
+    layer: stream
+    color: "#99CCFF"
+
+  - edge: "00.11 01.10"
+    layer: stream
+    color: "#99CCFF"
+
+
   - hex: "04.05"
     layer: stream
     color: "#99CCFF"

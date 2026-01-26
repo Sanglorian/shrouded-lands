@@ -420,7 +420,7 @@ def main():
     hex_linework = load_hex_linework()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
-    for x in range(51):     # 00–50
+    for x in range(52):     # 00–51
         for y in range(34): # 00–33
             code = f"{x:02d}.{y:02d}"
             meta = hex_meta.get(code)
