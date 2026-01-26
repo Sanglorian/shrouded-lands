@@ -12,7 +12,7 @@ categories:
   - "The Duchy of Thring"
 media: []
 ---
-The **Lords of Thring** are the feudal lords of the [Duchy of Thring](/wiki/duchy-of-thring/). They answer ultimately to the [Duke of Thring](/wiki/duke-of-thring/). Each has their seat in a different castle, and typically their knights have different mounts (see also, [mounts of Thring](/wiki/mounts-of-thring/)). 
+The **Lords of Thring** are the feudal lords of the [Duchy of Thring](/wiki/duchy-of-thring/). They answer ultimately to the [Duke of Thring](/wiki/duke-of-thring-incumbent/). Each has their seat in a different castle, and typically their knights have different mounts (see also, [mounts of Thring](/wiki/mounts/)).
 
 {| class="wikitable"
 |-
@@ -22,7 +22,7 @@ The **Lords of Thring** are the feudal lords of the [Duchy of Thring](/wiki/duch
 ! Other notes
 ! Trial by combat
 |-
-| [Duke of Thring](/wiki/duke-of-thring/)
+| [Duke of Thring](/wiki/duke-of-thring-incumbent/)
 | [Castle Tarengael](/wiki/castle-tarengael/)
 | [Boars](/wiki/boars/), [cowhorses](/wiki/cowhorses/) (discontinued), [lions](/wiki/lions/) ([Brothers of the Lion](/wiki/brothers-of-the-lion/))
 | The [horse market](/wiki/horse-market-tarengael/) is also based here.

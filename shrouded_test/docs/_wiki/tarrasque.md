@@ -46,7 +46,7 @@ But for the Duke of Thring this is not enough and he seeks the true blood of the
 
 #### Connection:
 * There are some [Lion Priests](/wiki/lion-priests/) who seek the sangreal as well ([06.03](/wiki/06-03/)).
-* [The Collector](/wiki/the-collector/) collects Tarrasque skulls from knights of [Thring](/wiki/the-duchy-of-thring/).
+* [The Collector](/wiki/the-collector/) collects Tarrasque skulls from knights of [Thring](/wiki/duchy-of-thring/).
 * [Heirs of the High Kings of Gore](/wiki/royal-family-of-gore/) seem to have a connection with the Tarrasque.
 
 #### Hooks:

@@ -17,6 +17,6 @@ Water (allegedly crosses [20.20](/wiki/20-20/))
 
 Earth (allegedly crosses [20.20](/wiki/20-20/) and ends at the Eye of Gruumsch, [26.01](/wiki/26-01/))
 
-**The Breath of the Earth: **The only charted air leyline in the Shrouded Lands. It begins beneath [The Duchy of Thring](/wiki/the-duchy-of-thring/) and surfaces in the eponymous, mile-long sinkhole ([12.28](/wiki/12-28/)).
+**The Breath of the Earth: **The only charted air leyline in the Shrouded Lands. It begins beneath [The Duchy of Thring](/wiki/duchy-of-thring/) and surfaces in the eponymous, mile-long sinkhole ([12.28](/wiki/12-28/)).
 
 

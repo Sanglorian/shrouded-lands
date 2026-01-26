@@ -13,7 +13,7 @@ media: []
 ---
 !['Orc', Markus Röncke (Public Domain Dedication)](/media/Ork_schamane.jpg)
 Two orc peoples have been identified:
-* The orcs who live in the Grey Mountains, particularly in and around the fortress of [Hoth Achaar](/wiki/hoth-achaar/).
+* The orcs who live in the Grey Mountains, particularly in and around the fortress of [Hoth Achaar](/wiki/26-01/).
 * The orcs of [Grumluda](/wiki/grumluda/), a country beyond the Shrouded Lands. See the Grumluda entry for more.
 Both orc peoples have a [nobility](/wiki/nobility/).
 
@@ -21,7 +21,7 @@ Both orc peoples have a [nobility](/wiki/nobility/).
 ## Orcs of the Grey Mountains
 Hoth Achaar was built with orc artifice as well as the cunning of the dwarves. This combination of styles is called Titan-Grumludish architecture. The fortress-city’s quartermasters still carefully balance the city’s defences and the city is kept in good condition.
 
-Whether the orcs cooperated with the dwarves, and to what extent, is unclear. There were orc construction crews and slaves inside the city, but it appears it was not until the Disciples of [Othonoi](/wiki/othonoi/) conquered the city that the orcs were influential in the direction of the city.
+Whether the orcs cooperated with the dwarves, and to what extent, is unclear. There were orc construction crews and slaves inside the city, but it appears it was not until the Disciples of [Othonoi](/wiki/44-17/) conquered the city that the orcs were influential in the direction of the city.
 
 Ritual, consensual torture is a key part of orcish culture.
 

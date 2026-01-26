@@ -12,7 +12,7 @@ media: []
 ## The Dead Fish
 ![](/media/Jahur5.png)Connects to: [15.07](/wiki/15-07/), [23.32](/wiki/23-32/), [50.03](/wiki/50-03/) and [50.20](/wiki/50-20/).
 
-The **Wayfarer's Quiescent Repose** (usually known as the Dead Fish after the enormous dried shark that hangs over the door) is a rough bar near the docks of [Jahur](/wiki/jahur/) that caters to local toughs, bloodstained travelers and members of the theater. There they guzzle down Thringish brandy of amazingly low quality, mutter quietly about the [viceroys](/wiki/viceroys/) of the city, chew on [bucket kelp](/wiki/bucket-kelp/), eat steaming plates of entrails fried in the local style ([15.07](/wiki/15-07/)) and watch a never-ending series of bare-knuckle brawling matches set to accordion music.
+The **Wayfarer's Quiescent Repose** (usually known as the Dead Fish after the enormous dried shark that hangs over the door) is a rough bar near the docks of [Jahur](/wiki/jahur/) that caters to local toughs, bloodstained travelers and members of the theater. There they guzzle down Thringish brandy of amazingly low quality, mutter quietly about the [viceroys](/wiki/categoryviceroys/) of the city, chew on [bucket kelp](/wiki/bucket-kelp/), eat steaming plates of entrails fried in the local style ([15.07](/wiki/15-07/)) and watch a never-ending series of bare-knuckle brawling matches set to accordion music.
 
 Useful relationships can be struck up here but generally not those of an amorous nature as giving the locals the wrong looks can result in foreigners being volunteered for the next brawl (in which the patrons will helpfully throw mugs at the hapless fighter until they learn how to fight in time with the music).
 

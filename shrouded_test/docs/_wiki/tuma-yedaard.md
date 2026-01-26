@@ -8,5 +8,5 @@ categories:
   - "Synonyms"
 media: []
 ---
-The name of [The Bloodied King](/wiki/the-bloodied-king/) and [The Kingswood](/wiki/the-kingswood/) in the language of the [elves](/wiki/elves/).
+The name of [The Bloodied King](/wiki/bloodied-king/) and [The Kingswood](/wiki/kingswood/) in the language of the [elves](/wiki/elves/).
 

@@ -12,7 +12,7 @@ media: []
 ---
 ![](/media/290703.png)Connects to: [19.31.03](/wiki/19-31/), [37.01](/wiki/37-01/) and [39.12](/wiki/39-12/).
 
-The [elves](/wiki/elves/) of [the Kingswood](/wiki/the-kingswood/) refuse to say much of
+The [elves](/wiki/elves/) of [the Kingswood](/wiki/kingswood/) refuse to say much of
 him and some say they have forgotten nearly all,
 but the famed historian [Sabrek of Ungolath](/wiki/sabrek-of-ungolath/) 
 makes the following conjectures: long centuries

@@ -19,7 +19,7 @@ For three generations, the finest knights of **Thring** have quested to destroy 
 
 By some accounts, the Witch Queen is a beautiful sorceress who lives in five towers of bone that sink and rise from the swamp like a grasping hand. According to others, she is a wizened hag who lives in a thatched house ringed by bluebells and daffodils, wearing the flayed skins of young men in the naïve belief that this lends her their beauty. All tales agree that she has a black cauldron that she uses to create [cauldronborn](/wiki/cauldronborn/).
 #### Connections
-* One knight who returned ashen-faced from an encounter with the Witch Queen was exiled after he hacked to pieces the statue of the [Green Lady](/wiki/green-lady/) in the [Duke](/wiki/duke-of-thring/)’s private chapel, screaming all the while that it depicted not Her, but the Witch Queen instead.
+* One knight who returned ashen-faced from an encounter with the Witch Queen was exiled after he hacked to pieces the statue of the [Green Lady](/wiki/green-lady/) in the [Duke](/wiki/duke-of-thring-incumbent/)’s private chapel, screaming all the while that it depicted not Her, but the Witch Queen instead.
 * The [witch-hounds](/wiki/witch-hounds/) number among the Witch Queen’s servants, as do the [cauldronborn](/wiki/cauldronborn/).
 
 #### Hooks

@@ -12,7 +12,7 @@ media: []
 ---
 [Isane the Beauty](/wiki/isane-the-beauty/) is his concubine. He overlooks her indiscretions because of her charms.
 
-He is one of the [Viceroys](/wiki/viceroys/) of Jahur.
+He is one of the [Viceroys](/wiki/categoryviceroys/) of Jahur.
 
 
 

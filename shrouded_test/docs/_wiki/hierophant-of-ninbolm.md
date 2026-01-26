@@ -11,7 +11,7 @@ categories:
   - "Ninbolm"
 media: []
 ---
-![](/media/Odilon_Redon_-_Caliban_-_Google_Art_Project.jpg)The ruler of [Ninbolm](/wiki/ninbolm/), more information on him can be found in that city's entry.
+![](/media/Odilon_Redon_-_Caliban_-_Google_Art_Project.jpg)The ruler of [Ninbolm](/wiki/05-24/), more information on him can be found in that city's entry.
 
 Not to be confused with [Amelar the Immaculate](/wiki/amelar-the-immaculate/), the Hierophant of Constant Sorrow.
 

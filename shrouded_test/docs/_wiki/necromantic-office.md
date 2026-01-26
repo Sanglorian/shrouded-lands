@@ -30,7 +30,7 @@ The Office itself is very secure. If any intruders enter, one of the thousands o
 * The Office is not pleased with [Lady Alevari](/wiki/lady-alevari/) ([29.14.37](/wiki/29-14/)).
 * [Lars](/wiki/lars/) the chimera is an ally of the Necromantic Office ([Suitor's Tower](/wiki/suitor's-tower/)).
 * Sir [Codwise](/wiki/codwise/) the Old, the Spellknight of the [Knights of the Cudgel](/wiki/knights-of-the-cudgel/), has important contacts with the Necromantic Office ([21.14](/wiki/21-14/)).
-* [Ranmore](/wiki/ranmore/) is an exiled necromancer who is currently working for [the Ossory witchclan](/wiki/the-osseries/), if the Office knew of his more extravagant ambitions they would be very concerned ([24.18](/wiki/24-18/)).
+* [Ranmore](/wiki/ranmore/) is an exiled necromancer who is currently working for [the Ossory witchclan](/wiki/osseries/), if the Office knew of his more extravagant ambitions they would be very concerned ([24.18](/wiki/24-18/)).
 * Silk merchants squabbling over bodies has drawn the attention of the Office ([29.14.46](/wiki/29-14/)).
 * One of the old lords of the Keep of Dreanach was a renegade member of the Office ([15.11](/wiki/15-11/)).
 

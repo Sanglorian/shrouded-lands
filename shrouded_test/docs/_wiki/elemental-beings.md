@@ -20,6 +20,6 @@ There are a number of beings of X and Y.
 * The being of rime and hoarfrost ([39.30](/wiki/39-30/)). Longs to be melted.
 * A creature of flame and shadow, summoned by the [Bloodied King](/wiki/bloodied-king/) to destroy the [dragonblooded](/wiki/dragonblooded/) trees of the Stolen Hills ([24.11](/wiki/24-11/))
 * Beings of salt and chalk lived in the Forgotten City-State and one now dwells in the Freeholds ([09.09](/wiki/09-09/))
-* [Lizardfolk](/wiki/lizardfolk/) shamans begun the art of [pactmaking](/wiki/pactmaking/) by trucking with beings of dust and wind, of vine and feather and of chalk and salt ([33.04](/wiki/33-04/))
+* [Lizardfolk](/wiki/lizardmen/) shamans begun the art of [pactmaking](/wiki/pactmaking/) by trucking with beings of dust and wind, of vine and feather and of chalk and salt ([33.04](/wiki/33-04/))
 
 

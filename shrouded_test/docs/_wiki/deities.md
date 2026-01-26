@@ -32,7 +32,7 @@ media: []
 * [Gruumsch](/wiki/gruumsch/), chief of the lords of the underworld (Orc Quartermasters)
 * [Green Lady](/wiki/green-lady/) (Paladins; Abbott of St Dulaine)
 * [Iano](/wiki/iano/) (Holy Fools [heterodox])
-* [King in Splendour](/wiki/king-in-splendour/), The/The Lion in Splendour/God/The Sun (Lion Priests, Assassin-Priests of the Temple Invisible [currently], Zealots)
+* [King in Splendour](/wiki/king-in-splendor/), The/The Lion in Splendour/God/The Sun (Lion Priests, Assassin-Priests of the Temple Invisible [currently], Zealots)
 * Lords of the sky (Orc Quartermasters)
 * Melgerez, the Sleeper in the Riverbed (Palladhyu)
 * Pacharia, the (Priestesses of the Pachariah)

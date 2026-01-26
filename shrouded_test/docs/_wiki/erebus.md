@@ -34,7 +34,7 @@ as well as the beings of the lower planes. Over
 the years, many fiendslayers have died before 
 passing on their knowledge and grafts.
 
-The last fiendslayer drinks in [The Gushing Ruby](/wiki/the-gushing-ruby/), a 
+The last fiendslayer drinks in [The Gushing Ruby](/wiki/gushing-ruby/), a
 tavern in [Jahur](/wiki/jahur/)'s blue quarter. His name is Erebus, 
 one passed down from master to apprentice 
 since the Shuttering. He has heard of the Temple of the Dead God ([03.13](/wiki/03-13/)) and wishes to gather a 

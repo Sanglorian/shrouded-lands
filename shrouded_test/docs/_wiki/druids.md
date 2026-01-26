@@ -15,7 +15,7 @@ media: []
 ![http://apolitical.info/teleleli/?p=3232](/media/JamesMichaelGleeson.jpg)
 Are the druids priests or mages, or something else again? It is not clear.
 ## Druids
-* Druids serve all official functions in the city of [Ninbolm](/wiki/ninbolm/).
+* Druids serve all official functions in the city of [Ninbolm](/wiki/05-24/).
 * The Ancient Gardener, the Hierophant [Amelar the Immaculate](/wiki/amelar-the-immaculate/), is an elf druid. She has a vast store of knowledge. Those of any race who show wisdom or a connection to growing things are sometimes mentored by her.
 * Militant druids are aligned with the [Holt of the Bloodied King](/wiki/holt-of-the-bloodied-king/).
 * The Priest of the Lake is a druid who owns a Gorean Grey ([37.01](/wiki/37-01/)). He stalks around a tree holding a bloodied iron in hand. His successor must kill him to take his place.

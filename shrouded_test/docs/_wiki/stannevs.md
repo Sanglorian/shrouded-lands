@@ -20,7 +20,7 @@ The Stannev live in Newhill ([17.07](/wiki/17-07/)).
 ## Stannevs
 * Loris Stannev ([17.07](/wiki/17-07/))
 * The Stannev botched a required ritual on the [Lion's Day](/wiki/lion's-day/), potentially cursing their house with bad luck.
-* The Stannev sing the Chant of Morning to the [King in Splendour](/wiki/king-in-splendour/).
+* The Stannev sing the Chant of Morning to the [King in Splendour](/wiki/king-in-splendor/).
 
 
 

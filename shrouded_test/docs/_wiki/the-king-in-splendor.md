@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: King in Splendor
 ---
-#REDIRECT [The King in Splendour](/wiki/the-king-in-splendour/)
+#REDIRECT [The King in Splendour](/wiki/king-in-splendor/)

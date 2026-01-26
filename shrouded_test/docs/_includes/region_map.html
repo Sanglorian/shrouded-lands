@@ -1,0 +1,80 @@
+{%- assign region_name = page.categories | where_exp: "cat", "cat != 'Regions'" | first -%}
+{%- if region_name == nil -%}
+  {%- assign region_name = page.title -%}
+{%- endif -%}
+
+{%- assign region_hexes = site.wiki | where: "region", region_name -%}
+
+{%- if region_hexes.size > 0 -%}
+  {%- assign min_col = nil -%}
+  {%- assign max_col = nil -%}
+  {%- assign min_row = nil -%}
+  {%- assign max_row = nil -%}
+
+  {%- for hex in region_hexes -%}
+    {%- assign parts = hex.title | split: "." -%}
+    {%- assign col = parts[0] | plus: 0 -%}
+    {%- assign row = parts[1] | plus: 0 -%}
+    {%- if min_col == nil or col < min_col -%}
+      {%- assign min_col = col -%}
+    {%- endif -%}
+    {%- if max_col == nil or col > max_col -%}
+      {%- assign max_col = col -%}
+    {%- endif -%}
+    {%- if min_row == nil or row < min_row -%}
+      {%- assign min_row = row -%}
+    {%- endif -%}
+    {%- if max_row == nil or row > max_row -%}
+      {%- assign max_row = row -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- assign col_count = max_col | minus: min_col | plus: 1 -%}
+  {%- assign row_count = max_row | minus: min_row | plus: 1 -%}
+
+  <h2>Region Map</h2>
+  <div class="region-map-wrapper">
+    <div class="region-map" style="--region-cols: {{ col_count }}; --region-rows: {{ row_count }};">
+      {%- for col in (min_col..max_col) -%}
+        {%- assign col_mod = col | modulo: 2 -%}
+        {%- assign col_offset = col | minus: min_col -%}
+        {%- for row in (min_row..max_row) -%}
+          {%- assign row_offset = row | minus: min_row -%}
+          {%- assign left = col_offset | times: 22.5 -%}
+          {%- assign top = row_offset | times: 26 -%}
+          {%- if col_mod == 1 -%}
+            {%- assign top = top | plus: 13 -%}
+          {%- endif -%}
+          {%- assign col_code = col -%}
+          {%- if col < 10 -%}
+            {%- assign col_code = "0" | append: col -%}
+          {%- endif -%}
+          {%- assign row_code = row -%}
+          {%- if row < 10 -%}
+            {%- assign row_code = "0" | append: row -%}
+          {%- endif -%}
+          {%- capture hex_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
+          {%- assign hex_title = hex_code | replace: "-", "." -%}
+          {%- assign hex_page = site.wiki | where: "slug", hex_code | first -%}
+          {%- if hex_page == nil -%}
+            {%- assign hex_page = site.wiki | where: "title", hex_title | first -%}
+          {%- endif -%}
+          {%- if hex_page -%}
+            <a class="region-map__tile"
+               href="{{ hex_page.url | relative_url }}"
+               style="left: {{ left }}px; top: {{ top }}px;">
+              <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
+                   alt="{{ hex_code }}">
+            </a>
+          {%- else -%}
+            <div class="region-map__tile region-map__tile--static"
+                 style="left: {{ left }}px; top: {{ top }}px;">
+              <img src="{{ '/assets/hexes/hex-' | append: hex_code | append: '.svg' | relative_url }}"
+                   alt="{{ hex_code }}">
+            </div>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </div>
+{%- endif -%}

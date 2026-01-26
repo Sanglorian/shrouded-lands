@@ -10,7 +10,7 @@ categories:
   - "Halflings"
 media: []
 ---
-Valderama Bolger has claimed publicly to be the living embodiment of [varao](/wiki/varao/) in the Shrouded Lands. He is spending some time in [The Gushing Ruby](/wiki/the-gushing-ruby/), hoping to form an enterprise that could retake Hurlstone Hill ([08.12](/wiki/08-12/)) for the halfling race.
+Valderama Bolger has claimed publicly to be the living embodiment of [varao](/wiki/varao/) in the Shrouded Lands. He is spending some time in [The Gushing Ruby](/wiki/gushing-ruby/), hoping to form an enterprise that could retake Hurlstone Hill ([08.12](/wiki/08-12/)) for the halfling race.
 ### Hooks
 * When Valderama describes himself as the living embodiment of *varao,* he’s talking metaphorically - right?
 * Who would join Valderama on this quest?

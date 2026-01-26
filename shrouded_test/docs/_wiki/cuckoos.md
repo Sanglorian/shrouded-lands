@@ -14,4 +14,4 @@ media: []
 
 The Cuckoo Count, also known as Charles the Cuckold, who cuckolded the original Lord Steadfast and took his place ([20.13](/wiki/20-13/)).
 
-A cuckoo features in the Rhyme of the [Sanguine Lords](/wiki/sanguine-lords/).
+A cuckoo features in the Rhyme of the [Sanguine Lords](/wiki/lords-sanguine/).

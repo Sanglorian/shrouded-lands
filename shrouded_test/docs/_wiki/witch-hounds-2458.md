@@ -13,7 +13,7 @@ They spawn in The Fen of the Witch-Hounds ([22.16](/wiki/22-16/))![https://commo
 
 They skulk around **Mazy Hollow **([25.14](/wiki/25-14/))
 
-They were created by **[The Witch Queen](/wiki/the-witch-queen/)**
+They were created by **[The Witch Queen](/wiki/witch-queen/)**
 
 They harass those whose boats have run aground since the levee broke ([22.18](/wiki/22-18/))
 

@@ -57,7 +57,7 @@ BP: Before present
   # **An Entire Thringish Army is Routed by a Glance from the Skull of the Defiler**
   # **The Gnollish Army is Drowned by the Waterworks:** Saves the City from siege. Happened before the gnolls had a matriarchy.
   # **Southern Dwarves Cut off from the North; Battle of Khannah's Leap:** Happens after the Gnawbone Wars resulted in the expulsion of Shuttered from the Burning Lands, but may pre-date the drowning of the gnollish army
-# **The [Brothers of the Spear](/wiki/brothers-of-the-spear/) are formed:** "Not long after" the Gnawbone Wars. They do battle for centuries with the [Whispering Sisters](/wiki/whispering-sisters/). Then the Brothers realise that worship of the [King in Splendour](/wiki/king-in-splendour/) is a necessary step in their mission
+# **The [Brothers of the Spear](/wiki/temple-invisible/) are formed:** "Not long after" the Gnawbone Wars. They do battle for centuries with the [Whispering Sisters](/wiki/whispering-sisters/). Then the Brothers realise that worship of the [King in Splendour](/wiki/king-in-splendor/) is a necessary step in their mission
 # **The [Time of Schisms](/wiki/time-of-schisms/)**
   # **The Brothers split into the [Temple of Alberon](/wiki/temple-of-alberon/) and the [Temple Invisible](/wiki/temple-invisible/); The Keepers of the Sainted Foot are Expelled:** "Many years ago"
 

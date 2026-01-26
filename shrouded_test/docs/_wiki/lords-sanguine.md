@@ -18,10 +18,10 @@ media: []
 * [Lady Belal](/wiki/lady-belal/) of the Nets (Castle Ravenscraig)
 * [Anselm Brucoloc](/wiki/anselm-brucoloc/) (Castle Brucoloc, former)
 * [Sulgrim](/wiki/sulgrim/) (Castle Brucoloc, current)
-The rulers of [The Lands of Gore](/wiki/the-lands-of-gore/)
+The rulers of [The Lands of Gore](/wiki/hills-of-gore/)
 The Lords Sanguine cannot bear to look upon running water.
 
-The Lords Sanguine have mastered the art of teasing out useful information from the visions imparted by drinking the blood of [The Tarrasque](/wiki/the-tarrasque/).
+The Lords Sanguine have mastered the art of teasing out useful information from the visions imparted by drinking the blood of [The Tarrasque](/wiki/tarrasque/).
 
 The Lords Sanguine took their position from the [royal family of Gore](/wiki/royal-family-of-gore/)
 

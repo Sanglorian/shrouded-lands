@@ -16,7 +16,7 @@ Connects to: [05.05](/wiki/05-05/), [07.06](/wiki/07-06/), [18.10](/wiki/18-10/)
 
 The waters that flow from the **Draugmere Peaks** drop down into the Glass Rapids *([05.05](/wiki/05-05/))* and through many caverns *([07.06](/wiki/07-06/))*. Those waters that do not sink down into the Sunless Sea seep into the low-lying Brindlebrook Swamp *([18.10](/wiki/18-10/))* where they mingle with waters that wash down from the north before flowing southwards into the River of Crystal Waters that flows through the **Duchy of Thring**. It is a land known for its brave knights, soaring castles and the Seven Laws of **Thring**.
 ## Hex Summary
-* The Werewolf Nuns of St Birgit ([10.17](/wiki/10-17/)) are on the border between [Gore](/wiki/gore/) and Thring.
+* The Werewolf Nuns of St Birgit ([10.17](/wiki/10-17/)) are on the border between [Gore](/wiki/hills-of-gore/) and Thring.
 * The Haunt of the Peryton ([11.15](/wiki/11-15/)): the peryton speaks with the voice of the last man (not woman) it has killed.
 * The Tomb of Sir Theanor ([11.16](/wiki/11-16/)): Gorean Greys are agile cats as Theanor learned to late.
 * Lochgate Lodge ([13.10](/wiki/13-10/)): the rambling home of a clan of werebears.
@@ -80,13 +80,13 @@ It is said that some individual knights have their own forms of transport. The S
 - Tell me more about the Spellknight or Lord Spiriwen.
 
 ## History
-The Lords Sanguine launched a coup against Turien, the last [High King of Gore](/wiki/royal-family-of-gore/). Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [The Verlimes](/wiki/the-verlimes/) heeded him. 
+The Lords Sanguine launched a coup against Turien, the last [High King of Gore](/wiki/royal-family-of-gore/). Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [The Verlimes](/wiki/verlimes/) heeded him.
 
-[Ulthar](/wiki/ulthar/) proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [The River of Crystal Waters](/wiki/the-river-of-crystal-waters/). He forced the petty kings of Thring (each with an [earth whisperer](/wiki/earth-whisperers/) companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [The Pacharia](/wiki/the-pacharia/).
+[Ulthar](/wiki/ducal-family-of-thring/) proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [The River of Crystal Waters](/wiki/the-river-of-crystal-waters/). He forced the petty kings of Thring (each with an [earth whisperer](/wiki/earth-whisperers/) companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [The Pacharia](/wiki/pacharia/).
 
 Turien, now known as the King of Fools, lived out his days in Castle Tarengael ([16.16](/wiki/16-16/)) as has the rest of his line.
 ## Organisations
-* [The Brothers of the Lion](/wiki/the-brothers-of-the-lion/)
+* [The Brothers of the Lion](/wiki/brothers-of-the-lion/)
 * [The Foolish Sages](/wiki/the-foolish-sages/)
 * [Knights of the Cudgel](/wiki/knights-of-the-cudgel/)
 

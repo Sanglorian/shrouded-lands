@@ -45,6 +45,6 @@ The bards tell many stories of Ulthar the Loved, but none more often than the on
 ## Works
 * [Song of Dust and Flame](/wiki/song-of-dust-and-flame/)
 
-* [The Song of Ban and Ulena](/wiki/the-song-of-ban-and-ulena/)
+* [The Song of Ban and Ulena](/wiki/song-of-ban-and-ulena/)
 
 

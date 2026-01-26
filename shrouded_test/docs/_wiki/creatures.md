@@ -12,9 +12,9 @@ media: []
 Wiki entries on creatures
 ## Index
 This index does not state whether a hex is relevant because a single one of the creature can be found there, because multiple of the creature can be found there or because the creature is mentioned in the hex description. This data is still available in the Google Doc.
-* [Aarokocra](/wiki/aarokocra/) ([04.00](/wiki/04-00/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
+* [Aarokocra](/wiki/aarakocra/) ([04.00](/wiki/04-00/), [26.20](/wiki/26-20/), [29.14](/wiki/29-14/))
 
-* [Aboleths](/wiki/aboleths/) ([11.20](/wiki/11-20/), [12.29](/wiki/12-29/), [22.25](/wiki/22-25/), Down to a Sunless Sea)
+* [Aboleths](/wiki/aboleth/) ([11.20](/wiki/11-20/), [12.29](/wiki/12-29/), [22.25](/wiki/22-25/), Down to a Sunless Sea)
 
 * [Alkalions](/wiki/alkalions/) ([14.27](/wiki/14-27/))
 
@@ -58,7 +58,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 * [Azimyth](/wiki/azimyth/), see Bats (azimyth)
 
-* [Basilisks](/wiki/basilisks/) ([24.12](/wiki/24-12/), [25.31](/wiki/25-31/))
+* [Basilisks](/wiki/basilisk/) ([24.12](/wiki/24-12/), [25.31](/wiki/25-31/))
 
 * [Bats](/wiki/bats/) (azimyth) ([12.09](/wiki/12-09/))
 
@@ -178,7 +178,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 * [Catoblepas](/wiki/catoblepas/) ([18.11](/wiki/18-11/))
 
-* [Cactogres](/wiki/cactogres/) ([18.28](/wiki/18-28/))
+* [Cactogres](/wiki/great-cacti/) ([18.28](/wiki/18-28/))
 
 * [Cats](/wiki/cats/) (Kingswood Random Encounters, [15.13](/wiki/15-13/), [29.14](/wiki/29-14/), [43.12](/wiki/43-12/))
 

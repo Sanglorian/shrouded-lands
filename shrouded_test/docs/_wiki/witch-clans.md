@@ -16,13 +16,13 @@ The **Witchmen** or **Witch Clans**, suspicious of outsiders, tend to marry with
 
 With the exception of the Faustys, strength of blood in the witch clans determines whether a person manifests the family power.
 
-The Witch Clans live mostly in [The Barrier Range](/wiki/the-barrier-range/), but the Birls and the Maddlows have scattered while the Penderghasts live in [The Duchy of Thring](/wiki/the-duchy-of-thring/). The Serendips live in distant Jahur.
+The Witch Clans live mostly in [The Barrier Range](/wiki/barrier-range/), but the Birls and the Maddlows have scattered while the Penderghasts live in [The Duchy of Thring](/wiki/duchy-of-thring/). The Serendips live in distant Jahur.
 * [Birls](/wiki/birls/) (*animate wood; *scattered throughout Thring)
-* [Cransoms](/wiki/cransoms/) (*hallucinatory terrain; *adults killed, children kidnapped)
+* [Cransoms](/wiki/haverlies-and-cransoms/) (*hallucinatory terrain; *adults killed, children kidnapped)
 * [Dungers](/wiki/dungers/) (*stinking cloud; *enslaved the Hallovers, tribal war with the Osseries)
 * [Faustys](/wiki/faustys/) (*summon monster*)
 * [Hallovers](/wiki/hallovers/) (*feather fall; *enslaved by the Dungers)
-* [Haverlies](/wiki/haverlies/) (*floating disc; *trapped in a valley)
+* [Haverlies](/wiki/haverlies-and-cransoms/) (*floating disc; *trapped in a valley)
 * [Maddlows](/wiki/maddlows/) (*geas; geased* to travel to the far corners of the Shrouded Lands)
 * [Mirdenlows](/wiki/mirdenlows/) (*willow shape; *?)
 * [Osseries](/wiki/osseries/) (*burning hands; *tribal war with Dungers)

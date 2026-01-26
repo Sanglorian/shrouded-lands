@@ -13,7 +13,7 @@ media: []
 ---
 ![](/media/Shutt-smile.png)Connects to: [02.11.01](/wiki/02-11/), [18.10](/wiki/18-10/), [25.15](/wiki/25-15/), [39.14](/wiki/39-14/), [43.27](/wiki/43-27/), [46.15](/wiki/46-15/) and [47.00](/wiki/47-00/).
 
-The Smiling Men of the [Shuttered City](/wiki/shuttered-city/) are a band of assassins who are the deathly enemies of the [Temple Invisible](/wiki/temple-invisible/). They recruit their members from those who have killed out of depression, trauma or self-loathing - even those who have killed themselves.
+The Smiling Men of the [Shuttered City](/wiki/city-of-shuttered-windows/) are a band of assassins who are the deathly enemies of the [Temple Invisible](/wiki/temple-invisible/). They recruit their members from those who have killed out of depression, trauma or self-loathing - even those who have killed themselves.
 
 The Smiling Men bring their recruits into an intensive training program that uses physical punishment and rudimentary electroshock therapy to rid the recruit of all emotions other than happiness. Try as they might, the Smiling Men cannot wipe that silly grin off of their faces.
 
@@ -27,7 +27,7 @@ The Smiling Men highly value the poisons of the Cloud Forest ([47.00](/wiki/47-0
 
 ### Hooks:
 * How do the Smiling Men deliver electric shocks? A generator would be much too science fantasy, wouldn’t it?
-* What happens if a Smiling Man tries to take the form of one of the [Barnabi](/wiki/barnabi/) ([18.10](/wiki/18-10/))?
+* What happens if a Smiling Man tries to take the form of one of the [Barnabi](/wiki/were-barnabi/) ([18.10](/wiki/18-10/))?
 * What happens if a Smiling Man mates with the [Heget](/wiki/heget/) ([46.15](/wiki/46-15/)) in the form of another?
 * Why do the Temple Invisible feud with the Smiling Men?
 * How do you find a Smiling Man or contract with him?

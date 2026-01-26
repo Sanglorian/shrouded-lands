@@ -60,6 +60,6 @@ Today, though, some of the richest families are beginning to consider themselves
 * [24.12](/wiki/24-12/) (The Grey Comedy): the current location of a famous circus troupe.
 
 ### Connections:
-* After the end of the [goblins wars](/wiki/goblins-wars/), in which the orcs and dwarves destroyed the goblin forests that once lay between the [Kingswood](/wiki/kingswood/) and the coast ([24.02](/wiki/24-02/)), these lands were ruled by the [High Kings of Gore](/wiki/high-kings-of-gore/) ([05.20](/wiki/05-20/)). The Verlimes were able to carve out their Duchy after the fall of the High Kings.
+* After the end of the [goblins wars](/wiki/goblins-wars/), in which the orcs and dwarves destroyed the goblin forests that once lay between the [Kingswood](/wiki/kingswood/) and the coast ([24.02](/wiki/24-02/)), these lands were ruled by the [High Kings of Gore](/wiki/royal-family-of-gore/) ([05.20](/wiki/05-20/)). The Verlimes were able to carve out their Duchy after the fall of the High Kings.
 
 

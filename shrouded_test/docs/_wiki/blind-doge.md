@@ -10,7 +10,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-The blind Doge is the current [doge](/wiki/doges/) of the [Shuttered City](/wiki/shuttered-city/). He is married to [Seline and Eliana](/wiki/seline-and-eliana/). 
+The blind Doge is the current [doge](/wiki/doges/) of the [Shuttered City](/wiki/city-of-shuttered-windows/). He is married to [Seline and Eliana](/wiki/seline-and-eliana/).
 ## The Talking Watch of the Doge
 [Albus Flidge](/wiki/albus-flidge/)’s most sophisticated clockwork requires not just the delicate hands of his [jermalaines](/wiki/jermalaines/), but actually their continued involvement in its operation. He seals them up in the mechanism so they can keep it wound and greased.
 

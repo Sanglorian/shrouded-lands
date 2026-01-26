@@ -12,7 +12,7 @@ media: []
 ---
 : See also [Spellcasting](/wiki/spellcasting/)
 
-A **cantrip** is a simple spell. In Shuttered, they teach the [Thousand Spells and One](/wiki/thousand-spells-and-one/), although only in the [High Tongue](/wiki/high-tongue/). Most Shuttered nobles are capable of producing a few cantrips.
+A **cantrip** is a simple spell. In Shuttered, they teach the [Thousand Spells and One](/wiki/thousand-spells-and-one/), although only in the [High Tongue](/wiki/mud-tongue-and-high-tongue/). Most Shuttered nobles are capable of producing a few cantrips.
 * [Jackalwere](/wiki/jackalweres/) mages ([51.17](/wiki/51-17/)) cast a hex that makes its victims incapable of speaking or writing in anything other than gibberish.
 * The [Spellknight](/wiki/spellknight/) is the only one who can summon the Phantom Steed. He has polymorphed [chickens into dragons](/wiki/chicken-dragons/).
 * Wizards casting *fireball* was mentioned ([Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/)).
@@ -31,11 +31,11 @@ A **cantrip** is a simple spell. In Shuttered, they teach the [Thousand Spells a
 ## Witch Clan
 The following established clans can cast these spells:
 * [Birls](/wiki/birls/) (*animate wood*)
-* [Cransoms](/wiki/cransoms/) (*hallucinatory terrain*)
+* [Cransoms](/wiki/haverlies-and-cransoms/) (*hallucinatory terrain*)
 * [Dungers](/wiki/dungers/) (*stinking cloud*)
 * [Faustys](/wiki/faustys/) (*summon monster*)
 * [Hallovers](/wiki/hallovers/) (*feather fall*)
-* [Haverlies](/wiki/haverlies/) (*floating disc*)
+* [Haverlies](/wiki/haverlies-and-cransoms/) (*floating disc*)
 * [Maddlows](/wiki/maddlows/) (*geas*)
 * [Mirdenlows](/wiki/mirdenlows/) (*willow shape*)
 * [Osseries](/wiki/osseries/) (*burning hands*)

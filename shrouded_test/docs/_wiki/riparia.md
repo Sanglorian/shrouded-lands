@@ -13,7 +13,7 @@ media: []
 ---
 ![](/media/390801.jpg)Hex [39.08](/wiki/39-08/) (shared with [the Spawn](/wiki/the-spawn/))
 
-In the last parts of the [Witchwater](/wiki/witchwater/) before the Edge, humans may travel the waterways without fear of [elven](/wiki/elves/) arrow. These lands are firmly under the control of the giant talking [beavers](/wiki/beavers/), who have built vast city-dams and canals to tame the [Kingswood](/wiki/kingswood/).
+In the last parts of the [Witchwater](/wiki/the-witchwater/) before the Edge, humans may travel the waterways without fear of [elven](/wiki/elves/) arrow. These lands are firmly under the control of the giant talking [beavers](/wiki/beavers/), who have built vast city-dams and canals to tame the [Kingswood](/wiki/kingswood/).
 
 They also manage rows of trees to feed their hunger for timber, each row ending with a [hawthorn](/wiki/hawthorn/) bush.
 

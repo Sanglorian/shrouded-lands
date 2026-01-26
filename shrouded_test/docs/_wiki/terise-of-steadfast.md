@@ -11,7 +11,7 @@ categories:
   - "The Keening Sea"
 media: []
 ---
-Terise lives on the shore of [The Keening Sea](/wiki/the-keening-sea/) ([28.21](/wiki/28-21/)) where she sets up a feast to lure travellers.
+Terise lives on the shore of [The Keening Sea](/wiki/keening-sea/) ([28.21](/wiki/28-21/)) where she sets up a feast to lure travellers.
 
 Terise was not always so, once she was the heiress to Steadfast ([20.13](/wiki/20-13/)) but her scheming younger sister had poor Terise sold off to slavers. On their journey southwards, the slavers were set upon by [Tharaxes](/wiki/tharaxes/) the Blue Death ([20.24](/wiki/20-24/)) and scattered, leaving Terise behind in the hope that the dragon would indulge his taste for maidens. But the dragon flew on, leaving Terise to struggle out of her bonds and attempt to reclaim her freedom but all she found was the Keening Sea. She was able to slake her thirst with its waters but hunger gnawed away at her.
 

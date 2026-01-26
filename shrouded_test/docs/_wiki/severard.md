@@ -29,7 +29,7 @@ Severard's Town is the name for the village that grew up around the tower occupi
 * He is survived by his experimental giant bee colony ([10.10](/wiki/10-10/))
 * One of Seveard’s apprentices was [Barnabus Bludenose](/wiki/barnabus-bludenose/) ([18.10](/wiki/18-10/)).
 * The new High Priest of the [Creche of a Million Young](/wiki/creche-of-a-million-young/) claims to be carrying on Severard’s legacy.
-* Severard is partially to blame for the creation of the [ettins](/wiki/ettins/) ([13.06](/wiki/13-06/)).
+* Severard is partially to blame for the creation of the [ettins](/wiki/ettiennes/) ([13.06](/wiki/13-06/)).
 * The [Peryton](/wiki/perytons/) ([11.15](/wiki/11-15/)) is said to speak with Severard’s voice.
 * [Alceron](/wiki/alceron/), another of Severard’s apprentices is the windseer of Winds ([23.11](/wiki/23-11/)).
 * One of Severard’s old enemies was [Yaegha](/wiki/yaegha/) Six-Kidneys ([25.18](/wiki/25-18/)).

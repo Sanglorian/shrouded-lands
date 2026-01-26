@@ -13,7 +13,7 @@ media: []
   * Humans in deep slumber can touch the Dreamsong, which can kill or inspire them.
   * The druids of the Bitter Coast use didgeridoos to call whales to the surface to listen directly to the song ([02.07](/wiki/02-07/)).
   * lves use the mumbling of captive sleeping humans to track and record the Dreamsong ([24.07](/wiki/24-07/)).
-* The [world of dreams](/wiki/world-of-dreams/) intrudes onto this one along the edges of [the Kingswood](/wiki/the-kingswood/) where hundreds of root-like tentacles reach down
+* The [world of dreams](/wiki/world-of-dreams/) intrudes onto this one along the edges of [the Kingswood](/wiki/kingswood/) where hundreds of root-like tentacles reach down
   * These tentacles have lenses that allow them to see the mundane world; if worn by someone in this world, they show visions of the world of dreams: grand vistas, and the things that scuttle in the corners of our eyes.
 * Men who slave in [dwarven](/wiki/dwarves/) mines hear their drums in their dreams decades after they escape.
 * Though most [kobolds](/wiki/kobolds/) are born of dragon's memories, some appear to be dreamed up.

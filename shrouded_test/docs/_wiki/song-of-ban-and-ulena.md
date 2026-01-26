@@ -43,7 +43,7 @@ But Ulena still burned warmer
 ### Epic Poem
 Trimueil's epic poem of the same name was lost in a mysterious dungeon of the Imperium Undying ([39.12](/wiki/39-12/)). Having lost it, Trimueil could not conjure the energy to re-write it, but scholars would pay handsomely for the lost folio to be recovered. 
 
-The epic poem is a retelling of the founding of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/), beginning with the arrival of the [five founders](/wiki/five-founders/) on the shores of the [Keening Sea](/wiki/keening-sea/) and ending with the companions' tragic death. Trimueil subsequently felt unable to conjure up the creative energies to re-write the entire manuscript, and as a result the work is considered lost. However, scholars in the [Shuttered City](/wiki/shuttered-city/) would pay an exorbitant price for the poem to be recovered. 
+The epic poem is a retelling of the founding of [Blind Midshotgatepool](/wiki/blind-midshotgatepool/), beginning with the arrival of the [five founders](/wiki/five-founders/) on the shores of the [Keening Sea](/wiki/keening-sea/) and ending with the companions' tragic death. Trimueil subsequently felt unable to conjure up the creative energies to re-write the entire manuscript, and as a result the work is considered lost. However, scholars in the [Shuttered City](/wiki/city-of-shuttered-windows/) would pay an exorbitant price for the poem to be recovered.
 ### Hooks:
 * Is there some connection between the meter of the script of the Song of Ban and Ulena and the songs of the leviathans ([00.06.01](/wiki/00-06/))? What else could explain its apparent ability to bridge the gap between this world and the land of dreams?
 * Who is Lucin exactly?

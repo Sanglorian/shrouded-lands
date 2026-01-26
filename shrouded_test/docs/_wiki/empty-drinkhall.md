@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Empty Drinkhall
-One of the decrees of the [Hierophant](/wiki/hierophant-of-ninbolm/) of [Ninbolm](/wiki/ninbolm/) is that residents shall not congregate where alcohol is served. To ease this ridiculous requirement, the [Indigo Academy](/wiki/indigo-academy/) created the Empty Drinkhall, which is more of an experience than a location.
+One of the decrees of the [Hierophant](/wiki/hierophant-of-ninbolm/) of [Ninbolm](/wiki/05-24/) is that residents shall not congregate where alcohol is served. To ease this ridiculous requirement, the [Indigo Academy](/wiki/indigo-academy/) created the Empty Drinkhall, which is more of an experience than a location.
 
 Participants sup the purest springwater, but they believe themselves to be drinking alcohol. They make merry with other revellers (and sometimes convincing images summoned up by the [illusionists](/wiki/illusionists/)) as they wander through the city.
 

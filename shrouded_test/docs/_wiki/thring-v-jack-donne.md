@@ -12,7 +12,7 @@ categories:
   - "Witch Clans"
 media: []
 ---
-This case making its way through [Shuttered](/wiki/shuttered/)’s courts has been brought by a pretender to the throne of the [Duchy of Thring](/wiki/duchy-of-thring/) against [the Collector](/wiki/the-collector/) - given a default name here since his own is famously unknown.
+This case making its way through [Shuttered](/wiki/city-of-shuttered-windows/)’s courts has been brought by a pretender to the throne of the [Duchy of Thring](/wiki/duchy-of-thring/) against [the Collector](/wiki/the-collector/) - given a default name here since his own is famously unknown.
 
 Shuttered, as the only seat of a god in the Shrouded Lands, claims universal jurisdiction, an assertion not supported by its neighbours.
 

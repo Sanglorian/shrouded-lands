@@ -13,7 +13,7 @@ media: []
 ## The Honorable Society of Engineers
 ![](/media/Shutt-hon.png)Connects to: [17.16](/wiki/17-16/), [19.31.10](/wiki/19-31/), [29.14.01](/wiki/29-14/), [29.14.09](/wiki/29-14/), [29.14.52](/wiki/29-14/) and [36.11](/wiki/36-11/).
 
-Half guild, half civic institution, the Honorable Society of Engineers has been one of the greatest societies in the [Shuttered City](/wiki/shuttered-city/) since the [Sinking](/wiki/sinking/) began.
+Half guild, half civic institution, the Honorable Society of Engineers has been one of the greatest societies in the [Shuttered City](/wiki/city-of-shuttered-windows/) since the [Sinking](/wiki/sinking/) began.
 
 Originally a minor guild in the early days of the city, the Sinking of the City drastically magnified their importance to its survival, and gradually it became another arm of the sprawling municipal government. Today the Society counts hundreds of engineers, masons, smiths, carpenters, bricklayers, and architects among its ranks, along with a handful of earth elementalists and wizard-transmuters. The [Waterworks](/wiki/waterworks-(shuttered)/) is technically one of its sub-departments. The Society maintains the physical integrity of the City, and to that end its members spend much of their time in the [Undercity](/wiki/undercity/), for as the city sinks, the addition of new construction above the old adds ever more weight atop the crypts and basements below.
 
@@ -30,7 +30,7 @@ The Society maintains its headquarters and administrative heart in the Honor-Hal
 On a minor note, Engineers of the Society can be identified by the plain steel band worn on the middle finger of the right hand. Any person found wearing such a ring on this finger without being a recognized member is subject to [removal of the offending digit](/wiki/fingers-and-fingernails/).
 ### Connections:
 * The Master Mason of the Society is [Baron Harenghast](/wiki/baron-harenghast/), who is not popular with his subordinates ([29.14](/wiki/29-14/).52).
-* Some crack finders have contracted [lycanthropy](/wiki/lycanthropy/) in the Undercity ([36.11](/wiki/36-11/)).
+* Some crack finders have contracted [lycanthropy](/wiki/lycanthropes/) in the Undercity ([36.11](/wiki/36-11/)).
 * The mud around Smuggler's Isle ([17.16](/wiki/17-16/)) is especially sought after by the Society of Engineers as an ingredient in their cement. This is not because it is especially strong but because it has a weak magical resonance that slowly fades with time, allowing the engineers to keep track of how old a certain piece of construction is. This is of especial use to the Department of Obscure Annexes as it allows them to detect suspicious new construction that may hide secret rooms.
 * Some maps drafted by Engineers are sold by [Lunfar](/wiki/lunfar/) in [Jahur](/wiki/jahur/).
 

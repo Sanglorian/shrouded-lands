@@ -10,7 +10,7 @@ categories:
   - "Dwarves"
 media: []
 ---
-![](/media/Trench2.jpg)The **Stein of the Drinker** or **Drinker's Stein** (named after the [Drinker of Iron](/wiki/drinker-of-iron/)) is an artifact that was carried by [Clan Battle Beard](/wiki/clan-battle-beard/) when they settled in the Battle Hills ([05.06](/wiki/05-06/)). On his-her deathbed, the leader of Clan Battle Beard divided it between his-her two children. The heirs warred with one another over the Stein and the Clan degenerated.
+![](/media/Trench2.jpg)The **Stein of the Drinker** or **Drinker's Stein** (named after the [Drinker of Iron](/wiki/drinker-of-iron/)) is an artifact that was carried by [Clan Battle Beard](/wiki/ishin-kaimanu/) when they settled in the Battle Hills ([05.06](/wiki/05-06/)). On his-her deathbed, the leader of Clan Battle Beard divided it between his-her two children. The heirs warred with one another over the Stein and the Clan degenerated.
 
 As to the whereabouts of the halves of the Stein, some claims that the derro of the Battle Hills still have them, others points to [Father Dorek](/wiki/father-dorek/) or his enemies ([03.04](/wiki/03-04/)). To further muddle things, [Lord Karandur](/wiki/lord-karandur/) has been seen drinking out of a great stein that is half ancient mithril and half fresh-carved wood that may be half of the Stein ([13.17](/wiki/13-17/)).
 

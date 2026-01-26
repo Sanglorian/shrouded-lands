@@ -14,8 +14,8 @@ media: []
 
 Baron Autumn is depicted as a grinning figure with pale skin, large black eyes and a smokey moustache. He is the unspoken second god of **Thring**. He shepherds the dead to the underworld and rides with his Wild Hunt, made up of the souls of those slain by black magic. The elves, it is said, recognise but do not worship him, for they have nothing to fear from death.
 ### Connection:
-* The [priests of Baron Autumn](/wiki/priests-of-baron-autumn/) sometimes create zombie children with the bones and flesh of the people they slay ([sack children](/wiki/sack-children/)).
-* [The Sorcerer of Tarengael Town](/wiki/the-duchy-of-thring/) wears a mask of Baron Autumn.
+* The [priests of Baron Autumn](/wiki/sorcerers/) sometimes create zombie children with the bones and flesh of the people they slay ([sack children](/wiki/sack-children/)).
+* [The Sorcerer of Tarengael Town](/wiki/duchy-of-thring/) wears a mask of Baron Autumn.
 
 ### Hooks
 * Is Baron Autumn truly the Green Lady's equal?

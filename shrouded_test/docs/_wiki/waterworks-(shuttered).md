@@ -11,7 +11,7 @@ media: []
 ---
 ![](/media/Shutt-water.png)Connects to: [29.14.01](/wiki/29-14/), [29.14.35](/wiki/29-14/), [29.14.36](/wiki/29-14/), [29.15](/wiki/29-15/), [51.29.01](/wiki/51-29/) and the Burning Lands.
 
-It's not a far jog from the [South Gate](/wiki/north-gate-and-south-gate/) of [the City proper](/wiki/the-shuttered-city/) to the shore of [Keening Sea](/wiki/keening-sea/) -- a massive freshwater body that serves a fishery, bread basket ([29.15](/wiki/29-15/)), water-source, and sewage outtake for the City of Shuttered Windows. The underground canals leading to and out of the City have access points to allow the Priests of the [Temple Indivisible](/wiki/temple-indivisible/) to bless and purify the waters, as well as allowing for crews to patrol the waterways for monster incursions.
+It's not a far jog from the [South Gate](/wiki/north-gate-and-south-gate/) of [the City proper](/wiki/city-of-shuttered-windows/) to the shore of [Keening Sea](/wiki/keening-sea/) -- a massive freshwater body that serves a fishery, bread basket ([29.15](/wiki/29-15/)), water-source, and sewage outtake for the City of Shuttered Windows. The underground canals leading to and out of the City have access points to allow the Priests of the [Temple Indivisible](/wiki/temple-indivisible/) to bless and purify the waters, as well as allowing for crews to patrol the waterways for monster incursions.
 
 Fish and turtles coming in from the sea must also be blessed and purified before it can be brought into the city. The numerous warves lining the shores are dominated by [fisher-priests](/wiki/fisher-priests/), who are responsible for keeping order on the docks and inspecting the catch of the day for taint. Each cluster of docks is practically its own village, and most residents have rare reason to enter the city proper.
 
@@ -24,6 +24,6 @@ From the heights of the tallest buildings, the water falls in several open air s
 The Guild of the Waterworks, the Plumbers, dutifully maintains and expands the system. They are also responsible for the grueling task of raising the canal's ever-sinking basin. The Guild traditionally employs dwarven citizens, but there are humans and halflings on the rolls as well. Those that make it past the apprenticeship of working on pipes in the occasionally dangerous lower levels enjoy very well-paided positions in the forges and upper tiers.
 ### Connections:
 * The waterworks is busiest during the heavy annual rainfall ([29.14.36](/wiki/29-14/)).
-* The workers of the waterworks saved the City from invasion during the [Gnawbone War](/wiki/gnawbone-war/) with the [gnolls](/wiki/gnolls/) of the [Burning Lands](/wiki/burning-lands/) (see the main Burning Land entry and [51.29.01](/wiki/51-29/)).
+* The workers of the waterworks saved the City from invasion during the [Gnawbone War](/wiki/gnawbone-war/) with the [gnolls](/wiki/gnolls/) of the [Burning Lands](/wiki/the-burning-lands/) (see the main Burning Land entry and [51.29.01](/wiki/51-29/)).
 
 

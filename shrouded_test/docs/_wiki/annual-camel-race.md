@@ -21,7 +21,7 @@ The races have been won the last three years by a visored [knight of Thring](/wi
 
 Other personalities of the race include [Samwiss Ghanjees](/wiki/samwiss-ghanjees/), the race's announcer and organiser. Almost too large to be of human stock, he is solemn and tense. Rather than instilling excitement in the audience, his voice is funereal as he gives updates to the crowd in the tent city of the competitors progress over the week. His art lies in bringing scenes to life. The crowd may not be chanting or buying drinks from the vendors as he describes a Nekh sorceress' pet mongoose eating the eyes of a camel that succumbed to exhaustion while its wracked chest still strugglingly rises and falls, but they are certainly engaged. 
 
-On the final day, the role of announcer is claimed by one of the [Viceroys](/wiki/viceroys/) of the city. This post alternates from year to year, and this year it is [Viceroy Orhan](/wiki/viceroy-orhan/)'s turn. Whether they'll let him out of the dungeon, and what would happen to him in the public eye, is unclear. 
+On the final day, the role of announcer is claimed by one of the [Viceroys](/wiki/categoryviceroys/) of the city. This post alternates from year to year, and this year it is [Viceroy Orhan](/wiki/viceroy-orhan/)'s turn. Whether they'll let him out of the dungeon, and what would happen to him in the public eye, is unclear.
 
 The [Ibraheen](/wiki/ibraheen/) sponsor the race. Rather than a noble family, or even one of the rising merchant families, the Ibraheen is a trade guild of street vendors, publicans and newspaper printers. Their ambition is sneered at by the greats of the city, but none can deny that a camel race is precisely their bailiwick. 
 

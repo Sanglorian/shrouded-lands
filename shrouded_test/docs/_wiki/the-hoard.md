@@ -9,14 +9,14 @@ categories:
   - "Organisationss"
 media: []
 ---
-The Hoard is the great dwarven bank, based in [Titan's Skull](/wiki/titans-skull/) but operating across the Shrouded Lands, including in the [Shuttered City](/wiki/shuttered-city/). 
+The Hoard is the great dwarven bank, based in [Titan's Skull](/wiki/titans-skull/) but operating across the Shrouded Lands, including in the [Shuttered City](/wiki/city-of-shuttered-windows/).
 
 ## Connections
 * Twenty years ago, the Hoard longbeards introduced an 'eons-old custom': gifting each dwarf-child with a coin from the vaults, to reveal if they are [numinomancers](/wiki/numinomancers/)
 * Hoard dwarves discovered the Misplaced Obelisk ([46.01](/wiki/46-01/))
-* The Hoard sent dwarves to colonise Olgam or Oskill ([09.24](/wiki/09-24/)) to exploit the metal-rich hills of southern [Gore](/wiki/gore/)
+* The Hoard sent dwarves to colonise Olgam or Oskill ([09.24](/wiki/09-24/)) to exploit the metal-rich hills of southern [Gore](/wiki/hills-of-gore/)
 * Barca Enmordet ([49.03](/wiki/49-03/)) is one of the Hoard's colonies beyond the [World's Edge](/wiki/world's-edge/)
-* According to rumour, [Drogo the Baldfaced](/wiki/drogo-the-baldfaced/) has raided the Hoard's Great Vault.
+* According to rumour, [Drogo the Baldfaced](/wiki/drogo/) has raided the Hoard's Great Vault.
 * The Hoard is owed money that is currently locked away in the [Sealed Embassy of Naros](/wiki/embassies-(shuttered)/)
 * Station Seven ([16.01](/wiki/16-01/)) is operated by the Hoard; the [Haunting Dark](/wiki/haunting-dark/) was summoned to it by the curse of a dying dwarf
 * The Hoard beat their hammers in deep mines to send messages from one vault to another. [Anselm Brucoloc](/wiki/anselm-brucoloc/) can hear them

@@ -32,7 +32,7 @@ Shuttered has signed the [Horn Treaty](/wiki/horn-treaty/), decreeing all minota
 * Blackhorn's Maze ([39.32](/wiki/39-32/)) was built as an outpost during the [Chimerical Siege](/wiki/chimerical-siege/). Minotaur eyes of fear and flame guard it now.
 
 ## Connections
-* The gnolls "vigorously and with weapons" dispute the minotaur claim that the lands north of Blackhorn's Maze ([39.31](/wiki/39-31/)) are glazed flat because they were scorched by trailing blood from [Tiamat](/wiki/tiamat/)'s severed red head.
+* The gnolls "vigorously and with weapons" dispute the minotaur claim that the lands north of Blackhorn's Maze ([39.31](/wiki/39-31/)) are glazed flat because they were scorched by trailing blood from [Tiamat](/wiki/dead-tiamat/)'s severed red head.
 
 
 

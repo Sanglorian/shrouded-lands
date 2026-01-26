@@ -12,7 +12,7 @@ media: []
 ---
 ![](/media/170703.png)Connects to: [04.08](/wiki/04-08/), [05.12](/wiki/05-12/) and [29.14.19](/wiki/29-14/).
 
-One of the songs that the [Stannevs](/wiki/stannevs/) sing of [their fiery god](/wiki/king-in-splendour/) is as follows:
+One of the songs that the [Stannevs](/wiki/stannevs/) sing of [their fiery god](/wiki/king-in-splendor/) is as follows:
 
 : The Lion in Splendor went down through the gates of darkness and the arteries of the earth. He saw the black water of the Sunless Sea, rise up, bubbling and boiling. But he commanded [the woman’s hound](/wiki/hound-of-the-underworld/) to lap at the water and the Lion walked on with dry feet and the hound laps still, [his bitch](/wiki/ur-dog/) ([04.08](/wiki/04-08/)) crying in darkness for its mate. But as the Lion passed the hound’s teeth tore away his mane.
 

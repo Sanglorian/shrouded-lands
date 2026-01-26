@@ -30,7 +30,7 @@ media: []
 * The [night men](/wiki/night-men/) and some [gnoll](/wiki/gnoll/) cattle drovers use salt from the Fallsalt Mines for their cowlicks as it keeps the cows docile.
 
 ## Breeds
-* The [Foolish Sages](/wiki/foolish-sages/) attempted to turn the [Duke of Thring](/wiki/duke-of-thring/)'s cattle into "cowhorses".
+* The [Foolish Sages](/wiki/foolish-sages/) attempted to turn the [Duke of Thring](/wiki/duke-of-thring-incumbent/)'s cattle into "cowhorses".
 * [Vampiric cattle](/wiki/vampiric-cattle/) are found in the abandoned [embassy of Naros](/wiki/embassies-shuttered/)
 * The zealots ([07.33](/wiki/07-33/)) burn [ghost buffalo](/wiki/ghost-buffalo/) dung in their lighthouse.
 * Wild [aurochs](/wiki/aurochs/) gather at the Watering Hole ([05.07](/wiki/05-07/)).
@@ -40,7 +40,7 @@ media: []
   * One variety are moon-horned cattle. Drogo rustled a herd, but it contained no bulls so he cannot breed them.
 
 ## Practice
-* Night cattle that enter the [Shuttered City](/wiki/shuttered-city/) must do so via the [South Gate](/wiki/south-gate/), where their brands are examined.
+* Night cattle that enter the [Shuttered City](/wiki/city-of-shuttered-windows/) must do so via the [South Gate](/wiki/north-gate-and-south-gate/), where their brands are examined.
 * Sosarian cattle chants are said to be millennia-old but are recited for political reasons (see [Sosaria the Brave](/wiki/sosaria-the-brave/)).
 * [Giant bee](/wiki/giant-bees/) honey is used to cure meat in Sosaria. Beef jerked in this way acts as a potion of *cure light wounds*. 
 

@@ -28,7 +28,7 @@ Not all of these creatures have been definitively listed as undead. Some, like t
 * [Flesh golems](/wiki/flesh-golems/) are created by the [Necromantic Office](/wiki/necromantic-office/)
 * [Skeleton-melanges](/wiki/skeleton-melanges/) or skeleton-bundles are created with the use of [corpse-slather](/wiki/corpse-slather/)
 * [Hive zombies](/wiki/hive-zombies/) in [13.09](/wiki/13-09/) have their insides replaced with honey
-* The [White Road](/wiki/white-road/), itself a gigantic undead, passes many thousands of tombs as none may be buried within the [Shuttered City](/wiki/shuttered-city/). Once dead, peasants' bones are ground up to make the road.
+* The [White Road](/wiki/white-road/), itself a gigantic undead, passes many thousands of tombs as none may be buried within the [Shuttered City](/wiki/city-of-shuttered-windows/). Once dead, peasants' bones are ground up to make the road.
 * [Ghouls](/wiki/ghouls/) and [spectres](/wiki/spectres/) are mentioned in passing
 * There are undead cows in the [Sealed Embassy of Naros](/wiki/sealed-embassy-of-naros/).
 * It's not clear if either variety of [mummy](/wiki/mummies/), the mellified mummy or the ice mummies, are undead.

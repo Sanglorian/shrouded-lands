@@ -20,6 +20,10 @@ layout: default
   {{ content }}
 </article>
 
+{% if page.categories contains "Regions" %}
+  {% include region_map.html %}
+{% endif %}
+
 {% if page.categories contains "Category:Hex" or page.categories contains "Hex" %}
   {% include hexmap.html %}
 {% endif %}

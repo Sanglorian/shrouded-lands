@@ -15,7 +15,7 @@ media: []
 
 * [Adherion](/wiki/adherion/)
 * Zamorqy
-* [Zhuriman](/wiki/zhuriman-empire/)
+* [Zhuriman](/wiki/zhuriman/)
 
 ### The [Twelve Nations](/wiki/twelve-nations/)
 * [Alacoda](/wiki/alacoda/), empire of the [high elves](/wiki/high-elves/) and favoured of the [Green Lady](/wiki/green-lady/)
@@ -29,7 +29,7 @@ media: []
 
 ### [Lost nations](/wiki/lost-nations/)
 * [Naros](/wiki/naros/) [one of the Twelve Nations] (nation)
-* [The High Kingdom of Gore](/wiki/the-lands-of-gore/) (nation)
+* [The High Kingdom of Gore](/wiki/hills-of-gore/) (nation)
 * [Andara](/wiki/andara/) (nation)
 * [Serpantia](/wiki/serpantia/) (nation)
 * Hyadovere (colony)

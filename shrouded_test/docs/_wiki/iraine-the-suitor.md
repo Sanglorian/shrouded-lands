@@ -14,7 +14,7 @@ media: []
 ---
 ![](/media/Shutt-suit.png)Hex [29.14.40](/wiki/29-14/)
 
-As a mages grow in power the laws of reality twist to their whims, but no matter how great they wax their bodies remain feeble things caught in the flow of time. So [Iraine](/wiki/iraine/)'s quest for immortality is not surprising but perhaps her plan to achieve it is: she plans to get married.
+As a mages grow in power the laws of reality twist to their whims, but no matter how great they wax their bodies remain feeble things caught in the flow of time. So [Iraine](/wiki/iraine-the-suitor/)'s quest for immortality is not surprising but perhaps her plan to achieve it is: she plans to get married.
 
 And to not just anyone, to [Alberon](/wiki/alberon/), the God of the City of Shuttered Windows. If he married the [Green Lady](/wiki/green-lady/) and [She Who Waits](/wiki/she-who-waits/), why now her? For the last decade most of Iraine's efforts have been focused on achieving this end. She has drained most of her treasury, stolen secrets from the [minotaurs](/wiki/minotaurs/), traded lore with [Dormond of the Crooked Oak](/wiki/dormond-of-the-crooked-oak/) ([04.31](/wiki/04-31/)), and has returned from the depths of the Library without a Floor ([28.07](/wiki/28-07/)).
 

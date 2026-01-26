@@ -11,7 +11,7 @@ categories:
   - "Viceroys"
 media: []
 ---
-One of the [Viceroys](/wiki/viceroys/) of [Jahur](/wiki/jahur/). The father of [Helin il-Helan](/wiki/helin-il-helan/), eaten by the [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/)
+One of the [Viceroys](/wiki/categoryviceroys/) of [Jahur](/wiki/jahur/). The father of [Helin il-Helan](/wiki/helin-il-helan/), eaten by the [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/)
 
 
 

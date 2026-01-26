@@ -13,9 +13,9 @@ media: []
 A family
 
 ## The Good Wife
-The faithful of the [King in Splendour](/wiki/king-in-splendour/) came into the Shrouded Lands from all sides, and had much success against the creatures of the night. Foremost among them was [Tunath](/wiki/tunath/), who had as her weapon a meteoric sword - like the [Last Light](/wiki/last-light/). When she drew it, they were blinded, and when she swung it they were deafened, and when it touched their skin, they died.
+The faithful of the [King in Splendour](/wiki/king-in-splendor/) came into the Shrouded Lands from all sides, and had much success against the creatures of the night. Foremost among them was [Tunath](/wiki/tunath/), who had as her weapon a meteoric sword - like the [Last Light](/wiki/last-light/). When she drew it, they were blinded, and when she swung it they were deafened, and when it touched their skin, they died.
 
-Among those impressed by Tunath's mission in those days was the Lord of the Verlimes, [Cosimo](/wiki/cosimo-verlime/), who was troubled by raucous [werewolves](/wiki/werewolves/) who ate his flocks of sheep and chased his servants through the fields if they dared stray after dark.
+Among those impressed by Tunath's mission in those days was the Lord of the Verlimes, [Cosimo](/wiki/cosimo-verlime/), who was troubled by raucous [werewolves](/wiki/lycanthropes/) who ate his flocks of sheep and chased his servants through the fields if they dared stray after dark.
 
 "If you can rid me of these vexatious wolf-men," said he, "I and all my line will cast aside the old gods and accept in our hearts the King, the Lion and the Sword that Slays the Night."
 

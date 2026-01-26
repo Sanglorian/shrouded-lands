@@ -1,0 +1,15 @@
+diff a/shrouded_test/docs/_wiki/corn-fields.md b/shrouded_test/docs/_wiki/corn-fields.md	(rejected hunks)
+@@ -1,12 +1,12 @@
+ ---
+ layout: wiki_page
+ title: Corn Fields
+ pageid: 2090
+ namespace: 0
+ original_url: https://shrouded-lands.fandom.com/wiki/Corn_Fields
+ categories: []
+ media: []
+ is_redirect: true
+ redirect_to: Cornfields
+ ---
+-#REDIRECT[The Cornfields](/wiki/the-cornfields/)
++#REDIRECT[The Cornfields](/wiki/cornfields/)

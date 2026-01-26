@@ -13,14 +13,14 @@ media: []
 ## Seven Wonders of the World
 The scholar and rakish traveller [Taran Prenderghast](/wiki/taran-prenderghast/) has seen recent success with a book proposing Seven Wonders of the Modern World. 
 
-Published in the [Shuttered City](/wiki/shuttered-city/) under the patronage of [the Doge](/wiki/blind-doge/), the "world" seems limited to the Shrouded Lands and the [Twelve Nations](/wiki/twelve-nations/), and particularly those parts that Taran happens to have visited.
+Published in the [Shuttered City](/wiki/city-of-shuttered-windows/) under the patronage of [the Doge](/wiki/blind-doge/), the "world" seems limited to the Shrouded Lands and the [Twelve Nations](/wiki/twelve-nations/), and particularly those parts that Taran happens to have visited.
 
 His list is:
 # The [White Road](/wiki/white-road/), and the great bindings of spirits that it represents.
 # [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/). The draft list gave the Great Temple of Alberon instead, but rumour has it that Taran was offered free drinks till his dying day if he changed the entry.
 # The [Waterworks of Shuttered](/wiki/waterworks-(shuttered)/), which drowned the City's enemies. 
-# The gates of [Hoth Achaar](/wiki/hoth-achaar/), whcih shift as the fortress' population does.
-# The stump of [Ninbolm](/wiki/ninbolm/).
+# The gates of [Hoth Achaar](/wiki/26-01/), whcih shift as the fortress' population does.
+# The stump of [Ninbolm](/wiki/05-24/).
 # [Melnir's Mount](/wiki/51-12/).
 # [Teodo](/wiki/50-30/), originally the only wonder outside of the Shrouded Lands, although thanks to the Great Mother, this has changed since publication.
 
@@ -30,7 +30,7 @@ Taran's list is a revision of a list compiled over a thousand years ago by the f
 # The [Great Oak of Goblinkind](/wiki/great-oak-of-goblinkind/). In a manner of speaking, this wonder also made it onto Taran's list.
 # The Spear-in-the-Stone of [Adherion](/wiki/adherion/).
 # The Heliotrope of the [Well-Lit Arch](/wiki/well-lit-arch/). The Well-Lit Arch was a city in the [Golden Realm](/wiki/golden-realm/).
-# The [Temple of Elemental Good](/wiki/temple-of-elemental-good/) in [Othonoi](/wiki/othonoi/) (this may be what is now referred to in hushed voices as the "[Terminus Temple](/wiki/49-11/)"). 
+# The [Temple of Elemental Good](/wiki/temple-of-elemental-good/) in [Othonoi](/wiki/44-17/) (this may be what is now referred to in hushed voices as the "[Terminus Temple](/wiki/49-11/)").
 # The [Mausoleum of Khaldi](/wiki/mausoleum-of-khaldi/). Khaldi existed in both [Zamorqy](/wiki/zamorqy/) and [Zhuriman](/wiki/zhuriman/). 
 
 ### Hooks

@@ -9,7 +9,7 @@ categories:
 media: []
 ---
 The term drow may refer to:
-* [The Drow](/wiki/the-drow/), an unseelie elf
+* [The Drow](/wiki/the-drow-of-olmsted-keep/), an unseelie elf
 * [Drow-ghosts](/wiki/drow-ghosts/)
 * [Drow's Tears](/wiki/drow's-tears/), black rainclouds
 

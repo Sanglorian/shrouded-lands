@@ -20,7 +20,7 @@ The [knights of Thring](/wiki/knights-of-thring/) are the best-known and most nu
 * [Paladins](/wiki/paladins/), at least paladins of the Green Lady, are knights.
 * Knights of the Order of the [Canes Sanguis](/wiki/canes-sanguis/) are Priests-Militant of [Alberon](/wiki/alberon/) and are uniformly armoured in distinct and terrifying armour and armed all with long spears.
 * The werewolf nuns ([10.17](/wiki/10-17/)) were infected by a retainer of Gore, a knight.
-* [Freeholders](/wiki/the-freeholds/) are mustering men-at-arms who fancy themselves to be knights.
+* [Freeholders](/wiki/freeholds/) are mustering men-at-arms who fancy themselves to be knights.
 * [The Collector](/wiki/the-collector/) sent knights to the Glass Eye ([01.23](/wiki/01-23/)), though they were repulsed
 
 ## Specific knight

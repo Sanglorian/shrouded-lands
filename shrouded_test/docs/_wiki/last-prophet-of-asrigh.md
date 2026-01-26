@@ -10,7 +10,7 @@ categories:
   - "Priests"
 media: []
 ---
-A revival of the worship of [Asrigh](/wiki/asrigh/) has begun among the farmers of [27.18](/wiki/27-18/), though they call him Saray. Giaccamo, a disgruntled bishop of Alberon, read a forbidden text of Asrigh while in the Sealed Library ([29.14](/wiki/29-14/).50). Shortly after, he received a vision in which Asrigh rose from his prison and brought rain back to the Shrouded Lands ([29.14](/wiki/29-14/).36). He denounced Alberon, faked his death and changed his face. The ex-bishop now calls himself [Thoth](/wiki/thoth/), and he evangelizes to farmers around the [Keening Sea](/wiki/keening-sea/), never staying in one place for more than a night. He works in hope that Asrigh will one day rise and make good on his vision.
+A revival of the worship of [Asrigh](/wiki/asrigh/) has begun among the farmers of [27.18](/wiki/27-18/), though they call him Saray. Giaccamo, a disgruntled bishop of Alberon, read a forbidden text of Asrigh while in the Sealed Library ([29.14](/wiki/29-14/).50). Shortly after, he received a vision in which Asrigh rose from his prison and brought rain back to the Shrouded Lands ([29.14](/wiki/29-14/).36). He denounced Alberon, faked his death and changed his face. The ex-bishop now calls himself [Thoth](/wiki/last-prophet-of-asrigh/), and he evangelizes to farmers around the [Keening Sea](/wiki/keening-sea/), never staying in one place for more than a night. He works in hope that Asrigh will one day rise and make good on his vision.
 
 ## Connection
 * [Wortimer](/wiki/wortimer/) ([26.20.01](/wiki/26-20/)) supports Thoth, hoping he can undermine the Temple Indivisible's influence in the August City.

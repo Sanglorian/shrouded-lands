@@ -9,6 +9,6 @@ categories:
 media: []
 ---
 You may be looking for:
-* The [blind Doge](/wiki/blind-doge/), the current Doge of the [Shuttered City](/wiki/shuttered-city/)
+* The [blind Doge](/wiki/blind-doge/), the current Doge of the [Shuttered City](/wiki/city-of-shuttered-windows/)
 * [Doges](/wiki/doges/) of the Shuttered City
 

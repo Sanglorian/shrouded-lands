@@ -11,7 +11,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-![](/media/Haywain_Right_Wing_of_the_triptych_WGA.jpg)Following [Alberon's slaying of Tiamat](/wiki/death-of-tiamat/), it is widely accepted that [Chimalia](/wiki/chimalia/) (mother and sister of [Tiamat](/wiki/tiamat/)) sent her creations -- the [gryphons](/wiki/gryphons/), the [minotaurs](/wiki/minotaurs/), the [manticores](/wiki/manticores/), [owlbears](/wiki/owlbears/), and other [chimeric creatures](/wiki/chimerics/) -- to lay siege against the [City of Many Windows](/wiki/city-of-many-windows/). And so, the [Windows were Shuttered](/wiki/windows-(shuttered)/), and travel across the once well-trodden (and numerous) [fairy roads](/wiki/fairy-roads/) leading to the City became impassible.
+![](/media/Haywain_Right_Wing_of_the_triptych_WGA.jpg)Following [Alberon's slaying of Tiamat](/wiki/death-of-tiamat/), it is widely accepted that [Chimalia](/wiki/chimalia/) (mother and sister of [Tiamat](/wiki/dead-tiamat/)) sent her creations -- the [gryphons](/wiki/griffins/), the [minotaurs](/wiki/minotaurs/), the [manticores](/wiki/manticores/), [owlbears](/wiki/owlbears/), and other [chimeric creatures](/wiki/chimerics/) -- to lay siege against the [City of Many Windows](/wiki/city-of-shuttered-windows/). And so, the [Windows were Shuttered](/wiki/windows-(shuttered)/), and travel across the once well-trodden (and numerous) [fairy roads](/wiki/fairy-roads/) leading to the City became impassible.
 
 The chimerics were forced to find a route through the world to reach the City. During that time of war, Blackhorn's Maze ([39.32](/wiki/39-32/)) was constructed as an outpost along the route. And -- if the minotaur version of the story is believed -- to house one of the five skulls of Tiamat.
 

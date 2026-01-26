@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Elhanen
 ---
-#REDIRECT[Elharen the Silent](/wiki/elharen-the-silent/)
+#REDIRECT[Elharen the Silent](/wiki/elhanen/)
 

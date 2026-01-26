@@ -14,7 +14,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-:See also [Hierophant](/wiki/hierophant/)
+:See also [Hierophant](/wiki/hierophants/)
 
 Leader of the [Temple Invisible](/wiki/temple-invisible/)
 

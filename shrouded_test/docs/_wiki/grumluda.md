@@ -18,7 +18,7 @@ One of the [Twelve Nations](/wiki/twelve-nations/).
 
 The [Great Mother](/wiki/great-mother/) and her [gnolls](/wiki/gnolls/) have invaded the south with the help of Grumluda. The [Golden Realm](/wiki/golden-realm/) was crushed in the Battle of the Last River by the two armies.
 
-The five [dwarf fortresses](/wiki/dwarf-fortresses/) are in Titan-Grumludish architectural style, since the two races cooperated on their building.
+The five [dwarf fortresses](/wiki/fastnesses/) are in Titan-Grumludish architectural style, since the two races cooperated on their building.
 ## Embassies
 Has an [embassy](/wiki/embassies-shuttered/) in Shuttered. The fighting schools (and gambling parlors) that have grown around that embassy are popular with travelers and citizens of the City alike. Ambassadors from Grumluda tend to be half-human and are given special dispensation to enter the city without taking on a geas. The Grumluda orcs are great patrons of the Wedding Band ([30.15](/wiki/30-15/)) and pay well for odd creatures to spice up the blood sport. The Grumludi are always happy to purchase creatures brought in from beyond [World's Edge](/wiki/world's-edge/) - the most exotic of which are exported back to the orc lands after being bloodied in the Band.
 ## Grumludi

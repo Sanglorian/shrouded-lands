@@ -11,7 +11,7 @@ categories:
   - "Ritual currencies"
 media: []
 ---
-![](/media/Sl_gore4.png)These appear to be ancient but seemingly-normal bone shards. Only close inspection will reveal that they have been cut so cleanly that they could only have been chomped on by the jaws of [Tiamat](/wiki/tiamat/) herself. Pieces of bone that were crushed in the jaws of the mother of dragons are considered relics by all who revere Tiamat and they are often used as ritual currency.
+![](/media/Sl_gore4.png)These appear to be ancient but seemingly-normal bone shards. Only close inspection will reveal that they have been cut so cleanly that they could only have been chomped on by the jaws of [Tiamat](/wiki/dead-tiamat/) herself. Pieces of bone that were crushed in the jaws of the mother of dragons are considered relics by all who revere Tiamat and they are often used as ritual currency.
 
 Among the special properties of these bone shards is that if they are ground to dust and sprinkled just so on adhesive paper they serve as a most excellent alternative to magical inks for the recording of magical formulas. In fact, some spells can only be recorded in this fashion. However, Tiamat cultists put these bone shards to more exalted purposes and necromancers to darker ones.
 ### Connections

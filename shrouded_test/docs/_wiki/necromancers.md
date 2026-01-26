@@ -16,7 +16,7 @@ media: []
 * [Yaegha Six-Kidneys](/wiki/yaegha-six-kidneys/) was a formidable necromancer and keen user of corpse-slather who raised an entire undead army. ![](/media/Egon_Schiele_018.jpg)
 * A cult of [Dead Tiamat](/wiki/dead-tiamat/) has raised [skeletons](/wiki/skeletons/), [shamblers](/wiki/shamblers/) and a [wight](/wiki/wight/). They seek to one day raise a [dracolich](/wiki/dracoliches/).
 * The [Necromantic Office](/wiki/necromantic-office/) is the only great wizarding academy in the Shrouded Lands. It creates the skeletons of the Waterworks, stitches together flesh golems and maintains the White Road. The office itself is infested with thousands of ghosts.
-* The [Princess of the Seers](/wiki/princess-of-the-seers/) conjures [drow-ghosts](/wiki/drow-ghosts/) from beneath the White Road.
+* The [Princess of the Seers](/wiki/princess-of-seers/) conjures [drow-ghosts](/wiki/drow-ghosts/) from beneath the White Road.
 * The [windseers](/wiki/windseers/) of [Winds](/wiki/winds/) listen to the screams of those who make up the White Road, making them necromancers of a sort.
 * Exiled necromancer [Ranmore](/wiki/ranmore/) intends to raise the White Road.
 * Ranmore is a necromancer formerly of the Office.

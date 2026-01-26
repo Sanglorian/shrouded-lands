@@ -11,7 +11,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-The [drums of the dwarves](/wiki/dwarves/) penetrated so deep that they still have not left the head of Dugglet Bolger (of [The Bolgers](/wiki/the-bolgers/), and occasionally they echo through his fingers and throat in the form of compositions.
+The [drums of the dwarves](/wiki/dwarves/) penetrated so deep that they still have not left the head of Dugglet Bolger (of [The Bolgers](/wiki/bolgers/), and occasionally they echo through his fingers and throat in the form of compositions.
 
 An organist by trade, Dugglet ventured too close to Titan's Skull and ended up seized by the drums. His halfling stealth allowed him to creep into the fortress, where he became lost.
 

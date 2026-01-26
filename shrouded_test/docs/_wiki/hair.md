@@ -9,12 +9,12 @@ categories:
 media: []
 ---
 ## Colour
-[Copperheads](/wiki/copperheads/) were stolen away by the elves. The superstitious will dye their child’s hair green for the first few years of his or her life, to ‘ward off fay eyes’. Ravenhair, goldhair and mudhair are other varieties of hair.
+[Copperheads](/wiki/copperhairs/) were stolen away by the elves. The superstitious will dye their child’s hair green for the first few years of his or her life, to ‘ward off fay eyes’. Ravenhair, goldhair and mudhair are other varieties of hair.
 * [Silverlings](/wiki/silverlings/) can have their hair stained silver.
-* The [Witchmen](/wiki/witchmen/) exclusively have copper hair
+* The [Witchmen](/wiki/witch-clans/) exclusively have copper hair
 * The Black Ziggurat is patrolled by white-haired [minotaurs](/wiki/minotaurs/) ([18.26](/wiki/18-26/))
 * The half-elf [Ceralin](/wiki/ceralin/) found white creep into her hair by age 100 ([17.05](/wiki/17-05/))
-* Turning [Lord Alevari](/wiki/lord-alevari/) into a [zombie](/wiki/zombies/) made his hair midnight black (see [Lady Alevari](/wiki/lady-alevari/)).
+* Turning [Lord Alevari](/wiki/lord-alevari/) into a [zombie](/wiki/sack-children/) made his hair midnight black (see [Lady Alevari](/wiki/lady-alevari/)).
 
 ## Length
 * In Gore, a woman may cut her hair short to become a man ([07.18](/wiki/07-18/)).
@@ -34,7 +34,7 @@ media: []
 ## Use
 * [Tristifer Bartley](/wiki/tristifer-bartley/) found a ladder of human hair leading leading into the top floor of one of the towers of the Sleeping Vale ([30.03](/wiki/30-03/)). Other towers are entered by other means.
 * A [pointing bone](/wiki/pointing-bone/) (see [Howling College](/wiki/howling-college/) for more details) can be wrapped in hair.
-* The [cyclopses](/wiki/cyclopses/) of Monatheron ([43.12](/wiki/43-12/)) smear their hair with nutrients to attract luminescent beetles, a practice adopted by [Shuttered](/wiki/shuttered/) [courtesans](/wiki/courtesans/).
+* The [cyclopses](/wiki/cyclopes/) of Monatheron ([43.12](/wiki/43-12/)) smear their hair with nutrients to attract luminescent beetles, a practice adopted by [Shuttered](/wiki/city-of-shuttered-windows/) [courtesans](/wiki/courtesans/).
 * Handsome men can climb into [Zaal](/wiki/zaal/) using a rope of elven hair.
 * According to [Lisbet's Lament](/wiki/lisbets-lament/), they bound Lisbet with cords of young maidens' hair ([20.08](/wiki/20-08/)).
 * [Wild men](/wiki/wild-men/) do not use clothes, but instead wrap their braided hair around themselves.

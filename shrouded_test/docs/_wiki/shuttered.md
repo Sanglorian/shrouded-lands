@@ -11,5 +11,5 @@ media: []
 is_redirect: true
 redirect_to: City of Shuttered Windows
 ---
-#REDIRECT[The City Itself](/wiki/the-city-itself/)
+#REDIRECT[The City Itself](/wiki/city-of-shuttered-windows/)
 

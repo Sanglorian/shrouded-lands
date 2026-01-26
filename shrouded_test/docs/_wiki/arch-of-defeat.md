@@ -10,7 +10,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-![](/media/Shutt-arch.png)The Doge in the time before there was a [Doge](/wiki/doges/) ordered the construction of an enormous monument to [Shuttered](/wiki/shuttered/)’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’
+![](/media/Shutt-arch.png)The Doge in the time before there was a [Doge](/wiki/doges/) ordered the construction of an enormous monument to [Shuttered](/wiki/city-of-shuttered-windows/)’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’
 
 Upon the arch is etched the location of every military defeat Shuttered has suffered. Around the arch stand statues of the many foreign leaders and heroes who have handed Shuttered defeat. Under the keystone of the arch is the tomb of the sleepy soldier, commemorating all the guards who slept at their posts, armorers who skimped on steel and generals who relaxed in their chateaus far from battle.
 

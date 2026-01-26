@@ -13,7 +13,7 @@ media: []
 ---
 The mockingbird of the Kingswood ([25.07](/wiki/25-07/)) occasionally calls out a sentence relating to Lisbet.
 ## Elfard Gollen’s Story
-On the rare occasions when [Svetlana Verlime](/wiki/svetlana-verlime/) has time to sit around the fire with the [Sundial Inn](/wiki/sundial-inn/)‘s guests, [Elfard Gollens](/wiki/elfard-gollens/) tells the story of Lisbet. Lisbet was as strong and brave as any man, but neither dwarfcraft shields nor Sanguine armor can guard a woman‘s heart. In the days when the Verlimes held grander titles but served worse beer, Lisbet left her home in Treebrush ([20.08](/wiki/20-08/)) to serve as a man-at-arms – Elfard pauses here for snickers – for Duke Verlime.
+On the rare occasions when [Svetlana Verlime](/wiki/svetlana-verlime/) has time to sit around the fire with the [Sundial Inn](/wiki/25-04/)‘s guests, [Elfard Gollens](/wiki/elfard-gollens/) tells the story of Lisbet. Lisbet was as strong and brave as any man, but neither dwarfcraft shields nor Sanguine armor can guard a woman‘s heart. In the days when the Verlimes held grander titles but served worse beer, Lisbet left her home in Treebrush ([20.08](/wiki/20-08/)) to serve as a man-at-arms – Elfard pauses here for snickers – for Duke Verlime.
 
 Her oaths and martial training stood her in good stead, but she had a woman‘s fickle heart which no power – Elfard pauses here to glance significantly at Svetlana – can tame. One day when Lisbet stood watch upon the beacon ([21.06](/wiki/21-06/)), a ragged and worn elf approached the door. She bade him enter and fed and watered
 him. They fell to talking, and Lisbet fell into his purple eyes

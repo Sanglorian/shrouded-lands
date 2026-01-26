@@ -19,7 +19,7 @@ Trimueil is sometimes spoken of in the past tense, but he was alive as recently 
 
 ## Works
 * The Black Duke of Thring, which presumably predates the play The Song of Ban and Ulena.
-* [The Song of Ban and Ulena](/wiki/the-song-of-ban-and-ulena/), a play, the only copy of which was seized by Trimueil when the production proved disastrous.
+* [The Song of Ban and Ulena](/wiki/song-of-ban-and-ulena/), a play, the only copy of which was seized by Trimueil when the production proved disastrous.
 * An epic poem also called The Song of Ban and Ulena, the only copy of which was lost seven years ago in the aforementioned dungeon.
 
 ## Connections

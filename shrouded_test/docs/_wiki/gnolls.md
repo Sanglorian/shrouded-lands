@@ -37,13 +37,13 @@ Hairy Jack lives close to a clan of gnolls - and some claim he is intimate with 
 
 Gnolls honour the wyvern of the waste ([29.29](/wiki/29-29/)) and gnoll bards sing of a time when warriors rode wyverns into battle. 
 
-The gnolls brought back Teodo, a golden lion statue, from the Golden Realm. A slave, [Abassi](/wiki/abassi/), converted some gnolls to the [King in Splendour](/wiki/king-in-splendour/). These 'praying gnolls' meet secretly near Teodo ([50.30](/wiki/50-30/))
+The gnolls brought back Teodo, a golden lion statue, from the Golden Realm. A slave, [Abassi](/wiki/abassi/), converted some gnolls to the [King in Splendour](/wiki/king-in-splendor/). These 'praying gnolls' meet secretly near Teodo ([50.30](/wiki/50-30/))
 
 To communicate with [lizardmen](/wiki/lizardmen/), bards of the Howling College gather whistling reeds ([50.26](/wiki/50-26/))
 
 A band of gnolls can be found around the Broken Spear ([40.06](/wiki/40-06/))
 
-Gnolls learn the Song of Dust and Flame from the Fire Fang, the furthest campus of the Howling College. It is next to a sinkhole where begins a fire [ley line](/wiki/ley-lines/) ([32.32](/wiki/32-32/)).
+Gnolls learn the Song of Dust and Flame from the Fire Fang, the furthest campus of the Howling College. It is next to a sinkhole where begins a fire [ley line](/wiki/leylines/) ([32.32](/wiki/32-32/)).
 
 By ancient gnollish custom, if you defeat the Keeper of the Gate you have gnollish blood. Otherwise, to enter the Burning Lands requires a non-gnoll to pass through the Gates of Blood (or Gates of Official Travel Pass Sanction) and receive a rat's head as a token ([50.29](/wiki/50-29/))
 

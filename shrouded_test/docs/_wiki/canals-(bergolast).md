@@ -12,7 +12,7 @@ categories:
 media: []
 ---
 ## The Canals of Bergolast
-When the [Burning Lands](/wiki/burning-lands/) were green and rivers flowed across their length and breadth, the good folk of [Bergolast](/wiki/bergolast/) built canals for their trading barges. In parts, they cut around mountains. In others, they built bridges over valleys so the canals could run flat.
+When the [Burning Lands](/wiki/the-burning-lands/) were green and rivers flowed across their length and breadth, the good folk of [Bergolast](/wiki/bergolast/) built canals for their trading barges. In parts, they cut around mountains. In others, they built bridges over valleys so the canals could run flat.
 
 The Bergolasti even cut through the [Devil's Spine](/wiki/devils-spine/), opening up caves and caverns turned wild since Bergolast's fall.
 

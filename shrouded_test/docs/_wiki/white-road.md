@@ -9,7 +9,7 @@ categories:
   - "Shuttered and Surrounds"
 media: []
 ---
-In accordance with ancient decree, the [Temple Indivisible](/wiki/temple-indivisible/) has wisely forbade that any bodies be buried within the walls of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/). Instead, the White Road that worms northwards from the [North Gate](/wiki/north-gate/) of the city through mire that quickly gives way to farmland is lined with thousands of tombs. They cluster close to the road, each one covered in carvings that beg travelers to stay a while and read about the citizen entombed there so that they might not be forgotten. As all of the more visible plots were built on centuries ago, newer tombs go to greater and greater lengths to attract attention, some rising high among their fellows, some marked with a riot of color and some imbued with strange glamours.
+In accordance with ancient decree, the [Temple Indivisible](/wiki/temple-indivisible/) has wisely forbade that any bodies be buried within the walls of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/). Instead, the White Road that worms northwards from the [North Gate](/wiki/north-gate-and-south-gate/) of the city through mire that quickly gives way to farmland is lined with thousands of tombs. They cluster close to the road, each one covered in carvings that beg travelers to stay a while and read about the citizen entombed there so that they might not be forgotten. As all of the more visible plots were built on centuries ago, newer tombs go to greater and greater lengths to attract attention, some rising high among their fellows, some marked with a riot of color and some imbued with strange glamours.
 
 For those too poor to afford a tomb along the White Road, the Temple Indivisible has thoughtfully provided a place for them as well. Their bones are ground down and used to pave the road itself and layer upon layer of bone grit keeps the White Road remarkably mud-free.
 ### Features:
@@ -31,7 +31,7 @@ For those too poor to afford a tomb along the White Road, the Temple Indivisible
 
 Court necromancers and hedge mediums have long speculated on what causes [the dead to return to life](/wiki/undead/). Surely the process that conjures back a [warhorse from a skin bag](/wiki/sack-children/) is different from the bindings that draw [bone golems](/wiki/bone-golems/) together.
 
-But what is broadly agreed is that—at least for humans and [talking animals](/wiki/talking-animals/)—undeath requires anonymity. [Skeletons](/wiki/skeletons/)—about whose past little can be discerned—are more powerful than [zombies](/wiki/zombies/), and jumbles of many bones are some of the most persistent of the dead.
+But what is broadly agreed is that—at least for humans and [talking animals](/wiki/talking-animals/)—undeath requires anonymity. [Skeletons](/wiki/skeletons/)—about whose past little can be discerned—are more powerful than [zombies](/wiki/sack-children/), and jumbles of many bones are some of the most persistent of the dead.
 
 Of course, no one is more anonymous than yet another corpse in the big city, and for this reason people are buried along the White Road. Their tombs include careful (and embarrassingly honest) accounts of their lives so that should you come back as a [ghoul](/wiki/ghouls/) or [spectre](/wiki/spectres/), anyone who happens to have read the story of your life can talk you back into your grave.
 

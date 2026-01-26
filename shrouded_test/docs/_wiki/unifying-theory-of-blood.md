@@ -19,7 +19,7 @@ media: []
 * Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]
 
 ## The Unifying Theory of Blood
-[Professor Westwright](/wiki/professor-westwright/) is surprisingly young - perhaps 17 or 18 years old - and his appointment to the [Universities Two and One](/wiki/universities-two-and-one/) in [Jahur](/wiki/jahur/) is controversial. Some say it is a deliberate snub to the [Sanguine Lords](/wiki/sanguine-lords/); others that his findings are genuinely original and startling.
+[Professor Westwright](/wiki/professor-westwright/) is surprisingly young - perhaps 17 or 18 years old - and his appointment to the [Universities Two and One](/wiki/universities-two-and-one/) in [Jahur](/wiki/jahur/) is controversial. Some say it is a deliberate snub to the [Sanguine Lords](/wiki/lords-sanguine/); others that his findings are genuinely original and startling.
 
 Westwright’s only publication to date is a thin monograph titled **The Unifying Theory of Blood**. Compiled from his lectures - for Westwright is illiterate - it supposes that the blood of the [Tarrasque](/wiki/tarrasque/) represents an elemental mixture. The fall of [Bergolast](/wiki/bergolast/) disturbed this delicate balance, and powerfully transformed those who supped the Tarrasque’s blood.
 

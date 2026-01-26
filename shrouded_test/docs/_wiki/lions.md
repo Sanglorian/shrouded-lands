@@ -19,7 +19,7 @@ media: []
 * The [Abbot of the Keepers of the Sainted Foot](/wiki/abbot-of-the-sainted-foot/) met with a hermit ([09.01](/wiki/09-01/)) whose cow ate his lion. The Abbot is a priest of [Alberon](/wiki/alberon/).
 
 ## Religion
-* The [King in Splendour](/wiki/king-in-splendour/) is considered by some a two-part god, with the other part being the Lion in Splendour
+* The [King in Splendour](/wiki/king-in-splendor/) is considered by some a two-part god, with the other part being the Lion in Splendour
 * [Lion's Day](/wiki/lion's-day/) is the summer solstice, named after the Lion in Splendour
 * [Lion priests](/wiki/lion-priests/) are followers of the King in Splendour.
 * Teodo is an iron lion statute, made to honour the King in Splendour ([50.30](/wiki/50-30/))

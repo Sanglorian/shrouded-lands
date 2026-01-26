@@ -12,7 +12,7 @@ categories:
   - "Plants"
 media: []
 ---
-When [Tiamat](/wiki/tiamat/) was slain and [Alberon](/wiki/alberon/) scattered her heads ([40.06](/wiki/40-06/)), her blood dripped across the Lands. Sometimes it fell upon groves and valleys, and the animals and plants in these places grew strange and monstrous. Sometimes it fell upon people. These men and women, basted in the blood of a goddess, grew fangs and scales. Their bellies filled with elemental power.
+When [Tiamat](/wiki/dead-tiamat/) was slain and [Alberon](/wiki/alberon/) scattered her heads ([40.06](/wiki/40-06/)), her blood dripped across the Lands. Sometimes it fell upon groves and valleys, and the animals and plants in these places grew strange and monstrous. Sometimes it fell upon people. These men and women, basted in the blood of a goddess, grew fangs and scales. Their bellies filled with elemental power.
 
 The essence of a deity is not strictly hereditary, but even today some are born with Tiamat in the blood. When their powers are tightly controlled, they can be channelled to cast spells and create magnificent effects. As their willpower is sapped, however, their control over their forms falter and they grow more beastly and draconic.
 #### Connections

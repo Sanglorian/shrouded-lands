@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Verlimes
 ---
-#REDIRECT [The Verlimes](/wiki/the-verlimes/)
+#REDIRECT [The Verlimes](/wiki/verlimes/)
 

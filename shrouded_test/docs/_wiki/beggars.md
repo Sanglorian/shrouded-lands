@@ -17,7 +17,7 @@ Beggars are mentioned in the [Rhyme of the Sanguine Lords](/wiki/rhyme-of-the-sa
 
 A female beggar is one of the [eleven recognised forms](/wiki/eleven-recognised-forms/) of Alberon.
 
-[Drogo](/wiki/drogo/) may have been a beggar in the [Gnomish Quarter](/wiki/gnomish-quarter/) of [Shuttered](/wiki/shuttered/).
+[Drogo](/wiki/drogo/) may have been a beggar in the [Gnomish Quarter](/wiki/gnomish-quarter/) of [Shuttered](/wiki/city-of-shuttered-windows/).
 
 A pompous beggar named the [Squatter King](/wiki/squatter-king/) holds court in the [Undercity](/wiki/undercity/). 
 

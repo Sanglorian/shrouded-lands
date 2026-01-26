@@ -13,7 +13,7 @@ categories:
 media: []
 ---
 : See also [Sorcerers](/wiki/sorcerers/)
-![Frank C Pape](/media/8776017020_720baff7b0_o.jpg)![](/media/161607.png)When the serfs of Tarengael fear for their lambs or their children, they pray to the [Green Lady](/wiki/the-green-lady/). But if they wish death or ruin on another, or to forget a great horror, or to revel madly, they approach a man who serves a far darker power.
+![Frank C Pape](/media/8776017020_720baff7b0_o.jpg)![](/media/161607.png)When the serfs of Tarengael fear for their lambs or their children, they pray to the [Green Lady](/wiki/green-lady/). But if they wish death or ruin on another, or to forget a great horror, or to revel madly, they approach a man who serves a far darker power.
 
 The Sorcerer of Tarengael Town lives in the shantytown of [Westbridge](/wiki/westbridge/) outside [Castle Tarengael](/wiki/castle-tarengael/). He has a small hut that is lavishly decorated with rugs and silks and always smells gently of varnish. Brightly dyed sheets block off three passages from view, though visitors swear that the hut is so small that there is nowhere for the passages to lead.
 

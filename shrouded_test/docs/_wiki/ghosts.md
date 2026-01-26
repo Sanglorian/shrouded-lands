@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 According to the [White Road](/wiki/white-road/) entry, all ghosts have a mystery associated with them. Undeath is a state brought on by anonymity, and so if every detail was known about a ghost they could be talked back into their grave by anyone who knew it.
-* [Drow-ghosts](/wiki/drow-ghosts/) communicate with the [Princess of the Seers](/wiki/princess-of-the-seers/).
+* [Drow-ghosts](/wiki/drow-ghosts/) communicate with the [Princess of the Seers](/wiki/princess-of-seers/).
 * [Gnome ghosts](/wiki/gnome-ghosts/) can be heard tapping on the inside of the walls of Shuttered. The deep dwarves who check the walls are not engineers, they are descendants of the one who originally cursed them, keeping the death-curse strong.
 * The ghosts of lords of the Stodfast haunt the Gravewatch Moors where they were buried, and they still watch the north for invasion. ([21.12](/wiki/21-12/))
   * Though a [bodak](/wiki/bodaks/) and not a ghost, [Cameron Steadfast](/wiki/cameron-steadfast/)'s soul is 'ghostly' and he feels the same compulsion to haunt the Moors as his forefathers.

@@ -11,7 +11,7 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-The Doges are the rulers of the [Shuttered City](/wiki/shuttered-city/). The current Doge is the [blind Doge](/wiki/blind-doge/).
+The Doges are the rulers of the [Shuttered City](/wiki/city-of-shuttered-windows/). The current Doge is the [blind Doge](/wiki/blind-doge/).
 
 [Simone the Fowl](/wiki/simone-the-fowl/) is a former Doge.
 

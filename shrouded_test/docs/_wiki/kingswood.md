@@ -63,17 +63,18 @@ Those who dare to walk beneath the trees of the wild wood long enough to see the
 ## Random Encounters
 ![](/media/King1.png)**Inspired by:** *Random Encounters in a Spooky Dark Forest*, Danny Peck, Secret Santicore 2011
 
-# Flowering vines whose scent causes a feeling of great happiness and wellbeing that makes it very difficult do anything violent (including defending oneself).
-# A tree bearing several hanged bodies on which mushrooms grow in great numbers. These same mushrooms are a popular ingredient Sundial Inn cooking and are not usually seen elsewhere.
-# Along the course of a small steam, all of the trees bear leaves that are a strange sickly yellow.
-# Chirping vampire bats fly out of the night. They will focus their attacks on larger targets (for example pack animals).
-# Dozens of large rats scurry past the feat of the party, squeaking happily.
-# A dappled cat begins following the party and refuses to be driven off, if killed the dapples on its back will spell out the name of its killer in elfish.
-# A great white hart is seen grazing on some grass, if approached it becomes clear that the deer is feasting on the remains of a human hunter.
-# An elf bearing a human infant.
-# If near the Welt Road at night: a small caravan trundles through the woods. There is a blockage of some sort in the Welt Road tunnel and they are seeking to bypass it by going aboveground.
-# A band of travelling performers have made a camp and invite the party to join them. They say that they are on the road to Lanford-on-the-Zann and have never heard of the City of Shuttered Windows or any other location in the Shrouded Lands.
-# A ragged human with clothes made of freebark grins at the party through bloodstained lips. He holds meat of some sort in his black-nailed hands.
-# A beautiful youth or maiden runs heedless through the woods, already covered with bramble scratches. In the distance a hunting horn sounds…
+1. Flowering vines whose scent causes a feeling of great happiness and wellbeing that makes it very difficult do anything violent (including defending oneself).
+2. A tree bearing several hanged bodies on which mushrooms grow in great numbers. These same mushrooms are a popular ingredient Sundial Inn cooking and are not usually seen elsewhere.
+3. Along the course of a small steam, all of the trees bear leaves that are a strange sickly yellow.
+4. Chirping vampire bats fly out of the night. They will focus their attacks on larger targets (for example pack animals).
+5. Dozens of large rats scurry past the feat of the party, squeaking happily.
+6. A dappled cat begins following the party and refuses to be driven off, if killed the dapples on its back will spell out the name of its killer in elfish.
+7. A great white hart is seen grazing on some grass, if approached it becomes clear that the deer is feasting on the remains of a human hunter.
+8. An elf bearing a human infant.
+9. If near the Welt Road at night: a small caravan trundles through the woods. There is a blockage of some sort in the Welt Road tunnel and they are seeking to bypass it by going aboveground.
+10. A band of travelling performers have made a camp and invite the party to join them. They say that they are on the road to Lanford-on-the-Zann and have never heard of the City of Shuttered Windows or any other location in the Shrouded Lands.
+11. A ragged human with clothes made of freebark grins at the party through bloodstained lips. He holds meat of some sort in his black-nailed hands.
+12. A beautiful youth or maiden runs heedless through the woods, already covered with bramble scratches. In the distance a hunting horn sounds…
+
 
 

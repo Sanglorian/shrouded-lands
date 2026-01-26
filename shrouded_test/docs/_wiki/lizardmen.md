@@ -13,7 +13,7 @@ media: []
 ---
 !['Lizard Thing', Michael Wight, Grim Portents 1 (CC BY-SA 3.0 Unported)](/media/Lizardthing.jpg)
 
-* When the [Duke of Thring](/wiki/duke-of-thring/) tried to blackmail a lizardman caravan crossing the river via Smuggler's Isle ([17.16](/wiki/17-16/)), they fortified the isle, took up fishing and dug in. Their amphibious [sailbeasts](/wiki/sailbeasts/) trouble the raftsmen who ply the river and when a force of [knights](/wiki/knights-of-thring/) attempted to repulse them their [fangbeasts](/wiki/fangbeasts/) ripped them to shreds. The lizardmen are eating roasted knight.
+* When the [Duke of Thring](/wiki/duke-of-thring-incumbent/) tried to blackmail a lizardman caravan crossing the river via Smuggler's Isle ([17.16](/wiki/17-16/)), they fortified the isle, took up fishing and dug in. Their amphibious [sailbeasts](/wiki/sailbeasts/) trouble the raftsmen who ply the river and when a force of [knights](/wiki/knights-of-thring/) attempted to repulse them their [fangbeasts](/wiki/fangbeasts/) ripped them to shreds. The lizardmen are eating roasted knight.
   * They were indirectly responsible for the [Champion of Thring](/wiki/champion-of-thring/) being a crocodile.
 * Lizardmen use [snakes](/wiki/snakes/) as books. [Gaudy Johnson](/wiki/gaudy-johnson/) can extract snake oil from the 'books'; it is unclear if the lizardmen know of this technique.
 * The early days of [pactmaking](/wiki/pactmaking/) involved lizardfolk shamans bumbling through dealings with beings of dust and wind, of vine and feather, and of chalk and salt. Parties exchanged what warlock lecturers now call the ‘three is’: intangibles, like the loss of innocence; impossibilities, like a virgin’s firstborn; and eyes (along with other body parts).

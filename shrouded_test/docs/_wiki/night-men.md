@@ -12,7 +12,7 @@ media: []
 ---
 Those who live in the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)
 
-Also referred to as [Night People](/wiki/night-people/)
+Also referred to as [Night People](/wiki/night-men/)
 
 
 

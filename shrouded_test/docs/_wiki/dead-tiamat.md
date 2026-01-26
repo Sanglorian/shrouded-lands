@@ -17,7 +17,7 @@ media: []
 
 ## Heads of Tiamat
 * According to rumour, the foundations of [Skullreach](/wiki/skullreach/) are the skull of Tiamat's blue head.
-* Likewise, some say the heat of the [Burning Lands](/wiki/burning-lands/) is due to the red dragon's skull - perhaps Tiamat's - at the heart of Blackhorn's Maze ([39.32](/wiki/39-32/)).
+* Likewise, some say the heat of the [Burning Lands](/wiki/the-burning-lands/) is due to the red dragon's skull - perhaps Tiamat's - at the heart of Blackhorn's Maze ([39.32](/wiki/39-32/)).
 * Tiamat's black head fell on what is now the Stolen Hills ([24.11](/wiki/24-11/)), corrupting the land. The head is no longer there; what happened to it is disputed.
 * A merchant in the [Goblin Markets](/wiki/goblin-markets/) claims to have Tiamat's shrunken white head in a sack.
 

@@ -8,5 +8,5 @@ categories:
   - "Plants"
 media: []
 ---
-* A great frozen oak tree in [The Grey Mountains](/wiki/the-grey-mountains/) is avoided as much as possible by [goblins](/wiki/goblins/), who will not shed blood in its vicinity ([12.00](/wiki/12-00/)).
+* A great frozen oak tree in [The Grey Mountains](/wiki/grey-mountains/) is avoided as much as possible by [goblins](/wiki/goblins/), who will not shed blood in its vicinity ([12.00](/wiki/12-00/)).
 

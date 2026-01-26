@@ -27,7 +27,7 @@ Ranmore was discharged from the Necromantic Office *([29.14.35](/wiki/29-14/))* 
 ## Connections
 * Jahbulon is an approved Small God *([29.14.32](/wiki/29-14/))* associated with reason and masculinity. He is unpopular and obscure even among scholars, however, and hasn't had a public shrine in **Shuttered** in nine years. Those who follow him assert that he was a saintly scholar whose extensive works evangelizing the virtues of rationalism and logic have been lost and destroyed.
 * Jarn Ossory’s Rod of Adhesion is now in Castle Greymere and the family would like it back *([20.00](/wiki/20-00/)).*
-* The Osseries took the land in which they live from [The Mirdenlows](/wiki/the-mirdenlows/).
+* The Osseries took the land in which they live from [The Mirdenlows](/wiki/mirdenlows/).
 
 ## Hooks
 * What do the Osserys do with all their gold?

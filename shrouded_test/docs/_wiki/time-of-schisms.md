@@ -11,9 +11,9 @@ categories:
   - "The Shuttered City"
 media: []
 ---
-According to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/), the **Time of Schisms** broke out when a preacher revealled that [Alberon](/wiki/alberon/) has only avoided conquering the world because he is trapped in [Shuttered](/wiki/shuttered/)
+According to the [Reluctant Temple of Alberon](/wiki/reluctant-temple-of-alberon/), the **Time of Schisms** broke out when a preacher revealled that [Alberon](/wiki/alberon/) has only avoided conquering the world because he is trapped in [Shuttered](/wiki/city-of-shuttered-windows/)
 
-During the Time of Schisms, the [Brothers of the Spear](/wiki/brothers-of-the-spear/) split into the [Temple of Alberon](/wiki/temple-of-alberon/) and the [Temple Invisible](/wiki/temple-invisible/). 
+During the Time of Schisms, the [Brothers of the Spear](/wiki/temple-invisible/) split into the [Temple of Alberon](/wiki/temple-of-alberon/) and the [Temple Invisible](/wiki/temple-invisible/).
 
 The [Keepers of the Sainted Foot](/wiki/keepers-of-the-sainted-foot/) were driven out at this time.
 

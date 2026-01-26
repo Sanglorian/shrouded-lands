@@ -8,5 +8,5 @@ categories:
   - "Planes"
 media: []
 ---
-The [windows of Shuttered](/wiki/windows-shuttered/) used to lead to no-place, which is no place at all, as well as many other [planes](/wiki/planes/). Ashen-skinned [voidsailors](/wiki/voidsailors/) would visit the City from no-place.
+The [windows of Shuttered](/wiki/windows-shuttered/) used to lead to no-place, which is no place at all, as well as many other [planes](/wiki/other-planes/). Ashen-skinned [voidsailors](/wiki/voidsailors/) would visit the City from no-place.
 

@@ -24,13 +24,13 @@ media: []
 ## Sorcerers of Thring
 The sorcerers of Thring are a meddlesome and jealous estate, and so each specialises in magic as obscure and esoteric as possible—making theft pointless and sabotage harmless. The [Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/) practices featherstitch magic.
 
-[The Sorcerer of Tarengael Town](/wiki/the-sorcerer-of-tarengael-town/) wears a mask of [Baron Autumn](/wiki/baron-autumn/). The sorcerers of Thring are priests of Baron Autumn and can draw on his power to create [sack children](/wiki/sack-children/) and revive dead warhorses ([16.16](/wiki/16-16/)).
+[The Sorcerer of Tarengael Town](/wiki/sorcerer-of-tarengael-town/) wears a mask of [Baron Autumn](/wiki/baron-autumn/). The sorcerers of Thring are priests of Baron Autumn and can draw on his power to create [sack children](/wiki/sack-children/) and revive dead warhorses ([16.16](/wiki/16-16/)).
 
 ## Sorcery
-* The [High Tongue](/wiki/high-tongue/) is the language of sorcery.
+* The [High Tongue](/wiki/mud-tongue-and-high-tongue/) is the language of sorcery.
 * [Dragonblooded](/wiki/dragonblooded/) individuals can cast spells and create other effects, but as their willpower is sapped their control over their form wavers and they become more beastly and draconic.
 * [Tieflings](/wiki/tieflings/) make good sorcerers.
-* Sorcerer-assassins from the [Brothers of the Spear](/wiki/brothers-of-the-spear/) were the founders of the [Temple Invisible](/wiki/temple-invisible/).
+* Sorcerer-assassins from the [Brothers of the Spear](/wiki/temple-invisible/) were the founders of the [Temple Invisible](/wiki/temple-invisible/).
 
 ## Sorcerers
 * The Lady is a sorceress who used her own arts and the living metal of the Broken Spear to mould living flesh. Her soul still inhabits the Spear.
