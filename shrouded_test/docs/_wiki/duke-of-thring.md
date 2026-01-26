@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Duke of Thring (incumbent)
 ---
-#REDIRECT[Duke of Thring (incumbent)](/wiki/duke-of-thring-(incumbent)/)
+# REDIRECT[Duke of Thring (incumbent)](/wiki/duke-of-thring-(incumbent)/)

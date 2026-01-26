@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Witch-hounds
 ---
-#REDIRECT [Witch-hounds](/wiki/witch-hounds-2458/)
+# REDIRECT [Witch-hounds](/wiki/witch-hounds-2458/)

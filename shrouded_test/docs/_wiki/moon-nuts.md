@@ -12,7 +12,7 @@ media: []
 is_redirect: true
 redirect_to: '50.02'
 ---
-#REDIRECT [50.02](/wiki/50-02/)
+# REDIRECT [50.02](/wiki/50-02/)
 
 
 

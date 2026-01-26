@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Dungers and Hallovers
 ---
-#REDIRECT [Hallovers](/wiki/hallovers/)
+# REDIRECT [Hallovers](/wiki/hallovers/)

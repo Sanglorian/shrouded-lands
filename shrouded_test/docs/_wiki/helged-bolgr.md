@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Helged Bolger
 ---
-#REDIRECT [Helged Bolger](/wiki/helged-bolger/)
+# REDIRECT [Helged Bolger](/wiki/helged-bolger/)

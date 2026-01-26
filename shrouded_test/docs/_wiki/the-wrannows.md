@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Wrannows
 ---
-#REDIRECT[Wrannows](/wiki/wrannows/)
+# REDIRECT[Wrannows](/wiki/wrannows/)

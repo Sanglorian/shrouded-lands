@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Professions
 ---
-#REDIRECT [Professions](/wiki/professions/)
+# REDIRECT [Professions](/wiki/professions/)

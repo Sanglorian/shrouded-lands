@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Westmarches
 ---
-#REDIRECT [Westmarches](/wiki/westmarches/)
+# REDIRECT [Westmarches](/wiki/westmarches/)

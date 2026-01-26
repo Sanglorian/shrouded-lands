@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: World's Edge and Beyond
 ---
-#REDIRECT[World's Edge and Beyond](/wiki/world's-edge-and-beyond/)
+# REDIRECT[World's Edge and Beyond](/wiki/world's-edge-and-beyond/)

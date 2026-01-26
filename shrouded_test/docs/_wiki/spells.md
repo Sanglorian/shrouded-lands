@@ -45,24 +45,24 @@ The following established clans can cast these spells:
 * [Yarbeens](/wiki/yarbeens/) (unknown spell)
 
 The following might belong to other clans:
-#Feeblemind
-#Knock
-#Hold person
-#Waterbreathing
-#Web
-#Word of recall
-#Heat metal
-#Locate object
-#Time stop
-#Hostile polymorph
-#Wall of stone
-#Faerie fire
-#Sticks to snakes
-#Fake memory
-#Uncertainty: each time a creature looks at the target object, it has a 50% change of existing or of not existing for that creature
-#Psychic limb
-#Breath giant bubbles: can float inside them, trap people inside them, obscure self
-#Animate shadows
-#Sticky skin: Can turn ones own skin and the skin of those one is in contact with highly adhesive.
-#Colour ward: The target is immune to anything of a particular colour and anyone wearing that colour.
+1. Feeblemind
+2. Knock
+3. Hold person
+4. Waterbreathing
+5. Web
+6. Word of recall
+7. Heat metal
+8. Locate object
+9. Time stop
+10. Hostile polymorph
+11. Wall of stone
+12. Faerie fire
+13. Sticks to snakes
+14. Fake memory
+15. Uncertainty: each time a creature looks at the target object, it has a 50% change of existing or of not existing for that creature
+16. Psychic limb
+17. Breath giant bubbles: can float inside them, trap people inside them, obscure self
+18. Animate shadows
+19. Sticky skin: Can turn ones own skin and the skin of those one is in contact with highly adhesive.
+20. Colour ward: The target is immune to anything of a particular colour and anyone wearing that colour.
 

@@ -43,73 +43,73 @@ The *colour ward *spell was inspired by [http://dndwithpornstars.blogspot.com.au
 
 To create a new witch clan, roll once on each of these tables.
 ### Quirk (1d12)
-#Can only cast the reverse of the assigned spell
-#Almost extinct
-#Have the spell of another clan
-#Stole the spell from something or someone else
-#Invented the spell
-#Are from outside the Barrier Ranges
-#Itinerant
-#Populous
-#Have a taboo against using the spell
-#Can only cast the spell on their selves and their possessions
-#Can only use the spells on others
-#Presence allows others to cast the spell but cannot cast it themselves
+1. Can only cast the reverse of the assigned spell
+2. Almost extinct
+3. Have the spell of another clan
+4. Stole the spell from something or someone else
+5. Invented the spell
+6. Are from outside the Barrier Ranges
+7. Itinerant
+8. Populous
+9. Have a taboo against using the spell
+10. Can only cast the spell on their selves and their possessions
+11. Can only use the spells on others
+12. Presence allows others to cast the spell but cannot cast it themselves
 ### Spell (1d20)
-#Feeblemind
-#Knock
-#Hold person
-#Waterbreathing
-#Web
-#Word of recall
-#Heat metal
-#Locate object
-#Time stop
-#Hostile polymorph
-#Wall of stone
-#Faerie fire
-#Sticks to snakes
-#Fake memory
-#Uncertainty: each time a creature looks at the target object, it has a 50% change of existing or of not existing for that creature
-#Psychic limb
-#Breath giant bubbles: can float inside them, trap people inside them, obscure self
-#Animate shadows
-#Sticky skin: Can turn ones own skin and the skin of those one is in contact with highly adhesive.
-#Colour ward: The target is immune to anything of a particular colour and anyone wearing that colour.
+1. Feeblemind
+2. Knock
+3. Hold person
+4. Waterbreathing
+5. Web
+6. Word of recall
+7. Heat metal
+8. Locate object
+9. Time stop
+10. Hostile polymorph
+11. Wall of stone
+12. Faerie fire
+13. Sticks to snakes
+14. Fake memory
+15. Uncertainty: each time a creature looks at the target object, it has a 50% change of existing or of not existing for that creature
+16. Psychic limb
+17. Breath giant bubbles: can float inside them, trap people inside them, obscure self
+18. Animate shadows
+19. Sticky skin: Can turn ones own skin and the skin of those one is in contact with highly adhesive.
+20. Colour ward: The target is immune to anything of a particular colour and anyone wearing that colour.
 ### Relationship with another witch clan (1d12)
-#Intermarriage
-#Slavery
-#Neighbours
-#Debtor and financier
-#Terror
-#War
-#Trade
-#Mutual cooperation
-#Ignorance
-#Colonisation
-#Alliance
-#Ancient rift
+1. Intermarriage
+2. Slavery
+3. Neighbours
+4. Debtor and financier
+5. Terror
+6. War
+7. Trade
+8. Mutual cooperation
+9. Ignorance
+10. Colonisation
+11. Alliance
+12. Ancient rift
 ### Name (1d20)
-#The Bunkums
-#The Milligrubs
-#The Rawmaish
-#The Pappekaks
-#The Barmpots
-#The Moiders
-#The Davenports
-#The Druthers
-#The Kittywumpuses
-#The Mazads
-#The Stupnagles
-#The Megrims
-#The Fantods
-#The Blatherskites
-#The Pluguglys
-#The Sennights
-#The Ghastflabbers
-#The Whumpids
-#The Charnies
-#The Dadiwhirls
+1. The Bunkums
+2. The Milligrubs
+3. The Rawmaish
+4. The Pappekaks
+5. The Barmpots
+6. The Moiders
+7. The Davenports
+8. The Druthers
+9. The Kittywumpuses
+10. The Mazads
+11. The Stupnagles
+12. The Megrims
+13. The Fantods
+14. The Blatherskites
+15. The Pluguglys
+16. The Sennights
+17. The Ghastflabbers
+18. The Whumpids
+19. The Charnies
+20. The Dadiwhirls
 
 
 

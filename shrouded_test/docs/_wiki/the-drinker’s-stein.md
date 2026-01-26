@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Drinker's Stein
 ---
-#REDIRECT [Drinker’s Stein](/wiki/drinker’s-stein/)
+# REDIRECT [Drinker’s Stein](/wiki/drinker’s-stein/)

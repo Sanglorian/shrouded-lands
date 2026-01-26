@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Drow's Tears
 ---
-#REDIRECT [Drow's Tears](/wiki/drow's-tears/)
+# REDIRECT [Drow's Tears](/wiki/drow's-tears/)

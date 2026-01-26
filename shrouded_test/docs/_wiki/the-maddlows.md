@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Maddlows
 ---
-#REDIRECT [Maddlows](/wiki/maddlows/)
+# REDIRECT [Maddlows](/wiki/maddlows/)

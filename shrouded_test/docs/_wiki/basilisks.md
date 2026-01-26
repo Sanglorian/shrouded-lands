@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Basilisk
 ---
-#REDIRECT[Basilisk](/wiki/basilisk/)
+# REDIRECT[Basilisk](/wiki/basilisk/)

@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Duchy of Thring
 ---
-#REDIRECT[Duchy of Thring](/wiki/duchy-of-thring/)
+# REDIRECT[Duchy of Thring](/wiki/duchy-of-thring/)

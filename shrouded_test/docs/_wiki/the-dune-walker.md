@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Dune Walker
 ---
-#REDIRECT [Dune Walker](/wiki/dune-walker/)
+# REDIRECT [Dune Walker](/wiki/dune-walker/)

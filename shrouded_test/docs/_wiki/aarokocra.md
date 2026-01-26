@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Aarakocra
 ---
-#REDIRECT[Aarakocra](/wiki/aarakocra/)
+# REDIRECT[Aarakocra](/wiki/aarakocra/)

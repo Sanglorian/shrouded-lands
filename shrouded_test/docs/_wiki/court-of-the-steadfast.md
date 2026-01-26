@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: '20.13'
 ---
-#REDIRECT[20.13](/wiki/20-13/)
+# REDIRECT[20.13](/wiki/20-13/)

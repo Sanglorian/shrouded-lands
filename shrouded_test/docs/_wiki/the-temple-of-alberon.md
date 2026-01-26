@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Temple of Alberon
 ---
-#REDIRECT[Temple of Alberon](/wiki/temple-of-alberon/)
+# REDIRECT[Temple of Alberon](/wiki/temple-of-alberon/)

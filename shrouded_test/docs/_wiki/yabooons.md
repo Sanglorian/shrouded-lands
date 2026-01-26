@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Blind Midshotgatepool
 ---
-#REDIRECT [Yaboons](/wiki/blind-midshotgatepool/)
+# REDIRECT [Yaboons](/wiki/blind-midshotgatepool/)

@@ -12,7 +12,7 @@ media: []
 is_redirect: true
 redirect_to: '07.06'
 ---
-#REDIRECT[07.06](/wiki/07-06/)
+# REDIRECT[07.06](/wiki/07-06/)
 
 
 

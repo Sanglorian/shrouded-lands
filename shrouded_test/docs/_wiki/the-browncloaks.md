@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Browncloaks
 ---
-#REDIRECT[Browncloaks](/wiki/browncloaks/)
+# REDIRECT[Browncloaks](/wiki/browncloaks/)

@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Barrier Range
 ---
-#REDIRECT [Barrier Range](/wiki/barrier-range/)
+# REDIRECT [Barrier Range](/wiki/barrier-range/)

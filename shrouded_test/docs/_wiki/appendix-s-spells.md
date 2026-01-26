@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Spells
 ---
-#REDIRECT [Spells](/wiki/spells/)
+# REDIRECT [Spells](/wiki/spells/)

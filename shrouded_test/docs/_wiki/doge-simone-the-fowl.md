@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Simone the Fowl
 ---
-#REDIRECT [Simone the Fowl](/wiki/simone-the-fowl/)
+# REDIRECT [Simone the Fowl](/wiki/simone-the-fowl/)

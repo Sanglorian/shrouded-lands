@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Gorean Greys
 ---
-#REDIRECT [Gorean Greys](/wiki/gorean-greys/)
+# REDIRECT [Gorean Greys](/wiki/gorean-greys/)

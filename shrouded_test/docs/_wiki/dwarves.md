@@ -16,16 +16,16 @@ media: []
 
 ## Ten Things of Old
 Though the dwarves of Titan's Skull are decadent, even in these days there are things of old that they remember. Things that they hold true to:
-# The Hoard will have its due.
-# Do not flaunt evidence of one’s gender before the eyes of outsiders.
-# He who slays a dwarf will be repaid sevenfold.
-# He who saves the life of a dwarf will be repaid sevenfold.
-# When away from one’s home, a dwarf must carry a sharp axe and wear a stout helm.
-# Do not destroy what could be of use.
-# Do not sleep without one’s back to the ground.
-# Do not disagree with another dwarf before the eyes of outsiders.
-# Do not break one’s sworn word.
-# Relieve silver from those fools who cannot keep it.
+1. The Hoard will have its due.
+2. Do not flaunt evidence of one’s gender before the eyes of outsiders.
+3. He who slays a dwarf will be repaid sevenfold.
+4. He who saves the life of a dwarf will be repaid sevenfold.
+5. When away from one’s home, a dwarf must carry a sharp axe and wear a stout helm.
+6. Do not destroy what could be of use.
+7. Do not sleep without one’s back to the ground.
+8. Do not disagree with another dwarf before the eyes of outsiders.
+9. Do not break one’s sworn word.
+10. Relieve silver from those fools who cannot keep it.
 At least most of the time. When it’s convenient.
 
 Presumably other dwarves also hold these things true.

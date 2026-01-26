@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Supendar
 ---
-#REDIRECT[Supendar](/wiki/supendar/)
+# REDIRECT[Supendar](/wiki/supendar/)
 

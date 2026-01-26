@@ -13,7 +13,7 @@ media: []
 is_redirect: true
 redirect_to: The Cross
 ---
-#REDIRECT[02.11](/wiki/02-11/)
+# REDIRECT[02.11](/wiki/02-11/)
 
 
 

@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Pacharia
 ---
-#REDIRECT [Pacharia](/wiki/pacharia/)
+# REDIRECT [Pacharia](/wiki/pacharia/)

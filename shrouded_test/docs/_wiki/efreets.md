@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Efreet
 ---
-#REDIRECT[Efreet](/wiki/efreet/)
+# REDIRECT[Efreet](/wiki/efreet/)

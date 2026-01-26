@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Temple Invisible
 ---
-#REDIRECT[Temple Invisible](/wiki/temple-invisible/)
+# REDIRECT[Temple Invisible](/wiki/temple-invisible/)

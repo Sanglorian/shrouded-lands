@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Grey oozes
 ---
-#REDIRECT[Grey oozes](/wiki/grey-oozes/)
+# REDIRECT[Grey oozes](/wiki/grey-oozes/)

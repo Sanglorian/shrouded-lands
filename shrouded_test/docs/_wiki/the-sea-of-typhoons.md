@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sea of Typhoons
 ---
-#REDIRECT[Sea of Typhoons](/wiki/sea-of-typhoons/)
+# REDIRECT[Sea of Typhoons](/wiki/sea-of-typhoons/)

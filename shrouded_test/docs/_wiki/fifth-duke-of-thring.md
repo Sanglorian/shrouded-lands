@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Fifth duke of Thring
 ---
-#REDIRECT [Fifth duke of Thring](/wiki/fifth-duke-of-thring-4094/)
+# REDIRECT [Fifth duke of Thring](/wiki/fifth-duke-of-thring-4094/)

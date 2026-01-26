@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Hinterlands of Blind Midshotgatepool
 ---
-#REDIRECT[Hinterlands of Blind Midshotgatepool](/wiki/hinterlands-of-blind-midshotgatepool/)
+# REDIRECT[Hinterlands of Blind Midshotgatepool](/wiki/hinterlands-of-blind-midshotgatepool/)
 

@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Cornfields
 ---
-#REDIRECT [Corn Fields](/wiki/cornfields/)
+# REDIRECT [Corn Fields](/wiki/cornfields/)

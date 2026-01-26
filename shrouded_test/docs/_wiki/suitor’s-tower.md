@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Iraine the Suitor
 ---
-#REDIRECT[Iraine](/wiki/iraine-the-suitor/)
+# REDIRECT[Iraine](/wiki/iraine-the-suitor/)

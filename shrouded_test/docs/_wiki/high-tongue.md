@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Mud Tongue and High Tongue
 ---
-#REDIRECT[Mud Tongue and High Tongue](/wiki/mud-tongue-and-high-tongue/)
+# REDIRECT[Mud Tongue and High Tongue](/wiki/mud-tongue-and-high-tongue/)

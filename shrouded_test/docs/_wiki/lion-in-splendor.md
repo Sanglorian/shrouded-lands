@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: King in Splendor
 ---
-#REDIRECT[King in Splendor](/wiki/king-in-splendor/)
+# REDIRECT[King in Splendor](/wiki/king-in-splendor/)
 

@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Fastnesses
 ---
-#REDIRECT[Fastnesses](/wiki/fastnesses/)
+# REDIRECT[Fastnesses](/wiki/fastnesses/)

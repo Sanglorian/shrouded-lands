@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Metallic dragons
 ---
-#REDIRECT[Metallic dragons](/wiki/metallic-dragons/)
+# REDIRECT[Metallic dragons](/wiki/metallic-dragons/)

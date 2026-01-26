@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Fiends
 ---
-#REDIRECT[Fiends](/wiki/fiends/)
+# REDIRECT[Fiends](/wiki/fiends/)
 
 

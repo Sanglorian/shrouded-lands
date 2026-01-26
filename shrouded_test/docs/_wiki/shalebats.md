@@ -12,7 +12,7 @@ media: []
 is_redirect: true
 redirect_to: Lufwood
 ---
-#REDIRECT [Lufwood](/wiki/lufwood/)
+# REDIRECT [Lufwood](/wiki/lufwood/)
 
 
 

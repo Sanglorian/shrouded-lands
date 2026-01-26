@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Zhuriman
 ---
-#REDIRECT[Zhuriman](/wiki/zhuriman/)
+# REDIRECT[Zhuriman](/wiki/zhuriman/)

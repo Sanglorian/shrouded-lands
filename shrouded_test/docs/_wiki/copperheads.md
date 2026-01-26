@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Copperhairs
 ---
-#REDIRECT[Copperhairs](/wiki/copperhairs/)
+# REDIRECT[Copperhairs](/wiki/copperhairs/)
 

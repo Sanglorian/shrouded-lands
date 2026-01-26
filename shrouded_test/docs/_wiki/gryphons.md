@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Griffins
 ---
-#REDIRECT[Griffins](/wiki/griffins/)
+# REDIRECT[Griffins](/wiki/griffins/)
 

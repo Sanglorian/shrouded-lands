@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Deep dwarves
 ---
-#REDIRECT [Deep dwarves](/wiki/deep-dwarves/)
+# REDIRECT [Deep dwarves](/wiki/deep-dwarves/)

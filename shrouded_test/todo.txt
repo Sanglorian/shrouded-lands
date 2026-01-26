@@ -16,19 +16,37 @@ Generate -01 hex svgs.
 
 --
 
+Hex 19.31 doesn't capture pages with Category: Jahur because that's only an alias. 
+List aliases in page metadata, then extend category to page-name or alias match. 
+
+--
+
+hex summaries in the regions could be extracted for those hexes, stored in metadata
+
+--
+
+Add labels to world map
+Add Kingswood boundary
+Add World's Edge boundary
+
+--
+
+A lot of pages have dodgy formatting.
+
+--
+
 Remove redundant hex lines, e.g. 
 
 --
 
-A few different bullets:
-* * Text
-Should be an indented bullet.
+Numbered lists: 
+# x
+# x 
+# x doesn't work.
 
-* *Cuckoos **refers 
-Should be **Cuckoos** refers
-
-* *![](/media/Bengs.jpg)Type:** [Elementals](/wiki/elementals/)
-Should be ![](/media/Bengs.jpg)**Type:** [Elementals](/wiki/elementals/)
+Needs to be 
+1. 
+2. etc
 
 --
 

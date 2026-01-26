@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: '22.02'
 ---
-#REDIRECT[22.02](/wiki/22-02/)
+# REDIRECT[22.02](/wiki/22-02/)
 
 

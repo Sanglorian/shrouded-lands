@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Traitors' Pit
 ---
-#REDIRECT [Traitors' Pit](/wiki/traitors'-pit/)
+# REDIRECT [Traitors' Pit](/wiki/traitors'-pit/)
 

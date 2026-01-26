@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Song of Ban and Ulena
 ---
-#REDIRECT [Song of Ban and Ulena](/wiki/song-of-ban-and-ulena/)
+# REDIRECT [Song of Ban and Ulena](/wiki/song-of-ban-and-ulena/)

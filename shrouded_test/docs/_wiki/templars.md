@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Canes Sanguis
 ---
-#REDIRECT[Canes Sanguis](/wiki/canes-sanguis/)
+# REDIRECT[Canes Sanguis](/wiki/canes-sanguis/)
 

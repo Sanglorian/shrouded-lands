@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Prince of Men
 ---
-#REDIRECT [Prince of Men](/wiki/prince-of-men/)
+# REDIRECT [Prince of Men](/wiki/prince-of-men/)

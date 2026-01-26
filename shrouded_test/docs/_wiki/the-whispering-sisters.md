@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Whispering Sisters
 ---
-#REDIRECT[Whispering Sisters](/wiki/whispering-sisters/)
+# REDIRECT[Whispering Sisters](/wiki/whispering-sisters/)

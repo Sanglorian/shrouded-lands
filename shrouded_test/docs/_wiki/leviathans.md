@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Whales
 ---
-#REDIRECT[Whales](/wiki/whales/)
+# REDIRECT[Whales](/wiki/whales/)

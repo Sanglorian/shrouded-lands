@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Flea
 ---
-#REDIRECT[Flea](/wiki/flea/)
+# REDIRECT[Flea](/wiki/flea/)
 

@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Ishin Kaimanu
 ---
-#REDIRECT[Ishin Kaimanu](/wiki/ishin-kaimanu/)
+# REDIRECT[Ishin Kaimanu](/wiki/ishin-kaimanu/)

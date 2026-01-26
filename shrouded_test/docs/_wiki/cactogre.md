@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Grandfather Cactus
 ---
-#REDIRECT[Grandfather Cactus](/wiki/grandfather-cactus/)
+# REDIRECT[Grandfather Cactus](/wiki/grandfather-cactus/)
 

@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Bound Bargainers
 ---
-#REDIRECT [Bound Bargainers](/wiki/bound-bargainers/)
+# REDIRECT [Bound Bargainers](/wiki/bound-bargainers/)

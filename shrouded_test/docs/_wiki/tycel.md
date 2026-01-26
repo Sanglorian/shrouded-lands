@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sir Waine
 ---
-#REDIRECT[Sir Waine](/wiki/sir-waine/)
+# REDIRECT[Sir Waine](/wiki/sir-waine/)

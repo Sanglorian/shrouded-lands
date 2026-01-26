@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Forests of Fancy
 ---
-#REDIRECT[Forests of Fancy](/wiki/forests-of-fancy/)
+# REDIRECT[Forests of Fancy](/wiki/forests-of-fancy/)

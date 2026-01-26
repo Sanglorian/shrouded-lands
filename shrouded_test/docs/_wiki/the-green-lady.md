@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Green Lady
 ---
-#REDIRECT [Green Lady](/wiki/green-lady/)
+# REDIRECT [Green Lady](/wiki/green-lady/)

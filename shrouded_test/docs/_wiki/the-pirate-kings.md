@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Pirate Kings
 ---
-#REDIRECT[Pirate Kings](/wiki/pirate-kings/)
+# REDIRECT[Pirate Kings](/wiki/pirate-kings/)
 

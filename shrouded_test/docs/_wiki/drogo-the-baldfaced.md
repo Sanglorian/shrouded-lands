@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Drogo
 ---
-#REDIRECT[Drogo](/wiki/drogo/)
+# REDIRECT[Drogo](/wiki/drogo/)
 

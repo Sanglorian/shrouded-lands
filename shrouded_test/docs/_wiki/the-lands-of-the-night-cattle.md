@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Lands of the Night Cattle
 ---
-#REDIRECT [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)
+# REDIRECT [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/)

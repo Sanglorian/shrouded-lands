@@ -13,7 +13,7 @@ media: []
 is_redirect: true
 redirect_to: '03.13'
 ---
-#REDIRECT[03.13](/wiki/03-13/)
+# REDIRECT[03.13](/wiki/03-13/)
 
 
 

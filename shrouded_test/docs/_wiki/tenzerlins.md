@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Tenzerlins and Ghostas
 ---
-#REDIRECT[Tenzerlins and Ghostas](/wiki/tenzerlins-and-ghostas/)
+# REDIRECT[Tenzerlins and Ghostas](/wiki/tenzerlins-and-ghostas/)
 
 

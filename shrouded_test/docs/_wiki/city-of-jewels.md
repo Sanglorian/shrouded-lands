@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Jahur
 ---
-#REDIRECT[Jahur](/wiki/jahur/)
+# REDIRECT[Jahur](/wiki/jahur/)
 

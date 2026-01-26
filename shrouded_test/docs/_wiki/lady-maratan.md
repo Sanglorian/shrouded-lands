@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Lady Natala
 ---
-#REDIRECT[Lady Natala](/wiki/lady-natala/)
+# REDIRECT[Lady Natala](/wiki/lady-natala/)

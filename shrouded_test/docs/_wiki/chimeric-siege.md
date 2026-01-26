@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Chimerical Siege
 ---
-#REDIRECT [Chimerical Siege](/wiki/chimerical-siege/)
+# REDIRECT [Chimerical Siege](/wiki/chimerical-siege/)

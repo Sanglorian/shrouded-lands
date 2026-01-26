@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Lizardmen
 ---
-#REDIRECT[Lizardmen](/wiki/lizardmen/)
+# REDIRECT[Lizardmen](/wiki/lizardmen/)
 

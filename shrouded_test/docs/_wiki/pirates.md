@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Thieves
 ---
-#REDIRECT[Thieves](/wiki/thieves/)
+# REDIRECT[Thieves](/wiki/thieves/)

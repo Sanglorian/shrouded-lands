@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Unifying Theory of Blood
 ---
-#REDIRECT[Unifying Theory of Blood](/wiki/unifying-theory-of-blood/)
+# REDIRECT[Unifying Theory of Blood](/wiki/unifying-theory-of-blood/)

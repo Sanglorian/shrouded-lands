@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Devil's Fingers
 ---
-#REDIRECT [Devil's Fingers](/wiki/devil's-fingers/)
+# REDIRECT [Devil's Fingers](/wiki/devil's-fingers/)

@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Hills of Gore
 ---
-#REDIRECT[The Lands of Gore](/wiki/hills-of-gore/)
+# REDIRECT[The Lands of Gore](/wiki/hills-of-gore/)
 

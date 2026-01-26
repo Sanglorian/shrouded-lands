@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Stern Way
 ---
-#REDIRECT [Stern Way](/wiki/stern-way/)
+# REDIRECT [Stern Way](/wiki/stern-way/)

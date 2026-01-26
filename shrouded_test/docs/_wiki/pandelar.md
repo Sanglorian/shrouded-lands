@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: The Weeper
 ---
-#REDIRECT[The Weeper](/wiki/the-weeper/)
+# REDIRECT[The Weeper](/wiki/the-weeper/)
 

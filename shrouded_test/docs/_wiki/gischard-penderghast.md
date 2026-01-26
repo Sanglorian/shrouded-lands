@@ -12,7 +12,7 @@ media: []
 is_redirect: true
 redirect_to: Penderghasts
 ---
-#REDIRECT [The Penderghasts](/wiki/penderghasts/)
+# REDIRECT [The Penderghasts](/wiki/penderghasts/)
 
 
 

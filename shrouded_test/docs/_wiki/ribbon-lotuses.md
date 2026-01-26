@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Wild men
 ---
-#REDIRECT[Wild men](/wiki/wild-men/)
+# REDIRECT[Wild men](/wiki/wild-men/)
 
 

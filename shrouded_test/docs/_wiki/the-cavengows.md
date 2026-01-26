@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Halflings#Cloud halflings
 ---
-#REDIRECT [Halflings#Cloud halflings](/wiki/halflings/)
+# REDIRECT [Halflings#Cloud halflings](/wiki/halflings/)

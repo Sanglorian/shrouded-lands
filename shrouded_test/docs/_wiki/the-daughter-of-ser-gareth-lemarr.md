@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Daughter of Ser Gareth Lemarr
 ---
-#REDIRECT [Daughter of Ser Gareth Lemarr](/wiki/daughter-of-ser-gareth-lemarr/)
+# REDIRECT [Daughter of Ser Gareth Lemarr](/wiki/daughter-of-ser-gareth-lemarr/)

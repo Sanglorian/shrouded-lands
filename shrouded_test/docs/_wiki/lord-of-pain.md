@@ -10,5 +10,5 @@ media: []
 is_redirect: true
 redirect_to: Alberon
 ---
-#REDIRECT[Alberon](/wiki/alberon/)
+# REDIRECT[Alberon](/wiki/alberon/)
 

@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Shadow Ballet
 ---
-#REDIRECT[Shadow Ballet](/wiki/shadow-ballet/)
+# REDIRECT[Shadow Ballet](/wiki/shadow-ballet/)

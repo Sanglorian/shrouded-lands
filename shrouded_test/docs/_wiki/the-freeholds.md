@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Freeholds
 ---
-#REDIRECT [Freeholds](/wiki/freeholds/)
+# REDIRECT [Freeholds](/wiki/freeholds/)

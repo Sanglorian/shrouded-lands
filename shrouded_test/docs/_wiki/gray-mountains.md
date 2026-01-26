@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Grey Mountains
 ---
-#REDIRECT[Grey Mountains](/wiki/grey-mountains/)
+# REDIRECT[Grey Mountains](/wiki/grey-mountains/)

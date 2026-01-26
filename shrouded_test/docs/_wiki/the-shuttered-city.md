@@ -11,5 +11,5 @@ media: []
 is_redirect: true
 redirect_to: City of Shuttered Windows
 ---
-#REDIRECT[29.14](/wiki/29-14/)
+# REDIRECT[29.14](/wiki/29-14/)
 

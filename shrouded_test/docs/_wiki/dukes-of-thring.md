@@ -10,4 +10,4 @@ media: []
 is_redirect: true
 redirect_to: Ducal family of Thring
 ---
-#REDIRECT[Ducal family of Thring](/wiki/ducal-family-of-thring/)
+# REDIRECT[Ducal family of Thring](/wiki/ducal-family-of-thring/)

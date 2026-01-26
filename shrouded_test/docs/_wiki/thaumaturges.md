@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Wizards
 ---
-#REDIRECT[Wizards](/wiki/wizards/)
+# REDIRECT[Wizards](/wiki/wizards/)

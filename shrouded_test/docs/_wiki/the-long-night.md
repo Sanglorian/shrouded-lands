@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Long Night
 ---
-#REDIRECT [Long Night](/wiki/long-night/)
+# REDIRECT [Long Night](/wiki/long-night/)

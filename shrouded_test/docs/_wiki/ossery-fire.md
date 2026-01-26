@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: The Osseries#Ashberries and Ossery Fire
 ---
-#REDIRECT [The Osseries#Ashberries and Ossery Fire](/wiki/osseries/)
+# REDIRECT [The Osseries#Ashberries and Ossery Fire](/wiki/osseries/)
 
 

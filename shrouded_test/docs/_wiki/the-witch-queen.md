@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Witch Queen
 ---
-#REDIRECT [Witch Queen](/wiki/witch-queen/)
+# REDIRECT [Witch Queen](/wiki/witch-queen/)

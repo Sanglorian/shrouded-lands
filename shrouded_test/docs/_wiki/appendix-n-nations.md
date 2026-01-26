@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Nations
 ---
-#REDIRECT [Nations](/wiki/nations/)
+# REDIRECT [Nations](/wiki/nations/)

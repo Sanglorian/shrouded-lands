@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Dead Tiamat
 ---
-#REDIRECT[Dead Tiamat](/wiki/dead-tiamat/)
+# REDIRECT[Dead Tiamat](/wiki/dead-tiamat/)

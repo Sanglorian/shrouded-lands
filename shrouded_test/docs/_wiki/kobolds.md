@@ -35,25 +35,25 @@ Dragons react variously to their accidental offspring. Some file them away in th
 
 ## Kobold names
 As everyone knows, kobolds are the things that dragons have forgotten and so they name themselves. If you want to randomly generate the meanings of kobold names translated from dragonic consult the follow table:
-# The memory of burning cows
-# The memory of soaring through broken towers
-# The memory of a flamingo hitting the left wing
-# The memory of dropping a tree on a sister
-# The memory of fangs gleaming in reflected starlight
-# The memory of rolling on new gold
-# The memory of the difficult to reach itch
-# The memory of a terrified elephant
-# The memory of afternoon napping
-# The memory of the tops of a thousand clouds
-# The memory of water steaming with blood
-# The memory of a child begging for his father 
-# The memory of being awakened by a bear
-# The memory of kicking boulders off a cliff
-# The memory of an egg's first crack
-# The memory of the wind shrieking during a dive
-# The memory of worshipful monkeys 
-# The memory of the sound a burning troll makes
-# The memory of stomping on trees for no readily apparent reason
+1. The memory of burning cows
+2. The memory of soaring through broken towers
+3. The memory of a flamingo hitting the left wing
+4. The memory of dropping a tree on a sister
+5. The memory of fangs gleaming in reflected starlight
+6. The memory of rolling on new gold
+7. The memory of the difficult to reach itch
+8. The memory of a terrified elephant
+9. The memory of afternoon napping
+10. The memory of the tops of a thousand clouds
+11. The memory of water steaming with blood
+12. The memory of a child begging for his father
+13. The memory of being awakened by a bear
+14. The memory of kicking boulders off a cliff
+15. The memory of an egg's first crack
+16. The memory of the wind shrieking during a dive
+17. The memory of worshipful monkeys
+18. The memory of the sound a burning troll makes
+19. The memory of stomping on trees for no readily apparent reason
 
 
 

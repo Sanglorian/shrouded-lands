@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Plants
 ---
-#REDIRECT [Plants](/wiki/plants/)
+# REDIRECT [Plants](/wiki/plants/)

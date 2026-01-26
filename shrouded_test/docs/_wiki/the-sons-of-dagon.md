@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Abyss Diamonds
 ---
-#REDIRECT [Sons of Dagon](/wiki/sons-of-dagon/)
+# REDIRECT [Sons of Dagon](/wiki/sons-of-dagon/)

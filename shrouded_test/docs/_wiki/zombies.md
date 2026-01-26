@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Sack children
 ---
-#REDIRECT[Sack children](/wiki/sack-children/)
+# REDIRECT[Sack children](/wiki/sack-children/)

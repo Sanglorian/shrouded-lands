@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Were-Barnabi
 ---
-#REDIRECT[Were-Barnabi](/wiki/were-barnabi/)
+# REDIRECT[Were-Barnabi](/wiki/were-barnabi/)

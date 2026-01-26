@@ -9,4 +9,4 @@ media: []
 is_redirect: true
 redirect_to: Dead men's tongues
 ---
-#REDIRECT[Dead men's tongues](/wiki/dead-men's-tongues-3065/)
+# REDIRECT[Dead men's tongues](/wiki/dead-men's-tongues-3065/)

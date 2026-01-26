@@ -11,6 +11,6 @@ media: []
 is_redirect: true
 redirect_to: Abyss Diamonds
 ---
-#REDIRECT[Abyss Diamonds](/wiki/abyss-diamonds/)
+# REDIRECT[Abyss Diamonds](/wiki/abyss-diamonds/)
 
 
