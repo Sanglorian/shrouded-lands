@@ -12,7 +12,7 @@ media: []
 is_redirect: true
 redirect_to: '05.04'
 ---
-#REDIRECT[05.04](/wiki/05-04/)
+Proprietor of the Glass River Winery ([05.04](/wiki/05-04/))
 
 
 

@@ -1,11 +1,5 @@
 aliases:
-  '01.03': everdark
   '0520': '05.20'
-  '06.10': the-ziggurat
-  '09.24': olgam-and-oskill
-  '16.14': '18.14'
-  '29.14': city-of-shuttered-windows
-  '43.12': monatheron
   '48.32': golden-light
   '48.33': golden-light
   '49.32': golden-light
@@ -39,9 +33,10 @@ aliases:
   chimera: lars
   chimeric siege: chimerical-siege
   city of jewels: '19.31'
-  city of many windows: city-of-shuttered-windows
+  city of many windows: '29.14'
+  city of shuttered windows: '29.14'
   city of smoke: '51.29'
-  city of the shuttered windows: city-of-shuttered-windows
+  city of the shuttered windows: '29.14'
   clan battle beard: ishin-kaimanu
   clan hagen: '22.02'
   cloud and storm giants: pirate-kings
@@ -77,6 +72,7 @@ aliases:
   elwen: '08.01'
   ettins: ettiennes
   ever-winding worms: ever-winding-worm
+  everdark: '01.03'
   father dorek: '03.07'
   felix koldranson: flea
   fey-realm: land-of-fairy
@@ -136,6 +132,7 @@ aliases:
   nordanbjorn: marche-of-the-winterjarl
   north gate: north-gate-and-south-gate
   oak: oaks
+  olgam and oskill: '09.24'
   othonoi: '44.17'
   paionian centaurs: '04.17'
   palendar: the-weeper
@@ -158,9 +155,9 @@ aliases:
   shadowed ballet dancers: shadow-ballet
   shalebats: lufwood
   shroomwine: shroom-wine
-  shuttered: city-of-shuttered-windows
+  shuttered: '29.14'
   shuttered and surrounds: shuttered-and-surrounds-2785
-  shuttered city: city-of-shuttered-windows
+  shuttered city: '29.14'
   simone’s aviary: simone's-aviary
   sir wayne: sir-waine
   sons of dagon: abyss-diamonds
@@ -188,7 +185,7 @@ aliases:
   the bound bargainers: bound-bargainers
   the brothers of the lion: brothers-of-the-lion
   the browncloaks: browncloaks
-  the city itself: city-of-shuttered-windows
+  the city itself: '29.14'
   the cross: '02.11'
   the corn fields: cornfields
   the cornfields: cornfields
@@ -237,7 +234,7 @@ aliases:
   the queen sinister: queen-sinister
   the scarecrows: scarecrows
   the sea of typhoons: sea-of-typhoons
-  the shuttered city: city-of-shuttered-windows
+  the shuttered city: '29.14'
   the singing wastes: singing-wastes
   the song of ban and ulena: song-of-ban-and-ulena
   the sons of dagon: abyss-diamonds
@@ -264,6 +261,7 @@ aliases:
   thring: duchy-of-thring
   tiamat: dead-tiamat
   traitor's pit: traitors'-pit
+  the ziggurat: '06.10'
   tycel: sir-waine
   ulthar: ducal-family-of-thring
   ulthar the loved: ducal-family-of-thring
@@ -285,3 +283,4 @@ aliases:
   zhuriman empire: zhuriman
   zoar rajak: '11.01'
   zombies: sack-children
+  monatheron: '43.12'

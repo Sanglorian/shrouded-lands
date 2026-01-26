@@ -56,14 +56,7 @@ This list groups redirect pages into two buckets:
 
 | Redirect page | Redirects to |
 | --- | --- |
-| 01.03 | Everdark |
-| 06.10 | The Ziggurat |
-| 09.24 | Olgam and Oskill |
-| 16.14 | 18.14 |
-| 29.14 | City of Shuttered Windows |
-| 43.12 | Monatheron |
 | Aarokocra | Aarakocra |
-| Abdul Zassiz | 05.04 |
 | Aboleths | Aboleth |
 | Appendix A: Astronomy | Phenomena |
 | Appendix C: Creatures | Creatures |
@@ -79,7 +72,6 @@ This list groups redirect pages into two buckets:
 | Barnabi | Were-Barnabi |
 | Baron Pignose | Horvath Pignose |
 | Basilisks | Basilisk |
-| Birds | :Category:Birds |
 | Brigadier Kalas | Brigadier Kalas Montra-brey |
 | Brothers of the Spear | Temple Invisible |
 | Burning Lands | The Burning Lands |
