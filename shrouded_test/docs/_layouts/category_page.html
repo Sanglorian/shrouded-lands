@@ -12,23 +12,6 @@ layout: default
   </div>
 {% endif %}
 
-<h2>Pages in this category</h2>
-
-{% assign cat_full = page.title %}
-{% assign cat_pages = site.wiki
-  | where_exp: "p", "p.categories contains cat_full"
-  | sort_natural: "title" %}
-
-{% if cat_pages.size > 0 %}
-  <ul>
-    {% for p in cat_pages %}
-      {% unless p.is_redirect %}
-        <li>
-          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-{% else %}
-  <p>No pages in this category yet.</p>
-{% endif %}
+{% include category_list.html
+  category_title=page.title
+  category_alias=page.alias %}

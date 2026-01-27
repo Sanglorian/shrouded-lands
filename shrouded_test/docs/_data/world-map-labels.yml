@@ -1,0 +1,69 @@
+- name: Bitter Coast
+  type: region
+  col: 1
+  row: 6
+
+- name: Grey Mountains
+  type: region
+  col: 20
+  row: 1
+
+- name: Freeholds
+  type: region
+  col: 17
+  row: 7
+
+- name: Duchy of Thring
+  type: region
+  col: 17
+  row: 16
+
+- name: Barrier Range
+  type: region
+  col: 24
+  row: 17
+
+- name: Kingswood
+  type: region
+  col: 31
+  row: 7
+
+- name: Keening Sea
+  type: region
+  col: 37
+  row: 18
+
+- name: The Burning Lands
+  type: region
+  col: 40
+  row: 26
+
+- name: World's Edge
+  type: region
+  col: 47
+  row: 7
+
+- name: City of Shuttered Windows
+  type: city
+  col: 29
+  row: 14
+
+- name: Blind Midshotgatepool
+  type: city
+  col: 26
+  row: 20
+
+- name: The Forgotten City-State
+  type: city
+  col: 22
+  row: 25
+
+- name: Bergolast
+  type: city
+  col: 38
+  row: 28
+
+- name: City of Smoke
+  type: city
+  col: 51
+  row: 29

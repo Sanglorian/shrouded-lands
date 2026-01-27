@@ -1,0 +1,38 @@
+{% assign cat_full = include.category_title %}
+{% assign cat_prefixed = "Category:" | append: include.category_title %}
+{% assign alias_value = include.category_alias %}
+{% assign alias_prefixed = "" %}
+{% if alias_value %}
+  {% assign alias_prefixed = "Category:" | append: alias_value %}
+{% endif %}
+{% assign cat_pages = site.wiki
+  | where_exp: "p", "p.categories contains cat_full" %}
+{% assign prefixed_pages = site.wiki
+  | where_exp: "p", "p.categories contains cat_prefixed" %}
+{% assign cat_pages = cat_pages | concat: prefixed_pages | uniq %}
+{% if alias_value %}
+  {% assign alias_pages = site.wiki
+    | where_exp: "p", "p.categories contains alias_value" %}
+  {% assign alias_prefixed_pages = site.wiki
+    | where_exp: "p", "p.categories contains alias_prefixed" %}
+  {% assign cat_pages = cat_pages
+    | concat: alias_pages
+    | concat: alias_prefixed_pages
+    | uniq %}
+{% endif %}
+{% assign cat_pages = cat_pages | sort_natural: "title" %}
+
+{% if cat_pages.size > 0 %}
+  <hr>
+  <h2>Pages in this category</h2>
+
+  <ul>
+    {% for p in cat_pages %}
+      {% unless p.is_redirect %}
+        <li>
+          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+{% endif %}
