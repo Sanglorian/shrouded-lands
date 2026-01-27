@@ -9,7 +9,7 @@ categories:
   - "Victuals"
 media: []
 ---
-Salt from [beyond the World's Edge](/wiki/the-world's-edge-and-beyond/) makes people more docile and obedient ([44.03](/wiki/44-03/)), which Cleramon has taken advantage of ([46.02](/wiki/46-02/))
+Salt from [beyond the World's Edge](/wiki/world's-edge-and-beyond/) makes people more docile and obedient ([44.03](/wiki/44-03/)), which Cleramon has taken advantage of ([46.02](/wiki/46-02/))
 
 Salt from The Least Ocean robs people of their passions ([12.29](/wiki/12-29/)).
 

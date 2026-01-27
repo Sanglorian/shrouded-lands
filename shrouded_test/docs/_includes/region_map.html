@@ -5,8 +5,8 @@
 
 {%- assign region_hexes = site.wiki
   | where_exp: "item", "item.categories contains 'Hex'"
-  | where_exp: "item", "item.region == region_name or item.categories contains region_name"
 -%}
+
 
 {%- if region_hexes.size > 0 -%}
   {%- assign min_col = nil -%}
@@ -15,6 +15,9 @@
   {%- assign max_row = nil -%}
 
   {%- for hex in region_hexes -%}
+    {%- unless hex.region == region_name or hex.categories contains region_name -%}
+      {%- continue -%}
+    {%- endunless -%}
     {%- assign parts = hex.title | split: "." -%}
     {%- assign col = parts[0] | plus: 0 -%}
     {%- assign row = parts[1] | plus: 0 -%}
