@@ -13,6 +13,7 @@ OUT_DIR = ROOT / "assets" / "hexes"
 TERRAIN_CSV = ROOT / "terrain.csv"
 POI_CSV = ROOT / "poi.csv"
 LINEWORK_YAML = ROOT / "_data" / "hex-lines.yml"
+HEX_TERRAIN_YAML = ROOT / "_data" / "hex-terrain.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -315,6 +316,22 @@ def load_hex_linework():
             )
     return linework
 
+
+def load_hex_terrain_map():
+    if not HEX_TERRAIN_YAML.exists():
+        return {}
+    data = yaml.safe_load(HEX_TERRAIN_YAML.read_text(encoding="utf-8")) or {}
+    entries = data.get("entries") or []
+    terrain_map = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        hex_code = (entry.get("hex") or "").strip()
+        terrain = (entry.get("terrain") or "").strip()
+        if hex_code and terrain:
+            terrain_map[hex_code] = terrain
+    return terrain_map
+
 # === HEX GEOMETRY ===
 
 def flat_hex_vertices(cx, cy, r):
@@ -342,9 +359,11 @@ def make_svg(
     code: str,
     has_page: bool,
     fill_color: str,
+    fill_opacity: Optional[float],
     symbol: Optional[str],
     symbol_color: Optional[str],
     symbol_two: Optional[str],
+    symbol_opacity: Optional[float],
     poi_symbol: Optional[str],
     poi_color: Optional[str],
     linework: list[dict],
@@ -376,6 +395,7 @@ def make_svg(
         link_open = ""
         link_close = ""
 
+    symbol_opacity_attr = f' fill-opacity="{symbol_opacity:.2f}"' if symbol_opacity is not None else ""
     symbol_markup = ""
     if symbol or symbol_two:
         base_size = 24
@@ -386,11 +406,11 @@ def make_svg(
             symbol_markup = (
                 f'<text x="{cx - offset:.1f}" y="{cy + offset:.1f}" text-anchor="middle" '
                 f'dominant-baseline="middle" font-size="{base_size}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
                 f'{primary_symbol}</text>'
                 f'<text x="{cx + offset:.1f}" y="{cy - offset:.1f}" text-anchor="middle" '
                 f'dominant-baseline="middle" font-size="{base_size * 2 / 3:.1f}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
                 f'{secondary_symbol}</text>'
             )
         else:
@@ -398,7 +418,7 @@ def make_svg(
             symbol_markup = (
                 f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
                 f'dominant-baseline="middle" font-size="{base_size}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}">'
+                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
                 f'{symbol_text}</text>'
             )
     poi_markup = ""
@@ -463,11 +483,12 @@ def make_svg(
 
     label_y = height - 6.0
     label_markup = render_segment_text(code, cx, label_y, 8.5, "#222222")
+    fill_opacity_attr = f' fill-opacity="{fill_opacity:.2f}"' if fill_opacity is not None else ""
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
-    <polygon points="{points}" fill="{fill_color}" stroke="{stroke}" stroke-width="2"/>
+    <polygon points="{points}" fill="{fill_color}"{fill_opacity_attr} stroke="{stroke}" stroke-width="2"/>
     {symbol_markup}
     {linework_markup}
     {poi_markup}
@@ -484,6 +505,7 @@ def main():
     terrain_overrides = load_terrain_overrides()
     poi_symbols = load_poi_symbols()
     hex_linework = load_hex_linework()
+    hex_terrain_map = load_hex_terrain_map()
     print(f"Found {len(hex_meta)} existing hex pages.")
 
     for x in range(52):     # 00–51
@@ -497,11 +519,14 @@ def main():
                 terrain = meta.get("terrain")
                 poi_name = (meta.get("poi") or "").strip() if isinstance(meta.get("poi"), str) else ""
                 override = terrain_overrides.get(terrain)
+                use_terrain_fallback = False
             else:
                 has_page = False
                 fill_color = "#eeeeee"
                 poi_name = ""
-                override = None
+                terrain = hex_terrain_map.get(code)
+                override = terrain_overrides.get(terrain) if terrain else None
+                use_terrain_fallback = bool(terrain)
 
             if override:
                 fill_color = f"#{override['hex_color']}" if override["hex_color"] else fill_color
@@ -512,6 +537,8 @@ def main():
                 symbol = None
                 symbol_two = None
                 symbol_color = None
+            fill_opacity = 0.5 if use_terrain_fallback else None
+            symbol_opacity = 0.5 if use_terrain_fallback else None
             poi_entry = poi_symbols.get(poi_name) if poi_name else None
             poi_symbol = poi_entry.get("symbol") if poi_entry else None
             poi_color = poi_entry.get("color") if poi_entry else None
@@ -521,9 +548,11 @@ def main():
                 code,
                 has_page,
                 fill_color,
+                fill_opacity,
                 symbol,
                 symbol_color,
                 symbol_two,
+                symbol_opacity,
                 poi_symbol,
                 poi_color,
                 linework,
