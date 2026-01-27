@@ -1,0 +1,23 @@
+# Terrain entries for hexes without their own wiki pages.
+# Use the same terrain names as terrain.csv/front matter.
+entries:
+  - hex: "33.03"
+    terrain: "lone-tree"
+  - hex: "34.03"
+    terrain: "lone-tree"
+  - hex: "35.03"
+    terrain: "lone-tree"
+  - hex: "36.03"
+    terrain: "lone-tree"
+  - hex: "37.02"
+    terrain: "lone-tree"
+  - hex: "38.03"
+    terrain: "lone-tree"
+  - hex: "39.03"
+    terrain: "lone-tree"
+  - hex: "39.04"
+    terrain: "lone-tree"
+  - hex: "40.05"
+    terrain: "lone-tree"
+  - hex: "40.07"
+    terrain: "lone-tree"
