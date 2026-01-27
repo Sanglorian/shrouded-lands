@@ -3,7 +3,10 @@
   {%- assign region_name = page.title -%}
 {%- endif -%}
 
-{%- assign region_hexes = site.wiki | where: "region", region_name -%}
+{%- assign region_hexes = site.wiki
+  | where_exp: "item", "item.categories contains 'Hex'"
+  | where_exp: "item", "item.region == region_name or item.categories contains region_name"
+-%}
 
 {%- if region_hexes.size > 0 -%}
   {%- assign min_col = nil -%}
