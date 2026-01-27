@@ -16,13 +16,7 @@ Connects to: [20.10](/wiki/20-10/) and [23.16](/wiki/23-16/).
 
 The hinterlands of Blind Midshotgatepool are few and cramped, lying as they do between the mountains, the sea and the desert.
 ### Hex summary:
-* [25.18](/wiki/25-18/) (The Glutinous Mudplain): the mud’s corpse fusing properties are of great interest to necromancers.
-* [25.19](/wiki/25-19/) (The Pit of the Waker Worms): they remain sleeping as long as they are buried under running water.
-* [26.19](/wiki/26-19/) (Yrump Marsh): if the bullywogs were to be evicted lucrative spices could be harvested here.
-* [26.20](/wiki/26-20/) (The August City of Blind Midshotgatepool): a town riven by division and mad bureaucracy.
-* [27.18](/wiki/27-18/) (The Fanged Cliffs): the mating dance of flying snakes is quite a sight to see to keep your distance.
-* [27.19](/wiki/27-19/) (The Drowned Temple): due to ancient compact the pews must always be full, which it now lying completely under water makes somewhat difficult.
-* [28.21](/wiki/28-21/) (The Angler): a unique and hungry mermaid.
+{% include region_hex_summaries.html %}
 
 ### Connection:
 * During the war with the City of Shuttered Windows, the [Witch Queen](/wiki/witch-queen/) prevented the knights of Thring from coming to Blind Midshotgatepool’s aid ([23.16](/wiki/23-16/)).

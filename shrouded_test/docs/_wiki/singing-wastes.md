@@ -17,27 +17,6 @@ The Singing Wastes hold many secrets. Somewhere in this badland, [Grandfather Ca
 
 The [Tantalus Mountains](/wiki/categorythe-tantalus-mountains/), the [Scent Barrier](/wiki/scent-barrier/), and the Jeweled City, [Jahur](/wiki/jahur/), lie in the east. Jahur’s jewel-laden caravans still cross the [Burning Lands](/wiki/the-burning-lands/). The trade brings wealth to its Viceroys even as the city slides into drug addiction, heresy and [cephalopedic influence](/wiki/octoids/). Despite its decadence, Jahur remains the Shrouded Lands' greatest seaport, and ships from faraway lands moor in its harbor. [Janissaries](/wiki/janissaries/), constructs that are relics of an imperial past, defend the city with zeal. A wise, mysterious concubine named [Isane the Beauty](/wiki/isane-the-beauty/) enchants and enlightens those who seek her counsel.
 ## Hex summary:
-* [08.27](/wiki/08-27/) (Zaal, the Sleeping City): the home of elven exiles. Handsome men are hauled up its basalt walls on ropes of elven hair and are never seen to leave.
-* [09.29](/wiki/09-29/) (The Dune Walker): a mysterious wanderer ages those he kisses.
-* [11.28](/wiki/11-28/) (The Ghoul-Haunted Ruins): A morbidly obese ghoul presides over a ruined city populated with ghouls and hyenas.
-* [11.32](/wiki/11-32/) (Skeleton of a Great Bird, Sunken in Sand): an enormous avian skeleton and a hermit who makes it his home.
-* [11.27](/wiki/11-27/) (The Mound of Yend): this huge boulder is of obscure origin, and toxic to plant life.
-* [12.28](/wiki/12-28/) (The Breath of the Earth): a great sinkhole in which the vulture creatures called Nekh congregate.
-* [12.29](/wiki/12-29/) (The Least Ocean): this remnant of a prehistoric ocean contains salt that kills passion.
-* [13.28](/wiki/13-28/) (The Red-Stained Altar): a broken idol to the Bergolasti god of wine provides a safe haven from monstrous [Yends](/wiki/yends/).
-* [13.30](/wiki/13-30/) (The Tomb of the Giggling Ghoul): the home of a ghoul who is now kept in a gilded cage in Jahur.
-* [14.23](/wiki/14-23/) (The Colossal Wreck): the crash site of a giant balloon is patrolled by flesh golems.
-* [14.27](/wiki/14-27/) (Ogo Tassak, the Temple of the Hunt): above ancient ruins, gnolls and vulture men perform rites to bring game to these wasted lands.
-* [15.28](/wiki/15-28/) (Abbalah-doon, Village of Outcasts): the gnolls are this village are using more welcoming than those of the Burning Lands.
-* [17.30](/wiki/17-30/) (Cradle of Fire Centipedes): the home of the fire centipedes that have been weaponized by the men of Jahur.
-* [18.28](/wiki/18-28/) (Canyon of the Cactogre): Grandfather Cactus is not pleased with the theft of his nymph.
-* [19.30](/wiki/19-30/) (The Spire of Idjit): a living storm has been chained to a tower here.
-* [19.31](/wiki/19-31/) (Jahur, City of Jewels): an ancient city, well past its peak, but still one of the greatest centers of humanity in these lands.
-* [20.23](/wiki/20-23/) (Abyss of the Prism Crabs): not all diamonds are mined; some are plucked from the backs of abyssal crabs by madmen driving lobster-like apparatuses.
-* [21.27](/wiki/21-27/) (The Dismal Mine): the duergar that live here are humorless, but what is one to expect from dwarves for whom alcohol is poisonous?
-* [21.29](/wiki/21-29/) (The Scent Barrier): a network of geysers that form a pungent deterrent to gnolls from the east.
-* [23.32](/wiki/23-32/) (Kraken's Beak Isles): the home of the octopi’s whose Cephalopedic Emperor once conquered Jahur.
-* [25.31](/wiki/25-31/) (Pilgrim’s Spire): the mountain home of monks that learn how to spet through shadows when not trying to get themselves petrified.
-* [26.33](/wiki/26-33/) (Bucket Kelp Forest): once of the few things that can bring people to enjoy accordion music is this synesthesia-inducing narcotic.
+{% include region_hex_summaries.html %}
 
 

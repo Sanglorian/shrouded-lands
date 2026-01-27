@@ -38,6 +38,8 @@ The rugged dwarves that undertake these duties bring their wagons out of Titan�
 Barca Enmordet ([49.03](/wiki/49-03/)) is one example.
 
 ## Hex Summary
+{% include region_hex_summaries.html %}
+
 **[42.07](/wiki/42-07/) (The West Reach):** one of the easier placed to climb down the World’s Edge.
 **[43.08](/wiki/43-08/) (The Weeper’s Tower):** the wisest of elven sages lives here at the top of a mile-high waterfall.
 **[44.03](/wiki/44-03/) (The Fallsalt Mines):** something is going wrong in this remote salt mine.

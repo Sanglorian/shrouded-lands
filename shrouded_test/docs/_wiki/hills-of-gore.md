@@ -19,6 +19,8 @@ After the Tarrasque broke free of the city that had been built around it and lai
 Now year by year the wilderness encroaches on what has become a land of lurking monsters, dread warriors that hold court in mist-shrouded halls and ruins of better days. The closest thing to justice that can be found in these lands is in the hands of Lady Natala and her snickersnees, though more than one man dreams of reclaimed the ancient rusted crown of Gore.
 
 ## Hex Summary
+{% include region_hex_summaries.html %}
+
 **The Castle of the Collector ([02.22](/wiki/02-22/)): **his collection of seventy-nine Tarrasque skulls is especially impressive.
 **The Temple of the Dead God ([03.13](/wiki/03-13/)): **dead Tiamat lies dead but that is not always an insurmountable obstacle for a goddess.
 **Castle Ravenscraig ([03.19](/wiki/03-19/)): **the ruins of what was once Gore’s principal seaport.

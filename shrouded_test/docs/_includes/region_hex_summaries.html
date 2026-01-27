@@ -1,0 +1,8 @@
+{% assign region_hexes = site.wiki
+  | where_exp: "item", "item.categories contains page.title"
+  | sort: "title" %}
+{% for hex in region_hexes %}
+{% if hex.summary %}
+* [{{ hex.title }}]({{ hex.url | relative_url }}){% if hex.subtitle %} ({{ hex.subtitle }}){% endif %}: {{ hex.summary }}
+{% endif %}
+{% endfor %}

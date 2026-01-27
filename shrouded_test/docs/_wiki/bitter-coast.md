@@ -24,6 +24,8 @@ All sailors know that it is foolish to drink sea water. This is nowhere the case
 * -Why does this effect happen?
 
 ## Hex Summary
+{% include region_hex_summaries.html %}
+
 [00.02](/wiki/00-02/) (The Pirate Kings): are giants on cloud-top fortresses.
 
 [00.06](/wiki/00-06/) (The Ocean of Bitter Regrets): drinking its water brings to mind one’s most bitter memories. It also has a giant were-shark in it.

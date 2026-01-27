@@ -16,6 +16,8 @@ Connects to: [16.16.05](/wiki/16-16/), [17.18](/wiki/17-18/) and [17.21](/wiki/1
 The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Burning Lands and, while it is not as hot as that land, it is home to little but brush, ruins, scorpions and gnomes. These desert gnomes are the reason for much of the Devil’s Fingers’ fearsome reputation for they have concocted a thousand and one terrifying illusions to keep sinful strangers as far away from their homes as possible.
 
 ## Hex Summary
+{% include region_hex_summaries.html %}
+
 [13.24](/wiki/13-24/) (The Nameless Mountain): Old Black slumbers here, but perhaps not for long.
 [15.24](/wiki/15-24/) (The Grotto of Uriza the Solemn): it is not wise to gaze too deeply into the sins of ones neighbors.
 

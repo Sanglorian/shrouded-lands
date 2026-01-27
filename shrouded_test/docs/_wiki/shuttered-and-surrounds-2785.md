@@ -18,21 +18,7 @@ The greatest city of the Shrouded Lands is certainly the City of Shuttered Windo
 
 Although sadly reduced, the Shuttered City is still the greatest power in these Shrouded Lands and holds sway over the sodden northern coast of the Keening Sea and much of the trade that passes through these lands. The lands where men still pay the cattle tithe to the Doge of the City include the vast estates of the City’s nobility, villages that lie in the shadows of hills where the peasants look darkly at any outsider who passes through and the Falling Wall of the cyclops lords. Through it all winds the White Road, a highway paved with the ground bones of all within the City who are too poor to buy a tomb and watched over by the castrati of the Necromantic Office lest it rise.
 ### Hex Summary:
-* [26.13](/wiki/26-13/) (The White Road, The Wailing Road): the bone dust that the White Road is paved of does not always rest quietly.
-* [27.12](/wiki/27-12/) (The Mind Chambers of the Infidel): an ancient prison of nightmares from which kobolds once emerged.
-* [28.11](/wiki/28-11/) (Goss Hall): Lord Goss is a famous hunting who does more with his prizes than just mount them on the wall.
-* [29.13](/wiki/29-13/) (The White Road): those too poor to be entombed have their bones ground down to the dust that is used to pave this road.
-* [29.14](/wiki/29-14/) (The City Itself): the great City of Shuttered Windows that reaches up to the sky and sinks down into the mud.
-* [29.15](/wiki/29-15/) (The Gardens of the Sea): the bellies o the City must be filled so people have taken to farming the sea.
-* [30.12](/wiki/30-12/) (The Estate of Count Seutorian): the august Count never sets foot on the ground but people from throughout these lands come to him.
-* [30.15](/wiki/30-15/) (The Wedding Band): this great band of strange metal allows no magic to pass, so of course it is used as a gladiatorial arena.
-* [31.15](/wiki/31-15/) (The Spawning Grounds of the Stirges): a stirge never takes only blood, it can take poisons, memories and even unborn children.
-* [32.12](/wiki/32-12/) (The Sanatorium of the Damned): a cursed place where those who are infected by the courting death are kept.
-* [33.16](/wiki/33-16/) (The Isle of Dolyeades, the Sacred Grove): the home to the sacred cows that play an important role in the election of the City’s doges.
-* [36.11](/wiki/36-11/) (Traxa Wood): an exiled noble family suffering from the curse of lycanthropy.
-* [39.12](/wiki/39-12/) (The Lost Folio): the strange dungeon where the famed poet Trimueil lost his greatest manuscript.
-* [39.14](/wiki/39-14/) (Veerhaven and Hostwick): two remote villages known for their elfskin drums and strange bloated radishes.
-* [43.12](/wiki/43-12/) (The Falling Walls of Monatheron): the only cyclops city left in these lands.
+{% include region_hex_summaries.html %}
 
 ### Connections:
 * One of the Heget's healthier sons looks eerily similar to old paintings of the Doge of the City ([46.15](/wiki/46-15/)).
