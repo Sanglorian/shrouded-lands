@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ducal_family_of_Thring"
 categories:
   - "Characters"
   - "Families"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ## Members
@@ -18,6 +18,5 @@ media: []
 * [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), the fifth Duke
 * [Duke of Thring (incumbent)](/wiki/duke-of-thring-(incumbent)/)
 * [Princess Elandra](/wiki/princess-elandra/), daughter of the incumbent Duke of Thring and heir to the throne
-
 
 

@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Severard"
 categories:
   - "Humans"
-  - "The Freeholds"
+  - "Freeholds"
   - "Wizards"
 media: []
 ---
@@ -39,6 +39,5 @@ Severard's Town is the name for the village that grew up around the tower occupi
 * Severard’s magical signature can be found on the [Cauldron of Galovain](/wiki/cauldron-of-galovain/) ([48.32](/wiki/48-32/).01).
 * It seems that reports of Severard’s death may have been somewhat exaggerated ([13.09](/wiki/13-09/)).
 * Why was he called Severard “of the Seven Circles?” What circles?
-
 
 

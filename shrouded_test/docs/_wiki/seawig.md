@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Seawig"
 categories:
   - "Daztur"
   - "Plants"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The traditional duties of a wife in the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) are onerous indeed. Among these is the requirement to memorize the taboos set forth by the [Matriarch](/wiki/matriarch/) and ensure that their households are in compliance with them. The larger a household a woman maintains the more difficult this becomes, which is perhaps part of the reason why the [Doge](/wiki/blind-doge/) has two wives.
@@ -25,6 +25,5 @@ At first attempts were made punish seawigged women for attempting to shirk their
 * Who are some seawigged women? Who has an especially pungent wig?
 * Is there any way to remove a seawig?
 * Any good tragedies involving seawig? Perhaps a man assassinated by being married to woman who he didn't know bore a seawig or a woman being kept from marrying her lover by having a seawig forced upon her?
-
 
 

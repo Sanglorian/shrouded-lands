@@ -8,11 +8,10 @@ categories:
   - "Fungi"
   - "Hobgoblins"
   - "Plants"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 Come in several colours. Each has different effects when prepared as [shroom wine](/wiki/shroom-wine/).
-
 
 
 

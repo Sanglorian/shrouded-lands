@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tenzerlins_and_Ghostas"
 categories:
   - "Families"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Houses of Tenzerlin and Ghosta
@@ -36,5 +36,4 @@ Each family owns a ship that sails the Keening Sea between Shuttered and [Blind 
 * Where have Pina and Jast fled to?
 * How did Esmen survive in the Kingswood, and who trained her to become a druidess?
 * What is a seawig and why do eligible young ladies want it?
-
 

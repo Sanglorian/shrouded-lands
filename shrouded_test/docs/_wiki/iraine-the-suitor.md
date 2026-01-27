@@ -8,8 +8,8 @@ categories:
   - "Alberon"
   - "Buildings"
   - "Characters"
-  - "Mages"
-  - "The Shuttered City"
+  - "Wizards"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-suit.png)Hex [29.14.40](/wiki/29-14/)
@@ -33,7 +33,6 @@ Iraine the Suitor has not yet won the hand of a god but she is confident that he
 * What exactly is she trying to do to win Alberon's hand?
 * What interesting stuff in her tower?
 * What are those spider-legged thingies?
-
 
 
 

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Princess_Elandra"
 categories:
   - "Characters"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 **Affiliation:** Heir of [Thring](/wiki/duchy-of-thring/)<br />
@@ -56,5 +56,4 @@ The Sparrow Knight claims to have answered the mystery of the Haunted Statue ([1
 * What is the woman Lemarr's first name?
 * Where do the feather tokens come from? Is the Sparrow Knight truly associated with Sir Waine?
 * Does the Sparrow Knight truly have an explanation for the Haunted Statue?
-
 

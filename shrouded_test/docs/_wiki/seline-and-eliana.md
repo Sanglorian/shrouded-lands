@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Seline_and_Eliana"
 categories:
   - "Characters"
   - "Doges"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Wives of the Doge
@@ -38,6 +38,5 @@ Thus, while it is Eliana who speaks about organizing a company of female warrior
 * What other paranoid whisperings is Celine engaged in?
 * Have either of the twins had children by the blind Doge?
 * Was the priest's ruling that the twins share one soul true? What temple law is he basing that interpretation on?
-
 
 

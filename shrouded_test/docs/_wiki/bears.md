@@ -9,9 +9,9 @@ categories:
   - "Animals"
   - "Bears"
   - "Lycanthropes"
-  - "Nordanbjorn"
-  - "The Duchy of Thring"
-  - "The Grey Mountains"
+  - "Marche of the Winterjarl"
+  - "Duchy of Thring"
+  - "Grey Mountains"
 media: []
 ---
 ## Types
@@ -35,7 +35,6 @@ media: []
 * Some [Scarecrow](/wiki/scarecrows/) nests are build in abandoned bear's dens.
 * The king of Hound's Hearth, [Hjalk](/wiki/hjalk/), has an ailing fire-breathing bear, [Snalfi](/wiki/snalfi/).
 * A patch of land against the south wall of the [Shuttered City](/wiki/city-of-shuttered-windows/) belongs to the [Grumluda embassy](/wiki/embassies-shuttered/) since the unfortunate incident of Doge Montisse and the twenty-six shaven cave bears
-
 
 
 

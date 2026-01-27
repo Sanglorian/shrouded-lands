@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Sealed_Library"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-seal.jpg)Connects to: [01.03](/wiki/01-03/), [17.07.02](/wiki/17-07/), [17.17.05](/wiki/17-17/), [27.18.01](/wiki/27-18/), [29.14.12](/wiki/29-14/), [29.14.14](/wiki/29-14/), [29.14.24](/wiki/29-14/), [29.14.29](/wiki/29-14/) and [29.14.48](/wiki/29-14/).
@@ -43,5 +43,4 @@ This is, of course, by no means a comprehensive list, and yet even stranger and 
 * How did the Temple Indivisible come to posses these books, or for that matter, the Library itself? The mithril alone must be worth a fortune!
 * Why does the Temple preserve these books, rather than destroy them?
 * Has anyone ever attempted to break into the Library? And more importantly, has anyone ever succeeded?
-
 

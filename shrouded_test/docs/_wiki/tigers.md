@@ -11,7 +11,7 @@ categories:
   - "Creatures"
   - "Imperium Undying"
   - "Jahur"
-  - "The Devil's Fingers"
+  - "Devil's Fingers"
 media: []
 ---
 ![Edward Julius Detmold](/media/Edward_Julius_Detmold50.jpg)
@@ -37,7 +37,6 @@ A man, haggard and worn, arrived at the [Gushing Ruby](/wiki/gushing-ruby/) last
 * What if someone else slays the shadow?
 * Do Gorean Greys have a death curse?
 * Tell me more about these other breeds of tiger.
-
 
 
 

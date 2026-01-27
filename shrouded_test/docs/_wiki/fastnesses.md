@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fastnesses"
 categories:
   - "Dwarves"
-  - "The Grey Mountains"
+  - "Grey Mountains"
 media: []
 ---
 One thousand years ago, when the race of [dwarves](/wiki/dwarves/) was at its zenith, the dictators of the dwarves ordered five great **dwarf fortresses** or **fastnesses** to be built across the [Grey Mountains](/wiki/grey-mountains/), to keep the passes from being overrun by invaders.
@@ -23,5 +23,4 @@ The fortresses, since they were built by orcs in collaboration with the dwarves,
 * ? (finished, manned, didn’t survive first seige)
 * Hoth Achaar/First to Be Returned (finished, manned, survived first seige, in orcish hands today) ([26.01](/wiki/26-01/))
 * Titan’s Skull (finished, manned, survived first seige, in dwarven hands today) ([33.00](/wiki/33-00/))
-
 

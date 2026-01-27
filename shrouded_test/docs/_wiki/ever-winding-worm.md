@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ever-winding_worm"
 categories:
   - "Creatures"
   - "Spells"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Worms"
 media: []
 ---
@@ -25,7 +25,6 @@ The Necromantic Office never announces its verdicts or gives the accused any cha
 * Is there any oversight to make sure that the Office doesn’t worm the wrong person?
 * What laws does the Office enforce?
 * Does Baron Herenghast suffer from a worm or just poor diet?
-
 
 
 

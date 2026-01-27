@@ -10,7 +10,7 @@ categories:
   - "Cats"
   - "Creatures"
   - "Lions"
-  - "The King in Splendour"
+  - "King in Splendor"
 media: []
 ---
 ![John Johnston](/media/Johnston_De_Quadrupedibus_Loewe.jpg)
@@ -28,7 +28,6 @@ media: []
 * [Saklas](/wiki/saklas/) resemble lions sketched in the air by cords of fire. They can be tamed by blind lion priests.
 * [Draco-lions](/wiki/draco-lions/) are mentioned in the [Book of Not Being Boiled in Fire](/wiki/book-of-not-being-boiled-in-fire/)
 * An [alka-lion](/wiki/alka-lions/) lives near the Temple of the Hunt ([14.27](/wiki/14-27/))
-
 
 
 

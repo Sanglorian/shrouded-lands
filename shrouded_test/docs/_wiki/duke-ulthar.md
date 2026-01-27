@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Duke_Ulthar"
 categories:
   - "Characters"
   - "Ducal family of Thring"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ## Duke Ulthar the Loved
@@ -29,6 +29,5 @@ The bards tell many stories of Ulthar the Loved, but none more often than the on
 ## Hooks
 * Why was Ulthar called the “Loved?”
 * What role does the Green Lady play in **Thring**? What is the importance of her shawl?
-
 
 

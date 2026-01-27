@@ -7,9 +7,8 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/River_of_Crystal_Waters"
 categories:
   - "Bodies of water"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 Runs through these hexes.
-
 

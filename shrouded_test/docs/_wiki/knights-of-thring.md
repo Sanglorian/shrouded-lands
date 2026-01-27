@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Knights_of_Thring"
 categories:
   - "Knights"
   - "Professions"
-  - "Thring"
+  - "Duchy of Thring"
 media: []
 ---
 :See also [Knights](/wiki/knights/)
@@ -30,6 +30,5 @@ Sons are knighted and sent off to make a name for themselves. Knights of Thring 
 * The [Sparrow Knight](/wiki/sparrow-knight/) is an unusual knight.
 * The Lady of Karandur ([13.17](/wiki/13-17/)) is supposedly descended from a knight of Thring and a bear.
 * [Broderick](/wiki/broderick/) was a wild knight.
-
 
 

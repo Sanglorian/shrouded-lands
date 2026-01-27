@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_of_Thring_(incumbent)"
 categories:
   - "Characters"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 :**Duke of Thring** redirects here. For former dukes of Thring, see [ducal family of Thring](/wiki/ducal-family-of-thring/).![](/media/Lancelot_and_Hellawes.jpg)
@@ -31,5 +31,4 @@ media: []
 * A bastard son of the current Duke lives at Castle Maratan *([07.17](/wiki/07-17/))*. His mother seeks to win **Thring** for him.
 * The previous Duke had his knight gather talking frogs from the Kingswood for use in some sorcery *([40.06](/wiki/40-06/))*.
 * [Grant Birl](/wiki/grant-birl/) claims to have once been married to the Duke's current wife, making him the true ruler of Thring. Birl is suing [the Collector](/wiki/the-collector/) on behalf of Thring in [Thring v Jack Donne](/wiki/thring-v-jack-donne/).
-
 

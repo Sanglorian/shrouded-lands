@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grey_Mountains"
 categories:
   - "Regions"
-  - "The Grey Mountains"
+  - "Grey Mountains"
 media: []
 ---
 !['High Pass in Misty Mountains', Neral (CC BY 3.0 Unported)](/media/Cirith_forn_en_andrath.jpg)
@@ -44,5 +44,4 @@ Due to ancient magic, in the Shrouded Lands it rains but once a year ([29.14.36]
 * [37.01](/wiki/37-01/) (Mirror Lake): the temple-girded lake where the Prince of Men sleeps.
 * [39.00](/wiki/39-00/) (The Long Prayer): The priests have prophesized that their god will be reborn as a dwarf-child to parents who have never touched iron.
 * [46.00](/wiki/46-00/) (The Maw): a great canyon in which winds from beyond the World’s Edge howl.
-
 

@@ -9,9 +9,9 @@ categories:
   - "Monks"
   - "Priests"
   - "Religious groups"
-  - "The Duchy of Thring"
-  - "The Lands of Gore"
-  - "Werewolves"
+  - "Duchy of Thring"
+  - "Hills of Gore"
+  - "Lycanthropes"
 media: []
 ---
 ## Werewolf Nuns of St. Birgit
@@ -26,7 +26,6 @@ On full moons, a pack of habit-clad werewolves stalk these hills, seeking blood.
 * What became of the werewolf knight and his lover?
 * Are the nuns still world-class healers, or have they descended completely into savagery?
 * What treasures lie in the dungeons beneath the abbey?
-
 
 
 

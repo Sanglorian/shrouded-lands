@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Creche_of_a_Million_Young"
 categories:
   - "Religious groups"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-creche.jpg)Connects to: [04.31](/wiki/04-31/), [08.03](/wiki/08-03/), [13.08](/wiki/13-08/), [29.14.11](/wiki/29-14/) and [29.14.37](/wiki/29-14/).
@@ -31,5 +31,4 @@ To his most dedicated followers, the High Priest speaks of the final researches 
 * Just what were Severard's final researches? What is the High Priest of the Creche of a Million Young planning to do?
 * Who is the High Priest anyway? Dormond? Ogwyn? Severard's lich? Someone else?
 * What other practices does this strange bug cult have?
-
 

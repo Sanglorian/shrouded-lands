@@ -8,7 +8,7 @@ categories:
   - "Deities"
   - "Religious groups"
   - "She Who Waits"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Klimt_-_Die_feindlichen_Gewalten.jpeg)Connects to: [25.04.01](/wiki/25-04/), [25.15](/wiki/25-15/), [29.01](/wiki/29-01/), [29.14.08](/wiki/29-14/), [29.14.39](/wiki/29-14/), [29.14.40](/wiki/29-14/), [33.00](/wiki/33-00/), [32.22](/wiki/32-22/), [40.06](/wiki/40-06/) and the Lands of the Night Cattle.
@@ -37,7 +37,6 @@ Due to the failure of the Sisterhood's many enemies to root them out, some say t
 * Where is the bottomless pit where the sacrifice takes place? Is it really under the Hoard's Vault? Why would the dwarves protect them?
 * What prophecies have been handed down by She Who Waits?
 * Where are Alberon and the Green Lady now? Are they a tangible presence in the setting, or merely figures of myth?
-
 
 
 

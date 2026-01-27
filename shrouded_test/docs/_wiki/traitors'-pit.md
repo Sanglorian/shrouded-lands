@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Traitors%27_Pit"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Traitors' Pit
@@ -30,5 +30,4 @@ If examined, they will appear to be exact duplicates (right down to several mino
 * Who replaces the rubies once a "traitor" succeeds in taking a pair? Why bother?
 * Why are the rubies exactly the same? Have the idols reacted in any way to having their ruby eyes pried out? Is there a third pair in/taken from the Temple of Seven Shadows ([37.01](/wiki/37-01/))?
 * Do these pairs of rubies have any special properties?
-
 

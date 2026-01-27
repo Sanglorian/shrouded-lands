@@ -7,10 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Cat_trees"
 categories:
   - "Cats"
   - "Plants"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 Only one cat tree has been mentioned so far; it grows at [34.05](/wiki/34-05/) and produces [winged cats](/wiki/winged-cats/).
-
 
 

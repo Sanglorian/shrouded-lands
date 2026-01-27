@@ -8,7 +8,7 @@ categories:
   - "Blind Midshotgatepool"
   - "Characters"
   - "Creatures"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Medusa
@@ -31,7 +31,6 @@ This is rather painful for the new host.
 * Why is the Tower Savage (the Shuttered base inside of Blind Midshotgatepool) made out of petrified bodies?
 * How fresh do dead bodies have to be to be petrified? Why?![](/media/SL9.png)
 * Who was girl before she got the medusa parasite stuck on her head? How long is she likely to live?
-
 
 
 

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Witch-hounds"
 categories:
   - "Creatures"
-  - "The Barrier Range"
+  - "Barrier Range"
 media: []
 ---
 They spawn in The Fen of the Witch-Hounds ([22.16](/wiki/22-16/))![https://commons.wikimedia.org/wiki/File:Bold_Rabit_2.jpg](/media/Bold_Rabit_2.jpg)
@@ -29,5 +29,4 @@ Lately, witch-hounds have been seen skulking around Mazy Hollow ([25.14](/wiki/2
 * How did Laughing Milo discover the hounds' secret? How did he die?
 * What defenses do locals have against the hounds?
 * How could a witch-hound be exposed to sunlight? Does it have to be true sunlight, or can an adventurer "cheat"?
-
 

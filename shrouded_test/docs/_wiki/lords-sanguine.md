@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lords_Sanguine"
 categories:
   - "Characters"
   - "Lords Sanguine"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 * [The Collector](/wiki/the-collector/) (The Castle of the Collector)
@@ -71,6 +71,5 @@ Speak nothing of blood.<br />
 * What effect do these superstitutions have on the Lords’ behaviour?
 * What encourages the Lords to follow these suiperstitutions?
 * Why would drinking the Tarrasque of Bergolast’s blood transmit Bergo superstitions?
-
 
 

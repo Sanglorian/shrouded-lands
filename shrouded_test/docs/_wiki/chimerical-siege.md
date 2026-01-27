@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Chimalia"
   - "Conflicts"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Haywain_Right_Wing_of_the_triptych_WGA.jpg)Following [Alberon's slaying of Tiamat](/wiki/death-of-tiamat/), it is widely accepted that [Chimalia](/wiki/chimalia/) (mother and sister of [Tiamat](/wiki/dead-tiamat/)) sent her creations -- the [gryphons](/wiki/griffins/), the [minotaurs](/wiki/minotaurs/), the [manticores](/wiki/manticores/), [owlbears](/wiki/owlbears/), and other [chimeric creatures](/wiki/chimerics/) -- to lay siege against the [City of Many Windows](/wiki/city-of-shuttered-windows/). And so, the [Windows were Shuttered](/wiki/windows-(shuttered)/), and travel across the once well-trodden (and numerous) [fairy roads](/wiki/fairy-roads/) leading to the City became impassible.
@@ -27,7 +27,6 @@ Even the [embassies](/wiki/embassies-shuttered/) remain and are staffed, despite
 * Can the Windows ever be reopened? Is the priesthood trying?
 * Why isn't Chimalia ravaging the orcs for subjugating her minotaurs ([18.02](/wiki/18-02/))? Is she incapable, or is there another reason?
 * Where are Tiamat's other four heads?
-
 
 
 

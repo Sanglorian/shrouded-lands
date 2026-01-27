@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/North_Gate_and_South_Gate"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1513](/media/MauriceDay3.jpg)[The City's walls](/wiki/city-walls-(shuttered)/) are broken by the North or South Gates, which are massive stone doors which swing open and closed noiselessly with shocking ease. When closed, they are bolted with bars of iron as thick as a man's arm. The North Gate is opened only during the day, and is where the vast majority of traffic enters the City.
@@ -24,5 +24,4 @@ Finally, any elf who wishes to enter the City must use this Gate, so that they m
 #### Hooks:
 * What happens if regular cows are used in a ritual that requires Night Cattle?
 * What precipitated the Great Divorce?
-
 

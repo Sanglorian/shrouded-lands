@@ -9,7 +9,7 @@ categories:
   - "Green Lady"
   - "Plants"
   - "Scarecrows"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 [Elves](/wiki/elves/) hate and fear hawthorn, and they hate and fear the dryads of that shrub even more. Unique among the [dryads](/wiki/dryads/), [hawthorn dryads](/wiki/hawthorn-dryads/) can chop down their shrub and fashion it into a still-living but functional item.
@@ -32,7 +32,6 @@ Human worshippers of the [Green Lady](/wiki/green-lady/) often depict her with a
 * [Scarecrow](/wiki/scarecrows/) nests in the [Kingswood](/wiki/kingswood/) each have a single entrance marked with a hawthorn rod. Elves will not pass the rod, though they try to cause strife for those inside in other ways.
 * Giant talking [beavers](/wiki/beavers/) often plant hawthorn, which seems to keep elves at bay ([39.08](/wiki/39-08/).01).
 * When the [Pacharia](/wiki/pacharia/) discovered [Alberon](/wiki/alberon/) had disguised his identity to learn [witchcraft](/wiki/witches/) from them, they hung him from a hawthorn tree and the Green Lady would not or could not cut him down (see [eleven recognised forms](/wiki/eleven-recognised-forms/)).
-
 
 
 

@@ -7,8 +7,8 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lisbet"
 categories:
   - "Characters"
-  - "The Freeholds"
-  - "The Kingswood"
+  - "Freeholds"
+  - "Kingswood"
 media: []
 ---
 The mockingbird of the Kingswood ([25.07](/wiki/25-07/)) occasionally calls out a sentence relating to Lisbet.
@@ -95,6 +95,5 @@ and with it all she had loved in her life.
 Oh fair Lisbet died not, but all the town burned
 
 and with it all she had loved in her life.
-
 
 

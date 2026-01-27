@@ -7,9 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Simone%27s_Aviary"
 categories:
   - "Buildings"
   - "Customs"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "The Moon"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Simone’s Aviary
@@ -28,7 +28,6 @@ Like any migrants in a big city, these Barrier Range families are keen to preser
 * What does the [Temple](/wiki/temple-indivisible/) think of same-sex marriage?
 * What strange birds can be found in the aviary?
 * Where would you see a penguin?
-
 
 
 

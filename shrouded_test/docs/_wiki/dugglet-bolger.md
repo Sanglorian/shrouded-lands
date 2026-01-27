@@ -8,7 +8,7 @@ categories:
   - "Bolgers"
   - "Characters"
   - "Halflings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The [drums of the dwarves](/wiki/dwarves/) penetrated so deep that they still have not left the head of Dugglet Bolger (of [The Bolgers](/wiki/bolgers/), and occasionally they echo through his fingers and throat in the form of compositions.
@@ -27,7 +27,6 @@ Dugglet lives now in the Shuttered City, in the desperate hope that its hustle a
 * Who is the escaped slave?
 * Does the escaped slave have a patron?
 * What will Dugglet do if he finds out that his pieces are performed?
-
 
 
 

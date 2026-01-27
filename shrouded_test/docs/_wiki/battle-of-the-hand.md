@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Battle_of_the_Hand"
 categories:
   - "Customs"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ### The Swamp of Champions
@@ -27,5 +27,4 @@ Poor folk hang about in this swamp when a duel is taking place, hoping for a cha
 * What exactly where the strange predilections of the first Duke?
 * What have the poor folk of the swamp scavenged off corpses? Any family heirlooms of special importance?
 * Who has fought in the Battle of the Hand? Did they win, or lose?
-
 

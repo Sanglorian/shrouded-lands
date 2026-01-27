@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Great_Temple_of_Alberon"
 categories:
   - "Alberon"
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 :See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
@@ -15,6 +15,5 @@ In some dark vault beneath the Great Temple of Alberon, there is stored the [Boo
 
 ## Connections
 * There is a [Central Cathedral](/wiki/central-cathedral/) in the City. It is not clear what the relationship between these two buildings is, or whether they are the same building.
-
 
 

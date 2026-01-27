@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Street_of_Small_Gods"
 categories:
   - "Buildings"
   - "Deities"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Schiele_-_Waldandacht_-_1915.jpg)Connects to: [24.18](/wiki/24-18/), [29.14.09](/wiki/29-14/), [29.14.28](/wiki/29-14/) and [36.09](/wiki/36-09/).
@@ -30,6 +30,5 @@ There is also food and entertainment to be had here: plays and musical performan
 * What services do the handmaidens and princes offer?
 * What mystery cults operate in the City?
 * What radical messages are preached here?
-
 
 

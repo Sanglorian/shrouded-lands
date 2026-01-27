@@ -8,13 +8,12 @@ categories:
   - "Alberon"
   - "Maladies"
   - "Organisationss"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Egon_Schiele_081.jpg)The Dead Men are people suffering from the [Courting Death](/wiki/courting-death/) who are sent on covert missions (often suicide missions) by the [Temple Indivisible](/wiki/temple-indivisible/). (See [Courting Death](/wiki/courting-death/) for more details).
 
 [Death's Lovelies](/wiki/death's-lovelies/) are a band of Dead Men who defected.
-
 
 
 

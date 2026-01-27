@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Thring_v_Jack_Donne"
 categories:
   - "Birls"
   - "Lords Sanguine"
-  - "The Duchy of Thring"
-  - "The Shuttered City"
+  - "Duchy of Thring"
+  - "City of Shuttered Windows"
   - "Witch Clans"
 media: []
 ---
@@ -26,7 +26,6 @@ Birl wants the Collector apprehended and the skulls returned.
 * Is the allegation true? Does it matter?
 * Does the Collector care?
 * Who else can sue and be sued under Shuttered’s universal jurisdiction?
-
 
 
 

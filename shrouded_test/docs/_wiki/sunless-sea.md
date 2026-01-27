@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sunless_Sea"
 categories:
   - "Bodies of water"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 ![http://commons.wikimedia.org/wiki/File:NC_Wyeth_the_Indian_in_His_Solitude_2.png](/media/NCWyeth19.png)
@@ -34,5 +34,4 @@ This location is mentioned in a strange journal which discusses why it rains but
 * What are the properties of the salt of the Sunless Sea?
 * How did the whale make it down to the Sunless Sea in the first place?
 * What do the aboleths make of the whale?![Bit Blot - http://www.bit-blot.com/aquaria/ (CC BY-SA 3.0 Unported)](/media/Aquaria_-_Nautilus_Prime.jpg)
-
 

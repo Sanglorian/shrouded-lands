@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Brothers_of_the_Lion"
 categories:
   - "Organisationss"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 Every time [the Duke](/wiki/ducal-family-of-thring/) must replace a member the Brothers of the Lion, his elite entourage, he arranges a highly-exclusive tournament. He selects no more than five knights deemed worthiest in the land and brings them to the desolate hilltop called **The Hill of Fist and Fang** ([17.21](/wiki/17-21/)). He invokes a long-held pact between **Thring** and the lion prides of the **Devil's Fingers**, which summons the land's mightiest lions to the hill within a fortnight. The candidates must muzzle and mount the beast that they challenge. According to the terms of the pact, they may be armored, but wield no weapons.
@@ -23,5 +23,4 @@ The knight with the greatest prowess receives the lion he subdued as well as the
 * Who are some current Brothers of the Lion?
 * How do the lions get along with other mounts?
 * When did the last death in this long tradition occur? What happened?
-
 

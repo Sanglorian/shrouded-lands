@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Buildings"
   - "Deities"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -34,7 +34,6 @@ Of the nine one is [Asrigh](/wiki/asrigh/), an ancient wind deity and another is
 * Who is crazy enough to try to break into the prison? What are they after?
 * Who made that prophesy?
 * Whose lore has Naideen uncovered? How?
-
 
 
 

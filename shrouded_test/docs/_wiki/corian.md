@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Corian"
 categories:
   - "Osseries"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Corian
@@ -33,5 +33,4 @@ Corian is currently in [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/)
 * Marren is a wizard of [Jahur](/wiki/jahur/). Her familiar, seemingly a raven, is actually an ifrit trapped in animal form.
 * Phelps is a thief who has stolen something from the [Doge](/wiki/doge/) and needs to get out of town while the goods are hot.
 * Warrid is a citizen of [Ninbolm](/wiki/05-24/) and a practicing illusionist.
-
 

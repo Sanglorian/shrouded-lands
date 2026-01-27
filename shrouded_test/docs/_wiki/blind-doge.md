@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Blind_Doge"
 categories:
   - "Characters"
   - "Doges"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The blind Doge is the current [doge](/wiki/doges/) of the [Shuttered City](/wiki/city-of-shuttered-windows/). He is married to [Seline and Eliana](/wiki/seline-and-eliana/).
@@ -22,6 +22,5 @@ The Doge is a heavy sleeper and seems unaffected by the watch, but not so his tw
 * What will Celine do if she finds out that the watch is the source of the whispers?
 * How can the jermalaine survive without food or water?
 * Will the Doge ever hear the voice himself?
-
 
 

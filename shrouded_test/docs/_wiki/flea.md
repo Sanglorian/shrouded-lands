@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Flea"
 categories:
   - "Characters"
   - "Koldran"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 ## Flea of the Daggerfeet
@@ -25,6 +25,5 @@ This is when Felix became Flea, just another fallen child of Koldran. Unlike Jot
 * Who are Flea's contacts? How do they communicate?
 * What interesting treasures is Flea hoarding?
 * Money aside, how exactly does Flea plan to become a baron? How does anyone gain a title in the Freeholds?
-
 
 

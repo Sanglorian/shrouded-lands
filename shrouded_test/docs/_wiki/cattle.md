@@ -12,8 +12,8 @@ categories:
   - "Creatures"
   - "Sosaria"
   - "The Burning Lands"
-  - "The Lands of the Night Cattle"
-  - "The Shuttered City"
+  - "Lands of the Night Cattle"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Industry
@@ -52,7 +52,6 @@ media: []
 * [Soothsayers](/wiki/soothsayers/) on the [Street of Small Gods](/wiki/street-of-small-gods/) read frtunes in the entrails of night cattle.
 * Gnoll heart-eating is usually done with aurochs.
 * When the gnollish matriarchs met at the [City of Smoke](/wiki/city-of-smoke/) to decide the next Mother, they burned the dung of a cow poisoned by bleeding berries. Those matriarchs that didn't pass out would agree on the next Mother.  
-
 
 
 

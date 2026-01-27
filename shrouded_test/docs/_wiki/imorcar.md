@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Imorcar"
 categories:
   - "Characters"
-  - "Mages"
+  - "Wizards"
   - "Sosaria"
 media: []
 ---
@@ -21,6 +21,5 @@ The great archmage spends his days puttering through the tunnels and chambers be
 ### Hooks
 * Is anyone else in the Shrouded Lands a clone?
 * What other spells does Imorcar the Many guard? Does he have any apprentices?
-
 
 

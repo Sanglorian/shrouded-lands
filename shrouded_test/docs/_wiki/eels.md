@@ -9,7 +9,7 @@ categories:
   - "Animals"
   - "Eels"
   - "Fish"
-  - "The Keening Sea"
+  - "Keening Sea"
 media: []
 ---
 Eels are found in the shallows of the [Keening Sea](/wiki/keening-sea/), where [Rogdag](/wiki/rogdag/) eats them.
@@ -18,7 +18,6 @@ Eels are found in the shallows of the [Keening Sea](/wiki/keening-sea/), where [
 
 ## See also
 * [Electric eels](/wiki/electric-eels/)
-
 
 
 

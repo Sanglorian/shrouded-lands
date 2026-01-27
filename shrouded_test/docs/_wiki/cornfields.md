@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cornfields"
 categories:
   - "Regions"
-  - "The Cornfields"
+  - "Cornfields"
 media: []
 ---
 ![](/media/Corn.png)
@@ -20,5 +20,4 @@ The Cornfields is a remote region that lies beyond the Duchy of Thring. Little i
 * [03.31](/wiki/03-31/) (The Old Mill): what appear to be regurgitated souls haunt this abandoned mill.
 * [04.30](/wiki/04-30/) (Thorny Gulch): you’ve got to throw people somewhere after you’ve taken all of their teeth.
 * [04.31](/wiki/04-31/) (The Nothing): a cave that is slowly being enlarged by a sentient sphere of annihilation.
-
 

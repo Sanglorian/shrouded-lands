@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hundred_Heresies"
 categories:
   - "Alberon"
   - "Customs"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 Dictated by the [Temple Indivisible](/wiki/temple-indivisible/) of the [Shuttered City](/wiki/city-of-shuttered-windows/), which worships [Alberon](/wiki/alberon/)
@@ -15,6 +15,5 @@ Dictated by the [Temple Indivisible](/wiki/temple-indivisible/) of the [Shuttere
 2. Suggesting that [Shuttered's walls](/wiki/city-walls-(shuttered)/) are stable for any reason other than the fervent prayers of the priesthood
 ## Connections
 * Along the [Street of Small Gods](/wiki/street-of-small-gods/), [handmaidens and princes of Alberon](/wiki/handmaidens-and-princes-of-alberon/) offer 'services' that cleverly avoid violating the Heresies.
-
 
 

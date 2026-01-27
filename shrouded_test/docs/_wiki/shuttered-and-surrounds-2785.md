@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered_and_surrounds"
 categories:
   - "Regions"
   - "Shuttered and Surrounds"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 Includes hexes: [26.13](/wiki/26-13/), [27.12](/wiki/27-12/), [28.11](/wiki/28-11/), [29.13](/wiki/29-13/), [29.14](/wiki/29-14/), [29.15](/wiki/29-15/), [30.12](/wiki/30-12/), [30.15](/wiki/30-15/), [31.15](/wiki/31-15/), [32.12](/wiki/32-12/), [33.16](/wiki/33-16/), [35.13](/wiki/35-13/), [36.11](/wiki/36-11/), [39.12](/wiki/39-12/), [39.14](/wiki/39-14/), [39.23](/wiki/39-23/) and [43.12](/wiki/43-12/).
@@ -51,6 +51,5 @@ Although sadly reduced, the Shuttered City is still the greatest power in these 
 * Several Shuttred dances imitate the graceful movement of the birds of paradise, which is an object of curiousity in the City ([50.11](/wiki/50-11/)).
 * The Borough of Everdark claims to be a neighborhood of the City that has been mislaid ([01.03](/wiki/01-03/)).
 * Loguiso’s Wall was under construction for quite a while in an attempt to safeguard the western borders of the City’s hinterlands but gnomes sunk it into the ground ([27.16](/wiki/27-16/)).
-
 
 

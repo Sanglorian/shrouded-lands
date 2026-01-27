@@ -11,7 +11,7 @@ categories:
   - "Knights"
   - "Paladins"
   - "Professions"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 The term paladin appears to be used both to describe those [Thringish knights](/wiki/knights-of-thring/) who are married to the [Green Lady](/wiki/green-lady/), and serve as a generic term for warrior-priests of a particular god (perhaps with divine power).
@@ -28,7 +28,6 @@ Ulthar the Loved took this savage tradition and turned it into the modern concep
 ### Paladins
 * [Sir Waine](/wiki/sir-waine/) and his squire Tycell.
 * [Sir Hyfres](/wiki/sir-hyfres/)
-
 
 
 

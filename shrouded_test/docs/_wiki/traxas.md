@@ -8,7 +8,7 @@ categories:
   - "Families"
   - "Lycanthropes"
   - "Shuttered and Surrounds"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The large Traxa family, once prominent nobles of Shuttered, eke out rustic lives in Traxa Wood ([36.11](/wiki/36-11/)). Some time ago, a Traxa became a [werewolf](/wiki/lycanthropes/) during a crack-finding expedition in the [Undercity](/wiki/undercity/). Werewolves suffer from the worst type of lychanthropy. While other were-creatures maintain some control of their actions when they change forms, werewolves become berserk monsters during full moons. They kept their secret for several generations, keeping afflicted family members in soundproof dungeons during their transformations. But rivals became intrigued as to why so many Traxas were never seen during full moons, and their secret was revealed.
@@ -25,7 +25,6 @@ While most Traxas are resigned to their fate, the elders who remember Shuttered 
 * Tell me more about Traxa's rivals.
 * With whom are the elder Traxas collaborating?
 * Who owns the Crescendo?
-
 
 
 

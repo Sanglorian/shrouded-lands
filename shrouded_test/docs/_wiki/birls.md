@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Birls"
 categories:
   - "Families"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witch Clans"
 media: []
 ---
@@ -18,6 +18,5 @@ The Birls were a witch clan of the **Barrier Range** that breathed life to their
 ### Hooks
 * Who are some other Birls?
 * Who else uses wooden gargoyles?
-
 
 

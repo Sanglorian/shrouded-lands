@@ -8,7 +8,7 @@ categories:
   - "Characters"
   - "Giants"
   - "Lycanthropes"
-  - "The Bitter Coast"
+  - "Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
@@ -28,7 +28,6 @@ Now he lives only to share his wrath with all he meets, tearing out the hulls of
 * Any other interesting victims (either new weresharks or sunken ships) of the King of Salt and Brine?
 * Would killing the King cure his victims of lycanthropy? Is there any way to cure the King himself?
 * After the King became a wereshark what happened to his floating cloud palace (the one with all the treasure in it)?
-
 
 
 

@@ -10,7 +10,7 @@ categories:
   - "Assassins"
   - "Religious groups"
   - "Sorcerers"
-  - "The King in Splendour"
+  - "King in Splendor"
 media: []
 ---
 A brotherhood ostensibly dedicated to [Alberon](/wiki/alberon/).
@@ -67,7 +67,6 @@ In fact, the most talented and dogmatic children are picked out to rise through 
 ## Hooks
 * What are the Invisibles doing to catch the Whispering Sisters? So far they don't seem to have done a great job of it.
 * How does the Temple Invisible 'guide' the City along the correct path?
-
 
 
 

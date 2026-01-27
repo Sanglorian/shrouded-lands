@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bitter_Coast"
 categories:
   - "Regions"
-  - "The Bitter Coast"
+  - "Bitter Coast"
 media: []
 ---
 ![](/media/Bitter.png)
@@ -54,5 +54,4 @@ All sailors know that it is foolish to drink sea water. This is nowhere the case
 
 [02.11](/wiki/02-11/) (The Cross): this pirate haven is a fractious and tearful place.
 [02.18](/wiki/02-18/) (Nasili’s Arch): this natural arch was once the home of nereid.
-
 

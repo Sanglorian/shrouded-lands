@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Royal_family_of_Gore"
 categories:
   - "Characters"
   - "Families"
-  - "The Duchy of Thring"
-  - "The Lands of Gore"
+  - "Duchy of Thring"
+  - "Hills of Gore"
 media: []
 ---
 ## Extant members
@@ -83,7 +83,6 @@ Or so the mad lady-in-waiting believes.
 * What effect has frequent blood-letting and blood-mingling had on the servants?
 * Is the son really of the jester prince? What would the prince think if he heard of it?
 * Copper hair again. Is there a connection between all these copperheads?  
-
 
 
 

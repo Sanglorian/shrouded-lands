@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lion%27s_Day"
 categories:
   - "Astronomy"
   - "Phenomena"
-  - "The King in Splendour"
+  - "King in Splendor"
 media: []
 ---
 ![](/media/170701.png)Connects to: [22.00](/wiki/22-00/), [28.04](/wiki/28-04/), [29.14.01](/wiki/29-14/) and the City of Shuttered Windows.
@@ -20,6 +20,5 @@ Traditions of the King in Splendor's cult hold that this day is opposed to the u
 ### Connection:
 * The gates of the City of Shuttered Windows are closed during the Lion’s Day ([29.14.01](/wiki/29-14/)).
 * The light that falls on Lion’s Day creates a strange steps and ladder of light in the Vale of Tirandelle ([22.00](/wiki/22-00/)).
-
 
 

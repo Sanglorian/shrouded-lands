@@ -9,7 +9,7 @@ categories:
   - "Characters"
   - "Matriarchs"
   - "Priests"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 : See also [matriarchs](/wiki/matriarchs/)
@@ -28,7 +28,6 @@ The **Matriarch** is the head of the Temple Indivisible and the bride of [Albero
 * The Matriarch banished the [Devil's Bible](/wiki/devil's-bible/) to the Sealed Library.
 * When [Simone the Fowl](/wiki/simone-the-fowl/) was accidentally elected doge, the College of Electors consulted with the Matriarch.
 * The [Sealed Library](/wiki/sealed-library/) is accessible only to the Matriarch and those she chooses.
-
 
 
 

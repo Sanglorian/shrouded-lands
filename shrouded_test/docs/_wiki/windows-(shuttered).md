@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Windows_(Shuttered)"
 categories:
   - "Buildings"
   - "Planes"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -73,7 +73,6 @@ Those few who have ventured down into the levels near the Last Window report tha
 * What is it about the creatures that have come through this window and their works that is to dangerous to human sanity?
 * What is the purpose of the machine they are building?
 * What's wrong with the clouds?
-
 
 
 

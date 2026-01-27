@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Krakens"
 categories:
   - "Creatures"
-  - "The Bitter Coast"
-  - "The Keening Sea"
+  - "Bitter Coast"
+  - "Keening Sea"
   - "Category:The Ocean of Bitter Regrets"
   - "The Singing Wastes"
 media: []
@@ -15,7 +15,6 @@ media: []
 * The Stylites of the Keening Sea ([30.16](/wiki/30-16/)) are constantly harried by krakens.
 * A massive and ancient kraken has found its way into the waters of Broderick's Estuary ([01.08](/wiki/01-08/)), perhaps by mistake, but it now seems to intend to turn these lands into its own personal domain.
 * The [octoids](/wiki/octoids/) live on Kraken's Beak Isle ([23.32](/wiki/23-32/)).
-
 
 
 

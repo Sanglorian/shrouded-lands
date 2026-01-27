@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Elves"
   - "Peoples"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 ![An elf. David Revoy/The Blender Foundation (CC BY 3.0 Unported)](/media/2010-01-portrait_cendrea.png)
@@ -25,7 +25,6 @@ The [quicklings](/wiki/quicklings/) are also an elfish people, though whether th
 Likewise, the [high elves](/wiki/high-elves/) of [Alacoda](/wiki/alacoda/), a distant empire, are of unknown stock.
 ## Seelie Accords
 The elves allowed [The Prince of Men](/wiki/prince-of-men/) to log their forests if he became a signatory of the Seelie Accords, which shared out elfish lands between seelie and unseelie, and returned the Seal of the One King from Mirror Lake ([37.01](/wiki/37-01/)).
-
 
 
 

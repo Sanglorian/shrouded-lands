@@ -11,7 +11,7 @@ categories:
   - "Chickens"
   - "Creatures"
   - "Doges"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Glorious Reign of Doge Simone the Fowl
@@ -42,7 +42,6 @@ And that is why to this very day the people of Shuttered put roosters on their w
 * Who else might be descended from her?
 * Are Simonian Cuckoos really lucky? Does it even matter if they’re legitimate or bastards?
 * What kind of morons elect a chicken to high office?!
-
 
 
 

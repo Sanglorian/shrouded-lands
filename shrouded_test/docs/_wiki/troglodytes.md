@@ -7,10 +7,9 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Troglodytes"
 categories:
   - "Creatures"
   - "Peoples"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The [Temple of Alberon](/wiki/temple-of-alberon/) turned into troglodytes.
-
 
 

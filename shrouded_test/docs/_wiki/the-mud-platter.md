@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Mud_Platter"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Mud Platter
@@ -21,5 +21,4 @@ One of the human regulars here is employed carting night soil out of the city. O
 * Who are some of the other regulars?
 * What are some other dishes of these lands?
 * What has Jarvis heard from the hobs recently?
-
 

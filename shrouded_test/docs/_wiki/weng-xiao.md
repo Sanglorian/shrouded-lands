@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Weng_Xiao"
 categories:
   - "Characters"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Wengs"
 media: []
 ---
@@ -27,6 +27,5 @@ Xiao rents the first floor of her tower to a charnel house. The charnel house is
 * Was Cessine the Fair trying to learn old Lo's secrets? Was the balloon accident more than an accident?
 * Why are all of the silk makers gnomes?
 * Has the charnel house been used to "disappear" anyone? Someone, maybe, who knew too much about the silk?
-
 
 

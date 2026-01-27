@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Ward"
 categories:
   - "Characters"
   - "Nobles"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 ![](/media/Koschei_by_Sergey_Malyutin.jpg)The self-styled lord of Stargazer Keep ([19.04](/wiki/19-04/)). The grandson of one of the younger sons of one of the lords of the [night men](/wiki/night-men/). This younger son was driven out in disgrace and founded Stargazer Keep.
@@ -38,6 +38,5 @@ The Prince solemnly accepted the body, and released Mikhal into his father’s a
 * What does Lord Ward think of the Prince now?
 * Is the sorcerer still alive? Did he ever free the cataphract?
 * Wait, is Lord Ward the great-grandson of a lord of the night people, or the child of a Thringish sorcerer and a Golden Realm cataphract?
-
 
 

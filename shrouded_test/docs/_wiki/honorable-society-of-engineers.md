@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Honorable_Society_of_Engineers"
 categories:
   - "Organisationss"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -41,6 +41,5 @@ On a minor note, Engineers of the Society can be identified by the plain steel b
 * How much of the Shuttered City's secrets does the Department of Obscure Annexes know?
 * What rumors (and bald-faced lies) have the Society been spreading to attract adventurers?
 * Are any of them true?
-
 
 

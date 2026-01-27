@@ -10,7 +10,7 @@ categories:
   - "Priests"
   - "Professions"
   - "Religious groups"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Warriors"
 media: []
 ---
@@ -25,7 +25,6 @@ The Priests-Militant collaborate with the [Dead Men](/wiki/dead-men/), though th
 
 ## Connections
 * When [Isane and Orsine](/wiki/isane-and-orsine/) were born conjoined twins, the Priests-Militant attempted to divide them.
-
 
 
 

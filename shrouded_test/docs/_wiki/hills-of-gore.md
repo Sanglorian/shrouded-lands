@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hills_of_Gore"
 categories:
   - "Nations"
   - "Regions"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 ![](/media/SL_25.png)Includes hexes: [02.22](/wiki/02-22/), [03.13](/wiki/03-13/), [03.19](/wiki/03-19/), [03.26](/wiki/03-26/), [04.17](/wiki/04-17/), [04.18](/wiki/04-18/) [05.14](/wiki/05-14/), [05.18](/wiki/05-18/), [05.20](/wiki/05-20/), [05.24](/wiki/05-24/), [06.14](/wiki/06-14/), [07.17](/wiki/07-17/), [07.18](/wiki/07-18/), [07.21](/wiki/07-21/), [08.16](/wiki/08-16/), [09.19](/wiki/09-19/), [09.22](/wiki/09-22/), [10.12](/wiki/10-12/), [10.14](/wiki/10-14/), [11.20](/wiki/11-20/) and [12.22](/wiki/12-22/).
@@ -44,6 +44,5 @@ Now year by year the wilderness encroaches on what has become a land of lurking 
 ## Regional features
 * [Lords Sanguine](/wiki/lords-sanguine/)
 * [Indigo Academy](/wiki/indigo-academy/)
-
 
 

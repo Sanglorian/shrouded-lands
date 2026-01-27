@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Chant_of_Morning"
 categories:
   - "Songs"
   - "Stannevs"
-  - "The King in Splendour"
+  - "King in Splendor"
 media: []
 ---
 ![](/media/170703.png)Connects to: [04.08](/wiki/04-08/), [05.12](/wiki/05-12/) and [29.14.19](/wiki/29-14/).
@@ -33,6 +33,5 @@ One of the songs that the [Stannevs](/wiki/stannevs/) sing of [their fiery god](
 * Is it true that if the mane, hide and eyes of a lion are removed in such a way, the form of a human hero can be brought forth? Have any sun priests had success in lion dissection?
 * Any connection to wemics here?
 * There aren't many worshipers of the Lion/King in Splendor in these lands. Where are they?
-
 
 

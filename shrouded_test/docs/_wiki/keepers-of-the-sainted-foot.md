@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Keepers_of_the_Sainted_Foo
 categories:
   - "Alberon"
   - "Religious groups"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 ![](/media/2004.png)In the foothills of the Grey Mountains is a monastery ([20.04](/wiki/20-04/)), occupied by the **Keepers of the Sainted Foot**. The foot is a mummified relic that the brothers consider holy. Their monastery is a rude timber affair that has suffered badly over the years at the hands of [orc raiders](/wiki/orcs/) coming down from the north. However, despite these depredations it still produces a well spiced gruit with a distinctive tang, which is not only an excellent beer (although a bit of an acquired taste) but functions as potent holy water.
@@ -45,6 +45,5 @@ When they are drunk upon the holy beer, the monks become [goliards](/wiki/goliar
 * What poetry did the Archpoet write?
 * What happened to the Archpoet's other foot and where is it now?
 * Tell me about some other satirical rituals of the goliards.
-
 
 

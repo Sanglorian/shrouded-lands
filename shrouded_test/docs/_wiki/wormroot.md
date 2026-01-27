@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Wormroot"
 categories:
   - "Dragons"
   - "Plants"
-  - "The Freeholds"
-  - "The Grey Mountains"
+  - "Freeholds"
+  - "Grey Mountains"
 media: []
 ---
 Wormroot warms the blood.
@@ -20,7 +20,6 @@ Originally called 'wyrmroot' and associated with dragons and dragonfire. 'Greate
 * The narrator of [With Morning Comes Mistfall](/wiki/with-morning-comes-mistfall/) describes gathering wormroot.
 * Turning into human women required the bears in [13.17](/wiki/13-17/) to eat wormroot.
 * In the Farnsfall Holding ([11.03](/wiki/11-03/)), [Cliffar Seutorian](/wiki/cliffar-seutorian/) hopes to farm and export wormroot.
-
 
 
 

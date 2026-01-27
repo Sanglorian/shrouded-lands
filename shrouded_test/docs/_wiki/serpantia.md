@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Serpantia"
 categories:
   - "Lost civilisations"
   - "Nations"
-  - "The Keening Sea"
-  - "The World's Edge and Beyond"
+  - "Keening Sea"
+  - "World's Edge and Beyond"
 media: []
 ---
 An ancient kingdom which was situated in the lands beyond the [World's Edge](/wiki/world's-edge/). It is referred to by the Wedge-Stone ([47.11](/wiki/47-11/)), which reads:
@@ -20,7 +20,6 @@ An ancient kingdom which was situated in the lands beyond the [World's Edge](/wi
 : Look to me when [the Hammer of Bronze](/wiki/the-hammer-of-bronze/) is forged anew. Look to me on the twelfth night when the sea boils. Look upon me, ye of Serpantia, and despair.
 
 There are three-headed [tigers](/wiki/tigers/) in Serpantia.
-
 
 
 

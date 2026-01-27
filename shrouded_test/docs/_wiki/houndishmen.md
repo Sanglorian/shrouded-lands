@@ -10,11 +10,10 @@ categories:
   - "Houndishmen"
   - "Humans"
   - "Peoples"
-  - "The Westmarches"
+  - "Westmarches"
 media: []
 ---
 The residents of Hound's Heath ([05.12](/wiki/05-12/)).
-
 
 
 

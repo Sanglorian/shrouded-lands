@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Duchy_of_Thring"
 categories:
   - "Nations"
   - "Regions"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ![](/media/Duchy.jpg)Includes hexes: [11.15](/wiki/11-15/), [11.16](/wiki/11-16/), [13.12](/wiki/13-12/), [13.17](/wiki/13-17/), [13.20](/wiki/13-20/), [14.14](/wiki/14-14/), [15.13](/wiki/15-13/), [15.15](/wiki/15-15/), [15.16](/wiki/15-16/), [15.19](/wiki/15-19/), [16.15](/wiki/16-15/), [16.16](/wiki/16-16/), [16.17](/wiki/16-17/), [16.18](/wiki/16-18/), [16.20](/wiki/16-20/), [17.11](/wiki/17-11/), [17.14](/wiki/17-14/), [17.18](/wiki/17-18/), [17.21](/wiki/17-21/), [18.19](/wiki/18-19/), [19.15](/wiki/19-15/), [20.13](/wiki/20-13/), [20.16](/wiki/20-16/), [20.18](/wiki/20-18/), [20.20](/wiki/20-20/), [21.12](/wiki/21-12/), [21.14](/wiki/21-14/), [22.18](/wiki/22-18/) and [24.13](/wiki/24-13/).
@@ -106,6 +106,5 @@ There are seven fundamental [laws of Thring](/wiki/laws-of-thring/).
 * Piss-and-Shit Castle (abandoned)
 * Fourth Castle (Lord Kadash)
 * Castle Spiriwin (Lord Spiriwin the Cruel)
-
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Grey_oozes"
 categories:
   - "Creatures"
   - "Oozes"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -24,7 +24,6 @@ Ghar Zaghoan has grown increasingly bored over the centuries and he hopes that h
 * Who has been paralyzed by grey ooze and taken down to entertain Ghar Zaghoan?
 * What does such a presence from another plane consider entertaining?
 * Is there any way for him to get unstuck?
-
 
 
 

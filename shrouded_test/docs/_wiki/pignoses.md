@@ -9,7 +9,7 @@ categories:
   - "Half-elves"
   - "Half-orcs"
   - "Humans"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 The Pignoses are a [Newhill](/wiki/newhill/) family that proudly claim some [orcish blood](/wiki/orcs/). They are physically brutish but fairly gentle. They are often in conflict with the [Verlimes](/wiki/verlimes/) but peaceful towards the [Stannevs](/wiki/stannevs/).
@@ -18,7 +18,6 @@ The Pignoses are a [Newhill](/wiki/newhill/) family that proudly claim some [orc
 * Baron [Horvath Pignose](/wiki/horvath-pignose/) is a wayward scion of the clan. He leads the White faction of [Sosaria's cattle barons](/wiki/cattle-barons-(sosaria)/).
 * [Olga Pignose](/wiki/olga-pignose/) is the child of [Hilda Pignose](/wiki/hilda-pignose/), a half-orc, and a travelling half-elf bard. She is extraordinarily beautiful, tall and graceful, and is connected to a prophesy concerning [Alberon](/wiki/alberon/). She is also, inexplicably, winged.
 * [Rugose Pignose](/wiki/rugose-pignose/) begs for death while he is slowly devoured by cacti mold in the [Forest of Abominations](/wiki/forest-of-abominations/).
-
 
 
 

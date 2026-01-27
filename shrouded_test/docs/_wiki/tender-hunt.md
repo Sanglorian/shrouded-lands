@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tender_Hunt"
 categories:
   - "Customs"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 ![](/media/Sl_gore2.png)Connects to: [29.07.02](/wiki/29-07/).
@@ -18,5 +18,4 @@ The Tender Hunt has its origins in the Collector’s cunning attempts to capture
 * What happened on the original Hunt?
 * What sort of political machinations occur during the Hunt?
 * Can an innocent soul really capture the Unicorn?
-
 

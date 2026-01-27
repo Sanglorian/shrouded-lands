@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dogtur"
 categories:
   - "Humans"
   - "Peoples"
-  - "The Westmarches"
+  - "Westmarches"
 media: []
 ---
 The long yellow grass of the Plains of Dogtur ([04.08](/wiki/04-08/)) moves lazily in the wind and hides the presence of the multitude of wild [dogs](/wiki/dogs/) that live in the area. The dogs make these plains a dangerous place for most common people, but there are some who have adapted. The nomadic people of the plains live in a mobile village called Dogtur, and capture and train the wild dogs of the plains to serve as hunters, guardians, and faithful companions.
@@ -28,6 +28,5 @@ Few know why the [shamans](/wiki/shamans/) of the Dogtur choose to move their ca
 * Who placed the curse on the plains originally? Did it target the Dogtur, or are they just unfortunate bystanders?
 * What other types of dog-monsters dwell here?
 * Has anyone tried to settle these plains and been swallowed up by the pit?
-
 
 

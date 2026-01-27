@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Geas-eater"
 categories:
   - "Creatures"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-geas.jpg)Connects to: [29.07.03](/wiki/29-07/), [29.14.12](/wiki/29-14/) , [29.14.14](/wiki/29-14/) and [34.01](/wiki/34-01/).
@@ -25,5 +25,4 @@ Since then, there have been scattered reports of the creature from the denizens 
 * What's the deal with Arnea? Does she have some interesting history?
 * What's the geas that the Bloodied King is trying to break, and what will happen if he succeeds?
 * Is Burrin Olmstead representing the entire Olmstead clan, or just the Bloodied King?
-
 

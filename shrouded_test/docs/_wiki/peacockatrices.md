@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Peacockatrices"
 categories:
   - "Birds"
   - "Creatures"
-  - "The Barrier Range"
+  - "Barrier Range"
 media: []
 ---
 Peacockatrice eggs can fetch high prices in **Shuttered, **making the dangerous dive in Dragon Lake ([25.16](/wiki/25-16/)) worth it. After all, the prices are high enough to spark scuffles, murders and even a small war.
@@ -25,6 +25,5 @@ Hairy Jack *([37.21](/wiki/37-21/))* also keeps one, but it is a female that lac
 * How do Count Seutorian’s gardeners maintain a garden full of peacockatrices?
 * Who’s been turned to stone by them?
 * Who else owns one?
-
 
 

@@ -8,7 +8,7 @@ categories:
   - "Assassins"
   - "Doppelgangers"
   - "Organisationss"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-smile.png)Connects to: [02.11.01](/wiki/02-11/), [18.10](/wiki/18-10/), [25.15](/wiki/25-15/), [39.14](/wiki/39-14/), [43.27](/wiki/43-27/), [46.15](/wiki/46-15/) and [47.00](/wiki/47-00/).
@@ -33,7 +33,6 @@ The Smiling Men highly value the poisons of the Cloud Forest ([47.00](/wiki/47-0
 * How do you find a Smiling Man or contract with him?
 * Are there any Smiling Women?
 * How can the Smiling Men recruit those who've killed themselves?
-
 
 
 

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Potatoes_and_pies"
 categories:
   - "Orcs"
-  - "The Grey Mountains"
+  - "Grey Mountains"
   - "Victuals"
 media: []
 ---
@@ -18,6 +18,5 @@ These pies are great round cornmeal pastries stuffed with boiled potatoes, meat 
 ### Hooks
 * Where else is orcish pie sold?
 * What meat does the pies contain?
-
 
 

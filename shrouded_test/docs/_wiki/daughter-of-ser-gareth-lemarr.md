@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Daughter_of_Ser_Gareth_Lemarr"
 categories:
   - "Characters"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 !["Rook," © 2012 Jared von Hindman, used under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/](/media/2012_paladin1_0.jpg)
@@ -21,5 +21,4 @@ The circumstances of Ser Gareth’s death are unclear, but include a brutish Thr
 #### Hooks:
 * What happened to Ser Gareth and what did Sir Mimslet have to do with it?
 * Are the Lemarrs related to Lorenzo DiMarr? ([09.22](/wiki/09-22/))
-
 

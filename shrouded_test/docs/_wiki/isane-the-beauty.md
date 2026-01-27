@@ -8,7 +8,7 @@ categories:
   - "Characters"
   - "Elves"
   - "Jahur"
-  - "The Lands of the Night Cattle"
+  - "Lands of the Night Cattle"
 media: []
 ---
 ![Isane meets with a lover](/media/ReneBull3.png)
@@ -30,7 +30,6 @@ Most of Isane's clients are women. Since she is a Viceroy's concubine, Jahur law
 * Are the snake books entirely accurate? They have been filtered through and reinterpreted by lizard brains.
 * What do the lower classes like about the Holy Fools?
 * Who else uses potions that can change the drinker's gender?
-
 
 
 

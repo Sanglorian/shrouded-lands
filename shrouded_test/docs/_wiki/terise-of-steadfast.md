@@ -8,7 +8,7 @@ categories:
   - "Hinterlands of Blind Midshotgatepool"
   - "Mermaids"
   - "Steadfasts"
-  - "The Keening Sea"
+  - "Keening Sea"
 media: []
 ---
 Terise lives on the shore of [The Keening Sea](/wiki/keening-sea/) ([28.21](/wiki/28-21/)) where she sets up a feast to lure travellers.
@@ -24,7 +24,6 @@ Terise feels incredibly remorseful about her eating habits and will attempt to a
 - Are there any other mermaids about?
 - Is there any way that Terise can be helped?
 - What happened to the slavers?
-
 
 
 

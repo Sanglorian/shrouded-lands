@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Simon_Maddlow"
 categories:
   - "Characters"
   - "Maddlows"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Bureaucrat Descended from a King
@@ -20,6 +20,5 @@ Today, Simon Maddlow sits in an office at the gates of the City, placing *geasa*
 * Did any of the other Maddlows survive their *geased* journeys and settle elsewhere in the world?
 * How did the Shuttered City Maddlows hang on to their powers without becoming impossibly inbred?
 * Does Simon Maddlow hold any dreams of reclaiming his ancestor's throne? Would the other [Witch Clans](/wiki/witch-clans/) of the [Barrier Range](/wiki/barrier-range/) recognize his claim?
-
 
 

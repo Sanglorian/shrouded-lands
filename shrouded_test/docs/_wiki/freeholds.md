@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Freeholds"
 categories:
   - "Regions"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 ![](/media/Freeh.jpg)Includes hexes: [10.09](/wiki/10-09/), [10.10](/wiki/10-10/), [11.03](/wiki/11-03/), [11.05](/wiki/11-05/), [11.08](/wiki/11-08/), [13.02](/wiki/13-02/), [13.03](/wiki/13-03/), [13.06](/wiki/13-06/), [13.08](/wiki/13-08/), [13.09](/wiki/13-09/), [14.09](/wiki/14-09/), [15.04](/wiki/15-04/), [15.07](/wiki/15-07/), [16.04](/wiki/16-04/), [16.09](/wiki/16-09/), [17.03](/wiki/17-03/), [17.05](/wiki/17-05/), [17.06](/wiki/17-06/), [17.07](/wiki/17-07/), [18.02](/wiki/18-02/), [18.03](/wiki/18-03/), [18.06](/wiki/18-06/), [18.07](/wiki/18-07/), [18.10](/wiki/18-10/), [19.04](/wiki/19-04/), [19.05](/wiki/19-05/), [20.03](/wiki/20-03/), [20.04](/wiki/20-04/), [20.08](/wiki/20-08/), [20.10](/wiki/20-10/), [21.06](/wiki/21-06/), [22.03](/wiki/22-03/), [22.10](/wiki/22-10/), [22.11](/wiki/22-11/), [23.11](/wiki/23-11/), [24.11](/wiki/24-11/) and [24.12](/wiki/24-12/).
@@ -61,5 +61,4 @@ Today, though, some of the richest families are beginning to consider themselves
 
 ### Connections:
 * After the end of the [goblins wars](/wiki/goblins-wars/), in which the orcs and dwarves destroyed the goblin forests that once lay between the [Kingswood](/wiki/kingswood/) and the coast ([24.02](/wiki/24-02/)), these lands were ruled by the [High Kings of Gore](/wiki/royal-family-of-gore/) ([05.20](/wiki/05-20/)). The Verlimes were able to carve out their Duchy after the fall of the High Kings.
-
 

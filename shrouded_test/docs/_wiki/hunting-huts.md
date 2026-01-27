@@ -6,11 +6,10 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Hunting_huts
 categories:
 - Creatures
-- The Lands of Gore
+- Hills of Gore
 media: []
 is_redirect: true
 redirect_to: '10.14'
 ---
 # REDIRECT [10.14](/wiki/10-14/)
-
 

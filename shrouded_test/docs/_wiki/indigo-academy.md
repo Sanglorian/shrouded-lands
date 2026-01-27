@@ -8,7 +8,7 @@ categories:
   - "Gnomes"
   - "Illusionists"
   - "Organisationss"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 The Indigo Academy, a subversive [illusionist](/wiki/illusionists/) school based in [Ninbolm](/wiki/05-24/), has managed to flout the [Hierophant's](/wiki/hierophant-of-ninbolm/) authority with great aplomb and typical gnomish cheek. While the rest of Ninbolm abides the Hierophant's humorless thumb, the Academy devotes its time and energy towards clever and creative pranks. The frustrated Hierophant believes the academy must exist in a pocket plane because he cannot find it. The truth is that the school does not exist physically. It is a collective of wizards who pose as ordinary citizens. Their meetings are informal, and conducted entirely through disguises, codes and innuendo.
@@ -22,7 +22,6 @@ The Academy is beloved by Ninbolm's common folk for brightening their lives. But
 * Does the Indigo Academy have a ringleader? Who are its prominent members?
 * What have been some of the Indigo Academy's most epic pranks?
 * Who in the Shrouded Lands is employing members of the Indigo Academy?
-
 
 
 

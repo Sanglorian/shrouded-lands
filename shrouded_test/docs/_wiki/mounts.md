@@ -9,7 +9,7 @@ categories:
   - "Animals"
   - "Knights"
   - "Mounts"
-  - "Thring"
+  - "Duchy of Thring"
 media: []
 ---
 Because there are no more fertile [horses](/wiki/horses/) in the Shrouded Lands, most knights of Thring ride a wide variety of other animals. 
@@ -29,7 +29,6 @@ Because there are no more fertile [horses](/wiki/horses/) in the Shrouded Lands,
   * The knights of Tarengael ([16.16](/wiki/16-16/)) ride boars raised at Castle Spiriwin ([20.16](/wiki/20-16/))
   * The knights of Castle Karandur ([13.17](/wiki/13-17/)) ride bears.
   * The [Brothers of the Lion](/wiki/brothers-of-the-lion/) ride lions.
-
 
 
 

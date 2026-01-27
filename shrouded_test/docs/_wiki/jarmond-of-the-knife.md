@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Bergolast"
   - "Characters"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-jarm.png)Connects to: [29.14.13](/wiki/29-14/), [38.28](/wiki/38-28/), [40.06](/wiki/40-06/) and [43.01](/wiki/43-01/).
@@ -29,7 +29,6 @@ The Tomb lies now at the very lowest depths of the Shuttered City, as it was bui
 * Who carried Jarmond's body back to the City, and how?
 * What are the other eight prophecies of Jarmond?
 * What else can be found on the lowest levels of the Shuttered City?
-
 
 
 

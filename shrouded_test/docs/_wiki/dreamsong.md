@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dreamsong"
 categories:
   - "Planes"
-  - "The Bitter Coast"
+  - "Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
@@ -28,6 +28,5 @@ The [elves](/wiki/elves/) have a keen interest in the Dreamsong ([24.07](/wiki/2
 * Where have the druids set up their didgeridoos? What is their goal? Jungian collective unconscious hacking?
 * What do the whales learn before they are born?
 * What would happen if the whales sang no more and the Dreamsong failed? Who is trying to make this happen?
-
 
 

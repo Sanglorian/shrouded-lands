@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Old_Leviathan"
 categories:
   - "Sunless Sea"
-  - "The King in Splendour"
+  - "King in Splendor"
   - "Whales"
 media: []
 ---
@@ -14,6 +14,5 @@ media: []
 ### Connections
 * The white whale of the [Sunless Sea](/wiki/sunless-sea/) may be Old Leviathan.
 * The Ziz of [11.32](/wiki/11-32/) may be another great beast to be feasted upon.
-
 
 

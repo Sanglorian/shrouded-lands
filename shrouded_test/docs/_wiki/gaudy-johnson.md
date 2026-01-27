@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gaudy_Johnson"
 categories:
   - "Merchants"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Snake Oil
@@ -25,5 +25,4 @@ Meanwhile, Shuttered’s established Great Families are not keen to witness the 
 * How does Gaudy extract the oil? Do the lizardmen know of this technique? Does it destroy the snake?
 * Is there potential for mistranslations, errors or even deliberate tampering with the text?
 * What do the Great Families have planned?
-
 

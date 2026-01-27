@@ -10,14 +10,13 @@ categories:
   - "Characters"
   - "Priests"
   - "Temple Invisible"
-  - "The King in Splendour"
-  - "The Shuttered City"
+  - "King in Splendor"
+  - "City of Shuttered Windows"
 media: []
 ---
 :See also [Hierophant](/wiki/hierophants/)
 
 Leader of the [Temple Invisible](/wiki/temple-invisible/)
-
 
 
 

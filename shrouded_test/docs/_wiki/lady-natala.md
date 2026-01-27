@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Natala"
 categories:
   - "Characters"
   - "Lords Sanguine"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 Rules: Castle Maratan![Lady Natala, in profile](/media/AlphonseMucha3.jpg)
@@ -36,6 +36,5 @@ But their love could not last, for the Duke could not abandon his wife and Duked
 ### Connections
 * Lady Natala ended up pregnant with her lady in waiting’s child in a stirge-related accident (see [royal family of Gore](/wiki/royal-family-of-gore/) for more).
 * Sheemie, a [Mirdenlow](/wiki/mirdenlows/), is spying on Sulgrim for Lady Natala. Natala hopes to drive Sulgrim from the keep and return it to a rightful Lord Sanguine.
-
 
 

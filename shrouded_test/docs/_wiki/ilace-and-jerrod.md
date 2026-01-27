@@ -8,8 +8,8 @@ categories:
   - "Characters"
   - "Electors"
   - "Nobles"
-  - "The Freeholds"
-  - "The Shuttered City"
+  - "Freeholds"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Ilace and Jerrod
@@ -23,7 +23,6 @@ The rubies in question were given as a gift to Ilace last year after a young bra
 
 ### Hook:
 * Was it wise for Giles to pry the rubies out of the idol's eye sockets? Why did he give them to Ilace?
-
 
 
 

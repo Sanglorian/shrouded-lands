@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bound_Bargainers"
 categories:
   - "Elves"
   - "Organisationss"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 One of the [factions of the elves](/wiki/factions-elves/).
@@ -18,6 +18,5 @@ The Bargainers work through [the Drow of Olmsted Keep](/wiki/the-drow-of-olmsted
 travel far and wide - though of course there is a price to pay to each resident fairy for using these roads.
 
 A sizable number of Bargainers are paying off debts incurred whilst raiding, and might well continue to pay off these debts with yet more raiding and theft. Those that are caught doing so by the Loyal tend to incur yet more debt and other punishments.
-
 
 

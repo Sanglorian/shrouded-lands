@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Doppelgangers"
 categories:
   - "Creatures"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ## Other
@@ -23,5 +23,4 @@ The Villard family of **Small Waters **([16.15](/wiki/16-15/).01) have been repl
 Doppelgangers carry out the last orders of their long-dead creator, for they are incapable of doing anything else. Doppelganger young are small colorless blobs that, when drunk, attach themselves to the stomach of their drinkers and slowly grow, hollowing out their host from within.
 ### Hooks
 * Is there any way to safely remove a young doppleganger that is growing within its victim?
-
 

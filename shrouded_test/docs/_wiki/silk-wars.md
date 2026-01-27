@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Silk_wars"
 categories:
   - "Artifacts"
   - "Conflicts"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Silk Wars
@@ -22,6 +22,5 @@ Thanks to his prodding, Lady Alevari has stepped up her silk production and the 
 Also the competition has led to agents of Xiao and Ettienne squabbling over dead bodies that they come across in the street and even occasional blows. If matters escalate any more, Alvise is considering bringing in some of his ettin cousins to smash heads. The [Necromantic Office](/wiki/necromantic-office/) takes a dim view of this and is debating what course to take.
 ### Hooks:
 * So now we have people fighting over who will get to cart off dead bodies and feed them to bugs, there has to be some good stories there. Does everyone who gets carted off want to get in the cart?
-
 
 

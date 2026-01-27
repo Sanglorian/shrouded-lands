@@ -8,7 +8,7 @@ categories:
   - "Chimalia"
   - "Gnomes"
   - "Religious groups"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Temple of the Labyrinth
@@ -35,7 +35,6 @@ Supplicants may sit in the pews and wait for her to address them, and those she 
 * What did the last Doge want to know? How about Zeem and Drogo?
 * Why was the Church willing to tolerate the presence of the Temple?
 * Why is the Temple of the Labyrinth so impoverished? Are there any other priests of Chimalia out there?
-
 
 
 

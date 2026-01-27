@@ -8,7 +8,7 @@ categories:
   - "Characters"
   - "Daztur"
   - "Elves"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 One of the most able, or at least the most active, of the servants of the [Bloodied King](/wiki/bloodied-king/) is [Tehaar the Huntress](/wiki/tehaar-the-huntress/). She leads a band of elves that relentlessly patrols the Kingswood, more out of love for the hunt than for any duty to the king, other elves say. She can be easily recognized by the unseelie runes inscribed on the leather mask that she wears whenever on the hunt and the stag that she rides.
@@ -28,7 +28,6 @@ Although Tehaar ranges widely across the Kingswood in search of intruders, where
 
 ### Hook:
 * Who else has run into Tehaar? Did they live?
-
 
 
 

@@ -9,7 +9,7 @@ categories:
   - "Blind Midshotgatepool"
   - "Jahur"
   - "Professions"
-  - "The Lands of the Night Cattle"
+  - "Lands of the Night Cattle"
   - "Thieves"
 media: []
 ---
@@ -37,7 +37,6 @@ media: []
 * The [Pilgrim's Way](/wiki/pilgrim's-way/) is popular among thieves and assassins for it allows them to move unseen and slip through shadows.
 * Thieves and assassins seek out [moon elephant](/wiki/moon-elephants/) leather armour for it makes them more alert and more difficult to see.
 * Among Midshotgatepool's thieves guild are enforcers, enchanters, experts in poisons and traps, fences and herbalists.
-
 
 
 

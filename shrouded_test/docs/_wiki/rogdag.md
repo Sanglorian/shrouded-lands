@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Ogres"
   - "Shuttered and Surrounds"
-  - "The Keening Sea"
+  - "Keening Sea"
 media: []
 ---
 An [ogre](/wiki/ogres/) named **Rogdag** dwells in the ruin of a lighthouse along the shores of the Keening Sea ([35.13](/wiki/35-13/)). He is unusually docile, almost to the point of timidity, and has never raided the nearby villages. He survives off of the eels and lungfish that lurk in the Keening Sea's shallows, but he sails his raft into deeper waters to spear [giant catfish](/wiki/giant-catfish/) and [bearded whales](/wiki/bearded-whales/) when he feels ambitious.
@@ -27,7 +27,6 @@ Rogdag, of course, has no memory of Hush's experiments. But sometimes he wonders
 * How exactly can you kidnap an ogre?
 * What about ogre brains interest mindflayers?
 * What other experiments has Hush conducted?
-
 
 
 

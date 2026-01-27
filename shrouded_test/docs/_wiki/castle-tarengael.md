@@ -9,7 +9,7 @@ categories:
   - "Ducal family of Thring"
   - "River of Crystal Waters"
   - "Tarengael"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ![](/media/1616.png)The great [River of Crystal Waters](/wiki/river-of-crystal-waters/) nurtures the Duchy’s crops and protects its greatest bastion: **Castle Tarengael** whose nine domed towers were built by Duke [Ulthar the Loved](/wiki/ulthar-the-loved/) himself on a rocky island ([16.16](/wiki/16-16/)) so that the flowing waters would keep the [Lords Sanguine](/wiki/lords-sanguine/) at bay. Bridges connect it to the two halves of [Tarengael Town](/wiki/tarengael-town/): Eastbridge and Westbridge.
@@ -84,7 +84,6 @@ The Duke has not read the book in years. If he had, we would find that the ledge
 * What did the Duke read?
 * If the knights wear links and the Duke a key, what do the rest of his retinue wear?
 * Does the Chain Gang clash with the Brotherhood of the Lion?
-
 
 
 

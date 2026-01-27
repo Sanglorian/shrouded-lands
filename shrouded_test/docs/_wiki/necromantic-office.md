@@ -5,9 +5,9 @@ pageid: 3063
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Necromantic_Office"
 categories:
-  - "Mages"
+  - "Wizards"
   - "Organisationss"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Wizards"
 media: []
 ---
@@ -41,7 +41,6 @@ The Office itself is very secure. If any intruders enter, one of the thousands o
 * What happens to novices who are driven crazy by the ghosts?
 * What sorts of crimes have members of the Office gotten away with? Don’t they police their own?
 * Who would be crazy to try to raid a necromancer guildhall?
-
 
 
 

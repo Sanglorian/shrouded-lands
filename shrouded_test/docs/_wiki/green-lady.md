@@ -10,7 +10,7 @@ categories:
   - "Deities"
   - "Elves"
   - "Green Lady"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ## In the world
@@ -31,7 +31,6 @@ media: []
 ## Clergy
 * [Paladins](/wiki/paladins/) of Thring are, like Duke [Ulthar the Loved](/wiki/ulthar-the-loved/), (chastely) married to the Green Lady. The tradition was originally associated with another goddess, non-chaste and non-human, as described in [18.14](/wiki/18-14/). Today's paladins still draw on the pagan power of the land.
 * [Magister](/wiki/magisters/) is a position in the Thringish clergy. There is a Magister of Castle Steadfast who made a ruling controversial to the clergy ([20.13](/wiki/20-13/)).
-
 
 
 

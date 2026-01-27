@@ -9,7 +9,7 @@ categories:
   - "Dwarves"
   - "Giants"
   - "Gnomes"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Gnomes in the Walls
@@ -33,7 +33,6 @@ Today, it is whispered that the ghosts of the gnomes can still be heard tapping 
 * What would happen if the descendants of Daram Os were interrupted? Would the gnome ghosts be released from the walls?
 * There are other wall-dwelling gnomes even in the present day. What do they think about the walls of Shuttered?
 * Why did the gnomes break their contract?
-
 
 
 

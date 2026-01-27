@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Devil%27s_Bible"
 categories:
   - "Alberon"
   - "Books"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 C![](/media/Shutt-dev.png)onnects to: [29.14.50](/wiki/29-14/).
@@ -28,6 +28,5 @@ Unable to destroy the Bible due to its holy words, but unwilling to use such a f
 * Where is his portrait in it anyway?
 * What properties or powers could the Devil's Bible possess?
 * What other strange texts people the Sealed Library?
-
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lord_Kardash"
 categories:
   - "Characters"
   - "Lords Sanguine"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 : Not to be confused with [Lord Kadash](/wiki/lord-kadash/), a lord of Thring.
@@ -20,6 +20,5 @@ Now however, Lord Kardash never ventures from The Hill of the Swordsage ([11.20]
 * If his mouth and nostrils are sewn up, how does Lord Kardash eat, drink and breathe?
 * Tell me more about the Sunless Sea!
 * Why does Lord Kardash gaze so intently at the stars? What does he see there?
-
 
 

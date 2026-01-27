@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Bastard_Prince"
 categories:
   - "Characters"
   - "Elves"
-  - "The Kingswood"
+  - "Kingswood"
   - "Unseelie elves"
 media: []
 ---
@@ -25,7 +25,6 @@ In any case, as the half-blooded prince grew to manhood he wished to see the sta
 
 ### Hooks:
 * What has the prince learned from the stars so far? What is he trying to do that he believes will unite the sundered courts under his rule?
-
 
 
 

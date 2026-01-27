@@ -6,8 +6,8 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Embassies_(Shuttered)"
 categories:
   - "Buildings"
-  - "The Shuttered City"
-  - "The Twelve Nations"
+  - "City of Shuttered Windows"
+  - "Twelve Nations"
 media: []
 ---
 ## The Embassies of the Southern Gate
@@ -40,6 +40,5 @@ There is one other reason to break into the embassy. Recently in the central dis
 * What happened to these adventurers who slew Supendar? Are they still around?
 * What became of the people of Naros? Did they simply die, or was their fate more subtle?
 * Who on earth would want vampire cows for their sacred rituals? I mean, that's just silly, right?
-
 
 

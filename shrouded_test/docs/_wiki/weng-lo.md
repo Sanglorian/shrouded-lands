@@ -6,11 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Weng_Lo"
 categories:
   - "Characters"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Wengs"
 media: []
 ---
 The father of [Weng Xiao](/wiki/weng-xiao/).
-
 
 

@@ -10,9 +10,9 @@ categories:
   - "Creatures"
   - "Fey"
   - "Naros"
-  - "The Bitter Coast"
-  - "The Kingswood"
-  - "The Lands of Gore"
+  - "Bitter Coast"
+  - "Kingswood"
+  - "Hills of Gore"
 media: []
 ---
 ![adel adili, Creative Commons BY-SA 3.0 Unported](/media/Apollo_and_Daphne_.jpg)
@@ -32,7 +32,6 @@ Unique among the dryads, [http://shrouded-lands.wikia.com/wiki/Hawthorn_dryads?a
 * The near-death of her tree makes a dryad in the Kingswood ravenous ([32.05](/wiki/32-05/))
 
 * The sequoia dryad who tended Broderick's Grove ([02.07](/wiki/02-07/)) gave up her tree's heartwood to her druid lover, but now [Udenyr](/wiki/udenyr/) holds it and uses it to command her
-
 
 
 

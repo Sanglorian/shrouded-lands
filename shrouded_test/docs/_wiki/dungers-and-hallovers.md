@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dungers_and_Hallovers"
 categories:
   - "Families"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witch Clans"
 media: []
 ---
@@ -28,6 +28,5 @@ The Dungers themselves do little work aside from bullying the Hallovers and sett
 
 ## Hallovers
 * [Maris Hallover](/wiki/maris-hallover/)
-
 
 

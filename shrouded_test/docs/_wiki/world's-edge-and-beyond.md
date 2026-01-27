@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/World%27s_Edge_and_Beyond"
 categories:
   - "Regions"
-  - "The World's Edge and Beyond"
+  - "World's Edge and Beyond"
 media: []
 ---
 ![](/media/Edge.png)
@@ -65,5 +65,4 @@ Barca Enmordet ([49.03](/wiki/49-03/)) is one example.
 * Are the rumors true, about travellers emerging from the savage forest?
 * Why is there no civilization beyond the cliffs?
 * Where do the monsters of the forest come from, and what makes them different from those of the world above?
-
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Witch_Queen"
 categories:
   - "Characters"
   - "Nobles"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witches"
 media: []
 ---
@@ -28,7 +28,6 @@ By some accounts, the Witch Queen is a beautiful sorceress who lives in five tow
 * Which of the tales about her appearance are true?
 * Where do the human skins come from?
 * What is her connection to the Green Lady?
-
 
 
 

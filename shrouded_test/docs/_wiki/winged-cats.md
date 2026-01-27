@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Winged_cats"
 categories:
   - "Cats"
   - "Creatures"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 In the [Kingswood](/wiki/kingswood/) there can be found [a tree](/wiki/cat-trees/) that is home to a flock of cats and they can be seen flying clumsily throughout much of the surrounding forest. The tree itself is a radiant sight with catflowers blooming in wild oranges and whites in the springtime that match the luster of the cats’ feathers. The cats are not generally aggressive, although arcane magic does throw them into a violent frenzy, but they will attempt to entice travellers into approaching their tree. If they do so they will discover that the trees’ fallen leaves and its dense but shallow root network hide a treacherous crevasse where can be found the bones of several travellers who have fallen to their deaths and had their bones picked by a hundred dainty teeth. After a creature falls through the dense mat of roots, the roots regrow within a week hiding the crevasse from sight.
@@ -20,6 +20,5 @@ In the summer, the catflowers fall to the ground and catfruit slowly grows until
 * Why do winged cats emerge out of fruit? Cats are not normally produced in such a fashion.
 * Who is buying winged cat kittens?
 * Any interesting loot at the bottom of the ravine among the bones? Who has died down there?
-
 
 

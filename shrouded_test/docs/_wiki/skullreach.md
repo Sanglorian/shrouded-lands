@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Skullreach"
 categories:
   - "Dead Tiamat"
   - "Pirate Kings"
-  - "The Bitter Coast"
+  - "Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
@@ -39,7 +39,6 @@ The rest of Udenyr’s collection of ‘mages’ is made up of musicians and bar
 * Is anyone searching for the captives?
 * How can a dryad give up his or her tree’s heart without dying?
 * Why does Udenyr want to summon Old Leviathan?
-
 
 
 

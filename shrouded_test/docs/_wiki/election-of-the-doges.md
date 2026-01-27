@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Election_of_the_Doges"
 categories:
   - "Customs"
   - "Doges"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-elec.png)Connects to: [13.06](/wiki/13-06/), [29.14.51](/wiki/29-14/) and [33.16](/wiki/33-16/).
@@ -20,6 +20,5 @@ Whenever a [Doge](/wiki/doge/) of the [City of Shuttered Windows](/wiki/city-of-
 
 ### Hook:
 * What interesting things lie in the Old Council Tower?
-
 
 

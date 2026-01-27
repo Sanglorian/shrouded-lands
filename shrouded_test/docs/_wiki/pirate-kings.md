@@ -9,7 +9,7 @@ categories:
   - "Creatures"
   - "Peoples"
   - "Pirate Kings"
-  - "The Bitter Coast"
+  - "Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
@@ -80,7 +80,6 @@ The boat then burns beneath the giant and he or she must swim away from the stor
 * What were the sparks for other storm giants?
 * What are the [Islands of Bitter Regret](/wiki/islands-of-bitter-regret/) like?
 * Who makes perfume now that Naros ([29.14.12](/wiki/29-14/)) has fallen?
-
 
 
 

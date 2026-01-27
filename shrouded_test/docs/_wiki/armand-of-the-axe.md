@@ -9,7 +9,7 @@ categories:
   - "Lycanthropes"
   - "Priests"
   - "Shuttered and Surrounds"
-  - "The King in Splendour"
+  - "King in Splendor"
   - "Warriors"
 media: []
 ---
@@ -34,7 +34,6 @@ The next day, Armand awakens later remembering all that he did the previous nigh
 * Will Armand ever be able to cast clerical spells again?
 * Why does he crave offerings in spider monkey form? What does he do with them? What else is the spider monkey up to?
 * Is there any way to cure Armand?
-
 
 
 

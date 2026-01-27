@@ -10,8 +10,8 @@ categories:
   - "Hinterlands of Blind Midshotgatepool"
   - "Priests"
   - "Professions"
-  - "The Duchy of Thring"
-  - "The Pacharia"
+  - "Duchy of Thring"
+  - "Pacharia"
   - "Witches"
 media: []
 ---
@@ -37,7 +37,6 @@ When the temple Shara built sunk during the Shuttered City's attack on Blind Mid
 * How did worship of the Pacharia transform its/his/her/their(?) priestesses?
 * What did it mean for the king to be the land and the land to be the king?
 * Where did the priestesses go after they sank it beneath the waves?
-
 
 
 

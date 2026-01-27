@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Giant_and_the_Gnome"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-gia.png)Connects to: [00.02](/wiki/00-02/) and [26.20.07](/wiki/26-20/).
@@ -28,5 +28,4 @@ The tavern is considered the finest place to celebrate, seal a business deal, me
 * How does the Temple feel about the tavern’s stature?
 * What will happen to you if you’re caught on the Cathedral’s roof?
 * What sort of trouble could you get into in The Giant and the Gnome?
-
 

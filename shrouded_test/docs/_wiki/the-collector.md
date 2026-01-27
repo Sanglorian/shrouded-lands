@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Collector"
 categories:
   - "Characters"
   - "Lords Sanguine"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 **Affiliation: **One of the [Lords Sanguine](/wiki/lords-sanguine/)
@@ -32,6 +32,5 @@ The Collector has acquired several tarrasque skulls (his original and only const
 * Why can't the Collector get his hands on the Tarrasque Skull at [45.24](/wiki/45-24/)? Not to mention the other nineteen of them...
 * Who is it in Thring who sells Tarrasque skulls to the Collector?
 * Where does the Collector's wealth come from?
-
 
 

@@ -9,8 +9,8 @@ categories:
   - "Creatures"
   - "Families"
   - "Peoples"
-  - "The Freeholds"
-  - "The Shuttered City"
+  - "Freeholds"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![Ettin](/media/I052.jpg)
@@ -44,7 +44,6 @@ The elder Alvise had already commissioned a crown and plans to proclaim himself 
 ## Members
 * [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
 * [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)
-
 
 
 

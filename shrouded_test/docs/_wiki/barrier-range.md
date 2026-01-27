@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Barrier_Range"
 categories:
   - "Regions"
-  - "The Barrier Range"
+  - "Barrier Range"
 media: []
 ---
 ![](/media/SL_21.jpg)Includes hexes: [21.15](/wiki/21-15/), [22.15](/wiki/22-15/), [22.16](/wiki/22-16/), [23.16](/wiki/23-16/), [23.18](/wiki/23-18/), [23.19](/wiki/23-19/), [24.18](/wiki/24-18/), [24.20](/wiki/24-20/), [25.14](/wiki/25-14/), [25.15](/wiki/25-15/), [25.16](/wiki/25-16/), [25.17](/wiki/25-17/), [26.16](/wiki/26-16/) and [26.17](/wiki/26-17/).
@@ -45,5 +45,4 @@ Ushcka, who lives in her lair ([21.15](/wiki/21-15/))
 Sinda the Cursed, who lives in her cave ([22.15](/wiki/22-15/))
 ## Witch Clans
 Most of the [Witch Clans](/wiki/witch-clans/) live in The Barrier Range.
-
 

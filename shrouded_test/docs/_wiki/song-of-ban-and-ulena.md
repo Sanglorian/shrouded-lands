@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Song_of_Ban_and_Ulena"
 categories:
   - "Plays"
   - "Seutorians"
-  - "The Duchy of Thring"
-  - "The Shuttered City"
+  - "Duchy of Thring"
+  - "City of Shuttered Windows"
   - "Trimueil"
   - "Works"
 media: []
@@ -49,7 +49,6 @@ The epic poem is a retelling of the founding of [Blind Midshotgatepool](/wiki/bl
 * Who is Lucin exactly?
 * Did the strange events of the casting of the Song of Ban and Ulena have* any permanent effects?
 * Who was (is?) the Green Witch?
-
 
 
 

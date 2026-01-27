@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/With_Morning_Comes_Mistfall"
 categories:
   - "Books"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 H![](/media/Shutt-with.png)ex [29.14.36](/wiki/29-14/)
@@ -49,5 +49,4 @@ In an instant, I found myself transported by the elf’s magic to the waters of 
 * What exactly was (is?) a Queen Sinister?
 * Flying monkeys? Of course there are flying monkeys! Tell me about them.
 * Who is the writer of this piece? How did it end up in the Sealed Library?
-
 

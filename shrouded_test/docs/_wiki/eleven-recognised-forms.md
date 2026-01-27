@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Eleven_recognised_forms"
 categories:
   - "Deities"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Blessed are the Meek
@@ -28,5 +28,4 @@ The similarity of these forms to the twelve gods of the [Undying Cycle](/wiki/un
 ### Hooks
 * How could Alberon study with the Pacharia if he cannot leave the city?
 * Who are the Pacharia?
-
 

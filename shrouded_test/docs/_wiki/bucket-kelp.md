@@ -10,7 +10,7 @@ categories:
   - "Octoids"
   - "Plants"
   - "Sea of Typhoons"
-  - "Shuttered"
+  - "City of Shuttered Windows"
 media: []
 ---
 Bucket kelp is a mildly hallucinogenic sea plant endemic to the Sea of Typhoons, particularly the Bucket Kelp Forest ([26.33](/wiki/26-33/)). [Humans](/wiki/humans/) who chew its leaves experience time more slowly. A chewer in a [Jahur](/wiki/jahur/) dive might wait for what seems like an hour for a friend to return from the privy. The drug's ability to alter the chewer's perception of time makes it popular among laborers who want to make the most of their short hours of rest as well as ascetics who use it as a meditation aid. Those who chew the kelp long enough have short-term synestesiac episodes that make sound waves tangible and often visible. For some reason, most chewers assert that accordion music makes the most beautiful sound patterns. Those hoping to score bucket kelp often follow the whine and groan of accordions and find a circle of enraptured chewers with kelp to spare.
@@ -24,7 +24,6 @@ Bucket kelp is outlawed in Jahur because its primary harvesters are [octoids](/w
 * Does the kelp aid in spell casting or preparation?
 * Who is really responsible for the poisoned batches of bucket kelp?
 * Tell me more about the Holy Fools, the heretical cult of Iano.
-
 
 
 

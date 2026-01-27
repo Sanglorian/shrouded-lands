@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Ocean_of_Bitter_Regrets"
 categories:
   - "Bodies of water"
   - "Regions"
-  - "The Bitter Coast"
+  - "Bitter Coast"
   - "Category:The Ocean of Bitter Regrets"
 media: []
 ---
@@ -19,7 +19,6 @@ With [00.06](/wiki/00-06/) begins the Ocean of Bitter Regrets, which stretches f
 
 ## Phenomena
 * The [Dreamsong](/wiki/dreamsong/): The singing of whales creates the Dreamsong, the plane of dreams.
-
 
 
 

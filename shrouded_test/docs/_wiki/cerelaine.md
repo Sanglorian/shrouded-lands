@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Cerelaine"
 categories:
   - "Characters"
   - "Elves"
-  - "Mages"
+  - "Wizards"
 media: []
 ---
 **Family:** Father of [Ledo](/wiki/ledo/).
@@ -29,6 +29,5 @@ Finally he came upon a solution. He would gather some human specimens and cast s
 * What exactly is Cerelaine trying to learn about humans? Is it something connected to Mirror Lake?
 * So the people in the Timberlode are humans who look like elves and believe themselves to be elves. What is their society like?
 * Who are some of the people that Cerelaine has abducted?
-
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Amelar_the_Immaculate"
 categories:
   - "Elves"
   - "Hierophants"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 :Amelar is also known as the **Hierophant of Constant Sorrow**. There is also a figure known only as the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). There are a number of other [Hierophant](/wiki/hierophants/)s in the Shrouded Lands.
@@ -45,6 +45,5 @@ So, while all elves respect the wisdom of the Hierophant, they find being in her
 * Who were Ilsenaire and Alvadr?
 * Are there any other elves who take on memories in this way?
 * Why doesn't the Weeper give up the memory of his daughter's disappearance and live happily?
-
 
 

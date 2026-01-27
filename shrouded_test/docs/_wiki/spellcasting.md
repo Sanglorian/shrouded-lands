@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spellcasting"
 categories:
   - "Elementalists"
-  - "Mages"
+  - "Wizards"
   - "Magic"
   - "Sorcerers"
   - "Wizards"
@@ -178,7 +178,6 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Some say the sorcerers of Bergolast placed fingers of stone in the Sea of Typhoons to mark the city’s maritime borders.
 * Shnutu knows the languages of every flying thing, and the many winds.
 * Other possible categories: elementals or elementalism; binding (elementals and fiends); enchantment (of magic items or of people); language (High Tongue, Shnutu’s languages, sphere of annihilation)*
-
 
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Demon_of_Many_Colors"
 categories:
   - "Characters"
   - "Creatures"
-  - "The World's Edge and Beyond"
+  - "World's Edge and Beyond"
 media: []
 ---
 **Inspiration:** 'Rainbow Demon' by Uriah Heep
@@ -19,6 +19,5 @@ He rides along the entire Edge every day on a perfectly predictable schedule, cu
 ### Hooks:
 * Why is the demon doing this?
 * Where does the demon come from? Why does he look like that?
-
 
 

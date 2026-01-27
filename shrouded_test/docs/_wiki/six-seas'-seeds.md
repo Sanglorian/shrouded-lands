@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Six_Seas%27_Seeds"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-seeds.png)Hex [29.14.38](/wiki/29-14/)
@@ -38,5 +38,4 @@ What most don't know is that Six Sea's Seeds is owned by [Lady Seline](/wiki/lad
 * How is Seline helping the octopoids? What is the form of her contact with them?
 * What other pies does Lady Seline have her fingers in?
 * Can anyone say Six Seas' Seeds ten times fast?
-
 

@@ -8,7 +8,7 @@ categories:
   - "Buildings"
   - "Giants"
   - "Lost civilisations"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -26,7 +26,6 @@ The city sprawls in miles and miles of tunnels, dead ends, storerooms, crypts, m
 ### Hooks:
 * Was it [giants](/wiki/giants/) who lived here? What happened to them?
 * What other settlements has Shuttered engulfed?
-
 
 
 

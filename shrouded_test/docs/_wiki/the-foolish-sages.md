@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Foolish_Sages"
 categories:
   - "Creatures"
   - "Organisationss"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 These eccentric sages were exiled to Border’s Hill ([20.18](/wiki/20-18/), on the borders of Thring) after an unfortunate accident involving a magical experiment on a herd of the Duke's cattle.![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs23.jpg)
@@ -34,6 +34,5 @@ To make matters even more grotesque, it is possible for the two halves of one sa
 * What exactly was the experiment that got the Foolish Sages kicked out of **Thring**?
 * What other foolish experiments have the sages performed in their quest for knowledge?
 * Can a time-splintered sage be used to predict the future?
-
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Henry_Yaboon"
 categories:
   - "Blind Midshotgatepool"
   - "Characters"
-  - "Yaboons"
+  - "Blind Midshotgatepool"
 media: []
 ---
 ## The King without a Throne
@@ -25,6 +25,5 @@ Though the elite of Blind Midshotgatepool are frightened of Yaboon's power, they
 * We still know almost nothing about the Pacharia or their worshippers. What are they?
 * How are Henry's relations with the rest of his family?
 * Is Henry trying to create a personality cult or does he have another motive?
-
 
 

@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Koldran"
 categories:
   - "Characters"
   - "Humans"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 **Koldran the Mighty** was well-known in the north, particularly as the Holder of the [Immovable Rod](/wiki/immovable-rod/) of [Penultimate Thule](/wiki/penultimate-thule/) (the [North Pole](/wiki/north-pole/)) and as the father of many progeny (perhaps a hundred).
@@ -21,6 +21,5 @@ media: []
 * [Grimkjel Koldranson](/wiki/grimkjel-koldranson/) leads a band of mercenary [gnolls](/wiki/gnolls/) that the people of Northburn Holding ([22.03](/wiki/22-03/)) are considering hiring
 
 * [Tamilda Koldransdotter](/wiki/tamilda-koldransdotter/) is [Azurnay](/wiki/azurnay/)'s best vermin wrangler
-
 
 

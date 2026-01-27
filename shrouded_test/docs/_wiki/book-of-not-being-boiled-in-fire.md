@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Book_of_Not_Being_Boiled_i
 categories:
   - "Books"
   - "Dead Tiamat"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-book-boil.jpg)Connects to: [03.13](/wiki/03-13/), [26.16](/wiki/26-16/) and [29.14.50](/wiki/29-14/).
@@ -22,6 +22,5 @@ Recently several pages have been discovered to have been torn from The Book of N
 * Who were the Pure Ones? Were they inquisitors of the Temple of Pure Light? What happened to that splinter sect?
 * Draco-lions?
 * Are there four other such books? Where are they?
-
 
 

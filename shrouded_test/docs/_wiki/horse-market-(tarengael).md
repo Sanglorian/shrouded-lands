@@ -11,7 +11,7 @@ categories:
   - "Knights"
   - "Mounts"
   - "Tarengael"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 ![](/media/161604.png)Here in [Eastbridge](/wiki/eastbridge/) the last [horses](/wiki/horses/) can be bought. They are few indeed for they have died far too often to breed. Each month at the square in the middle of town a warhorse auction is held and men come from [Thring](/wiki/duchy-of-thring/) and beyond to see the strange beasts. Perhaps one can see [Telamar](/wiki/telamar/), the steed of [Ulthar](/wiki/ducal-family-of-thring/) himself, or [Alarion](/wiki/alarion/), the famed mount of the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). These horses have served their masters to the death time and time again and after they die their bones are cleaned and placed within a bag fashioned from the dead horse's skin and out trots a young colt that needs no breaking to hold a saddle. Over the years many of the horses have been lost one by one and knights still quest for the bones and hide of [Garendar](/wiki/garendar/) beyond the [World's Edge](/wiki/world's-edge/) ([50.03](/wiki/50-03/)). And woe to any man who buys a horse that the [knights of Thring](/wiki/knights-of-thring/) judge to be unworthy of for no matter how rich he will surely die.
@@ -25,7 +25,6 @@ media: []
 * Why do all the horses have "ar" in their names?
 * Why didn't these horses go off in exile to the [Golden Realm](/wiki/golden-realm/)?
 * Who got killed for trying to buy a horse?
-
 
 
 

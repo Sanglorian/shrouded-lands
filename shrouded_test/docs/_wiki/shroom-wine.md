@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shroom_wine"
 categories:
   - "Hobgoblins"
-  - "The Freeholds"
+  - "Freeholds"
   - "Victuals"
 media: []
 ---
@@ -31,6 +31,5 @@ Most shroomwine that gets exported is a generic product containing a mixture of 
 * Are the wax-based elves real or merely hallucinations?
 * Who or what is Nibbw?
 * What would happen if you mixed a bottle of shroomwine with a jar of poppy brew from [23.23](/wiki/23-23/) (the [Dust Walkers](/wiki/dust-walkers/))?
-
 
 

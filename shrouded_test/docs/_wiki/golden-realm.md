@@ -8,8 +8,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Golden_Realm"
 categories:
   - "Golden Realm"
   - "Nations"
-  - "The King in Splendour"
-  - "The Twelve Nations"
+  - "King in Splendor"
+  - "Twelve Nations"
   - "Unseelie elves"
 media: []
 ---
@@ -28,7 +28,6 @@ The people of the Golden Realm, as do many in the south, have dark skin. It is o
 * There are Golden Realm slaves in the Burning Lands. One, [Abassi](/wiki/abassi/), has converted "praying gnolls" to the King.
 * When the elf court split and the [unseelie elves](/wiki/unseelie-elves/) departed, it is said that they went - along with the [horses](/wiki/horses/) - by white barge to the Golden Realm. Also among the Twelve Nations is [Alacoda](/wiki/alacoda/), nation of the high elves.
 * Zealots who were expelled from the Golden Realm for their extreme views live in a tower ([07.33](/wiki/07-33/)), fight with gleaming metal armour, are blind except for their one-eyed leader, and torture people to convert them to the worship of the [King in Splendour](/wiki/king-in-splendor/).
-
 
 
 

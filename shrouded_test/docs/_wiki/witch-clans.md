@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Witch_Clans"
 categories:
   - "Families"
   - "Peoples"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witch Clans"
 media: []
 ---
@@ -110,7 +110,6 @@ To create a new witch clan, roll once on each of these tables.
 18. The Whumpids
 19. The Charnies
 20. The Dadiwhirls
-
 
 
 

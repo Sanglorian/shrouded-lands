@@ -7,11 +7,11 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Sweitbor_the_Roarer"
 categories:
   - "Characters"
   - "Ducal family of Thring"
-  - "Dukes of Thring"
+  - "Ducal family of Thring"
   - "Lochgates"
   - "Lycanthropes"
   - "Nobles"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 **Sweitbor the Roarer** was the **fifth Duke of Thring**, successor to [Duke Deloc](/wiki/duke-theloc/). See the [Lochgates](/wiki/lochgates/) entry for controversy over the succession.
@@ -20,7 +20,6 @@ If Sweitbor was a Lochgate werebear, that would explain why according to legend,
 
 ### Connections
 * They say that in the days before [Duke Ulthar](/wiki/duke-ulthar/) Castle Karandur was founded by a woman who was once a bear. ([13.17](/wiki/13-17/))
-
 
 
 

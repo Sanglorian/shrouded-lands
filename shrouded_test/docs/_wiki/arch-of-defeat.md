@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Arch_of_Defeat"
 categories:
   - "Buildings"
   - "Conflicts"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-arch.png)The Doge in the time before there was a [Doge](/wiki/doges/) ordered the construction of an enormous monument to [Shuttered](/wiki/city-of-shuttered-windows/)’s military failures. ‘Why,’ he asked, ‘celebrate victory when victory is its own reward?’
@@ -24,6 +24,5 @@ The day ends with bonfires on which citizens burn effigies of all those who defe
 * Whose effigies do the people of Shuttered burn?
 * What terrible mistakes have been made during this festival?
 * When has Shuttered lost a battle for want of an iron nail?
-
 
 

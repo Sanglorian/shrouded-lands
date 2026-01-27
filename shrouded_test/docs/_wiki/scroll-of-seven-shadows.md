@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Bergolast"
   - "Books"
-  - "The King in Splendour"
+  - "King in Splendor"
 media: []
 ---
 ![](/media/Shutt-scroll.png)Connects to: [17.17.03](/wiki/17-17/), [25.15](/wiki/25-15/), [29.14.19](/wiki/29-14/), [29.14.50](/wiki/29-14/), [37.01](/wiki/37-01/), [38.28](/wiki/38-28/) and [40.06](/wiki/40-06/).
@@ -21,7 +21,6 @@ The last section of the scroll is written in a different hand, terse and cryptic
 * Was the seventh spear forged from the same metal as the Broken Spear ([40.06](/wiki/40-06/))? Apparently the Broken Spear was used to kill [Tiamat](/wiki/dead-tiamat/). Does that mean that the Broken Spear was also doused in the lifeblood of a Tarrasque?
 * Does the Temple Invisible want to get their hands on this seventh spear? Even if they did, who would wield it? Would they give the spear to the [Lion in Splendor](/wiki/king-in-splendor/)? How exactly do you give a weapon to the Sun?
 * Let's say that the Lion in Splendor does slay his nameless wife ([17.07](/wiki/17-07/).03). What happens then? Do we get a day that lasts forever? What exactly is 'purifying flame'?
-
 
 
 

@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Doges"
 categories:
   - "Characters"
   - "Doges"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 The Doges are the rulers of the [Shuttered City](/wiki/city-of-shuttered-windows/). The current Doge is the [blind Doge](/wiki/blind-doge/).
@@ -25,6 +25,5 @@ It is true that the flesh, bones and entrails of the great Doge [Simone the Fowl
 ### Hook:
 * Why do the Doges wear a bird on their heads?
 * Will the bird really fly off if the Doge is unworthy?
-
 
 

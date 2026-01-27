@@ -10,7 +10,7 @@ categories:
   - "Characters"
   - "Creatures"
   - "Frogs"
-  - "The Kingswood"
+  - "Kingswood"
   - "The Witchwater"
 media: []
 ---
@@ -26,7 +26,6 @@ difficult for them and carries a large chance of failure. Alternatively, they ca
 These enemies are humans, especially [Thringmen](/wiki/thringmen/), for the Spawn remembers what the men of Thring did to frogkind ([40.09](/wiki/40-09/)). The Spawn will not generally attack non-humans however, and they can even be consulted with about some magical matters that they have mastered.
 ### Hooks:
 * What caused the Spawn to form and how did it learn magic?
-
 
 
 

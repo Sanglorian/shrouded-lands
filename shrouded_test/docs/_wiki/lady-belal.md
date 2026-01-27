@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Belal"
 categories:
   - "Characters"
   - "Lords Sanguine"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 One of the [Lords Sanguine](/wiki/lords-sanguine/)
@@ -18,6 +18,5 @@ Lady Belal of the Nets is slowly rebuilding her ancestral castle in the midst of
 
 ### Hooks
 * Who sabotages Lady Belal most persistently?
-
 
 

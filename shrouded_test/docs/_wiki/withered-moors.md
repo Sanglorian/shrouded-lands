@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Withered_Moors"
 categories:
   - "Regions"
-  - "The Withered Moors"
+  - "Withered Moors"
 media: []
 ---
 ![](/media/Withered.png)
@@ -22,5 +22,4 @@ This windswept frontier is wedged between three inhospitable regions. It lies in
 
 [43.03](/wiki/43-03/) (Master Var’s Cave): the home of the greatest troll artist in these lands. Perhaps you would like to purchase a ship in the bottle fashioned from human fingernails or an oblation bowl made of silvered-inlaid puppy skulls?
 [44.01](/wiki/44-01/) (The Ruined Hut): lies abandoned due to a surfeit of spider monkeys.
-
 

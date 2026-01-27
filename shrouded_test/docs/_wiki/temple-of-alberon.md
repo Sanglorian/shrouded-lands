@@ -8,7 +8,7 @@ categories:
   - "Alberon"
   - "Creatures"
   - "Religious groups"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -28,7 +28,6 @@ The troglodyte Brothers of the Temple of Alberon believe that [Alberon](/wiki/al
 * What sort of great sacrilege do the Brothers (of the troglodyte sect known as the Temple of Alberon) have in mind?
 * Is there any way to break the troglodyte curse?
 * What role does this small and stinky sect play in City politics?
-
 
 
 

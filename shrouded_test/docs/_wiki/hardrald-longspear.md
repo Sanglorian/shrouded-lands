@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hardrald_Longspear"
 categories:
   - "Characters"
   - "Longspears"
-  - "The Westmarches"
+  - "Westmarches"
   - "Winds"
 media: []
 ---
@@ -17,7 +17,6 @@ Hardrald Longspear was a barbarian from the Westmarches. Armed with the longspea
 
 ## Further reading
 * See the Longspear Bridge entry for more on his exploits ([22.11](/wiki/22-11/))
-
 
 
 

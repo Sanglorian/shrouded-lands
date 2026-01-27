@@ -6,13 +6,12 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Abdul
 categories:
 - Characters
-- The Westmarches
+- Westmarches
 - Tieflings
 media: []
 is_redirect: true
 redirect_to: '05.04'
 ---
 Proprietor of the Glass River Winery ([05.04](/wiki/05-04/))
-
 
 

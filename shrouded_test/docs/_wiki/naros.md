@@ -8,7 +8,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Naros"
 categories:
   - "Destroyed nations and places"
   - "Nations"
-  - "The Twelve Nations"
+  - "Twelve Nations"
 media: []
 ---
 ## Features
@@ -33,6 +33,5 @@ It is unknown what happened to the men of Naros, though some claim that their vo
 * What happened to the people of Naros? Supendar’s magic sent them into the land of fairy and the dryads came out again and were successfully transplanted. In order to do this it seems that the humans must have hauled the trees of the dryads, what became of them?
 * So now Naros is full of undeath and nightmares, has any of this corruption leaked through into the land of fairy?
 * What sort of metaphysics does the land of fairy have?  
-
 
 

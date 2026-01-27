@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Black_Balloon"
 categories:
   - "Artifacts"
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-black.jpg)Hex [29.14.03](/wiki/29-14/)
@@ -31,6 +31,5 @@ Nobody knows why the Balloon is not returning. However, a few hours after its as
 * Where did the black gas come from?
 * What happened to Yilbar, and why hasn't the balloon come down?
 * Yilbar's son is offering a handsome reward to anyone who can get up to the balloon and rescue his sisters, if they still live. But how would anyone get up that high?
-
 
 

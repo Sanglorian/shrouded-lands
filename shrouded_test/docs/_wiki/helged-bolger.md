@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Helged_Bolger"
 categories:
   - "Bolgers"
   - "Characters"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Vampires"
 media: []
 ---
@@ -23,7 +23,6 @@ She attacks foreigners (she scrupulously avoids preying on citizens of [Shuttere
 ### Hooks:
 * Why is Helged only a head? What happened?
 * Where did she get her troop of monkeys?
-
 
 
 

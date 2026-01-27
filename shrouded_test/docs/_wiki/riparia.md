@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Riparia"
 categories:
   - "Beavers"
   - "Cities"
-  - "The Kingswood"
+  - "Kingswood"
   - "The Witchwater"
 media: []
 ---
@@ -27,7 +27,6 @@ Beavers keep mute but clever [muskrats](/wiki/muskrats/) as pets.
 * Why are some animals able to talk?
 * What urgent messages might be sent by beaver relay?
 * What would one trade with a beaver?
-
 
 
 

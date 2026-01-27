@@ -9,7 +9,7 @@ categories:
   - "Characters"
   - "Priests"
   - "Sorcerers"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 : See also [Sorcerers](/wiki/sorcerers/)
@@ -23,7 +23,6 @@ He follows [Baron Autumn](/wiki/baron-autumn/).
 #### Hooks:
 * Who was the sorcerer's rival?
 * What great spells can be done by featherstitch?
-
 
 
 

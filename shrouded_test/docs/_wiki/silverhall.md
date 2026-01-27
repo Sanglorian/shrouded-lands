@@ -7,7 +7,7 @@ original_url: https://shrouded-lands.fandom.com/wiki/Silverhall
 categories:
 - Hex
 - Lands of the Night Cattle
-- The Lands of the Night Cattle
+- Lands of the Night Cattle
 media: []
 region: the Lands of the Night Cattle.
 ---
@@ -26,5 +26,4 @@ Those Lord Olmsted has called to his side have noted that in the presence of the
 
 ## Hook
 - Where does the silver wall come from? What does its magic do exactly?
-
 

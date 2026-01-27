@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_Colony"
 categories:
   - "Regions"
-  - "The Lost Colony"
+  - "Lost Colony"
 media: []
 ---
 ![](/media/Lost_colony.png)
@@ -19,5 +19,4 @@ Very few places in the Shrouded Lands lie beyond the City of Shuttered Windowsâ€
 * [48.13](/wiki/48-13/) (The People of the Claw): a lost colony of the Shuttered City, they worship a large crayfish that has grown vast on their prayers and offering.
 * [48.14](/wiki/48-14/) (The Long Dock): best not to walk it.
 * [50.14](/wiki/50-14/) (The Wreck of the Fat Crow): a ship with a hold full of giant bee honey has run aground here.
-
 

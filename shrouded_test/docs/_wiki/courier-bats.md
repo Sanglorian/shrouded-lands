@@ -8,8 +8,8 @@ categories:
   - "Animals"
   - "Bats"
   - "Creatures"
-  - "The Kingswood"
-  - "The World's Edge and Beyond"
+  - "Kingswood"
+  - "World's Edge and Beyond"
 media: []
 ---
 Connects to: [36.04](/wiki/36-04/) and the World’s Edge and Beyond.
@@ -20,7 +20,6 @@ Their curious name comes from the bats' habit of carrying objects, not in their 
 ### Hooks:
 * Where do the courier bats come from? Is someone sending them?
 * Where do the courier bats go, and why do they never return?
-
 
 
 

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Mud_Tongue_and_High_Tongue"
 categories:
   - "Languages"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## With a Mouth Full of Mud
@@ -29,5 +29,4 @@ But the Mud Tongue is not without its own merits. Outside of the City it has ano
 * What are the Thousand Spells and One?
 * Why does [Count Seutorian](/wiki/count-seutorian/)’s balloon look like Baron Harenghast’s mother ([30.12](/wiki/30-12/))?
 * Why is the language school illegal? Who is allowed to learn the High Tongue? How can you enforce that?
-
 

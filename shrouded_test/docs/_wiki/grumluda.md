@@ -9,7 +9,7 @@ categories:
   - "Grumluda"
   - "Nations"
   - "Orcs"
-  - "The Twelve Nations"
+  - "Twelve Nations"
 media: []
 ---
 The domain of the [Eternal-King-of-All-Orcs](/wiki/eternal-king-of-all-orcs/) and importer of ferocious beasts.
@@ -28,7 +28,6 @@ Has an [embassy](/wiki/embassies-shuttered/) in Shuttered. The fighting schools 
 The minotaur nation was brought low by the combination of Grumluda's military might, the necromancers of [Naros](/wiki/naros/), and [merfolk](/wiki/merfolk/) of the [Southside Ocean](/wiki/southside-ocean/). Minotaurs were decreed to be as they were when the world was young - slaves to the orcish Eternal-King in life and fodder to be reanimated in death. What were once minotaur lands were absorbed by the conquerors.
 
 Gumlunda has coerced the [Doge of Shuttered](/wiki/doges/) into signing the [Horn Treaty](/wiki/horn-treaty/), decreeing any minotaur to be property of the orcish nation.
-
 
 
 

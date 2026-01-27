@@ -6,11 +6,10 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Doctors"
 categories:
   - "Professions"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 : See also [Plague doctors](/wiki/plague-doctors/)
 
 [Geda the Fair](/wiki/geda-the-fair/) served as [Simone the Fowl](/wiki/simone-the-fowl/)'s doctor throughout his reign.
-
 

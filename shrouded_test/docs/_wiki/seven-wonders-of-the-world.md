@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Seven_Wonders_of_the_World
 categories:
   - "Books"
   - "Taran Prenderghast"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Seven Wonders of the World
@@ -43,6 +43,5 @@ Taran's list is a revision of a list compiled over a thousand years ago by the f
 * What else did Caprondes do?
 * Many of the ancient wonders are from lost or rarely mentioned nations. What happened to them?
 * Have rival lists of wonders been made? What's on them?
-
 
 

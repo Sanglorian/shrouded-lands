@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Waterworks_(Shuttered)"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![](/media/Shutt-water.png)Connects to: [29.14.01](/wiki/29-14/), [29.14.35](/wiki/29-14/), [29.14.36](/wiki/29-14/), [29.15](/wiki/29-15/), [51.29.01](/wiki/51-29/) and the Burning Lands.
@@ -25,5 +25,4 @@ The Guild of the Waterworks, the Plumbers, dutifully maintains and expands the s
 ### Connections:
 * The waterworks is busiest during the heavy annual rainfall ([29.14.36](/wiki/29-14/)).
 * The workers of the waterworks saved the City from invasion during the [Gnawbone War](/wiki/gnawbone-war/) with the [gnolls](/wiki/gnolls/) of the [Burning Lands](/wiki/the-burning-lands/) (see the main Burning Land entry and [51.29.01](/wiki/51-29/)).
-
 

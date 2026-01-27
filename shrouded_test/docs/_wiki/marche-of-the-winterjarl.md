@@ -5,10 +5,10 @@ pageid: 2582
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Marche_of_the_Winterjarl
 categories:
-- Nordanbjorn
+- Marche of the Winterjarl
 - Regions
-- The Grey Mountains
-- The Marche of the Winterjarl
+- Grey Mountains
+- Marche of the Winterjarl
 media: []
 region: The Grey Mountains
 ---
@@ -40,6 +40,5 @@ The [Zoar Rajak](/wiki/zoar-rajak/) ([11.01](/wiki/11-01/)) feel differently. Th
 * Who else lives within the marche?
 * What is the truth behind the dispute between the goblins and the bears?
 * Where else have the nordanbjorn established themselves in this world?
-
 
 

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Reluctant_Temple_of_Albero
 categories:
   - "Alberon"
   - "Religious groups"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 :See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
@@ -29,6 +29,5 @@ He was the god of the City of Many Windows, and could not pass beyond its walls.
 * And how about the embassies in Shuttered?
 * How could Alberon slay Tiamat if he is confined to the City?
 * How does Alberon’s orthodox priesthood envisage the god’s link to the City?
-
 
 

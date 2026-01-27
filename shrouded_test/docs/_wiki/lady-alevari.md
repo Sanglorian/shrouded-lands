@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Lady_Alevari"
 categories:
   - "Characters"
   - "Nobles"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## Lady Alevari’s Lament
@@ -28,6 +28,5 @@ But she has not given up. In order to raise funds she has procured strange worms
 * Who supplied the magic that slew Lord Alevari? Is the lady a sorceress herself?
 * Who had been eaten to produce the silk? Who has dreamed their dreams?
 * Who does Lady Alevari hope to pay to provide magic to restore her husband? Is such a thing even possible?
-
 
 

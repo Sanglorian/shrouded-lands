@@ -8,7 +8,7 @@ categories:
   - "Characters"
   - "Dwarves"
   - "Smiths"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ## The Workshop of Hazad Kaldun
@@ -23,7 +23,6 @@ The work that he is engaged in now is a simple golden wire, one suitable to be w
 ### Hooks:
 * Who has commissioned this necklace? What use do they have in mind for it?
 * What else has Hazad Kaldun made?
-
 
 
 

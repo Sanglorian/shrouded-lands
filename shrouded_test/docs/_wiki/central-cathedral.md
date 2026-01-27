@@ -7,12 +7,11 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Central_Cathedral"
 categories:
   - "Alberon"
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) is taller than, and casts a shadow upon, the Central Cathedral. 
 ## Connections
 * There is a [Great Temple of Alberon](/wiki/great-temple-of-alberon/). It is not clear what the relationship between these two buildings is, or whether they are the same building.
-
 
 

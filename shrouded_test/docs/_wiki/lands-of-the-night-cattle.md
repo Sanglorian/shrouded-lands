@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lands_of_the_Night_Cattle"
 categories:
   - "Regions"
-  - "The Lands of the Night Cattle"
+  - "Lands of the Night Cattle"
 media: []
 ---
 ![](/media/Moo.png) 
@@ -50,5 +50,4 @@ From the western plains, past the edge of the Kingswood and up into the northern
 * What cults value these albino cows for sacrifices?
 * Who are the individual lords who rule the various keeps of the night men?
 * Why do some elves want human infants?
-
 

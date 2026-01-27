@@ -8,7 +8,7 @@ categories:
   - "Creatures"
   - "Goblins"
   - "Peoples"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 Bugbears are scrawny, pot-bellied goblins bound not to oaks *([11.01](/wiki/11-01/))* but to pumpkins. When they pop headless out of a pumpkin patch, they carve themselves a face, light their eyes with candle stubs and fill their jaws with stones, sticks or broken glass. They wear whatever clothes they can find, seeming to prefer dresses. They speak with the voice of a small child; all bugbears sound the same.
@@ -23,7 +23,6 @@ A child can detect a bugbear by the light flickering from his or her wardrobe or
 #### Hooks:
 * What do [goblins](/wiki/goblins/) *([11.01](/wiki/11-01/)) *think of their larger cousins?
 * Has anyone ever returned from the land of the Sack Man?
-
 
 
 

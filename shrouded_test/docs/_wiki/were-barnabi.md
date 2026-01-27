@@ -9,7 +9,7 @@ categories:
   - "Lycanthropes"
   - "Peoples"
   - "Severard"
-  - "The Freeholds"
+  - "Freeholds"
 media: []
 ---
 Connects to: [13.08](/wiki/13-08/), [13.09](/wiki/13-09/), [18.11](/wiki/18-11/) and [31.04](/wiki/31-04/).
@@ -28,7 +28,6 @@ There is at least one other wereman who does not dwell with his brethren. This i
 * Where is the original Barnabus now?
 * Is there a way to cure Zeem Olmsted? What about the other weremen?
 * Who are the other weremen when they're not Barnabus? Anyone interesting or important among them?
-
 
 
 

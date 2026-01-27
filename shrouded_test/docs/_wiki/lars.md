@@ -9,7 +9,7 @@ categories:
   - "Characters"
   - "Chimerics"
   - "Creatures"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 :**Chimera** redirects here. For the creations of [Chimalia](/wiki/chimalia/) that combine the features of multiple animals or of humans and animals, see [Chimerics](/wiki/chimerics/).
@@ -27,7 +27,6 @@ Lars has, however, struck up a strange friendship with several castrati members 
 * What was Iraine purpose in creating Lars?
 * What kind of gargoyles are they? Are they [ivory ones](/wiki/ivory-gargoyles/)? Why is there an otyugh in the basement? What are the curses in the ceilings?
 * How can Lars sabotage his lady's wooing of Alberon?
-
 
 
 

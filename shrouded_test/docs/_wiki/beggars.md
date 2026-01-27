@@ -7,8 +7,8 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Beggars"
 categories:
   - "Bergolast"
   - "Professions"
-  - "The Duchy of Thring"
-  - "The Shuttered City"
+  - "Duchy of Thring"
+  - "City of Shuttered Windows"
 media: []
 ---
 Beggars are mentioned in the [Rhyme of the Sanguine Lords](/wiki/rhyme-of-the-sanguine-lords/):
@@ -24,7 +24,6 @@ A pompous beggar named the [Squatter King](/wiki/squatter-king/) holds court in 
 Beggars live in a swamp near [Castle Tarengael](/wiki/castle-tarengael/) to loot the bodies of the losers of the [Challenge of the Hand](/wiki/challenge-of-the-hand/).
 
 The most wretched beggars are at the Piss-and-Shit Castle.
-
 
 
 

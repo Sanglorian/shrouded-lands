@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Wild_men"
 categories:
   - "Humans"
   - "Peoples"
-  - "The Kingswood"
+  - "Kingswood"
 media: []
 ---
 Connects to: [05.04](/wiki/05-04/), [26.20.01](/wiki/26-20/) and [40.06](/wiki/40-06/).
@@ -28,6 +28,5 @@ These wild men are shy and avoid elves, [kobolds](/wiki/kobolds/) ([40.06](/wiki
 * What are the most popular breeds of hunting cat?
 * Who’s the wild man in Blind Midshotgatepool?
 * Does the ribbon lotus brew have any interesting properties?
-
 
 

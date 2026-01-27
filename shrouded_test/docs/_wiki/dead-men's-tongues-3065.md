@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dead_men%27s_tongues"
 categories:
   - "Creatures"
   - "She Who Waits"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -20,7 +20,6 @@ The [Whispering Sisters](/wiki/whispering-sisters/) once favored these tongues i
 * How were these tongues created?
 * Is it possible to reverse the transformation into a dead man's tongue? Was anyone able to arrest the process part-way through?
 * Why did the Whispering Sisters stop using the tongues in their rituals?
-
 
 
 

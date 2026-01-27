@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Haverlies_and_Cransoms"
 categories:
   - "Families"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witch Clans"
 media: []
 ---
@@ -20,6 +20,5 @@ However, the Haverlies have had great difficulties with their plans and now the 
 #### Hooks
 * Did any of the adult Cransoms escape the massacre?
 * Now that the Haverlies are growing desperate and trapped, what will they do?
-
 
 

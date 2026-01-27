@@ -10,7 +10,7 @@ categories:
   - "Lords Sanguine"
   - "Organisationss"
   - "Professions"
-  - "The Lands of Gore"
+  - "Hills of Gore"
 media: []
 ---
 The knights of [Lady Natala](/wiki/lady-natala/) and Castle Maratan ([07.17](/wiki/07-17/)).
@@ -23,7 +23,6 @@ Each kill that they may in the Lady’s name allows them to add a band of red to
 #### Hooks
 * One of these snickersees is [Elwen](/wiki/elwen/), a leader of [The Browncloaks](/wiki/browncloaks/) ([08.01](/wiki/08-01/)). [Gareth Lemarr](/wiki/daughter-of-ser-gareth-lemarr/) was another - his shield was entirely red
 * What other famous snickersnees are there?
-
 
 
 

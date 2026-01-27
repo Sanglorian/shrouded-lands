@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Menagerie_of_Pandelar"
 categories:
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -22,6 +22,5 @@ Another rumoured creature is the [xortoise](/wiki/xortoises/), an enormous creat
 * What and where are the other seven firstborn of Chimalia?
 * What was the favor that the Doge did for Pandelar?
 * Why did Pandelar eventually abandon the zoo? Was it something to do with the death of his daughter?
-
 
 

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Strigoi"
 categories:
   - "Peoples"
-  - "The Grey Mountains"
+  - "Grey Mountains"
 media: []
 ---
 The strigoi are a pale-skinned people who ride giant owls through the Grey Mountains. Thy are both respected and feared by the villagers, and wage war with the nordanbjorn ([14.00](/wiki/14-00/))—a conflict that allegedly has continued for centuries, but which has escalated recently.
@@ -26,5 +26,4 @@ When one of their own number dies before his or her time, the strigoi ‘go a-st
 * Did they truly escape the land of the dead? Could anyone else escape? What is that land like?
 * Why were there giant owls in the land of the dead?
 * Do the strigoi have ulterior motives in being present at deaths?
-
 

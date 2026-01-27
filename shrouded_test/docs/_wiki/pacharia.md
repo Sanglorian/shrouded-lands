@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Pacharia"
 categories:
   - "Deities"
-  - "The Pacharia"
+  - "Pacharia"
   - "Witches"
 media: []
 ---
@@ -19,7 +19,6 @@ The [earth whisperers](/wiki/earth-whisperers/) were the priestesses of the Pach
 * According to Castle Karandur folklore, in the time before [Duke Ulthar](/wiki/duke-ulthar/) three bear sisters fell in love with a Thringish knight. They called out to the Pacharia to be turned into human women. They were told that they must stay in their cave and eat nothing but [wormroot](/wiki/wormroot/) for a year and a day. The youngest sister stayed awake by keeping her paws in a cold spring; her thick coat fell away and she was a beautiful lady. She took Yelga as her name, married her knight and founded Castle Karandur in the cave where she spent her sleepless winter. ([13.17](/wiki/13-17/))
 * [Melgerez](/wiki/melgerez/) was worshipped as a pagan goddess, and the [paladins](/wiki/paladins/)' chaste marriage to the [Green Lady](/wiki/green-lady/) is based on the marriage between Melgerez and her eunuch warriors. That may indicate that she is one of the Pacharia, or that they both belonged to the same old religion.
 * The Drowned Temple ([27.19](/wiki/27-19/)) was founded by [Shara of Pontgate](/wiki/shara-of-pontgate/), one of the last priestesses of the Pacharia. She called the witches of the wild woods to join her there. She promised her four companions that their fields would always be fertile as long as the pews of the temple were full of the bodies of worshippers. The other four accepted on the condition that the temple be built on a nearby island rather than within the city. The standing stones of Shara’s temple stood on that island until the men of Shuttered came. 
-
 
 
 

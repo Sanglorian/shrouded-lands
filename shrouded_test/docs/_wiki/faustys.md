@@ -7,7 +7,7 @@ category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Faustys"
 categories:
   - "Families"
-  - "The Barrier Range"
+  - "Barrier Range"
   - "Witch Clans"
 media: []
 ---
@@ -20,6 +20,5 @@ The monsters are clearly alien. One boy is followed by a clockwork eye with wing
 * Do the Wild Hunts really collect the dead, or is that Clanswoman gossip?
 * What other companion beasts do Faustys have?
 * Do any of these extraplanar beings exist in the Shrouded Lands other than as Fausty companions?
-
 
 

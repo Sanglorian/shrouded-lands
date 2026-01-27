@@ -7,14 +7,13 @@ original_url: "https://shrouded-lands.fandom.com/wiki/The_Drow_of_Olmsted_Keep"
 categories:
   - "Characters"
   - "Elves"
-  - "The Lands of the Night Cattle"
+  - "Lands of the Night Cattle"
   - "Unseelie elves"
 media: []
 ---
 :**The Drow** redirects here. See [drow](/wiki/drow/) for other uses of that term.
 
 The Drow of Olmsted Keep manages barter between the Olmsteds and the outside world ([31.04](/wiki/31-04/)) and the elves of the [Kingswood](/wiki/kingswood/). She calls herself **the Faceless**.
-
 
 
 

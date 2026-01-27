@@ -9,7 +9,7 @@ categories:
   - "Bears"
   - "Families"
   - "Lycanthropes"
-  - "The Duchy of Thring"
+  - "Duchy of Thring"
 media: []
 ---
 Connected to: [11.20](/wiki/11-20/), [14.11](/wiki/14-11/), [15.11](/wiki/15-11/), [16.16.09](/wiki/16-16/), [18.11](/wiki/18-11/), [22.11](/wiki/22-11/) and [23.11](/wiki/23-11/).
@@ -32,7 +32,6 @@ Lochgates claim that the founder of their house, [Sweitbor the Roarer](/wiki/swe
 * What is the white stag? Why does everyone want to slay it?
 * Was Sweitbor the Roarer, the fifth Duke of Thring, a hero or villain?
 * When have the Lochgates become entangled in regional politics? Whom did they serve and how?
-
 
 
 

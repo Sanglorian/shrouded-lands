@@ -6,7 +6,7 @@ namespace: 0
 category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Undercity"
 categories:
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
   - "Undercity"
 media: []
 ---
@@ -33,5 +33,4 @@ The **Undercity** or **under-city** of [Shuttered](/wiki/city-of-shuttered-windo
 * The Undercity brothels have been using beetles from [Monatheron](/wiki/monatheron/).
 * [Lunfar](/wiki/lunfar/) has maps of the Undercity.
 * Some claim that the skull of the [Defiler](/wiki/defiler/) is locked in a vault in the depths of the Undercity.
-
 

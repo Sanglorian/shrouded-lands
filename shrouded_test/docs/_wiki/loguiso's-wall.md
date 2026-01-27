@@ -9,8 +9,8 @@ categories:
 - Buildings
 - Gnomes
 - Loguiso's Wall
-- The Barrier Range
-- The Shuttered City
+- Barrier Range
+- City of Shuttered Windows
 media: []
 region: the Barrier Range
 ---
@@ -34,7 +34,6 @@ The catastrophe left a fissure that impedes travel to this day. Overgrown with g
 * Were the templars able to achieve any vengeance against the Backbiters?
 * Who exorcises the angry spirits?
 * From where did the monstrous inhabitants come?
-
 
 
 

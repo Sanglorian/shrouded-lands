@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Balloons_(Shuttered)"
 categories:
   - "Artifacts"
   - "Buildings"
-  - "The Shuttered City"
+  - "City of Shuttered Windows"
 media: []
 ---
 ![http://apolitical.info/teleleli/?p=1725](/media/Unknownartist3.jpg)
@@ -26,6 +26,5 @@ The richest of the [Great Families](/wiki/great-families/) and [the Doge himself
 ### Hooks:
 * Who is in the market for aarakocra slaves or eggs? There ![](/media/Shutt-ball.png)must be someone in the City who wants to match the Doge.
 * How do you keep slaves that can fly from running away?
-
 
 
