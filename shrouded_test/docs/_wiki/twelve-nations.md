@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Twelve Nations"
 pageid: 3030
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Twelve_Nations"
 categories:
   - "Nations"

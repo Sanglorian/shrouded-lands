@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Band bosses"
 pageid: 4120
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Band_bosses"
 categories:
   - "Professions"

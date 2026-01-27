@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Destroyed nations and places"
 pageid: 4197
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Destroyed_nations_and_places"
 categories:
   - "Destroyed nations and places"

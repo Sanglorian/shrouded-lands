@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Kuo-toa"
 pageid: 2983
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Kuo-toa"
 categories:
   - "Creatures"

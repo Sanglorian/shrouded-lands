@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Dwarves"
 pageid: 2427
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dwarves"
 categories:
   - "Dwarves"

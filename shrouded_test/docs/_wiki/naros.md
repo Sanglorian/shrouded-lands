@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Naros"
 pageid: 2454
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Naros"
 categories:
   - "Destroyed nations and places"

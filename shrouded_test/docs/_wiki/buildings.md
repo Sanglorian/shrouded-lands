@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Buildings"
 pageid: 4183
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Buildings"
 categories:
   - "Buildings"

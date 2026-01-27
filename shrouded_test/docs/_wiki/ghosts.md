@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Ghosts"
 pageid: 4145
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ghosts"
 categories:
   - "Creatures"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "River Hyad"
 pageid: 3339
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/River_Hyad"
 categories:
   - "Bodies of water"

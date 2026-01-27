@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Lost civilisations"
 pageid: 4225
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_civilisations"
 categories:
   - "Lost civilisations"

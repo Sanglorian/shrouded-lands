@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Imperium Undying"
 pageid: 2736
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Imperium_Undying"
 categories:
   - "Imperium Undying"

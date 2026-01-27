@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Windseers"
 pageid: 4079
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Windseers"
 categories:
   - "Magic"

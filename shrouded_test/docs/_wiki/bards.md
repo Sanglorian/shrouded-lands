@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Bards"
 pageid: 3611
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bards"
 categories:
   - "Bards"

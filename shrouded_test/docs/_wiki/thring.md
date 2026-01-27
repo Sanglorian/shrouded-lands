@@ -3,7 +3,6 @@ layout: wiki_page
 title: Thring
 pageid: 3426
 namespace: 0
-category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Thring
 categories: []
 media: []

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Half-elves"
 pageid: 2606
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Half-elves"
 categories:
   - "Elves"

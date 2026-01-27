@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Alacoda"
 pageid: 3482
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Alacoda"
 categories:
   - "Elves"

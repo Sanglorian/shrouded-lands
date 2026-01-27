@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Golden Realm"
 pageid: 3642
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Golden_Realm"
 categories:
   - "Golden Realm"

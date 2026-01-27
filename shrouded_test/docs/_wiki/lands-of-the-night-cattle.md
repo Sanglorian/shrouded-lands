@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Lands of the Night Cattle"
 pageid: 2127
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Lands_of_the_Night_Cattle"
 categories:
   - "Regions"

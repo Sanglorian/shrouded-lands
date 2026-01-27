@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Earth whisperers"
 pageid: 4082
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Earth_whisperers"
 categories:
   - "Blind Midshotgatepool"

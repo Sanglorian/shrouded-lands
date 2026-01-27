@@ -3,7 +3,6 @@ layout: wiki_page
 title: "The Witchwater"
 pageid: 2658
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Witchwater"
 categories:
   - "Bodies of water"

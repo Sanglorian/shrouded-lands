@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Witch Clans"
 pageid: 2438
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Witch_Clans"
 categories:
   - "Families"

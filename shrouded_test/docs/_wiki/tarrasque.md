@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Tarrasque"
 pageid: 2443
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Tarrasque"
 categories:
   - "Characters"

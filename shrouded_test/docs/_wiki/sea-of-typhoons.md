@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Sea of Typhoons"
 pageid: 3278
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sea_of_Typhoons"
 categories:
   - "Bodies of water"

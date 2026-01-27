@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Dead Tiamat"
 pageid: 2452
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Tiamat"
 categories:
   - "Dead Tiamat"

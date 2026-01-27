@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Cattle"
 pageid: 4065
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle"
 categories:
   - "Alberon"

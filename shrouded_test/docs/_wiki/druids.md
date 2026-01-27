@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Druids"
 pageid: 2661
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Druids"
 categories:
   - "Druids"

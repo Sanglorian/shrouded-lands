@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Matriarchs"
 pageid: 4105
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Matriarchs"
 categories:
   - "Nobles"

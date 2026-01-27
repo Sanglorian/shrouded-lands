@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Birls"
 pageid: 3244
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Birls"
 categories:
   - "Families"

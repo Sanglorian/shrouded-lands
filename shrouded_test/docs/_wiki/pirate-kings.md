@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Pirate Kings"
 pageid: 3006
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Pirate_Kings"
 categories:
   - "Creatures"

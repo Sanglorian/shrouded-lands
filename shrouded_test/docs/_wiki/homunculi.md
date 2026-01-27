@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Homunculi"
 pageid: 4148
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Homunculi"
 categories:
   - "Beetlefolk"

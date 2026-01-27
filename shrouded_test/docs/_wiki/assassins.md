@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Assassins"
 pageid: 4069
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Assassins"
 categories:
   - "Assassins"

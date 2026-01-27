@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Bolgers"
 pageid: 2566
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Bolgers"
 categories:
   - "Bolgers"

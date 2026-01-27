@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Penderghasts"
 pageid: 2596
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Penderghasts"
 categories:
   - "Families"

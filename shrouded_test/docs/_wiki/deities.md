@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Deities"
 pageid: 3048
 namespace: 14
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Deities"
 categories:
   []

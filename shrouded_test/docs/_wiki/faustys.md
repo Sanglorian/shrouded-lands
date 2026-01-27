@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Faustys"
 pageid: 3241
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Faustys"
 categories:
   - "Families"

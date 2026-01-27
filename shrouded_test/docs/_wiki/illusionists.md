@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Illusionists"
 pageid: 3332
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Illusionists"
 categories:
   - "Gnomes"

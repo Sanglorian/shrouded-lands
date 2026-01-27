@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Elves"
 pageid: 2571
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Elves"
 categories:
   - "Creatures"

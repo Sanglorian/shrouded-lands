@@ -3,7 +3,6 @@ layout: wiki_page
 title: Viceroys
 pageid: 3261
 namespace: 0
-category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Viceroys
 categories:
   - "Characters"

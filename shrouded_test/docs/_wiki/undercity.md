@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Undercity"
 pageid: 4124
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Undercity"
 categories:
   - "City of Shuttered Windows"

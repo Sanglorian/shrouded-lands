@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Alberon"
 pageid: 2451
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Alberon"
 categories:
   - "Alberon"

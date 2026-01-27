@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Glass Rapids"
 pageid: 3003
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Glass_Rapids"
 categories:
   - "Bodies of water"

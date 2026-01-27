@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Ettiennes"
 pageid: 3194
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Ettiennes"
 categories:
   - "Creatures"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Books"
 pageid: 4179
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Books"
 categories:
   - "Books"

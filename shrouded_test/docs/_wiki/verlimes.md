@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Verlimes"
 pageid: 2728
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Verlimes"
 categories:
   - "Families"

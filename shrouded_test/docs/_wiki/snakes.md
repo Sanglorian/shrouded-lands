@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Snakes"
 pageid: 3346
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Snakes"
 categories:
   - "Animals"

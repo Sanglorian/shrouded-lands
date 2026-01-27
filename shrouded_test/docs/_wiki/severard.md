@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Severard"
 pageid: 3520
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Severard"
 categories:
   - "Humans"

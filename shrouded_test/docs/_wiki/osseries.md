@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Osseries"
 pageid: 2597
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Osseries"
 categories:
   - "Families"

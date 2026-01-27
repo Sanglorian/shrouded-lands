@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Dogtur"
 pageid: 3449
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Dogtur"
 categories:
   - "Humans"

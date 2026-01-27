@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Longspears"
 pageid: 3558
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Longspears"
 categories:
   - "Families"

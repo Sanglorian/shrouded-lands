@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Clark Ashton Smith"
 pageid: 4189
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Clark_Ashton_Smith"
 categories:
   - "Clark Ashton Smith"

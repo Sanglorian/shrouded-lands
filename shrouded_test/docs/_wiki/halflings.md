@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Halflings"
 pageid: 2563
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Halflings"
 categories:
   - "Halflings"

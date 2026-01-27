@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Regions"
 pageid: 4248
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Regions"
 categories:
   - "Regions"

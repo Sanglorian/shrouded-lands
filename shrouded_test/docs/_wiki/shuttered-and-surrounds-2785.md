@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Shuttered and surrounds"
 pageid: 2785
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered_and_surrounds"
 categories:
   - "Regions"

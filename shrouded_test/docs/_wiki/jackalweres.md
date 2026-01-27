@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Jackalweres"
 pageid: 3017
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Jackalweres"
 categories:
   - "Creatures"

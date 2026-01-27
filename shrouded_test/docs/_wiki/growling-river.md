@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Growling River"
 pageid: 4216
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Growling_River"
 categories:
   - "Growling River"

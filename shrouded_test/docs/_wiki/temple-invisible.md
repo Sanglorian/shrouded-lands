@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Temple Invisible"
 pageid: 2560
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Temple_Invisible"
 categories:
   - "Alberon"

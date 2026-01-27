@@ -3,7 +3,6 @@ layout: wiki_page
 title: Planes
 pageid: 3043
 namespace: 0
-category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Planes
 categories:
   - "Magic"

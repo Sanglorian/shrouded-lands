@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Scarecrows"
 pageid: 2455
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Scarecrows"
 categories:
   - "Organisationss"

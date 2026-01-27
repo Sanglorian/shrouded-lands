@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Grumluda"
 pageid: 3516
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Grumluda"
 categories:
   - "Grumluda"

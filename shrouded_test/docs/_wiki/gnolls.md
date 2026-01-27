@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Gnolls"
 pageid: 3381
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnolls"
 categories:
   - "Creatures"

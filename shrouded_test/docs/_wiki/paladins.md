@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Paladins"
 pageid: 2962
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Paladins"
 categories:
   - "Deities"

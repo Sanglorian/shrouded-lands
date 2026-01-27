@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Maddlows"
 pageid: 3242
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Maddlows"
 categories:
   - "Families"

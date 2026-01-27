@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Doppelgangers"
 pageid: 2533
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Doppelgangers"
 categories:
   - "Creatures"

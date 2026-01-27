@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Fey"
 pageid: 3467
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Fey"
 categories:
   - "Creatures"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: The World's Edge and Beyond
 pageid: 3354
 namespace: 0
-category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/The_World%27s_Edge_and_Beyond
 categories: []
 media: []

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Chimerics"
 pageid: 3156
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Chimerics"
 categories:
   - "Chimalia"

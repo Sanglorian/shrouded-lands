@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Nations"
 pageid: 2416
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Nations"
 categories:
   - "Nations"

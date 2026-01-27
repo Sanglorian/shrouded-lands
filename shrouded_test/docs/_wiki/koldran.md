@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Koldran"
 pageid: 3405
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Koldran"
 categories:
   - "Characters"

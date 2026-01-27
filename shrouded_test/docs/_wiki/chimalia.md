@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Chimalia"
 pageid: 3004
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Chimalia"
 categories:
   - "Chimalia"

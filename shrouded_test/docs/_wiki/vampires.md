@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Vampires"
 pageid: 3135
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Vampires"
 categories:
   - "Creatures"

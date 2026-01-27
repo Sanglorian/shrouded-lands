@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Elementals"
 pageid: 3560
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Elementals"
 categories:
   - "Creatures"

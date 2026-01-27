@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Thieves"
 pageid: 4075
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Thieves"
 categories:
   - "Blind Midshotgatepool"

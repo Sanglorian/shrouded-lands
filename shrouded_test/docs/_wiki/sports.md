@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Sports"
 pageid: 4260
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Sports"
 categories:
   - "Sports"

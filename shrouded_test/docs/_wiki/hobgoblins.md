@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Hobgoblins"
 pageid: 3568
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblins"
 categories:
   - "Goblins"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Fungi folk"
 pageid: 4154
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Fungi_folk"
 categories:
   - "Creatures"

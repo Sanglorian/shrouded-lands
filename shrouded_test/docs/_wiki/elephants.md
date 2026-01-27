@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Elephants"
 pageid: 2550
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Elephants"
 categories:
   - "Animals"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: Loguiso's Wall
 pageid: 3304
 namespace: 0
-category: 1
 original_url: https://shrouded-lands.fandom.com/wiki/Loguiso%27s_Wall
 categories:
 - Buildings

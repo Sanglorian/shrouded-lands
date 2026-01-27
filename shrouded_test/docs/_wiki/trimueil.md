@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Trimueil"
 pageid: 3231
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Trimueil"
 categories:
   - "Bards"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Plants"
 pageid: 2423
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Plants"
 categories:
   - "Plants"

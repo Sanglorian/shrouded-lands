@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Doges"
 pageid: 3197
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Doges"
 categories:
   - "Characters"

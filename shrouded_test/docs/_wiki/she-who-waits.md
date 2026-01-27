@@ -3,7 +3,6 @@ layout: wiki_page
 title: "She Who Waits"
 pageid: 3060
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/She_Who_Waits"
 categories:
   - "Deities"

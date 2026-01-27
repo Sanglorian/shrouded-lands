@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Rangers"
 pageid: 4084
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Rangers"
 categories:
   - "Blind Midshotgatepool"

@@ -3,7 +3,6 @@ layout: wiki_page
 title: "Artifacts"
 pageid: 4173
 namespace: 0
-category: 1
 original_url: "https://shrouded-lands.fandom.com/wiki/Artifacts"
 categories:
   - "Artifacts"
