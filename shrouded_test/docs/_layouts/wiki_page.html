@@ -14,7 +14,44 @@ layout: default
   {% endif %}
   {% if page.region %}
     <strong>Region:</strong> {{ page.region }}<br>
+{% endif %}
+
+{% assign redirect_target = nil %}
+{% assign redirect_fragment = nil %}
+{% assign target_page = nil %}
+{% assign is_true_redirect = false %}
+
+{% if page.is_redirect %}
+  {% assign redirect_target = page.redirect_to | split: "#" | first %}
+  {% assign redirect_fragment = page.redirect_to | split: "#" | last %}
+  {% assign target_page = site.wiki | where: "title", redirect_target | first %}
+
+  {% if page.categories == nil or page.categories == empty %}
+    {% assign is_true_redirect = true %}
+  {% elsif target_page and target_page.categories %}
+    {% assign page_categories = page.categories | sort %}
+    {% assign target_categories = target_page.categories | sort %}
+    {% if page_categories == target_categories %}
+      {% assign is_true_redirect = true %}
+    {% endif %}
   {% endif %}
+{% endif %}
+
+{% if page.is_redirect and is_true_redirect %}
+  {% assign redirect_base = redirect_target | remove_first: ":" | remove_first: "Category:" %}
+  {% assign redirect_slug = redirect_base | slugify %}
+  {% if target_page %}
+    {% assign redirect_url = target_page.url | relative_url %}
+  {% else %}
+    {% assign redirect_url = '/wiki/' | append: redirect_slug | append: '/' | relative_url %}
+  {% endif %}
+  {% if redirect_fragment and redirect_fragment != redirect_target %}
+    {% assign redirect_url = redirect_url | append: "#" | append: redirect_fragment %}
+  {% endif %}
+  <meta http-equiv="refresh" content="0; url={{ redirect_url }}">
+  <link rel="canonical" href="{{ redirect_url }}">
+  <p>Redirecting to <a href="{{ redirect_url }}">{{ page.redirect_to }}</a>...</p>
+{% endif %}
 
 <article class="wiki-content">
   {{ content }}
