@@ -95,11 +95,64 @@ When you add your own entry it can be additional information about a hex that ha
 
 {{ index_markdown | markdownify }}
 
+<style>
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>
+
+<section class="wiki-search" aria-labelledby="wiki-search-heading">
+  <h2 id="wiki-search-heading">Search</h2>
+  <p>Search by title, subtitle, summary, or alias.</p>
+  <label for="wiki-search-input" class="visually-hidden">Search wiki pages</label>
+  <input
+    id="wiki-search-input"
+    type="search"
+    placeholder="Search wiki pages"
+    autocomplete="off"
+  />
+</section>
+
 <h2>Pages</h2>
-<ul>
+<ul id="wiki-page-list">
   {%- assign wiki_pages = site.wiki | where_exp: "p", "p.is_redirect != true" -%}
   {%- assign pages = wiki_pages | sort_natural: "title" -%}
   {%- for p in pages -%}
-    <li>[ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {%- assign subtitle = p.subtitle | default: "" -%}
+    {%- assign summary = p.summary | default: "" -%}
+    {%- assign alias = p.alias | default: "" -%}
+    {%- assign search_text = p.title | append: " " | append: subtitle | append: " " | append: summary | append: " " | append: alias | strip | downcase -%}
+    <li data-search="{{ search_text }}">
+      [ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    </li>
   {%- endfor -%}
 </ul>
+
+<script>
+  (function () {
+    const input = document.getElementById('wiki-search-input');
+    const list = document.getElementById('wiki-page-list');
+    if (!input || !list) {
+      return;
+    }
+
+    const items = Array.from(list.querySelectorAll('li[data-search]'));
+    const filterList = () => {
+      const query = input.value.trim().toLowerCase();
+      items.forEach((item) => {
+        const matches = item.dataset.search.includes(query);
+        item.hidden = !matches;
+      });
+    };
+
+    input.addEventListener('input', filterList);
+  })();
+</script>
