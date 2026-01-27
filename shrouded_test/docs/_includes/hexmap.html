@@ -18,7 +18,7 @@
     {%- if center_page == nil -%}
       {%- assign center_page = site.wiki | where: "title", center_title | first -%}
     {%- endif -%}
-    {%- if center_page -%}
+    {%- if center_page and center_page.url != page.url -%}
       <a href="{{ center_page.url | relative_url }}">
         <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
              alt="{{ center_code }}">

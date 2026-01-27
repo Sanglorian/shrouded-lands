@@ -16,9 +16,10 @@ layout: default
   {% if page.subtitle %}
     <strong>Hex:</strong> {{ page.title }}<br>
   {% endif %}
-  {% if page.region %}
-    <strong>Region:</strong> {{ page.region }}<br>
+{% if page.region %}
+  <strong>Region:</strong> {{ page.region }}<br>
 {% endif %}
+</p>
 
 {% assign redirect_target = nil %}
 {% assign redirect_fragment = nil %}
