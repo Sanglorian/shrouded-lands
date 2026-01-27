@@ -137,6 +137,7 @@ This list groups redirect pages into two buckets:
 | Hoard | The Hoard |
 | Hoth Achaar | 26.01 |
 | Iraine | Iraine the Suitor |
+| Jahur | 19.31 |
 | Kalas Montra-brey | Brigadier Kalas Montra-brey |
 | Kavanjr | One-Eyed Kevanjr |
 | King in Splendour | King in Splendor |
