@@ -145,6 +145,72 @@ def load_poi_symbols():
 def normalize_symbol(symbol: str) -> str:
     return symbol.replace("\ufe0f", "") + "\ufe0e"
 
+SEGMENT_MAP = {
+    "0": "abcedf",
+    "1": "bc",
+    "2": "abged",
+    "3": "abgcd",
+    "4": "fgbc",
+    "5": "afgcd",
+    "6": "afgcde",
+    "7": "abc",
+    "8": "abcdefg",
+    "9": "abfgcd",
+}
+
+
+def render_segment_text(text: str, center_x: float, baseline_y: float, size: float, color: str) -> str:
+    char_w = size * 0.6
+    char_h = size
+    spacing = size * 0.18
+    stroke_w = max(size * 0.12, 1.0)
+
+    widths = []
+    for ch in text:
+        widths.append(char_w * 0.4 if ch == "." else char_w)
+    total_width = sum(widths) + spacing * (len(text) - 1)
+    start_x = center_x - total_width / 2.0
+    top_y = baseline_y - char_h
+
+    def segment_line(x0, y0, w, h, segment):
+        if segment == "a":
+            return (x0 + stroke_w / 2, y0, x0 + w - stroke_w / 2, y0)
+        if segment == "b":
+            return (x0 + w, y0 + stroke_w / 2, x0 + w, y0 + h / 2 - stroke_w / 2)
+        if segment == "c":
+            return (x0 + w, y0 + h / 2 + stroke_w / 2, x0 + w, y0 + h - stroke_w / 2)
+        if segment == "d":
+            return (x0 + stroke_w / 2, y0 + h, x0 + w - stroke_w / 2, y0 + h)
+        if segment == "e":
+            return (x0, y0 + h / 2 + stroke_w / 2, x0, y0 + h - stroke_w / 2)
+        if segment == "f":
+            return (x0, y0 + stroke_w / 2, x0, y0 + h / 2 - stroke_w / 2)
+        if segment == "g":
+            return (x0 + stroke_w / 2, y0 + h / 2, x0 + w - stroke_w / 2, y0 + h / 2)
+        raise ValueError(f"Unknown segment {segment}")
+
+    pieces = [
+        f'<g fill="none" stroke="{color}" stroke-width="{stroke_w:.2f}" '
+        f'stroke-linecap="round" stroke-linejoin="round">'
+    ]
+    cursor_x = start_x
+    for ch, ch_w in zip(text, widths):
+        if ch == ".":
+            r = stroke_w * 0.7
+            cx = cursor_x + ch_w / 2
+            cy = baseline_y - stroke_w * 0.4
+            pieces.append(f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{r:.2f}" fill="{color}"/>')
+            cursor_x += ch_w + spacing
+            continue
+        segments = SEGMENT_MAP.get(ch)
+        if segments:
+            for seg in segments:
+                x1, y1, x2, y2 = segment_line(cursor_x, top_y, ch_w, char_h, seg)
+                pieces.append(f'<path d="M {x1:.2f} {y1:.2f} L {x2:.2f} {y2:.2f}"/>')
+        cursor_x += ch_w + spacing
+    pieces.append("</g>")
+    return "".join(pieces)
+
 def parse_hex_code(value: str) -> Optional[tuple[int, int]]:
     match = HEX_TITLE_RE.match(value.strip())
     if not match:
@@ -396,6 +462,7 @@ def make_svg(
         )
 
     label_y = height - 6.0
+    label_markup = render_segment_text(code, cx, label_y, 8.5, "#222222")
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
@@ -404,8 +471,7 @@ def make_svg(
     {symbol_markup}
     {linework_markup}
     {poi_markup}
-    <text x="{cx:.1f}" y="{label_y:.1f}" text-anchor="middle" dominant-baseline="alphabetic"
-          font-size="9" font-family="system-ui, sans-serif">{code}</text>
+    {label_markup}
   {link_close}
 </svg>
 """
