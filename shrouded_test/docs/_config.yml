@@ -3,8 +3,6 @@ markdown: kramdown
 baseurl: ""
 url: ""
 
-destination: "C:/jekyll-output/shrouded_test"
-
 collections:
   wiki:
     output: true

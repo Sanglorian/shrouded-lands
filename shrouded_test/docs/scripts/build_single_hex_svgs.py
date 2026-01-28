@@ -5,6 +5,8 @@ import re
 from typing import Optional
 import yaml
 
+from emoji_to_path import char_to_svg_path  # NEW: convert emoji glyphs to SVG paths
+
 # === CONFIG ===
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,6 +18,11 @@ LINEWORK_YAML = ROOT / "_data" / "hex-lines.yml"
 HEX_TERRAIN_YAML = ROOT / "_data" / "hex-terrain.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# Fonts for glyph-as-path rendering (Noto / OpenMoji)
+FONTS_DIR = ROOT / "fonts"
+NOTO_EMOJI_FONT = FONTS_DIR / "NotoEmoji-Regular.ttf"
+OPENMOJI_BLACK_FONT = FONTS_DIR / "OpenMoji-black-glyf.ttf"
 
 HEX_TITLE_RE = re.compile(r"^(\d{2})\.(\d{2})(?:\.\d{2})?$")
 HEX_CODE_RE = re.compile(r"(\d{2})\.(\d{2})")
@@ -79,7 +86,9 @@ def collect_hex_metadata():
     Scans _wiki/*.md and returns a dict keyed by "XX.YY" of:
       {
         "has_page": True,
-        "color_hex": "#RRGGBB" or None
+        "color_hex": "#RRGGBB" or None,
+        "terrain": ...,
+        "poi": ...
       }
     """
     meta = {}
@@ -105,6 +114,11 @@ def collect_hex_metadata():
 
 
 def load_terrain_overrides():
+    """
+    Load terrain.csv with optional font columns:
+
+      terrain,hex-color,symbol-color,symbol,symbol-two,symbol-font,symbol-two-font
+    """
     if not TERRAIN_CSV.exists():
         return {}
     with TERRAIN_CSV.open(newline="", encoding="utf-8") as csvfile:
@@ -114,16 +128,27 @@ def load_terrain_overrides():
             terrain = (row.get("terrain") or "").strip()
             if not terrain:
                 continue
+
             overrides[terrain] = {
                 "hex_color": (row.get("hex-color") or "").strip(),
                 "symbol_color": (row.get("symbol-color") or "").strip(),
                 "symbol": (row.get("symbol") or "").strip(),
                 "symbol_two": (row.get("symbol-two") or "").strip(),
+                # optional per-symbol font selectors: "system", "noto", "openmoji"
+                "symbol_font": (row.get("symbol-font") or "").strip(),
+                "symbol_two_font": (row.get("symbol-two-font") or "").strip(),
             }
         return overrides
 
 
 def load_poi_symbols():
+    """
+    Load poi.tsv (tab-separated) with optional font column:
+
+      symbol<TAB>poi_name<TAB>color_hex<TAB>font
+
+    font can be "system", "noto", "openmoji". Blank -> system.
+    """
     if not POI_CSV.exists():
         return {}
     symbols = {}
@@ -137,14 +162,21 @@ def load_poi_symbols():
             if not symbol or not poi_name:
                 continue
             color = (row[2] or "").strip() if len(row) > 2 else ""
+            font = (row[3] or "").strip() if len(row) > 3 else ""
             symbols[poi_name] = {
                 "symbol": symbol,
                 "color": color,
+                "font": font,
             }
     return symbols
 
+
 def normalize_symbol(symbol: str) -> str:
+    """
+    Original behavior: strip U+FE0F and add U+FE0E to force text-style emoji.
+    """
     return symbol.replace("\ufe0f", "") + "\ufe0e"
+
 
 SEGMENT_MAP = {
     "0": "abcedf",
@@ -212,11 +244,13 @@ def render_segment_text(text: str, center_x: float, baseline_y: float, size: flo
     pieces.append("</g>")
     return "".join(pieces)
 
+
 def parse_hex_code(value: str) -> Optional[tuple[int, int]]:
     match = HEX_TITLE_RE.match(value.strip())
     if not match:
         return None
     return int(match.group(1)), int(match.group(2))
+
 
 def edge_direction(q: int, r: int, neighbor_q: int, neighbor_r: int) -> Optional[str]:
     if neighbor_q == q and neighbor_r == r - 1:
@@ -247,6 +281,7 @@ def edge_direction(q: int, r: int, neighbor_q: int, neighbor_r: int) -> Optional
                 return "BottomLeft"
     return None
 
+
 def opposite_edge(direction: str) -> str:
     opposites = {
         "Top": "Bottom",
@@ -257,6 +292,7 @@ def opposite_edge(direction: str) -> str:
         "TopLeft": "BottomRight",
     }
     return opposites.get(direction, direction)
+
 
 def load_hex_linework():
     if not LINEWORK_YAML.exists():
@@ -332,6 +368,120 @@ def load_hex_terrain_map():
             terrain_map[hex_code] = terrain
     return terrain_map
 
+
+# === FONT / GLYPH HELPERS ===
+
+def normalize_font_choice(raw: str) -> str:
+    """
+    Normalize a raw font choice ("system", "noto", "open", "openmoji", etc.)
+    into one of: "system", "noto", "openmoji".
+    Blank or unknown -> "system".
+    """
+    if not raw:
+        return "system"
+    v = raw.strip().lower()
+    if v.startswith("noto"):
+        return "noto"
+    if v.startswith("open"):
+        return "openmoji"
+    if v == "system":
+        return "system"
+    return "system"
+
+
+def base_char_for_font(s: str) -> str:
+    """
+    Remove variation selectors and return the first base character,
+    for use when looking up a glyph in a font.
+    """
+    if not s:
+        return s
+    cleaned = s.replace("\ufe0f", "").replace("\ufe0e", "")
+    return cleaned[0] if cleaned else s[0]
+
+
+def render_symbol_glyph(
+    symbol: str,
+    font_choice: str,
+    x: float,
+    y: float,
+    size: float,
+    color: str,
+    opacity_attr: str,
+) -> str:
+    """
+    Render a single glyph either as:
+      - system text (normalize_symbol + system-ui), or
+      - SVG path from Noto/OpenMoji via char_to_svg_path.
+
+    x, y: logical "centre" of the glyph
+    size: approximate visual size (similar to font-size)
+    """
+    if not symbol:
+        return ""
+
+    fc = normalize_font_choice(font_choice)
+
+    # System text: original behaviour
+    if fc == "system":
+        symbol_text = normalize_symbol(symbol)
+        return (
+            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="{size}" '
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'{symbol_text}</text>'
+        )
+
+    # Noto / OpenMoji as path
+    if fc == "noto":
+        font_path = NOTO_EMOJI_FONT
+    elif fc == "openmoji":
+        font_path = OPENMOJI_BLACK_FONT
+    else:
+        # Fallback to system text if something odd
+        symbol_text = normalize_symbol(symbol)
+        return (
+            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="{size}" '
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'{symbol_text}</text>'
+        )
+
+    # If the font file is missing, fall back gracefully
+    if not font_path.exists():
+        symbol_text = normalize_symbol(symbol)
+        return (
+            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="{size}" '
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'{symbol_text}</text>'
+        )
+
+    base_ch = base_char_for_font(symbol)
+
+    try:
+        d = char_to_svg_path(base_ch, font_path, target_px=size)
+    except Exception:
+        # If the font doesn't contain this glyph, or any error, fall back
+        symbol_text = normalize_symbol(symbol)
+        return (
+            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="{size}" '
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'{symbol_text}</text>'
+        )
+
+    # Approximate centering:
+    tx = x - size * 0.5
+    ty = y + size * 0.4
+
+    return (
+        f'<g transform="translate({tx:.1f},{ty:.1f})">'
+        f'<path d="{d}" fill="{color}"{opacity_attr} />'
+        f'</g>'
+    )
+
+
 # === HEX GEOMETRY ===
 
 def flat_hex_vertices(cx, cy, r):
@@ -346,6 +496,7 @@ def flat_hex_vertices(cx, cy, r):
         (cx - r / 2.0, cy + h),  # bottom-left
         (cx - r,       cy),      # left
     ]
+
 
 def flat_hex_points(cx, cy, r):
     """Flat-top regular hexagon (top/bottom edges horizontal)."""
@@ -367,6 +518,9 @@ def make_svg(
     poi_symbol: Optional[str],
     poi_color: Optional[str],
     linework: list[dict],
+    symbol_font: Optional[str] = None,
+    symbol_two_font: Optional[str] = None,
+    poi_font: Optional[str] = None,
 ) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
@@ -396,47 +550,71 @@ def make_svg(
         link_close = ""
 
     symbol_opacity_attr = f' fill-opacity="{symbol_opacity:.2f}"' if symbol_opacity is not None else ""
+
+    # Default colours and font choices
+    glyph_color = symbol_color or "#333333"
+    primary_font_choice = normalize_font_choice(symbol_font or "")
+    secondary_font_choice = normalize_font_choice(symbol_two_font or symbol_font or "")
+    poi_font_choice = normalize_font_choice(poi_font or "")
+
     symbol_markup = ""
     if symbol or symbol_two:
         base_size = 24
         if symbol and symbol_two:
             offset = base_size * 0.3
-            primary_symbol = normalize_symbol(symbol)
-            secondary_symbol = normalize_symbol(symbol_two)
-            symbol_markup = (
-                f'<text x="{cx - offset:.1f}" y="{cy + offset:.1f}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
-                f'{primary_symbol}</text>'
-                f'<text x="{cx + offset:.1f}" y="{cy - offset:.1f}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size * 2 / 3:.1f}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
-                f'{secondary_symbol}</text>'
+            # Primary at bottom-left-ish
+            symbol_markup += render_symbol_glyph(
+                symbol,
+                primary_font_choice,
+                cx - offset,
+                cy + offset,
+                base_size,
+                glyph_color,
+                symbol_opacity_attr,
+            )
+            # Secondary at top-right-ish, slightly smaller
+            symbol_markup += render_symbol_glyph(
+                symbol_two,
+                secondary_font_choice,
+                cx + offset,
+                cy - offset,
+                base_size * 2.0 / 3.0,
+                glyph_color,
+                symbol_opacity_attr,
             )
         else:
-            symbol_text = normalize_symbol(symbol or symbol_two)
-            symbol_markup = (
-                f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
-                f'dominant-baseline="middle" font-size="{base_size}" '
-                f'font-family="system-ui, sans-serif" fill="{symbol_color or "#333333"}"{symbol_opacity_attr}>'
-                f'{symbol_text}</text>'
+            active_symbol = symbol or symbol_two
+            active_font_choice = primary_font_choice if symbol else secondary_font_choice
+            symbol_markup = render_symbol_glyph(
+                active_symbol,
+                active_font_choice,
+                cx,
+                cy,
+                base_size,
+                glyph_color,
+                symbol_opacity_attr,
             )
+
     poi_markup = ""
     if poi_symbol:
-        poi_text = normalize_symbol(poi_symbol)
         poi_color_value = poi_color or "#000000"
         if not poi_color_value.startswith("#"):
             poi_color_value = f"#{poi_color_value}"
-        poi_markup = (
-            f'<text x="{cx:.1f}" y="{cy:.1f}" text-anchor="middle" '
-            f'dominant-baseline="middle" font-size="24" '
-            f'font-family="system-ui, sans-serif" fill="{poi_color_value}">'
-            f'{poi_text}</text>'
+        poi_markup = render_symbol_glyph(
+            poi_symbol,
+            poi_font_choice,
+            cx,
+            cy,
+            24,
+            poi_color_value,
+            "",  # no separate opacity for POIs currently
         )
 
     top_left, top_right, right, bottom_right, bottom_left, left = vertices
+
     def midpoint(a, b):
         return ((a[0] + b[0]) / 2.0, (a[1] + b[1]) / 2.0)
+
     anchors = {
         "Top": ((top_left[0] + top_right[0]) / 2.0, (top_left[1] + top_right[1]) / 2.0),
         "TopRight": midpoint(top_right, right),
@@ -533,15 +711,22 @@ def main():
                 symbol = override.get("symbol")
                 symbol_two = override.get("symbol_two")
                 symbol_color = f"#{override['symbol_color']}" if override["symbol_color"] else None
+                symbol_font = override.get("symbol_font")
+                symbol_two_font = override.get("symbol_two_font")
             else:
                 symbol = None
                 symbol_two = None
                 symbol_color = None
+                symbol_font = None
+                symbol_two_font = None
+
             fill_opacity = 0.5 if use_terrain_fallback else None
             symbol_opacity = 0.5 if use_terrain_fallback else None
+
             poi_entry = poi_symbols.get(poi_name) if poi_name else None
             poi_symbol = poi_entry.get("symbol") if poi_entry else None
             poi_color = poi_entry.get("color") if poi_entry else None
+            poi_font = poi_entry.get("font") if poi_entry else None
 
             linework = hex_linework.get(code, [])
             svg = make_svg(
@@ -556,6 +741,9 @@ def main():
                 poi_symbol,
                 poi_color,
                 linework,
+                symbol_font=symbol_font,
+                symbol_two_font=symbol_two_font,
+                poi_font=poi_font,
             )
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")

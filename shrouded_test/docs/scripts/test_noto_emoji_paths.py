@@ -2,15 +2,20 @@
 """
 test_terrain_poi_emoji_fonts.py
 
-Read all terrain + POI symbols from terrain.csv and poi.csv (via
-build_single_hex_svgs helpers) and render, for EACH GLYPH:
+Reads terrain.csv and poi.csv via build_single_hex_svgs helpers and, for EACH GLYPH:
 
   - Noto Emoji glyph as an SVG <path> (via fontTools)
   - OpenMoji Black glyph as an SVG <path> (via fontTools)
-  - The same glyph as SVG <text> using the SAME normalize_symbol() logic
-    and font-family as build_single_hex_svgs.py
+  - The same glyph as SVG <text> using normalize_symbol() + system-ui
+  - A final "chosen render" column that uses the font specified in CSV:
 
-Also show the terrain/POI label so you can see what each glyph is used for.
+      terrain.csv:  symbol-font, symbol-two-font
+      poi.csv:      font
+
+Allowed font values (case-insensitive):
+  - "system"   -> SVG <text> like the main hex generator
+  - "noto"     -> Noto Emoji Regular as <path>
+  - "open" or "openmoji" -> OpenMoji Black as <path>
 """
 
 from pathlib import Path
@@ -38,6 +43,25 @@ OUTPUT_HTML = HERE / "terrain_poi_emoji_test.html"
 # Helpers to extract glyphs
 # ----------------------------
 
+def normalize_font_choice(raw: str) -> str:
+    """
+    Normalize a raw font choice ("system", "noto", "open", "openmoji", etc.)
+    into one of: "system", "noto", "openmoji".
+    Blank or unknown -> "system".
+    """
+    if not raw:
+        return "system"
+    v = raw.strip().lower()
+    if v.startswith("noto"):
+        return "noto"
+    if v.startswith("open"):
+        return "openmoji"
+    if v == "system":
+        return "system"
+    # Fallback
+    return "system"
+
+
 def split_symbols(s: str) -> list[str]:
     """
     Split a symbol field into individual glyphs:
@@ -61,39 +85,59 @@ def load_glyph_rows() -> list[dict]:
         "kind": "terrain" | "poi",
         "name": terrain_or_poi_name,
         "source": "symbol" | "symbol-two" | "poi-symbol",
-        "char": single_character_glyph
+        "char": single_character_glyph,
+        "font_choice": "system" | "noto" | "openmoji"
       }
     """
     rows: list[dict] = []
 
     # Terrain symbols from terrain.csv via load_terrain_overrides()
     terrain_overrides = hexmod.load_terrain_overrides()
-    # terrain_overrides: { terrain_name: { "hex_color", "symbol_color", "symbol", "symbol_two" } }
+    # Each override: { "hex_color", "symbol_color", "symbol", "symbol_two",
+    #                  "symbol_font", "symbol_two_font" }
 
     for terrain_name, tovr in sorted(terrain_overrides.items(), key=lambda kv: kv[0].lower()):
-        for field, source_tag in (("symbol", "symbol"), ("symbol_two", "symbol-two")):
-            raw = (tovr.get(field) or "").strip()
-            if not raw:
-                continue
-            chars = split_symbols(raw)
+        # First symbol
+        raw_symbol = (tovr.get("symbol") or "").strip()
+        raw_symbol_font = normalize_font_choice(tovr.get("symbol_font") or "")
+        if raw_symbol:
+            chars = split_symbols(raw_symbol)
             for ch in chars:
                 rows.append(
                     {
                         "kind": "terrain",
                         "name": terrain_name,
-                        "source": source_tag,
+                        "source": "symbol",
                         "char": ch,
+                        "font_choice": raw_symbol_font,
+                    }
+                )
+
+        # Second symbol
+        raw_two = (tovr.get("symbol_two") or "").strip()
+        raw_two_font = normalize_font_choice(tovr.get("symbol_two_font") or "")
+        if raw_two:
+            chars = split_symbols(raw_two)
+            for ch in chars:
+                rows.append(
+                    {
+                        "kind": "terrain",
+                        "name": terrain_name,
+                        "source": "symbol-two",
+                        "char": ch,
+                        "font_choice": raw_two_font,
                     }
                 )
 
     # POI symbols from poi.csv via load_poi_symbols()
     poi_symbols = hexmod.load_poi_symbols()
-    # poi_symbols: { poi_name: { "symbol": symbol, "color": color } }
+    # Each entry: { "symbol": symbol, "color": color, "font": font }
 
     for poi_name, pdata in sorted(poi_symbols.items(), key=lambda kv: kv[0].lower()):
         raw = (pdata.get("symbol") or "").strip()
         if not raw:
             continue
+        font_choice = normalize_font_choice(pdata.get("font") or "")
         chars = split_symbols(raw)
         for ch in chars:
             rows.append(
@@ -102,6 +146,7 @@ def load_glyph_rows() -> list[dict]:
                     "name": poi_name,
                     "source": "poi-symbol",
                     "char": ch,
+                    "font_choice": font_choice,
                 }
             )
 
@@ -157,6 +202,24 @@ def make_system_svg_for_glyph(ch: str) -> str:
     return svg
 
 
+def render_by_choice(ch: str, font_choice: str) -> tuple[str, str]:
+    """
+    Render a glyph using the chosen font, returning:
+      (svg_snippet, human_readable_label)
+    where font_choice is one of: "system", "noto", "openmoji".
+    """
+    fc = normalize_font_choice(font_choice)
+    if fc == "noto":
+        svg = make_path_svg_for_glyph(ch, NOTO_FONT_PATH)
+        return svg, "Noto Emoji as path"
+    if fc == "openmoji":
+        svg = make_path_svg_for_glyph(ch, OPENMOJI_FONT_PATH)
+        return svg, "OpenMoji Black as path"
+    # default/system
+    svg = make_system_svg_for_glyph(ch)
+    return svg, "System SVG text (normalize_symbol + system-ui)"
+
+
 # ----------------------------
 # HTML builder
 # ----------------------------
@@ -172,9 +235,11 @@ def build_html() -> str:
         kind = row["kind"]
         name = row["name"]
         source = row["source"]
+        font_choice = row["font_choice"]
 
         codepoint = f"U+{ord(ch):04X}"
         label = f"[{kind}] {name} ({source})"
+        font_choice_norm = normalize_font_choice(font_choice)
 
         # Noto Emoji path
         try:
@@ -205,12 +270,16 @@ def build_html() -> str:
         # System-default SVG text, matching your hex generator's behavior
         system_svg = make_system_svg_for_glyph(ch)
 
+        # Chosen render from CSV
+        chosen_svg, chosen_label = render_by_choice(ch, font_choice_norm)
+
         row_html = f"""
       <tr>
         <td style="padding: 0.5rem; white-space: nowrap; vertical-align: top;">
           <code>{html.escape(ch)}</code><br>
           <small>{html.escape(codepoint)}</small><br>
-          <small>{html.escape(label)}</small>
+          <small>{html.escape(label)}</small><br>
+          <small>CSV font: {html.escape(font_choice or "(default/system)")}</small>
         </td>
         <td style="padding: 0.5rem; text-align: center; border-left: 1px solid #ddd; vertical-align: top;">
           {noto_cell}
@@ -228,6 +297,12 @@ def build_html() -> str:
           {system_svg}
           <div style="font-size: 11px; color: #555; margin-top: 0.25rem;">
             System emoji as SVG &lt;text&gt; (normalize_symbol + system-ui)
+          </div>
+        </td>
+        <td style="padding: 0.5rem; text-align: center; border-left: 1px solid #ddd; vertical-align: top;">
+          {chosen_svg}
+          <div style="font-size: 11px; color: #555; margin-top: 0.25rem;">
+            Chosen: {html.escape(chosen_label)} [{html.escape(font_choice_norm)}]
           </div>
         </td>
       </tr>
@@ -282,9 +357,10 @@ def build_html() -> str:
     Each row is a glyph from your terrain/POI data (terrain.csv and poi.csv),
     labelled with its terrain/POI name. Columns show:
     <strong>Noto Emoji Regular</strong> as SVG <code>&lt;path&gt;</code>,
-    <strong>OpenMoji Black</strong> as SVG <code>&lt;path&gt;</code>, and the same glyph
-    rendered as SVG <code>&lt;text&gt;</code> using <code>normalize_symbol()</code> and
-    <code>font-family="system-ui, sans-serif"</code>, matching your hex generator.
+    <strong>OpenMoji Black</strong> as SVG <code>&lt;path&gt;</code>,
+    the same glyph rendered as SVG <code>&lt;text&gt;</code> matching your hex
+    generator, and finally the render that corresponds to the font choice
+    you specify in the CSV (system/noto/openmoji).
   </p>
   <table>
     <tr>
@@ -292,6 +368,7 @@ def build_html() -> str:
       <th>Noto Emoji as Path</th>
       <th>OpenMoji Black as Path</th>
       <th>System Emoji as SVG Text</th>
+      <th>Chosen Render (from CSV)</th>
     </tr>
 {rows_html}
   </table>
@@ -320,8 +397,8 @@ def main():
     html_text = build_html()
     OUTPUT_HTML.write_text(html_text, encoding="utf-8")
     print(f"Wrote {OUTPUT_HTML.resolve()}")
-    print("Open this file in a browser to compare Noto/OpenMoji paths vs system emoji for all terrain/POI glyphs.")
-
+    print("Open this file in a browser to compare Noto/OpenMoji paths vs system emoji for all terrain/POI glyphs, including CSV-selected font.")
+    
 
 if __name__ == "__main__":
     main()
