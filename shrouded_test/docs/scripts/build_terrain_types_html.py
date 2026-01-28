@@ -3,11 +3,13 @@ from __future__ import annotations
 import csv
 import html
 from pathlib import Path
-from typing import Iterable
+from typing import Callable, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 TERRAIN_CSV = ROOT / "terrain.csv"
+POI_CSV = ROOT / "poi.csv"
 OUTPUT_HTML = ROOT / "terrain-types.html"
+NEUTRAL_GREEN_HEX = "a0d76b"
 
 
 def normalize_symbol(symbol: str) -> str:
@@ -40,6 +42,24 @@ def iter_terrain_rows() -> Iterable[dict[str, str]]:
                 "symbol_color": (row.get("symbol-color") or "").strip(),
                 "symbol": (row.get("symbol") or "").strip(),
                 "symbol_two": (row.get("symbol-two") or "").strip(),
+            }
+
+
+def iter_poi_rows() -> Iterable[dict[str, str]]:
+    with POI_CSV.open(newline="", encoding="utf-8") as csvfile:
+        reader = csv.reader(csvfile, delimiter="\t")
+        for row in reader:
+            if len(row) < 2:
+                continue
+            symbol = (row[0] or "").strip()
+            poi = (row[1] or "").strip()
+            symbol_color = (row[2] or "").strip() if len(row) > 2 else ""
+            if not symbol or not poi:
+                continue
+            yield {
+                "poi": poi,
+                "symbol": symbol,
+                "symbol_color": symbol_color,
             }
 
 
@@ -94,7 +114,12 @@ def make_svg(
     )
 
 
-def build_html(rows: Iterable[dict[str, str]]) -> str:
+def build_html(
+    rows: Iterable[dict[str, str]],
+    poi_rows: Iterable[dict[str, str]],
+) -> str:
+    rows = list(rows)
+    poi_rows = list(poi_rows)
     font_previews = [
         ("Calibri", '"Calibri", "Carlito", system-ui, sans-serif'),
         ("Aptos", '"Aptos", "Segoe UI", system-ui, sans-serif'),
@@ -102,45 +127,66 @@ def build_html(rows: Iterable[dict[str, str]]) -> str:
         ("Roboto", '"Roboto", "Noto Sans", system-ui, sans-serif'),
         ("Georgia", '"Georgia", "Times New Roman", serif'),
     ]
-    row_parts = []
-    for row in rows:
-        svg = make_svg(row["hex_color"], row["symbol"], row["symbol_two"], row["symbol_color"])
-        preview_parts = []
-        for label, font_stack in font_previews:
-            preview_svg = make_svg(
-                row["hex_color"],
-                row["symbol"],
-                row["symbol_two"],
-                row["symbol_color"],
-                font_family=font_stack,
-            )
-            preview_parts.append(
+
+    def build_table_rows(
+        base_rows: Iterable[dict[str, str]],
+        label_key: str,
+        hex_color_getter: Callable[[dict[str, str]], str],
+        symbol_two_key: str | None = "symbol_two",
+    ) -> str:
+        row_parts = []
+        for row in base_rows:
+            hex_color = hex_color_getter(row)
+            symbol_two = row.get(symbol_two_key, "") if symbol_two_key else ""
+            svg = make_svg(hex_color, row["symbol"], symbol_two, row["symbol_color"])
+            preview_parts = []
+            for label, font_stack in font_previews:
+                preview_svg = make_svg(
+                    hex_color,
+                    row["symbol"],
+                    symbol_two,
+                    row["symbol_color"],
+                    font_family=font_stack,
+                )
+                preview_parts.append(
+                    "\n".join(
+                        [
+                            '<div class="tile-swatch">',
+                            f"  {preview_svg}",
+                            f'  <span class="font-label">{html.escape(label)}</span>',
+                            "</div>",
+                        ]
+                    )
+                )
+            row_parts.append(
                 "\n".join(
                     [
-                        '<div class="tile-swatch">',
-                        f"  {preview_svg}",
-                        f'  <span class="font-label">{html.escape(label)}</span>',
-                        "</div>",
+                        "<tr>",
+                        f"  <td>{html.escape(row[label_key])}</td>",
+                        f"  <td class=\"example\">{svg}</td>",
+                        "  <td class=\"font-previews\">",
+                        '    <div class="font-preview-grid">',
+                        "\n".join(f"      {part}" for part in preview_parts),
+                        "    </div>",
+                        "  </td>",
+                        "</tr>",
                     ]
                 )
             )
-        row_parts.append(
-            "\n".join(
-                [
-                    "<tr>",
-                    f"  <td>{html.escape(row['terrain'])}</td>",
-                    f"  <td class=\"example\">{svg}</td>",
-                    "  <td class=\"font-previews\">",
-                    '    <div class="font-preview-grid">',
-                    "\n".join(f"      {part}" for part in preview_parts),
-                    "    </div>",
-                    "  </td>",
-                    "</tr>",
-                ]
-            )
-        )
+        return "\n".join(row_parts)
 
-    table_rows = "\n".join(row_parts)
+    table_rows = build_table_rows(
+        rows,
+        "terrain",
+        lambda row: row["hex_color"],
+        symbol_two_key="symbol_two",
+    )
+    poi_table_rows = build_table_rows(
+        poi_rows,
+        "poi",
+        lambda _row: NEUTRAL_GREEN_HEX,
+        symbol_two_key=None,
+    )
     return """<!doctype html>
 <html lang="en">
   <head>
@@ -207,6 +253,19 @@ def build_html(rows: Iterable[dict[str, str]]) -> str:
 """ + table_rows + """
       </tbody>
     </table>
+    <h2>Points of interest</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Point of interest</th>
+          <th>Example</th>
+          <th>Font previews</th>
+        </tr>
+      </thead>
+      <tbody>
+""" + poi_table_rows + """
+      </tbody>
+    </table>
   </body>
 </html>
 """
@@ -214,7 +273,8 @@ def build_html(rows: Iterable[dict[str, str]]) -> str:
 
 def main() -> None:
     rows = list(iter_terrain_rows())
-    html_content = build_html(rows)
+    poi_rows = list(iter_poi_rows())
+    html_content = build_html(rows, poi_rows)
     OUTPUT_HTML.write_text(html_content, encoding="utf-8")
 
 
