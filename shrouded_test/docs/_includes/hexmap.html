@@ -18,14 +18,18 @@
     {%- if center_page == nil -%}
       {%- assign center_page = site.wiki | where: "title", center_title | first -%}
     {%- endif -%}
-    {%- if center_page and center_page.url != page.url -%}
-      <a href="{{ center_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
+    {%- assign center_image_path = "/assets/hexes/hex-" | append: center_code | append: ".svg" -%}
+    {%- assign center_image = site.static_files | where: "relative_path", center_image_path | first -%}
+    {%- if center_image -%}
+      {%- if center_page and center_page.url != page.url -%}
+        <a href="{{ center_page.url | relative_url }}">
+          <img src="{{ center_image_path | relative_url }}"
+               alt="{{ center_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ center_image_path | relative_url }}"
              alt="{{ center_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: center_code | append: '.svg' | relative_url }}"
-           alt="{{ center_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -41,14 +45,18 @@
     {%- if n_page == nil -%}
       {%- assign n_page = site.wiki | where: "title", n_title | first -%}
     {%- endif -%}
-    {%- if n_page -%}
-      <a href="{{ n_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
+    {%- assign n_image_path = "/assets/hexes/hex-" | append: n_code | append: ".svg" -%}
+    {%- assign n_image = site.static_files | where: "relative_path", n_image_path | first -%}
+    {%- if n_image -%}
+      {%- if n_page -%}
+        <a href="{{ n_page.url | relative_url }}">
+          <img src="{{ n_image_path | relative_url }}"
+               alt="{{ n_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ n_image_path | relative_url }}"
              alt="{{ n_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: n_code | append: '.svg' | relative_url }}"
-           alt="{{ n_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -69,14 +77,18 @@
     {%- if ne_page == nil -%}
       {%- assign ne_page = site.wiki | where: "title", ne_title | first -%}
     {%- endif -%}
-    {%- if ne_page -%}
-      <a href="{{ ne_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
+    {%- assign ne_image_path = "/assets/hexes/hex-" | append: ne_code | append: ".svg" -%}
+    {%- assign ne_image = site.static_files | where: "relative_path", ne_image_path | first -%}
+    {%- if ne_image -%}
+      {%- if ne_page -%}
+        <a href="{{ ne_page.url | relative_url }}">
+          <img src="{{ ne_image_path | relative_url }}"
+               alt="{{ ne_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ ne_image_path | relative_url }}"
              alt="{{ ne_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: ne_code | append: '.svg' | relative_url }}"
-           alt="{{ ne_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -97,14 +109,18 @@
     {%- if se_page == nil -%}
       {%- assign se_page = site.wiki | where: "title", se_title | first -%}
     {%- endif -%}
-    {%- if se_page -%}
-      <a href="{{ se_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
+    {%- assign se_image_path = "/assets/hexes/hex-" | append: se_code | append: ".svg" -%}
+    {%- assign se_image = site.static_files | where: "relative_path", se_image_path | first -%}
+    {%- if se_image -%}
+      {%- if se_page -%}
+        <a href="{{ se_page.url | relative_url }}">
+          <img src="{{ se_image_path | relative_url }}"
+               alt="{{ se_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ se_image_path | relative_url }}"
              alt="{{ se_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: se_code | append: '.svg' | relative_url }}"
-           alt="{{ se_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -120,14 +136,18 @@
     {%- if s_page == nil -%}
       {%- assign s_page = site.wiki | where: "title", s_title | first -%}
     {%- endif -%}
-    {%- if s_page -%}
-      <a href="{{ s_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
+    {%- assign s_image_path = "/assets/hexes/hex-" | append: s_code | append: ".svg" -%}
+    {%- assign s_image = site.static_files | where: "relative_path", s_image_path | first -%}
+    {%- if s_image -%}
+      {%- if s_page -%}
+        <a href="{{ s_page.url | relative_url }}">
+          <img src="{{ s_image_path | relative_url }}"
+               alt="{{ s_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ s_image_path | relative_url }}"
              alt="{{ s_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: s_code | append: '.svg' | relative_url }}"
-           alt="{{ s_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -148,14 +168,18 @@
     {%- if sw_page == nil -%}
       {%- assign sw_page = site.wiki | where: "title", sw_title | first -%}
     {%- endif -%}
-    {%- if sw_page -%}
-      <a href="{{ sw_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
+    {%- assign sw_image_path = "/assets/hexes/hex-" | append: sw_code | append: ".svg" -%}
+    {%- assign sw_image = site.static_files | where: "relative_path", sw_image_path | first -%}
+    {%- if sw_image -%}
+      {%- if sw_page -%}
+        <a href="{{ sw_page.url | relative_url }}">
+          <img src="{{ sw_image_path | relative_url }}"
+               alt="{{ sw_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ sw_image_path | relative_url }}"
              alt="{{ sw_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: sw_code | append: '.svg' | relative_url }}"
-           alt="{{ sw_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
@@ -176,14 +200,18 @@
     {%- if nw_page == nil -%}
       {%- assign nw_page = site.wiki | where: "title", nw_title | first -%}
     {%- endif -%}
-    {%- if nw_page -%}
-      <a href="{{ nw_page.url | relative_url }}">
-        <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
+    {%- assign nw_image_path = "/assets/hexes/hex-" | append: nw_code | append: ".svg" -%}
+    {%- assign nw_image = site.static_files | where: "relative_path", nw_image_path | first -%}
+    {%- if nw_image -%}
+      {%- if nw_page -%}
+        <a href="{{ nw_page.url | relative_url }}">
+          <img src="{{ nw_image_path | relative_url }}"
+               alt="{{ nw_code }}">
+        </a>
+      {%- else -%}
+        <img src="{{ nw_image_path | relative_url }}"
              alt="{{ nw_code }}">
-      </a>
-    {%- else -%}
-      <img src="{{ '/assets/hexes/hex-' | append: nw_code | append: '.svg' | relative_url }}"
-           alt="{{ nw_code }}">
+      {%- endif -%}
     {%- endif -%}
   </div>
 
