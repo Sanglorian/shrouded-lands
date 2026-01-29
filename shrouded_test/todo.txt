@@ -1,5 +1,0 @@
-Generate -01 hex svgs.
-
---
-
-A lot of pages have dodgy formatting.
