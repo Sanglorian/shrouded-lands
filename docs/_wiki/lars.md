@@ -12,7 +12,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-:**Chimera** redirects here. For the creations of [Chimalia](/wiki/chimalia/) that combine the features of multiple animals or of humans and animals, see [Chimerics](/wiki/chimerics/).
+> **Chimera** redirects here. For the creations of [Chimalia](/wiki/chimalia/) that combine the features of multiple animals or of humans and animals, see [Chimerics](/wiki/chimerics/).
 ## The Chimera of the Suitor's Tower
 ![](/media/Shutt-suit2.png)Hex [29.14.41](/wiki/29-14/)
 

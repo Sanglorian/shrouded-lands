@@ -12,8 +12,8 @@ categories:
 media: []
 ---
 Beggars are mentioned in the [Rhyme of the Sanguine Lords](/wiki/rhyme-of-the-sanguine-lords/):
-: "Kiss the feet of beggars," the Bergo crones shrieked
-: "When you live by the sword, you die by the meek"
+> "Kiss the feet of beggars," the Bergo crones shrieked
+> "When you live by the sword, you die by the meek"
 
 A female beggar is one of the [eleven recognised forms](/wiki/eleven-recognised-forms/) of Alberon.
 

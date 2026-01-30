@@ -10,7 +10,7 @@ categories:
   - "Whales"
 media: []
 ---
-: **Leviathans** redirects here. For the leviathans of the earth, see [46.09](/wiki/46-09/).
+> **Leviathans** redirects here. For the leviathans of the earth, see [46.09](/wiki/46-09/).
 Also called **leviathans**.
 * [Old Leviathan](/wiki/old-leviathan/) is a figure in the faith of the [King in Splendour](/wiki/king-in-splendor/).
 * A sailor outside the Cave of Kull Cove claims to have hunted whales on the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) and sells rancid whalebits. The squid within is terrified of whales and the smell of whales.

@@ -14,7 +14,7 @@ categories:
   - "Witches"
 media: []
 ---
-: Not to be confused with the [Whispering Sisters](/wiki/whispering-sisters/), worshippers of [She Who Waits](/wiki/she-who-waits/)
+> Not to be confused with the [Whispering Sisters](/wiki/whispering-sisters/), worshippers of [She Who Waits](/wiki/she-who-waits/)
 
 The **earth whisperers** were [priestesses](/wiki/priests/) of the old religion of Thring, and each petty king had an earth whisperer companion. These priestesses were transformed by their worship of the [Pacharia](/wiki/pacharia/). They lay with a king at the beginning of his reign and lay thier knives across his throat at the end of it so that the land would be the king and the king would be the land.
 

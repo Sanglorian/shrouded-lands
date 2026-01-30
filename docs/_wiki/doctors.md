@@ -9,7 +9,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-: See also [Plague doctors](/wiki/plague-doctors/)
+> See also [Plague doctors](/wiki/plague-doctors/)
 
 [Geda the Fair](/wiki/geda-the-fair/) served as [Simone the Fowl](/wiki/simone-the-fowl/)'s doctor throughout his reign.
 

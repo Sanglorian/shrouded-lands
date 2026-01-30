@@ -9,7 +9,7 @@ categories:
   - "Duchy of Thring"
 media: []
 ---
-:**Duke of Thring** redirects here. For former dukes of Thring, see [ducal family of Thring](/wiki/ducal-family-of-thring/).![](/media/Lancelot_and_Hellawes.jpg)
+> **Duke of Thring** redirects here. For former dukes of Thring, see [ducal family of Thring](/wiki/ducal-family-of-thring/).![](/media/Lancelot_and_Hellawes.jpg)
 
 **Affiliation:** Duke of [Thring](/wiki/duchy-of-thring/)<br />
 **Family:** [Ducal family of Thring](/wiki/ducal-family-of-thring/)<br />

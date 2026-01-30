@@ -15,11 +15,11 @@ media: []
 ### Severard's Town
 Severard's Town is the name for the village that grew up around the tower occupied by Severard and his apprentices ([13.08](/wiki/13-08/)). As extracted from that hex entry:
 
-:He protected the village and set about improving the lives of the villagers through the rational application of magic. Some of the locals chafed at his demands that they do all things “rationally” but most considered it a small price to pay for his aid and protection.
+> He protected the village and set about improving the lives of the villagers through the rational application of magic. Some of the locals chafed at his demands that they do all things “rationally” but most considered it a small price to pay for his aid and protection.
 
-:As the village grew the wizard became annoyed by constant talk about food production and set about solving the problem. He developed magic that could greatly increase the growth of animals and tested it on centipedes and bees. He set up colonies of these creatures both west in the Tashtan Plains and as well as to the east ([02.08](/wiki/02-08/) and [10.10](/wiki/10-10/)) in order to study them, caring little about their effects on others.
+> As the village grew the wizard became annoyed by constant talk about food production and set about solving the problem. He developed magic that could greatly increase the growth of animals and tested it on centipedes and bees. He set up colonies of these creatures both west in the Tashtan Plains and as well as to the east ([02.08](/wiki/02-08/) and [10.10](/wiki/10-10/)) in order to study them, caring little about their effects on others.
 
-:He was wrapping up his experiments on spider growth and preparing to move on to chickens and other delicious animals when, in a moment of carelessness, he was poisoned and killed by his prize spider specimen.
+> He was wrapping up his experiments on spider growth and preparing to move on to chickens and other delicious animals when, in a moment of carelessness, he was poisoned and killed by his prize spider specimen.
 
 ### Features
 * [Severard's Spellbook](/wiki/severard's-spellbook/)

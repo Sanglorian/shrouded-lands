@@ -14,7 +14,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-:See also [Hierophant](/wiki/hierophants/)
+> See also [Hierophant](/wiki/hierophants/)
 
 Leader of the [Temple Invisible](/wiki/temple-invisible/)
 

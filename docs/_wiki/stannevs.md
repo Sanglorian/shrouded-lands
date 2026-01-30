@@ -10,7 +10,7 @@ categories:
   - "Freeholds"
 media: []
 ---
-:Note: It seems that the plural of Stannev is Stannev. The title of this entry was chosen to be consistent with the treatment of other family names.
+> Note: It seems that the plural of Stannev is Stannev. The title of this entry was chosen to be consistent with the treatment of other family names.
 
 The Stannev live in Newhill ([17.07](/wiki/17-07/)). 
 ## Connections

@@ -10,7 +10,7 @@ categories:
   - "Hills of Gore"
 media: []
 ---
-: Not to be confused with [Lord Kadash](/wiki/lord-kadash/), a lord of Thring.
+> Not to be confused with [Lord Kadash](/wiki/lord-kadash/), a lord of Thring.
 
 ![http://www.gutenberg.org/files/32406/32406-h/32406-h.htm](/media/Gs78.jpg)
 Few Lords Sanguine are as good at teasing out useful information from [Tarrasque](/wiki/tarrasque/) blood visions as Lord Kardash, the Swordsage. When he was young, he took a knife red from the forge, marked his face thrice and thrice and had his ears, mouth and nostrils sewn up. Sight is sufficient for him and he knows where a blow will land before it is swung. In his prime he slew an [aboleth](/wiki/aboleth/) of the [Sunless Sea](/wiki/sunless-sea/) and sent [Lord Ward](/wiki/lord-ward/) ([19.04](/wiki/19-04/)) staggering to his knees with a single blow.

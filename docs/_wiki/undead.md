@@ -10,7 +10,7 @@ categories:
   - "Undead"
 media: []
 ---
-:See also [Necromancers](/wiki/necromancers/)
+> See also [Necromancers](/wiki/necromancers/)
 ### Anonymity
 Theories on anonymity and its affects on the dead are discussed further at the [White Road](/wiki/white-road/) entry.
 ### Undead

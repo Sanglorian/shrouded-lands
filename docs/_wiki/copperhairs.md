@@ -9,7 +9,7 @@ categories:
   - "Elves"
 media: []
 ---
-:See also [Hair](/wiki/hair/)
+> See also [Hair](/wiki/hair/)
 **Copperhairs** and **Copperheads** are terms for red-headed people.
 
 Elves once stole copperhair children along the Orphans' March ([27.09](/wiki/27-09/)).

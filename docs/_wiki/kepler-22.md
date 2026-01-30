@@ -33,7 +33,7 @@ By all means describe the world in more detail in your hex and encounter entries
 
 Because I’d like this to be Creative Commons licensed, please include the following text in your first submission to the thread:
 
-: XX
+> XX
 
 To kick it off, I’ve written one hex entry and one random encounter, and provided one image.
 

@@ -9,7 +9,7 @@ categories:
   - "Spells"
 media: []
 ---
-: See also [Spellcasting](/wiki/spellcasting/)
+> See also [Spellcasting](/wiki/spellcasting/)
 
 A **cantrip** is a simple spell. In Shuttered, they teach the [Thousand Spells and One](/wiki/thousand-spells-and-one/), although only in the [High Tongue](/wiki/mud-tongue-and-high-tongue/). Most Shuttered nobles are capable of producing a few cantrips.
 * [Jackalwere](/wiki/jackalweres/) mages ([51.17](/wiki/51-17/)) cast a hex that makes its victims incapable of speaking or writing in anything other than gibberish.

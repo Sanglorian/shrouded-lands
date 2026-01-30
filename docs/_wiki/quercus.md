@@ -10,9 +10,9 @@ categories:
   - "Sanglorian"
 media: []
 ---
-:*The sacred oaks that skirt this sloping wood<br />
-:Are dead--revive their withered roots with blood*
-::War Song, *The Poetry of various Glees, Songs. and Company, London, 1798*
+> *The sacred oaks that skirt this sloping wood<br />
+> Are dead--revive their withered roots with blood*
+>> War Song, *The Poetry of various Glees, Songs. and Company, London, 1798*
 
 They call it *quercus*. All [goblins](/wiki/goblins/) – and only goblins – are born with it, but it can be learned and lost; just like all [humans](/wiki/humans/) – and only humans – are born with implicit belief in gods, or all [dwarves](/wiki/dwarves/) – and only dwarves – are born stonecunning.
 

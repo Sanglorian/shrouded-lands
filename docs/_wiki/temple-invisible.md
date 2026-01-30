@@ -42,11 +42,11 @@ The core of assassins inherited from the Brotherhood of the Spear are but a frac
 
 Those who show great devotion - not all of them potential assassins - are inducted into the order proper and say the Extreme Oath:
 
-: If the temple says that day is night, it is night. I am a corpse walking, devoted to the flickering out of a being which should not exist.
+> If the temple says that day is night, it is night. I am a corpse walking, devoted to the flickering out of a being which should not exist.
 
-: To that end, I serve the Temple, I serve the Lion in Splendour, I serve the King in Splendour.
+> To that end, I serve the Temple, I serve the Lion in Splendour, I serve the King in Splendour.
 
-: Let night be day.
+> Let night be day.
 
 In the City ([29.14](/wiki/29-14/)), there is a Temple School for orphans and poor children, as well as converts from the theocratic city-states that the Temple Invisible runs on other continents. The students are taught the basics, including theology. An unusual focus on athletics, stealth, poisons and warfare is explained away as a nostalgic holdover from the order's martial past.
 

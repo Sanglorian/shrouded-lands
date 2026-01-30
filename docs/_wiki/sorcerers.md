@@ -14,8 +14,8 @@ categories:
   - "Tieflings"
 media: []
 ---
-: **Priests of Baron Autumn** redirects here. See also, [Priests](/wiki/priests/)
-: For more on the nomenclature of spellcasters, see [Spellcasting](/wiki/spellcasting/)
+> **Priests of Baron Autumn** redirects here. See also, [Priests](/wiki/priests/)
+> For more on the nomenclature of spellcasters, see [Spellcasting](/wiki/spellcasting/)
 
 **Sorcerer** seems to be a general term for a [spellcaster](/wiki/spellcasting/), or used synonymously for [mages and wizards](/wiki/wizards/). However, those whose magic comes from blood or birthright seem to be specifically identified as sorcerers or **bloodline sorcerers** rather than wizards or mages. The dragonblooded and tieflings who cast spells by dint of their heritage are described exclusively as sorcerers.
 **Sorcerer** or **sorcerer of Thring** also specifically describes priests of Baron Autumn who have an unusual approach to magic.

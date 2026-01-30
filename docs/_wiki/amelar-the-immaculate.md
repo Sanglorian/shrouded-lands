@@ -10,7 +10,7 @@ categories:
   - "Kingswood"
 media: []
 ---
-:Amelar is also known as the **Hierophant of Constant Sorrow**. There is also a figure known only as the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). There are a number of other [Hierophant](/wiki/hierophants/)s in the Shrouded Lands.
+> Amelar is also known as the **Hierophant of Constant Sorrow**. There is also a figure known only as the [Knight of Constant Sorrow](/wiki/knight-of-constant-sorrow/). There are a number of other [Hierophant](/wiki/hierophants/)s in the Shrouded Lands.
 
 Amelar is mistress of the Garden of Amelar ([36.04](/wiki/36-04/)).
 **Family:** [The Weeper](/wiki/the-weeper/) (grandchild of Amelar)

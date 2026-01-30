@@ -12,7 +12,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-: See also [matriarchs](/wiki/matriarchs/)
+> See also [matriarchs](/wiki/matriarchs/)
 
 The **Matriarch** is the head of the Temple Indivisible and the bride of [Alberon](/wiki/alberon/). 
 

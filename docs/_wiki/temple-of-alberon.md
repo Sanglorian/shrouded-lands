@@ -12,7 +12,7 @@ categories:
   - "Undercity"
 media: []
 ---
-:See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
+> See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
 
 ![](/media/Shutt-temp.png)At the end of the [Time of Schisms](/wiki/time-of-schisms/) ([25.15](/wiki/25-15/)) when the [Brothers of the Spear](/wiki/temple-invisible/) made their bargain and joined the powers that be as the [Temple Invisible](/wiki/temple-invisible/), nine Brothers refused to compromise and defied their [Hierophant](/wiki/hierophants/). They were among the most deadly of assassins who had learned how not to be seen. The Hierophant smiled at them and explained to them mildly that not being seen was valuable and that they would learn its value but that there were limits that applied to such things, as they would do well to learn.
 

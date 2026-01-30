@@ -10,10 +10,10 @@ categories:
   - "Duchy of Thring"
 media: []
 ---
-:See also [Knights](/wiki/knights/)
+> See also [Knights](/wiki/knights/)
 
 Thring’s [Law of Love](/wiki/laws-of-thring/) is specifically directed at knights:
-:Let not men of gentle birth cling to the skirts of their mothers like women and peasants, but let them become knights errant and seek glory in the halls of strangers so that they may win noble brides and prepare themselves to stand as guardians over the lands of their ladies. 
+> Let not men of gentle birth cling to the skirts of their mothers like women and peasants, but let them become knights errant and seek glory in the halls of strangers so that they may win noble brides and prepare themselves to stand as guardians over the lands of their ladies.
 Sons are knighted and sent off to make a name for themselves. Knights of Thring have unusual [mounts](/wiki/mounts/).
 * The elite entourage of the [Duke of Thring](/wiki/duke-of-thring-incumbent/), the [Brothers of the Lion](/wiki/brothers-of-the-lion/), is made up of knights who have bested a lion in unarmed combat and claimed it as their mount. Those who lose must roam with the lion prides.
   * Sister Nadela is the most famous woman to have won a lion mount. There are only a handful of Sisters of the Lion. Presumably that means that women may become knights, though rarely do.

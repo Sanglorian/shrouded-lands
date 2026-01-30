@@ -12,8 +12,8 @@ categories:
   - "Thieves"
 media: []
 ---
-: [Pirates](/wiki/thieves/) redirects here. For the cloud and storm giants, see [Pirate Kings](/wiki/pirate-kings/).
-: [Rustlers](/wiki/thieves/) redirects here. For the guild, see [Rustlers Guild](/wiki/rustlers-guild/).
+> [Pirates](/wiki/thieves/) redirects here. For the cloud and storm giants, see [Pirate Kings](/wiki/pirate-kings/).
+> [Rustlers](/wiki/thieves/) redirects here. For the guild, see [Rustlers Guild](/wiki/rustlers-guild/).
 **Thief** is used both to refer to someone who happens to steal and to a professional thief, perhaps one who belongs to a thieves' guild or otherwise has some notoriety. It is the latter sense that the word is used in this article.
 
 ## Organisations

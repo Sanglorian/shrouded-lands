@@ -9,7 +9,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-:See also [Mud Tongue and High Tongue](/wiki/mud-tongue-and-high-tongue/)
+> See also [Mud Tongue and High Tongue](/wiki/mud-tongue-and-high-tongue/)
 Spoken in the lower levels of [Shuttered](/wiki/city-of-shuttered-windows/); the [wild men](/wiki/wild-men/) speak a particularly degenerate dialect.
 
 Outside of Shuttered, it is known as the **Common Tongue**. It is spoken by [the Spawn](/wiki/the-spawn/). 

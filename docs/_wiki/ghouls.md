@@ -19,6 +19,6 @@ In [11.28](/wiki/11-28/) lairs a band of ghouls whose leader is too fat to walk 
 
 The [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/) is hung in a cage in [Jahur](/wiki/jahur/) because it is wrongly identified as [Helin il-Helan](/wiki/helin-il-helan/):
 
-: But in lands where men do no walk, ghouls are known to dance and howl. The strength of these foul creatures is greatest when their location is isolated. Even a small track will sap their power and being in a human city steals almost all of their strength. But despite this, they love the taste of human flesh and are known to use illusions to lure travelers away from roads and into the lands where they dwell. Perhaps this is what happened to Helin for she was not able to flee far from Jahar before ending up in the belly of the ghoul who now mimics her voice and form.
+> But in lands where men do no walk, ghouls are known to dance and howl. The strength of these foul creatures is greatest when their location is isolated. Even a small track will sap their power and being in a human city steals almost all of their strength. But despite this, they love the taste of human flesh and are known to use illusions to lure travelers away from roads and into the lands where they dwell. Perhaps this is what happened to Helin for she was not able to flee far from Jahar before ending up in the belly of the ghoul who now mimics her voice and form.
 
 
