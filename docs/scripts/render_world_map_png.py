@@ -70,7 +70,9 @@ def parse_simple_yaml_list(path: Path) -> list[dict[str, object]]:
     return labels
 
 
-def build_world_map_html(hex_dir: Path, labels_path: Path) -> str:
+def build_world_map_html(
+    hex_dir: Path, labels_path: Path, stylesheet_path: Path
+) -> str:
     tiles_markup = []
     for col in range(COLS):
         col_mod = col % 2
@@ -110,78 +112,23 @@ def build_world_map_html(hex_dir: Path, labels_path: Path) -> str:
     width = HEX_WIDTH + HEX_X_STEP * (COLS - 1)
     height = HEX_HEIGHT + HEX_Y_STEP * (ROWS - 1) + HEX_Y_OFFSET
 
+    stylesheet_uri = stylesheet_path.as_uri()
+
     return f"""
 <!DOCTYPE html>
 <html lang=\"en\">
   <head>
     <meta charset=\"utf-8\" />
     <title>World Map Render</title>
-    <style>
-      body {{
-        margin: 0;
-        background: #ffffff;
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      }}
-      .world-map {{
-        position: relative;
-        width: {width}px;
-        height: {height}px;
-      }}
-      .world-map__tile {{
-        position: absolute;
-        width: {HEX_WIDTH}px;
-        height: {HEX_HEIGHT}px;
-      }}
-      .world-map__tile img {{
-        display: block;
-        width: 100%;
-        height: auto;
-      }}
-      .world-map__labels {{
-        position: absolute;
-        inset: 0;
-        pointer-events: none;
-      }}
-      .world-map__label {{
-        position: absolute;
-        transform: translate(-50%, -50%);
-        color: #f5f2e8;
-        font-size: 0.7rem;
-        letter-spacing: 0.04em;
-        text-shadow:
-          0 1px 2px rgba(0, 0, 0, 0.75),
-          0 0 6px rgba(0, 0, 0, 0.6);
-        white-space: nowrap;
-      }}
-      .world-map__label--region {{
-        font-size: 0.8rem;
-        font-weight: 600;
-        text-transform: uppercase;
-      }}
-      .world-map__label--city {{
-        background: rgba(10, 12, 18, 0.7);
-        border: 1px solid rgba(255, 255, 255, 0.2);
-        border-radius: 999px;
-        padding: 2px 8px;
-        letter-spacing: 0.02em;
-        text-transform: uppercase;
-      }}
-      .world-map__label--town {{
-        background: rgba(10, 12, 18, 0.45);
-        border: 1px dashed rgba(255, 255, 255, 0.3);
-        border-radius: 999px;
-        padding: 2px 8px;
-        font-size: 0.65rem;
-        letter-spacing: 0.03em;
-        text-transform: none;
-      }}
-    </style>
+    <link rel=\"stylesheet\" href=\"{stylesheet_uri}\" />
   </head>
-  <body>
-    <div class=\"world-map\">
-      {''.join(tiles_markup)}
-      <div class=\"world-map__labels\">
-        {''.join(label_markup)}
+  <body class=\"world-map-page\">
+    <div class=\"world-map-wrapper\">
+      <div class=\"world-map\" style=\"width: {width}px; height: {height}px;\">
+        {''.join(tiles_markup)}
+        <div class=\"world-map__labels\">
+          {''.join(label_markup)}
+        </div>
       </div>
     </div>
   </body>
@@ -249,6 +196,7 @@ def main() -> int:
     hex_dir = repo_root / "docs" / "assets" / "hexes"
     hex_white_dir = repo_root / "docs" / "assets" / "hex-white"
     labels_path = repo_root / "docs" / "_data" / "world-map-labels.yml"
+    stylesheet_path = repo_root / "docs" / "assets" / "style.css"
 
     if not hex_dir.exists():
         raise FileNotFoundError(f"Hex assets not found: {hex_dir}")
@@ -256,9 +204,12 @@ def main() -> int:
         raise FileNotFoundError(f"Hex assets not found: {hex_white_dir}")
     if not labels_path.exists():
         raise FileNotFoundError(f"Labels file not found: {labels_path}")
+    if not stylesheet_path.exists():
+        raise FileNotFoundError(f"Stylesheet not found: {stylesheet_path}")
 
-    html = build_world_map_html(hex_dir, labels_path)
-    white_html = build_world_map_html(hex_white_dir, labels_path)
+
+    html = build_world_map_html(hex_dir, labels_path, stylesheet_path)
+    white_html = build_world_map_html(hex_white_dir, labels_path, stylesheet_path)
     width = HEX_WIDTH + HEX_X_STEP * (COLS - 1)
     height = HEX_HEIGHT + HEX_Y_STEP * (ROWS - 1) + HEX_Y_OFFSET
     viewport_width = math.ceil(width)
