@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Tempests"
 categories:
   - "Elementals"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 A powerful elemental that is essentially a living storm.

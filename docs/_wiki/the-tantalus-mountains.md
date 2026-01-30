@@ -6,6 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Tantalus_Mountains"
 categories:
   - "The Tantalus Mountains"
+  - "Sub-Region"
+  - "Region"
+  - "Singing Wastes"
 media: []
 ---
 This page groups entries related to The Tantalus Mountains.

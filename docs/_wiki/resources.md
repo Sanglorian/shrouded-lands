@@ -10,7 +10,7 @@ media: []
 ---
 - [Intro, the Lost Colony, the Withered Moors, the Cornfields, the Devil's Fingers, the Lands of the Night Cattle](https://drive.google.com/file/d/0B6z-iUIH4P8aeVBPWFRQQk9zbjQ/edit?usp=sharing)
 - [Blind Midshotgatepool, the World's Edge and Beyond, the Bitter Coast, the Barrier Range](https://drive.google.com/file/d/0B6z-iUIH4P8aLXp4eEJfX1lpejg/edit?usp=sharing)
-- [The Hills of Gore, The Singing Wastes](https://drive.google.com/file/d/0B6z-iUIH4P8aYmphUGdVMlpFWjg/edit?usp=sharing)
+- [The Hills of Gore, Singing Wastes](https://drive.google.com/file/d/0B6z-iUIH4P8aYmphUGdVMlpFWjg/edit?usp=sharing)
 - [The Grey Mountains, the Westmarches](https://drive.google.com/file/d/0B6z-iUIH4P8aVTlhUXhDQ2pCRDg/edit?usp=sharing)
 - [The Kingswood](https://drive.google.com/file/d/0B6z-iUIH4P8aNXF5aEFvZFU2UHM/edit?usp=sharing)
 - [The Burning Lands](https://drive.google.com/file/d/0B6z-iUIH4P8aTFNwZm5FV0dMaGs/edit?usp=sharing)

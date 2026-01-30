@@ -8,7 +8,7 @@ categories:
   - "Characters"
 media: []
 ---
-![JesicaLR (CC BY-SA 3.0 Unported)](/media/Aragorn.png)After failing to best a lion in the trial to become a [Brother of the Lion](/wiki/brothers-of-the-lion/), Huw was condemned to a life among a lion pride that wanders [The Devil's Fingers](/wiki/the-devil's-fingers/) and [The Singing Wastes](/wiki/singing-wastes/).
+![JesicaLR (CC BY-SA 3.0 Unported)](/media/Aragorn.png)After failing to best a lion in the trial to become a [Brother of the Lion](/wiki/brothers-of-the-lion/), Huw was condemned to a life among a lion pride that wanders [The Devil's Fingers](/wiki/the-devil's-fingers/) and the [Singing Wastes](/wiki/singing-wastes/).
 
 Last year, in the pride's migration, he discovered the Cactogre's Canyon ([18.28](/wiki/18-28/)), where the Cactogre lived with his nymph lover. Huw romanced the nymph, and within a week, they eloped.
 
@@ -17,4 +17,3 @@ The nymph began insisting they settle somewhere. They live by a spring-fed pool 
 However, they rightly suspect that trouble is brewing.
 <h2 class="MsoNormal" style="margin-bottom:6.0pt;mso-para-margin-bottom:.5gd">Hooks</h2>
 - Tell me more about the enchanted pomegranates.
-

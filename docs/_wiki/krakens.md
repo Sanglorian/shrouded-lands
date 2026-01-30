@@ -9,7 +9,7 @@ categories:
   - "Bitter Coast"
   - "Keening Sea"
   - "Ocean of Bitter Regrets"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 * The Stylites of the Keening Sea ([30.16](/wiki/30-16/)) are constantly harried by krakens.

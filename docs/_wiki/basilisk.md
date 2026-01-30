@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Basilisk"
 categories:
   - "Creatures"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 The Basilisk dwells at the top of the Pilgrim's Spire ([25.31](/wiki/25-31/)), turning mendicants to stone.

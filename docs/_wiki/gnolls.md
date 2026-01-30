@@ -9,7 +9,7 @@ categories:
   - "Gnolls"
   - "Peoples"
   - "The Burning Lands"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 summary: "Relatively civilised, matriarchal gnolls with their own city and bard college, but still violent and barbaric, dwelling primarily in the Burning Lands."
 media: []
 ---

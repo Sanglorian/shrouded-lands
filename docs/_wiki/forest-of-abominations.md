@@ -7,12 +7,12 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Forest_of_Abominations"
 categories:
   - "Regions"
   - "The Forest of Abominations"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 ![](/media/Follower_of_Jheronimus_Bosch_010.jpg)The Breath of the Earth ([12.28](/wiki/12-28/)) is far more than a mile deep and none has ever seen the bottom for no such bottom exists. Instead, those who peer over the edge of this vast sinkhole can see the perambulations of strange stars and the feeble gleams of a thousand dying earths.
 
-The hot wind that blows out of this hole in the world is laden with the grey dust of corroded planets and the lifeless ash of decayed hells. For miles in every direction the proper yellow sand of [the Singing Wastes](/wiki/singing-wastes/) is overlaid with a thick layer of blasphemous grey that slowly spreads outwards year by year.
+The hot wind that blows out of this hole in the world is laden with the grey dust of corroded planets and the lifeless ash of decayed hells. For miles in every direction the proper yellow sand of the [Singing Wastes](/wiki/singing-wastes/) is overlaid with a thick layer of blasphemous grey that slowly spreads outwards year by year.
 
 The moisture that comes from the pit nourishes the growth of cacti, which grow in wild profusion for miles around but at the same time the grey dust sickens them. As a result, the cacti grow great and swollen with half-dead limbs, obscene growths, poisonous black mold and stinking abscesses. They make it very difficult for intruders to pass through, which makes the area around the Breath of the Earth a natural place for the winged [Nekh](/wiki/nekh/) to gather.
 
@@ -27,6 +27,5 @@ Strange creatures can be found here, many of which even the Nekh hesitate to eat
 * Aside from the pearl-like eggs, is there anything of value here?
 * Do the Nekh stand guard over this hole in the world or allow alien intelligences to pass?
 * What was Rugose Pignose doing here?
-
 
 

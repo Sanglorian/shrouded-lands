@@ -11,7 +11,7 @@ categories:
   - "Gnolls"
   - "Humans"
   - "Jahur"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 ## The Ghoul in the Gilded Cage

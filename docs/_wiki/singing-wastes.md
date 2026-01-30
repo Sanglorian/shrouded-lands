@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Singing_Wastes"
 categories:
   - "Regions"
-  - "The Singing Wastes"
+  - "Singing Wastes"
 media: []
 ---
 ![](/media/Sing1.png)
@@ -18,4 +18,3 @@ The Singing Wastes hold many secrets. Somewhere in this badland, [Grandfather Ca
 The [Tantalus Mountains](/wiki/categorythe-tantalus-mountains/), the [Scent Barrier](/wiki/scent-barrier/), and the Jeweled City, [Jahur](/wiki/jahur/), lie in the east. Jahur’s jewel-laden caravans still cross the [Burning Lands](/wiki/the-burning-lands/). The trade brings wealth to its Viceroys even as the city slides into drug addiction, heresy and [cephalopedic influence](/wiki/octoids/). Despite its decadence, Jahur remains the Shrouded Lands' greatest seaport, and ships from faraway lands moor in its harbor. [Janissaries](/wiki/janissaries/), constructs that are relics of an imperial past, defend the city with zeal. A wise, mysterious concubine named [Isane the Beauty](/wiki/isane-the-beauty/) enchants and enlightens those who seek her counsel.
 ## Hex summary:
 {% include region_hex_summaries.html %}
-
