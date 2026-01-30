@@ -17,7 +17,12 @@ defaults:
       layout: wiki_page
 
 exclude:
-  - _ignore_wiki_templates
+  - _site
+  - .sass-cache
+  - .jekyll-cache
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 
 plugins:
   - jekyll-seo-tag
