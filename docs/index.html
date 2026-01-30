@@ -78,6 +78,7 @@ When you add your own entry it can be additional information about a hex that ha
 * [All pages](/all-pages.html)
 
 ### Regions
+
 {%- assign region_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Regions'" | sort_natural: "title" -%}
 {%- for region in region_pages -%}
   {%- assign region_name = region.title | default: region.subtitle -%}
@@ -85,6 +86,7 @@ When you add your own entry it can be additional information about a hex that ha
 {%- endfor -%}
 
 ### Cities
+
 {%- assign city_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Cities'" | sort_natural: "subtitle" -%}
 {%- for city in city_pages -%}
   {%- assign city_name = city.subtitle | default: city.alias | default: city.title -%}
@@ -106,7 +108,7 @@ When you add your own entry it can be additional information about a hex that ha
       {%- endif -%}
     {%- endif -%}
   {%- endcapture -%}
-- [{{ city_name }}]({{ city.url | relative_url }}){{ region_suffix | strip }}
+- [{{ city_name }}]({{ city.url | relative_url }}) {{ region_suffix | strip }}
 {%- endfor -%}
 
 ![](/media/Shroud3.png)

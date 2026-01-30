@@ -946,3 +946,78 @@ entries:
     layer: stream
     color: "#99CCFF"
     path: BottomRight->Center
+
+  - hex: "29.07"
+    layer: stream
+    color: "#99CCFF"
+    path: Center->TopRight
+
+  - hex: "30.07"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "31.06"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "32.06"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->Right
+
+  - hex: "33.06"
+    layer: stream
+    color: "#99CCFF"
+    path: Left->BottomRight
+
+  - hex: "34.07"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "35.06"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "36.07"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->Right
+
+  - hex: "37.07"
+    layer: stream
+    color: "#99CCFF"
+    path: Left->BottomRight
+
+  - hex: "38.08"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "39.08"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->BottomRight
+
+  - hex: "40.09"
+    layer: stream
+    color: "#99CCFF"
+    path: TopLeft->Right
+
+  - hex: "41.09"
+    layer: stream
+    color: "#99CCFF"
+    path: Left->Right
+
+  - hex: "42.09"
+    layer: stream
+    color: "#99CCFF"
+    path: Left->TopRight
+
+  - hex: "43.08"
+    layer: stream
+    color: "#99CCFF"
+    path: BottomLeft->Center
