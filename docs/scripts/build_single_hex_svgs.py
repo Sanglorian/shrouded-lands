@@ -616,7 +616,7 @@ def make_svg(
             poi_symbol,
             poi_font_choice,
             cx,
-            cy,
+            cy - 6,
             24,
             poi_color_value,
             "",  # no separate opacity for POIs currently
