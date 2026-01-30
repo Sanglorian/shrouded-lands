@@ -955,67 +955,67 @@ entries:
   - hex: "30.07"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "31.06"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "32.06"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->Right
+    path: BottomLeft->Center->BottomRight
 
   - hex: "33.06"
     layer: stream
     color: "#99CCFF"
-    path: Left->BottomRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "34.07"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: TopLeft->Center->TopRight
 
   - hex: "35.06"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: BottomLeft->Center->BottomRight
 
   - hex: "36.07"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->Right
+    path: TopLeft->Center->BottomRight
 
   - hex: "37.07"
     layer: stream
     color: "#99CCFF"
-    path: Left->BottomRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "38.08"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "39.08"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->BottomRight
+    path: TopLeft->Center->BottomRight
 
   - hex: "40.09"
     layer: stream
     color: "#99CCFF"
-    path: TopLeft->Right
+    path: TopLeft->Center->BottomRight
 
   - hex: "41.09"
     layer: stream
     color: "#99CCFF"
-    path: Left->Right
+    path: TopLeft->Center->TopRight
 
   - hex: "42.09"
     layer: stream
     color: "#99CCFF"
-    path: Left->TopRight
+    path: BottomLeft->Center->TopRight
 
   - hex: "43.08"
     layer: stream
