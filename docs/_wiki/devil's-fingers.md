@@ -10,7 +10,6 @@ categories:
 media: []
 ---
 ![](/media/Devilf.png)
-Includes hexes: [13.24](/wiki/13-24/), [16.23](/wiki/16-23/), [18.26](/wiki/18-26/), [20.24](/wiki/20-24/), [22.25](/wiki/22-25/), [23.23](/wiki/23-23/) and [24.23](/wiki/24-23/).
 Connects to: [16.16.05](/wiki/16-16/), [17.18](/wiki/17-18/) and [17.21](/wiki/17-21/).
 
 The Devil’s Fingers is a crag-ridden wasteland that lies to the west of the Burning Lands and, while it is not as hot as that land, it is home to little but brush, ruins, scorpions and gnomes. These desert gnomes are the reason for much of the Devil’s Fingers’ fearsome reputation for they have concocted a thousand and one terrifying illusions to keep sinful strangers as far away from their homes as possible.

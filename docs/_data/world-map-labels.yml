@@ -1,6 +1,6 @@
 - name: Bitter Coast
   type: region
-  col: 1
+  col: 3
   row: 6
 
 - name: Grey Mountains
@@ -86,7 +86,7 @@
 - name: Marche of the Winterjarl
   type: region
   col: 14
-  row: 1
+  row: 0
 
 - name: Fortress #2
   type: city
@@ -228,10 +228,10 @@
   col: 3
   row: 31
 
-- name: The Growing River
+- name: Growling River
   type: region
-  col: 30
-  row: 20
+  col: 2
+  row: 30
 
 - name: Ocean Atop the World
   type: region

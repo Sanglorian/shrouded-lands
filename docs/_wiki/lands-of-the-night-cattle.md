@@ -13,7 +13,6 @@ media: []
 
 
 ## The Lands of the Night Cattle
-Includes hexes: [27.04](/wiki/27-04/), [28.04](/wiki/28-04/), [29.01](/wiki/29-01/), [30.03](/wiki/30-03/) and [31.04](/wiki/31-04/).
 
 Connects to: [27.03](/wiki/27-03/), [29.07](/wiki/29-07/), [29.14.01](/wiki/29-14/), [29.14.07](/wiki/29-14/), [33.00](/wiki/33-00/), [33.16](/wiki/33-16/), [34.05](/wiki/34-05/), [41.02](/wiki/41-02/) and the Kingswood.
 
