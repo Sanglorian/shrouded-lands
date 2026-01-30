@@ -150,8 +150,8 @@
 
 - name: Lost Colony
   type: region
-  col: 46
-  row: 15
+  col: 48
+  row: 14
 
 - name: Sosaria
   type: city
