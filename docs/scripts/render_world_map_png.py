@@ -5,6 +5,9 @@ Usage:
   python docs/scripts/render_world_map_png.py \
     --output /path/to/world-map.png
 
+The script also writes a full-size map alongside the requested output with a
+"-full" suffix (for example, world-map-full.png).
+
 Requirements:
   - Playwright for Python: pip install playwright
   - Playwright browser binaries: python -m playwright install chromium
@@ -175,6 +178,39 @@ def build_world_map_html(hex_dir: Path, labels_path: Path) -> str:
 """
 
 
+def render_map(
+    html: str,
+    output_path: Path,
+    viewport_width: int,
+    viewport_height: int,
+    timeout_ms: int,
+    scale: float,
+) -> None:
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".html", delete=False) as temp_file:
+        temp_file.write(html)
+        temp_path = Path(temp_file.name)
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch()
+            context = browser.new_context(
+                viewport={"width": viewport_width, "height": viewport_height},
+                device_scale_factor=scale,
+            )
+            page = context.new_page()
+            page.goto(temp_path.as_uri(), wait_until="load", timeout=timeout_ms)
+            page.wait_for_load_state("load", timeout=timeout_ms)
+            page.wait_for_function(
+                "Array.from(document.images).every(img => img.complete)",
+                timeout=timeout_ms,
+            )
+            map_element = page.locator(".world-map")
+            map_element.screenshot(path=str(output_path))
+            browser.close()
+    finally:
+        temp_path.unlink(missing_ok=True)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Render the Shrouded Lands world map into a PNG."
@@ -216,29 +252,29 @@ def main() -> int:
     output_path = Path(args.output).expanduser().resolve()
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with tempfile.NamedTemporaryFile(mode="w", suffix=".html", delete=False) as temp_file:
-        temp_file.write(html)
-        temp_path = Path(temp_file.name)
+    full_size_path = output_path.with_name(
+        f"{output_path.stem}-full{output_path.suffix}"
+    )
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch()
-        context = browser.new_context(
-            viewport={"width": viewport_width, "height": viewport_height},
-            device_scale_factor=args.scale,
-        )
-        page = context.new_page()
-        page.goto(temp_path.as_uri(), wait_until="load", timeout=args.timeout_ms)
-        page.wait_for_load_state("load", timeout=args.timeout_ms)
-        page.wait_for_function(
-            "Array.from(document.images).every(img => img.complete)",
-            timeout=args.timeout_ms,
-        )
-        map_element = page.locator(".world-map")
-        map_element.screenshot(path=str(output_path))
-        browser.close()
+    render_map(
+        html,
+        output_path,
+        viewport_width,
+        viewport_height,
+        args.timeout_ms,
+        args.scale,
+    )
+    render_map(
+        html,
+        full_size_path,
+        viewport_width,
+        viewport_height,
+        args.timeout_ms,
+        1.0,
+    )
 
-    temp_path.unlink(missing_ok=True)
     print(f"Saved map to {output_path}")
+    print(f"Saved full-size map to {full_size_path}")
     return 0
 
 

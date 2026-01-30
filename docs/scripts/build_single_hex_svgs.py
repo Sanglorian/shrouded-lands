@@ -19,11 +19,10 @@ HEX_TERRAIN_YAML = ROOT / "_data" / "hex-terrain.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Fonts for glyph-as-path rendering (Noto / OpenMoji / System)
+# Fonts for glyph-as-path rendering (Noto / OpenMoji)
 FONTS_DIR = ROOT / "fonts"
 NOTO_EMOJI_FONT = FONTS_DIR / "NotoEmoji-Regular.ttf"
 OPENMOJI_BLACK_FONT = FONTS_DIR / "OpenMoji-black-glyf.ttf"
-SYSTEM_FONT = Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
 
 HEX_TITLE_RE = re.compile(r"^(\d{2})\.(\d{2})(?:\.\d{2})?$")
 HEX_CODE_RE = re.compile(r"(\d{2})\.(\d{2})")
@@ -425,15 +424,28 @@ def render_symbol_glyph(
 
     fc = normalize_font_choice(font_choice)
 
+    if fc == "system":
+        symbol_text = normalize_symbol(symbol)
+        outline_attr = ""
+        if outline_color and outline_width:
+            outline_attr = (
+                f' stroke="{outline_color}" stroke-width="{outline_width}" '
+                'paint-order="stroke fill" stroke-linejoin="round"'
+            )
+        return (
+            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
+            f'dominant-baseline="middle" font-size="{size}" '
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
+            f'{symbol_text}</text>'
+        )
+
     # Path sources (ALWAYS produce a list)
     if fc == "noto":
         font_paths = [NOTO_EMOJI_FONT]
     elif fc == "openmoji":
         font_paths = [OPENMOJI_BLACK_FONT]
-    elif fc == "system":
-        font_paths = [SYSTEM_FONT, NOTO_EMOJI_FONT, OPENMOJI_BLACK_FONT]
     else:
-        font_paths = [SYSTEM_FONT, NOTO_EMOJI_FONT, OPENMOJI_BLACK_FONT]
+        font_paths = [NOTO_EMOJI_FONT, OPENMOJI_BLACK_FONT]
 
     base_ch = base_char_for_font(symbol)
 
