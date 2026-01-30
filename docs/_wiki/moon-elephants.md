@@ -15,7 +15,7 @@ media: []
 
 Moon elephants were revered in ancient times as living calenders. Their hues and temperaments change to match the phases of [the moon](/wiki/the-moon/). During full moons, the elephants are white and radiant and bold to the point of reckless aggression. New moons dull their hides and temperaments, making them nearly undetectable at night. Travelers have slept here new moons and awoke to discover elephant footprints around their campsites.
 
-Those who have butchered these rare, majestic creatures report that their hides do not change hue after being removed. Armor made from white moon elephant hides inspires its wearers with courage and can be enchanted to have light-related properties. The dark hide armor is sought by many thieves and assassins because it makes its wearers both more alert and difficult to see.![](/media/Giovanni_Antonio_Guardi_(attr)_Elefant.jpg)
+Those who have butchered these rare, majestic creatures report that their hides do not change hue after being removed. Armor made from white moon elephant hides inspires its wearers with courage and can be enchanted to have light-related properties. The dark hide armor is sought by many thieves and assassins because it makes its wearers both more alert and difficult to see.![](/media/Giovanni_Antonio_Guardi_%28attr%29_Elefant.jpg)
 ### Connections:
 * [Octoid](/wiki/octoids/) agents have gotten their hands on some moon elephant cloaks and are using them to infiltrate [Jahur](/wiki/jahur/).
 * The [Sparrow Knight](/wiki/sparrow-knight/) fights in moon elephant leather ([16.16.10](/wiki/16-16/)).

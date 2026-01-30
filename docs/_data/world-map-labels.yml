@@ -114,17 +114,17 @@
   row: 7
 
 - name: River of Crystal Waters
-  type: region
+  type: road-river
   col: 18
   row: 14
 
 - name: Welt Road
-  type: region
+  type: road-river
   col: 28
   row: 4
 
 - name: White Road
-  type: region
+  type: road-river
   col: 23
   row: 11
 
@@ -267,7 +267,7 @@
   type: region
   col: 10
   row: 12
-  
+
 - name: Westmarches
   type: region
   col: 2

@@ -45,7 +45,7 @@ In the heyday of the City of Many Windows, the peace was kept by a strange being
 
 By the time the war was over and the Shutters were closed, the people of the city were already beginning to forget that golden era. In time it drifted out of memory that the name 'City of Many Windows' was originally only an epithet, and that the first and true name of the city was Sigil.
 ### Connection:
-* In these days Alberon convinced the giants to build the [great walls of his City](/wiki/city-walls-(shuttered)/).
+* In these days Alberon convinced the giants to build the [great walls of his City](/wiki/city-walls-%28shuttered%29/).
 * The Lord of Pain enjoyed throwing his enemies in extradimensional prisons from which things occasionally emerge ([27.12](/wiki/27-12/)). This might be where kobolds come from.
 * The Lord of Pain exiled Heartwright to the north so that she could attempt to prove her claims to be able to rule the City better than him on a somewhat smaller scale ([19.01](/wiki/19-01/)).
 * A heretical document claims that Alberon will be born in this age and travel back in time to rule ([17.17](/wiki/17-17/).05).

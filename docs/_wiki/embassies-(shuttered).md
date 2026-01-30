@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## The Embassies of the Southern Gate
-![](/media/Shutt-em.png)The [southern wall](/wiki/city-walls-(shuttered)/) of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) is host to the Twelve Embassies of the [great nations](/wiki/twelve-nations/). The embassies open outward from the city -- they have been built into the southern side of the southern wall. The ambassadors of each embassy are required to enter through the South Gate and provide for their own protection.
+![](/media/Shutt-em.png)The [southern wall](/wiki/city-walls-%28shuttered%29/) of the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/) is host to the Twelve Embassies of the [great nations](/wiki/twelve-nations/). The embassies open outward from the city -- they have been built into the southern side of the southern wall. The ambassadors of each embassy are required to enter through the South Gate and provide for their own protection.
 
 The City of Shuttered Windows is considered the last bastion of civilization, a threshold opening into the so-called Shrouded Lands north of [Keening Sea](/wiki/keening-sea/). Compared to the Twelve Nations, the lands from Shuttered to the [Grey Mountains](/wiki/grey-mountains/) and beyond are savage and unruly.
 

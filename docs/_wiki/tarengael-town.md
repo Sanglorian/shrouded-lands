@@ -13,7 +13,7 @@ media: []
 
 ### Features
 * The Bridges East and West ([16.16.03](/wiki/16-16/)): information on the towns on either side of the river from Castle Tarengael.
-* [The Last Horses](/wiki/horse-market-(tarengael)/): the only horse market in the land is held here.
+* [The Last Horses](/wiki/horse-market-%28tarengael%29/): the only horse market in the land is held here.
 * Chelind’s Buns ([16.16.06](/wiki/16-16/)): a baker and her demon lover.
 
 ### The Bridges East and West

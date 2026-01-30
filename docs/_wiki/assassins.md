@@ -29,7 +29,7 @@ While the killing of a person is sometimes described as **assassination** regard
 * Some [Dust Walkers](/wiki/dust-walkers/) at the [Hesperite Harpsichord](/wiki/hesperite-harpsichord/) are highly trained illusionists and assassins.
 
 ## Assassination
-* [Cattle barons of Sosaria](/wiki/cattle-barons-(sosaria)/) incorporate cages containing [birds of paradise](/wiki/birds-of-paradise/) into their clothing to deter assassins.
+* [Cattle barons of Sosaria](/wiki/cattle-barons-%28sosaria%29/) incorporate cages containing [birds of paradise](/wiki/birds-of-paradise/) into their clothing to deter assassins.
 * A wax golem was used in the attempted assassination of [Viceroy Orhan](/wiki/viceroy-orhan/).
 * [Simone the Fowl](/wiki/simone-the-fowl/) was assassinated by [Simone the Foul](/wiki/simone-the-foul/).
 

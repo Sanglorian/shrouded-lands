@@ -17,5 +17,5 @@ The [Shuttered City](/wiki/city-of-shuttered-windows/) embassies for three of th
 * [Minotaur nation] (conquered by orcs) ([18.02](/wiki/18-02/))
 
 ## Connections
-* [Embassies for at least some of these nations](/wiki/embassies-(shuttered)/) exist in [Shuttered](/wiki/city-of-shuttered-windows/).
+* [Embassies for at least some of these nations](/wiki/embassies-%28shuttered%29/) exist in [Shuttered](/wiki/city-of-shuttered-windows/).
 

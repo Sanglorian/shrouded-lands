@@ -18,7 +18,7 @@ They wear little clothing, instead wrapping their own hair around their bodies i
 
 These wild men are shy and avoid elves, [kobolds](/wiki/kobolds/) ([40.06](/wiki/40-06/)) and all of the rest of the non-delicious inhabitants of the Kingswood, but can sometimes be lured out by patient and careful travelers. They can serve as excellent guides through this dangerous forest, but it can be hard to strike a bargain with them as they avoid metal of any sort and care nothing for things that are not of immediate use. They will turn down handfuls of diamonds but provide loyal serve in exchange for a well-trained [hunting cat](/wiki/cats/).
 ### Connections:
-* One of the few wild men to ever leave the woods is employed by [Wortimer](/wiki/wortimer/) of the [Blind Midshotgatepool thieves guild](/wiki/thieves-guild-(blind-midshotgatepool)/) to sniff out magic ([26.20.01](/wiki/26-20/)).
+* One of the few wild men to ever leave the woods is employed by [Wortimer](/wiki/wortimer/) of the [Blind Midshotgatepool thieves guild](/wiki/thieves-guild-%28blind-midshotgatepool%29/) to sniff out magic ([26.20.01](/wiki/26-20/)).
 * [Abdul](/wiki/abdul/) ([05.04](/wiki/05-04/)) somehow manages to have a bottle of a liquor brewed from the nectar of the [ribbon lotus](/wiki/ribbon-lotuses/) within the wood of a great living [oak](/wiki/oaks/) in stock. The wild men seldom share this beverage with outsiders and never sell it.
 
 ### Hooks:

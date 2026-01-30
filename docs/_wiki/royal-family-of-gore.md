@@ -25,7 +25,7 @@ For an age, peasant children crowned every High King of Gore in Fool’s Court.
 * Why did the old kings revere an ancient, little-known civilization and their gods so much?
 
 ### Fall of the Falcon Throne
-![Turien, the King of Fools](/media/David_Teniers_(II)_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [The Tarrasque](/wiki/tarrasque/) of Bergolast ([38.28](/wiki/38-28/)) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
+![Turien, the King of Fools](/media/David_Teniers_%28II%29_jester.jpg)While the High Kings of Gore ruled they alone drank the blood of [The Tarrasque](/wiki/tarrasque/) of Bergolast ([38.28](/wiki/38-28/)) and ruled the land with wisdom. But last of their line was Turien the King of Fools and now the castle is home only to mice and ravens.
 
 Before it fell, every year without fail the kings who sat on the falcon throne would hold a festival where people traded roles for a week: freemen paraded around in their wives’ dresses, kings wore fool’s motley and – in the last year of the kingdom – twelve butchers acted as the king’s council of ministers. These were snidely called the Lords Sanguine, for they wore their robes of state beneath their bloody aprons.
 

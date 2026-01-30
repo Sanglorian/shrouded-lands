@@ -42,8 +42,8 @@ The elder Alvise had already commissioned a crown and plans to proclaim himself 
 * What preparations is Alvise making before he crowns himself king and tries to carve out a kingdom?
 
 ## Members
-* [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
-* [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)
+* [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-%28uncle%29/)
+* [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-%28nephew%29/)
 
 
 

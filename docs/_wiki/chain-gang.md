@@ -8,5 +8,5 @@ categories:
   - "Disambiguation"
 media: []
 ---
-Could refer to the [Chain Gang (Azurnay)](/wiki/chain-gang-(azurnay)/) or the [Chain Gang (Thring)](/wiki/chain-gang-thring/)
+Could refer to the [Chain Gang (Azurnay)](/wiki/chain-gang-%28azurnay%29/) or the [Chain Gang (Thring)](/wiki/chain-gang-thring/)
 

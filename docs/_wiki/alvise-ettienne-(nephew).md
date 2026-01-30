@@ -11,7 +11,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-The nephew of [Alvise Ettienne](/wiki/alvise-ettienne-(uncle)/), the original of the [Ettiennes](/wiki/ettiennes/). Alvise is involved in the [silk wars](/wiki/silk-wars/).
+The nephew of [Alvise Ettienne](/wiki/alvise-ettienne-%28uncle%29/), the original of the [Ettiennes](/wiki/ettiennes/). Alvise is involved in the [silk wars](/wiki/silk-wars/).
 
 
 

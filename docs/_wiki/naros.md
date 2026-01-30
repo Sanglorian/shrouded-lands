@@ -11,7 +11,7 @@ categories:
 media: []
 ---
 ## Features
-* Naros has [an embassy](/wiki/embassies-(shuttered)/) in the [Shuttered City](/wiki/city-of-shuttered-windows/), itself twisted like Naros was.
+* Naros has [an embassy](/wiki/embassies-%28shuttered%29/) in the [Shuttered City](/wiki/city-of-shuttered-windows/), itself twisted like Naros was.
 
 ## Supendar and the Dryads
 ![The dryads after Supendar's magic](/media/JuliusvonKlever.jpg)What most do not know is that Supendar was not a true lich but a mighty dryad who had been planted before the fall of Bergolast ([38.28](/wiki/38-28/)). Such a creature does not give into death easily and when the great tree of the dryad began to die, Supendar worked an ancient magic that stopped time itself within the borders of Naros. Death too was stopped and the full moon hung still in the sky and its moonbeams fell upon the trees of the Drymea, where the dryads frolicked with their lovers.

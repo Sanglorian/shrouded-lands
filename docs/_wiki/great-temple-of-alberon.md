@@ -10,7 +10,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-> See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-(disambiguation)/)
+> See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-%28disambiguation%29/)
 In some dark vault beneath the Great Temple of Alberon, there is stored the [Book of Heresies](/wiki/book-of-heresies/), in which all the heresies from the [Time of Schisms](/wiki/time-of-schisms/) are recorded.
 
 ## Connections

@@ -26,7 +26,7 @@ Shuttered has signed the [Horn Treaty](/wiki/horn-treaty/), decreeing all minota
 ## Places
 * Lastmaze ([18.02](/wiki/18-02/))
 
-* [Empty and bricked up embassy](/wiki/embassies-(shuttered)/)
+* [Empty and bricked up embassy](/wiki/embassies-%28shuttered%29/)
 
 * Blackhorn's Maze ([39.32](/wiki/39-32/)) was built as an outpost during the [Chimerical Siege](/wiki/chimerical-siege/). Minotaur eyes of fear and flame guard it now.
 

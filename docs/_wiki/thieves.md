@@ -18,7 +18,7 @@ media: []
 
 ## Organisations
 * [Drogo](/wiki/drogo/) the Baldfaced has founded a [Rustlers Guild](/wiki/rustlers-guild/). He takes one gold piece in seven from his members, but they happily pay.
-* Blind Midshotgatepool's [thieves' guild](/wiki/thieves-guild-(blind-midshotgatepool)/) wields much of the power in the city. They are heroes among those too poor to live on dry land and for their daring raids on Shuttered merchants and the Tower Savage.
+* Blind Midshotgatepool's [thieves' guild](/wiki/thieves-guild-%28blind-midshotgatepool%29/) wields much of the power in the city. They are heroes among those too poor to live on dry land and for their daring raids on Shuttered merchants and the Tower Savage.
   * The Blind Midshotgatepool's thieves' guild sets the law for the city's houseboats, which are outside of any of the five towns' jurisdiction.
   * The guild uses freelance thieves for most of its dirty work, providing them with intelligence and assistance in return for a cut of the loot.
   * The guild metes out swift, though arbitrary and cruel, justice that is respected by many of the locals.

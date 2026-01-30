@@ -14,7 +14,7 @@ media: []
 
 Connects to: [29.14.02](/wiki/29-14/) and [30.12](/wiki/30-12/).
 
-Of all the [balloon-artisans](/wiki/balloons-(shuttered)/) in the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/), the most respected was Yilbar the Illustrious. Owning an entire studio of builders, designers and painters, he was the creator of the Doge's current air-barge, as well as many other fine balloons.
+Of all the [balloon-artisans](/wiki/balloons-%28shuttered%29/) in the [City of Shuttered Windows](/wiki/city-of-shuttered-windows/), the most respected was Yilbar the Illustrious. Owning an entire studio of builders, designers and painters, he was the creator of the Doge's current air-barge, as well as many other fine balloons.
 
 His greatest work yet was to be the Black Balloon. Painted primarily black, with white frescoes depicting grand moments in the history of the City, it was filled with a new type of gas (also black). Yilbar had acquired the gas from some distant place, but the specifics of where and how he would not divulge.
 

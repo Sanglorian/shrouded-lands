@@ -21,7 +21,7 @@ The **Undercity** or **under-city** of [Shuttered](/wiki/city-of-shuttered-windo
 * The [Menagerie of Pandelar](/wiki/menagerie-of-pandelar/) is rumoured to be deep in the vaults of the Undercity.
 * The troglodytes of the [Temple of Alberon](/wiki/temple-of-alberon/) do their best to eradicate grey oozes from the Undercity.
 * The [Creche of a Million Young](/wiki/creche-of-a-million-young/) has a strong presence in the Undercity.
-* Windows from olden times, that were [shuttered long ago](/wiki/windows-(shuttered)/), can still be seen in the Undercity.
+* Windows from olden times, that were [shuttered long ago](/wiki/windows-%28shuttered%29/), can still be seen in the Undercity.
   * This includes the Last Window, which remains open.
 
 ### Connections
