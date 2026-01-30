@@ -19,10 +19,11 @@ HEX_TERRAIN_YAML = ROOT / "_data" / "hex-terrain.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Fonts for glyph-as-path rendering (Noto / OpenMoji)
+# Fonts for glyph-as-path rendering (Noto / OpenMoji / System)
 FONTS_DIR = ROOT / "fonts"
 NOTO_EMOJI_FONT = FONTS_DIR / "NotoEmoji-Regular.ttf"
 OPENMOJI_BLACK_FONT = FONTS_DIR / "OpenMoji-black-glyf.ttf"
+SYSTEM_FONT = Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
 
 HEX_TITLE_RE = re.compile(r"^(\d{2})\.(\d{2})(?:\.\d{2})?$")
 HEX_CODE_RE = re.compile(r"(\d{2})\.(\d{2})")
@@ -424,59 +425,32 @@ def render_symbol_glyph(
 
     fc = normalize_font_choice(font_choice)
 
-    # System text: original behaviour
-    if fc == "system":
-        symbol_text = normalize_symbol(symbol)
-        outline_attr = ""
-        if outline_color and outline_width:
-            outline_attr = (
-                f' stroke="{outline_color}" stroke-width="{outline_width}" '
-                'paint-order="stroke fill" stroke-linejoin="round"'
-            )
-        return (
-            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
-            f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
-            f'{symbol_text}</text>'
-        )
-
-    # Noto / OpenMoji as path
+    # Path sources (ALWAYS produce a list)
     if fc == "noto":
-        font_path = NOTO_EMOJI_FONT
+        font_paths = [NOTO_EMOJI_FONT]
     elif fc == "openmoji":
-        font_path = OPENMOJI_BLACK_FONT
+        font_paths = [OPENMOJI_BLACK_FONT]
+    elif fc == "system":
+        font_paths = [SYSTEM_FONT, NOTO_EMOJI_FONT, OPENMOJI_BLACK_FONT]
     else:
-        # Fallback to system text if something odd
-        symbol_text = normalize_symbol(symbol)
-        return (
-            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
-            f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
-            f'{symbol_text}</text>'
-        )
-
-    # If the font file is missing, fall back gracefully
-    if not font_path.exists():
-        symbol_text = normalize_symbol(symbol)
-        outline_attr = ""
-        if outline_color and outline_width:
-            outline_attr = (
-                f' stroke="{outline_color}" stroke-width="{outline_width}" '
-                'paint-order="stroke fill" stroke-linejoin="round"'
-            )
-        return (
-            f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
-            f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
-            f'{symbol_text}</text>'
-        )
+        font_paths = [SYSTEM_FONT, NOTO_EMOJI_FONT, OPENMOJI_BLACK_FONT]
 
     base_ch = base_char_for_font(symbol)
 
-    try:
-        d = char_to_svg_path(base_ch, font_path, target_px=size)
-    except Exception:
-        # If the font doesn't contain this glyph, or any error, fall back
+    def try_font(font_choice: Path) -> Optional[str]:
+        if not font_choice.exists():
+            return None
+        try:
+            return char_to_svg_path(base_ch, font_choice, target_px=size)
+        except Exception:
+            return None
+
+    d = None
+    for font_path in font_paths:
+        d = try_font(font_path)
+        if d:
+            break
+    if not d:
         symbol_text = normalize_symbol(symbol)
         outline_attr = ""
         if outline_color and outline_width:

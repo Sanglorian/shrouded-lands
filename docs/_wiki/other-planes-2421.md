@@ -8,7 +8,7 @@ categories:
 - Synonyms
 media: []
 is_redirect: true
-redirect_to: Other planes
+redirect_to: planes
 ---
 # REDIRECT:
 

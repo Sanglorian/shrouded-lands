@@ -80,15 +80,15 @@ When you add your own entry it can be additional information about a hex that ha
 ### Regions
 
 {%- assign region_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Regions'" | sort_natural: "title" -%}
-{%- for region in region_pages -%}
+{% for region in region_pages %}
   {%- assign region_name = region.title | default: region.subtitle -%}
 - [{{ region_name }}]({{ region.url | relative_url }})
-{%- endfor -%}
+{% endfor %}
 
 ### Cities
 
 {%- assign city_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Cities'" | sort_natural: "subtitle" -%}
-{%- for city in city_pages -%}
+{% for city in city_pages %}
   {%- assign city_name = city.subtitle | default: city.alias | default: city.title -%}
   {%- assign region_name = city.region | default: "" -%}
   {%- assign region_name_downcase = region_name | downcase -%}
@@ -109,7 +109,7 @@ When you add your own entry it can be additional information about a hex that ha
     {%- endif -%}
   {%- endcapture -%}
 - [{{ city_name }}]({{ city.url | relative_url }}) {{ region_suffix | strip }}
-{%- endfor -%}
+{% endfor %}
 
 ![](/media/Shroud3.png)
 

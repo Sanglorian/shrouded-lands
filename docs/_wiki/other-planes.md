@@ -7,6 +7,6 @@ original_url: https://shrouded-lands.fandom.com/wiki/Other_Planes
 categories: []
 media: []
 is_redirect: true
-redirect_to: Other planes
+redirect_to: planes
 ---
-# REDIRECT [Other planes](/wiki/other-planes-2421/)
+# REDIRECT [Other planes](/wiki/planes/)

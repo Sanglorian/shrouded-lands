@@ -181,8 +181,14 @@ def main() -> int:
     )
     parser.add_argument(
         "--output",
-        required=True,
+        default="docs/assets/world-map.png",
         help="Path to the PNG file to create.",
+    )
+    parser.add_argument(
+        "--timeout-ms",
+        type=int,
+        default=120_000,
+        help="Timeout in milliseconds for page load and assets (default: 120000).",
     )
     parser.add_argument(
         "--scale",
@@ -221,8 +227,12 @@ def main() -> int:
             device_scale_factor=args.scale,
         )
         page = context.new_page()
-        page.goto(temp_path.as_uri())
-        page.wait_for_load_state("load")
+        page.goto(temp_path.as_uri(), wait_until="load", timeout=args.timeout_ms)
+        page.wait_for_load_state("load", timeout=args.timeout_ms)
+        page.wait_for_function(
+            "Array.from(document.images).every(img => img.complete)",
+            timeout=args.timeout_ms,
+        )
         map_element = page.locator(".world-map")
         map_element.screenshot(path=str(output_path))
         browser.close()
