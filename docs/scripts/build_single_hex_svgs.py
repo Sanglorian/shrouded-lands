@@ -408,6 +408,8 @@ def render_symbol_glyph(
     size: float,
     color: str,
     opacity_attr: str,
+    outline_color: Optional[str] = None,
+    outline_width: Optional[float] = None,
 ) -> str:
     """
     Render a single glyph either as:
@@ -425,10 +427,16 @@ def render_symbol_glyph(
     # System text: original behaviour
     if fc == "system":
         symbol_text = normalize_symbol(symbol)
+        outline_attr = ""
+        if outline_color and outline_width:
+            outline_attr = (
+                f' stroke="{outline_color}" stroke-width="{outline_width}" '
+                'paint-order="stroke fill" stroke-linejoin="round"'
+            )
         return (
             f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
             f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
             f'{symbol_text}</text>'
         )
 
@@ -450,10 +458,16 @@ def render_symbol_glyph(
     # If the font file is missing, fall back gracefully
     if not font_path.exists():
         symbol_text = normalize_symbol(symbol)
+        outline_attr = ""
+        if outline_color and outline_width:
+            outline_attr = (
+                f' stroke="{outline_color}" stroke-width="{outline_width}" '
+                'paint-order="stroke fill" stroke-linejoin="round"'
+            )
         return (
             f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
             f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
             f'{symbol_text}</text>'
         )
 
@@ -464,10 +478,16 @@ def render_symbol_glyph(
     except Exception:
         # If the font doesn't contain this glyph, or any error, fall back
         symbol_text = normalize_symbol(symbol)
+        outline_attr = ""
+        if outline_color and outline_width:
+            outline_attr = (
+                f' stroke="{outline_color}" stroke-width="{outline_width}" '
+                'paint-order="stroke fill" stroke-linejoin="round"'
+            )
         return (
             f'<text x="{x:.1f}" y="{y:.1f}" text-anchor="middle" '
             f'dominant-baseline="middle" font-size="{size}" '
-            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}>'
+            f'font-family="system-ui, sans-serif" fill="{color}"{opacity_attr}{outline_attr}>'
             f'{symbol_text}</text>'
         )
 
@@ -475,9 +495,15 @@ def render_symbol_glyph(
     tx = x - size * 0.5
     ty = y + size * 0.4
 
+    outline_attr = ""
+    if outline_color and outline_width:
+        outline_attr = (
+            f' stroke="{outline_color}" stroke-width="{outline_width}" '
+            'paint-order="stroke fill" stroke-linejoin="round" stroke-linecap="round"'
+        )
     return (
         f'<g transform="translate({tx:.1f},{ty:.1f})">'
-        f'<path d="{d}" fill="{color}"{opacity_attr} />'
+        f'<path d="{d}" fill="{color}"{opacity_attr}{outline_attr} />'
         f'</g>'
     )
 
@@ -608,6 +634,8 @@ def make_svg(
             24,
             poi_color_value,
             "",  # no separate opacity for POIs currently
+            outline_color="#ffffff",
+            outline_width=2,
         )
 
     top_left, top_right, right, bottom_right, bottom_left, left = vertices
