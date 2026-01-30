@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "The Burning Lands"
 media: []
+summary: "Hot deserts, sometimes literally on fire. It is inhabited by dwarves, painted elephants and gnolls."
 ---
 ![](/media/Burning.jpg)
 

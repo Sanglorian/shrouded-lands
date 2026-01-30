@@ -85,6 +85,7 @@ When you add your own entry it can be additional information about a hex that ha
     {% continue %}
   {% endif %}
   {% assign region_name = region.title | default: region.subtitle %}
+  {% assign region_summary = region.summary | default: "" | strip %}
   {% assign subregions = region_pages
     | where_exp: "p", "p.categories contains 'Sub-Region'"
     | where_exp: "p", "p.categories contains region.title"
@@ -99,7 +100,7 @@ When you add your own entry it can be additional information about a hex that ha
       )
     {% endif %}
   {% endcapture %}
-- [{{ region_name }}]({{ region.url | relative_url }}) {{ subregion_list | strip }}
+- [{{ region_name }}]({{ region.url | relative_url }}){% if region_summary != "" %} - {{ region_summary }}{% endif %} {{ subregion_list | strip }}
 {% endfor %}
 
 ### Cities
@@ -107,6 +108,7 @@ When you add your own entry it can be additional information about a hex that ha
 {% assign city_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Cities'" | sort_natural: "subtitle" %}
 {% for city in city_pages %}
   {% assign city_name = city.subtitle | default: city.alias | default: city.title %}
+  {% assign city_summary = city.summary | default: "" | strip %}
   {% assign region_name = city.region | default: "" %}
   {% assign region_name_downcase = region_name | downcase %}
   {% assign region_match = nil %}
@@ -125,7 +127,7 @@ When you add your own entry it can be additional information about a hex that ha
       {% endif %}
     {% endif %}
   {% endcapture %}
-- [{{ city_name }}]({{ city.url | relative_url }}) {{ region_suffix | strip }}
+- [{{ city_name }}]({{ city.url | relative_url }}){% if city_summary != "" %} - {{ city_summary }}{% endif %} {{ region_suffix | strip }}
 {% endfor %}
 
 ![](/media/Shroud3.png)

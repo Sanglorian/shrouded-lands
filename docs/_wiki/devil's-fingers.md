@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Devil's Fingers"
 media: []
+summary: "Mountains (?) with a ruined city and a tribe of cave-dwelling gnomes, mostly undescribed."
 ---
 ![](/media/Devilf.png)
 Connects to: [16.16.05](/wiki/16-16/), [17.18](/wiki/17-18/) and [17.21](/wiki/17-21/).

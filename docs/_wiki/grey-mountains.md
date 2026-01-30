@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Grey Mountains"
 media: []
+summary: "Northern mountain range inhabited by dwarves and orcs."
 ---
 !['High Pass in Misty Mountains', Neral (CC BY 3.0 Unported)](/media/Cirith_forn_en_andrath.jpg)
 

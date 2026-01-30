@@ -9,6 +9,7 @@ categories:
   - "Roads"
   - "Welt Road"
 media: []
+summary: "Trade route that passes through a long tunnel under the Kingswood, avoiding the dangerous elves. It connects the Lands of the Night Cattle to the Freeholds."
 ---
 Although the perils of the Kingswood lie between the [Lands of the Night Cattle](/wiki/lands-of-the-night-cattle/) and the lands of men and dwarves, trade still passes through along a curious road.
 

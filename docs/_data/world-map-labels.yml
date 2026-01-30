@@ -240,8 +240,8 @@
 
 - name: Ocean Atop the World
   type: region
-  col: 26
-  row: 0
+  col: 2
+  row: 24
 
 - name: Olgam & Oskill
   type: town

@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Barrier Range"
 media: []
+summary: "Mountains between Thring and the Shuttered City. They are inhabited by Witch Clans - inbred tribesmen with the hereditary power to cast one particular spell at-will."
 ---
 ![](/media/SL_21.jpg)
 

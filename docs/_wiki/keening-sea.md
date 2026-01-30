@@ -9,6 +9,7 @@ categories:
   - "Regions"
   - "Keening Sea"
 media: []
+summary: "Eastern freshwater sea with ships from Shuttered and Blind Midshotgatepool."
 ---
 ![http://apolitical.info/teleleli/?p=1387](/media/AlphonsedeNeuville.jpg)
 

@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Cornfields"
 media: []
+summary: "Fields inhabited by tooth-stealing corn farmers, mostly undescribed."
 ---
 ![](/media/Corn.png)
 

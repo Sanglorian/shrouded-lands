@@ -9,7 +9,7 @@ categories:
   - "Phenomena"
 media: []
 ---
-See also [Other planes](/wiki/other-planes-2421/).
+
 * The [windows of Shuttered](/wiki/windows-(shuttered)/) once looked out onto many planes, but now only one last window remains open
 * [Ethereal Realm](/wiki/ethereal-realm/)
 * [Holy Mountain](/wiki/holy-mountain/)

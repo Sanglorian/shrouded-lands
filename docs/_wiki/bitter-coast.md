@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Bitter Coast"
 media: []
+summary: "Coast of the western sea frequented by pirates and Pirate Kings - storm giants who ride in flying cloud castles."
 ---
 ![](/media/Bitter.png)
 

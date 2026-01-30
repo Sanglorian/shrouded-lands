@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "World's Edge and Beyond"
 media: []
+summary: "Vast cliffs sinking down to an uninhabited (?) tropical basin. Many strange monsters live here."
 ---
 ![](/media/Edge.png)
 

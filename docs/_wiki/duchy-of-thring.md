@@ -9,6 +9,7 @@ categories:
   - "Regions"
   - "Duchy of Thring"
 media: []
+summary: "Large Arthurian nation with knights, counts and castles. Most of the population worships the Green Lady. This land is known for its bizarre laws."
 ---
 ![](/media/Duchy.jpg)
 

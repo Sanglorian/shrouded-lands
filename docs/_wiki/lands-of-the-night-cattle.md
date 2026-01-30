@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Lands of the Night Cattle"
 media: []
+summary: "The Night Men and their cattle only come out at night. Their albino cattle are used in rituals by most religions in the Shrouded Lands."
 ---
 ![](/media/Moo.png) 
 

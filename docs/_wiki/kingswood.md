@@ -8,6 +8,7 @@ categories:
   - "Regions"
   - "Kingswood"
 media: []
+summary: "A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor."
 ---
 !['Chetwood in the Bree-Land', Neral (CC BY 3.0 Unported)](/media/Chetwood.jpg)
 
