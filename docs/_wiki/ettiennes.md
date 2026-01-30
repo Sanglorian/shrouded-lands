@@ -10,6 +10,7 @@ categories:
   - "Peoples"
   - "Freeholds"
   - "City of Shuttered Windows"
+summary: "Recently emerged ettins named after Alvise Ettienne, the first ettin created by the wizard Severard."
 media: []
 ---
 ![Ettin](/media/I052.jpg)
@@ -43,7 +44,6 @@ The elder Alvise had already commissioned a crown and plans to proclaim himself 
 ## Members
 * [Alvise Ettienne (uncle)](/wiki/alvise-ettienne-(uncle)/)
 * [Alvise Ettienne (nephew)](/wiki/alvise-ettienne-(nephew)/)
-
 
 
 

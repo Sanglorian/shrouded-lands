@@ -8,10 +8,10 @@ categories:
   - "Chimalia"
   - "Chimerics"
   - "Deities"
+summary: "Goddess of chimerical monsters, sister and daughter of Tiamat, whose symbol is a labyrinth."
 media: []
 ---
 * The Font of Chimalia ([31.19](/wiki/31-19/))
 * One of the seven firstborn sons of Chimalia, the goatscorpion, lives in the [Menagerie of Pandelar](/wiki/menagerie-of-pandelar/)
-
 
 

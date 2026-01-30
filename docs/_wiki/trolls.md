@@ -7,6 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Trolls"
 categories:
   - "Peoples"
   - "Trolls"
+summary: "Trolls were originally humans who drank the blood of the Tarrasque."
 media: []
 ---
 ![http://commons.wikimedia.org/wiki/File:Illustration_inset_at_page_125_of_Indian_Fairy_Tales_(1892).png](/media/JohnDBatten15.png)
@@ -25,5 +26,4 @@ Those who eat of a troll's flesh might find themselves changed by the experience
 * A troll at the Wedding Band ([30.15](/wiki/30-15/)) is "an uncommonly cunning troll of great and varied hungers".
 * The leader of three trolls who threatened Jar Town ([16.20](/wiki/16-20/)) exists now only as a head in a box.
 * [Master Var](/wiki/master-var/) ([43.03](/wiki/43-03/)) is a cunning artist who recently rescued a troll whose flesh had been harvested by a [deep dwarf](/wiki/deep-dwarves/) to feed his [goblin](/wiki/goblins/) slaves.
-
 

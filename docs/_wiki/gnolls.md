@@ -10,6 +10,7 @@ categories:
   - "Peoples"
   - "The Burning Lands"
   - "The Singing Wastes"
+summary: "Relatively civilised, matriarchal gnolls with their own city and bard college, but still violent and barbaric, dwelling primarily in the Burning Lands."
 media: []
 ---
 Gnoll clans are matriarchal. 
@@ -50,7 +51,6 @@ The [flindbar](/wiki/flindbar/) is a spiked nunchuku developed by the gnolls.
 
 ## Connections
 * Like the position of Grand Chieftan, the [Champion of Thring](/wiki/champion-of-thring/) is also decided by one-on-one combat
-
 
 
 

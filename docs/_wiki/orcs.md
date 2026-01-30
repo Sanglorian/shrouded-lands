@@ -8,6 +8,7 @@ categories:
   - "Half-orcs"
   - "Orcs"
   - "Peoples"
+summary: "Somewhat civilised yet warlike builders and raiders who dwell mostly in the north."
 media: []
 ---
 !['Orc', Markus Röncke (Public Domain Dedication)](/media/Ork_schamane.jpg)
@@ -61,6 +62,5 @@ The orcs perform rites to their strange gods at the Ten Thousand Stumps ([24.02]
 * The Baker is a former slave living in Titan’s Skull ([34.01](/wiki/34-01/)). There are many orcs among the slaves in the silver mines of the dwarves.
 * There are two rival garrisons of Hoth Achaar orcs in Those Vexatious Caves ([14.02](/wiki/14-02/)).
 * Krel, a companion of [Corian](/wiki/corian/), is a changeling.
-
 
 

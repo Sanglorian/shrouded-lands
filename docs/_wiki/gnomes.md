@@ -7,6 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Gnomes"
 categories:
   - "Gnomes"
   - "Peoples"
+summary: "Gnomes sometimes live inside the walls of giants' castles."
 media: []
 ---
 Gnomes are one of the peoples of the Shrouded Lands.![A gnome gathering.](/media/JohnBauer12.jpg)
@@ -33,6 +34,5 @@ There is a Gnomish Quarter in Shuttered; one of its key features is the [Temple 
 ## Other
 * [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/) is a reference to a gnome pirate (possibly legendary) who fell in love with a stone giant.
 * The [deep dwarves](/wiki/deep-dwarves/) hate gnomes and gouge their eyes out, due to their grudge related to the gnomish betrayal of the [Shuttered City](/wiki/city-of-shuttered-windows/).
-
 
 

@@ -7,6 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Tiamat"
 categories:
   - "Dead Tiamat"
   - "Deities"
+summary: "Dragon-goddess slain by Alberon who still has a small cult and is the mother and sister of Chimalia."
 media: []
 ---
 ## History
@@ -27,5 +28,4 @@ media: []
 * The [Tiamatan Revival](/wiki/tiamatan-revival/) is another group that reveres Tiamat. Splitters!
 * [John Luciferus](/wiki/john-luciferus/), a mad lictor of the Tiamat Cult, wrote the [Book of Not Being Boiled in Fire](/wiki/book-of-not-being-boiled-in-fire/) before being burned at the stake.
 * A cult in Cragsend ([04.06](/wiki/04-06/)) is led by a cleric-turned-sorcerer who worships a dragon, but not Tiamat.
-
 

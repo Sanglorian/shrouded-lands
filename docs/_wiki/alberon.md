@@ -7,6 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Alberon"
 categories:
   - "Alberon"
   - "Deities"
+summary: "God of the City of Shuttered Windows who spurned She Who Waits and the Green Lady, slew Tiamat, and is worshipped by the Temple Indivisible and the Temple Invisible."
 media: []
 ---
 Also known as the **Lord of Pain**.
@@ -22,5 +23,4 @@ Also known as the **Lord of Pain**.
 
 ## Places of worship
 * The Farthest Hermitage ([15.00](/wiki/15-00/)) is the most distant outpost of Alberon's worshippers
-
 

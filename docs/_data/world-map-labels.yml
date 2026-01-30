@@ -233,11 +233,6 @@
   col: 3
   row: 31
 
-- name: Growling River
-  type: region
-  col: 2
-  row: 30
-
 - name: Ocean Atop the World
   type: region
   col: 2
@@ -257,3 +252,23 @@
   type: town
   col: 43
   row: 12
+
+- name: Jahur
+  type: city
+  col: 19
+  row: 31
+
+- name: Riparia
+  type: town
+  col: 39
+  row: 8
+
+- name: Cornfields
+  type: region
+  col: 10
+  row: 12
+  
+- name: Westmarches
+  type: region
+  col: 2
+  row: 23

@@ -109,15 +109,28 @@ When you add your own entry it can be additional information about a hex that ha
 {% for city in city_pages %}
   {% assign city_name = city.subtitle | default: city.alias | default: city.title %}
   {% assign city_summary = city.summary | default: "" | strip %}
-  {% assign region_name = city.region | default: "" %}
-  {% assign region_name_downcase = region_name | downcase %}
   {% assign region_match = nil %}
-  {% for region in region_pages %}
-    {% if region.title and region.title | downcase == region_name_downcase %}
-      {% assign region_match = region %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
+  {% assign region_name = "" %}
+  {% if city.categories %}
+    {% for region in region_pages %}
+      {% if region.title and city.categories contains region.title %}
+        {% assign region_name = region.title %}
+        {% assign region_match = region %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if region_name == "" %}
+    {% assign region_name = city.region | default: "" %}
+    {% assign region_name_downcase = region_name | downcase %}
+    {% for region in region_pages %}
+      {% if region.title and region.title | downcase == region_name_downcase %}
+        {% assign region_match = region %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
   {% capture region_suffix %}
     {% if region_name != "" %}
       {% if region_match %}
@@ -138,13 +151,26 @@ When you add your own entry it can be additional information about a hex that ha
 
 ## Appendices
 - [Phenomena](/wiki/phenomena/)
+  - [Other Planes](/wiki/other-planes/)
 - [Plants](/wiki/plants/)
 - [Nations](/wiki/nations/)
+  - [Languages](/wiki/languages/)
+  - [Lost civilisations](/wiki/lost-civilisations/)
 - [Appendix N: Inspirations](/wiki/appendix-n-inspirations/)
-- [Organisations](/wiki/organisations/)
-- [Other Planes](/wiki/other-planes/)
 - [Professions](/wiki/professions/)
-- [Spells](/wiki/spells/)
+- [Peoples](/wiki/peoples/)
+  - [Customs](/wiki/customs/)
+- [Creatures](/wiki/creatures/)
+  - [Animals](/wiki/animals/)
+- [Characters](/wiki/characters/)
+  - [Families](/wiki/families/)
+  - [Organisations](/wiki/organisationss/)
+  - [Religious groups](/wiki/religious-groups/)
+  - [Deities](/wiki/deities/)
+- [Magic](/wiki/magic/)
+  - [Spells](/wiki/spells/)
+  - [Artifacts](/wiki/artifacts/)
+- [Buildings](/wiki/buildings/)
 {% endcapture %}
 
 {{ index_markdown | markdownify }}
