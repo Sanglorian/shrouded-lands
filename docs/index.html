@@ -90,16 +90,7 @@ When you add your own entry it can be additional information about a hex that ha
     | where_exp: "p", "p.categories contains 'Sub-Region'"
     | where_exp: "p", "p.categories contains region.title"
     | sort_natural: "title" %}
-  {% capture subregion_list %}
-    {% if subregions.size > 0 %}
-      (
-      {% for subregion in subregions %}
-        {% assign subregion_name = subregion.title | default: subregion.subtitle %}
-        [{{ subregion_name }}]({{ subregion.url | relative_url }}){% if forloop.last == false %}, {% endif %}
-      {% endfor %}
-      )
-    {% endif %}
-  {% endcapture %}
+  {% capture subregion_list %}{% if subregions.size > 0 %}({% for subregion in subregions %}{% assign subregion_name = subregion.title | default: subregion.subtitle %}[{{ subregion_name }}]({{ subregion.url | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}{% endcapture %}
 - [{{ region_name }}]({{ region.url | relative_url }}){% if region_summary != "" %} - {{ region_summary }}{% endif %} {{ subregion_list | strip }}
 {% endfor %}
 
