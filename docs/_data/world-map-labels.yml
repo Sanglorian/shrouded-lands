@@ -26,7 +26,12 @@
 - name: Kingswood
   type: region
   col: 31
-  row: 7
+  row: 6
+
+- name: Hills of Gore
+  type: region
+  col: 9
+  row: 19
 
 - name: Keening Sea
   type: region
@@ -69,17 +74,17 @@
   row: 29
 
 - name: Everdark
-  type: city
+  type: town
   col: 1
   row: 3
 
 - name: Hoth Akbir
-  type: city
+  type: town
   col: 2
   row: 5
 
 - name: Cragsend
-  type: city
+  type: town
   col: 4
   row: 6
 
@@ -88,18 +93,18 @@
   col: 14
   row: 0
 
-- name: Fortress #2
-  type: city
+- name: Fortress No. 2
+  type: town
   col: 14
   row: 2
 
 - name: Aggoth
-  type: city
+  type: town
   col: 18
   row: 6
 
 - name: Quickhollow
-  type: city
+  type: town
   col: 31
   row: 9
 
@@ -129,7 +134,7 @@
   row: 4
 
 - name: Hoth Achaar
-  type: city
+  type: town
   col: 26
   row: 1
 
@@ -154,7 +159,7 @@
   row: 18
 
 - name: People of the Claw
-  type: city
+  type: town
   col: 48
   row: 13
 
@@ -164,17 +169,17 @@
   row: 17
 
 - name: Melikot
-  type: city
+  type: town
   col: 45
   row: 18
 
 - name: Hyfalls
-  type: city
+  type: town
   col: 40
   row: 20
 
 - name: Golden Light
-  type: city
+  type: town
   col: 48
   row: 33
 
@@ -196,20 +201,20 @@
 - name: Devil's Fingers
   type: region
   col: 13
-  row: 24
+  row: 23
 
 - name: Azurnay
-  type: city
+  type: town
   col: 24
   row: 26
 
 - name: Nororak
-  type: city
+  type: town
   col: 29
   row: 24
 
 - name: Jar Town
-  type: city
+  type: town
   col: 16
   row: 20
 
@@ -219,7 +224,7 @@
   row: 16
 
 - name: Ninbolm
-  type: city
+  type: town
   col: 5
   row: 24
 
@@ -239,16 +244,16 @@
   row: 0
 
 - name: Olgam & Oskill
-  type: city
+  type: town
   col: 9
   row: 24
 
 - name: Hound's Heath
-  type: city
+  type: town
   col: 5
   row: 12
 
 - name: Monatheron
-  type: city
+  type: town
   col: 43
   row: 12

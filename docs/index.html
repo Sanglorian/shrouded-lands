@@ -81,8 +81,25 @@ When you add your own entry it can be additional information about a hex that ha
 
 {% assign region_pages = site.wiki | where_exp: "p", "p.is_redirect != true" | where_exp: "p", "p.categories contains 'Regions'" | sort_natural: "title" %}
 {% for region in region_pages %}
+  {% if region.categories contains 'Sub-Region' %}
+    {% continue %}
+  {% endif %}
   {% assign region_name = region.title | default: region.subtitle %}
-- [{{ region_name }}]({{ region.url | relative_url }})
+  {% assign subregions = region_pages
+    | where_exp: "p", "p.categories contains 'Sub-Region'"
+    | where_exp: "p", "p.categories contains region.title"
+    | sort_natural: "title" %}
+  {% capture subregion_list %}
+    {% if subregions.size > 0 %}
+      (
+      {% for subregion in subregions %}
+        {% assign subregion_name = subregion.title | default: subregion.subtitle %}
+        [{{ subregion_name }}]({{ subregion.url | relative_url }}){% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+      )
+    {% endif %}
+  {% endcapture %}
+- [{{ region_name }}]({{ region.url | relative_url }}) {{ subregion_list | strip }}
 {% endfor %}
 
 ### Cities

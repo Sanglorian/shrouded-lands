@@ -8,16 +8,12 @@ categories:
 - Marche of the Winterjarl
 - Regions
 - Grey Mountains
-- Marche of the Winterjarl
+- Sub-Region
 media: []
 region: The Grey Mountains
 ---
 
-
-
 ![Julius Payer](/media/Julius_Payer_-_Hunting_Bear_on_Franz_Josef_Land.jpg)
-
-**Includes:** [12.01](/wiki/12-01/), [13.00](/wiki/13-00/), [13.01](/wiki/13-01/), [14.00](/wiki/14-00/), [14.01](/wiki/14-01/), [15.01](/wiki/15-01/), [14.02](/wiki/14-02/), [15.00](/wiki/15-00/)
 
 The [nordanbjorn](/wiki/nordanbjorn/) are mighty sapient bears. They are led by the bjornajarl, [Thorek Ironhide](/wiki/thorek-ironhide/). He lives in a cave halfway up a mountain with his sleuth of lesser bears ([14.00](/wiki/14-00/)).
 The nordanbjorn have few material possessions and no knowledge of technology; however, they have a rich oral culture and their epic sagas recount events that may have occurred many centuries ago. One of Thorek Ironhide's subordinates is an old bear-bard named One-Eyed Kevanjr, who is said to be able to recite in their entirety seven sagas of seven days' duration each.
@@ -34,7 +30,7 @@ The [Zoar Rajak](/wiki/zoar-rajak/) ([11.01](/wiki/11-01/)) feel differently. Th
 * The villagers of Ritethal ([18.03](/wiki/18-03/)) are strangely diligent when it comes to paying tribute to the winterjarl, even though they live far from his cave.
 * One-Eyed Kevanjr’s sworn enemy is [Arinlag Fivefish](/wiki/arinlag-fivefish/), who currently lives in exile ([35.04](/wiki/35-04/)) after losing a duel to him over the hand of Thorek’s daughter.
 * The previous jarl of the bears lies frozen not far from here ([14.01](/wiki/14-01/)).
-* The nordanbjorn fued with the owl-riding [strigoi](/wiki/strigoi/).
+* The nordanbjorn feud with the owl-riding [strigoi](/wiki/strigoi/).
 
 ## Hooks
 * Who else lives within the marche?

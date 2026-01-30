@@ -8,7 +8,8 @@ categories:
   - "Bodies of water"
   - "Regions"
   - "Bitter Coast"
-  - "Category:The Ocean of Bitter Regrets"
+  - "The Ocean of Bitter Regrets"
+  - "Sub-Region"
 media: []
 ---
 With [00.06](/wiki/00-06/) begins the Ocean of Bitter Regrets, which stretches far away to the west. All sailors know that it is foolish to drink [sea water](/wiki/salt/). This is nowhere the case as much as with the Ocean of Bitter Regrets, for even a small sip of the water immediately brings to mind one's most bitter memories. Strong warriors have been known to collapse in tears after drinking from the ocean, an effect that persists even in the evaporated residue of the ocean (i.e. sea salt).

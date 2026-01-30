@@ -162,6 +162,15 @@ def build_world_map_html(hex_dir: Path, labels_path: Path) -> str:
         border-radius: 999px;
         padding: 2px 8px;
         letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }}
+      .world-map__label--town {{
+        background: rgba(10, 12, 18, 0.45);
+        border: 1px dashed rgba(255, 255, 255, 0.3);
+        border-radius: 999px;
+        padding: 2px 8px;
+        font-size: 0.65rem;
+        letter-spacing: 0.03em;
         text-transform: none;
       }}
     </style>
