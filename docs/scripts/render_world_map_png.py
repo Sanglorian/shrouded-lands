@@ -114,7 +114,7 @@ def build_world_map_html(hex_dir: Path, labels_path: Path) -> str:
     <style>
       body {{
         margin: 0;
-        background: #0b0b0b;
+        background: #ffffff;
         font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       }}
       .world-map {{
