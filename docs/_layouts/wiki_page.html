@@ -60,7 +60,16 @@ layout: default
 
 {% assign base_href = 'href="' | append: site.baseurl | append: '/' %}
 {% assign base_src = 'src="' | append: site.baseurl | append: '/' %}
-{% assign rewritten_content = content | replace: 'href="/', base_href | replace: 'src="/', base_src %}
+{% assign placeholder_href = 'href="__BASEURL__/' %}
+{% assign placeholder_src = 'src="__BASEURL__/' %}
+{% assign rewritten_content = content
+  | replace: base_href, placeholder_href
+  | replace: base_src, placeholder_src
+  | replace: 'href="/', base_href
+  | replace: 'src="/', base_src
+  | replace: placeholder_href, base_href
+  | replace: placeholder_src, base_src %}
+
 
 <article class="wiki-content">
   {{ rewritten_content }}

@@ -5,6 +5,10 @@
   margin: 0 0 1rem 1rem;
 }
 
+.summary {
+  font-style: italic;
+}
+
 .hexmap {
   /* Same core geometry */
   --hex-r: 15px;
