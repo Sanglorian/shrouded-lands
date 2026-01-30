@@ -109,7 +109,7 @@
   row: 9
 
 - name: Witchwater
-  type: region
+  type: road-river
   col: 29
   row: 7
 
@@ -164,7 +164,7 @@
   row: 13
 
 - name: Sladder (Othonoi)
-  type: region
+  type: town
   col: 44
   row: 17
 

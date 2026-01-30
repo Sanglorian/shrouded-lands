@@ -3,8 +3,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]  # docs/
 WIKI_DIR = ROOT / "_wiki"
 
-def encode_parens(url: str) -> str:
-    return url.replace("(", "%28").replace(")", "%29")
+def strip_parens(url: str) -> str:
+    return (
+        url.replace("%28", "")
+        .replace("%29", "")
+        .replace("(", "")
+        .replace(")", "")
+    )
 
 
 def replace_markdown_links(text: str) -> str:
@@ -44,7 +49,7 @@ def replace_markdown_links(text: str) -> str:
             i += 1
 
         url = text[url_start:i]
-        result.append(encode_parens(url))
+        result.append(strip_parens(url))
 
         if i < length and text[i] == ")":
             result.append(")")

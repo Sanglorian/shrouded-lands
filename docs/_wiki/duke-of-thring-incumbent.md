@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Duke of Thring (incumbent)"
+title: "Duke of Thring - incumbent"
 pageid: 3187
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Duke_of_Thring_(incumbent)"

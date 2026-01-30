@@ -22,7 +22,7 @@ The bjornajarl does not spend much time in his cave, for he is usually roaming [
 
 The [Zoar Rajak](/wiki/zoar-rajak/) ([11.01](/wiki/11-01/)) feel differently. They believe that Ironhide is responsible for the blight upon their oak trees, that he is dabbling with foul sorceries from an accursed cave high up on his mountain. Meticulous explorers will discover that there is indeed a cave from which eerie lights issue on cloudy nights ([15.00](/wiki/15-00/)); but this cave is higher than the one where the nordanbjorn traditionally dwell. Thorek Ironhide scoffs at the [goblins](/wiki/goblins/)' accusations and denies even the existence of the upper cave.
 
-![AN Komarov](/media/MSU_V2P1a_-_Ursus_arctos_arctos_painting_%281%29.png)
+![AN Komarov](/media/MSU_V2P1a_-_Ursus_arctos_arctos_painting_1.png)
 
 ## Connections
 * The small village that was founded by the troll Prophet of Grahakzahak ([15.01](/wiki/15-01/)) is part of the marche of the bjornajarl as are the [Skullcrusher orcs](/wiki/skullcrusher-orcs/) ([13.01](/wiki/13-01/)) who are more peaceful than their name suggests.

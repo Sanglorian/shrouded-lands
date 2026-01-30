@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Waterworks (Shuttered)"
+title: "Waterworks - Shuttered"
 pageid: 3075
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Waterworks_(Shuttered)"

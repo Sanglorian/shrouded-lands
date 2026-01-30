@@ -17,7 +17,7 @@ media: []
 **Mounts:** At Castle Tarengael the mounts are enormous bad-tempered boars. They are faithful to strong owners, but may unexpectedly devour a rider who does not take them in hand. Recently [The Foolish Sages](/wiki/the-foolish-sages/) ([20.18](/wiki/20-18/)) attempted an experiment to transmute the Duke's cattle into 'cowhorses', promising a new age of easy riding. The results were less than satisfactory.
 
 ### Residents
-* [Duke of Thring](/wiki/duke-of-thring-%28incumbent%29/)
+* [Duke of Thring](/wiki/duke-of-thring-incumbent/)
 * [Princess Elandra](/wiki/princess-elandra/), his daughter: the Duke’s daughter once wept jewels but now she weeps no more.
 * The [Jester Prince](/wiki/jester-prince/), the Duke's fool and heir of the High Kings of Gore
 * The [Chain Gang](/wiki/chain-gang-thring/)

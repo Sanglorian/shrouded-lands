@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Alms (Temple Indivisible)"
+title: "Alms - Temple Indivisible"
 pageid: 4164
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alms_(Temple_Indivisible)"

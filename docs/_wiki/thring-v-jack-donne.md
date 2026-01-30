@@ -16,7 +16,7 @@ This case making its way through [Shuttered](/wiki/city-of-shuttered-windows/)�
 
 Shuttered, as the only seat of a god in the Shrouded Lands, claims universal jurisdiction, an assertion not supported by its neighbours.
 
-‘Duke’ [Grant Birl](/wiki/grant-birl/), one of the last surviving of [that Witch Clan](/wiki/birls/), was apparently once secretly married to the [Duke](/wiki/duke-of-thring-%28incumbent%29/)’s wife. Since the husbands of heiresses rule, this would make him the rightful Duke of Thring.
+‘Duke’ [Grant Birl](/wiki/grant-birl/), one of the last surviving of [that Witch Clan](/wiki/birls/), was apparently once secretly married to the [Duke](/wiki/duke-of-thring-incumbent/)’s wife. Since the husbands of heiresses rule, this would make him the rightful Duke of Thring.
 
 But it is not with the Duke that Birl has quarrel - in fact, he is broadly supportive of the man that he affectionately calls ‘The Usurper’. It is the Collector that Grant Birl despises. According to Birl, the Collector stole most of his vast collection of [Tarrasque](/wiki/tarrasque/) skulls from collections around Thring, ‘unlawfully, unreasonably and without due cause frustrating, harming and causing additional material expense in the search for, hunting of and apprehension and/or slaying of the Questing Beast, a.k.a. The Tarrasque, worshipped in some parts as “Grahakzahak” (hereafter, the “Beast”, c.f. Appendix III sub. sec. A1 through B5, “Description and material analysis of the Beast”)’.
 

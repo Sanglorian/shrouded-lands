@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "City walls (Shuttered)"
+title: "City walls - Shuttered"
 pageid: 3025
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/City_walls_(Shuttered)"

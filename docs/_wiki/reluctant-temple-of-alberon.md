@@ -10,7 +10,7 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-> See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-%28disambiguation%29/)
+> See also [Temple of Alberon - Disambiguation](/wiki/temple-of-alberon-disambiguation/)
 
 According to the Reluctant Temple of Alberon, the [Time of Schisms](/wiki/time-of-schisms/) broke out because a quiet rural preacher revealled to the high priests of [Alberon](/wiki/alberon/) that the God of [Shuttered](/wiki/city-of-shuttered-windows/) is a slave to that city.
 

@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 
-* The [windows of Shuttered](/wiki/windows-%28shuttered%29/) once looked out onto many planes, but now only one last window remains open
+* The [windows of Shuttered](/wiki/windows-shuttered/) once looked out onto many planes, but now only one last window remains open
 * [Ethereal Realm](/wiki/ethereal-realm/)
 * [Holy Mountain](/wiki/holy-mountain/)
 * [No-place](/wiki/no-place/), which is no place at all

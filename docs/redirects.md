@@ -103,7 +103,7 @@ This list groups redirect pages into two buckets:
 | Drogo the Baldfaced | Drogo |
 | Drow’s Tears | Drow's Tears |
 | Duke Deloc | Duke Theloc |
-| Duke of Thring | Duke of Thring (incumbent) |
+| Duke of Thring | Duke of Thring - Incumbent |
 | Dukes of Thring | Ducal family of Thring |
 | Dwarf fortresses | Fastnesses |
 | Efreets | Efreet |

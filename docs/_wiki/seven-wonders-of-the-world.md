@@ -18,7 +18,7 @@ Published in the [Shuttered City](/wiki/city-of-shuttered-windows/) under the pa
 His list is:
 1. The [White Road](/wiki/white-road/), and the great bindings of spirits that it represents.
 2. [The Giant and the Gnome](/wiki/the-giant-and-the-gnome/). The draft list gave the Great Temple of Alberon instead, but rumour has it that Taran was offered free drinks till his dying day if he changed the entry.
-3. The [Waterworks of Shuttered](/wiki/waterworks-%28shuttered%29/), which drowned the City's enemies.
+3. The [Waterworks of Shuttered](/wiki/waterworks-shuttered/), which drowned the City's enemies.
 4. The gates of [Hoth Achaar](/wiki/26-01/), whcih shift as the fortress' population does.
 5. The stump of [Ninbolm](/wiki/05-24/).
 6. [Melnir's Mount](/wiki/51-12/).

@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Horse market (Tarengael)"
+title: "Horse market - Tarengael"
 pageid: 4090
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Horse_market_(Tarengael)"

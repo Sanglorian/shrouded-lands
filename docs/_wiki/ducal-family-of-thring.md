@@ -15,7 +15,7 @@ media: []
 * [Broderick](/wiki/broderick/), son of Duke Ulthar
 * [Duke Theloc](/wiki/duke-theloc/) or Deloc, the fourth Duke
 * [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), the fifth Duke
-* [Duke of Thring (incumbent)](/wiki/duke-of-thring-%28incumbent%29/)
+* [Duke of Thring - Incumbent](/wiki/duke-of-thring-incumbent/)
 * [Princess Elandra](/wiki/princess-elandra/), daughter of the incumbent Duke of Thring and heir to the throne
 
 

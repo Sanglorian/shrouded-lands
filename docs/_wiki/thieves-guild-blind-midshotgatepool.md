@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: Thieves guild (Blind Midshotgatepool)
+title: Thieves guild - Blind Midshotgatepool
 pageid: 2849
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Thieves_guild_(Blind_Midshotgatepool)

@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Chain Gang (Azurnay)"
+title: "Chain Gang - Azurnay"
 pageid: 3403
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chain_Gang_(Azurnay)"

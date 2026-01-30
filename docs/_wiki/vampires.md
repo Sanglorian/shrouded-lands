@@ -22,7 +22,7 @@ A vampire hangs in [Jahur](/wiki/jahur/), the subject of a failed execution.
 ## Vampires
 * [Helged Bolger](/wiki/helged-bolger/), a halfling head and trailing viscera.
 * [Chyndonax](/wiki/chyndonax/) is hiding out in Hurlstone Hill ([08.12](/wiki/08-12/))
-* [Vampire cattle](/wiki/vampire-cattle/) can be found in the abandoned [embassy of Naros](/wiki/embassies-%28shuttered%29/) in the [Shuttered City](/wiki/city-of-shuttered-windows/)
+* [Vampire cattle](/wiki/vampire-cattle/) can be found in the abandoned [embassy of Naros](/wiki/embassies-shuttered/) in the [Shuttered City](/wiki/city-of-shuttered-windows/)
 
 ## Features
 * [Dryads](/wiki/dryads/) killed by vampires become [corpse trees](/wiki/corpse-trees/) (a grove of them exists in [11.11](/wiki/11-11/))

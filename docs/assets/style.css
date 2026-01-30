@@ -120,6 +120,8 @@
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.95);
+  paint-order: stroke fill;
   text-shadow:
     0 2px 4px rgba(0, 0, 0, 0.9),
     0 0 12px rgba(0, 0, 0, 0.85);
@@ -129,6 +131,8 @@
   font-size: 0.75rem;
   font-weight: 500;
   text-transform: none;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.95);
+  paint-order: stroke fill;
 }
 
 .world-map__label--city {
@@ -220,6 +224,8 @@
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.95);
+  paint-order: stroke fill;
   text-shadow:
     0 2px 4px rgba(0, 0, 0, 0.9),
     0 0 12px rgba(0, 0, 0, 0.85);
@@ -229,6 +235,8 @@
   font-size: 0.75rem;
   font-weight: 500;
   text-transform: none;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.95);
+  paint-order: stroke fill;
 }
 
 .region-map__label--city {

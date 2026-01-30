@@ -14,7 +14,7 @@ media: []
 ---
 ![](/media/Shutt-old.jpg)Connects to: [22.00](/wiki/22-00/).
 
-Oh, there’s more than Shuttered in [Shuttered](/wiki/city-of-shuttered-windows/), I’ll tell you that much for free. It’s monstrous and insatiable, creeping year after year across the countryside. Already towns and villages have been engulfed, crowded first by shantytowns and then townhouses, churches and acropoli. But according to the locals, one part of the city was here before the [first window ever opened](/wiki/windows-%28shuttered%29/).
+Oh, there’s more than Shuttered in [Shuttered](/wiki/city-of-shuttered-windows/), I’ll tell you that much for free. It’s monstrous and insatiable, creeping year after year across the countryside. Already towns and villages have been engulfed, crowded first by shantytowns and then townhouses, churches and acropoli. But according to the locals, one part of the city was here before the [first window ever opened](/wiki/windows-shuttered/).
 
 Nothing remains of this ur-city on the surface. But occasionally, if a family decides to expand their wine cellar or a man needs a shallow grave, they will break through to the original city.
 

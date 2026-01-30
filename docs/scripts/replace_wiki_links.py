@@ -144,7 +144,7 @@ def make_link_replacer(alias_map, title_to_slug, current_file):
             )
             slug = slugify_title(canonical_base)
 
-        safe_slug = slug.replace("(", "%28").replace(")", "%29")
+        safe_slug = slug.replace("(", "").replace(")", "")
         url = f"/wiki/{safe_slug}/"
         return f"[{text}]({url})"
 

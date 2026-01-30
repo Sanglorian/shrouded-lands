@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Alvise Ettienne (uncle)"
+title: "Alvise Ettienne - uncle"
 pageid: 3191
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alvise_Ettienne_(uncle)"
@@ -10,6 +10,6 @@ categories:
   - "City of Shuttered Windows"
 media: []
 ---
-The original of the [Ettiennes](/wiki/ettiennes/). Not to be confused with his [nephew of the same name](/wiki/alvise-ettienne-%28nephew%29/).
+The original of the [Ettiennes](/wiki/ettiennes/). Not to be confused with his [nephew of the same name](/wiki/alvise-ettienne-nephew/).
 
 

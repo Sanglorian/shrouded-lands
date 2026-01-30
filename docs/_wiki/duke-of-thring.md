@@ -7,6 +7,6 @@ original_url: https://shrouded-lands.fandom.com/wiki/Duke_of_Thring
 categories: []
 media: []
 is_redirect: true
-redirect_to: Duke of Thring (incumbent)
+redirect_to: Duke of Thring - Incumbent
 ---
-# REDIRECT[Duke of Thring (incumbent)](/wiki/duke-of-thring-%28incumbent%29/)
+# REDIRECT[Duke of Thring - Incumbent](/wiki/duke-of-thring-incumbent/)

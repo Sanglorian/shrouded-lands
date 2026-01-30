@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Factions (elves)"
+title: "Factions - elves"
 pageid: 3453
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Factions_(elves)"

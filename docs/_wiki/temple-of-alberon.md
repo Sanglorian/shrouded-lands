@@ -12,13 +12,13 @@ categories:
   - "Undercity"
 media: []
 ---
-> See also [Temple of Alberon (disambiguation)](/wiki/temple-of-alberon-%28disambiguation%29/)
+> See also [Temple of Alberon - Disambiguation](/wiki/temple-of-alberon-disambiguation/)
 
 ![](/media/Shutt-temp.png)At the end of the [Time of Schisms](/wiki/time-of-schisms/) ([25.15](/wiki/25-15/)) when the [Brothers of the Spear](/wiki/temple-invisible/) made their bargain and joined the powers that be as the [Temple Invisible](/wiki/temple-invisible/), nine Brothers refused to compromise and defied their [Hierophant](/wiki/hierophants/). They were among the most deadly of assassins who had learned how not to be seen. The Hierophant smiled at them and explained to them mildly that not being seen was valuable and that they would learn its value but that there were limits that applied to such things, as they would do well to learn.
 
 And as those words were spoken, the limbs of the nine Brothers grew long and thin and their faces twisted into hideous shapes and a powerful stench rose up from their skin. Forevermore the Brothers would have to hide their hideous faces but would never be able to pass unnoticed again.
 
-In shame and anger the nine Brothers descended deep below the city and remain their still. They call themselves the Temple of Alberon (and confusing its name with the established Temple Indivisible which worships Alberon has gotten more than one foreigner consigned to the [Waterworks](/wiki/waterworks-%28shuttered%29/)) but have few converts as any who join them share their curse. Although their smell always warns their victims, more than one man has died retching while being stabbed by a Brother who he never saw.
+In shame and anger the nine Brothers descended deep below the city and remain their still. They call themselves the Temple of Alberon (and confusing its name with the established Temple Indivisible which worships Alberon has gotten more than one foreigner consigned to the [Waterworks](/wiki/waterworks-shuttered/)) but have few converts as any who join them share their curse. Although their smell always warns their victims, more than one man has died retching while being stabbed by a Brother who he never saw.
 
 The troglodyte Brothers of the Temple of Alberon believe that [Alberon](/wiki/alberon/) has abandoned his City (what else could explain the present condition of his one faithful Temple?) and that desperate means are required to return his attention to Shuttered. In order to do this, they seek to commit the greatest imaginable sacrilege against their own god, seeing it as the only means of focusing is divine and glorious gaze on the corrupt condition of his City.
 ### Connection:

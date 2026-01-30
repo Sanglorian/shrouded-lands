@@ -27,7 +27,7 @@ def safe_slug(title: str) -> str:
     # Spaces to dashes
     slug = slug.replace(" ", "-")
     # Replace characters that are awkward in filenames/URLs
-    bad = ['/', '\\', ':', '*', '?', '"', '<', '>', '|', '#', '%', '&', '{', '}', '+', '!', '@', '^']
+    bad = ['/', '\\', ':', '*', '?', '"', '<', '>', '|', '#', '%', '&', '{', '}', '+', '!', '@', '^', '(', ')']
     for ch in bad:
         slug = slug.replace(ch, "-")
     # Collapse double dashes

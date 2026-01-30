@@ -23,7 +23,7 @@ Not all of these creatures have been definitively listed as undead. Some, like t
 * [Cauldronborn](/wiki/cauldronborn/)
 * [Sack children](/wiki/sack-children/)
 * A spirit has possessed the body of a necromancer preserved in alcohol in [15.11](/wiki/15-11/)
-* Prisoners working on the [Waterworks (Shuttered)](/wiki/waterworks-%28shuttered%29/) who die before they have served out their sentence are reanimated as [skeletons](/wiki/skeletons/)
+* Prisoners working on the [Waterworks (Shuttered)](/wiki/waterworks-shuttered/) who die before they have served out their sentence are reanimated as [skeletons](/wiki/skeletons/)
 * [Flesh golems](/wiki/flesh-golems/) are created by the [Necromantic Office](/wiki/necromantic-office/)
 * [Skeleton-melanges](/wiki/skeleton-melanges/) or skeleton-bundles are created with the use of [corpse-slather](/wiki/corpse-slather/)
 * [Hive zombies](/wiki/hive-zombies/) in [13.09](/wiki/13-09/) have their insides replaced with honey

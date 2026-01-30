@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Canals (Bergolast)"
+title: "Canals - Bergolast"
 pageid: 4107
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Canals_(Bergolast)"

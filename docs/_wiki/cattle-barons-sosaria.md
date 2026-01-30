@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Cattle barons (Sosaria)"
+title: "Cattle barons - Sosaria"
 pageid: 3013
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle_barons_(Sosaria)"

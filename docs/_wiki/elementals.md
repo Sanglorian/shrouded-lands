@@ -10,7 +10,7 @@ categories:
 media: []
 ---
 ## Connections
-* Elves specialise in elemental summoning, and the art is more closely guarded than it was when water-spirits were summoned to power the [Waterworks](/wiki/waterworks-%28shuttered%29/)
+* Elves specialise in elemental summoning, and the art is more closely guarded than it was when water-spirits were summoned to power the [Waterworks](/wiki/waterworks-shuttered/)
   * The tempest of Idjit Tower owes allegiance to the [Queen Sinister](/wiki/queen-sinister/).
   *The elves summoned a horde of elementals to dismantle the walls of the Citadel of the Verlimes ([18.07](/wiki/18-07/)). A few still guard the ruins and ensure that no one rebuilds.
 * At least one elemental, the being of rime and hoarfrost ([39.30](/wiki/39-30/)), is male.

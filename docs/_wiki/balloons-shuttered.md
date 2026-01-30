@@ -1,6 +1,6 @@
 ---
 layout: wiki_page
-title: "Balloons (Shuttered)"
+title: "Balloons - Shuttered"
 pageid: 3320
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Balloons_(Shuttered)"
