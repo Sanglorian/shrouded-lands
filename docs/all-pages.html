@@ -11,12 +11,17 @@ media: []
   {%- assign wiki_pages = site.wiki | where_exp: "p", "p.is_redirect != true" -%}
   {%- assign pages = wiki_pages | sort_natural: "title" -%}
   {%- for p in pages -%}
-    {%- assign subtitle = p.subtitle | default: "" -%}
-    {%- assign summary = p.summary | default: "" -%}
+    {%- assign subtitle = p.subtitle | default: "" | strip -%}
+    {%- assign summary = p.summary | default: "" | strip -%}
     {%- assign alias = p.alias | default: "" -%}
     {%- assign search_text = p.title | append: " " | append: subtitle | append: " " | append: summary | append: " " | append: alias | strip | downcase -%}
     <li data-search="{{ search_text }}">
-      [ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      {%- if subtitle != "" -%} - {{ subtitle }}{%- endif -%}
+      {%- if summary != "" -%} - {{ summary }}{%- endif -%}
+      {%- if p.categories and p.categories.size > 0 -%}
+        - Categories: {{ p.categories | join: ", " }}
+      {%- endif -%}
     </li>
   {%- endfor -%}
 </ul>
