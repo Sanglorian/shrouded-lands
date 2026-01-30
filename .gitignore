@@ -1,5 +1,10 @@
-docs/_site/
 _site/
+docs/_site/
+
 .jekyll-cache/
 .sass-cache/
+.bundle/
 vendor/
+
+.DS_Store
+Thumbs.db

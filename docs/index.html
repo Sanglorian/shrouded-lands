@@ -89,7 +89,14 @@ When you add your own entry it can be additional information about a hex that ha
 {%- for city in city_pages -%}
   {%- assign city_name = city.subtitle | default: city.alias | default: city.title -%}
   {%- assign region_name = city.region | default: "" -%}
-  {%- assign region_match = region_pages | where_exp: "r", "r.title | downcase == region_name | downcase" | first -%}
+  {%- assign region_name_downcase = region_name | downcase -%}
+  {%- assign region_match = nil -%}
+  {%- for region in region_pages -%}
+    {%- if region.title and region.title | downcase == region_name_downcase -%}
+      {%- assign region_match = region -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
   {%- capture region_suffix -%}
     {%- if region_name != "" -%}
       {%- if region_match -%}
