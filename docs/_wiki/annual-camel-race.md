@@ -33,8 +33,8 @@ The [Ibraheen](/wiki/ibraheen/) sponsor the race. Rather than a noble family, or
 * What are the other three most populous cities of the Shrouded Lands?
 * Is Samwiss Ghanjees of human stock?
 * Was it just a coincidence that a month after an assassination attempt on the viceroy, he is due to announce a race?
-* So there's newspapers in Jahur? What sort of broadsheets and tabloids do they have? *Does that use old [Zhuriman](/wiki/zhuriman/) technology, or is it a recent innovation?
-
+* So there's newspapers in Jahur? What sort of broadsheets and tabloids do they have? 
+ * Does that use old [Zhuriman](/wiki/zhuriman/) technology, or is it a recent innovation?
 
 
 

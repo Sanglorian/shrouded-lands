@@ -47,9 +47,8 @@ The epic poem is a retelling of the founding of [Blind Midshotgatepool](/wiki/bl
 ### Hooks:
 * Is there some connection between the meter of the script of the Song of Ban and Ulena and the songs of the leviathans ([00.06.01](/wiki/00-06/))? What else could explain its apparent ability to bridge the gap between this world and the land of dreams?
 * Who is Lucin exactly?
-* Did the strange events of the casting of the Song of Ban and Ulena have* any permanent effects?
+* Did the strange events of the casting of the Song of Ban and Ulena have any permanent effects?
 * Who was (is?) the Green Witch?
-
 
 
 

@@ -19,7 +19,7 @@ The traveled swiftly to Castle Tarengael *([16.16](/wiki/16-16/))* and cut down 
 * *The Sepulchre of the Sword *'is the fruit of her labours; it also contains the animated sword Caledbrand.
 
 #### Connections:
-* In the dwarven monastery *([03.04](/wiki/03-04/))'' there are also orange gems related to fire. Is there a connection?
+* In the dwarven monastery ([03.04](/wiki/03-04/)) there are also orange gems related to fire. Is there a connection?
 * The paladin Sir Waine wielded Caledbrand for a day.
 * There is a grove of sequoias presumably named after Broderick ([02.07](/wiki/02-07/))
 
@@ -28,4 +28,3 @@ The traveled swiftly to Castle Tarengael *([16.16](/wiki/16-16/))* and cut down 
 * What magical properties does the sword have?
 * Did the dragon that Broderick killed have any young?
 * What did Broderick hear that men are not meant to?
-

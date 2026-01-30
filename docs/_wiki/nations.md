@@ -10,7 +10,7 @@ media: []
 ---
 ## Index
 ### Other nations
-* ![](/media/Nations.png)Possibly among the Twelve Nations*
+* ![](/media/Nations.png)Possibly among the Twelve Nations
 
 * [Adherion](/wiki/adherion/)
 * Zamorqy
@@ -34,4 +34,3 @@ media: []
 * Hyadovere (colony)
 * Bergolast (city)
 * Othonoi (island civilisation)
-

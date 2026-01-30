@@ -16,7 +16,7 @@ categories:
   - "Vampires"
 media: []
 ---
-* Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]
+*Inspired by:* [http://hackslashmaster.blogspot.com.au/2013/11/on-ecology-of-troll.html On the Ecology of the Troll]
 
 ## The Unifying Theory of Blood
 [Professor Westwright](/wiki/professor-westwright/) is surprisingly young - perhaps 17 or 18 years old - and his appointment to the [Universities Two and One](/wiki/universities-two-and-one/) in [Jahur](/wiki/jahur/) is controversial. Some say it is a deliberate snub to the [Sanguine Lords](/wiki/lords-sanguine/); others that his findings are genuinely original and startling.
@@ -31,7 +31,6 @@ Westwright assumes that there exist people or animals infected by elemental eart
 * Two universities? Does this have anything to do with [Iano](/wiki/iano/), the two-faced god?
 * Where’s Westwright from? The name doesn’t sound Jahuri.
 * Does Westwright consider the Sanguine Lords to be vampires? Surely they go about in the sun!
-
 
 
 

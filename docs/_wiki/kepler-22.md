@@ -90,7 +90,7 @@ The pilot of this ship is an AI driven mad by damage to her circuitry. She is th
 * How do glass cliffs form?
 
 ## Flit Mating Storm
-* This builds on the hook 'What are flits and bumbles?'.*
+* This builds on the hook 'What are flits and bumbles?'.
 
 Flits are hand-sized, bronze-coloured insects that gather in large swarms to mate. Each flit male releases brightly coloured, pollen-like sperm. The females present spongy patches on their backs - unfertilised eggs that gather and admix the sperm of multiple males for each egg.
 
@@ -103,9 +103,8 @@ Unfertilised flit eggs are a luxury along the Shallow Sea.
 * What is the Shallow Sea? What there eats flit eggs?
 
 ## The Shore of the Shallow Sea
-* This builds on the hook 'What is the Shallow Sea?'.*
+* This builds on the hook 'What is the Shallow Sea?'.
 
 Most of this vast ocean is a metre deep, or even shallower. Hundreds of luminous jellyfish swim in the currents. If observed from above, the schools of jellyfish seem to spell out words in an alien language.
 
 The enormous grey trees by the shore drop seedpods twice the size of a man. If these fall on the giant clams along the beach they crack open and could be used as coracles.
-

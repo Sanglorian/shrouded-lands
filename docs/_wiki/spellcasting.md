@@ -129,7 +129,7 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * Many former necromancers of the Office return as ghosts. 
 
 ### Necromancy
-* Other than immortality*
+* Other than immortality
 * Necromancer of the Office keep the White Road quiet, ensure that the dead do not walk without permission, animate the corpses of prisoners and stitch together flesh golems.
 * Ranmore has a platoon of skeletons and hopes to raise the White Road.
 * Victims of black magic can be brought back from the dead as sack children, in a ritual which is not inherently evil.
@@ -177,8 +177,7 @@ Ritual currencies might warrant a closer look. Lady Lativa Delasar carries a che
 * An alliance of wizards and priests performed a ritual to reawake the Janissaries.
 * Some say the sorcerers of Bergolast placed fingers of stone in the Sea of Typhoons to mark the city’s maritime borders.
 * Shnutu knows the languages of every flying thing, and the many winds.
-* Other possible categories: elementals or elementalism; binding (elementals and fiends); enchantment (of magic items or of people); language (High Tongue, Shnutu’s languages, sphere of annihilation)*
-
+* Other possible categories: elementals or elementalism; binding (elementals and fiends); enchantment (of magic items or of people); language (High Tongue, Shnutu’s languages, sphere of annihilation)
 
 
 
