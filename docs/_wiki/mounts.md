@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Mounts"
 categories:
   - "Animals"
   - "Knights"
-  - "Mounts"
   - "Duchy of Thring"
 media: []
 ---

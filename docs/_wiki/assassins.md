@@ -5,7 +5,6 @@ pageid: 4069
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Assassins"
 categories:
-  - "Assassins"
   - "Professions"
 media: []
 ---

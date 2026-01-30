@@ -12,12 +12,14 @@ from emoji_to_path import char_to_svg_path  # NEW: convert emoji glyphs to SVG p
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "_wiki"
 OUT_DIR = ROOT / "assets" / "hexes"
+OUT_DIR_WHITE = ROOT / "assets" / "hex-white"
 TERRAIN_CSV = ROOT / "terrain.csv"
 POI_CSV = ROOT / "poi.csv"
 LINEWORK_YAML = ROOT / "_data" / "hex-lines.yml"
 HEX_TERRAIN_YAML = ROOT / "_data" / "hex-terrain.yml"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+OUT_DIR_WHITE.mkdir(parents=True, exist_ok=True)
 
 # Fonts for glyph-as-path rendering (Noto / OpenMoji)
 FONTS_DIR = ROOT / "fonts"
@@ -533,6 +535,8 @@ def make_svg(
     symbol_font: Optional[str] = None,
     symbol_two_font: Optional[str] = None,
     poi_font: Optional[str] = None,
+    show_border: bool = True,
+    show_label: bool = True,
 ) -> str:
     # code like "10.09"
     x_str, y_str = code.split(".")
@@ -673,14 +677,17 @@ def make_svg(
             f'fill="none" stroke-linecap="round" stroke-linejoin="round"/>'
         )
 
-    label_y = height - 6.0
-    label_markup = render_segment_text(code, cx, label_y, 8.5, "#222222")
+    label_markup = ""
+    if show_label:
+        label_y = height - 6.0
+        label_markup = render_segment_text(code, cx, label_y, 8.5, "#222222")
     fill_opacity_attr = f' fill-opacity="{fill_opacity:.2f}"' if fill_opacity is not None else ""
+    stroke_attr = f' stroke="{stroke}" stroke-width="2"' if show_border else ""
     return f"""<svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="{width:.2f}" height="{height:.2f}" viewBox="0 0 {width:.2f} {height:.2f}">
   {link_open}
-    <polygon points="{points}" fill="{fill_color}"{fill_opacity_attr} stroke="{stroke}" stroke-width="2"/>
+    <polygon points="{points}" fill="{fill_color}"{fill_opacity_attr}{stroke_attr}/>
     {symbol_markup}
     {linework_markup}
     {poi_markup}
@@ -761,6 +768,25 @@ def main():
             )
             fname = f"hex-{x:02d}-{y:02d}.svg"
             (OUT_DIR / fname).write_text(svg, encoding="utf-8")
+            svg_white = make_svg(
+                code,
+                has_page,
+                fill_color,
+                fill_opacity,
+                symbol,
+                symbol_color,
+                symbol_two,
+                symbol_opacity,
+                poi_symbol,
+                poi_color,
+                linework,
+                symbol_font=symbol_font,
+                symbol_two_font=symbol_two_font,
+                poi_font=poi_font,
+                show_border=False,
+                show_label=False,
+            )
+            (OUT_DIR_WHITE / fname).write_text(svg_white, encoding="utf-8")
 
 
 if __name__ == "__main__":

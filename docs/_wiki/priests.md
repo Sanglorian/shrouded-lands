@@ -5,7 +5,6 @@ pageid: 3548
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Priests"
 categories:
-  - "Priests"
   - "Professions"
   - "Religious groups"
 media: []

@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Octoids"
 categories:
   - "Creatures"
   - "Jahur"
-  - "Octoids"
   - "Peoples"
 media: []
 ---

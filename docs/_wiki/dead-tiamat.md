@@ -5,7 +5,6 @@ pageid: 2452
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Tiamat"
 categories:
-  - "Dead Tiamat"
   - "Deities"
 summary: "Dragon-goddess slain by Alberon who still has a small cult and is the mother and sister of Chimalia."
 media: []

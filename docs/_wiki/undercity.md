@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Undercity"
 categories:
   - "City of Shuttered Windows"
-  - "Undercity"
 media: []
 ---
 > Castle Ravenscraig ([03.19](/wiki/03-19/)) is also described as having an undercity.

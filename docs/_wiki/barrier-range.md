@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Barrier_Range"
 categories:
   - "Regions"
-  - "Barrier Range"
 media: []
 summary: "Mountains between Thring and the Shuttered City. They are inhabited by Witch Clans - inbred tribesmen with the hereditary power to cast one particular spell at-will."
 ---

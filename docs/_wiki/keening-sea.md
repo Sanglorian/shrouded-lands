@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Keening_Sea"
 categories:
   - "Bodies of water"
   - "Regions"
-  - "Keening Sea"
 media: []
 summary: "Eastern freshwater sea with ships from Shuttered and Blind Midshotgatepool."
 ---

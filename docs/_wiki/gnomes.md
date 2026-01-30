@@ -5,7 +5,6 @@ pageid: 2461
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Gnomes"
 categories:
-  - "Gnomes"
   - "Peoples"
 summary: "Gnomes sometimes live inside the walls of giants' castles."
 media: []

@@ -5,7 +5,6 @@ pageid: 2566
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bolgers"
 categories:
-  - "Bolgers"
   - "Characters"
   - "Families"
   - "Halflings"

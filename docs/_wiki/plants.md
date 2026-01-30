@@ -4,8 +4,7 @@ title: "Plants"
 pageid: 2423
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Plants"
-categories:
-  - "Plants"
+categories: []
 media: []
 ---
 >

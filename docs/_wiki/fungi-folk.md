@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Fungi_folk"
 categories:
   - "Creatures"
-  - "Fungi folk"
   - "Plants"
   - "Duchy of Thring"
 media: []

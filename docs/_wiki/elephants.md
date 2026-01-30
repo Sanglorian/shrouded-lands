@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Elephants"
 categories:
   - "Animals"
   - "Creatures"
-  - "Elephants"
 media: []
 ---
 * [Hoarlephants](/wiki/hoarlephants/)![](/media/Afrikanischer_Elefant-painting.jpg)![](/media/Antoine-Louis_Barye_-_Elephants_in_Water_-_Walters_37819.jpg)

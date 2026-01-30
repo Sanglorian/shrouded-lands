@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Fey"
 categories:
   - "Creatures"
   - "Elves"
-  - "Fey"
   - "Planes"
 media: []
 ---

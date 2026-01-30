@@ -8,7 +8,6 @@ categories:
   - "Animals"
   - "Cats"
   - "Creatures"
-  - "Lions"
   - "King in Splendor"
 media: []
 ---

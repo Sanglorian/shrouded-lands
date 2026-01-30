@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spells"
 categories:
   - "Magic"
-  - "Spells"
 media: []
 ---
 > See also [Spellcasting](/wiki/spellcasting/)

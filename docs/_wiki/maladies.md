@@ -4,8 +4,7 @@ title: "Maladies"
 pageid: 4229
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Maladies"
-categories:
-  - "Maladies"
+categories: []
 media: []
 ---
 This page groups entries related to Maladies.

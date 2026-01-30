@@ -5,7 +5,6 @@ pageid: 4078
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alchemists"
 categories:
-  - "Alchemists"
   - "Jahur"
   - "Magic"
   - "Professions"

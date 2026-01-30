@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Duchy_of_Thring"
 categories:
   - "Nations"
   - "Regions"
-  - "Duchy of Thring"
 media: []
 summary: "Large Arthurian nation with knights, counts and castles. Most of the population worships the Green Lady. This land is known for its bizarre laws."
 ---

@@ -4,8 +4,7 @@ title: "Nations"
 pageid: 2416
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Nations"
-categories:
-  - "Nations"
+categories: []
 media: []
 ---
 ## Index

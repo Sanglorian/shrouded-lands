@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bitter_Coast"
 categories:
   - "Regions"
-  - "Bitter Coast"
 media: []
 summary: "Coast of the western sea frequented by pirates and Pirate Kings - storm giants who ride in flying cloud castles."
 ---

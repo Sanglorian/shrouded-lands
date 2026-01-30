@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Snakes"
 categories:
   - "Animals"
   - "Creatures"
-  - "Snakes"
 media: []
 ---
 ![Dodd, Mead and Company](/media/NIEdot364.jpg)

@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hobgoblins"
 categories:
   - "Goblins"
-  - "Hobgoblins"
   - "Peoples"
   - "Freeholds"
 media: []

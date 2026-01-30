@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Scarecrows"
 categories:
   - "Organisations"
   - "Professions"
-  - "Scarecrows"
 media: []
 ---
 ![An aging Scarecrow.](/media/JohnRNeill7.png)

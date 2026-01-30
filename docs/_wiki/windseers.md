@@ -9,7 +9,6 @@ categories:
   - "Necromancers"
   - "Professions"
   - "Winds"
-  - "Windseers"
 media: []
 ---
 The **windseers** listen to the winds of [Winds](/wiki/winds/) and glean wisdom from them. The winds are produced by the moans and yells of the dead who make up the [White Road](/wiki/white-road/). The famed windseers recognise the winds for what they are. Ideally, the experience of listening to the reverberating voices of the dead does not drive them completely insane.

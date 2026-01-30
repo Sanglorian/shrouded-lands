@@ -5,7 +5,6 @@ pageid: 2427
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dwarves"
 categories:
-  - "Dwarves"
   - "Peoples"
 media: []
 ---

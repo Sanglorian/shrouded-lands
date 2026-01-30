@@ -5,7 +5,6 @@ pageid: 2451
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Alberon"
 categories:
-  - "Alberon"
   - "Deities"
 summary: "God of the City of Shuttered Windows who spurned She Who Waits and the Green Lady, slew Tiamat, and is worshipped by the Temple Indivisible and the Temple Invisible."
 media: []

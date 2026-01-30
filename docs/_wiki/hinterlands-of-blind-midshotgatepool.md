@@ -6,11 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Hinterlands_of_Blind_Midshotgatepool"
 categories:
   - "Blind Midshotgatepool"
-  - "Hinterlands of Blind Midshotgatepool"
   - "Regions"
 media: []
 ---
-
 Connects to: [20.10](/wiki/20-10/) and [23.16](/wiki/23-16/).
 
 The hinterlands of Blind Midshotgatepool are few and cramped, lying as they do between the mountains, the sea and the desert.

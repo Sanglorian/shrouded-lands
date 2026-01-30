@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Whales"
 categories:
   - "Animals"
   - "Ocean of Bitter Regrets"
-  - "Whales"
 media: []
 ---
 > **Leviathans** redirects here. For the leviathans of the earth, see [46.09](/wiki/46-09/).

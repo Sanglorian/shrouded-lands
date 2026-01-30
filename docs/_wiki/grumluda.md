@@ -5,7 +5,6 @@ pageid: 3516
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Grumluda"
 categories:
-  - "Grumluda"
   - "Nations"
   - "Orcs"
   - "Twelve Nations"

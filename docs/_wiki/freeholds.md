@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Freeholds"
 categories:
   - "Regions"
-  - "Freeholds"
 media: []
 summary: "A lawless region dotted with independent keeps and towns. Something of a Wild West vibe can be found here."
 ---

@@ -5,7 +5,6 @@ pageid: 2563
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Halflings"
 categories:
-  - "Halflings"
   - "Peoples"
 media: []
 ---

@@ -5,7 +5,6 @@ pageid: 2736
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Imperium_Undying"
 categories:
-  - "Imperium Undying"
   - "Nations"
 media: []
 ---

@@ -9,7 +9,6 @@ categories:
   - "Jahur"
   - "Professions"
   - "Lands of the Night Cattle"
-  - "Thieves"
 media: []
 ---
 > [Pirates](/wiki/thieves/) redirects here. For the cloud and storm giants, see [Pirate Kings](/wiki/pirate-kings/).

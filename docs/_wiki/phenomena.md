@@ -4,8 +4,7 @@ title: "Phenomena"
 pageid: 2426
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Phenomena"
-categories:
-  - "Phenomena"
+categories: []
 media: []
 ---
 ## Astronomy

@@ -4,8 +4,7 @@ title: "Worms"
 pageid: 4280
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Worms"
-categories:
-  - "Worms"
+categories: []
 media: []
 ---
 This page groups entries related to Worms.

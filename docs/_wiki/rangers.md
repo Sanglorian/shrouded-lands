@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Rangers"
 categories:
   - "Blind Midshotgatepool"
   - "Professions"
-  - "Rangers"
   - "Winds"
 media: []
 ---

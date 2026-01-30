@@ -4,8 +4,7 @@ title: "Frogs"
 pageid: 4209
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Frogs"
-categories:
-  - "Frogs"
+categories: []
 media: []
 ---
 This page groups entries related to Frogs.

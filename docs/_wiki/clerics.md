@@ -4,8 +4,7 @@ title: "Clerics"
 pageid: 4190
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Clerics"
-categories:
-  - "Clerics"
+categories: []
 media: []
 ---
 This page groups entries related to Clerics.

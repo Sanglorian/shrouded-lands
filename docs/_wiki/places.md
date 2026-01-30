@@ -4,8 +4,7 @@ title: "Places"
 pageid: 4243
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Places"
-categories:
-  - "Places"
+categories: []
 media: []
 ---
 This page groups entries related to Places.

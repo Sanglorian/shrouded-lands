@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Janissaries"
 categories:
   - "Jahur"
-  - "Janissaries"
   - "Peoples"
 media: []
 ---

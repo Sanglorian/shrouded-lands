@@ -5,7 +5,6 @@ pageid: 3503
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Aboleth"
 categories:
-  - "Aboleth"
   - "Creatures"
 media: []
 ---

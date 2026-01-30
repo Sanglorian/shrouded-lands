@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Spies"
 categories:
   - "Professions"
-  - "Spies"
 media: []
 ---
 **Spy** can describe someone who spies upon someone as a one-off, as well as a trained professional.

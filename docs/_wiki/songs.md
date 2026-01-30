@@ -4,8 +4,7 @@ title: "Songs"
 pageid: 4258
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Songs"
-categories:
-  - "Songs"
+categories: []
 media: []
 ---
 This page groups entries related to Songs.

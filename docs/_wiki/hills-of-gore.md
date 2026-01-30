@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Hills_of_Gore"
 categories:
   - "Nations"
   - "Regions"
-  - "Hills of Gore"
 media: []
 summary: "Region ruled by the Lords Sanguine, former butchers who overthrew their kings and were granted strange visions through Tarrasque blood."
 ---

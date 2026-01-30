@@ -97,8 +97,15 @@ layout: default
   </p>
 {% endif %}
 
+{% assign category_title = page.title %}
+{% if page.subtitle %}
+  {% assign subtitle_prefixed = "Category:" | append: page.subtitle %}
+  {% if page.categories contains page.subtitle or page.categories contains subtitle_prefixed %}
+    {% assign category_title = page.subtitle %}
+  {% endif %}
+{% endif %}
 {% include category_list.html
-  category_title=page.title
+  category_title=category_title
   category_alias=page.alias %}
 
 <p style="margin-top:2rem; font-size:0.85rem; color:#777;">

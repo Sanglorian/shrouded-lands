@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Crowfolk"
 categories:
   - "Birds"
   - "Creatures"
-  - "Crowfolk"
   - "Peoples"
 media: []
 ---

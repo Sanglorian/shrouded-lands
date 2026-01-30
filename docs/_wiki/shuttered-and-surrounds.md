@@ -6,11 +6,9 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Shuttered_and_surrounds"
 categories:
   - "Regions"
-  - "Shuttered and Surrounds"
   - "City of Shuttered Windows"
 media: []
 ---
-
 Connects to: [00.09](/wiki/00-09/), [01.03](/wiki/01-03/), [15.00](/wiki/15-00/), [17.07.01](/wiki/17-07/), [19.31](/wiki/19-31/), [24.05](/wiki/24-05/), [26.20](/wiki/26-20/), [26.20.06](/wiki/26-20/), [26.33](/wiki/26-33/), [27.16](/wiki/27-16/), [33.00](/wiki/33-00/), [40.20](/wiki/40-20/), [44.03](/wiki/44-03/), [46.15](/wiki/46-15/), [48.13](/wiki/48-13/). [50.11](/wiki/50-11/) and [51.29](/wiki/51-29/).
 
 The greatest city of the Shrouded Lands is certainly the City of Shuttered Windows. Once, long ago, the windows of the city were flung open and led travellers to a thousand worlds. It has been centuries since they have been shuttered and many still lament the planes of beauty and terror that once lay just beyond the city’s windowsills, but much of the strangeness of those days can still be found in the city’s back alleys or sunk deep into the city’s muck.

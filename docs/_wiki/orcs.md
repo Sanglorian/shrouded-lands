@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Orcs"
 categories:
   - "Half-orcs"
-  - "Orcs"
   - "Peoples"
 summary: "Somewhat civilised yet warlike builders and raiders who dwell mostly in the north."
 media: []

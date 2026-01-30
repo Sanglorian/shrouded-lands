@@ -4,8 +4,7 @@ title: "Jacob Marley"
 pageid: 4223
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Jacob_Marley"
-categories:
-  - "Jacob Marley"
+categories: []
 media: []
 ---
 This page groups entries related to Jacob Marley.

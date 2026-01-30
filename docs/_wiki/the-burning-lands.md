@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Burning_Lands"
 categories:
   - "Regions"
-  - "The Burning Lands"
 media: []
 summary: "Hot deserts, sometimes literally on fire. It is inhabited by dwarves, painted elephants and gnolls."
 ---

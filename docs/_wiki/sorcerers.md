@@ -9,7 +9,6 @@ categories:
   - "Magic"
   - "Priests"
   - "Professions"
-  - "Sorcerers"
   - "Spellcasters"
   - "Tieflings"
 media: []

@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Vampires"
 categories:
   - "Creatures"
   - "Undead"
-  - "Vampires"
 media: []
 ---
 ![](/media/Odilon_Redon_-_The_Monster.jpg)Traces of the vampire hordes that once swept across the Shrouded Lands still remain in the Vampiric Stratum ([02.02](/wiki/02-02/)).

@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Dragons"
 categories:
   - "Creatures"
-  - "Dragons"
 media: []
 ---
 ![Thomas Cooper Gotch](/media/Innocence,_c_1904,_watercolour_by_Thomas_Cooper_Gotch.jpg)[Metallic dragons](/wiki/metallic-dragons/) cannot be found this side of the World's Edge ([[The City Itself#The Cup of the Doge|[29.14](/wiki/29-14/)]])

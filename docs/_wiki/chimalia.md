@@ -5,7 +5,6 @@ pageid: 3004
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Chimalia"
 categories:
-  - "Chimalia"
   - "Chimerics"
   - "Deities"
 summary: "Goddess of chimerical monsters, sister and daughter of Tiamat, whose symbol is a labyrinth."

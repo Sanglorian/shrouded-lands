@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Welt_Road"
 categories:
   - "Buildings"
   - "Roads"
-  - "Welt Road"
 media: []
 summary: "Trade route that passes through a long tunnel under the Kingswood, avoiding the dangerous elves. It connects the Lands of the Night Cattle to the Freeholds."
 ---

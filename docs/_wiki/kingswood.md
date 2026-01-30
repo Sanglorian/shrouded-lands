@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Kingswood"
 categories:
   - "Regions"
-  - "Kingswood"
 media: []
 summary: "A large forest inhabited by mysterious and hostile elves. An elven holt lies at the center. It has a dark fairytale flavor."
 ---

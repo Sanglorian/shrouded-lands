@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Witches"
 categories:
   - "Professions"
   - "Pacharia"
-  - "Witches"
 media: []
 ---
 * Cragsend ([04.06](/wiki/04-06/)) was once ruled by a mage turned Witch Queen.

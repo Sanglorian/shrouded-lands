@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Elves"
 categories:
   - "Creatures"
-  - "Elves"
   - "Peoples"
   - "Kingswood"
 summary: "Pre-Tolkien elves: fey, mysterious, and capricious, rarely leaving the Kingswood and harsh to intruders."

@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Bears"
 categories:
   - "Animals"
-  - "Bears"
   - "Lycanthropes"
   - "Marche of the Winterjarl"
   - "Duchy of Thring"

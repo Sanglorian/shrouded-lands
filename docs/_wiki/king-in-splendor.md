@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/King_in_Splendor"
 categories:
   - "Deities"
-  - "King in Splendor"
 summary: "Dual-identity sun god who rises as the Lion in Splendour and descends at night as the King in Splendor; worshipped by the Lion Priests."
 media: []
 ---

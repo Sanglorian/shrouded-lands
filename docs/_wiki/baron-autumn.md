@@ -5,7 +5,6 @@ pageid: 2449
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Baron_Autumn"
 categories:
-  - "Baron Autumn"
   - "Deities"
 media: []
 ---

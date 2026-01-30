@@ -5,7 +5,6 @@ pageid: 2613
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Centaurs"
 categories:
-  - "Centaurs"
   - "Creatures"
   - "Peoples"
 media: []

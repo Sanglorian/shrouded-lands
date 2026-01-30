@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lost_Colony"
 categories:
   - "Regions"
-  - "Lost Colony"
   - "Sub-Region"
   - "Keening Sea"
 media: []

@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Devil%27s_Fingers"
 categories:
   - "Regions"
-  - "Devil's Fingers"
 media: []
 summary: "Mountains (?) with a ruined city and a tribe of cave-dwelling gnomes, mostly undescribed."
 ---

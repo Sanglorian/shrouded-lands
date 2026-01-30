@@ -7,7 +7,6 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Cattle"
 categories:
   - "Alberon"
   - "Animals"
-  - "Cattle"
   - "Creatures"
   - "Sosaria"
   - "The Burning Lands"

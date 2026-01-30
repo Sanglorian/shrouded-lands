@@ -8,7 +8,6 @@ categories:
   - "Deities"
   - "Green Lady"
   - "Knights"
-  - "Paladins"
   - "Professions"
   - "Duchy of Thring"
 media: []

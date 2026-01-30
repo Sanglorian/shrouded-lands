@@ -5,7 +5,6 @@ pageid: 3563
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Aarakocra"
 categories:
-  - "Aarakocra"
   - "Birds"
   - "Creatures"
   - "Peoples"

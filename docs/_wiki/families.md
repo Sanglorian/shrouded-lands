@@ -4,8 +4,7 @@ title: "Families"
 pageid: 4205
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Families"
-categories:
-  - "Families"
+categories: []
 media: []
 ---
 This page groups entries related to Families.

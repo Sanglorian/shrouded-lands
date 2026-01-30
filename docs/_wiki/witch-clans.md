@@ -8,7 +8,6 @@ categories:
   - "Families"
   - "Peoples"
   - "Barrier Range"
-  - "Witch Clans"
 media: []
 ---
 The **Witchmen** or **Witch Clans**, suspicious of outsiders, tend to marry within their own clan – the Dungers do this most extensively.

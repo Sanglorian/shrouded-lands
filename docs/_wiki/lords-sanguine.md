@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lords_Sanguine"
 categories:
   - "Characters"
-  - "Lords Sanguine"
   - "Hills of Gore"
 media: []
 ---

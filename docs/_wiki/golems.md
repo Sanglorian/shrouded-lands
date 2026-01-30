@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Golems"
 categories:
   - "Creatures"
-  - "Golems"
 media: []
 ---
 * [Wax golems](/wiki/wax-golems/) take a number of forms, with different powers.

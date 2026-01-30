@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Longspears"
 categories:
   - "Families"
-  - "Longspears"
 media: []
 ---
 * [Hardrald Longspear](/wiki/hardrald-longspear/), after whose longspear the family takes its surname

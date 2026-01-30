@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/She_Who_Waits"
 categories:
   - "Deities"
-  - "She Who Waits"
 summary: "A nameless chthonic goddess spurned by Alberon who may be sinking the Shuttered City and tries nightly to trap the sun god; worshipped by the Whispering Sisterhood."
 media: []
 ---

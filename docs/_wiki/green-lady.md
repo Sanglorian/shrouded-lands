@@ -8,7 +8,6 @@ categories:
   - "Alacoda"
   - "Deities"
   - "Elves"
-  - "Green Lady"
   - "Duchy of Thring"
 media: []
 ---

@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Lands_of_the_Night_Cattle"
 categories:
   - "Regions"
-  - "Lands of the Night Cattle"
 media: []
 summary: "The Night Men and their cattle only come out at night. Their albino cattle are used in rituals by most religions in the Shrouded Lands."
 ---

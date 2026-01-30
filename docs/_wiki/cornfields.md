@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cornfields"
 categories:
   - "Regions"
-  - "Cornfields"
 media: []
 summary: "Fields inhabited by tooth-stealing corn farmers, mostly undescribed."
 ---

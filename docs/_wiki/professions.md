@@ -4,8 +4,7 @@ title: "Professions"
 pageid: 2425
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Professions"
-categories:
-  - "Professions"
+categories: []
 media: []
 ---
 * [Astrologers](/wiki/astrologers/)

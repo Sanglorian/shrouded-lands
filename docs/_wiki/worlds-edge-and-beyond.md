@@ -6,7 +6,6 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/World%27s_Edge_and_Beyond"
 categories:
   - "Regions"
-  - "World's Edge and Beyond"
 media: []
 summary: "Vast cliffs sinking down to an uninhabited (?) tropical basin. Many strange monsters live here."
 ---

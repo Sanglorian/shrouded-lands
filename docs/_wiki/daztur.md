@@ -4,8 +4,7 @@ title: "Daztur"
 pageid: 4195
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Daztur"
-categories:
-  - "Daztur"
+categories: []
 media: []
 ---
 This page groups entries related to Daztur.

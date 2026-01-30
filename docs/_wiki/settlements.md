@@ -4,8 +4,7 @@ title: "Settlements"
 pageid: 4253
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Settlements"
-categories:
-  - "Settlements"
+categories: []
 media: []
 ---
 This page groups entries related to Settlements.

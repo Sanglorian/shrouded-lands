@@ -8,7 +8,6 @@ categories:
   - "Beetlefolk"
   - "Creatures"
   - "Delasars"
-  - "Homunculi"
   - "Humans"
   - "Insects"
   - "Westmarches"

@@ -5,7 +5,6 @@ pageid: 2661
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Druids"
 categories:
-  - "Druids"
   - "Magic"
   - "Priests"
   - "Professions"
