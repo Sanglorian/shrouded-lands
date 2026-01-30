@@ -5,9 +5,8 @@ pageid: 2140
 namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Silverhall
 categories:
-- Hex
 - Lands of the Night Cattle
-- Lands of the Night Cattle
+- Buildings
 media: []
 region: the Lands of the Night Cattle.
 ---

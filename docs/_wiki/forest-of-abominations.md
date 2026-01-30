@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Forest_of_Abominations"
 categories:
   - "Regions"
-  - "The Forest of Abominations"
+  - "Forest of Abominations"
   - "Singing Wastes"
 media: []
 ---

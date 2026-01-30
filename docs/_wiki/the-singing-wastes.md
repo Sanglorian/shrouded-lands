@@ -6,5 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/The_Singing_Wastes
 categories: []
 media: []
+is_redirect: true
+redirect_to: Singing Wastes
 ---
-See [Singing Wastes](/wiki/singing-wastes/).
+# REDIRECT [Singing Wastes](/wiki/singing-wastes/)
