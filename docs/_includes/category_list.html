@@ -31,8 +31,11 @@
       {% unless p.is_redirect %}
         <li>
           <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% if p.subtitle %}
+            <div class="category-subtitle"><strong>{{ p.subtitle }}</strong></div>
+          {% endif %}
           {% if p.summary %}
-            <div class="category-summary">{{ p.summary }}</div>
+            <div class="category-summary summary">{{ p.summary }}</div>
           {% endif %}
         </li>
       {% endunless %}

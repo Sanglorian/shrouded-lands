@@ -6,6 +6,14 @@ layout: default
   {{ page.title | replace_first: "Category:", "" | strip }}
 </h1>
 
+{% if page.subtitle %}
+  <p><strong>{{ page.subtitle }}</strong></p>
+{% endif %}
+
+{% if page.summary %}
+  <p class="summary">{{ page.summary }}</p>
+{% endif %}
+
 {% if content %}
   <div class="category-intro">
     {{ content }}
