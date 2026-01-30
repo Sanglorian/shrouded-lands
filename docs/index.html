@@ -11,9 +11,9 @@ media: []
 
 {% capture index_markdown %}
 ## Welcome to the The Shrouded Lands Wiki (mirror) 
-This website is dedicated to the Shrouded Lands D&D hexcrawl setting, developed in the 2010s. Please feel free to add to the setting by writing up additional hexes or by providing additional detail about existing ones.
+This website is dedicated to the Shrouded Lands D&D hexcrawl setting, developed in the 2010s. Please feel free to add to the setting by writing up additional hexes or by providing additional detail about existing ones. ![The Crystal Ball, John William Waterhouse](/media/Shroud1.png)
 
-![The Crystal Ball, John William Waterhouse](/media/Shroud1.png)
+[View the full world map]({{ '/world-map/' | relative_url }}). 
 
 <section class="wiki-search" aria-labelledby="wiki-search-heading">
   <h2 id="wiki-search-heading">Search</h2>
@@ -25,7 +25,21 @@ This website is dedicated to the Shrouded Lands D&D hexcrawl setting, developed 
     placeholder="Search wiki pages"
     autocomplete="off"
   />
+  <ul id="wiki-page-list" hidden>
+    {%- assign wiki_pages = site.wiki | where_exp: "p", "p.is_redirect != true" -%}
+    {%- assign pages = wiki_pages | sort_natural: "title" -%}
+    {%- for p in pages -%}
+      {%- assign subtitle = p.subtitle | default: "" -%}
+      {%- assign summary = p.summary | default: "" -%}
+      {%- assign alias = p.alias | default: "" -%}
+      {%- assign search_text = p.title | append: " " | append: subtitle | append: " " | append: summary | append: " " | append: alias | strip | downcase -%}
+      <li data-search="{{ search_text }}" hidden>
+        [ns {{ p.namespace }}] <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
 </section>
+
 
 ## Tour of the Shrouded Lands
 You’ve heard of the incredible firebirds, but this is the first one you’ve ever seen. It shimmers like the hearth in your home, like the hair of a beautiful woman, like the sun itself, and the sky and the water and the distant mountains seem to brighten in its presence.
@@ -38,15 +52,9 @@ Let me be your guide to the Shrouded Lands. We shall start at the Pool of the Fi
 
 The Welt Road surfaces at the Lands of the Night Cattle, where they graze their cattle under the moon so as to keep their hides pure white and untouched by sun. The Welt Road continues north to Titan’s Skull, the great fastness of the dwarves. If we continue our passage east, we pass through the Withered Moors and come to the World’s Edge: a great cliff which stretches north and south for many miles above the jungles that lie far below.
 
-We return now to the Lands of the Night Cattle and take the Welt Road back, this time heading south along the White Road to the City of Shuttered Windows. Its walls stand tall and unmoving, but the city itself is sinking into the ground. The Shuttered City is on the shore of the Keening Sea, and as we head south-east we come to the gnoll-ridden Burning Lands. Of these lands we will say little, except that beyond them still are the Twelve Nations, or what remains of them. 
+We return now to the Lands of the Night Cattle and take the Welt Road back, this time heading south along the White Road to the City of Shuttered Windows. Its walls stand tall and unmoving, but the city itself is sinking into the ground. The Shuttered City is on the shore of the Keening Sea, and as we head south-east we come to the gnoll-ridden Burning Lands. Of these lands we will say little, except that beyond them still are the Twelve Nations, or what remains of them. ![](/media/The_Shrouded_Lands_Regions.png)
 
-![](/media/The_Shrouded_Lands_Regions.png)
-
-These are the great sites of the Shrouded Lands – unless you have others that you wish to tell me of?
-
-![](/media/Shroud2.png)
-
-[View the full world map]({{ '/world-map/' | relative_url }}).
+These are the great sights of the Shrouded Lands – unless you have others that you wish to tell me of? ![](/media/Shroud2.png)
 
 ## Contributing to the Shrouded Lands
 
@@ -134,8 +142,10 @@ When you add your own entry it can be additional information about a hex that ha
     const items = Array.from(list.querySelectorAll('li[data-search]'));
     const filterList = () => {
       const query = input.value.trim().toLowerCase();
+      const hasQuery = query.length > 0;
+      list.hidden = !hasQuery;
       items.forEach((item) => {
-        const matches = item.dataset.search.includes(query);
+        const matches = hasQuery && item.dataset.search.includes(query);
         item.hidden = !matches;
       });
     };
