@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Umberstone"
 categories:
   - "Materials"
-  - "The Moon"
+  - "The moon"
 media: []
 ---
 ![](/media/Placeholder) 

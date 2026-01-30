@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Somnakami"
 categories:
   - "Peoples"
   - "Somnakami"
-  - "The Moon"
+  - "The moon"
 media: []
 ---
 **Inspiration: **The soratami, *Magic: the Gathering*![https://commons.wikimedia.org/wiki/File:Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_Hiroshige.jpg](/media/Untitled,_Two_Rabbits,_Pampas_Grass,_and_Full_Moon_Hiroshige.jpg)

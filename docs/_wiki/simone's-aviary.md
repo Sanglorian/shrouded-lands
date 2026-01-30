@@ -8,7 +8,7 @@ categories:
   - "Buildings"
   - "Customs"
   - "Barrier Range"
-  - "The Moon"
+  - "The moon"
   - "City of Shuttered Windows"
 media: []
 ---

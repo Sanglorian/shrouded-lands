@@ -7,7 +7,7 @@ original_url: https://shrouded-lands.fandom.com/wiki/Moon_nuts
 categories:
 - Plants
 - The Burning Lands
-- The Moon
+- The moon
 media: []
 is_redirect: true
 redirect_to: '50.02'
