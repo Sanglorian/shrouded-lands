@@ -37,13 +37,12 @@ media: []
 * A gnoll bard composed a Lowing saga about the Cavern out of Time ([39.31](/wiki/39-31/))
 
 * Any decent Thringish bard can sing at least a dozen laments over knights [doomed to wander with lions](/wiki/brothers-of-the-lion/).
-* [http://shrouded-lands.wikia.com/wiki/Elves Elven music] can twist a man's wits and the vile giggles of [http://shrouded-lands.wikia.com/wiki/Gnolls gnollish bards] can break even an archmage's concentration, but [dwarf drummers](/wiki/dwarves/) make music that sinks deeper than either.
+* [Elven music](/wiki/elves/) can twist a man's wits and the vile giggles of [gnollish bards](/wiki/gnolls/) can break even an archmage's concentration, but [dwarf drummers](/wiki/dwarves/) make music that sinks deeper than either.
 
-The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [http://shrouded-lands.wikia.com/wiki/Green_Lady Green Lady]’s shawl from the [http://shrouded-lands.wikia.com/wiki/Steeple_of_Alberon?action=edit&redlink=1 Steeple of Alberon] itself ([http://shrouded-lands.wikia.com/wiki/[29.14](/wiki/29-14/) [29.14](/wiki/29-14/)].14).
+The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [Green Lady](/wiki/green-lady/)’s shawl from the [Steeple of Alberon](/wiki/steeple-of-alberon/) itself ([29.14](/wiki/29-14/).14).
 
 ## Works
 * [Song of Dust and Flame](/wiki/song-of-dust-and-flame/)
 
 * [The Song of Ban and Ulena](/wiki/song-of-ban-and-ulena/)
-
 

@@ -38,7 +38,7 @@ The Witch Clans live mostly in [The Barrier Range](/wiki/barrier-range/), but th
 * The Faustys and the Wrannows have a connection to other dimensions. Do the witch clans have a connection to the planes?
 
 ### Random Witch Clan Table
-The *colour ward *spell was inspired by [http://dndwithpornstars.blogspot.com.au/ D&D with Pornstars]
+The *colour ward *spell was inspired by [D&D with Pornstars](http://dndwithpornstars.blogspot.com.au/)
 
 To create a new witch clan, roll once on each of these tables.
 ### Quirk (1d12)
@@ -109,6 +109,5 @@ To create a new witch clan, roll once on each of these tables.
 18. The Whumpids
 19. The Charnies
 20. The Dadiwhirls
-
 
 

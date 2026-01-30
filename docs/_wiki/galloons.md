@@ -11,12 +11,11 @@ categories:
   - "Planes"
 media: []
 ---
-**Inspired by: **[http://monstermanualsewnfrompants.blogspot.com.au/2012/05/arborea-wow.html Galloons]
+**Inspired by: **[Galloons](http://monstermanualsewnfrompants.blogspot.com.au/2012/05/arborea-wow.html)
 
 Galloons once came to the Shrouded Lands from the [Forests of Fancy](/wiki/forests-of-fancy/) through the [windows of Shuttered](/wiki/windows-shuttered/). 
 
 A scion of the [Faustys](/wiki/faustys/) has a bounding great rabbit-eared and poodle-tailed Galloon.
-
 
 
 
