@@ -6,7 +6,9 @@ Usage:
     --output /path/to/world-map.png
 
 The script also writes a full-size map alongside the requested output with a
-"-full" suffix (for example, world-map-full.png).
+"-full" suffix (for example, world-map-full.png). In addition, it renders
+small/full maps using the hex-white tiles with a "-white" suffix (for example,
+world-map-white.png and world-map-white-full.png).
 
 Requirements:
   - Playwright for Python: pip install playwright
@@ -245,14 +247,18 @@ def main() -> int:
 
     repo_root = Path(__file__).resolve().parents[2]
     hex_dir = repo_root / "docs" / "assets" / "hexes"
+    hex_white_dir = repo_root / "docs" / "assets" / "hex-white"
     labels_path = repo_root / "docs" / "_data" / "world-map-labels.yml"
 
     if not hex_dir.exists():
         raise FileNotFoundError(f"Hex assets not found: {hex_dir}")
+    if not hex_white_dir.exists():
+        raise FileNotFoundError(f"Hex assets not found: {hex_white_dir}")
     if not labels_path.exists():
         raise FileNotFoundError(f"Labels file not found: {labels_path}")
 
     html = build_world_map_html(hex_dir, labels_path)
+    white_html = build_world_map_html(hex_white_dir, labels_path)
     width = HEX_WIDTH + HEX_X_STEP * (COLS - 1)
     height = HEX_HEIGHT + HEX_Y_STEP * (ROWS - 1) + HEX_Y_OFFSET
     viewport_width = math.ceil(width)
@@ -263,6 +269,12 @@ def main() -> int:
 
     full_size_path = output_path.with_name(
         f"{output_path.stem}-full{output_path.suffix}"
+    )
+    white_output_path = output_path.with_name(
+        f"{output_path.stem}-white{output_path.suffix}"
+    )
+    white_full_size_path = output_path.with_name(
+        f"{output_path.stem}-white-full{output_path.suffix}"
     )
 
     render_map(
@@ -281,9 +293,27 @@ def main() -> int:
         args.timeout_ms,
         1.0,
     )
+    render_map(
+        white_html,
+        white_output_path,
+        viewport_width,
+        viewport_height,
+        args.timeout_ms,
+        args.scale,
+    )
+    render_map(
+        white_html,
+        white_full_size_path,
+        viewport_width,
+        viewport_height,
+        args.timeout_ms,
+        1.0,
+    )
 
     print(f"Saved map to {output_path}")
     print(f"Saved full-size map to {full_size_path}")
+    print(f"Saved white map to {white_output_path}")
+    print(f"Saved white full-size map to {white_full_size_path}")
     return 0
 
 
