@@ -13,6 +13,7 @@
   {%- assign max_col = nil -%}
   {%- assign min_row = nil -%}
   {%- assign max_row = nil -%}
+  {%- assign region_hex_codes = "" -%}
 
   {%- for hex in region_hexes -%}
     {%- unless hex.region == region_name or hex.categories contains region_name -%}
@@ -33,6 +34,16 @@
     {%- if max_row == nil or row > max_row -%}
       {%- assign max_row = row -%}
     {%- endif -%}
+    {%- assign col_code = col -%}
+    {%- if col < 10 -%}
+      {%- assign col_code = "0" | append: col -%}
+    {%- endif -%}
+    {%- assign row_code = row -%}
+    {%- if row < 10 -%}
+      {%- assign row_code = "0" | append: row -%}
+    {%- endif -%}
+    {%- capture hex_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
+    {%- assign region_hex_codes = region_hex_codes | append: "," | append: hex_code | append: "," -%}
   {%- endfor -%}
 
   {%- assign col_count = max_col | minus: min_col | plus: 1 -%}
@@ -81,6 +92,33 @@
           {%- endif -%}
         {%- endfor -%}
       {%- endfor -%}
+      <div class="region-map__labels">
+        {%- assign labels = site.data.world-map-labels -%}
+        {%- for label in labels -%}
+          {%- assign col_code = label.col -%}
+          {%- if label.col < 10 -%}
+            {%- assign col_code = "0" | append: label.col -%}
+          {%- endif -%}
+          {%- assign row_code = label.row -%}
+          {%- if label.row < 10 -%}
+            {%- assign row_code = "0" | append: label.row -%}
+          {%- endif -%}
+          {%- capture label_code -%}{{ col_code }}-{{ row_code }}{%- endcapture -%}
+          {%- unless region_hex_codes contains label_code -%}
+            {%- continue -%}
+          {%- endunless -%}
+          {%- assign col_mod = label.col | modulo: 2 -%}
+          {%- assign left = label.col | minus: min_col | times: 22.5 | plus: 15 -%}
+          {%- assign top = label.row | minus: min_row | times: 26 | plus: 13 -%}
+          {%- if col_mod == 1 -%}
+            {%- assign top = top | plus: 13 -%}
+          {%- endif -%}
+          <div class="region-map__label region-map__label--{{ label.type }}"
+               style="left: {{ left }}px; top: {{ top }}px;">
+            {{ label.name }}
+          </div>
+        {%- endfor -%}
+      </div>
     </div>
   </div>
 {%- endif -%}
