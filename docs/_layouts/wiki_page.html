@@ -58,8 +58,12 @@ layout: default
   <p>Redirecting to <a href="{{ redirect_url }}">{{ page.redirect_to }}</a>...</p>
 {% endif %}
 
+{% assign base_href = 'href="' | append: site.baseurl | append: '/' %}
+{% assign base_src = 'src="' | append: site.baseurl | append: '/' %}
+{% assign rewritten_content = content | replace: 'href="/', base_href | replace: 'src="/', base_src %}
+
 <article class="wiki-content">
-  {{ content }}
+  {{ rewritten_content }}
 </article>
 
 {% if page.categories contains "Regions" %}

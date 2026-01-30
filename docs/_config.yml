@@ -1,6 +1,6 @@
 title: "Shrouded Lands Wiki Mirror"
 markdown: kramdown
-baseurl: ""
+baseurl: "/shrouded-lands"
 url: ""
 
 collections:
