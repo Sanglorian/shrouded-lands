@@ -5,7 +5,7 @@ pageid: 3127
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Rustlers_Guild"
 categories:
-  - "Organisationss"
+  - "Organisations"
   - "Lands of the Night Cattle"
 media: []
 ---

@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/The_Hoard"
 categories:
   - "Dwarves"
-  - "Organisationss"
+  - "Organisations"
 media: []
 ---
 The Hoard is the great dwarven bank, based in [Titan's Skull](/wiki/titans-skull/) but operating across the Shrouded Lands, including in the [Shuttered City](/wiki/city-of-shuttered-windows/).

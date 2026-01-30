@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dreamsong"
 categories:
   - "Planes"
   - "Bitter Coast"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
 media: []
 ---
 ## The Dreamsong

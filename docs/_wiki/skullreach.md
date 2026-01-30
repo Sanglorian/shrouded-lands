@@ -8,7 +8,7 @@ categories:
   - "Dead Tiamat"
   - "Pirate Kings"
   - "Bitter Coast"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
 media: []
 ---
 ![Gustave Doré](/media/Der_Alte_Matrose_b_38.jpg)Connects to: [03.04](/wiki/03-04/) and the City of Shuttered Windows.

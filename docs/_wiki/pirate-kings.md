@@ -9,7 +9,7 @@ categories:
   - "Peoples"
   - "Pirate Kings"
   - "Bitter Coast"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
 media: []
 ---
 ![http://www.gutenberg.org/files/37995/37995-h/37995-h.htm](/media/I0081.jpg)On the shores of the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) are five staggeringly tall mountain peaks, perpetually shrouded by a thick red mist ([00.02](/wiki/00-02/). Each mountain is the domain of a different cloud giant clan - collectively known in human lands as the Pirate Kings.

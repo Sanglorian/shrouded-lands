@@ -8,7 +8,7 @@ categories:
   - "Creatures"
   - "Bitter Coast"
   - "Keening Sea"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
   - "The Singing Wastes"
 media: []
 ---

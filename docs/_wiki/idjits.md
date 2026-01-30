@@ -8,7 +8,7 @@ categories:
   - "Alchemists"
   - "Elementalists"
   - "Magic"
-  - "Organisationss"
+  - "Organisations"
   - "The Singing Wastes"
 media: []
 ---

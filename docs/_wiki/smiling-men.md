@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Smiling_Men"
 categories:
   - "Assassins"
   - "Doppelgangers"
-  - "Organisationss"
+  - "Organisations"
   - "City of Shuttered Windows"
 media: []
 ---

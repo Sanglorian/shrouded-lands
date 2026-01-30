@@ -9,7 +9,7 @@ categories:
   - "Giants"
   - "Lycanthropes"
   - "Bitter Coast"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
 media: []
 ---
 One of the many dangers of the [Ocean of Bitter Regrets](/wiki/ocean-of-bitter-regrets/) is the great [wereshark](/wiki/lycanthropes/) that swims in it, attacking all shipping that it comes across. In days past one of the greatest of the [Pirate Kings](/wiki/pirate-kings/) ([00.02](/wiki/00-02/)) was a storm giant whose pride was only exceeded by his greed. He raided far and wide, adorning his cloud palace with treasure from a dozen nations. On one of his raids he managed to capture a queen of fairy and demanded, as the price of her release, that she grant him a boon. He asked that he be given the strength to smash any ship, even those that sail from the [moon](/wiki/the-moon/) and that he become king of all the ocean.

@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Snickersnees"
 categories:
   - "Knights"
   - "Lords Sanguine"
-  - "Organisationss"
+  - "Organisations"
   - "Professions"
   - "Hills of Gore"
 media: []

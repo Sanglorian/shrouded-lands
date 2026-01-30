@@ -8,7 +8,7 @@ categories:
   - "Blind Midshotgatepool"
   - "Brigands"
   - "Maladies"
-  - "Organisationss"
+  - "Organisations"
 media: []
 ---
 Death's Lovelies camp around an ancient stone cairn ([27.23](/wiki/27-23/)), though the site is often uninhabited.

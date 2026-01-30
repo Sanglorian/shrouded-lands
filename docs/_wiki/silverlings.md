@@ -6,7 +6,7 @@ namespace: 0
 original_url: https://shrouded-lands.fandom.com/wiki/Silverlings
 categories:
 - Jahur
-- Organisationss
+- Organisations
 - Wizards
 media: []
 region: Jahur

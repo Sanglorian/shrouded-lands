@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Whales"
 categories:
   - "Animals"
-  - "Category:The Ocean of Bitter Regrets"
+  - "Ocean of Bitter Regrets"
   - "Whales"
 media: []
 ---

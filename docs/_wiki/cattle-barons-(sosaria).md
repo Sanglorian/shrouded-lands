@@ -5,7 +5,7 @@ pageid: 3013
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Cattle_barons_(Sosaria)"
 categories:
-  - "Organisationss"
+  - "Organisations"
   - "Professions"
   - "Sosaria"
 media: []

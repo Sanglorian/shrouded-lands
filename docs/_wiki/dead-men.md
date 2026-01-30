@@ -7,7 +7,7 @@ original_url: "https://shrouded-lands.fandom.com/wiki/Dead_Men"
 categories:
   - "Alberon"
   - "Maladies"
-  - "Organisationss"
+  - "Organisations"
   - "City of Shuttered Windows"
 media: []
 ---

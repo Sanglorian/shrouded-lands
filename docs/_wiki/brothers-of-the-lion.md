@@ -5,7 +5,7 @@ pageid: 2529
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Brothers_of_the_Lion"
 categories:
-  - "Organisationss"
+  - "Organisations"
   - "Duchy of Thring"
 media: []
 ---

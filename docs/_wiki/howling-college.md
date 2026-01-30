@@ -8,7 +8,7 @@ categories:
   - "Bards"
   - "City of Smoke"
   - "Gnolls"
-  - "Organisationss"
+  - "Organisations"
   - "The Burning Lands"
 media: []
 ---

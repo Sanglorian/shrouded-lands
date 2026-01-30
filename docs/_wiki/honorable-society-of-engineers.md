@@ -5,7 +5,7 @@ pageid: 3167
 namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Honorable_Society_of_Engineers"
 categories:
-  - "Organisationss"
+  - "Organisations"
   - "City of Shuttered Windows"
   - "Undercity"
 media: []

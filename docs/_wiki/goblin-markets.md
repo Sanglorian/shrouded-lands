@@ -6,7 +6,7 @@ namespace: 0
 original_url: "https://shrouded-lands.fandom.com/wiki/Goblin_Markets"
 categories:
   - "Goblins"
-  - "Organisationss"
+  - "Organisations"
   - "Warlocks"
 media: []
 ---
