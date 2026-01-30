@@ -6,6 +6,6 @@
     
     <path d="M 15.0 52.0 L 0.0 26.0" stroke="#99CCFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M 0.0 26.0 L 15.0 0.0" stroke="#99CCFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M 15.0 0.0 L 45.0 0.0" stroke="#99CCFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     
-    <text x="30.00" y="45.96" text-anchor="middle" dominant-baseline="alphabetic" font-size="8.50" font-family=""Aptos", "Segoe UI", system-ui, sans-serif" fill="#222222">49.16</text>
+    <text x="30.00" y="45.96" text-anchor="middle" dominant-baseline="alphabetic" font-size="8.50" font-family="Aptos, 'Segoe UI', system-ui, sans-serif" fill="#222222">49.16</text>
   
 </svg>

@@ -181,7 +181,7 @@ def normalize_symbol(symbol: str) -> str:
 
 
 def render_segment_text(text: str, center_x: float, baseline_y: float, size: float, color: str) -> str:
-    font_family = '"Aptos", "Segoe UI", system-ui, sans-serif'
+    font_family = "Aptos, 'Segoe UI', system-ui, sans-serif"
     return (
         f'<text x="{center_x:.2f}" y="{baseline_y:.2f}" text-anchor="middle" '
         f'dominant-baseline="alphabetic" font-size="{size:.2f}" '
