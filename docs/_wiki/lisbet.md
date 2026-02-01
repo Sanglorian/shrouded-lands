@@ -43,7 +43,7 @@ As the fair youth finishes the song of Lisbet's Lament he takes a bow and doffs 
 
 And the wind that blows through the branches of the trees that now claim the village seems to cry out the tune of Lisbet's Lament.
 ### Connections:
-* At the Sundial Inn, [Elfard Gollen](/wiki/elfard-gollen/) tells a quite different tale about Lisbet ([25.04](/wiki/25-04/)).
+* At the Sundial Inn, [Elfard Gollen](/wiki/elfard-gollens/) tells a quite different tale about Lisbet ([25.04](/wiki/25-04/)).
 * The elf is the [hollow-hearted elf](/wiki/hollow-hearted-elf/) ([31.07](/wiki/31-07/))
 
 ### Hooks:

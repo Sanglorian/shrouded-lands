@@ -13,7 +13,7 @@ The demigod of disease, mutilation and torment. The Azru's gender and even speci
 
 Despite being marked by weeping sores, missing body parts and worse priests of the Azru are welcome nearly everywhere in these lands except in the City itself where jealous priests of Alberon hold sway. These kind souls pray that children might be spared the ravages of illness, perform amputations with a bare minimum of agony, and preach about the imperfection of the body and the true pure love of the Azru. In some cases these priests, who hold that it is blasphemy to cure illness, take an illness or injury of a worthy sufferer onto themselves and bear it with a satisfied smile.
 
-They do, however, sometimes come in conflict with civil authorities for protesting quarantines and the like and one of their more controversial practices is to bless children with the yellow flux while claiming that those who suffer from it are forever after immune to the ravages of the far more dangerous [flux of Jarmond](/wiki/jarmonds-flux/) (see [30.16](/wiki/30-16/) above).
+They do, however, sometimes come in conflict with civil authorities for protesting quarantines and the like and one of their more controversial practices is to bless children with the yellow flux while claiming that those who suffer from it are forever after immune to the ravages of the far more dangerous [flux of Jarmond](/wiki/jarmond's-flux/) (see [30.16](/wiki/30-16/) above).
 ## Connections
 * There is a statue of the Azru ([30.14](/wiki/30-14/))
 

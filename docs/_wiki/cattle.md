@@ -25,7 +25,7 @@ media: []
 
 ## Nature and nurture
 * The meat of the cattle of [Greymere Valley](/wiki/greymere-valley/) is succulent, perhaps because the cattle drink *[cure light wounds](/wiki/cure-light-wounds/)* potion-water.
-* The [night men](/wiki/night-men/) and some [gnoll](/wiki/gnoll/) cattle drovers use salt from the Fallsalt Mines for their cowlicks as it keeps the cows docile.
+* The [night men](/wiki/night-men/) and some [gnoll](/wiki/gnolls/) cattle drovers use salt from the Fallsalt Mines for their cowlicks as it keeps the cows docile.
 
 ## Breeds
 * The [Foolish Sages](/wiki/foolish-sages/) attempted to turn the [Duke of Thring](/wiki/duke-of-thring-incumbent/)'s cattle into "cowhorses".

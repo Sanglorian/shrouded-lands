@@ -15,7 +15,7 @@ Ghouls gather in great packs in the [Singing Wastes](/wiki/singing-wastes/).
 
 [Six Seas' Seeds](/wiki/six-seas'-seeds/) sells a cologne that is appealing to ghouls.
 
-In [11.28](/wiki/11-28/) lairs a band of ghouls whose leader is too fat to walk but is a skilled [illusionist](/wiki/illusionist/). He will assign members of his band as guides if travellers pay thrice their weight in corpses.
+In [11.28](/wiki/11-28/) lairs a band of ghouls whose leader is too fat to walk but is a skilled [illusionist](/wiki/illusionists/). He will assign members of his band as guides if travellers pay thrice their weight in corpses.
 
 The [Ghoul in the Gilded Cage](/wiki/ghoul-in-the-gilded-cage/) is hung in a cage in [Jahur](/wiki/jahur/) because it is wrongly identified as [Helin il-Helan](/wiki/helin-il-helan/):
 

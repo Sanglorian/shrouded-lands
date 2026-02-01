@@ -218,7 +218,7 @@ This index does not state whether a hex is relevant because a single one of the 
 
 * Child, The, see Earth-children
 
-* [Chimeras](/wiki/chimeras/) (The Chimera of the Suitor’s Tower)
+* [Chimeras](/wiki/chimera/) (The Chimera of the Suitor’s Tower)
 
 * [Chimerics](/wiki/chimerics/), see Minotaurs, Manticores, Mermaids, Owlbears, Gryphons, Goatscorpions, Chimeras, Manscorpions, etc.
 * [Cloakers](/wiki/cloakers/) ([26.20](/wiki/26-20/))

@@ -22,7 +22,7 @@ Now he commands the [gargoyles](/wiki/gargoyles/) of the walls and the [otyugh](
 
 Lars has, however, struck up a strange friendship with several castrati members of the [Necromantic Office](/wiki/necromantic-office/) and this alliance has helped keep Iraine safe from the wrath of the [Temple Indivisible](/wiki/temple-indivisible/).
 ### Hooks:
-* Any other interesting [chimeras](/wiki/chimeras/) about?
+* Any other interesting [chimeras](/wiki/chimera/) about?
 * Why would an attempt to create "Alberon in human form" involve su-giraffe legs, tentacles on the back and "much more besides?"
 * What was Iraine purpose in creating Lars?
 * What kind of gargoyles are they? Are they [ivory ones](/wiki/ivory-gargoyles/)? Why is there an otyugh in the basement? What are the curses in the ceilings?

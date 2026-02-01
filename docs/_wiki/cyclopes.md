@@ -14,7 +14,7 @@ media: []
  * Monatheron had engines of wonder that are slowing and failing, powered by thousands of windmills on each tower. 
  * Humans in the castle serve the one-eyed lords, just as their mother or father did before them.
  * One of the primary concerns of the lords of Monatheron is outdoing each other in fashion. It is forbidden for any of their race to wear dead things and, as the fashion changes from year to year cloaks of mewling cats, tunics of caged birds and much more can be seen in the castle's halls.
-* [Thorek Ironhide](/wiki/thorek-ironhide/) is served by an exiled cyclops [assassin](/wiki/assassin/) who used his knowledge of secrets forgotten by the younger races to kill elder bears in the Winterjarl's way.
+* [Thorek Ironhide](/wiki/thorek-ironhide/) is served by an exiled cyclops [assassin](/wiki/assassins/) who used his knowledge of secrets forgotten by the younger races to kill elder bears in the Winterjarl's way.
 
 
 
