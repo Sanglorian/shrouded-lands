@@ -57,7 +57,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/38.27.md` | `/wiki/vultures/` | missing file /workspace/shrouded-lands/docs/_wiki/vultures |  |
 | `_wiki/16.05.md` | `/wiki/fight-night/` | missing file /workspace/shrouded-lands/docs/_wiki/fight-night |  |
 | `_wiki/winged-cats.md` | `/wiki/tristifer-bartley/` | missing file /workspace/shrouded-lands/docs/_wiki/tristifer-bartley |  |
-| `_wiki/halflings.md` | `/wiki/halflingscloud-halflings/` | missing file /workspace/shrouded-lands/docs/_wiki/halflingscloud-halflings |  |
 | `_wiki/jarmond-of-the-knife.md` | `/wiki/43-01/` | missing file /workspace/shrouded-lands/docs/_wiki/43.01 |  |
 | `_wiki/jarmond-of-the-knife.md` | `/wiki/nine-immortals/` | missing file /workspace/shrouded-lands/docs/_wiki/nine-immortals |  |
 | `_wiki/jarmond-of-the-knife.md` | `/wiki/master-var/` | missing file /workspace/shrouded-lands/docs/_wiki/master-var |  |
@@ -185,7 +184,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/41.24.md` | `/wiki/ungolath/` | missing file /workspace/shrouded-lands/docs/_wiki/ungolath |  |
 | `_wiki/pirate-kings.md` | `/wiki/39-23/` | missing file /workspace/shrouded-lands/docs/_wiki/39.23 |  |
 | `_wiki/pirate-kings.md` | `/wiki/islands-of-bitter-regret/` | missing file /workspace/shrouded-lands/docs/_wiki/islands-of-bitter-regret |  |
-| `_wiki/singing-wastes.md` | `/wiki/abbalah-doon/` | missing file /workspace/shrouded-lands/docs/_wiki/abbalah-doon |  |
 | `_wiki/singing-wastes.md` | `/wiki/categorythe-tantalus-mountains/` | missing file /workspace/shrouded-lands/docs/_wiki/categorythe-tantalus-mountains |  |
 | `_wiki/singing-wastes.md` | `/wiki/scent-barrier/` | missing file /workspace/shrouded-lands/docs/_wiki/scent-barrier |  |
 | `_wiki/knights.md` | `/wiki/celadon/` | missing file /workspace/shrouded-lands/docs/_wiki/celadon |  |
@@ -211,7 +209,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/tarengael-town.md` | `/wiki/the-river-of-crystal-waters/` | missing file /workspace/shrouded-lands/docs/_wiki/the-river-of-crystal-waters |  |
 | `_wiki/whispering-sisters.md` | `/wiki/night-cattle/` | missing file /workspace/shrouded-lands/docs/_wiki/night-cattle |  |
 | `_wiki/whispering-sisters.md` | `/wiki/brotherhood-of-the-spear/` | missing file /workspace/shrouded-lands/docs/_wiki/brotherhood-of-the-spear |  |
-| `_wiki/whispering-sisters.md` | `/wiki/dead-mens-tongues/` | missing file /workspace/shrouded-lands/docs/_wiki/dead-mens-tongues |  |
 | `_wiki/shadow-ballet.md` | `/wiki/rosetta/` | missing file /workspace/shrouded-lands/docs/_wiki/rosetta |  |
 | `_wiki/no-place.md` | `/wiki/windows-shuttered/` | missing file /workspace/shrouded-lands/docs/_wiki/windows-shuttered |  |
 | `_wiki/no-place.md` | `/wiki/voidsailors/` | missing file /workspace/shrouded-lands/docs/_wiki/voidsailors |  |
@@ -281,7 +278,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/13.09.md` | `/wiki/barnabus-bludenoss/` | missing file /workspace/shrouded-lands/docs/_wiki/barnabus-bludenoss |  |
 | `_wiki/13.09.md` | `/wiki/were-men/` | missing file /workspace/shrouded-lands/docs/_wiki/were-men |  |
 | `_wiki/13.09.md` | `/wiki/mellified-mummies/` | missing file /workspace/shrouded-lands/docs/_wiki/mellified-mummies |  |
-| `_wiki/04.02.md` | `/wiki/drinkers-stein/` | missing file /workspace/shrouded-lands/docs/_wiki/drinkers-stein |  |
 | `_wiki/lion's-day.md` | `/wiki/loris-stannev/` | missing file /workspace/shrouded-lands/docs/_wiki/loris-stannev |  |
 | `_wiki/death's-lovelies.md` | `/wiki/the-hog/` | missing file /workspace/shrouded-lands/docs/_wiki/the-hog |  |
 | `_wiki/death's-lovelies.md` | `/wiki/the-lady-and-the-codfish/` | missing file /workspace/shrouded-lands/docs/_wiki/the-lady-and-the-codfish |  |
@@ -641,7 +637,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/king-in-splendor.md` | `/wiki/29-03/` | missing file /workspace/shrouded-lands/docs/_wiki/29.03 |  |
 | `_wiki/king-in-splendor.md` | `/wiki/threefold-rite/` | missing file /workspace/shrouded-lands/docs/_wiki/threefold-rite |  |
 | `_wiki/king-in-splendor.md` | `/wiki/nikos-farver/` | missing file /workspace/shrouded-lands/docs/_wiki/nikos-farver |  |
-| `_wiki/king-in-splendor.md` | `/wiki/lions-day/` | missing file /workspace/shrouded-lands/docs/_wiki/lions-day |  |
 | `_wiki/king-in-splendor.md` | `/wiki/lion-priests/` | missing file /workspace/shrouded-lands/docs/_wiki/lion-priests |  |
 | `_wiki/king-in-splendor.md` | `/wiki/teodo/` | missing file /workspace/shrouded-lands/docs/_wiki/teodo |  |
 | `_wiki/48.18.md` | `/wiki/cattle-barons-sosaria/` | missing file /workspace/shrouded-lands/docs/_wiki/cattle-barons-sosaria |  |
@@ -654,8 +649,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/08.12.md` | `/wiki/chyndonax/` | missing file /workspace/shrouded-lands/docs/_wiki/chyndonax |  |
 | `_wiki/08.12.md` | `/wiki/the-fearless/` | missing file /workspace/shrouded-lands/docs/_wiki/the-fearless |  |
 | `_wiki/08.12.md` | `/wiki/the-grumbers/` | missing file /workspace/shrouded-lands/docs/_wiki/the-grumbers |  |
-| `_wiki/08.12.md` | `/wiki/halflingscloud-halflings/` | missing file /workspace/shrouded-lands/docs/_wiki/halflingscloud-halflings |  |
-| `_wiki/08.12.md` | `/wiki/halflingscloud-halflings/` | missing file /workspace/shrouded-lands/docs/_wiki/halflingscloud-halflings |  |
 | `_wiki/medusa.md` | `/wiki/tower-savage/` | missing file /workspace/shrouded-lands/docs/_wiki/tower-savage |  |
 | `_wiki/were-barnabi.md` | `/wiki/barnabus-bludenoss/` | missing file /workspace/shrouded-lands/docs/_wiki/barnabus-bludenoss |  |
 | `_wiki/were-barnabi.md` | `/wiki/dormond-of-the-crooked-oak/` | missing file /workspace/shrouded-lands/docs/_wiki/dormond-of-the-crooked-oak |  |
@@ -935,7 +928,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/seven-wonders-of-the-world.md` | `/wiki/temple-of-elemental-good/` | missing file /workspace/shrouded-lands/docs/_wiki/temple-of-elemental-good |  |
 | `_wiki/seven-wonders-of-the-world.md` | `/wiki/mausoleum-of-khaldi/` | missing file /workspace/shrouded-lands/docs/_wiki/mausoleum-of-khaldi |  |
 | `_wiki/seven-wonders-of-the-world.md` | `/wiki/zamorqy/` | missing file /workspace/shrouded-lands/docs/_wiki/zamorqy |  |
-| `_wiki/03.07.md` | `/wiki/spanspan-langen-us-stylefont-size90ptfont-familycenturygothicsans-serif-mso-fareast-font-familytimesnewromanmso-bidi-font-familytimesnewroman-colorblackmso-themecolortext1father-dorek/` | missing file /workspace/shrouded-lands/docs/_wiki/spanspan-langen-us-stylefont-size90ptfont-familycenturygothicsans-serif-mso-fareast-font-familytimesnewromanmso-bidi-font-familytimesnewroman-colorblackmso-themecolortext1father-dorek |  |
 | `_wiki/the-trunk.md` | `/wiki/cattle-barosn-sosaria/` | missing file /workspace/shrouded-lands/docs/_wiki/cattle-barosn-sosaria |  |
 | `_wiki/26.19.md` | `/media/Placeholder` | missing file /workspace/shrouded-lands/docs/media/Placeholder |  |
 | `_wiki/11.16.md` | `/wiki/perudien/` | missing file /workspace/shrouded-lands/docs/_wiki/perudien |  |
@@ -974,7 +966,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/butchers.md` | `/wiki/trunk/` | missing file /workspace/shrouded-lands/docs/_wiki/trunk |  |
 | `_wiki/butchers.md` | `/wiki/cattle-barons-sosaria/` | missing file /workspace/shrouded-lands/docs/_wiki/cattle-barons-sosaria |  |
 | `_wiki/butchers.md` | `/wiki/butcher-birds/` | missing file /workspace/shrouded-lands/docs/_wiki/butcher-birds |  |
-| `_wiki/13.17.md` | `/wiki/drinkers-stein/` | missing file /workspace/shrouded-lands/docs/_wiki/drinkers-stein |  |
 | `_wiki/12.22.md` | `/wiki/martin-of-wenstoke/` | missing file /workspace/shrouded-lands/docs/_wiki/martin-of-wenstoke |  |
 | `_wiki/jackalweres.md` | `/wiki/jackals/` | missing file /workspace/shrouded-lands/docs/_wiki/jackals |  |
 | `_wiki/jackalweres.md` | `/wiki/great-mother/` | missing file /workspace/shrouded-lands/docs/_wiki/great-mother |  |
@@ -988,7 +979,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/tigers.md` | `/wiki/giant-serpents/` | missing file /workspace/shrouded-lands/docs/_wiki/giant-serpents |  |
 | `_wiki/tigers.md` | `/wiki/hearth-beasts/` | missing file /workspace/shrouded-lands/docs/_wiki/hearth-beasts |  |
 | `_wiki/tigers.md` | `/wiki/displacer-leopards/` | missing file /workspace/shrouded-lands/docs/_wiki/displacer-leopards |  |
-| `_wiki/tigers.md` | `/wiki/devils-fingers/` | missing file /workspace/shrouded-lands/docs/_wiki/devils-fingers |  |
 | `_wiki/languages.md` | `/wiki/cantrips/` | missing file /workspace/shrouded-lands/docs/_wiki/cantrips |  |
 | `_wiki/languages.md` | `/wiki/thousand-spells-and-one/` | missing file /workspace/shrouded-lands/docs/_wiki/thousand-spells-and-one |  |
 | `_wiki/19.01.md` | `/wiki/merlinburrows/` | missing file /workspace/shrouded-lands/docs/_wiki/merlinburrows |  |
@@ -1009,14 +999,12 @@ This report only checks local (non-HTTP) links.
 | `_wiki/grey-comedy.md` | `/wiki/bella/` | missing file /workspace/shrouded-lands/docs/_wiki/bella |  |
 | `_wiki/grey-comedy.md` | `/wiki/rosetta/` | missing file /workspace/shrouded-lands/docs/_wiki/rosetta |  |
 | `_wiki/grey-comedy.md` | `/wiki/sack-man/` | missing file /workspace/shrouded-lands/docs/_wiki/sack-man |  |
-| `_wiki/phenomena.md` | `/wiki/lions-day/` | missing file /workspace/shrouded-lands/docs/_wiki/lions-day |  |
 | `_wiki/umberstone.md` | `/media/Placeholder` | missing file /workspace/shrouded-lands/docs/media/Placeholder |  |
 | `_wiki/sexuality-and-sexual-identity.md` | `/wiki/lady-anghart/` | missing file /workspace/shrouded-lands/docs/_wiki/lady-anghart |  |
 | `_wiki/06.10.md` | `/wiki/snake-demon/` | missing file /workspace/shrouded-lands/docs/_wiki/snake-demon |  |
 | `_wiki/06.10.md` | `/wiki/shep/` | missing file /workspace/shrouded-lands/docs/_wiki/shep |  |
 | `_wiki/06.10.md` | `/wiki/maris/` | missing file /workspace/shrouded-lands/docs/_wiki/maris |  |
 | `_wiki/06.10.md` | `/wiki/ilace/` | missing file /workspace/shrouded-lands/docs/_wiki/ilace |  |
-| `_wiki/06.10.md` | `/wiki/traitors-pit/` | missing file /workspace/shrouded-lands/docs/_wiki/traitors-pit |  |
 | `_wiki/temple-of-the-labyrinth.md` | `/wiki/gnomish-quarter/` | missing file /workspace/shrouded-lands/docs/_wiki/gnomish-quarter |  |
 | `_wiki/temple-of-the-labyrinth.md` | `/wiki/naga-oil/` | missing file /workspace/shrouded-lands/docs/_wiki/naga-oil |  |
 | `_wiki/temple-of-the-labyrinth.md` | `/wiki/steeple-of-alberon/` | missing file /workspace/shrouded-lands/docs/_wiki/steeple-of-alberon |  |
@@ -1031,7 +1019,6 @@ This report only checks local (non-HTTP) links.
 | `_wiki/sack-children.md` | `/wiki/lord-alevari/` | missing file /workspace/shrouded-lands/docs/_wiki/lord-alevari |  |
 | `_wiki/15.04.md` | `/wiki/last-skirmish/` | missing file /workspace/shrouded-lands/docs/_wiki/last-skirmish |  |
 | `_wiki/29.14.md` | `/wiki/strange-roads/` | missing file /workspace/shrouded-lands/docs/_wiki/strange-roads |  |
-| `_wiki/29.14.md` | `/wiki/six-seas-seeds/` | missing file /workspace/shrouded-lands/docs/_wiki/six-seas-seeds |  |
 | `_wiki/13.08.md` | `/wiki/captain-keith/` | missing file /workspace/shrouded-lands/docs/_wiki/captain-keith |  |
 | `_wiki/13.08.md` | `/wiki/gilad-the-unavoidable/` | missing file /workspace/shrouded-lands/docs/_wiki/gilad-the-unavoidable |  |
 | `_wiki/13.08.md` | `/wiki/diadem-of-the-third-eye/` | missing file /workspace/shrouded-lands/docs/_wiki/diadem-of-the-third-eye |  |

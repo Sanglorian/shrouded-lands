@@ -26,7 +26,7 @@ Due to the failure of the Sisterhood's many enemies to root them out, some say t
 * The Drowning Place ([32.22](/wiki/32-22/)) is a stronghold of the Whispering Sisters.
 * The [Temple Invisible](/wiki/temple-invisible/) ([25.15](/wiki/25-15/)) is attempting to hunt down the Whipering Sisters with little success.
 * The Sisters abduced [Pork Pie Stannev](/wiki/pork-pie-stannev/), the former owner of the Sundial Inn and a worshiper of the [King in Splendor](/wiki/king-in-splendor/), some years past ([25.04](/wiki/25-04/).01).
-* The sisters once used [dead men's tongues](/wiki/dead-mens-tongues/) in their ritual human sacrifices, but no longer.
+* The sisters once used [dead men's tongues](/wiki/dead-men's-tongues/) in their ritual human sacrifices, but no longer.
 * Iraine the Suitor plans to become the third wife of Alberon ([29.14.40](/wiki/29-14/)).
 * The sisters use the [Whispered Caress](/wiki/whispered-caress/)
 

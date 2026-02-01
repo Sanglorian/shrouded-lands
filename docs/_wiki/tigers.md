@@ -24,7 +24,7 @@ So unnatural is it for a tiger to be prey and not predator that the tiger lays a
 
 Which curse depends on the breed of tiger. The white tigers of the [Imperium](/wiki/imperium-undying/) - with stripes of red that darken after their first taste of sentient flesh - lay the curse of ash so that all food that their slayer eats has the consistency and taste of ash. The black tigers that were found stalking the ruins of [Bergolast](/wiki/bergolast/) - perhaps escapees from an ill-fated menagerie - curse their killers to speak only in a voice just quiet enough that their words cannot be made out.![Franz Marc. A stripeless tiger of Zhuriman.](/media/Marc_-_Der_Tiger.jpg)
 
-I could tell you of the stripeless tigers of [Zhuriman](/wiki/zhuriman/) or the three-headed tigers of [Serpantia](/wiki/serpantia/). In [the Devil's Fingers](/wiki/devils-fingers/), [lion prides](/wiki/lions/) make war with a green-furred, grizzled tiger. Some say even the humble [Gorean Grey](/wiki/gorean-greys/) lays a curse upon its death.
+I could tell you of the stripeless tigers of [Zhuriman](/wiki/zhuriman/) or the three-headed tigers of [Serpantia](/wiki/serpantia/). In [the Devil's Fingers](/wiki/devil's-fingers/), [lion prides](/wiki/lions/) make war with a green-furred, grizzled tiger. Some say even the humble [Gorean Grey](/wiki/gorean-greys/) lays a curse upon its death.
 
 But rarest of all are the orange-red tigers with black stripes. When a person slays one of these tigers, their shadow disappears. Over the next week, their shadow - in the form of a dark tiger - stalks them. Some time on the eighth day, it attacks. Either the hunter slays the shadow or the shadow the hunter.
 
