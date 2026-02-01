@@ -18,7 +18,7 @@ media: []
 * [Severard](/wiki/severard/) had a spell, *Severard's piquant premonition*, which let a chef learn the reaction to his or her meals
 * Abdul Zassiz' meals provide flavour and nutrition - the flavour comes from illusions, the nutrition from food that most people would prefer not to eat ([05.04](/wiki/05-04/).
 * Keith's southern Fried Entrails (KFC) serves tripe cooked on magical stones using the Jahuri style - made of the entrails of those trapped by a giant spider ([15.07](/wiki/15-07/))
-* The [King in Splendour](/wiki/king-in-splendor/) is tempted by - among other things - food and drink as he passes through the underworld each night, according to the [Testament of Wenneslas Stannev](/wiki/testament-of-wenneslas-stannev/)
+* The [King in Splendour](/wiki/king-in-splendor/) is tempted by - among other things - food and drink as he passes through the underworld each night, according to the [Testament of Wenneslas Stannev](/wiki/testament-of-weneslas-stannev/)
 * Someone who kills a white tiger of the Imperium (see [tigers](/wiki/tigers/)) has all food he or she eats develop the taste and consistency of ash.
 * Citizens of Shuttered eat ostrich and cattle meat, but mostly crops grown in the Gardens of the Sea ([29.15](/wiki/29-15/))
 * Food cooked in the cauldron of Galovain is tripled in mass, one of several effects of the magic item (see [Golden Light](/wiki/golden-light/))

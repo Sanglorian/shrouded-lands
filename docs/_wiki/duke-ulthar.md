@@ -18,7 +18,7 @@ media: []
 
 Founder of the [Duchy of Thring](/wiki/duchy-of-thring/). Builder of Castle Tarengael ([16.16](/wiki/16-16/)).
 
-The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [Green Lady](/wiki/green-lady/)’s shawl from the [Steeple of Alberon](/wiki/steeple-of-alberon/) itself ([29.14](/wiki/29-14/).14). On his return journey, while sleeping beneath an oak tree, [The Green Lady](/wiki/green-lady/) appeared between the eye and the lid and dictated the [Seven Laws of Thring](/wiki/laws-of-thring/) that guide the Duchy to this day.
+The bards tell many stories of Ulthar the Loved, but none more often than the one of how Ulthar reclaimed the [Green Lady](/wiki/green-lady/)’s shawl from the [Steeple of Alberon](/wiki/temple-of-alberon/) itself ([29.14](/wiki/29-14/).14). On his return journey, while sleeping beneath an oak tree, [The Green Lady](/wiki/green-lady/) appeared between the eye and the lid and dictated the [Seven Laws of Thring](/wiki/laws-of-thring/) that guide the Duchy to this day.
 ### Information
 * He and his son are buried in the Sepulchre of the Sword ([15.15](/wiki/15-15/)).
 * Because of his 'strange predilections', he founded the Battle of the Hand ([16.16](/wiki/16-16/)).

@@ -18,7 +18,7 @@ The **Matriarch** is the head of the Temple Indivisible and the bride of [Albero
 
 ## Details
 * The contract that allows the [Temple of the Labyrinth](/wiki/temple-of-the-labyrinth/) to remain in the city was signed by the First Matriarch
-* The personal chambers of the Matriarch are in the [Steeple of Alberon](/wiki/steeple-of-alberon/), below the [Sealed Library](/wiki/sealed-library/).
+* The personal chambers of the Matriarch are in the [Steeple of Alberon](/wiki/temple-of-alberon/), below the [Sealed Library](/wiki/sealed-library/).
 * The High Priestess of the Labyrinth is an Elector, making her the equal of the Matriarch or the head of any [Great Family](/wiki/great-family/).
 * The Knights of the [Canes Sanguis](/wiki/canes-sanguis/) guard the Steeple of Alberon and the Matriarch. They answer only to their Grand Master, who is beholden to and appointed by the Matriarch and serves at her pleasure.
 * The Matriarch appears in [With Morning Comes Mistfall](/wiki/with-morning-comes-mistfall/), where she says that it rains but once a year to remind all of the bounty of the freshwater [Keening Sea](/wiki/keening-sea/).

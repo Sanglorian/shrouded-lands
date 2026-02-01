@@ -19,6 +19,6 @@ media: []
 
 * [Grimkjel Koldranson](/wiki/grimkjel-koldranson/) leads a band of mercenary [gnolls](/wiki/gnolls/) that the people of Northburn Holding ([22.03](/wiki/22-03/)) are considering hiring
 
-* [Tamilda Koldransdotter](/wiki/tamilda-koldransdotter/) is [Azurnay](/wiki/azurnay/)'s best vermin wrangler
+* [Tamilda Koldransdotter](/wiki/tamilda-kondransdotter/) is [Azurnay](/wiki/azurnay/)'s best vermin wrangler
 
 

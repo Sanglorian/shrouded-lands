@@ -19,7 +19,7 @@ media: []
 * Statues resembling the Green Lady and other gods are found in the Inverted Temple ([20.20](/wiki/20-20/))
 * When [Princess Elandra](/wiki/princess-elandra/) was born the Green Lady gave her a gift - she cries nothing but gems.
 * Expectant mothers pray for hair colours other than red, as [copperhair](/wiki/copperhairs/) children were sometimes kidnapped by the elves and taken upon the Orphans' March ([27.09](/wiki/27-09/))
-* [Ulthar the Loved](/wiki/ulthar-the-loved/) retrieved the shawl of the Green Lady from the [Steeple of Alberon](/wiki/steeple-of-alberon/) ([29.14](/wiki/29-14/)). On his return journey, while sleeping under an [oak](/wiki/oaks/) tree, the Green Lady appeared between the eye and the lid and dictated the [Seven Laws of Thring](/wiki/laws-of-thring/)
+* [Ulthar the Loved](/wiki/ulthar-the-loved/) retrieved the shawl of the Green Lady from the [Steeple of Alberon](/wiki/temple-of-alberon/) ([29.14](/wiki/29-14/)). On his return journey, while sleeping under an [oak](/wiki/oaks/) tree, the Green Lady appeared between the eye and the lid and dictated the [Seven Laws of Thring](/wiki/laws-of-thring/)
 
 ## Mythography
 * The Green Lady is said to be the mother of the [elves](/wiki/elves/). Though [hawthorn](/wiki/hawthorn/) is either anathema to or bewitching to elves, the Lady's human followers often depict her with a wreath of hawthorn leaves.

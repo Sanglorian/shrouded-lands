@@ -26,7 +26,7 @@ media: []
 * Drinker of Iron (Monks of the Drinker of Iron)
 * Empty God, The (see Dead Tiamat)
 * First God, The
-* [God of the Jar](/wiki/god-of-the-jar/) (Shamans of the God of the Jar)
+* [God of the Jar](/wiki/god-in-the-jar/) (Shamans of the God of the Jar)
 * [Grahakzahak](/wiki/grahakzahak/) (Prophet of Grahakzahak)
 * [Gruumsch](/wiki/gruumsch/), chief of the lords of the underworld (Orc Quartermasters)
 * [Green Lady](/wiki/green-lady/) (Paladins; Abbott of St Dulaine)

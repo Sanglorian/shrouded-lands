@@ -37,7 +37,7 @@ The last High King, Turien, lived in Castle Tarengael ([16.16](/wiki/16-16/)) as
 The jester seems to have a connection to the Questing Beast, as he seemingly directed Lady Natala to its location.
 
 ## Hunting the Tarrasque, its blood and the sangreal
-The Tarrasque tore down [Bergolast](/wiki/bergolast/) and left footprints the size of villages, yet is elusive to [the Duke of Thring](/wiki/the-duke-of-thring-incumbent/). The explanation is that to one filled with fear the Tarrasque will loom upwards to the sky but to one wholly without fear the Tarrasque is the size of a small but vicious dog.
+The Tarrasque tore down [Bergolast](/wiki/bergolast/) and left footprints the size of villages, yet is elusive to [the Duke of Thring](/wiki/duke-of-thring-incumbent/). The explanation is that to one filled with fear the Tarrasque will loom upwards to the sky but to one wholly without fear the Tarrasque is the size of a small but vicious dog.
 
 The Tarrasque is not as other beasts nor is its blood like other blood, as the [Lords Sanguine](/wiki/lords-sanguine/) have learned. The first drink that passes their children's lips is Tarrasque blood that is dripped from the tip of a sword and the great among them drink nothing but the blood of the beast, even brewing a thin sour wine from it and shrink with terror from fresh water. This blood can most easily be extracted by those so brave that they have little to fear from the Tarrasque and those so cowardly that they can fill barrels of blood from it while it sleeps without it noticing such small pin pricks.
 

@@ -28,7 +28,7 @@ Werewolves suffer from the worst type of lychanthropy. While other were-creature
 * [Were-Barnabi](/wiki/were-barnabi/)
 * [Armand of the Axe](/wiki/armand-of-the-axe/) is a were-spider monkey.
 * [Wererats](/wiki/wererats/)
-* The [Lochgates](/wiki/lochgates/) are a clan of [werebears](/wiki/werebears/).
+* The [Lochgates](/wiki/lochgates/) are a clan of [werebears](/wiki/were-bears/).
   * [Sweitbor the Roarer](/wiki/sweitbor-the-roarer/), a duke of Thring, may have been a werebear.
 
 

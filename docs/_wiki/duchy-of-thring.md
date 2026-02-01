@@ -46,7 +46,7 @@ It is said that some individual knights have their own forms of transport. The S
 ## History
 The Lords Sanguine launched a coup against Turien, the last [High King of Gore](/wiki/royal-family-of-gore/). Turien, still in motley, begged the vassal kings of Thring for help winning back his throne. They were busy fighting the Lords Sanguine and one another, and neither they nor [The Verlimes](/wiki/verlimes/) heeded him.
 
-[Ulthar](/wiki/ducal-family-of-thring/) proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [The River of Crystal Waters](/wiki/the-river-of-crystal-waters/). He forced the petty kings of Thring (each with an [earth whisperer](/wiki/earth-whisperers/) companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [The Pacharia](/wiki/pacharia/).
+[Ulthar](/wiki/ducal-family-of-thring/) proclaimed the Duchy of Thring after he took advantage of the fall of the High King to conquer the banks of [The River of Crystal Waters](/wiki/river-of-crystal-waters/). He forced the petty kings of Thring (each with an [earth whisperer](/wiki/earth-whisperers/) companion) to replace their crowns with lead diadems. This also seems to signal the end of the old religion of Thring, which involved worship of [The Pacharia](/wiki/pacharia/).
 
 Turien, now known as the King of Fools, lived out his days in Castle Tarengael ([16.16](/wiki/16-16/)) as has the rest of his line.
 ## Organisations

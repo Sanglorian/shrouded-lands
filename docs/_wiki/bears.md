@@ -13,7 +13,7 @@ categories:
 media: []
 ---
 ## Types
-* The [Lochgates](/wiki/lochgates/) are a clan of [werebears](/wiki/werebears/).
+* The [Lochgates](/wiki/lochgates/) are a clan of [werebears](/wiki/were-bears/).
 * The [nordanbjorn](/wiki/nordanbjorn/) are talking bears, ruled by the [bjornajarl](/wiki/bjornajarl/) [Thorek Ironhide](/wiki/thorek-ironhide/). Their homeland is the [Marche of the Winterjarl](/wiki/marche-of-the-winterjarl/).
 * [Drop bears](/wiki/drop-bears/)
 * The knights of Castle Karandur ([13.17](/wiki/13-17/)) ride bears. The Lady of Karandur traces her line back to a bear who asked the Pacharia to be transformed into a human woman. She displays a bearskin above her hearth which she claims was her ancestor's first skin.

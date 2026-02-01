@@ -15,7 +15,7 @@ media: []
 
 The chimerics were forced to find a route through the world to reach the City. During that time of war, Blackhorn's Maze ([39.32](/wiki/39-32/)) was constructed as an outpost along the route. And -- if the minotaur version of the story is believed -- to house one of the five skulls of Tiamat.
 
-In time, the Chimalia came to an accord with Alberon, and the siege was lifted. One of the few consequences of this treaty known to mortal man is written on a contract between the first [Matriarch](/wiki/matriarch/) of the City and the [High Priestess of the Labyrinth](/wiki/high-priestess-of-the-labyrinth/) - promising that the [Temple of Labyrinth](/wiki/temple-of-labyrinth/) will always have a place in the City of Shuttered Windows. These days, the contract is kept safely hidden away; most members of even the priesthood are unaware of it.
+In time, the Chimalia came to an accord with Alberon, and the siege was lifted. One of the few consequences of this treaty known to mortal man is written on a contract between the first [Matriarch](/wiki/matriarch/) of the City and the [High Priestess of the Labyrinth](/wiki/high-priestess-of-the-labyrinth/) - promising that the [Temple of Labyrinth](/wiki/temple-of-the-labyrinth/) will always have a place in the City of Shuttered Windows. These days, the contract is kept safely hidden away; most members of even the priesthood are unaware of it.
 
 The City was changed greatly by the siege and the many curses thrown down by Chimalia. The windows would never open again. The ground would ever swallow it from below. But Alberon is a proud god, the Matriarchs have preached for generations. Though his great city is diminished from the original design, he refuses to allow it to sink into nothing.
 
